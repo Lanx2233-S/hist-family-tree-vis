@@ -1,0 +1,3467 @@
+[
+  {
+    "id": "11A260814K001",
+    "firstName": "William",
+    "lastName": "Normandy",
+    "displayName": "William I",
+    "fullName": "William the Conqueror",
+    "nickname": "the Conqueror",
+    "alsoKnownAs": [
+      "William the Bastard"
+    ],
+    "nicknameTags": [
+      "bastard",
+      "conqueror"
+    ],
+    "birthYear": 1028,
+    "deathYear": 1087,
+    "birthPlace": "Falaise, Duchy of Normandy",
+    "deathPlace": "Rouen, Duchy of Normandy",
+    "gender": "male",
+    "dynasty": "House of Normandy",
+    "house": "House of Normandy",
+    "culture": "Norman",
+    "faith": "Catholic",
+    "primaryTitle": "King of England",
+    "titles": [
+      {
+        "title": "Duke of Normandy",
+        "startYear": 1035,
+        "endYear": 1087
+      },
+      {
+        "title": "King of England",
+        "startYear": 1066,
+        "endYear": 1087
+      }
+    ],
+    "tags": [
+      "monarch",
+      "commander",
+      "duke",
+      "conqueror"
+    ],
+    "rank": "king",
+    "importanceScore": 95,
+    "relationships": {
+      "fatherId": "10R260814B002",
+      "motherId": "",
+      "spouseIds": [
+        "11M260814F003"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "11C260814N004",
+        "11W260814R005",
+        "11H260814L006"
+      ]
+    },
+    "events": [
+      {
+        "year": 1035,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "duke"
+        ],
+        "weight": 72,
+        "label": "Became Duke of Normandy",
+        "wikiUrl": "https://en.wikipedia.org/wiki/William_the_Conqueror",
+        "month": 7
+      },
+      {
+        "year": 1051,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 78,
+        "label": "Marriage to Matilda of Flanders",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Matilda_of_Flanders",
+        "month": 8
+      },
+      {
+        "year": 1066,
+        "month": 10,
+        "day": 14,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "commander",
+          "conquest"
+        ],
+        "weight": 100,
+        "label": "Battle of Hastings",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Hastings"
+      },
+      {
+        "year": 1066,
+        "month": 12,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "king"
+        ],
+        "weight": 98,
+        "label": "Became King of England",
+        "wikiUrl": "https://en.wikipedia.org/wiki/William_the_Conqueror",
+        "note": "Berkhamsted submission / crown offered."
+      },
+      {
+        "year": 1066,
+        "month": 12,
+        "day": 25,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "king"
+        ],
+        "weight": 92,
+        "label": "Coronation as King of England",
+        "wikiUrl": "https://en.wikipedia.org/wiki/William_the_Conqueror"
+      },
+      {
+        "year": 1069,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "pacification"
+        ],
+        "weight": 88,
+        "label": "Harrying of the North",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Harrying_of_the_North"
+      },
+      {
+        "year": 1086,
+        "type": "government",
+        "tags": [
+          "government"
+        ],
+        "weight": 84,
+        "label": "Domesday Book completed",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Domesday_Book"
+      },
+      {
+        "year": 1087,
+        "month": 9,
+        "day": 9,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Death of William the Conqueror",
+        "wikiUrl": "https://en.wikipedia.org/wiki/William_the_Conqueror",
+        "note": "Died at Rouen after injuries and illness following the Mantes campaign."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/William_the_Conqueror",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/William_the_Conqueror",
+    "sourceNote": "",
+    "notes": "Central figure for the Norman conquest family tree MVP. Birth year is approximate.",
+    "createdDate": "260814",
+    "createdOrder": 1,
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died from illness and injuries after campaign",
+      "detail": "William died at Rouen in 1087 after becoming seriously ill following the Mantes campaign. His death is usually treated as campaign-related illness or injury rather than assassination.",
+      "wikiUrl": "https://en.wikipedia.org/wiki/William_the_Conqueror"
+    }
+  },
+  {
+    "id": "10R260814B002",
+    "firstName": "Robert",
+    "lastName": "Normandy",
+    "displayName": "Robert I",
+    "fullName": "Robert I, Duke of Normandy",
+    "nickname": "the Magnificent",
+    "alsoKnownAs": [
+      "Robert the Devil"
+    ],
+    "nicknameTags": [
+      "magnificent"
+    ],
+    "birthYear": 1000,
+    "deathYear": 1035,
+    "birthPlace": "Normandy",
+    "deathPlace": "Nicaea, Byzantine Empire",
+    "gender": "male",
+    "dynasty": "House of Normandy",
+    "house": "House of Normandy",
+    "culture": "Norman",
+    "faith": "Catholic",
+    "primaryTitle": "Duke of Normandy",
+    "titles": [
+      {
+        "title": "Duke of Normandy",
+        "startYear": 1027,
+        "endYear": 1035
+      }
+    ],
+    "tags": [
+      "duke",
+      "noble"
+    ],
+    "rank": "duke",
+    "importanceScore": 78,
+    "relationships": {
+      "fatherId": "10D260814R007",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "11A260814K001"
+      ]
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Robert_I,_Duke_of_Normandy",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Robert_I,_Duke_of_Normandy",
+    "sourceNote": "",
+    "notes": "Father of William the Conqueror. Birth year is approximate.",
+    "createdDate": "260814",
+    "createdOrder": 2
+  },
+  {
+    "id": "11M260814F003",
+    "firstName": "Matilda",
+    "lastName": "Flanders",
+    "displayName": "Matilda of Flanders",
+    "fullName": "Matilda of Flanders, Queen of England",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1031,
+    "deathYear": 1083,
+    "birthPlace": "Flanders",
+    "deathPlace": "Caen, Duchy of Normandy",
+    "gender": "female",
+    "dynasty": "House of Flanders",
+    "house": "House of Flanders",
+    "culture": "Flemish",
+    "faith": "Catholic",
+    "primaryTitle": "Queen of England",
+    "titles": [
+      {
+        "title": "Duchess of Normandy",
+        "startYear": 1051,
+        "endYear": 1083
+      },
+      {
+        "title": "Queen of England",
+        "startYear": 1068,
+        "endYear": 1083
+      }
+    ],
+    "tags": [
+      "queen",
+      "duchess",
+      "consort"
+    ],
+    "rank": "queen",
+    "importanceScore": 82,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "11A260814K001"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "11C260814N004",
+        "11W260814R005",
+        "11H260814L006"
+      ]
+    },
+    "events": [
+      {
+        "year": 1051,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 82,
+        "label": "Marriage to William, Duke of Normandy",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Matilda_of_Flanders"
+      },
+      {
+        "year": 1051,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "dynasty"
+        ],
+        "weight": 84,
+        "label": "Birth of Robert Curthose",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Robert_Curthose"
+      },
+      {
+        "year": 1054,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "dynasty"
+        ],
+        "weight": 58,
+        "label": "Birth of Richard of Normandy",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Richard_of_Normandy"
+      },
+      {
+        "year": 1055,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "dynasty"
+        ],
+        "weight": 52,
+        "label": "Birth of Adeliza of Normandy",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Adeliza_of_Normandy"
+      },
+      {
+        "year": 1058,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "dynasty"
+        ],
+        "weight": 62,
+        "label": "Birth of Cecilia of Normandy",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Cecilia_of_Normandy"
+      },
+      {
+        "year": 1056,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "dynasty"
+        ],
+        "weight": 88,
+        "label": "Birth of William Rufus",
+        "wikiUrl": "https://en.wikipedia.org/wiki/William_II_of_England"
+      },
+      {
+        "year": 1061,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "dynasty"
+        ],
+        "weight": 48,
+        "label": "Birth of Matilda of Normandy",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Matilda_of_Normandy"
+      },
+      {
+        "year": 1062,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "dynasty"
+        ],
+        "weight": 70,
+        "label": "Birth of Adela of Normandy",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Adela_of_Normandy"
+      },
+      {
+        "year": 1064,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "dynasty",
+          "uncertain"
+        ],
+        "weight": 34,
+        "label": "Birth of Agatha of Normandy",
+        "wikiUrl": "https://en.wikipedia.org/wiki/William_the_Conqueror"
+      },
+      {
+        "year": 1066,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "dynasty"
+        ],
+        "weight": 60,
+        "label": "Birth of Constance of Normandy",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Constance_of_Normandy"
+      },
+      {
+        "year": 1066,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "queen"
+        ],
+        "weight": 90,
+        "label": "Became Queen of England",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Matilda_of_Flanders"
+      },
+      {
+        "year": 1068,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "dynasty"
+        ],
+        "weight": 90,
+        "label": "Birth of Henry Beauclerc",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_I_of_England"
+      },
+      {
+        "year": 1068,
+        "month": 5,
+        "day": 11,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "queen"
+        ],
+        "weight": 86,
+        "label": "Coronation as Queen of England",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Matilda_of_Flanders"
+      },
+      {
+        "year": 1083,
+        "month": 11,
+        "day": 2,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 58,
+        "label": "Death of Matilda of Flanders",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Matilda_of_Flanders"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Matilda_of_Flanders",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Matilda_of_Flanders",
+    "sourceNote": "",
+    "notes": "Wife of William the Conqueror. Birth year is approximate.",
+    "createdDate": "260814",
+    "createdOrder": 3,
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died of natural causes",
+      "detail": "Matilda died in Normandy in 1083. Standard accounts do not describe a violent or suspicious death.",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Matilda_of_Flanders"
+    }
+  },
+  {
+    "id": "11C260814N004",
+    "firstName": "Robert",
+    "lastName": "Normandy",
+    "displayName": "Robert Curthose",
+    "fullName": "Robert Curthose, Duke of Normandy",
+    "nickname": "Curthose",
+    "alsoKnownAs": [],
+    "nicknameTags": [
+      "curthose"
+    ],
+    "birthYear": 1051,
+    "deathYear": 1134,
+    "birthPlace": "Normandy",
+    "deathPlace": "Cardiff Castle, Wales",
+    "gender": "male",
+    "dynasty": "House of Normandy",
+    "house": "House of Normandy",
+    "culture": "Norman",
+    "faith": "Catholic",
+    "primaryTitle": "Duke of Normandy",
+    "titles": [
+      {
+        "title": "Duke of Normandy",
+        "startYear": 1087,
+        "endYear": 1106
+      }
+    ],
+    "tags": [
+      "duke",
+      "commander",
+      "crusader",
+      "noble"
+    ],
+    "rank": "duke",
+    "importanceScore": 84,
+    "relationships": {
+      "fatherId": "11A260814K001",
+      "motherId": "11M260814F003",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1087,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "duke"
+        ],
+        "weight": 86,
+        "label": "Became Duke of Normandy",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Robert_Curthose"
+      },
+      {
+        "year": 1096,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "crusade"
+        ],
+        "weight": 82,
+        "label": "First Crusade",
+        "wikiUrl": "https://en.wikipedia.org/wiki/First_Crusade"
+      },
+      {
+        "year": 1106,
+        "month": 9,
+        "day": 28,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "main_commander",
+          "defeat"
+        ],
+        "weight": 94,
+        "label": "Battle of Tinchebray",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Tinchebray"
+      },
+      {
+        "year": 1134,
+        "month": 2,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 58,
+        "label": "Death of Robert Curthose",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Robert_Curthose",
+        "note": "Died while imprisoned at Cardiff Castle."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Robert_Curthose",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Robert_Curthose",
+    "sourceNote": "",
+    "notes": "Eldest son of William the Conqueror. Birth year is approximate.",
+    "createdDate": "260814",
+    "createdOrder": 4,
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died in captivity at Cardiff Castle",
+      "detail": "Robert Curthose died in 1134 after many years imprisoned by his brother Henry I. The death itself is not usually treated as murder, but the long captivity is central to the context.",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Robert_Curthose"
+    }
+  },
+  {
+    "id": "11W260814R005",
+    "firstName": "William",
+    "lastName": "Normandy",
+    "displayName": "William II",
+    "fullName": "William II of England",
+    "nickname": "Rufus",
+    "alsoKnownAs": [
+      "William Rufus",
+      "William the Red"
+    ],
+    "nicknameTags": [
+      "rufus",
+      "red"
+    ],
+    "birthYear": 1056,
+    "deathYear": 1100,
+    "birthPlace": "Normandy",
+    "deathPlace": "New Forest, Hampshire, England",
+    "gender": "male",
+    "dynasty": "House of Normandy",
+    "house": "House of Normandy",
+    "culture": "Norman",
+    "faith": "Catholic",
+    "primaryTitle": "King of England",
+    "titles": [
+      {
+        "title": "King of England",
+        "startYear": 1087,
+        "endYear": 1100
+      }
+    ],
+    "tags": [
+      "monarch",
+      "commander"
+    ],
+    "rank": "king",
+    "importanceScore": 86,
+    "relationships": {
+      "fatherId": "11A260814K001",
+      "motherId": "11M260814F003",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1087,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "king"
+        ],
+        "weight": 92,
+        "label": "Became King of England",
+        "wikiUrl": "https://en.wikipedia.org/wiki/William_II_of_England"
+      },
+      {
+        "year": 1087,
+        "month": 9,
+        "day": 26,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "king"
+        ],
+        "weight": 86,
+        "label": "Coronation as King of England",
+        "wikiUrl": "https://en.wikipedia.org/wiki/William_II_of_England"
+      },
+      {
+        "year": 1100,
+        "month": 8,
+        "day": 2,
+        "type": "death",
+        "tags": [
+          "death",
+          "violent",
+          "uncertain"
+        ],
+        "weight": 82,
+        "label": "Death in the New Forest",
+        "wikiUrl": "https://en.wikipedia.org/wiki/William_II_of_England",
+        "note": "Killed by an arrow while hunting. Walter Tirel is traditionally named, though intent remains disputed."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/William_II_of_England",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/William_II_of_England",
+    "sourceNote": "",
+    "notes": "Third son of William the Conqueror. Birth year is approximate.",
+    "createdDate": "260814",
+    "createdOrder": 5,
+    "deathCause": {
+      "kind": "violent_uncertain",
+      "summary": "Killed by an arrow; intent disputed",
+      "detail": "William II was shot by an arrow in the New Forest on 2 August 1100. Walter Tirel is traditionally identified as the archer, but whether this was accident, negligence, or murder remains disputed.",
+      "culprit": "Walter Tirel (traditionally named; intent disputed)",
+      "wikiUrl": "https://en.wikipedia.org/wiki/William_II_of_England"
+    }
+  },
+  {
+    "id": "11H260814L006",
+    "firstName": "Henry",
+    "lastName": "Normandy",
+    "displayName": "Henry I",
+    "fullName": "Henry I of England",
+    "nickname": "Beauclerc",
+    "alsoKnownAs": [
+      "Henry Beauclerc"
+    ],
+    "nicknameTags": [
+      "beauclerc"
+    ],
+    "birthYear": 1068,
+    "deathYear": 1135,
+    "birthPlace": "Selby, Yorkshire, England",
+    "deathPlace": "Lyons-la-Foret, Duchy of Normandy",
+    "gender": "male",
+    "dynasty": "House of Normandy",
+    "house": "House of Normandy",
+    "culture": "Norman",
+    "faith": "Catholic",
+    "primaryTitle": "King of England",
+    "titles": [
+      {
+        "title": "King of England",
+        "startYear": 1100,
+        "endYear": 1135
+      },
+      {
+        "title": "Duke of Normandy",
+        "startYear": 1106,
+        "endYear": 1135
+      }
+    ],
+    "tags": [
+      "monarch",
+      "commander",
+      "administrator"
+    ],
+    "rank": "king",
+    "importanceScore": 89,
+    "relationships": {
+      "fatherId": "11A260814K001",
+      "motherId": "11M260814F003",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "12M260814Q008"
+      ]
+    },
+    "events": [
+      {
+        "year": 1100,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "king"
+        ],
+        "weight": 92,
+        "label": "Became King of England",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_I_of_England"
+      },
+      {
+        "year": 1100,
+        "month": 8,
+        "day": 5,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "king"
+        ],
+        "weight": 86,
+        "label": "Coronation as King of England",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_I_of_England"
+      },
+      {
+        "year": 1106,
+        "month": 9,
+        "day": 28,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "commander",
+          "succession"
+        ],
+        "weight": 96,
+        "label": "Battle of Tinchebray",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Tinchebray"
+      },
+      {
+        "year": 1106,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "duke"
+        ],
+        "weight": 90,
+        "label": "Became Duke of Normandy",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_I_of_England"
+      },
+      {
+        "year": 1135,
+        "month": 12,
+        "day": 1,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 62,
+        "label": "Death of Henry I",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_I_of_England",
+        "note": "Traditionally linked to illness after eating too many lampreys."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Henry_I_of_England",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Henry_I_of_England",
+    "sourceNote": "",
+    "notes": "Youngest son of William the Conqueror. Birth year is approximate.",
+    "createdDate": "260814",
+    "createdOrder": 6,
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died after sudden illness",
+      "detail": "Henry I died in Normandy in 1135 after a sudden illness, traditionally said to have followed eating lampreys against medical advice.",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Henry_I_of_England"
+    }
+  },
+  {
+    "lastName": "Normandy",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthPlace": "",
+    "deathPlace": "",
+    "portraitUrl": "",
+    "sourceNote": "",
+    "notes": "",
+    "createdDate": "260814",
+    "events": [],
+    "id": "10D260814R007",
+    "firstName": "Richard",
+    "displayName": "Richard II",
+    "fullName": "Richard II, Duke of Normandy",
+    "nickname": "the Good",
+    "birthYear": 963,
+    "deathYear": 1026,
+    "gender": "male",
+    "dynasty": "House of Normandy",
+    "house": "House of Normandy",
+    "culture": "Norman",
+    "faith": "Catholic",
+    "primaryTitle": "Duke of Normandy",
+    "titles": [
+      {
+        "title": "Duke of Normandy",
+        "startYear": 996,
+        "endYear": 1026
+      }
+    ],
+    "tags": [
+      "duke",
+      "noble"
+    ],
+    "rank": "duke",
+    "importanceScore": 72,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "10R260814B002"
+      ]
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Richard_II,_Duke_of_Normandy",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Richard_II,_Duke_of_Normandy",
+    "createdOrder": 7
+  },
+  {
+    "lastName": "Normandy",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthPlace": "",
+    "deathPlace": "",
+    "portraitUrl": "",
+    "sourceNote": "",
+    "notes": "",
+    "createdDate": "260814",
+    "events": [],
+    "id": "12M260814Q008",
+    "firstName": "Matilda",
+    "displayName": "Empress Matilda",
+    "fullName": "Empress Matilda",
+    "nickname": "",
+    "birthYear": 1102,
+    "deathYear": 1167,
+    "gender": "female",
+    "dynasty": "House of Normandy",
+    "house": "House of Normandy",
+    "culture": "Norman",
+    "faith": "Catholic",
+    "primaryTitle": "Holy Roman Empress",
+    "titles": [
+      {
+        "title": "Holy Roman Empress",
+        "startYear": 1114,
+        "endYear": 1125
+      },
+      {
+        "title": "Lady of the English",
+        "startYear": 1141,
+        "endYear": 1141
+      }
+    ],
+    "tags": [
+      "empress",
+      "noble"
+    ],
+    "rank": "empress",
+    "importanceScore": 88,
+    "relationships": {
+      "fatherId": "11H260814L006",
+      "motherId": "",
+      "spouseIds": [
+        "12G260814V009"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "12H260814P010"
+      ]
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Empress_Matilda",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Empress_Matilda",
+    "createdOrder": 8
+  },
+  {
+    "lastName": "Anjou",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthPlace": "",
+    "deathPlace": "",
+    "portraitUrl": "",
+    "sourceNote": "",
+    "notes": "",
+    "createdDate": "260814",
+    "events": [],
+    "id": "12G260814V009",
+    "firstName": "Geoffrey",
+    "displayName": "Geoffrey V",
+    "fullName": "Geoffrey Plantagenet, Count of Anjou",
+    "nickname": "Plantagenet",
+    "birthYear": 1113,
+    "deathYear": 1151,
+    "gender": "male",
+    "dynasty": "House of Plantagenet",
+    "house": "House of Plantagenet",
+    "culture": "Angevin",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Anjou",
+    "titles": [
+      {
+        "title": "Count of Anjou",
+        "startYear": 1129,
+        "endYear": 1151
+      },
+      {
+        "title": "Duke of Normandy",
+        "startYear": 1144,
+        "endYear": 1150
+      }
+    ],
+    "tags": [
+      "count",
+      "duke",
+      "noble"
+    ],
+    "rank": "duke",
+    "importanceScore": 78,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "12M260814Q008"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "12H260814P010"
+      ]
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Geoffrey_Plantagenet,_Count_of_Anjou",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Geoffrey_Plantagenet,_Count_of_Anjou",
+    "createdOrder": 9
+  },
+  {
+    "lastName": "Plantagenet",
+    "alsoKnownAs": [
+      "Henry Curtmantle",
+      "Henry FitzEmpress"
+    ],
+    "nicknameTags": [],
+    "birthPlace": "Le Mans, Maine, Kingdom of France",
+    "deathPlace": "Chinon Castle, Touraine, Kingdom of France",
+    "portraitUrl": "",
+    "sourceNote": "",
+    "notes": "",
+    "createdDate": "260814",
+    "events": [
+      {
+        "year": 1150,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "duke"
+        ],
+        "weight": 72,
+        "label": "Became Duke of Normandy",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_II_of_England"
+      },
+      {
+        "year": 1152,
+        "month": 5,
+        "day": 18,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 92,
+        "label": "Marriage to Eleanor of Aquitaine",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Eleanor_of_Aquitaine"
+      },
+      {
+        "year": 1154,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "king"
+        ],
+        "weight": 95,
+        "label": "Became King of England",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_II_of_England"
+      },
+      {
+        "year": 1154,
+        "month": 12,
+        "day": 19,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "king"
+        ],
+        "weight": 90,
+        "label": "Coronation as King of England",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_II_of_England"
+      },
+      {
+        "year": 1170,
+        "month": 12,
+        "day": 29,
+        "type": "political_crisis",
+        "tags": [
+          "government",
+          "church"
+        ],
+        "weight": 86,
+        "label": "Murder of Thomas Becket",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Thomas_Becket"
+      },
+      {
+        "year": 1173,
+        "type": "rebellion",
+        "tags": [
+          "campaign",
+          "dynasty"
+        ],
+        "weight": 88,
+        "label": "Revolt of 1173-1174",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Revolt_of_1173%E2%80%931174"
+      },
+      {
+        "year": 1189,
+        "month": 7,
+        "day": 6,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Death of Henry II",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_II_of_England",
+        "note": "Died at Chinon after illness during war with Philip II and Richard."
+      }
+    ],
+    "id": "12H260814P010",
+    "firstName": "Henry",
+    "displayName": "Henry II",
+    "fullName": "Henry II of England",
+    "nickname": "Curtmantle",
+    "birthYear": 1133,
+    "deathYear": 1189,
+    "gender": "male",
+    "dynasty": "House of Plantagenet",
+    "house": "House of Plantagenet",
+    "culture": "Angevin",
+    "faith": "Catholic",
+    "primaryTitle": "King of England",
+    "titles": [
+      {
+        "title": "Duke of Normandy",
+        "startYear": 1150,
+        "endYear": 1189
+      },
+      {
+        "title": "Count of Anjou",
+        "startYear": 1151,
+        "endYear": 1189
+      },
+      {
+        "title": "Duke of Aquitaine",
+        "startYear": 1152,
+        "endYear": 1189
+      },
+      {
+        "title": "King of England",
+        "startYear": 1154,
+        "endYear": 1189
+      }
+    ],
+    "tags": [
+      "monarch",
+      "commander",
+      "duke",
+      "noble",
+      "administrator"
+    ],
+    "rank": "king",
+    "importanceScore": 92,
+    "relationships": {
+      "fatherId": "12G260814V009",
+      "motherId": "12M260814Q008",
+      "spouseIds": [
+        "12E260814A011"
+      ],
+      "partnerIds": [
+        "12Y260815K043",
+        "12I260815A042",
+        "12N260815E044"
+      ],
+      "childIds": [
+        "12W260814P018",
+        "12H260814Y019",
+        "12M260814S020",
+        "12R260814L012",
+        "12G260814B021",
+        "12E260814C022",
+        "12J260814S023",
+        "12J260814N013",
+        "12G260815Y045",
+        "12W260815L046",
+        "12M260815F047"
+      ]
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Henry_II_of_England",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Henry_II_of_England",
+    "createdOrder": 10,
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died from illness during military crisis",
+      "detail": "Henry II died at Chinon in 1189 after falling ill during his final conflict with Philip II of France and his son Richard. This was not a violent death, but the political collapse around it was severe.",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Henry_II_of_England"
+    }
+  },
+  {
+    "lastName": "Aquitaine",
+    "alsoKnownAs": [
+      "Eleanor, Duchess of Aquitaine",
+      "Queen Eleanor"
+    ],
+    "nicknameTags": [
+      "duchess",
+      "queen"
+    ],
+    "birthPlace": "Poitiers, Duchy of Aquitaine",
+    "deathPlace": "Fontevraud Abbey, Anjou, Kingdom of France",
+    "portraitUrl": "",
+    "sourceNote": "",
+    "notes": "",
+    "createdDate": "260814",
+    "events": [
+      {
+        "year": 1137,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "duke"
+        ],
+        "weight": 98,
+        "label": "Became Duchess of Aquitaine",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Eleanor_of_Aquitaine",
+        "note": "Inherited Aquitaine after the death of William X."
+      },
+      {
+        "year": 1137,
+        "month": 7,
+        "day": 25,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 92,
+        "label": "Marriage to Louis, heir to France",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Louis_VII_of_France"
+      },
+      {
+        "year": 1137,
+        "month": 12,
+        "day": 25,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "queen"
+        ],
+        "weight": 84,
+        "label": "Coronation as Queen of France",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Eleanor_of_Aquitaine"
+      },
+      {
+        "year": 1145,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "dynasty"
+        ],
+        "weight": 62,
+        "label": "Birth of Marie of France",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Marie_of_France,_Countess_of_Champagne"
+      },
+      {
+        "year": 1147,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "crusade"
+        ],
+        "weight": 76,
+        "label": "Second Crusade",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Second_Crusade"
+      },
+      {
+        "year": 1150,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "dynasty"
+        ],
+        "weight": 60,
+        "label": "Birth of Alix of France",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Alix_of_France,_Countess_of_Blois"
+      },
+      {
+        "year": 1152,
+        "month": 3,
+        "day": 21,
+        "type": "annulment",
+        "tags": [
+          "annulment",
+          "marriage"
+        ],
+        "weight": 91,
+        "label": "Annulment of marriage to Louis VII",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Eleanor_of_Aquitaine"
+      },
+      {
+        "year": 1152,
+        "month": 5,
+        "day": 18,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 100,
+        "label": "Marriage to Henry, Duke of Normandy",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_II_of_England"
+      },
+      {
+        "year": 1153,
+        "month": 8,
+        "day": 17,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "dynasty"
+        ],
+        "weight": 68,
+        "label": "Birth of William IX, Count of Poitiers",
+        "wikiUrl": "https://en.wikipedia.org/wiki/William_IX,_Count_of_Poitiers"
+      },
+      {
+        "year": 1154,
+        "month": 12,
+        "day": 19,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "queen"
+        ],
+        "weight": 90,
+        "label": "Coronation as Queen of England",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Eleanor_of_Aquitaine"
+      },
+      {
+        "year": 1155,
+        "month": 2,
+        "day": 28,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "dynasty"
+        ],
+        "weight": 72,
+        "label": "Birth of Henry the Young King",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_the_Young_King"
+      },
+      {
+        "year": 1156,
+        "month": 6,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "dynasty"
+        ],
+        "weight": 64,
+        "label": "Birth of Matilda of England",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Matilda_of_England,_Duchess_of_Saxony"
+      },
+      {
+        "year": 1157,
+        "month": 9,
+        "day": 8,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "dynasty"
+        ],
+        "weight": 88,
+        "label": "Birth of Richard the Lionheart",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Richard_I_of_England"
+      },
+      {
+        "year": 1158,
+        "month": 9,
+        "day": 23,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "dynasty"
+        ],
+        "weight": 66,
+        "label": "Birth of Geoffrey II, Duke of Brittany",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Geoffrey_II,_Duke_of_Brittany"
+      },
+      {
+        "year": 1161,
+        "month": 10,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "dynasty"
+        ],
+        "weight": 64,
+        "label": "Birth of Eleanor of England",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Eleanor_of_England,_Queen_of_Castile"
+      },
+      {
+        "year": 1165,
+        "month": 10,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "dynasty"
+        ],
+        "weight": 62,
+        "label": "Birth of Joan of England",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Joan_of_England,_Queen_of_Sicily"
+      },
+      {
+        "year": 1166,
+        "month": 12,
+        "day": 24,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "dynasty"
+        ],
+        "weight": 82,
+        "label": "Birth of John Lackland",
+        "wikiUrl": "https://en.wikipedia.org/wiki/John,_King_of_England"
+      },
+      {
+        "year": 1173,
+        "type": "rebellion",
+        "tags": [
+          "dynasty",
+          "campaign"
+        ],
+        "weight": 94,
+        "label": "Supported the Revolt of 1173-1174",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Revolt_of_1173%E2%80%931174"
+      },
+      {
+        "year": 1174,
+        "type": "imprisonment",
+        "tags": [
+          "imprisonment",
+          "dynasty"
+        ],
+        "weight": 88,
+        "label": "Imprisoned by Henry II",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Eleanor_of_Aquitaine"
+      },
+      {
+        "year": 1189,
+        "type": "regency",
+        "tags": [
+          "regency",
+          "government"
+        ],
+        "weight": 92,
+        "label": "Released and governed for Richard I",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Eleanor_of_Aquitaine"
+      },
+      {
+        "year": 1192,
+        "type": "diplomacy",
+        "tags": [
+          "diplomacy",
+          "crusade"
+        ],
+        "weight": 90,
+        "label": "Raised Richard I's ransom",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Richard_I_of_England"
+      },
+      {
+        "year": 1199,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "dynasty"
+        ],
+        "weight": 84,
+        "label": "Supported John after Richard I died",
+        "wikiUrl": "https://en.wikipedia.org/wiki/John,_King_of_England"
+      },
+      {
+        "year": 1200,
+        "type": "diplomacy",
+        "tags": [
+          "diplomacy",
+          "dynasty"
+        ],
+        "weight": 86,
+        "label": "Embassy to Castile for Blanche of Castile",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Blanche_of_Castile"
+      },
+      {
+        "year": 1204,
+        "month": 4,
+        "day": 1,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 72,
+        "label": "Death of Eleanor of Aquitaine",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Eleanor_of_Aquitaine"
+      }
+    ],
+    "id": "12E260814A011",
+    "firstName": "Eleanor",
+    "displayName": "Eleanor of Aquitaine",
+    "fullName": "Eleanor of Aquitaine",
+    "nickname": "",
+    "birthYear": 1122,
+    "deathYear": 1204,
+    "gender": "female",
+    "dynasty": "House of Poitiers",
+    "house": "House of Poitiers",
+    "culture": "Occitan",
+    "faith": "Catholic",
+    "primaryTitle": "Queen of England",
+    "titles": [
+      {
+        "title": "Duchess of Aquitaine",
+        "startYear": 1137,
+        "endYear": 1204
+      },
+      {
+        "title": "Queen of France",
+        "startYear": 1137,
+        "endYear": 1152
+      },
+      {
+        "title": "Queen of England",
+        "startYear": 1154,
+        "endYear": 1189
+      }
+    ],
+    "tags": [
+      "queen",
+      "duchess",
+      "consort",
+      "noble"
+    ],
+    "rank": "queen",
+    "importanceScore": 93,
+    "relationships": {
+      "fatherId": "12W260814X016",
+      "motherId": "",
+      "spouseIds": [
+        "12L260814F024",
+        "12H260814P010"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "12M260814F025",
+        "12A260814B026",
+        "12W260814P018",
+        "12H260814Y019",
+        "12M260814S020",
+        "12R260814L012",
+        "12G260814B021",
+        "12E260814C022",
+        "12J260814S023",
+        "12J260814N013"
+      ]
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Eleanor_of_Aquitaine",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Eleanor_of_Aquitaine",
+    "createdOrder": 11,
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died at Fontevraud Abbey",
+      "detail": "Eleanor died at Fontevraud Abbey in 1204 at about 82 years old. Accounts treat her death as natural rather than violent or suspicious.",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Eleanor_of_Aquitaine"
+    }
+  },
+  {
+    "lastName": "Plantagenet",
+    "alsoKnownAs": [
+      "Richard the Lionheart",
+      "Richard Coeur de Lion"
+    ],
+    "nicknameTags": [],
+    "birthPlace": "Beaumont Palace, Oxford, England",
+    "deathPlace": "Chalus, Duchy of Aquitaine",
+    "portraitUrl": "",
+    "sourceNote": "",
+    "notes": "",
+    "createdDate": "260814",
+    "events": [
+      {
+        "year": 1172,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "duke"
+        ],
+        "weight": 76,
+        "label": "Became Duke of Aquitaine",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Richard_I_of_England"
+      },
+      {
+        "year": 1189,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "king"
+        ],
+        "weight": 96,
+        "label": "Became King of England",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Richard_I_of_England"
+      },
+      {
+        "year": 1189,
+        "month": 9,
+        "day": 3,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "king"
+        ],
+        "weight": 90,
+        "label": "Coronation as King of England",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Richard_I_of_England"
+      },
+      {
+        "year": 1190,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "crusade"
+        ],
+        "weight": 95,
+        "label": "Third Crusade",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Third_Crusade"
+      },
+      {
+        "year": 1191,
+        "month": 9,
+        "day": 7,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "commander",
+          "crusade"
+        ],
+        "weight": 94,
+        "label": "Battle of Arsuf",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Arsuf"
+      },
+      {
+        "year": 1199,
+        "month": 4,
+        "day": 6,
+        "type": "death",
+        "tags": [
+          "death",
+          "violent"
+        ],
+        "weight": 90,
+        "label": "Death from wound at Chalus",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Richard_I_of_England",
+        "note": "Mortally wounded by a crossbow bolt during the siege of Chalus-Chabrol."
+      }
+    ],
+    "id": "12R260814L012",
+    "firstName": "Richard",
+    "displayName": "Richard I",
+    "fullName": "Richard I of England",
+    "nickname": "the Lionheart",
+    "birthYear": 1157,
+    "deathYear": 1199,
+    "gender": "male",
+    "dynasty": "House of Plantagenet",
+    "house": "House of Plantagenet",
+    "culture": "Angevin",
+    "faith": "Catholic",
+    "primaryTitle": "King of England",
+    "titles": [
+      {
+        "title": "Duke of Aquitaine",
+        "startYear": 1172,
+        "endYear": 1199
+      },
+      {
+        "title": "King of England",
+        "startYear": 1189,
+        "endYear": 1199
+      }
+    ],
+    "tags": [
+      "monarch",
+      "commander",
+      "crusader",
+      "duke"
+    ],
+    "rank": "king",
+    "importanceScore": 94,
+    "relationships": {
+      "fatherId": "12H260814P010",
+      "motherId": "12E260814A011",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Richard_I_of_England",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Richard_I_of_England",
+    "createdOrder": 12,
+    "deathCause": {
+      "kind": "violent",
+      "summary": "Killed by infected crossbow wound",
+      "detail": "Richard I was struck by a crossbow bolt during the siege of Chalus-Chabrol and died after the wound became infected. The crossbowman is commonly named as Pierre Basile, also rendered Bertran de Gourdon in some traditions.",
+      "culprit": "Pierre Basile / Bertran de Gourdon traditions",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Richard_I_of_England"
+    }
+  },
+  {
+    "lastName": "Plantagenet",
+    "alsoKnownAs": [
+      "John Lackland",
+      "Softsword"
+    ],
+    "nicknameTags": [
+      "lackland"
+    ],
+    "birthPlace": "Beaumont Palace, Oxford, England",
+    "deathPlace": "Newark Castle, Nottinghamshire, England",
+    "portraitUrl": "",
+    "sourceNote": "",
+    "notes": "",
+    "createdDate": "260814",
+    "events": [
+      {
+        "year": 1177,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "noble"
+        ],
+        "weight": 68,
+        "label": "Became Lord of Ireland",
+        "wikiUrl": "https://en.wikipedia.org/wiki/John,_King_of_England"
+      },
+      {
+        "year": 1199,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "king"
+        ],
+        "weight": 94,
+        "label": "Became King of England",
+        "wikiUrl": "https://en.wikipedia.org/wiki/John,_King_of_England"
+      },
+      {
+        "year": 1199,
+        "month": 5,
+        "day": 27,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "king"
+        ],
+        "weight": 88,
+        "label": "Coronation as King of England",
+        "wikiUrl": "https://en.wikipedia.org/wiki/John,_King_of_England"
+      },
+      {
+        "year": 1204,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "defeat"
+        ],
+        "weight": 92,
+        "label": "Loss of Normandy",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Capetian%E2%80%93Plantagenet_rivalry"
+      },
+      {
+        "year": 1215,
+        "month": 6,
+        "day": 15,
+        "type": "government",
+        "tags": [
+          "government"
+        ],
+        "weight": 100,
+        "label": "Magna Carta",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Magna_Carta"
+      },
+      {
+        "year": 1215,
+        "type": "rebellion",
+        "tags": [
+          "campaign",
+          "rebellion"
+        ],
+        "weight": 86,
+        "label": "First Barons' War",
+        "wikiUrl": "https://en.wikipedia.org/wiki/First_Barons%27_War"
+      },
+      {
+        "year": 1216,
+        "month": 10,
+        "day": 19,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Death of King John",
+        "wikiUrl": "https://en.wikipedia.org/wiki/John,_King_of_England",
+        "note": "Died of dysentery during the First Barons' War."
+      }
+    ],
+    "id": "12J260814N013",
+    "firstName": "John",
+    "displayName": "John",
+    "fullName": "John, King of England",
+    "nickname": "Lackland",
+    "birthYear": 1166,
+    "deathYear": 1216,
+    "gender": "male",
+    "dynasty": "House of Plantagenet",
+    "house": "House of Plantagenet",
+    "culture": "Angevin",
+    "faith": "Catholic",
+    "primaryTitle": "King of England",
+    "titles": [
+      {
+        "title": "Lord of Ireland",
+        "startYear": 1177,
+        "endYear": 1216
+      },
+      {
+        "title": "Duke of Normandy",
+        "startYear": 1199,
+        "endYear": 1204
+      },
+      {
+        "title": "King of England",
+        "startYear": 1199,
+        "endYear": 1216
+      }
+    ],
+    "tags": [
+      "monarch",
+      "commander",
+      "duke"
+    ],
+    "rank": "king",
+    "importanceScore": 86,
+    "relationships": {
+      "fatherId": "12H260814P010",
+      "motherId": "12E260814A011",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "13H260814M014"
+      ]
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/John,_King_of_England",
+    "sourceUrl": "https://en.wikipedia.org/wiki/John,_King_of_England",
+    "createdOrder": 13,
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died of dysentery during civil war",
+      "detail": "John died at Newark Castle in 1216, generally identified as dysentery contracted during the First Barons' War. Later poison stories are not the standard explanation.",
+      "wikiUrl": "https://en.wikipedia.org/wiki/John,_King_of_England"
+    }
+  },
+  {
+    "lastName": "Plantagenet",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthPlace": "",
+    "deathPlace": "",
+    "portraitUrl": "",
+    "sourceNote": "",
+    "notes": "",
+    "createdDate": "260814",
+    "events": [],
+    "id": "13H260814M014",
+    "firstName": "Henry",
+    "displayName": "Henry III",
+    "fullName": "Henry III of England",
+    "nickname": "",
+    "birthYear": 1207,
+    "deathYear": 1272,
+    "gender": "male",
+    "dynasty": "House of Plantagenet",
+    "house": "House of Plantagenet",
+    "culture": "English",
+    "faith": "Catholic",
+    "primaryTitle": "King of England",
+    "titles": [
+      {
+        "title": "King of England",
+        "startYear": 1216,
+        "endYear": 1272
+      }
+    ],
+    "tags": [
+      "monarch"
+    ],
+    "rank": "king",
+    "importanceScore": 84,
+    "relationships": {
+      "fatherId": "12J260814N013",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "13E260814W015"
+      ]
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Henry_III_of_England",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Henry_III_of_England",
+    "createdOrder": 14
+  },
+  {
+    "lastName": "Plantagenet",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthPlace": "",
+    "deathPlace": "",
+    "portraitUrl": "",
+    "sourceNote": "",
+    "notes": "",
+    "createdDate": "260814",
+    "events": [],
+    "id": "13E260814W015",
+    "firstName": "Edward",
+    "displayName": "Edward I",
+    "fullName": "Edward I of England",
+    "nickname": "Longshanks",
+    "birthYear": 1239,
+    "deathYear": 1307,
+    "gender": "male",
+    "dynasty": "House of Plantagenet",
+    "house": "House of Plantagenet",
+    "culture": "English",
+    "faith": "Catholic",
+    "primaryTitle": "King of England",
+    "titles": [
+      {
+        "title": "King of England",
+        "startYear": 1272,
+        "endYear": 1307
+      }
+    ],
+    "tags": [
+      "monarch",
+      "commander"
+    ],
+    "rank": "king",
+    "importanceScore": 88,
+    "relationships": {
+      "fatherId": "13H260814M014",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "13E260814D027"
+      ]
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Edward_I_of_England",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Edward_I_of_England",
+    "createdOrder": 15
+  },
+  {
+    "id": "12W260814X016",
+    "firstName": "William",
+    "lastName": "Aquitaine",
+    "displayName": "William X",
+    "fullName": "William X, Duke of Aquitaine",
+    "nickname": "the Saint",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1099,
+    "deathYear": 1137,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "male",
+    "dynasty": "House of Poitiers",
+    "house": "House of Poitiers",
+    "culture": "Occitan",
+    "faith": "Catholic",
+    "primaryTitle": "Duke of Aquitaine",
+    "titles": [
+      {
+        "title": "Duke of Aquitaine",
+        "startYear": 1126,
+        "endYear": 1137
+      }
+    ],
+    "tags": [
+      "duke",
+      "noble"
+    ],
+    "rank": "duke",
+    "importanceScore": 74,
+    "relationships": {
+      "fatherId": "11W260814I017",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "12E260814A011"
+      ]
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/William_X,_Duke_of_Aquitaine",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/William_X,_Duke_of_Aquitaine",
+    "sourceNote": "",
+    "notes": "Blank MVP person card; basic identity and direct relationship only.",
+    "createdDate": "260814",
+    "createdOrder": 16
+  },
+  {
+    "id": "11W260814I017",
+    "firstName": "William",
+    "lastName": "Aquitaine",
+    "displayName": "William IX",
+    "fullName": "William IX, Duke of Aquitaine",
+    "nickname": "the Troubadour",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1071,
+    "deathYear": 1127,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "male",
+    "dynasty": "House of Poitiers",
+    "house": "House of Poitiers",
+    "culture": "Occitan",
+    "faith": "Catholic",
+    "primaryTitle": "Duke of Aquitaine",
+    "titles": [
+      {
+        "title": "Duke of Aquitaine",
+        "startYear": 1086,
+        "endYear": 1127
+      }
+    ],
+    "tags": [
+      "duke",
+      "noble"
+    ],
+    "rank": "duke",
+    "importanceScore": 76,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "12W260814X016"
+      ]
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/William_IX,_Duke_of_Aquitaine",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/William_IX,_Duke_of_Aquitaine",
+    "sourceNote": "",
+    "notes": "Blank MVP person card; basic identity and direct relationship only.",
+    "createdDate": "260814",
+    "createdOrder": 17
+  },
+  {
+    "id": "12W260814P018",
+    "firstName": "William",
+    "lastName": "Plantagenet",
+    "displayName": "William IX",
+    "fullName": "William IX, Count of Poitiers",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1153,
+    "deathYear": 1156,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "male",
+    "dynasty": "House of Plantagenet",
+    "house": "House of Plantagenet",
+    "culture": "Angevin",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Poitiers",
+    "titles": [
+      {
+        "title": "Count of Poitiers",
+        "startYear": 1153,
+        "endYear": 1156
+      }
+    ],
+    "tags": [
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 46,
+    "relationships": {
+      "fatherId": "12H260814P010",
+      "motherId": "12E260814A011",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/William_IX,_Count_of_Poitiers",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/William_IX,_Count_of_Poitiers",
+    "sourceNote": "",
+    "notes": "Blank MVP person card; basic identity and direct relationship only.",
+    "createdDate": "260814",
+    "createdOrder": 18
+  },
+  {
+    "id": "12H260814Y019",
+    "firstName": "Henry",
+    "lastName": "Plantagenet",
+    "displayName": "Henry the Young King",
+    "fullName": "Henry the Young King",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1155,
+    "deathYear": 1183,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "male",
+    "dynasty": "House of Plantagenet",
+    "house": "House of Plantagenet",
+    "culture": "Angevin",
+    "faith": "Catholic",
+    "primaryTitle": "King of England",
+    "titles": [
+      {
+        "title": "Junior King of England",
+        "startYear": 1170,
+        "endYear": 1183
+      }
+    ],
+    "tags": [
+      "monarch",
+      "noble"
+    ],
+    "rank": "king",
+    "importanceScore": 78,
+    "relationships": {
+      "fatherId": "12H260814P010",
+      "motherId": "12E260814A011",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Henry_the_Young_King",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Henry_the_Young_King",
+    "sourceNote": "",
+    "notes": "Blank MVP person card; basic identity and direct relationship only.",
+    "createdDate": "260814",
+    "createdOrder": 19
+  },
+  {
+    "id": "12M260814S020",
+    "firstName": "Matilda",
+    "lastName": "Plantagenet",
+    "displayName": "Matilda of England",
+    "fullName": "Matilda of England, Duchess of Saxony",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1156,
+    "deathYear": 1189,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "female",
+    "dynasty": "House of Plantagenet",
+    "house": "House of Plantagenet",
+    "culture": "Angevin",
+    "faith": "Catholic",
+    "primaryTitle": "Duchess of Saxony",
+    "titles": [
+      {
+        "title": "Duchess of Saxony",
+        "startYear": 1168,
+        "endYear": 1180
+      }
+    ],
+    "tags": [
+      "duchess",
+      "noble",
+      "consort"
+    ],
+    "rank": "duke",
+    "importanceScore": 58,
+    "relationships": {
+      "fatherId": "12H260814P010",
+      "motherId": "12E260814A011",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Matilda_of_England,_Duchess_of_Saxony",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Matilda_of_England,_Duchess_of_Saxony",
+    "sourceNote": "",
+    "notes": "Blank MVP person card; basic identity and direct relationship only.",
+    "createdDate": "260814",
+    "createdOrder": 20
+  },
+  {
+    "id": "12G260814B021",
+    "firstName": "Geoffrey",
+    "lastName": "Plantagenet",
+    "displayName": "Geoffrey II",
+    "fullName": "Geoffrey II, Duke of Brittany",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1158,
+    "deathYear": 1186,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "male",
+    "dynasty": "House of Plantagenet",
+    "house": "House of Plantagenet",
+    "culture": "Angevin",
+    "faith": "Catholic",
+    "primaryTitle": "Duke of Brittany",
+    "titles": [
+      {
+        "title": "Duke of Brittany",
+        "startYear": 1181,
+        "endYear": 1186
+      }
+    ],
+    "tags": [
+      "duke",
+      "noble"
+    ],
+    "rank": "duke",
+    "importanceScore": 66,
+    "relationships": {
+      "fatherId": "12H260814P010",
+      "motherId": "12E260814A011",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Geoffrey_II,_Duke_of_Brittany",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Geoffrey_II,_Duke_of_Brittany",
+    "sourceNote": "",
+    "notes": "Blank MVP person card; basic identity and direct relationship only.",
+    "createdDate": "260814",
+    "createdOrder": 21
+  },
+  {
+    "id": "12E260814C022",
+    "firstName": "Eleanor",
+    "lastName": "Plantagenet",
+    "displayName": "Eleanor of England",
+    "fullName": "Eleanor of England, Queen of Castile",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1161,
+    "deathYear": 1214,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "female",
+    "dynasty": "House of Plantagenet",
+    "house": "House of Plantagenet",
+    "culture": "Angevin",
+    "faith": "Catholic",
+    "primaryTitle": "Queen of Castile",
+    "titles": [
+      {
+        "title": "Queen of Castile",
+        "startYear": 1177,
+        "endYear": 1214
+      }
+    ],
+    "tags": [
+      "queen",
+      "consort",
+      "noble"
+    ],
+    "rank": "queen",
+    "importanceScore": 62,
+    "relationships": {
+      "fatherId": "12H260814P010",
+      "motherId": "12E260814A011",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Eleanor_of_England,_Queen_of_Castile",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Eleanor_of_England,_Queen_of_Castile",
+    "sourceNote": "",
+    "notes": "Blank MVP person card; basic identity and direct relationship only.",
+    "createdDate": "260814",
+    "createdOrder": 22
+  },
+  {
+    "id": "12J260814S023",
+    "firstName": "Joan",
+    "lastName": "Plantagenet",
+    "displayName": "Joan of England",
+    "fullName": "Joan of England, Queen of Sicily",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1165,
+    "deathYear": 1199,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "female",
+    "dynasty": "House of Plantagenet",
+    "house": "House of Plantagenet",
+    "culture": "Angevin",
+    "faith": "Catholic",
+    "primaryTitle": "Queen of Sicily",
+    "titles": [
+      {
+        "title": "Queen of Sicily",
+        "startYear": 1177,
+        "endYear": 1189
+      }
+    ],
+    "tags": [
+      "queen",
+      "consort",
+      "noble"
+    ],
+    "rank": "queen",
+    "importanceScore": 60,
+    "relationships": {
+      "fatherId": "12H260814P010",
+      "motherId": "12E260814A011",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Joan_of_England,_Queen_of_Sicily",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Joan_of_England,_Queen_of_Sicily",
+    "sourceNote": "",
+    "notes": "Blank MVP person card; basic identity and direct relationship only.",
+    "createdDate": "260814",
+    "createdOrder": 23
+  },
+  {
+    "id": "12L260814F024",
+    "firstName": "Louis",
+    "lastName": "Capet",
+    "displayName": "Louis VII",
+    "fullName": "Louis VII of France",
+    "nickname": "the Young",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1120,
+    "deathYear": 1180,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "male",
+    "dynasty": "House of Capet",
+    "house": "House of Capet",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "King of France",
+    "titles": [
+      {
+        "title": "King of France",
+        "startYear": 1137,
+        "endYear": 1180
+      }
+    ],
+    "tags": [
+      "monarch",
+      "crusader"
+    ],
+    "rank": "king",
+    "importanceScore": 82,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "12E260814A011"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "12M260814F025",
+        "12A260814B026"
+      ]
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Louis_VII_of_France",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Louis_VII_of_France",
+    "sourceNote": "",
+    "notes": "Blank MVP person card; basic identity and direct relationship only.",
+    "createdDate": "260814",
+    "createdOrder": 24
+  },
+  {
+    "id": "12M260814F025",
+    "firstName": "Marie",
+    "lastName": "Capet",
+    "displayName": "Marie of France",
+    "fullName": "Marie of France, Countess of Champagne",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1145,
+    "deathYear": 1198,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "female",
+    "dynasty": "House of Capet",
+    "house": "House of Capet",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Countess of Champagne",
+    "titles": [
+      {
+        "title": "Countess of Champagne",
+        "startYear": 1164,
+        "endYear": 1198
+      }
+    ],
+    "tags": [
+      "noble",
+      "consort"
+    ],
+    "rank": "count",
+    "importanceScore": 54,
+    "relationships": {
+      "fatherId": "12L260814F024",
+      "motherId": "12E260814A011",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Marie_of_France,_Countess_of_Champagne",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Marie_of_France,_Countess_of_Champagne",
+    "sourceNote": "",
+    "notes": "Blank MVP person card; basic identity and direct relationship only.",
+    "createdDate": "260814",
+    "createdOrder": 25
+  },
+  {
+    "id": "12A260814B026",
+    "firstName": "Alix",
+    "lastName": "Capet",
+    "displayName": "Alix of France",
+    "fullName": "Alix of France, Countess of Blois",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1150,
+    "deathYear": 1197,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "female",
+    "dynasty": "House of Capet",
+    "house": "House of Capet",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Countess of Blois",
+    "titles": [
+      {
+        "title": "Countess of Blois",
+        "startYear": 1164,
+        "endYear": 1197
+      }
+    ],
+    "tags": [
+      "noble",
+      "consort"
+    ],
+    "rank": "count",
+    "importanceScore": 52,
+    "relationships": {
+      "fatherId": "12L260814F024",
+      "motherId": "12E260814A011",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Alix_of_France,_Countess_of_Blois",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Alix_of_France,_Countess_of_Blois",
+    "sourceNote": "",
+    "notes": "Blank MVP person card; basic identity and direct relationship only.",
+    "createdDate": "260814",
+    "createdOrder": 26
+  },
+  {
+    "id": "13E260814D027",
+    "firstName": "Edward",
+    "lastName": "Plantagenet",
+    "displayName": "Edward II",
+    "fullName": "Edward II of England",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1284,
+    "deathYear": 1327,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "male",
+    "dynasty": "House of Plantagenet",
+    "house": "House of Plantagenet",
+    "culture": "English",
+    "faith": "Catholic",
+    "primaryTitle": "King of England",
+    "titles": [
+      {
+        "title": "King of England",
+        "startYear": 1307,
+        "endYear": 1327
+      }
+    ],
+    "tags": [
+      "monarch"
+    ],
+    "rank": "king",
+    "importanceScore": 80,
+    "relationships": {
+      "fatherId": "13E260814W015",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "14E260814T028"
+      ]
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Edward_II_of_England",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Edward_II_of_England",
+    "sourceNote": "",
+    "notes": "Blank MVP person card; main Plantagenet line placeholder.",
+    "createdDate": "260814",
+    "createdOrder": 27
+  },
+  {
+    "id": "14E260814T028",
+    "firstName": "Edward",
+    "lastName": "Plantagenet",
+    "displayName": "Edward III",
+    "fullName": "Edward III of England",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1312,
+    "deathYear": 1377,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "male",
+    "dynasty": "House of Plantagenet",
+    "house": "House of Plantagenet",
+    "culture": "English",
+    "faith": "Catholic",
+    "primaryTitle": "King of England",
+    "titles": [
+      {
+        "title": "King of England",
+        "startYear": 1327,
+        "endYear": 1377
+      }
+    ],
+    "tags": [
+      "monarch",
+      "commander"
+    ],
+    "rank": "king",
+    "importanceScore": 80,
+    "relationships": {
+      "fatherId": "13E260814D027",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "14E260814B030",
+        "14J260814G031",
+        "14L260814C035"
+      ]
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Edward_III_of_England",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Edward_III_of_England",
+    "sourceNote": "",
+    "notes": "Blank MVP person card; main Plantagenet line placeholder.",
+    "createdDate": "260814",
+    "createdOrder": 28
+  },
+  {
+    "id": "14R260814P029",
+    "firstName": "Richard",
+    "lastName": "Plantagenet",
+    "displayName": "Richard II",
+    "fullName": "Richard II of England",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1367,
+    "deathYear": 1400,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "male",
+    "dynasty": "House of Plantagenet",
+    "house": "House of Plantagenet",
+    "culture": "English",
+    "faith": "Catholic",
+    "primaryTitle": "King of England",
+    "titles": [
+      {
+        "title": "King of England",
+        "startYear": 1377,
+        "endYear": 1399
+      }
+    ],
+    "tags": [
+      "monarch"
+    ],
+    "rank": "king",
+    "importanceScore": 80,
+    "relationships": {
+      "fatherId": "14E260814B030",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Richard_II_of_England",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Richard_II_of_England",
+    "sourceNote": "",
+    "notes": "Blank MVP person card; main Plantagenet line placeholder.",
+    "createdDate": "260814",
+    "createdOrder": 29
+  },
+  {
+    "id": "14E260814B030",
+    "firstName": "Edward",
+    "lastName": "Plantagenet",
+    "displayName": "Edward the Black Prince",
+    "fullName": "Edward of Woodstock, Prince of Wales",
+    "nickname": "the Black Prince",
+    "alsoKnownAs": [
+      "Edward of Woodstock"
+    ],
+    "nicknameTags": [
+      "black_prince"
+    ],
+    "birthYear": 1330,
+    "deathYear": 1376,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "male",
+    "dynasty": "House of Plantagenet",
+    "house": "House of Plantagenet",
+    "culture": "English",
+    "faith": "Catholic",
+    "primaryTitle": "Prince of Wales",
+    "titles": [
+      {
+        "title": "Prince of Wales",
+        "startYear": 1343,
+        "endYear": 1376
+      }
+    ],
+    "tags": [
+      "commander",
+      "noble"
+    ],
+    "rank": "duke",
+    "importanceScore": 88,
+    "relationships": {
+      "fatherId": "14E260814T028",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "14R260814P029"
+      ]
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Edward_the_Black_Prince",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Edward_the_Black_Prince",
+    "sourceNote": "",
+    "notes": "Blank MVP person card; inserted main-line father of Richard II.",
+    "createdDate": "260814",
+    "createdOrder": 30
+  },
+  {
+    "id": "14J260814G031",
+    "firstName": "John",
+    "lastName": "Plantagenet",
+    "displayName": "John of Gaunt",
+    "fullName": "John of Gaunt, Duke of Lancaster",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1340,
+    "deathYear": 1399,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "male",
+    "dynasty": "House of Plantagenet",
+    "house": "House of Plantagenet",
+    "culture": "English",
+    "faith": "Catholic",
+    "primaryTitle": "Duke of Lancaster",
+    "titles": [
+      {
+        "title": "Duke of Lancaster",
+        "startYear": 1362,
+        "endYear": 1399
+      }
+    ],
+    "tags": [
+      "duke",
+      "noble"
+    ],
+    "rank": "duke",
+    "importanceScore": 82,
+    "relationships": {
+      "fatherId": "14E260814T028",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "14H260814L032"
+      ]
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/John_of_Gaunt",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/John_of_Gaunt",
+    "sourceNote": "",
+    "notes": "Blank MVP person card; basic identity and direct relationship only.",
+    "createdDate": "260814",
+    "createdOrder": 31
+  },
+  {
+    "id": "14H260814L032",
+    "firstName": "Henry",
+    "lastName": "Plantagenet",
+    "displayName": "Henry IV",
+    "fullName": "Henry IV of England",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1367,
+    "deathYear": 1413,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "male",
+    "dynasty": "House of Plantagenet",
+    "house": "House of Plantagenet",
+    "culture": "English",
+    "faith": "Catholic",
+    "primaryTitle": "King of England",
+    "titles": [
+      {
+        "title": "King of England",
+        "startYear": 1399,
+        "endYear": 1413
+      }
+    ],
+    "tags": [
+      "monarch",
+      "commander"
+    ],
+    "rank": "king",
+    "importanceScore": 86,
+    "relationships": {
+      "fatherId": "14J260814G031",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "14H260814V033"
+      ]
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Henry_IV_of_England",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Henry_IV_of_England",
+    "sourceNote": "",
+    "notes": "Blank MVP person card; basic identity and direct relationship only.",
+    "createdDate": "260814",
+    "createdOrder": 32
+  },
+  {
+    "id": "14H260814V033",
+    "firstName": "Henry",
+    "lastName": "Plantagenet",
+    "displayName": "Henry V",
+    "fullName": "Henry V of England",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1386,
+    "deathYear": 1422,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "male",
+    "dynasty": "House of Plantagenet",
+    "house": "House of Plantagenet",
+    "culture": "English",
+    "faith": "Catholic",
+    "primaryTitle": "King of England",
+    "titles": [
+      {
+        "title": "King of England",
+        "startYear": 1413,
+        "endYear": 1422
+      }
+    ],
+    "tags": [
+      "monarch",
+      "commander"
+    ],
+    "rank": "king",
+    "importanceScore": 90,
+    "relationships": {
+      "fatherId": "14H260814L032",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "15H260814S034"
+      ]
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Henry_V_of_England",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Henry_V_of_England",
+    "sourceNote": "",
+    "notes": "Blank MVP person card; basic identity and direct relationship only.",
+    "createdDate": "260814",
+    "createdOrder": 33
+  },
+  {
+    "id": "15H260814S034",
+    "firstName": "Henry",
+    "lastName": "Plantagenet",
+    "displayName": "Henry VI",
+    "fullName": "Henry VI of England",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1421,
+    "deathYear": 1471,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "male",
+    "dynasty": "House of Plantagenet",
+    "house": "House of Plantagenet",
+    "culture": "English",
+    "faith": "Catholic",
+    "primaryTitle": "King of England",
+    "titles": [
+      {
+        "title": "King of England",
+        "startYear": 1422,
+        "endYear": 1461
+      }
+    ],
+    "tags": [
+      "monarch"
+    ],
+    "rank": "king",
+    "importanceScore": 84,
+    "relationships": {
+      "fatherId": "14H260814V033",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Henry_VI_of_England",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Henry_VI_of_England",
+    "sourceNote": "",
+    "notes": "Blank MVP person card; basic identity and direct relationship only.",
+    "createdDate": "260814",
+    "createdOrder": 34
+  },
+  {
+    "id": "14L260814C035",
+    "firstName": "Lionel",
+    "lastName": "Plantagenet",
+    "displayName": "Lionel of Antwerp",
+    "fullName": "Lionel of Antwerp, Duke of Clarence",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1338,
+    "deathYear": 1368,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "male",
+    "dynasty": "House of Plantagenet",
+    "house": "House of Plantagenet",
+    "culture": "English",
+    "faith": "Catholic",
+    "primaryTitle": "Duke of Clarence",
+    "titles": [
+      {
+        "title": "Duke of Clarence",
+        "startYear": 1362,
+        "endYear": 1368
+      }
+    ],
+    "tags": [
+      "duke",
+      "noble"
+    ],
+    "rank": "duke",
+    "importanceScore": 74,
+    "relationships": {
+      "fatherId": "14E260814T028",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "14P260814U036"
+      ]
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Lionel_of_Antwerp,_Duke_of_Clarence",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Lionel_of_Antwerp,_Duke_of_Clarence",
+    "sourceNote": "",
+    "notes": "Blank MVP person card; basic identity and direct relationship only.",
+    "createdDate": "260814",
+    "createdOrder": 35
+  },
+  {
+    "id": "14P260814U036",
+    "firstName": "Philippa",
+    "lastName": "Plantagenet",
+    "displayName": "Philippa of Clarence",
+    "fullName": "Philippa, 5th Countess of Ulster",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1355,
+    "deathYear": 1382,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "female",
+    "dynasty": "House of Plantagenet",
+    "house": "House of Plantagenet",
+    "culture": "English",
+    "faith": "Catholic",
+    "primaryTitle": "Countess of Ulster",
+    "titles": [
+      {
+        "title": "Countess of Ulster",
+        "startYear": 1368,
+        "endYear": 1382
+      }
+    ],
+    "tags": [
+      "noble",
+      "countess"
+    ],
+    "rank": "count",
+    "importanceScore": 72,
+    "relationships": {
+      "fatherId": "14L260814C035",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "14R260814M037"
+      ]
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Philippa,_5th_Countess_of_Ulster",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Philippa,_5th_Countess_of_Ulster",
+    "sourceNote": "",
+    "notes": "Blank MVP person card; basic identity and direct relationship only.",
+    "createdDate": "260814",
+    "createdOrder": 36
+  },
+  {
+    "id": "14R260814M037",
+    "firstName": "Roger",
+    "lastName": "Mortimer",
+    "displayName": "Roger Mortimer",
+    "fullName": "Roger Mortimer, 4th Earl of March",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1374,
+    "deathYear": 1398,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "male",
+    "dynasty": "House of Mortimer",
+    "house": "House of Mortimer",
+    "culture": "English",
+    "faith": "Catholic",
+    "primaryTitle": "Earl of March",
+    "titles": [
+      {
+        "title": "Earl of March",
+        "startYear": 1381,
+        "endYear": 1398
+      }
+    ],
+    "tags": [
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 76,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "14P260814U036",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "14A260814N038"
+      ]
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Roger_Mortimer,_4th_Earl_of_March",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Roger_Mortimer,_4th_Earl_of_March",
+    "sourceNote": "",
+    "notes": "Blank MVP person card. Named heir presumptive by Richard II during his lifetime.",
+    "createdDate": "260814",
+    "createdOrder": 37
+  },
+  {
+    "id": "14A260814N038",
+    "firstName": "Anne",
+    "lastName": "Mortimer",
+    "displayName": "Anne Mortimer",
+    "fullName": "Anne de Mortimer",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1390,
+    "deathYear": 1411,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "female",
+    "dynasty": "House of Mortimer",
+    "house": "House of Mortimer",
+    "culture": "English",
+    "faith": "Catholic",
+    "primaryTitle": "Noblewoman",
+    "titles": [],
+    "tags": [
+      "noble"
+    ],
+    "rank": "untitled",
+    "importanceScore": 72,
+    "relationships": {
+      "fatherId": "14R260814M037",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "15R260814Y039"
+      ]
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Anne_de_Mortimer",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Anne_de_Mortimer",
+    "sourceNote": "",
+    "notes": "Blank MVP person card. Grandmother of Edward IV through Richard of York.",
+    "createdDate": "260814",
+    "createdOrder": 38
+  },
+  {
+    "id": "15R260814Y039",
+    "firstName": "Richard",
+    "lastName": "Plantagenet",
+    "displayName": "Richard of York",
+    "fullName": "Richard of York, 3rd Duke of York",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1411,
+    "deathYear": 1460,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "male",
+    "dynasty": "House of Plantagenet",
+    "house": "House of Plantagenet",
+    "culture": "English",
+    "faith": "Catholic",
+    "primaryTitle": "Duke of York",
+    "titles": [
+      {
+        "title": "Duke of York",
+        "startYear": 1415,
+        "endYear": 1460
+      }
+    ],
+    "tags": [
+      "duke",
+      "noble",
+      "commander"
+    ],
+    "rank": "duke",
+    "importanceScore": 84,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "14A260814N038",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "15E260814Y040"
+      ]
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Richard_of_York,_3rd_Duke_of_York",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Richard_of_York,_3rd_Duke_of_York",
+    "sourceNote": "",
+    "notes": "Blank MVP person card; inserted between Anne Mortimer and Edward IV.",
+    "createdDate": "260814",
+    "createdOrder": 39
+  },
+  {
+    "id": "15E260814Y040",
+    "firstName": "Edward",
+    "lastName": "Plantagenet",
+    "displayName": "Edward IV",
+    "fullName": "Edward IV of England",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1442,
+    "deathYear": 1483,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "male",
+    "dynasty": "House of Plantagenet",
+    "house": "House of Plantagenet",
+    "culture": "English",
+    "faith": "Catholic",
+    "primaryTitle": "King of England",
+    "titles": [
+      {
+        "title": "King of England",
+        "startYear": 1461,
+        "endYear": 1483
+      }
+    ],
+    "tags": [
+      "monarch",
+      "commander"
+    ],
+    "rank": "king",
+    "importanceScore": 90,
+    "relationships": {
+      "fatherId": "15R260814Y039",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "15E260814V041"
+      ]
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Edward_IV_of_England",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Edward_IV_of_England",
+    "sourceNote": "",
+    "notes": "Blank MVP person card; basic identity and direct relationship only.",
+    "createdDate": "260814",
+    "createdOrder": 40
+  },
+  {
+    "id": "15E260814V041",
+    "firstName": "Edward",
+    "lastName": "Plantagenet",
+    "displayName": "Edward V",
+    "fullName": "Edward V of England",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1470,
+    "deathYear": 1483,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "male",
+    "dynasty": "House of Plantagenet",
+    "house": "House of Plantagenet",
+    "culture": "English",
+    "faith": "Catholic",
+    "primaryTitle": "King of England",
+    "titles": [
+      {
+        "title": "King of England",
+        "startYear": 1483,
+        "endYear": 1483
+      }
+    ],
+    "tags": [
+      "monarch"
+    ],
+    "rank": "king",
+    "importanceScore": 82,
+    "relationships": {
+      "fatherId": "15E260814Y040",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Edward_V_of_England",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Edward_V_of_England",
+    "sourceNote": "",
+    "notes": "Blank MVP person card; basic identity and direct relationship only.",
+    "createdDate": "260814",
+    "createdOrder": 41
+  },
+  {
+    "id": "12I260815A042",
+    "firstName": "Ida",
+    "lastName": "Tosny",
+    "displayName": "Ida de Tosny",
+    "fullName": "Ida de Tosny",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": "",
+    "deathYear": "",
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "female",
+    "dynasty": "",
+    "house": "",
+    "culture": "Anglo-Norman",
+    "faith": "Catholic",
+    "primaryTitle": "Partner of Henry II",
+    "titles": [],
+    "tags": [
+      "partner"
+    ],
+    "rank": "untitled",
+    "importanceScore": 38,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [
+        "12H260814P010"
+      ],
+      "childIds": [
+        "12W260815L046"
+      ]
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Ida_de_Tosny",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Ida_de_Tosny",
+    "sourceNote": "",
+    "notes": "Blank MVP person card; non-marital partner of Henry II and mother of William Longespee.",
+    "createdDate": "260815",
+    "createdOrder": 42
+  },
+  {
+    "id": "12Y260815K043",
+    "firstName": "Ykenai",
+    "lastName": "",
+    "displayName": "Ykenai",
+    "fullName": "Ykenai",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Hikenai"
+    ],
+    "nicknameTags": [],
+    "birthYear": "",
+    "deathYear": "",
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "female",
+    "dynasty": "",
+    "house": "",
+    "culture": "Anglo-Norman",
+    "faith": "Catholic",
+    "primaryTitle": "Partner of Henry II",
+    "titles": [],
+    "tags": [
+      "partner"
+    ],
+    "rank": "untitled",
+    "importanceScore": 36,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [
+        "12H260814P010"
+      ],
+      "childIds": [
+        "12G260815Y045"
+      ]
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Geoffrey_(archbishop_of_York)",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Geoffrey_(archbishop_of_York)",
+    "sourceNote": "",
+    "notes": "Blank MVP person card; named mother of Geoffrey, Archbishop of York, in Henry II illegitimate-child tradition.",
+    "createdDate": "260815",
+    "createdOrder": 43
+  },
+  {
+    "id": "12N260815E044",
+    "firstName": "Nest",
+    "lastName": "",
+    "displayName": "Nest",
+    "fullName": "Nest",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Nesta"
+    ],
+    "nicknameTags": [],
+    "birthYear": "",
+    "deathYear": "",
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "female",
+    "dynasty": "",
+    "house": "",
+    "culture": "Welsh",
+    "faith": "Catholic",
+    "primaryTitle": "Partner of Henry II",
+    "titles": [],
+    "tags": [
+      "partner"
+    ],
+    "rank": "untitled",
+    "importanceScore": 34,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [
+        "12H260814P010"
+      ],
+      "childIds": [
+        "12M260815F047"
+      ]
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Morgan_(bishop-elect_of_Durham)",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Morgan_(bishop-elect_of_Durham)",
+    "sourceNote": "",
+    "notes": "Blank MVP person card; probable mother of Morgan FitzRoy.",
+    "createdDate": "260815",
+    "createdOrder": 44
+  },
+  {
+    "id": "12G260815Y045",
+    "firstName": "Geoffrey",
+    "lastName": "Plantagenet",
+    "displayName": "Geoffrey of York",
+    "fullName": "Geoffrey, Archbishop of York",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Geoffrey Plantagenet",
+      "Geoffrey FitzRoy"
+    ],
+    "nicknameTags": [],
+    "birthYear": 1152,
+    "deathYear": 1212,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "male",
+    "dynasty": "House of Plantagenet",
+    "house": "House of Plantagenet",
+    "culture": "Angevin",
+    "faith": "Catholic",
+    "primaryTitle": "Archbishop of York",
+    "titles": [
+      {
+        "title": "Archbishop of York",
+        "startYear": 1191,
+        "endYear": 1212
+      }
+    ],
+    "tags": [
+      "clergy",
+      "illegitimate"
+    ],
+    "rank": "untitled",
+    "importanceScore": 62,
+    "relationships": {
+      "fatherId": "12H260814P010",
+      "motherId": "12Y260815K043",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Geoffrey_(archbishop_of_York)",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Geoffrey_(archbishop_of_York)",
+    "sourceNote": "",
+    "notes": "Blank MVP person card; acknowledged illegitimate son of Henry II.",
+    "createdDate": "260815",
+    "createdOrder": 45
+  },
+  {
+    "id": "12W260815L046",
+    "firstName": "William",
+    "lastName": "Longespee",
+    "displayName": "William Longespee",
+    "fullName": "William Longespee, Earl of Salisbury",
+    "nickname": "",
+    "alsoKnownAs": [
+      "William Longespée",
+      "William FitzRoy"
+    ],
+    "nicknameTags": [],
+    "birthYear": 1176,
+    "deathYear": 1226,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "male",
+    "dynasty": "House of Plantagenet",
+    "house": "House of Plantagenet",
+    "culture": "Angevin",
+    "faith": "Catholic",
+    "primaryTitle": "Earl of Salisbury",
+    "titles": [
+      {
+        "title": "Earl of Salisbury",
+        "startYear": 1196,
+        "endYear": 1226
+      }
+    ],
+    "tags": [
+      "noble",
+      "commander",
+      "illegitimate"
+    ],
+    "rank": "count",
+    "importanceScore": 66,
+    "relationships": {
+      "fatherId": "12H260814P010",
+      "motherId": "12I260815A042",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/William_Longespee,_3rd_Earl_of_Salisbury",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/William_Longespee,_3rd_Earl_of_Salisbury",
+    "sourceNote": "",
+    "notes": "Blank MVP person card; acknowledged illegitimate son of Henry II.",
+    "createdDate": "260815",
+    "createdOrder": 46
+  },
+  {
+    "id": "12M260815F047",
+    "firstName": "Morgan",
+    "lastName": "FitzRoy",
+    "displayName": "Morgan FitzRoy",
+    "fullName": "Morgan FitzRoy",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Morgan, bishop-elect of Durham"
+    ],
+    "nicknameTags": [],
+    "birthYear": "",
+    "deathYear": "",
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "male",
+    "dynasty": "House of Plantagenet",
+    "house": "House of Plantagenet",
+    "culture": "Angevin",
+    "faith": "Catholic",
+    "primaryTitle": "Bishop-elect of Durham",
+    "titles": [],
+    "tags": [
+      "clergy",
+      "illegitimate"
+    ],
+    "rank": "untitled",
+    "importanceScore": 50,
+    "relationships": {
+      "fatherId": "12H260814P010",
+      "motherId": "12N260815E044",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Morgan_(bishop-elect_of_Durham)",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Morgan_(bishop-elect_of_Durham)",
+    "sourceNote": "",
+    "notes": "Blank MVP person card; illegitimate son of Henry II in the standard extended list.",
+    "createdDate": "260815",
+    "createdOrder": 47
+  }
+]
