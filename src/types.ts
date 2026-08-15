@@ -1,5 +1,6 @@
 export type Title = {
   title: string;
+  titleCn?: string;
   startYear: number | "";
   endYear: number | "";
 };
@@ -12,6 +13,7 @@ export type PersonEvent = {
   tags?: string[];
   weight?: number;
   label: string;
+  labelCn?: string;
   wikiUrl: string;
   note?: string;
 };
@@ -19,8 +21,11 @@ export type PersonEvent = {
 export type DeathCause = {
   kind: "normal" | "violent" | "violent_uncertain" | "uncertain";
   summary: string;
+  summaryCn?: string;
   detail: string;
+  detailCn?: string;
   culprit?: string;
+  culpritCn?: string;
   wikiUrl?: string;
 };
 
@@ -33,6 +38,14 @@ export type Person = {
   nickname: string;
   alsoKnownAs: string[];
   nicknameTags: string[];
+  // Chinese display fields (optional): used by the CN interface mode and
+  // Chinese search. English fields remain the canonical historical layer.
+  displayNameCn?: string;
+  fullNameCn?: string;
+  nicknameCn?: string;
+  primaryTitleCn?: string;
+  birthPlaceCn?: string;
+  deathPlaceCn?: string;
   birthYear: number | "";
   deathYear: number | "";
   birthPlace: string;

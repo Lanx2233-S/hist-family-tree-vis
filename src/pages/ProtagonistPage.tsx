@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { useFamilyStore } from "../store";
 import { genderMark, initials, titleTier, years } from "../lib/personPresentation";
-import { copyFor } from "../features/shared/presentation";
+import { copyFor, textFor } from "../features/shared/presentation";
 import { PageTabs } from "../components/PageTabs";
 
 export function ProtagonistPage({ onEnter, onTree }: { onEnter: (id: string) => void; onTree: () => void }) {
@@ -12,11 +12,11 @@ export function ProtagonistPage({ onEnter, onTree }: { onEnter: (id: string) => 
   const [page, setPage] = useState(0);
   const t = copyFor(language);
   const picks = [
-    { id: "11A260814K001", phase: "I", hook: "1066 Norman Conquest", toneKey: "pickToneNorman" as const },
-    { id: "12E260814A011", phase: "II", hook: "Angevin Empire", toneKey: "pickToneAngevin" as const },
-    { id: "13E260814W015", phase: "III", hook: "Plantagenet Main Line", toneKey: "pickTonePlantagenet" as const },
-    { id: "15E260814Y040", phase: "IV", hook: "Yorkist Claim", toneKey: "pickToneYorkist" as const },
-    { id: "16E260815I017", phase: "V", hook: "Tudor Culmination", toneKey: "pickToneTudor" as const },
+    { id: "11A260814K001", phase: "I", hook: "1066 Norman Conquest", hookCn: "1066 诺曼征服", toneKey: "pickToneNorman" as const },
+    { id: "12E260814A011", phase: "II", hook: "Angevin Empire", hookCn: "安茹帝国", toneKey: "pickToneAngevin" as const },
+    { id: "13E260814W015", phase: "III", hook: "Plantagenet Main Line", hookCn: "金雀花主支世系", toneKey: "pickTonePlantagenet" as const },
+    { id: "15E260814Y040", phase: "IV", hook: "Yorkist Claim", hookCn: "约克王位主张", toneKey: "pickToneYorkist" as const },
+    { id: "16E260815I017", phase: "V", hook: "Tudor Culmination", hookCn: "都铎巅峰", toneKey: "pickToneTudor" as const },
   ];
   const visiblePicks = picks.slice(page * 3, page * 3 + 3);
   const pageCount = Math.ceil(picks.length / 3);
@@ -58,14 +58,15 @@ export function ProtagonistPage({ onEnter, onTree }: { onEnter: (id: string) => 
           {visiblePicks.map((pick) => {
             const person = people.find((item) => item.id === pick.id);
             if (!person) return null;
+            const label = textFor(person, language);
             return (
               <button key={pick.id} type="button" className={`protagonist-card tier-${titleTier(person)}`} onClick={() => onEnter(person.id)}>
                 <span className="phase-badge">{t.phase} {pick.phase}</span>
                 <span className={`protagonist-gender ${person.gender}`}>{genderMark(person)}</span>
-                <span className="protagonist-avatar">{initials(person)}</span>
-                <span className="protagonist-name">{person.fullName}</span>
-                <span className="protagonist-title">{person.primaryTitle} · {years(person)}</span>
-                <span className="protagonist-hook">{pick.hook}</span>
+                <span className="protagonist-avatar">{initials(person, language)}</span>
+                <span className="protagonist-name">{label.fullName}</span>
+                <span className="protagonist-title">{label.primaryTitle} · {years(person)}</span>
+                <span className="protagonist-hook">{language === "cn" ? pick.hookCn : pick.hook}</span>
                 <span className="protagonist-tone">{t[pick.toneKey]}</span>
                 <span className="enter-pill">{t.enterTree}</span>
               </button>

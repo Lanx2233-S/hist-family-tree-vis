@@ -25,7 +25,17 @@ function dateCode() {
   return `${String(date.getUTCFullYear()).slice(-2)}${String(date.getUTCMonth() + 1).padStart(2, "0")}${String(date.getUTCDate()).padStart(2, "0")}`;
 }
 
+// Chinese display fields are returned from the localized JSONB column using an
+// explicit whitelist, so database content can never override canonical fields.
+const localizedCnKeys = ["displayNameCn", "fullNameCn", "nicknameCn", "primaryTitleCn", "birthPlaceCn", "deathPlaceCn"];
+
 function asPerson(row) {
+  const localized = row.localized ?? {};
+  const cnFields = {};
+  for (const key of localizedCnKeys) {
+    const value = localized[key];
+    if (typeof value === "string" && value) cnFields[key] = value;
+  }
   return {
     id: row.id,
     firstName: row.first_name,
@@ -35,6 +45,7 @@ function asPerson(row) {
     nickname: row.nickname,
     alsoKnownAs: row.also_known_as ?? [],
     nicknameTags: row.nickname_tags ?? [],
+    ...cnFields,
     birthYear: row.birth_year ?? "",
     deathYear: row.death_year ?? "",
     birthPlace: row.birth_place,
@@ -66,10 +77,10 @@ async function listPeople() {
   const [peopleResult, parentageResult, titlesResult, tagsResult, unionsResult, eventsResult] = await Promise.all([
     pool.query("SELECT * FROM people ORDER BY created_order"),
     pool.query("SELECT child_id, father_id, mother_id FROM person_parentage"),
-    pool.query("SELECT person_id, title, start_year, end_year FROM person_titles ORDER BY start_year NULLS LAST"),
+    pool.query("SELECT person_id, title, title_cn, start_year, end_year FROM person_titles ORDER BY start_year NULLS LAST"),
     pool.query("SELECT person_id, tag FROM person_tags ORDER BY tag"),
     pool.query("SELECT person_a_id, person_b_id, union_type FROM person_unions"),
-    pool.query("SELECT person_id, year, month, day, event_type, tags, weight, label, wiki_url, note FROM person_events ORDER BY year, month, day"),
+    pool.query("SELECT person_id, year, month, day, event_type, tags, weight, label, label_cn, wiki_url, note FROM person_events ORDER BY year, month, day"),
   ]);
   const byId = new Map(peopleResult.rows.map((row) => [row.id, asPerson(row)]));
 
@@ -80,7 +91,7 @@ async function listPeople() {
     child.relationships.motherId = row.mother_id ?? "";
     [row.father_id, row.mother_id].filter(Boolean).forEach((parentId) => byId.get(parentId)?.relationships.childIds.push(row.child_id));
   });
-  titlesResult.rows.forEach((row) => byId.get(row.person_id)?.titles.push({ title: row.title, startYear: row.start_year ?? "", endYear: row.end_year ?? "" }));
+  titlesResult.rows.forEach((row) => byId.get(row.person_id)?.titles.push({ title: row.title, titleCn: row.title_cn || undefined, startYear: row.start_year ?? "", endYear: row.end_year ?? "" }));
   tagsResult.rows.forEach((row) => byId.get(row.person_id)?.tags.push(row.tag));
   unionsResult.rows.forEach((row) => {
     const a = byId.get(row.person_a_id);
@@ -98,6 +109,7 @@ async function listPeople() {
     tags: row.tags ?? [],
     weight: row.weight,
     label: row.label,
+    labelCn: row.label_cn || undefined,
     wikiUrl: row.wiki_url,
     note: row.note || undefined,
   }));

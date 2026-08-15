@@ -7,7 +7,7 @@ import { PageTabs, type AppPage } from "./components/PageTabs";
 import { peopleSearchResults } from "./features/people/peopleSearch";
 import { DetailPanel } from "./features/people/DetailPanel";
 import { FamilyTree } from "./features/tree/FamilyTree";
-import { copyFor, tagText, textFor, years } from "./features/shared/presentation";
+import { copyFor, dynastyCn, tagText, textFor, years } from "./features/shared/presentation";
 import { ProtagonistPage } from "./pages/ProtagonistPage";
 function Toolbar({ onSelectPerson, onAddPerson }: { onSelectPerson: (id: string) => void; onAddPerson: () => void }) {
   const people = useFamilyStore((state) => state.people);
@@ -27,7 +27,7 @@ function Toolbar({ onSelectPerson, onAddPerson }: { onSelectPerson: (id: string)
   const t = copyFor(language);
   const selectedPerson = people.find((person) => person.id === selectedId) ?? people[0];
   const selectedLabel = textFor(selectedPerson, language);
-  const houseLabel = selectedLabel.dynasty || selectedPerson.house;
+  const houseLabel = selectedLabel.dynasty || (language === "cn" ? dynastyCn(selectedPerson.house) : selectedPerson.house);
   const treeTitle = houseLabel ? `${houseLabel} ${t.familyTree}` : t.familyTree;
   const searchResults = peopleSearchResults(people, searchQuery);
 
@@ -76,8 +76,8 @@ function Toolbar({ onSelectPerson, onAddPerson }: { onSelectPerson: (id: string)
                   onMouseDown={(event) => event.preventDefault()}
                   onClick={() => selectSearchResult(person)}
                 >
-                  <strong>{person.displayName}</strong>
-                  <small>{person.primaryTitle} · {years(person)}</small>
+                  <strong>{textFor(person, language).displayName}</strong>
+                  <small>{textFor(person, language).primaryTitle} · {years(person)}</small>
                 </button>
               )) : <p className="people-search-empty">{t.noMatchingPeople}</p>}
             </div>
@@ -132,6 +132,7 @@ export default function App() {
   const selectedId = useFamilyStore((state) => state.selectedId);
   const setSelectedId = useFamilyStore((state) => state.setSelectedId);
   const people = useFamilyStore((state) => state.people);
+  const language = useFamilyStore((state) => state.language);
   const upsertPerson = useFamilyStore((state) => state.upsertPerson);
   const replacePeople = useFamilyStore((state) => state.replacePeople);
 
@@ -144,6 +145,13 @@ export default function App() {
       .catch(() => undefined);
     return () => { isCurrent = false; };
   }, [replacePeople]);
+
+  // Keep the document metadata in sync with the active language: the browser
+  // tab title and the html lang attribute (screen readers, hyphenation).
+  useEffect(() => {
+    document.documentElement.lang = language === "cn" ? "zh-CN" : "en";
+    document.title = copyFor(language).documentTitle;
+  }, [language]);
 
   function selectCenter(id: string) {
     if (id === selectedId) return;

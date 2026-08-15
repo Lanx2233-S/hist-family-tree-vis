@@ -1,7 +1,7 @@
 ﻿import { useState } from "react";
 import { useFamilyStore } from "../../store";
 import type { PersonEvent } from "../../types";
-import { byImportance, copyFor, DeathCauseButton, eventAge, eventDateText, eventDateValue, eventTagText, EventNote, genderMark, initials, lifespan, shortEnglishName, tagText, textFor, years, type Language } from "../shared/presentation";
+import { byImportance, copyFor, DeathCauseButton, eventAge, eventDateText, eventDateValue, eventLabelText, eventTagText, EventNote, genderMark, initials, lifespan, shortEnglishName, tagText, textFor, years, type Language } from "../shared/presentation";
 export function DetailPanel() {
   const people = useFamilyStore((state) => state.people);
   const selectedId = useFamilyStore((state) => state.selectedId);
@@ -19,7 +19,7 @@ export function DetailPanel() {
   return (
     <aside className="detail-panel">
       <div className="portrait-wrap">
-        <div className="portrait">{initials(person)}</div>
+        <div className="portrait">{initials(person, language)}</div>
         <span className={`portrait-gender ${person.gender}`}>{genderMark(person)}</span>
       </div>
       <p className="eyebrow">{label.dynasty}</p>
@@ -38,7 +38,7 @@ export function DetailPanel() {
       </dl>
       <h3>{t.titles}</h3>
       <ul className="compact-list">
-        {person.titles.map((title) => <li key={`${title.title}-${title.startYear}`}><strong>{label.title(title.title)}</strong><span>{title.startYear || "?"}-{title.endYear || "?"}</span></li>)}
+        {person.titles.map((title) => <li key={`${title.title}-${title.startYear}`}><strong>{label.title(title)}</strong><span>{title.startYear || "?"}-{title.endYear || "?"}</span></li>)}
       </ul>
       <div className="section-heading">
         <h3>{t.topEvents}</h3>
@@ -50,7 +50,7 @@ export function DetailPanel() {
             <span>{eventDateText(event)}</span>
             <div className="event-main">
               <div className="event-title-row">
-                <a href={event.wikiUrl} target="_blank" rel="noreferrer">{label.event(event.label)}</a>
+                <a href={event.wikiUrl} target="_blank" rel="noreferrer">{eventLabelText(event, language)}</a>
                 <strong className="event-age">{eventAge(person, event, language)}</strong>
               </div>
               <div className="event-meta"><small>{eventTagText(event.tags?.[0] ?? event.type, language)}</small><EventNote note={event.note} language={language} /></div>
@@ -80,7 +80,7 @@ export function DetailPanel() {
                   <span className="timeline-year">{eventDateText(event)}</span>
                   <div>
                     <div className="event-title-row">
-                      <a href={event.wikiUrl} target="_blank" rel="noreferrer">{label.event(event.label)}</a>
+                      <a href={event.wikiUrl} target="_blank" rel="noreferrer">{eventLabelText(event, language)}</a>
                       <strong className="event-age">{eventAge(person, event, language)}</strong>
                     </div>
                     <div className="event-meta"><small>{(event.tags ?? [event.type]).map((tag) => eventTagText(tag, language)).join(" / ")}</small><EventNote note={event.note} language={language} /></div>

@@ -1,7 +1,7 @@
 import { useMemo, useState, type FormEvent } from "react";
 import { createPerson, type CreatePersonInput } from "../api/peopleApi";
 import { useFamilyStore } from "../store";
-import { copyFor } from "../features/shared/presentation";
+import { copyFor, textFor } from "../features/shared/presentation";
 import type { Person } from "../types";
 
 type PersonFormModalProps = {
@@ -66,7 +66,10 @@ export function PersonFormModal({ people, onClose, onCreated }: PersonFormModalP
       onCreated(person);
       onClose();
     } catch (caught) {
-      setError(caught instanceof Error ? caught.message : t.couldNotSave);
+      console.error(caught);
+      // Server validation messages are English; CN mode shows the localized
+      // generic error instead so the modal stays fully translated.
+      setError(language === "cn" ? t.couldNotSave : caught instanceof Error ? caught.message : t.couldNotSave);
     } finally {
       setSaving(false);
     }
@@ -94,9 +97,9 @@ export function PersonFormModal({ people, onClose, onCreated }: PersonFormModalP
             <label>{t.rank}<select value={rank} onChange={(event) => setRank(event.target.value)}><option value="untitled">{t.untitled}</option><option value="count">{t.count}</option><option value="duke">{t.duke}</option><option value="king">{t.king}</option><option value="queen">{t.queen}</option><option value="emperor">{t.emperor}</option></select></label>
             <label>{t.dynasty}<input value={dynasty} onChange={(event) => setDynasty(event.target.value)} /></label>
             <label>{t.primaryTitle}<input value={primaryTitle} onChange={(event) => setPrimaryTitle(event.target.value)} /></label>
-            <label>{t.father}<select value={fatherId} onChange={(event) => setFatherId(event.target.value)}><option value="">{t.unknown}</option>{people.filter((person) => person.gender === "male").map((person) => <option key={person.id} value={person.id}>{person.displayName} · {person.id}</option>)}</select></label>
-            <label>{t.mother}<select value={motherId} onChange={(event) => setMotherId(event.target.value)}><option value="">{t.unknown}</option>{people.filter((person) => person.gender === "female").map((person) => <option key={person.id} value={person.id}>{person.displayName} · {person.id}</option>)}</select></label>
-            <label className="span-two">{t.tagsLabel}<input value={tags} onChange={(event) => setTags(event.target.value)} placeholder="monarch, commander, noble" /></label>
+            <label>{t.father}<select value={fatherId} onChange={(event) => setFatherId(event.target.value)}><option value="">{t.unknown}</option>{people.filter((person) => person.gender === "male").map((person) => <option key={person.id} value={person.id}>{textFor(person, language).displayName} · {person.id}</option>)}</select></label>
+            <label>{t.mother}<select value={motherId} onChange={(event) => setMotherId(event.target.value)}><option value="">{t.unknown}</option>{people.filter((person) => person.gender === "female").map((person) => <option key={person.id} value={person.id}>{textFor(person, language).displayName} · {person.id}</option>)}</select></label>
+            <label className="span-two">{t.tagsLabel}<input value={tags} onChange={(event) => setTags(event.target.value)} placeholder={t.tagsPlaceholder} /></label>
             <label className="span-two">{t.englishWikipedia}<input type="url" value={wikiUrl} onChange={(event) => setWikiUrl(event.target.value)} placeholder="https://en.wikipedia.org/..." /></label>
           </div>
           <p className="person-id-preview">{t.idLabel}: <code>{suggestedId}</code></p>

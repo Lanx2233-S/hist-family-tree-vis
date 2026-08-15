@@ -27,12 +27,14 @@
       {
         "title": "Duke of Normandy",
         "startYear": 1035,
-        "endYear": 1087
+        "endYear": 1087,
+        "titleCn": "诺曼底公爵"
       },
       {
         "title": "King of England",
         "startYear": 1066,
-        "endYear": 1087
+        "endYear": 1087,
+        "titleCn": "英格兰国王"
       }
     ],
     "tags": [
@@ -67,7 +69,8 @@
         "weight": 72,
         "label": "Became Duke of Normandy",
         "wikiUrl": "https://en.wikipedia.org/wiki/William_the_Conqueror",
-        "month": 7
+        "month": 7,
+        "labelCn": "成为诺曼底公爵"
       },
       {
         "year": 1051,
@@ -79,7 +82,8 @@
         "weight": 78,
         "label": "Marriage to Matilda of Flanders",
         "wikiUrl": "https://en.wikipedia.org/wiki/Matilda_of_Flanders",
-        "month": 8
+        "month": 8,
+        "labelCn": "与佛兰德的玛蒂尔达成婚"
       },
       {
         "year": 1066,
@@ -93,7 +97,8 @@
         ],
         "weight": 100,
         "label": "Battle of Hastings",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Hastings"
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Hastings",
+        "labelCn": "黑斯廷斯战役"
       },
       {
         "year": 1066,
@@ -106,7 +111,8 @@
         "weight": 98,
         "label": "Became King of England",
         "wikiUrl": "https://en.wikipedia.org/wiki/William_the_Conqueror",
-        "note": "Berkhamsted submission / crown offered."
+        "note": "Berkhamsted submission / crown offered.",
+        "labelCn": "成为英格兰国王"
       },
       {
         "year": 1066,
@@ -119,7 +125,8 @@
         ],
         "weight": 92,
         "label": "Coronation as King of England",
-        "wikiUrl": "https://en.wikipedia.org/wiki/William_the_Conqueror"
+        "wikiUrl": "https://en.wikipedia.org/wiki/William_the_Conqueror",
+        "labelCn": "加冕为英格兰国王"
       },
       {
         "year": 1069,
@@ -130,7 +137,8 @@
         ],
         "weight": 88,
         "label": "Harrying of the North",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Harrying_of_the_North"
+        "wikiUrl": "https://en.wikipedia.org/wiki/Harrying_of_the_North",
+        "labelCn": "北方洗劫"
       },
       {
         "year": 1086,
@@ -140,7 +148,8 @@
         ],
         "weight": 84,
         "label": "Domesday Book completed",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Domesday_Book"
+        "wikiUrl": "https://en.wikipedia.org/wiki/Domesday_Book",
+        "labelCn": "《末日审判书》编纂完成"
       },
       {
         "year": 1087,
@@ -153,7 +162,8 @@
         "weight": 70,
         "label": "Death of William the Conqueror",
         "wikiUrl": "https://en.wikipedia.org/wiki/William_the_Conqueror",
-        "note": "Died at Rouen after injuries and illness following the Mantes campaign."
+        "note": "Died at Rouen after injuries and illness following the Mantes campaign.",
+        "labelCn": "征服者威廉去世"
       }
     ],
     "wikiUrl": "https://en.wikipedia.org/wiki/William_the_Conqueror",
@@ -167,8 +177,16 @@
       "kind": "normal",
       "summary": "Died from illness and injuries after campaign",
       "detail": "William died at Rouen in 1087 after becoming seriously ill following the Mantes campaign. His death is usually treated as campaign-related illness or injury rather than assassination.",
-      "wikiUrl": "https://en.wikipedia.org/wiki/William_the_Conqueror"
-    }
+      "wikiUrl": "https://en.wikipedia.org/wiki/William_the_Conqueror",
+      "summaryCn": "战役后因病伤去世",
+      "detailCn": "1087 年威廉在芒特战役后身患重病，于鲁昂去世。通常认为其死因是征战所致的疾病或伤病，而非遇刺。"
+    },
+    "displayNameCn": "威廉一世",
+    "fullNameCn": "征服者威廉一世",
+    "nicknameCn": "征服者",
+    "primaryTitleCn": "英格兰国王",
+    "birthPlaceCn": "诺曼底公国法莱斯",
+    "deathPlaceCn": "诺曼底公国鲁昂"
   },
   {
     "id": "10R260814B002",
@@ -197,7 +215,8 @@
       {
         "title": "Duke of Normandy",
         "startYear": 1027,
-        "endYear": 1035
+        "endYear": 1035,
+        "titleCn": "诺曼底公爵"
       }
     ],
     "tags": [
@@ -222,7 +241,13 @@
     "sourceNote": "",
     "notes": "Father of William the Conqueror. Birth year is approximate.",
     "createdDate": "260814",
-    "createdOrder": 2
+    "createdOrder": 2,
+    "displayNameCn": "罗贝尔一世",
+    "fullNameCn": "诺曼底公爵罗贝尔一世",
+    "nicknameCn": "华丽者",
+    "primaryTitleCn": "诺曼底公爵",
+    "birthPlaceCn": "诺曼底",
+    "deathPlaceCn": "拜占庭帝国尼西亚"
   },
   {
     "id": "11M260814F003",
@@ -247,12 +272,14 @@
       {
         "title": "Duchess of Normandy",
         "startYear": 1051,
-        "endYear": 1083
+        "endYear": 1083,
+        "titleCn": "诺曼底女公爵"
       },
       {
         "title": "Queen of England",
         "startYear": 1068,
-        "endYear": 1083
+        "endYear": 1083,
+        "titleCn": "英格兰王后"
       }
     ],
     "tags": [
@@ -285,7 +312,8 @@
         ],
         "weight": 82,
         "label": "Marriage to William, Duke of Normandy",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Matilda_of_Flanders"
+        "wikiUrl": "https://en.wikipedia.org/wiki/Matilda_of_Flanders",
+        "labelCn": "与诺曼底公爵威廉成婚"
       },
       {
         "year": 1051,
@@ -296,7 +324,8 @@
         ],
         "weight": 84,
         "label": "Birth of Robert Curthose",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Robert_Curthose"
+        "wikiUrl": "https://en.wikipedia.org/wiki/Robert_Curthose",
+        "labelCn": "罗贝尔·柯索斯出生"
       },
       {
         "year": 1054,
@@ -307,7 +336,8 @@
         ],
         "weight": 58,
         "label": "Birth of Richard of Normandy",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Richard_of_Normandy"
+        "wikiUrl": "https://en.wikipedia.org/wiki/Richard_of_Normandy",
+        "labelCn": "诺曼底的理查出生"
       },
       {
         "year": 1055,
@@ -318,7 +348,8 @@
         ],
         "weight": 52,
         "label": "Birth of Adeliza of Normandy",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Adeliza_of_Normandy"
+        "wikiUrl": "https://en.wikipedia.org/wiki/Adeliza_of_Normandy",
+        "labelCn": "诺曼底的阿德莉扎出生"
       },
       {
         "year": 1058,
@@ -329,7 +360,8 @@
         ],
         "weight": 62,
         "label": "Birth of Cecilia of Normandy",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Cecilia_of_Normandy"
+        "wikiUrl": "https://en.wikipedia.org/wiki/Cecilia_of_Normandy",
+        "labelCn": "诺曼底的塞西莉亚出生"
       },
       {
         "year": 1056,
@@ -340,7 +372,8 @@
         ],
         "weight": 88,
         "label": "Birth of William Rufus",
-        "wikiUrl": "https://en.wikipedia.org/wiki/William_II_of_England"
+        "wikiUrl": "https://en.wikipedia.org/wiki/William_II_of_England",
+        "labelCn": "威廉·鲁夫斯出生"
       },
       {
         "year": 1061,
@@ -351,7 +384,8 @@
         ],
         "weight": 48,
         "label": "Birth of Matilda of Normandy",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Matilda_of_Normandy"
+        "wikiUrl": "https://en.wikipedia.org/wiki/Matilda_of_Normandy",
+        "labelCn": "诺曼底的玛蒂尔达出生"
       },
       {
         "year": 1062,
@@ -362,7 +396,8 @@
         ],
         "weight": 70,
         "label": "Birth of Adela of Normandy",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Adela_of_Normandy"
+        "wikiUrl": "https://en.wikipedia.org/wiki/Adela_of_Normandy",
+        "labelCn": "诺曼底的阿德拉出生"
       },
       {
         "year": 1064,
@@ -374,7 +409,8 @@
         ],
         "weight": 34,
         "label": "Birth of Agatha of Normandy",
-        "wikiUrl": "https://en.wikipedia.org/wiki/William_the_Conqueror"
+        "wikiUrl": "https://en.wikipedia.org/wiki/William_the_Conqueror",
+        "labelCn": "诺曼底的阿加莎出生"
       },
       {
         "year": 1066,
@@ -385,7 +421,8 @@
         ],
         "weight": 60,
         "label": "Birth of Constance of Normandy",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Constance_of_Normandy"
+        "wikiUrl": "https://en.wikipedia.org/wiki/Constance_of_Normandy",
+        "labelCn": "诺曼底的康斯坦丝出生"
       },
       {
         "year": 1066,
@@ -396,7 +433,8 @@
         ],
         "weight": 90,
         "label": "Became Queen of England",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Matilda_of_Flanders"
+        "wikiUrl": "https://en.wikipedia.org/wiki/Matilda_of_Flanders",
+        "labelCn": "成为英格兰王后"
       },
       {
         "year": 1068,
@@ -407,7 +445,8 @@
         ],
         "weight": 90,
         "label": "Birth of Henry Beauclerc",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_I_of_England"
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_I_of_England",
+        "labelCn": "亨利·博克莱尔出生"
       },
       {
         "year": 1068,
@@ -420,7 +459,8 @@
         ],
         "weight": 86,
         "label": "Coronation as Queen of England",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Matilda_of_Flanders"
+        "wikiUrl": "https://en.wikipedia.org/wiki/Matilda_of_Flanders",
+        "labelCn": "加冕为英格兰王后"
       },
       {
         "year": 1083,
@@ -432,7 +472,8 @@
         ],
         "weight": 58,
         "label": "Death of Matilda of Flanders",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Matilda_of_Flanders"
+        "wikiUrl": "https://en.wikipedia.org/wiki/Matilda_of_Flanders",
+        "labelCn": "佛兰德的玛蒂尔达去世"
       }
     ],
     "wikiUrl": "https://en.wikipedia.org/wiki/Matilda_of_Flanders",
@@ -446,8 +487,15 @@
       "kind": "normal",
       "summary": "Died of natural causes",
       "detail": "Matilda died in Normandy in 1083. Standard accounts do not describe a violent or suspicious death.",
-      "wikiUrl": "https://en.wikipedia.org/wiki/Matilda_of_Flanders"
-    }
+      "wikiUrl": "https://en.wikipedia.org/wiki/Matilda_of_Flanders",
+      "summaryCn": "自然死亡",
+      "detailCn": "1083 年玛蒂尔达在诺曼底去世。通行史料未记载暴力或可疑的死因。"
+    },
+    "displayNameCn": "佛兰德的玛蒂尔达",
+    "fullNameCn": "佛兰德的玛蒂尔达，英格兰王后",
+    "primaryTitleCn": "英格兰王后",
+    "birthPlaceCn": "佛兰德",
+    "deathPlaceCn": "诺曼底公国卡昂"
   },
   {
     "id": "11C260814N004",
@@ -474,7 +522,8 @@
       {
         "title": "Duke of Normandy",
         "startYear": 1087,
-        "endYear": 1106
+        "endYear": 1106,
+        "titleCn": "诺曼底公爵"
       }
     ],
     "tags": [
@@ -502,7 +551,8 @@
         ],
         "weight": 86,
         "label": "Became Duke of Normandy",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Robert_Curthose"
+        "wikiUrl": "https://en.wikipedia.org/wiki/Robert_Curthose",
+        "labelCn": "成为诺曼底公爵"
       },
       {
         "year": 1096,
@@ -513,7 +563,8 @@
         ],
         "weight": 82,
         "label": "First Crusade",
-        "wikiUrl": "https://en.wikipedia.org/wiki/First_Crusade"
+        "wikiUrl": "https://en.wikipedia.org/wiki/First_Crusade",
+        "labelCn": "第一次十字军东征"
       },
       {
         "year": 1106,
@@ -527,7 +578,8 @@
         ],
         "weight": 94,
         "label": "Battle of Tinchebray",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Tinchebray"
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Tinchebray",
+        "labelCn": "坦什布赖战役"
       },
       {
         "year": 1134,
@@ -539,7 +591,8 @@
         "weight": 58,
         "label": "Death of Robert Curthose",
         "wikiUrl": "https://en.wikipedia.org/wiki/Robert_Curthose",
-        "note": "Died while imprisoned at Cardiff Castle."
+        "note": "Died while imprisoned at Cardiff Castle.",
+        "labelCn": "罗贝尔·柯索斯去世"
       }
     ],
     "wikiUrl": "https://en.wikipedia.org/wiki/Robert_Curthose",
@@ -553,8 +606,16 @@
       "kind": "normal",
       "summary": "Died in captivity at Cardiff Castle",
       "detail": "Robert Curthose died in 1134 after many years imprisoned by his brother Henry I. The death itself is not usually treated as murder, but the long captivity is central to the context.",
-      "wikiUrl": "https://en.wikipedia.org/wiki/Robert_Curthose"
-    }
+      "wikiUrl": "https://en.wikipedia.org/wiki/Robert_Curthose",
+      "summaryCn": "死于加的夫城堡的囚禁中",
+      "detailCn": "1134 年罗贝尔·柯索斯在遭其兄亨利一世长期囚禁后去世。其死亡本身通常不被视为谋杀，但长期囚禁是重要背景。"
+    },
+    "displayNameCn": "罗贝尔·柯索斯",
+    "fullNameCn": "诺曼底公爵罗贝尔·柯索斯",
+    "nicknameCn": "柯索斯",
+    "primaryTitleCn": "诺曼底公爵",
+    "birthPlaceCn": "诺曼底",
+    "deathPlaceCn": "威尔士加的夫城堡"
   },
   {
     "id": "11W260814R005",
@@ -585,7 +646,8 @@
       {
         "title": "King of England",
         "startYear": 1087,
-        "endYear": 1100
+        "endYear": 1100,
+        "titleCn": "英格兰国王"
       }
     ],
     "tags": [
@@ -611,7 +673,8 @@
         ],
         "weight": 92,
         "label": "Became King of England",
-        "wikiUrl": "https://en.wikipedia.org/wiki/William_II_of_England"
+        "wikiUrl": "https://en.wikipedia.org/wiki/William_II_of_England",
+        "labelCn": "成为英格兰国王"
       },
       {
         "year": 1087,
@@ -624,7 +687,8 @@
         ],
         "weight": 86,
         "label": "Coronation as King of England",
-        "wikiUrl": "https://en.wikipedia.org/wiki/William_II_of_England"
+        "wikiUrl": "https://en.wikipedia.org/wiki/William_II_of_England",
+        "labelCn": "加冕为英格兰国王"
       },
       {
         "year": 1100,
@@ -639,7 +703,8 @@
         "weight": 82,
         "label": "Death in the New Forest",
         "wikiUrl": "https://en.wikipedia.org/wiki/William_II_of_England",
-        "note": "Killed by an arrow while hunting. Walter Tirel is traditionally named, though intent remains disputed."
+        "note": "Killed by an arrow while hunting. Walter Tirel is traditionally named, though intent remains disputed.",
+        "labelCn": "死于新森林"
       }
     ],
     "wikiUrl": "https://en.wikipedia.org/wiki/William_II_of_England",
@@ -654,8 +719,17 @@
       "summary": "Killed by an arrow; intent disputed",
       "detail": "William II was shot by an arrow in the New Forest on 2 August 1100. Walter Tirel is traditionally identified as the archer, but whether this was accident, negligence, or murder remains disputed.",
       "culprit": "Walter Tirel (traditionally named; intent disputed)",
-      "wikiUrl": "https://en.wikipedia.org/wiki/William_II_of_England"
-    }
+      "wikiUrl": "https://en.wikipedia.org/wiki/William_II_of_England",
+      "summaryCn": "中箭身亡；意图存疑",
+      "detailCn": "1100 年 8 月 2 日威廉二世在新森林被箭射中身亡。传统上认定射箭者为沃尔特·蒂雷尔，但究竟是意外、过失还是谋杀仍有争议。",
+      "culpritCn": "沃尔特·蒂雷尔（传统说法；意图存疑）"
+    },
+    "displayNameCn": "威廉二世",
+    "fullNameCn": "英格兰国王威廉二世",
+    "nicknameCn": "鲁夫斯",
+    "primaryTitleCn": "英格兰国王",
+    "birthPlaceCn": "诺曼底",
+    "deathPlaceCn": "英格兰汉普郡新森林"
   },
   {
     "id": "11H260814L006",
@@ -684,12 +758,14 @@
       {
         "title": "King of England",
         "startYear": 1100,
-        "endYear": 1135
+        "endYear": 1135,
+        "titleCn": "英格兰国王"
       },
       {
         "title": "Duke of Normandy",
         "startYear": 1106,
-        "endYear": 1135
+        "endYear": 1135,
+        "titleCn": "诺曼底公爵"
       }
     ],
     "tags": [
@@ -720,7 +796,8 @@
         ],
         "weight": 92,
         "label": "Became King of England",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_I_of_England"
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_I_of_England",
+        "labelCn": "成为英格兰国王"
       },
       {
         "year": 1100,
@@ -733,7 +810,8 @@
         ],
         "weight": 86,
         "label": "Coronation as King of England",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_I_of_England"
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_I_of_England",
+        "labelCn": "加冕为英格兰国王"
       },
       {
         "year": 1106,
@@ -747,7 +825,8 @@
         ],
         "weight": 96,
         "label": "Battle of Tinchebray",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Tinchebray"
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Tinchebray",
+        "labelCn": "坦什布赖战役"
       },
       {
         "year": 1106,
@@ -758,7 +837,8 @@
         ],
         "weight": 90,
         "label": "Became Duke of Normandy",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_I_of_England"
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_I_of_England",
+        "labelCn": "成为诺曼底公爵"
       },
       {
         "year": 1135,
@@ -771,7 +851,8 @@
         "weight": 62,
         "label": "Death of Henry I",
         "wikiUrl": "https://en.wikipedia.org/wiki/Henry_I_of_England",
-        "note": "Traditionally linked to illness after eating too many lampreys."
+        "note": "Traditionally linked to illness after eating too many lampreys.",
+        "labelCn": "亨利一世去世"
       }
     ],
     "wikiUrl": "https://en.wikipedia.org/wiki/Henry_I_of_England",
@@ -785,8 +866,16 @@
       "kind": "normal",
       "summary": "Died after sudden illness",
       "detail": "Henry I died in Normandy in 1135 after a sudden illness, traditionally said to have followed eating lampreys against medical advice.",
-      "wikiUrl": "https://en.wikipedia.org/wiki/Henry_I_of_England"
-    }
+      "wikiUrl": "https://en.wikipedia.org/wiki/Henry_I_of_England",
+      "summaryCn": "突发疾病去世",
+      "detailCn": "1135 年亨利一世在诺曼底突发疾病去世，传统说法称他违背医嘱食用七鳃鳗后发病。"
+    },
+    "displayNameCn": "亨利一世",
+    "fullNameCn": "英格兰国王亨利一世",
+    "nicknameCn": "博克莱尔",
+    "primaryTitleCn": "英格兰国王",
+    "birthPlaceCn": "英格兰约克郡塞尔比",
+    "deathPlaceCn": "诺曼底公国利翁拉福雷"
   },
   {
     "lastName": "Normandy",
@@ -816,7 +905,8 @@
       {
         "title": "Duke of Normandy",
         "startYear": 996,
-        "endYear": 1026
+        "endYear": 1026,
+        "titleCn": "诺曼底公爵"
       }
     ],
     "tags": [
@@ -836,7 +926,11 @@
     },
     "wikiUrl": "https://en.wikipedia.org/wiki/Richard_II,_Duke_of_Normandy",
     "sourceUrl": "https://en.wikipedia.org/wiki/Richard_II,_Duke_of_Normandy",
-    "createdOrder": 7
+    "createdOrder": 7,
+    "displayNameCn": "理查二世",
+    "fullNameCn": "诺曼底公爵理查二世",
+    "nicknameCn": "善者",
+    "primaryTitleCn": "诺曼底公爵"
   },
   {
     "lastName": "Normandy",
@@ -860,7 +954,8 @@
         "label": "Marriage to Geoffrey Plantagenet, Count of Anjou",
         "wikiUrl": "https://en.wikipedia.org/wiki/Geoffrey_Plantagenet,_Count_of_Anjou",
         "month": 6,
-        "day": 17
+        "day": 17,
+        "labelCn": "与安茹伯爵金雀花若弗鲁瓦成婚"
       },
       {
         "year": 1135,
@@ -872,7 +967,8 @@
         "weight": 98,
         "label": "Claimed the English throne",
         "wikiUrl": "https://en.wikipedia.org/wiki/Empress_Matilda",
-        "month": 12
+        "month": 12,
+        "labelCn": "宣称英格兰王位"
       },
       {
         "year": 1141,
@@ -884,7 +980,8 @@
         "weight": 90,
         "label": "Captured King Stephen at Lincoln",
         "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Lincoln_(1141)",
-        "month": 2
+        "month": 2,
+        "labelCn": "在林肯俘虏国王斯蒂芬"
       },
       {
         "year": 1153,
@@ -895,7 +992,8 @@
         ],
         "weight": 100,
         "label": "Treaty of Wallingford secured Henry's succession",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Treaty_of_Wallingford"
+        "wikiUrl": "https://en.wikipedia.org/wiki/Treaty_of_Wallingford",
+        "labelCn": "《沃灵福德条约》确保亨利的继承权"
       }
     ],
     "id": "12M260814Q008",
@@ -915,17 +1013,20 @@
       {
         "title": "Holy Roman Empress",
         "startYear": 1114,
-        "endYear": 1125
+        "endYear": 1125,
+        "titleCn": "神圣罗马帝国皇后"
       },
       {
         "title": "Lady of the English",
         "startYear": 1141,
-        "endYear": 1141
+        "endYear": 1141,
+        "titleCn": "英格兰人的夫人"
       },
       {
         "title": "Countess of Anjou",
         "startYear": 1128,
-        "endYear": 1151
+        "endYear": 1151,
+        "titleCn": "安茹伯爵夫人"
       }
     ],
     "tags": [
@@ -954,8 +1055,13 @@
       "kind": "normal",
       "summary": "Died of natural causes",
       "detail": "Empress Matilda died at Notre-Dame-du-Pré near Rouen in 1167 after a long political life.",
-      "wikiUrl": "https://en.wikipedia.org/wiki/Empress_Matilda"
-    }
+      "wikiUrl": "https://en.wikipedia.org/wiki/Empress_Matilda",
+      "summaryCn": "自然死亡",
+      "detailCn": "1167 年玛蒂尔达皇后在鲁昂附近的普雷圣母修道院去世，结束了漫长的政治生涯。"
+    },
+    "displayNameCn": "玛蒂尔达皇后",
+    "fullNameCn": "神圣罗马帝国皇后玛蒂尔达",
+    "primaryTitleCn": "神圣罗马帝国皇后"
   },
   {
     "id": "12H260815E018",
@@ -965,7 +1071,9 @@
     "fullName": "Henry V, Holy Roman Emperor",
     "nickname": "the Proud",
     "alsoKnownAs": [],
-    "nicknameTags": ["proud"],
+    "nicknameTags": [
+      "proud"
+    ],
     "birthYear": 1081,
     "deathYear": 1125,
     "birthPlace": "Goslar, Saxony",
@@ -977,16 +1085,32 @@
     "faith": "Catholic",
     "primaryTitle": "Holy Roman Emperor",
     "titles": [
-      { "title": "Holy Roman Emperor", "startYear": 1111, "endYear": 1125 },
-      { "title": "King of Germany", "startYear": 1099, "endYear": 1125 }
+      {
+        "title": "Holy Roman Emperor",
+        "startYear": 1111,
+        "endYear": 1125,
+        "titleCn": "神圣罗马帝国皇帝"
+      },
+      {
+        "title": "King of Germany",
+        "startYear": 1099,
+        "endYear": 1125,
+        "titleCn": "德意志国王"
+      }
     ],
-    "tags": ["emperor", "monarch", "noble"],
+    "tags": [
+      "emperor",
+      "monarch",
+      "noble"
+    ],
     "rank": "emperor",
     "importanceScore": 78,
     "relationships": {
       "fatherId": "",
       "motherId": "",
-      "spouseIds": ["12M260814Q008"],
+      "spouseIds": [
+        "12M260814Q008"
+      ],
       "partnerIds": [],
       "childIds": []
     },
@@ -996,7 +1120,13 @@
     "sourceNote": "First husband of Empress Matilda; marriage ended after his death.",
     "notes": "Holy Roman Emperor and first husband of Empress Matilda.",
     "createdDate": "260815",
-    "createdOrder": 18
+    "createdOrder": 18,
+    "displayNameCn": "亨利五世",
+    "fullNameCn": "神圣罗马帝国皇帝亨利五世",
+    "nicknameCn": "骄傲者",
+    "primaryTitleCn": "神圣罗马帝国皇帝",
+    "birthPlaceCn": "萨克森戈斯拉尔",
+    "deathPlaceCn": "下洛林乌得勒支"
   },
   {
     "lastName": "Anjou",
@@ -1026,12 +1156,14 @@
       {
         "title": "Count of Anjou",
         "startYear": 1129,
-        "endYear": 1151
+        "endYear": 1151,
+        "titleCn": "安茹伯爵"
       },
       {
         "title": "Duke of Normandy",
         "startYear": 1144,
-        "endYear": 1150
+        "endYear": 1150,
+        "titleCn": "诺曼底公爵"
       }
     ],
     "tags": [
@@ -1054,7 +1186,11 @@
     },
     "wikiUrl": "https://en.wikipedia.org/wiki/Geoffrey_Plantagenet,_Count_of_Anjou",
     "sourceUrl": "https://en.wikipedia.org/wiki/Geoffrey_Plantagenet,_Count_of_Anjou",
-    "createdOrder": 9
+    "createdOrder": 9,
+    "displayNameCn": "若弗鲁瓦五世",
+    "fullNameCn": "安茹伯爵若弗鲁瓦五世",
+    "nicknameCn": "金雀花",
+    "primaryTitleCn": "安茹伯爵"
   },
   {
     "lastName": "Plantagenet",
@@ -1079,7 +1215,8 @@
         ],
         "weight": 72,
         "label": "Became Duke of Normandy",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_II_of_England"
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_II_of_England",
+        "labelCn": "成为诺曼底公爵"
       },
       {
         "year": 1152,
@@ -1092,7 +1229,8 @@
         ],
         "weight": 92,
         "label": "Marriage to Eleanor of Aquitaine",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Eleanor_of_Aquitaine"
+        "wikiUrl": "https://en.wikipedia.org/wiki/Eleanor_of_Aquitaine",
+        "labelCn": "与阿基坦的埃莉诺成婚"
       },
       {
         "year": 1154,
@@ -1103,7 +1241,8 @@
         ],
         "weight": 95,
         "label": "Became King of England",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_II_of_England"
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_II_of_England",
+        "labelCn": "成为英格兰国王"
       },
       {
         "year": 1154,
@@ -1116,7 +1255,8 @@
         ],
         "weight": 90,
         "label": "Coronation as King of England",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_II_of_England"
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_II_of_England",
+        "labelCn": "加冕为英格兰国王"
       },
       {
         "year": 1170,
@@ -1129,7 +1269,8 @@
         ],
         "weight": 86,
         "label": "Murder of Thomas Becket",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Thomas_Becket"
+        "wikiUrl": "https://en.wikipedia.org/wiki/Thomas_Becket",
+        "labelCn": "托马斯·贝克特遇害"
       },
       {
         "year": 1173,
@@ -1140,7 +1281,8 @@
         ],
         "weight": 88,
         "label": "Revolt of 1173-1174",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Revolt_of_1173%E2%80%931174"
+        "wikiUrl": "https://en.wikipedia.org/wiki/Revolt_of_1173%E2%80%931174",
+        "labelCn": "1173—1174 年叛乱"
       },
       {
         "year": 1189,
@@ -1153,7 +1295,8 @@
         "weight": 70,
         "label": "Death of Henry II",
         "wikiUrl": "https://en.wikipedia.org/wiki/Henry_II_of_England",
-        "note": "Died at Chinon after illness during war with Philip II and Richard."
+        "note": "Died at Chinon after illness during war with Philip II and Richard.",
+        "labelCn": "亨利二世去世"
       }
     ],
     "id": "12H260814P010",
@@ -1173,22 +1316,26 @@
       {
         "title": "Duke of Normandy",
         "startYear": 1150,
-        "endYear": 1189
+        "endYear": 1189,
+        "titleCn": "诺曼底公爵"
       },
       {
         "title": "Count of Anjou",
         "startYear": 1151,
-        "endYear": 1189
+        "endYear": 1189,
+        "titleCn": "安茹伯爵"
       },
       {
         "title": "Duke of Aquitaine",
         "startYear": 1152,
-        "endYear": 1189
+        "endYear": 1189,
+        "titleCn": "阿基坦公爵"
       },
       {
         "title": "King of England",
         "startYear": 1154,
-        "endYear": 1189
+        "endYear": 1189,
+        "titleCn": "英格兰国王"
       }
     ],
     "tags": [
@@ -1232,8 +1379,16 @@
       "kind": "normal",
       "summary": "Died from illness during military crisis",
       "detail": "Henry II died at Chinon in 1189 after falling ill during his final conflict with Philip II of France and his son Richard. This was not a violent death, but the political collapse around it was severe.",
-      "wikiUrl": "https://en.wikipedia.org/wiki/Henry_II_of_England"
-    }
+      "wikiUrl": "https://en.wikipedia.org/wiki/Henry_II_of_England",
+      "summaryCn": "军事危机中病逝",
+      "detailCn": "1189 年亨利二世在与法兰西国王腓力二世及其子理查的最终冲突中病倒，于希农去世。并非暴力死亡，但周围的政治崩溃极为严重。"
+    },
+    "displayNameCn": "亨利二世",
+    "fullNameCn": "英格兰国王亨利二世",
+    "nicknameCn": "短斗篷",
+    "primaryTitleCn": "英格兰国王",
+    "birthPlaceCn": "法兰西王国曼恩勒芒",
+    "deathPlaceCn": "法兰西王国图赖讷希农城堡"
   },
   {
     "lastName": "Aquitaine",
@@ -1262,7 +1417,8 @@
         "weight": 98,
         "label": "Became Duchess of Aquitaine",
         "wikiUrl": "https://en.wikipedia.org/wiki/Eleanor_of_Aquitaine",
-        "note": "Inherited Aquitaine after the death of William X."
+        "note": "Inherited Aquitaine after the death of William X.",
+        "labelCn": "成为阿基坦女公爵"
       },
       {
         "year": 1137,
@@ -1275,7 +1431,8 @@
         ],
         "weight": 92,
         "label": "Marriage to Louis, heir to France",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Louis_VII_of_France"
+        "wikiUrl": "https://en.wikipedia.org/wiki/Louis_VII_of_France",
+        "labelCn": "与法兰西王储路易成婚"
       },
       {
         "year": 1137,
@@ -1288,7 +1445,8 @@
         ],
         "weight": 84,
         "label": "Coronation as Queen of France",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Eleanor_of_Aquitaine"
+        "wikiUrl": "https://en.wikipedia.org/wiki/Eleanor_of_Aquitaine",
+        "labelCn": "加冕为法兰西王后"
       },
       {
         "year": 1145,
@@ -1299,7 +1457,8 @@
         ],
         "weight": 62,
         "label": "Birth of Marie of France",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Marie_of_France,_Countess_of_Champagne"
+        "wikiUrl": "https://en.wikipedia.org/wiki/Marie_of_France,_Countess_of_Champagne",
+        "labelCn": "法兰西的玛丽出生"
       },
       {
         "year": 1147,
@@ -1310,7 +1469,8 @@
         ],
         "weight": 76,
         "label": "Second Crusade",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Second_Crusade"
+        "wikiUrl": "https://en.wikipedia.org/wiki/Second_Crusade",
+        "labelCn": "第二次十字军东征"
       },
       {
         "year": 1150,
@@ -1321,7 +1481,8 @@
         ],
         "weight": 60,
         "label": "Birth of Alix of France",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Alix_of_France,_Countess_of_Blois"
+        "wikiUrl": "https://en.wikipedia.org/wiki/Alix_of_France,_Countess_of_Blois",
+        "labelCn": "法兰西的阿利克斯出生"
       },
       {
         "year": 1152,
@@ -1334,7 +1495,8 @@
         ],
         "weight": 91,
         "label": "Annulment of marriage to Louis VII",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Eleanor_of_Aquitaine"
+        "wikiUrl": "https://en.wikipedia.org/wiki/Eleanor_of_Aquitaine",
+        "labelCn": "与路易七世的婚姻被宣告无效"
       },
       {
         "year": 1152,
@@ -1347,7 +1509,8 @@
         ],
         "weight": 100,
         "label": "Marriage to Henry, Duke of Normandy",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_II_of_England"
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_II_of_England",
+        "labelCn": "与诺曼底公爵亨利成婚"
       },
       {
         "year": 1153,
@@ -1360,7 +1523,8 @@
         ],
         "weight": 68,
         "label": "Birth of William IX, Count of Poitiers",
-        "wikiUrl": "https://en.wikipedia.org/wiki/William_IX,_Count_of_Poitiers"
+        "wikiUrl": "https://en.wikipedia.org/wiki/William_IX,_Count_of_Poitiers",
+        "labelCn": "普瓦捷伯爵威廉九世出生"
       },
       {
         "year": 1154,
@@ -1373,7 +1537,8 @@
         ],
         "weight": 90,
         "label": "Coronation as Queen of England",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Eleanor_of_Aquitaine"
+        "wikiUrl": "https://en.wikipedia.org/wiki/Eleanor_of_Aquitaine",
+        "labelCn": "加冕为英格兰王后"
       },
       {
         "year": 1155,
@@ -1386,7 +1551,8 @@
         ],
         "weight": 72,
         "label": "Birth of Henry the Young King",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_the_Young_King"
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_the_Young_King",
+        "labelCn": "幼王亨利出生"
       },
       {
         "year": 1156,
@@ -1398,7 +1564,8 @@
         ],
         "weight": 64,
         "label": "Birth of Matilda of England",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Matilda_of_England,_Duchess_of_Saxony"
+        "wikiUrl": "https://en.wikipedia.org/wiki/Matilda_of_England,_Duchess_of_Saxony",
+        "labelCn": "英格兰的玛蒂尔达出生"
       },
       {
         "year": 1157,
@@ -1411,7 +1578,8 @@
         ],
         "weight": 88,
         "label": "Birth of Richard the Lionheart",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Richard_I_of_England"
+        "wikiUrl": "https://en.wikipedia.org/wiki/Richard_I_of_England",
+        "labelCn": "狮心王理查出生"
       },
       {
         "year": 1158,
@@ -1424,7 +1592,8 @@
         ],
         "weight": 66,
         "label": "Birth of Geoffrey II, Duke of Brittany",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Geoffrey_II,_Duke_of_Brittany"
+        "wikiUrl": "https://en.wikipedia.org/wiki/Geoffrey_II,_Duke_of_Brittany",
+        "labelCn": "布列塔尼公爵若弗鲁瓦二世出生"
       },
       {
         "year": 1161,
@@ -1436,7 +1605,8 @@
         ],
         "weight": 64,
         "label": "Birth of Eleanor of England",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Eleanor_of_England,_Queen_of_Castile"
+        "wikiUrl": "https://en.wikipedia.org/wiki/Eleanor_of_England,_Queen_of_Castile",
+        "labelCn": "英格兰的埃莉诺出生"
       },
       {
         "year": 1165,
@@ -1448,7 +1618,8 @@
         ],
         "weight": 62,
         "label": "Birth of Joan of England",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Joan_of_England,_Queen_of_Sicily"
+        "wikiUrl": "https://en.wikipedia.org/wiki/Joan_of_England,_Queen_of_Sicily",
+        "labelCn": "英格兰的琼出生"
       },
       {
         "year": 1166,
@@ -1461,7 +1632,8 @@
         ],
         "weight": 82,
         "label": "Birth of John Lackland",
-        "wikiUrl": "https://en.wikipedia.org/wiki/John,_King_of_England"
+        "wikiUrl": "https://en.wikipedia.org/wiki/John,_King_of_England",
+        "labelCn": "无地王约翰出生"
       },
       {
         "year": 1173,
@@ -1472,7 +1644,8 @@
         ],
         "weight": 94,
         "label": "Supported the Revolt of 1173-1174",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Revolt_of_1173%E2%80%931174"
+        "wikiUrl": "https://en.wikipedia.org/wiki/Revolt_of_1173%E2%80%931174",
+        "labelCn": "支持 1173—1174 年叛乱"
       },
       {
         "year": 1174,
@@ -1483,7 +1656,8 @@
         ],
         "weight": 88,
         "label": "Imprisoned by Henry II",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Eleanor_of_Aquitaine"
+        "wikiUrl": "https://en.wikipedia.org/wiki/Eleanor_of_Aquitaine",
+        "labelCn": "被亨利二世囚禁"
       },
       {
         "year": 1189,
@@ -1494,7 +1668,8 @@
         ],
         "weight": 92,
         "label": "Released and governed for Richard I",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Eleanor_of_Aquitaine"
+        "wikiUrl": "https://en.wikipedia.org/wiki/Eleanor_of_Aquitaine",
+        "labelCn": "获释并为理查一世摄政"
       },
       {
         "year": 1192,
@@ -1505,7 +1680,8 @@
         ],
         "weight": 90,
         "label": "Raised Richard I's ransom",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Richard_I_of_England"
+        "wikiUrl": "https://en.wikipedia.org/wiki/Richard_I_of_England",
+        "labelCn": "筹集理查一世的赎金"
       },
       {
         "year": 1199,
@@ -1516,7 +1692,8 @@
         ],
         "weight": 84,
         "label": "Supported John after Richard I died",
-        "wikiUrl": "https://en.wikipedia.org/wiki/John,_King_of_England"
+        "wikiUrl": "https://en.wikipedia.org/wiki/John,_King_of_England",
+        "labelCn": "理查一世死后支持约翰"
       },
       {
         "year": 1200,
@@ -1527,7 +1704,8 @@
         ],
         "weight": 86,
         "label": "Embassy to Castile for Blanche of Castile",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Blanche_of_Castile"
+        "wikiUrl": "https://en.wikipedia.org/wiki/Blanche_of_Castile",
+        "labelCn": "出使卡斯蒂利亚商议卡斯蒂利亚的布兰奇的婚事"
       },
       {
         "year": 1204,
@@ -1539,7 +1717,8 @@
         ],
         "weight": 72,
         "label": "Death of Eleanor of Aquitaine",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Eleanor_of_Aquitaine"
+        "wikiUrl": "https://en.wikipedia.org/wiki/Eleanor_of_Aquitaine",
+        "labelCn": "阿基坦的埃莉诺去世"
       }
     ],
     "id": "12E260814A011",
@@ -1559,17 +1738,20 @@
       {
         "title": "Duchess of Aquitaine",
         "startYear": 1137,
-        "endYear": 1204
+        "endYear": 1204,
+        "titleCn": "阿基坦女公爵"
       },
       {
         "title": "Queen of France",
         "startYear": 1137,
-        "endYear": 1152
+        "endYear": 1152,
+        "titleCn": "法兰西王后"
       },
       {
         "title": "Queen of England",
         "startYear": 1154,
-        "endYear": 1189
+        "endYear": 1189,
+        "titleCn": "英格兰王后"
       }
     ],
     "tags": [
@@ -1608,8 +1790,15 @@
       "kind": "normal",
       "summary": "Died at Fontevraud Abbey",
       "detail": "Eleanor died at Fontevraud Abbey in 1204 at about 82 years old. Accounts treat her death as natural rather than violent or suspicious.",
-      "wikiUrl": "https://en.wikipedia.org/wiki/Eleanor_of_Aquitaine"
-    }
+      "wikiUrl": "https://en.wikipedia.org/wiki/Eleanor_of_Aquitaine",
+      "summaryCn": "在丰特夫罗修道院去世",
+      "detailCn": "1204 年埃莉诺在丰特夫罗修道院去世，享年约 82 岁。史料将其死亡视为自然死亡，而非暴力或可疑死亡。"
+    },
+    "displayNameCn": "阿基坦的埃莉诺",
+    "fullNameCn": "阿基坦的埃莉诺",
+    "primaryTitleCn": "英格兰王后",
+    "birthPlaceCn": "阿基坦公国普瓦捷",
+    "deathPlaceCn": "法兰西王国安茹丰特夫罗修道院"
   },
   {
     "lastName": "Plantagenet",
@@ -1634,7 +1823,8 @@
         ],
         "weight": 76,
         "label": "Became Duke of Aquitaine",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Richard_I_of_England"
+        "wikiUrl": "https://en.wikipedia.org/wiki/Richard_I_of_England",
+        "labelCn": "成为阿基坦公爵"
       },
       {
         "year": 1189,
@@ -1645,7 +1835,8 @@
         ],
         "weight": 96,
         "label": "Became King of England",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Richard_I_of_England"
+        "wikiUrl": "https://en.wikipedia.org/wiki/Richard_I_of_England",
+        "labelCn": "成为英格兰国王"
       },
       {
         "year": 1189,
@@ -1658,7 +1849,8 @@
         ],
         "weight": 90,
         "label": "Coronation as King of England",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Richard_I_of_England"
+        "wikiUrl": "https://en.wikipedia.org/wiki/Richard_I_of_England",
+        "labelCn": "加冕为英格兰国王"
       },
       {
         "year": 1190,
@@ -1669,7 +1861,8 @@
         ],
         "weight": 95,
         "label": "Third Crusade",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Third_Crusade"
+        "wikiUrl": "https://en.wikipedia.org/wiki/Third_Crusade",
+        "labelCn": "第三次十字军东征"
       },
       {
         "year": 1191,
@@ -1683,7 +1876,8 @@
         ],
         "weight": 94,
         "label": "Battle of Arsuf",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Arsuf"
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Arsuf",
+        "labelCn": "阿尔苏夫战役"
       },
       {
         "year": 1199,
@@ -1697,7 +1891,8 @@
         "weight": 90,
         "label": "Death from wound at Chalus",
         "wikiUrl": "https://en.wikipedia.org/wiki/Richard_I_of_England",
-        "note": "Mortally wounded by a crossbow bolt during the siege of Chalus-Chabrol."
+        "note": "Mortally wounded by a crossbow bolt during the siege of Chalus-Chabrol.",
+        "labelCn": "因沙吕之伤而亡"
       }
     ],
     "id": "12R260814L012",
@@ -1717,12 +1912,14 @@
       {
         "title": "Duke of Aquitaine",
         "startYear": 1172,
-        "endYear": 1199
+        "endYear": 1199,
+        "titleCn": "阿基坦公爵"
       },
       {
         "title": "King of England",
         "startYear": 1189,
-        "endYear": 1199
+        "endYear": 1199,
+        "titleCn": "英格兰国王"
       }
     ],
     "tags": [
@@ -1748,8 +1945,17 @@
       "summary": "Killed by infected crossbow wound",
       "detail": "Richard I was struck by a crossbow bolt during the siege of Chalus-Chabrol and died after the wound became infected. The crossbowman is commonly named as Pierre Basile, also rendered Bertran de Gourdon in some traditions.",
       "culprit": "Pierre Basile / Bertran de Gourdon traditions",
-      "wikiUrl": "https://en.wikipedia.org/wiki/Richard_I_of_England"
-    }
+      "wikiUrl": "https://en.wikipedia.org/wiki/Richard_I_of_England",
+      "summaryCn": "弩伤感染致死",
+      "detailCn": "理查一世在围攻沙吕-沙布罗尔时被弩箭击中，伤口感染后去世。射箭者通常记载为皮埃尔·巴西勒，部分传说亦作贝特朗·德·古尔东。",
+      "culpritCn": "皮埃尔·巴西勒 / 贝特朗·德·古尔东（传说）"
+    },
+    "displayNameCn": "理查一世",
+    "fullNameCn": "英格兰国王理查一世",
+    "nicknameCn": "狮心王",
+    "primaryTitleCn": "英格兰国王",
+    "birthPlaceCn": "英格兰牛津博蒙特宫",
+    "deathPlaceCn": "阿基坦公国沙吕"
   },
   {
     "lastName": "Plantagenet",
@@ -1776,7 +1982,8 @@
         ],
         "weight": 68,
         "label": "Became Lord of Ireland",
-        "wikiUrl": "https://en.wikipedia.org/wiki/John,_King_of_England"
+        "wikiUrl": "https://en.wikipedia.org/wiki/John,_King_of_England",
+        "labelCn": "成为爱尔兰领主"
       },
       {
         "year": 1199,
@@ -1787,7 +1994,8 @@
         ],
         "weight": 94,
         "label": "Became King of England",
-        "wikiUrl": "https://en.wikipedia.org/wiki/John,_King_of_England"
+        "wikiUrl": "https://en.wikipedia.org/wiki/John,_King_of_England",
+        "labelCn": "成为英格兰国王"
       },
       {
         "year": 1199,
@@ -1800,7 +2008,8 @@
         ],
         "weight": 88,
         "label": "Coronation as King of England",
-        "wikiUrl": "https://en.wikipedia.org/wiki/John,_King_of_England"
+        "wikiUrl": "https://en.wikipedia.org/wiki/John,_King_of_England",
+        "labelCn": "加冕为英格兰国王"
       },
       {
         "year": 1204,
@@ -1811,7 +2020,8 @@
         ],
         "weight": 92,
         "label": "Loss of Normandy",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Capetian%E2%80%93Plantagenet_rivalry"
+        "wikiUrl": "https://en.wikipedia.org/wiki/Capetian%E2%80%93Plantagenet_rivalry",
+        "labelCn": "失去诺曼底"
       },
       {
         "year": 1215,
@@ -1823,7 +2033,8 @@
         ],
         "weight": 100,
         "label": "Magna Carta",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Magna_Carta"
+        "wikiUrl": "https://en.wikipedia.org/wiki/Magna_Carta",
+        "labelCn": "《大宪章》"
       },
       {
         "year": 1215,
@@ -1834,7 +2045,8 @@
         ],
         "weight": 86,
         "label": "First Barons' War",
-        "wikiUrl": "https://en.wikipedia.org/wiki/First_Barons%27_War"
+        "wikiUrl": "https://en.wikipedia.org/wiki/First_Barons%27_War",
+        "labelCn": "第一次男爵战争"
       },
       {
         "year": 1216,
@@ -1847,7 +2059,8 @@
         "weight": 70,
         "label": "Death of King John",
         "wikiUrl": "https://en.wikipedia.org/wiki/John,_King_of_England",
-        "note": "Died of dysentery during the First Barons' War."
+        "note": "Died of dysentery during the First Barons' War.",
+        "labelCn": "国王约翰去世"
       }
     ],
     "id": "12J260814N013",
@@ -1867,17 +2080,20 @@
       {
         "title": "Lord of Ireland",
         "startYear": 1177,
-        "endYear": 1216
+        "endYear": 1216,
+        "titleCn": "爱尔兰领主"
       },
       {
         "title": "Duke of Normandy",
         "startYear": 1199,
-        "endYear": 1204
+        "endYear": 1204,
+        "titleCn": "诺曼底公爵"
       },
       {
         "title": "King of England",
         "startYear": 1199,
-        "endYear": 1216
+        "endYear": 1216,
+        "titleCn": "英格兰国王"
       }
     ],
     "tags": [
@@ -1903,8 +2119,16 @@
       "kind": "normal",
       "summary": "Died of dysentery during civil war",
       "detail": "John died at Newark Castle in 1216, generally identified as dysentery contracted during the First Barons' War. Later poison stories are not the standard explanation.",
-      "wikiUrl": "https://en.wikipedia.org/wiki/John,_King_of_England"
-    }
+      "wikiUrl": "https://en.wikipedia.org/wiki/John,_King_of_England",
+      "summaryCn": "内战期间死于痢疾",
+      "detailCn": "1216 年约翰在纽瓦克城堡去世，通常认为是第一次男爵战争期间感染的痢疾所致。后世的中毒传闻并非通行解释。"
+    },
+    "displayNameCn": "约翰",
+    "fullNameCn": "英格兰国王约翰",
+    "nicknameCn": "无地王",
+    "primaryTitleCn": "英格兰国王",
+    "birthPlaceCn": "英格兰牛津博蒙特宫",
+    "deathPlaceCn": "英格兰诺丁汉郡纽瓦克城堡"
   },
   {
     "lastName": "Plantagenet",
@@ -1934,7 +2158,8 @@
       {
         "title": "King of England",
         "startYear": 1216,
-        "endYear": 1272
+        "endYear": 1272,
+        "titleCn": "英格兰国王"
       }
     ],
     "tags": [
@@ -1953,7 +2178,10 @@
     },
     "wikiUrl": "https://en.wikipedia.org/wiki/Henry_III_of_England",
     "sourceUrl": "https://en.wikipedia.org/wiki/Henry_III_of_England",
-    "createdOrder": 14
+    "createdOrder": 14,
+    "displayNameCn": "亨利三世",
+    "fullNameCn": "英格兰国王亨利三世",
+    "primaryTitleCn": "英格兰国王"
   },
   {
     "lastName": "Plantagenet",
@@ -1975,7 +2203,8 @@
         ],
         "weight": 96,
         "label": "Became King of England",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Edward_I_of_England"
+        "wikiUrl": "https://en.wikipedia.org/wiki/Edward_I_of_England",
+        "labelCn": "成为英格兰国王"
       },
       {
         "year": 1282,
@@ -1986,7 +2215,8 @@
         ],
         "weight": 98,
         "label": "Conquest of Wales",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Conquest_of_Wales_by_Edward_I"
+        "wikiUrl": "https://en.wikipedia.org/wiki/Conquest_of_Wales_by_Edward_I",
+        "labelCn": "征服威尔士"
       },
       {
         "year": 1284,
@@ -1997,7 +2227,8 @@
         ],
         "weight": 86,
         "label": "Statute of Rhuddlan",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Statute_of_Rhuddlan"
+        "wikiUrl": "https://en.wikipedia.org/wiki/Statute_of_Rhuddlan",
+        "labelCn": "《拉德兰法令》"
       },
       {
         "year": 1296,
@@ -2008,7 +2239,8 @@
         ],
         "weight": 94,
         "label": "Invaded Scotland",
-        "wikiUrl": "https://en.wikipedia.org/wiki/First_War_of_Scottish_Independence"
+        "wikiUrl": "https://en.wikipedia.org/wiki/First_War_of_Scottish_Independence",
+        "labelCn": "入侵苏格兰"
       }
     ],
     "id": "13E260814W015",
@@ -2028,7 +2260,8 @@
       {
         "title": "King of England",
         "startYear": 1272,
-        "endYear": 1307
+        "endYear": 1307,
+        "titleCn": "英格兰国王"
       }
     ],
     "tags": [
@@ -2053,8 +2286,14 @@
       "kind": "normal",
       "summary": "Died after illness during campaign",
       "detail": "Edward I died near Burgh by Sands in 1307 while campaigning against Scotland; chronic illness and dysentery are commonly discussed in accounts.",
-      "wikiUrl": "https://en.wikipedia.org/wiki/Edward_I_of_England"
-    }
+      "wikiUrl": "https://en.wikipedia.org/wiki/Edward_I_of_England",
+      "summaryCn": "征战中因病去世",
+      "detailCn": "1307 年爱德华一世在征讨苏格兰途中于索尔韦湾附近的伯格去世；慢性疾病与痢疾是史料中常见的讨论。"
+    },
+    "displayNameCn": "爱德华一世",
+    "fullNameCn": "英格兰国王爱德华一世",
+    "nicknameCn": "长腿",
+    "primaryTitleCn": "英格兰国王"
   },
   {
     "id": "12W260814X016",
@@ -2079,7 +2318,8 @@
       {
         "title": "Duke of Aquitaine",
         "startYear": 1126,
-        "endYear": 1137
+        "endYear": 1137,
+        "titleCn": "阿基坦公爵"
       }
     ],
     "tags": [
@@ -2104,7 +2344,11 @@
     "sourceNote": "",
     "notes": "Blank MVP person card; basic identity and direct relationship only.",
     "createdDate": "260814",
-    "createdOrder": 16
+    "createdOrder": 16,
+    "displayNameCn": "威廉十世",
+    "fullNameCn": "阿基坦公爵威廉十世",
+    "nicknameCn": "圣者",
+    "primaryTitleCn": "阿基坦公爵"
   },
   {
     "id": "11W260814I017",
@@ -2129,7 +2373,8 @@
       {
         "title": "Duke of Aquitaine",
         "startYear": 1086,
-        "endYear": 1127
+        "endYear": 1127,
+        "titleCn": "阿基坦公爵"
       }
     ],
     "tags": [
@@ -2154,7 +2399,11 @@
     "sourceNote": "",
     "notes": "Blank MVP person card; basic identity and direct relationship only.",
     "createdDate": "260814",
-    "createdOrder": 17
+    "createdOrder": 17,
+    "displayNameCn": "威廉九世",
+    "fullNameCn": "阿基坦公爵威廉九世",
+    "nicknameCn": "吟游诗人",
+    "primaryTitleCn": "阿基坦公爵"
   },
   {
     "id": "12W260814P018",
@@ -2179,7 +2428,8 @@
       {
         "title": "Count of Poitiers",
         "startYear": 1153,
-        "endYear": 1156
+        "endYear": 1156,
+        "titleCn": "普瓦捷伯爵"
       }
     ],
     "tags": [
@@ -2201,7 +2451,10 @@
     "sourceNote": "",
     "notes": "Blank MVP person card; basic identity and direct relationship only.",
     "createdDate": "260814",
-    "createdOrder": 18
+    "createdOrder": 18,
+    "displayNameCn": "威廉九世",
+    "fullNameCn": "普瓦捷伯爵威廉九世",
+    "primaryTitleCn": "普瓦捷伯爵"
   },
   {
     "id": "12H260814Y019",
@@ -2226,7 +2479,8 @@
       {
         "title": "Junior King of England",
         "startYear": 1170,
-        "endYear": 1183
+        "endYear": 1183,
+        "titleCn": "英格兰共治国王"
       }
     ],
     "tags": [
@@ -2249,7 +2503,10 @@
     "sourceNote": "",
     "notes": "Blank MVP person card; basic identity and direct relationship only.",
     "createdDate": "260814",
-    "createdOrder": 19
+    "createdOrder": 19,
+    "displayNameCn": "幼王亨利",
+    "fullNameCn": "幼王亨利",
+    "primaryTitleCn": "英格兰国王"
   },
   {
     "id": "12M260814S020",
@@ -2274,7 +2531,8 @@
       {
         "title": "Duchess of Saxony",
         "startYear": 1168,
-        "endYear": 1180
+        "endYear": 1180,
+        "titleCn": "萨克森公爵夫人"
       }
     ],
     "tags": [
@@ -2298,7 +2556,10 @@
     "sourceNote": "",
     "notes": "Blank MVP person card; basic identity and direct relationship only.",
     "createdDate": "260814",
-    "createdOrder": 20
+    "createdOrder": 20,
+    "displayNameCn": "英格兰的玛蒂尔达",
+    "fullNameCn": "英格兰的玛蒂尔达，萨克森公爵夫人",
+    "primaryTitleCn": "萨克森公爵夫人"
   },
   {
     "id": "12G260814B021",
@@ -2323,7 +2584,8 @@
       {
         "title": "Duke of Brittany",
         "startYear": 1181,
-        "endYear": 1186
+        "endYear": 1186,
+        "titleCn": "布列塔尼公爵"
       }
     ],
     "tags": [
@@ -2346,7 +2608,10 @@
     "sourceNote": "",
     "notes": "Blank MVP person card; basic identity and direct relationship only.",
     "createdDate": "260814",
-    "createdOrder": 21
+    "createdOrder": 21,
+    "displayNameCn": "若弗鲁瓦二世",
+    "fullNameCn": "布列塔尼公爵若弗鲁瓦二世",
+    "primaryTitleCn": "布列塔尼公爵"
   },
   {
     "id": "12E260814C022",
@@ -2371,7 +2636,8 @@
       {
         "title": "Queen of Castile",
         "startYear": 1177,
-        "endYear": 1214
+        "endYear": 1214,
+        "titleCn": "卡斯蒂利亚王后"
       }
     ],
     "tags": [
@@ -2395,7 +2661,10 @@
     "sourceNote": "",
     "notes": "Blank MVP person card; basic identity and direct relationship only.",
     "createdDate": "260814",
-    "createdOrder": 22
+    "createdOrder": 22,
+    "displayNameCn": "英格兰的埃莉诺",
+    "fullNameCn": "英格兰的埃莉诺，卡斯蒂利亚王后",
+    "primaryTitleCn": "卡斯蒂利亚王后"
   },
   {
     "id": "12J260814S023",
@@ -2420,7 +2689,8 @@
       {
         "title": "Queen of Sicily",
         "startYear": 1177,
-        "endYear": 1189
+        "endYear": 1189,
+        "titleCn": "西西里王后"
       }
     ],
     "tags": [
@@ -2444,7 +2714,10 @@
     "sourceNote": "",
     "notes": "Blank MVP person card; basic identity and direct relationship only.",
     "createdDate": "260814",
-    "createdOrder": 23
+    "createdOrder": 23,
+    "displayNameCn": "英格兰的琼",
+    "fullNameCn": "英格兰的琼，西西里王后",
+    "primaryTitleCn": "西西里王后"
   },
   {
     "id": "12L260814F024",
@@ -2469,7 +2742,8 @@
       {
         "title": "King of France",
         "startYear": 1137,
-        "endYear": 1180
+        "endYear": 1180,
+        "titleCn": "法兰西国王"
       }
     ],
     "tags": [
@@ -2497,7 +2771,11 @@
     "sourceNote": "",
     "notes": "Blank MVP person card; basic identity and direct relationship only.",
     "createdDate": "260814",
-    "createdOrder": 24
+    "createdOrder": 24,
+    "displayNameCn": "路易七世",
+    "fullNameCn": "法兰西国王路易七世",
+    "nicknameCn": "年轻的",
+    "primaryTitleCn": "法兰西国王"
   },
   {
     "id": "12M260814F025",
@@ -2522,7 +2800,8 @@
       {
         "title": "Countess of Champagne",
         "startYear": 1164,
-        "endYear": 1198
+        "endYear": 1198,
+        "titleCn": "香槟伯爵夫人"
       }
     ],
     "tags": [
@@ -2545,7 +2824,10 @@
     "sourceNote": "",
     "notes": "Blank MVP person card; basic identity and direct relationship only.",
     "createdDate": "260814",
-    "createdOrder": 25
+    "createdOrder": 25,
+    "displayNameCn": "法兰西的玛丽",
+    "fullNameCn": "法兰西的玛丽，香槟伯爵夫人",
+    "primaryTitleCn": "香槟伯爵夫人"
   },
   {
     "id": "12A260814B026",
@@ -2570,7 +2852,8 @@
       {
         "title": "Countess of Blois",
         "startYear": 1164,
-        "endYear": 1197
+        "endYear": 1197,
+        "titleCn": "布卢瓦伯爵夫人"
       }
     ],
     "tags": [
@@ -2593,7 +2876,10 @@
     "sourceNote": "",
     "notes": "Blank MVP person card; basic identity and direct relationship only.",
     "createdDate": "260814",
-    "createdOrder": 26
+    "createdOrder": 26,
+    "displayNameCn": "法兰西的阿利克斯",
+    "fullNameCn": "法兰西的阿利克斯，布卢瓦伯爵夫人",
+    "primaryTitleCn": "布卢瓦伯爵夫人"
   },
   {
     "id": "13E260814D027",
@@ -2618,7 +2904,8 @@
       {
         "title": "King of England",
         "startYear": 1307,
-        "endYear": 1327
+        "endYear": 1327,
+        "titleCn": "英格兰国王"
       }
     ],
     "tags": [
@@ -2642,7 +2929,10 @@
     "sourceNote": "",
     "notes": "Blank MVP person card; main Plantagenet line placeholder.",
     "createdDate": "260814",
-    "createdOrder": 27
+    "createdOrder": 27,
+    "displayNameCn": "爱德华二世",
+    "fullNameCn": "英格兰国王爱德华二世",
+    "primaryTitleCn": "英格兰国王"
   },
   {
     "id": "14E260814T028",
@@ -2667,7 +2957,8 @@
       {
         "title": "King of England",
         "startYear": 1327,
-        "endYear": 1377
+        "endYear": 1377,
+        "titleCn": "英格兰国王"
       }
     ],
     "tags": [
@@ -2694,7 +2985,10 @@
     "sourceNote": "",
     "notes": "Blank MVP person card; main Plantagenet line placeholder.",
     "createdDate": "260814",
-    "createdOrder": 28
+    "createdOrder": 28,
+    "displayNameCn": "爱德华三世",
+    "fullNameCn": "英格兰国王爱德华三世",
+    "primaryTitleCn": "英格兰国王"
   },
   {
     "id": "14R260814P029",
@@ -2719,7 +3013,8 @@
       {
         "title": "King of England",
         "startYear": 1377,
-        "endYear": 1399
+        "endYear": 1399,
+        "titleCn": "英格兰国王"
       }
     ],
     "tags": [
@@ -2741,7 +3036,10 @@
     "sourceNote": "",
     "notes": "Blank MVP person card; main Plantagenet line placeholder.",
     "createdDate": "260814",
-    "createdOrder": 29
+    "createdOrder": 29,
+    "displayNameCn": "理查二世",
+    "fullNameCn": "英格兰国王理查二世",
+    "primaryTitleCn": "英格兰国王"
   },
   {
     "id": "14E260814B030",
@@ -2770,7 +3068,8 @@
       {
         "title": "Prince of Wales",
         "startYear": 1343,
-        "endYear": 1376
+        "endYear": 1376,
+        "titleCn": "威尔士亲王"
       }
     ],
     "tags": [
@@ -2798,7 +3097,8 @@
         ],
         "weight": 96,
         "label": "Battle of Crécy",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Cr%C3%A9cy"
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Cr%C3%A9cy",
+        "labelCn": "克雷西战役"
       },
       {
         "year": 1355,
@@ -2809,7 +3109,8 @@
         ],
         "weight": 86,
         "label": "Chevauchée of Aquitaine",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Edward_the_Black_Prince"
+        "wikiUrl": "https://en.wikipedia.org/wiki/Edward_the_Black_Prince",
+        "labelCn": "阿基坦骑士突袭"
       },
       {
         "year": 1356,
@@ -2820,7 +3121,8 @@
         ],
         "weight": 100,
         "label": "Battle of Poitiers",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Poitiers"
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Poitiers",
+        "labelCn": "普瓦捷战役"
       },
       {
         "year": 1367,
@@ -2831,7 +3133,8 @@
         ],
         "weight": 90,
         "label": "Battle of Nájera",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_N%C3%A1jera"
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_N%C3%A1jera",
+        "labelCn": "纳赫拉战役"
       }
     ],
     "wikiUrl": "https://en.wikipedia.org/wiki/Edward_the_Black_Prince",
@@ -2845,8 +3148,14 @@
       "kind": "uncertain",
       "summary": "Died after prolonged illness",
       "detail": "The Black Prince died at Westminster in 1376 after years of serious illness; medieval accounts do not establish one certain diagnosis.",
-      "wikiUrl": "https://en.wikipedia.org/wiki/Edward_the_Black_Prince"
-    }
+      "wikiUrl": "https://en.wikipedia.org/wiki/Edward_the_Black_Prince",
+      "summaryCn": "久病后去世",
+      "detailCn": "1376 年黑太子在威斯敏斯特去世，此前已重病多年；中世纪史料未能确立单一确诊病因。"
+    },
+    "displayNameCn": "黑太子爱德华",
+    "fullNameCn": "伍德斯托克的爱德华，威尔士亲王",
+    "nicknameCn": "黑太子",
+    "primaryTitleCn": "威尔士亲王"
   },
   {
     "id": "14J260814G031",
@@ -2871,7 +3180,8 @@
       {
         "title": "Duke of Lancaster",
         "startYear": 1362,
-        "endYear": 1399
+        "endYear": 1399,
+        "titleCn": "兰开斯特公爵"
       }
     ],
     "tags": [
@@ -2899,7 +3209,8 @@
         ],
         "weight": 88,
         "label": "Became Duke of Lancaster",
-        "wikiUrl": "https://en.wikipedia.org/wiki/John_of_Gaunt"
+        "wikiUrl": "https://en.wikipedia.org/wiki/John_of_Gaunt",
+        "labelCn": "成为兰开斯特公爵"
       },
       {
         "year": 1371,
@@ -2910,7 +3221,8 @@
         ],
         "weight": 82,
         "label": "Marriage to Constance of Castile",
-        "wikiUrl": "https://en.wikipedia.org/wiki/John_of_Gaunt"
+        "wikiUrl": "https://en.wikipedia.org/wiki/John_of_Gaunt",
+        "labelCn": "与卡斯蒂利亚的康斯坦丝成婚"
       },
       {
         "year": 1373,
@@ -2921,7 +3233,8 @@
         ],
         "weight": 86,
         "label": "Great Chevauchée in France",
-        "wikiUrl": "https://en.wikipedia.org/wiki/John_of_Gaunt"
+        "wikiUrl": "https://en.wikipedia.org/wiki/John_of_Gaunt",
+        "labelCn": "法兰西大骑士突袭"
       },
       {
         "year": 1390,
@@ -2932,7 +3245,8 @@
         ],
         "weight": 78,
         "label": "Claimed the Crown of Castile",
-        "wikiUrl": "https://en.wikipedia.org/wiki/John_of_Gaunt"
+        "wikiUrl": "https://en.wikipedia.org/wiki/John_of_Gaunt",
+        "labelCn": "宣称卡斯蒂利亚王位"
       }
     ],
     "wikiUrl": "https://en.wikipedia.org/wiki/John_of_Gaunt",
@@ -2946,8 +3260,13 @@
       "kind": "normal",
       "summary": "Died after illness",
       "detail": "John of Gaunt died at Leicester Castle in 1399 after declining health.",
-      "wikiUrl": "https://en.wikipedia.org/wiki/John_of_Gaunt"
-    }
+      "wikiUrl": "https://en.wikipedia.org/wiki/John_of_Gaunt",
+      "summaryCn": "病逝",
+      "detailCn": "1399 年冈特的约翰在莱斯特城堡去世，此前健康状况持续恶化。"
+    },
+    "displayNameCn": "冈特的约翰",
+    "fullNameCn": "兰开斯特公爵冈特的约翰",
+    "primaryTitleCn": "兰开斯特公爵"
   },
   {
     "id": "14H260814L032",
@@ -2972,7 +3291,8 @@
       {
         "title": "King of England",
         "startYear": 1399,
-        "endYear": 1413
+        "endYear": 1413,
+        "titleCn": "英格兰国王"
       }
     ],
     "tags": [
@@ -3000,7 +3320,8 @@
         ],
         "weight": 100,
         "label": "Deposed Richard II and became King of England",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_IV_of_England"
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_IV_of_England",
+        "labelCn": "废黜理查二世并成为英格兰国王"
       },
       {
         "year": 1403,
@@ -3011,7 +3332,8 @@
         ],
         "weight": 94,
         "label": "Battle of Shrewsbury",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Shrewsbury"
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Shrewsbury",
+        "labelCn": "什鲁斯伯里战役"
       },
       {
         "year": 1405,
@@ -3022,7 +3344,8 @@
         ],
         "weight": 82,
         "label": "Suppressed the Percy and Glyndŵr rebellions",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_IV_of_England"
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_IV_of_England",
+        "labelCn": "镇压珀西与格林多尔叛乱"
       }
     ],
     "wikiUrl": "https://en.wikipedia.org/wiki/Henry_IV_of_England",
@@ -3036,8 +3359,13 @@
       "kind": "uncertain",
       "summary": "Cause of death uncertain",
       "detail": "Henry IV died in 1413 after prolonged ill health; medieval descriptions do not establish a single certain diagnosis.",
-      "wikiUrl": "https://en.wikipedia.org/wiki/Henry_IV_of_England"
-    }
+      "wikiUrl": "https://en.wikipedia.org/wiki/Henry_IV_of_England",
+      "summaryCn": "死因存疑",
+      "detailCn": "1413 年亨利四世在长期病痛后去世；中世纪记载未能确立单一确诊病因。"
+    },
+    "displayNameCn": "亨利四世",
+    "fullNameCn": "英格兰国王亨利四世",
+    "primaryTitleCn": "英格兰国王"
   },
   {
     "id": "14H260814V033",
@@ -3062,7 +3390,8 @@
       {
         "title": "King of England",
         "startYear": 1413,
-        "endYear": 1422
+        "endYear": 1422,
+        "titleCn": "英格兰国王"
       }
     ],
     "tags": [
@@ -3092,7 +3421,8 @@
         "label": "Coronation as King of England",
         "wikiUrl": "https://en.wikipedia.org/wiki/Henry_V_of_England",
         "month": 4,
-        "day": 9
+        "day": 9,
+        "labelCn": "加冕为英格兰国王"
       },
       {
         "year": 1415,
@@ -3105,7 +3435,8 @@
         "label": "Battle of Agincourt",
         "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Agincourt",
         "month": 10,
-        "day": 25
+        "day": 25,
+        "labelCn": "阿金库尔战役"
       },
       {
         "year": 1417,
@@ -3116,7 +3447,8 @@
         ],
         "weight": 94,
         "label": "Conquest of Normandy",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_V_of_England"
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_V_of_England",
+        "labelCn": "征服诺曼底"
       },
       {
         "year": 1420,
@@ -3129,7 +3461,8 @@
         "label": "Treaty of Troyes",
         "wikiUrl": "https://en.wikipedia.org/wiki/Treaty_of_Troyes",
         "month": 5,
-        "day": 21
+        "day": 21,
+        "labelCn": "《特鲁瓦条约》"
       }
     ],
     "wikiUrl": "https://en.wikipedia.org/wiki/Henry_V_of_England",
@@ -3143,8 +3476,13 @@
       "kind": "normal",
       "summary": "Died of dysentery",
       "detail": "Henry V died at Château de Vincennes in 1422 after contracting dysentery during the campaign in France.",
-      "wikiUrl": "https://en.wikipedia.org/wiki/Henry_V_of_England"
-    }
+      "wikiUrl": "https://en.wikipedia.org/wiki/Henry_V_of_England",
+      "summaryCn": "死于痢疾",
+      "detailCn": "1422 年亨利五世在法兰西战役期间感染痢疾，于万塞讷城堡去世。"
+    },
+    "displayNameCn": "亨利五世",
+    "fullNameCn": "英格兰国王亨利五世",
+    "primaryTitleCn": "英格兰国王"
   },
   {
     "id": "15H260814S034",
@@ -3169,7 +3507,8 @@
       {
         "title": "King of England",
         "startYear": 1422,
-        "endYear": 1461
+        "endYear": 1461,
+        "titleCn": "英格兰国王"
       }
     ],
     "tags": [
@@ -3194,7 +3533,8 @@
         ],
         "weight": 96,
         "label": "Became King of England as an infant",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_VI_of_England"
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_VI_of_England",
+        "labelCn": "幼年即成为英格兰国王"
       },
       {
         "year": 1431,
@@ -3207,7 +3547,8 @@
         "label": "Crowned King of France at Paris",
         "wikiUrl": "https://en.wikipedia.org/wiki/Henry_VI_of_England",
         "month": 12,
-        "day": 16
+        "day": 16,
+        "labelCn": "在巴黎加冕为法兰西国王"
       },
       {
         "year": 1453,
@@ -3218,7 +3559,8 @@
         ],
         "weight": 92,
         "label": "First major episode of mental illness",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_VI_of_England"
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_VI_of_England",
+        "labelCn": "首次严重精神疾病发作"
       },
       {
         "year": 1471,
@@ -3231,7 +3573,8 @@
         "label": "Battle of Tewkesbury",
         "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Tewkesbury",
         "month": 5,
-        "day": 4
+        "day": 4,
+        "labelCn": "蒂克斯伯里战役"
       }
     ],
     "wikiUrl": "https://en.wikipedia.org/wiki/Henry_VI_of_England",
@@ -3246,8 +3589,14 @@
       "summary": "Died violently; circumstances disputed",
       "detail": "Henry VI died in the Tower of London in 1471, shortly after the Yorkist victory. He was probably murdered, but the precise killer and circumstances remain disputed.",
       "culprit": "Traditionally associated with Richard, Duke of Gloucester; not proven",
-      "wikiUrl": "https://en.wikipedia.org/wiki/Henry_VI_of_England"
-    }
+      "wikiUrl": "https://en.wikipedia.org/wiki/Henry_VI_of_England",
+      "summaryCn": "死于暴力；具体情形存疑",
+      "detailCn": "1471 年约克派获胜后不久，亨利六世死于伦敦塔。他很可能被谋杀，但具体凶手与情形仍有争议。",
+      "culpritCn": "传统上与格洛斯特公爵理查有关；未经证实"
+    },
+    "displayNameCn": "亨利六世",
+    "fullNameCn": "英格兰国王亨利六世",
+    "primaryTitleCn": "英格兰国王"
   },
   {
     "id": "14L260814C035",
@@ -3272,7 +3621,8 @@
       {
         "title": "Duke of Clarence",
         "startYear": 1362,
-        "endYear": 1368
+        "endYear": 1368,
+        "titleCn": "克拉伦斯公爵"
       }
     ],
     "tags": [
@@ -3297,7 +3647,10 @@
     "sourceNote": "",
     "notes": "Blank MVP person card; basic identity and direct relationship only.",
     "createdDate": "260814",
-    "createdOrder": 35
+    "createdOrder": 35,
+    "displayNameCn": "安特卫普的莱昂内尔",
+    "fullNameCn": "安特卫普的莱昂内尔，克拉伦斯公爵",
+    "primaryTitleCn": "克拉伦斯公爵"
   },
   {
     "id": "14P260814U036",
@@ -3322,7 +3675,8 @@
       {
         "title": "Countess of Ulster",
         "startYear": 1368,
-        "endYear": 1382
+        "endYear": 1382,
+        "titleCn": "阿尔斯特伯爵夫人"
       }
     ],
     "tags": [
@@ -3347,7 +3701,10 @@
     "sourceNote": "",
     "notes": "Blank MVP person card; basic identity and direct relationship only.",
     "createdDate": "260814",
-    "createdOrder": 36
+    "createdOrder": 36,
+    "displayNameCn": "克拉伦斯的菲利帕",
+    "fullNameCn": "克拉伦斯的菲利帕，阿尔斯特伯爵夫人",
+    "primaryTitleCn": "阿尔斯特伯爵夫人"
   },
   {
     "id": "14R260814M037",
@@ -3372,7 +3729,8 @@
       {
         "title": "Earl of March",
         "startYear": 1381,
-        "endYear": 1398
+        "endYear": 1398,
+        "titleCn": "马奇伯爵"
       }
     ],
     "tags": [
@@ -3396,7 +3754,10 @@
     "sourceNote": "",
     "notes": "Blank MVP person card. Named heir presumptive by Richard II during his lifetime.",
     "createdDate": "260814",
-    "createdOrder": 37
+    "createdOrder": 37,
+    "displayNameCn": "罗杰·莫蒂默",
+    "fullNameCn": "第四代马奇伯爵罗杰·莫蒂默",
+    "primaryTitleCn": "马奇伯爵"
   },
   {
     "id": "14A260814N038",
@@ -3439,7 +3800,10 @@
     "sourceNote": "",
     "notes": "Blank MVP person card. Grandmother of Edward IV through Richard of York.",
     "createdDate": "260814",
-    "createdOrder": 38
+    "createdOrder": 38,
+    "displayNameCn": "安妮·莫蒂默",
+    "fullNameCn": "安妮·莫蒂默",
+    "primaryTitleCn": "女贵族"
   },
   {
     "id": "15R260814Y039",
@@ -3464,7 +3828,8 @@
       {
         "title": "Duke of York",
         "startYear": 1415,
-        "endYear": 1460
+        "endYear": 1460,
+        "titleCn": "约克公爵"
       }
     ],
     "tags": [
@@ -3493,7 +3858,8 @@
         ],
         "weight": 90,
         "label": "Appointed Lord Protector",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Richard,_Duke_of_York"
+        "wikiUrl": "https://en.wikipedia.org/wiki/Richard,_Duke_of_York",
+        "labelCn": "被任命为护国公"
       },
       {
         "year": 1455,
@@ -3504,7 +3870,8 @@
         ],
         "weight": 94,
         "label": "First Battle of St Albans",
-        "wikiUrl": "https://en.wikipedia.org/wiki/First_Battle_of_St_Albans"
+        "wikiUrl": "https://en.wikipedia.org/wiki/First_Battle_of_St_Albans",
+        "labelCn": "第一次圣奥尔本斯战役"
       },
       {
         "year": 1460,
@@ -3517,7 +3884,8 @@
         "label": "Battle of Northampton",
         "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Northampton_(1460)",
         "month": 7,
-        "day": 10
+        "day": 10,
+        "labelCn": "北安普顿战役"
       },
       {
         "year": 1460,
@@ -3529,7 +3897,8 @@
         "weight": 96,
         "label": "Act of Accord named him heir to the throne",
         "wikiUrl": "https://en.wikipedia.org/wiki/Act_of_Accord",
-        "month": 10
+        "month": 10,
+        "labelCn": "《协议法案》确立其王位继承人身份"
       }
     ],
     "wikiUrl": "https://en.wikipedia.org/wiki/Richard_of_York,_3rd_Duke_of_York",
@@ -3543,8 +3912,13 @@
       "kind": "violent",
       "summary": "Killed in battle",
       "detail": "Richard of York was killed after the Battle of Wakefield in 1460 while fighting the Lancastrian army.",
-      "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Wakefield"
-    }
+      "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Wakefield",
+      "summaryCn": "战死",
+      "detailCn": "1460 年约克的理查在与兰开斯特军交战后于韦克菲尔德战役中被杀。"
+    },
+    "displayNameCn": "约克的理查",
+    "fullNameCn": "第三代约克公爵理查",
+    "primaryTitleCn": "约克公爵"
   },
   {
     "id": "15E260814Y040",
@@ -3569,7 +3943,8 @@
       {
         "title": "King of England",
         "startYear": 1461,
-        "endYear": 1483
+        "endYear": 1483,
+        "titleCn": "英格兰国王"
       }
     ],
     "tags": [
@@ -3600,7 +3975,8 @@
         "label": "Became King of England",
         "wikiUrl": "https://en.wikipedia.org/wiki/Edward_IV_of_England",
         "month": 3,
-        "day": 4
+        "day": 4,
+        "labelCn": "成为英格兰国王"
       },
       {
         "year": 1461,
@@ -3613,7 +3989,8 @@
         "label": "Battle of Towton",
         "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Towton",
         "month": 3,
-        "day": 29
+        "day": 29,
+        "labelCn": "陶顿战役"
       },
       {
         "year": 1471,
@@ -3626,7 +4003,8 @@
         "label": "Battle of Tewkesbury",
         "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Tewkesbury",
         "month": 5,
-        "day": 4
+        "day": 4,
+        "labelCn": "蒂克斯伯里战役"
       },
       {
         "year": 1475,
@@ -3639,7 +4017,8 @@
         "label": "Treaty of Picquigny",
         "wikiUrl": "https://en.wikipedia.org/wiki/Treaty_of_Picquigny",
         "month": 8,
-        "day": 29
+        "day": 29,
+        "labelCn": "《皮基尼条约》"
       }
     ],
     "wikiUrl": "https://en.wikipedia.org/wiki/Edward_IV_of_England",
@@ -3653,8 +4032,13 @@
       "kind": "uncertain",
       "summary": "Cause of death uncertain",
       "detail": "Edward IV died suddenly at Westminster in 1483 after a short illness; contemporary and later accounts do not agree on a precise diagnosis.",
-      "wikiUrl": "https://en.wikipedia.org/wiki/Edward_IV_of_England"
-    }
+      "wikiUrl": "https://en.wikipedia.org/wiki/Edward_IV_of_England",
+      "summaryCn": "死因存疑",
+      "detailCn": "1483 年爱德华四世在短暂病痛后于威斯敏斯特突然去世；当时与后世的记载对具体诊断说法不一。"
+    },
+    "displayNameCn": "爱德华四世",
+    "fullNameCn": "英格兰国王爱德华四世",
+    "primaryTitleCn": "英格兰国王"
   },
   {
     "id": "15E260814V041",
@@ -3679,7 +4063,8 @@
       {
         "title": "King of England",
         "startYear": 1483,
-        "endYear": 1483
+        "endYear": 1483,
+        "titleCn": "英格兰国王"
       }
     ],
     "tags": [
@@ -3706,7 +4091,8 @@
         "label": "Became King of England",
         "wikiUrl": "https://en.wikipedia.org/wiki/Edward_V_of_England",
         "month": 4,
-        "day": 9
+        "day": 9,
+        "labelCn": "成为英格兰国王"
       },
       {
         "year": 1483,
@@ -3718,7 +4104,8 @@
         "weight": 92,
         "label": "Declared illegitimate and displaced from the succession",
         "wikiUrl": "https://en.wikipedia.org/wiki/Titulus_Regius",
-        "month": 6
+        "month": 6,
+        "labelCn": "被宣布为私生子女并被排除出继承序列"
       },
       {
         "year": 1483,
@@ -3730,7 +4117,8 @@
         "weight": 100,
         "label": "Disappeared in the Tower of London",
         "wikiUrl": "https://en.wikipedia.org/wiki/Princes_in_the_Tower",
-        "note": "His fate remains unresolved."
+        "note": "His fate remains unresolved.",
+        "labelCn": "在伦敦塔中失踪"
       }
     ],
     "wikiUrl": "https://en.wikipedia.org/wiki/Edward_V_of_England",
@@ -3744,8 +4132,13 @@
       "kind": "uncertain",
       "summary": "Death and fate uncertain",
       "detail": "Edward V disappeared in the Tower of London in 1483. No confirmed remains or definitive account establishes when or how he died.",
-      "wikiUrl": "https://en.wikipedia.org/wiki/Edward_V_of_England"
-    }
+      "wikiUrl": "https://en.wikipedia.org/wiki/Edward_V_of_England",
+      "summaryCn": "生死下落存疑",
+      "detailCn": "1483 年爱德华五世在伦敦塔中失踪。没有确认的遗骸或确凿记载能说明其何时、如何死亡。"
+    },
+    "displayNameCn": "爱德华五世",
+    "fullNameCn": "英格兰国王爱德华五世",
+    "primaryTitleCn": "英格兰国王"
   },
   {
     "id": "12I260815A042",
@@ -3790,7 +4183,10 @@
     "sourceNote": "",
     "notes": "Blank MVP person card; non-marital partner of Henry II and mother of William Longespee.",
     "createdDate": "260815",
-    "createdOrder": 42
+    "createdOrder": 42,
+    "displayNameCn": "伊达·德·托斯尼",
+    "fullNameCn": "伊达·德·托斯尼",
+    "primaryTitleCn": "亨利二世的伴侣"
   },
   {
     "id": "12Y260815K043",
@@ -3837,7 +4233,10 @@
     "sourceNote": "",
     "notes": "Blank MVP person card; named mother of Geoffrey, Archbishop of York, in Henry II illegitimate-child tradition.",
     "createdDate": "260815",
-    "createdOrder": 43
+    "createdOrder": 43,
+    "displayNameCn": "伊肯奈",
+    "fullNameCn": "伊肯奈",
+    "primaryTitleCn": "亨利二世的伴侣"
   },
   {
     "id": "12N260815E044",
@@ -3884,7 +4283,10 @@
     "sourceNote": "",
     "notes": "Blank MVP person card; probable mother of Morgan FitzRoy.",
     "createdDate": "260815",
-    "createdOrder": 44
+    "createdOrder": 44,
+    "displayNameCn": "内丝特",
+    "fullNameCn": "内丝特",
+    "primaryTitleCn": "亨利二世的伴侣"
   },
   {
     "id": "12G260815Y045",
@@ -3912,7 +4314,8 @@
       {
         "title": "Archbishop of York",
         "startYear": 1191,
-        "endYear": 1212
+        "endYear": 1212,
+        "titleCn": "约克大主教"
       }
     ],
     "tags": [
@@ -3935,7 +4338,10 @@
     "sourceNote": "",
     "notes": "Blank MVP person card; acknowledged illegitimate son of Henry II.",
     "createdDate": "260815",
-    "createdOrder": 45
+    "createdOrder": 45,
+    "displayNameCn": "约克的若弗鲁瓦",
+    "fullNameCn": "约克大主教若弗鲁瓦",
+    "primaryTitleCn": "约克大主教"
   },
   {
     "id": "12W260815L046",
@@ -3963,7 +4369,8 @@
       {
         "title": "Earl of Salisbury",
         "startYear": 1196,
-        "endYear": 1226
+        "endYear": 1226,
+        "titleCn": "索尔兹伯里伯爵"
       }
     ],
     "tags": [
@@ -3987,7 +4394,10 @@
     "sourceNote": "",
     "notes": "Blank MVP person card; acknowledged illegitimate son of Henry II.",
     "createdDate": "260815",
-    "createdOrder": 46
+    "createdOrder": 46,
+    "displayNameCn": "威廉·朗斯佩",
+    "fullNameCn": "索尔兹伯里伯爵威廉·朗斯佩",
+    "primaryTitleCn": "索尔兹伯里伯爵"
   },
   {
     "id": "12M260815F047",
@@ -4031,7 +4441,10 @@
     "sourceNote": "",
     "notes": "Blank MVP person card; illegitimate son of Henry II in the standard extended list.",
     "createdDate": "260815",
-    "createdOrder": 47
+    "createdOrder": 47,
+    "displayNameCn": "摩根·菲茨罗伊",
+    "fullNameCn": "摩根·菲茨罗伊",
+    "primaryTitleCn": "达勒姆主教当选人"
   },
   {
     "id": "09R260815K001",
@@ -4060,7 +4473,8 @@
       {
         "title": "Count of Rouen",
         "startYear": 911,
-        "endYear": 927
+        "endYear": 927,
+        "titleCn": "鲁昂伯爵"
       }
     ],
     "tags": [
@@ -4088,7 +4502,8 @@
         ],
         "weight": 100,
         "label": "Treaty of Saint-Clair-sur-Epte; granted Normandy",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Treaty_of_Saint-Clair-sur-Epte"
+        "wikiUrl": "https://en.wikipedia.org/wiki/Treaty_of_Saint-Clair-sur-Epte",
+        "labelCn": "《圣克莱尔-叙尔-埃普特条约》；获授诺曼底"
       },
       {
         "year": 912,
@@ -4099,7 +4514,8 @@
         ],
         "weight": 82,
         "label": "Baptized at Rouen",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Rollo"
+        "wikiUrl": "https://en.wikipedia.org/wiki/Rollo",
+        "labelCn": "在鲁昂受洗"
       },
       {
         "year": 927,
@@ -4110,7 +4526,8 @@
         ],
         "weight": 78,
         "label": "Passed the Norman succession to William Longsword",
-        "wikiUrl": "https://en.wikipedia.org/wiki/William_I,_Duke_of_Normandy"
+        "wikiUrl": "https://en.wikipedia.org/wiki/William_I,_Duke_of_Normandy",
+        "labelCn": "将诺曼继承权传给长剑威廉"
       }
     ],
     "wikiUrl": "https://en.wikipedia.org/wiki/Rollo",
@@ -4124,8 +4541,14 @@
       "kind": "uncertain",
       "summary": "Death details uncertain",
       "detail": "Rollo is traditionally dated to have died around 930; the surviving accounts do not establish a reliable cause of death.",
-      "wikiUrl": "https://en.wikipedia.org/wiki/Rollo"
-    }
+      "wikiUrl": "https://en.wikipedia.org/wiki/Rollo",
+      "summaryCn": "死亡详情存疑",
+      "detailCn": "传统记载罗洛约于 930 年去世；现存史料无法确立可靠的死因。"
+    },
+    "displayNameCn": "罗洛",
+    "fullNameCn": "行者罗洛",
+    "nicknameCn": "行者",
+    "primaryTitleCn": "鲁昂伯爵"
   },
   {
     "id": "09W260815L002",
@@ -4152,7 +4575,8 @@
       {
         "title": "Count of Rouen",
         "startYear": 927,
-        "endYear": 942
+        "endYear": 942,
+        "titleCn": "鲁昂伯爵"
       }
     ],
     "tags": [
@@ -4177,7 +4601,11 @@
     "sourceNote": "",
     "notes": "Second ruler of Normandy; early titles are commonly rendered as Count of Rouen or Count of Normandy.",
     "createdDate": "260815",
-    "createdOrder": 2
+    "createdOrder": 2,
+    "displayNameCn": "长剑威廉",
+    "fullNameCn": "鲁昂伯爵长剑威廉",
+    "nicknameCn": "长剑",
+    "primaryTitleCn": "鲁昂伯爵"
   },
   {
     "id": "10R260815F003",
@@ -4204,7 +4632,8 @@
       {
         "title": "Duke of Normandy",
         "startYear": 942,
-        "endYear": 996
+        "endYear": 996,
+        "titleCn": "诺曼底公爵"
       }
     ],
     "tags": [
@@ -4230,7 +4659,11 @@
     "sourceNote": "",
     "notes": "Ducal terminology for early Norman rulers varies by source; this card uses the conventional modern title.",
     "createdDate": "260815",
-    "createdOrder": 3
+    "createdOrder": 3,
+    "displayNameCn": "诺曼底的理查一世",
+    "fullNameCn": "无畏者理查一世",
+    "nicknameCn": "无畏者",
+    "primaryTitleCn": "诺曼底公爵"
   },
   {
     "id": "09A260815F004",
@@ -4257,7 +4690,8 @@
       {
         "title": "King of Wessex",
         "startYear": 871,
-        "endYear": 899
+        "endYear": 899,
+        "titleCn": "威塞克斯国王"
       }
     ],
     "tags": [
@@ -4285,7 +4719,8 @@
         ],
         "weight": 92,
         "label": "Became King of Wessex",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Alfred_the_Great"
+        "wikiUrl": "https://en.wikipedia.org/wiki/Alfred_the_Great",
+        "labelCn": "成为威塞克斯国王"
       },
       {
         "year": 871,
@@ -4296,7 +4731,8 @@
         ],
         "weight": 88,
         "label": "Battle of Ashdown",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Ashdown"
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Ashdown",
+        "labelCn": "阿什当战役"
       },
       {
         "year": 878,
@@ -4307,7 +4743,8 @@
         ],
         "weight": 100,
         "label": "Battle of Edington",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Edington"
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Edington",
+        "labelCn": "爱丁顿战役"
       },
       {
         "year": 886,
@@ -4318,7 +4755,8 @@
         ],
         "weight": 84,
         "label": "Captured London",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Alfred_the_Great"
+        "wikiUrl": "https://en.wikipedia.org/wiki/Alfred_the_Great",
+        "labelCn": "攻占伦敦"
       }
     ],
     "wikiUrl": "https://en.wikipedia.org/wiki/Alfred_the_Great",
@@ -4332,8 +4770,14 @@
       "kind": "uncertain",
       "summary": "Cause of death uncertain",
       "detail": "Alfred died at Winchester in 899 after a long period of declining health; the precise illness is not securely identified.",
-      "wikiUrl": "https://en.wikipedia.org/wiki/Alfred_the_Great"
-    }
+      "wikiUrl": "https://en.wikipedia.org/wiki/Alfred_the_Great",
+      "summaryCn": "死因存疑",
+      "detailCn": "899 年阿尔弗雷德在长期健康衰退后于温彻斯特去世；确切病因未能确证。"
+    },
+    "displayNameCn": "阿尔弗雷德大帝",
+    "fullNameCn": "阿尔弗雷德大帝",
+    "nicknameCn": "大帝",
+    "primaryTitleCn": "威塞克斯国王"
   },
   {
     "id": "09E260815L005",
@@ -4360,7 +4804,8 @@
       {
         "title": "King of the Anglo-Saxons",
         "startYear": 899,
-        "endYear": 924
+        "endYear": 924,
+        "titleCn": "盎格鲁-撒克逊人的国王"
       }
     ],
     "tags": [
@@ -4385,7 +4830,11 @@
     "sourceNote": "",
     "notes": "Son of Alfred the Great.",
     "createdDate": "260815",
-    "createdOrder": 5
+    "createdOrder": 5,
+    "displayNameCn": "长者爱德华",
+    "fullNameCn": "长者爱德华",
+    "nicknameCn": "长者",
+    "primaryTitleCn": "盎格鲁-撒克逊人的国王"
   },
   {
     "id": "10E260815D006",
@@ -4410,7 +4859,8 @@
       {
         "title": "King of the English",
         "startYear": 939,
-        "endYear": 946
+        "endYear": 946,
+        "titleCn": "英格兰人的国王"
       }
     ],
     "tags": [
@@ -4435,7 +4885,10 @@
     "sourceNote": "",
     "notes": "Son of Edward the Elder.",
     "createdDate": "260815",
-    "createdOrder": 6
+    "createdOrder": 6,
+    "displayNameCn": "埃德蒙一世",
+    "fullNameCn": "英格兰人的国王埃德蒙一世",
+    "primaryTitleCn": "英格兰人的国王"
   },
   {
     "id": "10E260815G007",
@@ -4462,7 +4915,8 @@
       {
         "title": "King of the English",
         "startYear": 959,
-        "endYear": 975
+        "endYear": 975,
+        "titleCn": "英格兰人的国王"
       }
     ],
     "tags": [
@@ -4486,7 +4940,11 @@
     "sourceNote": "",
     "notes": "Son of Edmund I.",
     "createdDate": "260815",
-    "createdOrder": 7
+    "createdOrder": 7,
+    "displayNameCn": "和平者埃德加",
+    "fullNameCn": "和平者埃德加",
+    "nicknameCn": "和平者",
+    "primaryTitleCn": "英格兰人的国王"
   },
   {
     "id": "10A260815U008",
@@ -4515,7 +4973,8 @@
       {
         "title": "King of England",
         "startYear": 978,
-        "endYear": 1016
+        "endYear": 1016,
+        "titleCn": "英格兰国王"
       }
     ],
     "tags": [
@@ -4539,7 +4998,11 @@
     "sourceNote": "",
     "notes": "Son of Edgar the Peaceful.",
     "createdDate": "260815",
-    "createdOrder": 8
+    "createdOrder": 8,
+    "displayNameCn": "埃塞尔雷德二世",
+    "fullNameCn": "决策无方者埃塞尔雷德二世",
+    "nicknameCn": "决策无方者",
+    "primaryTitleCn": "英格兰国王"
   },
   {
     "id": "10E260815I009",
@@ -4566,7 +5029,8 @@
       {
         "title": "King of England",
         "startYear": 1016,
-        "endYear": 1016
+        "endYear": 1016,
+        "titleCn": "英格兰国王"
       }
     ],
     "tags": [
@@ -4591,7 +5055,11 @@
     "sourceNote": "",
     "notes": "Son of Aethelred II.",
     "createdDate": "260815",
-    "createdOrder": 9
+    "createdOrder": 9,
+    "displayNameCn": "埃德蒙二世",
+    "fullNameCn": "铁骨埃德蒙二世",
+    "nicknameCn": "铁骨",
+    "primaryTitleCn": "英格兰国王"
   },
   {
     "id": "11E260815X010",
@@ -4638,7 +5106,11 @@
     "sourceNote": "",
     "notes": "Father of Saint Margaret of Scotland.",
     "createdDate": "260815",
-    "createdOrder": 10
+    "createdOrder": 10,
+    "displayNameCn": "流亡者爱德华",
+    "fullNameCn": "流亡者爱德华",
+    "nicknameCn": "流亡者",
+    "primaryTitleCn": "英格兰王子"
   },
   {
     "id": "11M260815S011",
@@ -4667,7 +5139,8 @@
       {
         "title": "Queen of Scotland",
         "startYear": 1070,
-        "endYear": 1093
+        "endYear": 1093,
+        "titleCn": "苏格兰王后"
       }
     ],
     "tags": [
@@ -4693,7 +5166,11 @@
     "sourceNote": "",
     "notes": "Mother of Matilda of Scotland; the Scottish paternal line is intentionally not yet modeled.",
     "createdDate": "260815",
-    "createdOrder": 11
+    "createdOrder": 11,
+    "displayNameCn": "苏格兰的圣玛格丽特",
+    "fullNameCn": "苏格兰的圣玛格丽特",
+    "nicknameCn": "圣者",
+    "primaryTitleCn": "苏格兰王后"
   },
   {
     "id": "11M260815C012",
@@ -4720,7 +5197,8 @@
       {
         "title": "Queen of England",
         "startYear": 1100,
-        "endYear": 1118
+        "endYear": 1118,
+        "titleCn": "英格兰王后"
       }
     ],
     "tags": [
@@ -4748,7 +5226,10 @@
     "sourceNote": "",
     "notes": "Mother of Empress Matilda; born Edith and later known as Matilda.",
     "createdDate": "260815",
-    "createdOrder": 12
+    "createdOrder": 12,
+    "displayNameCn": "苏格兰的玛蒂尔达",
+    "fullNameCn": "苏格兰的玛蒂尔达，英格兰王后",
+    "primaryTitleCn": "英格兰王后"
   },
   {
     "id": "15E260815Y013",
@@ -4767,7 +5248,9 @@
       "kind": "normal",
       "summary": "Died after childbirth",
       "detail": "Elizabeth died eleven days after giving birth to her last child, Katherine Tudor.",
-      "wikiUrl": "https://en.wikipedia.org/wiki/Elizabeth_of_York"
+      "wikiUrl": "https://en.wikipedia.org/wiki/Elizabeth_of_York",
+      "summaryCn": "产后去世",
+      "detailCn": "伊丽莎白在生下最后一个孩子凯瑟琳·都铎十一天后去世。"
     },
     "gender": "female",
     "dynasty": "House of York",
@@ -4779,7 +5262,8 @@
       {
         "title": "Queen of England",
         "startYear": 1486,
-        "endYear": 1503
+        "endYear": 1503,
+        "titleCn": "英格兰王后"
       }
     ],
     "tags": [
@@ -4812,7 +5296,8 @@
         ],
         "weight": 87,
         "label": "Tudor Victory at Bosworth",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Bosworth_Field"
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Bosworth_Field",
+        "labelCn": "博斯沃思的都铎胜利"
       },
       {
         "year": 1486,
@@ -4825,7 +5310,8 @@
         ],
         "weight": 97,
         "label": "Marriage to Henry VII",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Elizabeth_of_York"
+        "wikiUrl": "https://en.wikipedia.org/wiki/Elizabeth_of_York",
+        "labelCn": "与亨利七世成婚"
       },
       {
         "year": 1487,
@@ -4838,7 +5324,8 @@
         ],
         "weight": 82,
         "label": "Coronation as Queen of England",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Elizabeth_of_York"
+        "wikiUrl": "https://en.wikipedia.org/wiki/Elizabeth_of_York",
+        "labelCn": "加冕为英格兰王后"
       },
       {
         "year": 1491,
@@ -4851,7 +5338,8 @@
         ],
         "weight": 86,
         "label": "Birth of Henry VIII",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_VIII"
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_VIII",
+        "labelCn": "亨利八世出生"
       },
       {
         "year": 1503,
@@ -4863,7 +5351,8 @@
         ],
         "weight": 70,
         "label": "Death of Elizabeth of York",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Elizabeth_of_York"
+        "wikiUrl": "https://en.wikipedia.org/wiki/Elizabeth_of_York",
+        "labelCn": "约克的伊丽莎白去世"
       }
     ],
     "wikiUrl": "https://en.wikipedia.org/wiki/Elizabeth_of_York",
@@ -4872,7 +5361,12 @@
     "sourceNote": "",
     "notes": "Daughter of Edward IV. Her marriage to Henry VII united the Houses of York and Lancaster.",
     "createdDate": "260815",
-    "createdOrder": 13
+    "createdOrder": 13,
+    "displayNameCn": "约克的伊丽莎白",
+    "fullNameCn": "约克的伊丽莎白，英格兰王后",
+    "primaryTitleCn": "英格兰王后",
+    "birthPlaceCn": "英格兰威斯敏斯特",
+    "deathPlaceCn": "英格兰伦敦塔"
   },
   {
     "id": "15H260815T014",
@@ -4893,7 +5387,9 @@
       "kind": "normal",
       "summary": "Died after a prolonged illness",
       "detail": "Henry VII died at Richmond Palace after declining health; no violent cause is recorded.",
-      "wikiUrl": "https://en.wikipedia.org/wiki/Henry_VII_of_England"
+      "wikiUrl": "https://en.wikipedia.org/wiki/Henry_VII_of_England",
+      "summaryCn": "久病后去世",
+      "detailCn": "亨利七世在健康恶化后于里士满宫去世；无暴力死因记载。"
     },
     "gender": "male",
     "dynasty": "House of Tudor",
@@ -4905,7 +5401,8 @@
       {
         "title": "King of England",
         "startYear": 1485,
-        "endYear": 1509
+        "endYear": 1509,
+        "titleCn": "英格兰国王"
       }
     ],
     "tags": [
@@ -4939,7 +5436,8 @@
         ],
         "weight": 100,
         "label": "Battle of Bosworth Field",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Bosworth_Field"
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Bosworth_Field",
+        "labelCn": "博斯沃思原野战役"
       },
       {
         "year": 1485,
@@ -4952,7 +5450,8 @@
         ],
         "weight": 99,
         "label": "Became King of England",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_VII_of_England"
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_VII_of_England",
+        "labelCn": "成为英格兰国王"
       },
       {
         "year": 1485,
@@ -4965,7 +5464,8 @@
         ],
         "weight": 91,
         "label": "Coronation as King of England",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_VII_of_England"
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_VII_of_England",
+        "labelCn": "加冕为英格兰国王"
       },
       {
         "year": 1486,
@@ -4978,7 +5478,8 @@
         ],
         "weight": 98,
         "label": "Marriage to Elizabeth of York",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Elizabeth_of_York"
+        "wikiUrl": "https://en.wikipedia.org/wiki/Elizabeth_of_York",
+        "labelCn": "与约克的伊丽莎白成婚"
       },
       {
         "year": 1487,
@@ -4992,7 +5493,8 @@
         ],
         "weight": 94,
         "label": "Battle of Stoke Field",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Stoke_Field"
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Stoke_Field",
+        "labelCn": "斯托克原野战役"
       },
       {
         "year": 1492,
@@ -5003,7 +5505,8 @@
         ],
         "weight": 78,
         "label": "Treaty of Etaples",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Treaty_of_%C3%89taples"
+        "wikiUrl": "https://en.wikipedia.org/wiki/Treaty_of_%C3%89taples",
+        "labelCn": "《埃塔普勒条约》"
       },
       {
         "year": 1509,
@@ -5015,7 +5518,8 @@
         ],
         "weight": 70,
         "label": "Death of Henry VII",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_VII_of_England"
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_VII_of_England",
+        "labelCn": "亨利七世去世"
       }
     ],
     "wikiUrl": "https://en.wikipedia.org/wiki/Henry_VII_of_England",
@@ -5024,7 +5528,12 @@
     "sourceNote": "",
     "notes": "Tudor paternal line intentionally not modeled. Founder of the Tudor royal line in this tree.",
     "createdDate": "260815",
-    "createdOrder": 14
+    "createdOrder": 14,
+    "displayNameCn": "亨利七世",
+    "fullNameCn": "英格兰国王亨利七世",
+    "primaryTitleCn": "英格兰国王",
+    "birthPlaceCn": "威尔士彭布罗克城堡",
+    "deathPlaceCn": "英格兰里士满宫"
   },
   {
     "id": "15H260815T015",
@@ -5043,7 +5552,9 @@
       "kind": "normal",
       "summary": "Died after prolonged physical decline",
       "detail": "Henry VIII died after years of serious health problems, including severe leg ulcers and declining mobility.",
-      "wikiUrl": "https://en.wikipedia.org/wiki/Henry_VIII"
+      "wikiUrl": "https://en.wikipedia.org/wiki/Henry_VIII",
+      "summaryCn": "长期身体衰退后去世",
+      "detailCn": "亨利八世在多年严重健康问题后去世，包括严重的腿部溃疡和行动能力衰退。"
     },
     "gender": "male",
     "dynasty": "House of Tudor",
@@ -5055,12 +5566,14 @@
       {
         "title": "King of England",
         "startYear": 1509,
-        "endYear": 1547
+        "endYear": 1547,
+        "titleCn": "英格兰国王"
       },
       {
         "title": "King of Ireland",
         "startYear": 1541,
-        "endYear": 1547
+        "endYear": 1547,
+        "titleCn": "爱尔兰国王"
       }
     ],
     "tags": [
@@ -5092,7 +5605,8 @@
         ],
         "weight": 98,
         "label": "Became King of England",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_VIII"
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_VIII",
+        "labelCn": "成为英格兰国王"
       },
       {
         "year": 1509,
@@ -5105,7 +5619,8 @@
         ],
         "weight": 91,
         "label": "Coronation as King of England",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Coronation_of_Henry_VIII_and_Catherine"
+        "wikiUrl": "https://en.wikipedia.org/wiki/Coronation_of_Henry_VIII_and_Catherine",
+        "labelCn": "加冕为英格兰国王"
       },
       {
         "year": 1513,
@@ -5118,7 +5633,8 @@
         ],
         "weight": 78,
         "label": "Battle of the Spurs",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_the_Spurs"
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_the_Spurs",
+        "labelCn": "马刺战役"
       },
       {
         "year": 1534,
@@ -5129,7 +5645,8 @@
         ],
         "weight": 100,
         "label": "Act of Supremacy",
-        "wikiUrl": "https://en.wikipedia.org/wiki/First_Act_of_Supremacy"
+        "wikiUrl": "https://en.wikipedia.org/wiki/First_Act_of_Supremacy",
+        "labelCn": "《至尊法案》"
       },
       {
         "year": 1541,
@@ -5140,7 +5657,8 @@
         ],
         "weight": 76,
         "label": "Became King of Ireland",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_VIII"
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_VIII",
+        "labelCn": "成为爱尔兰国王"
       },
       {
         "year": 1547,
@@ -5152,7 +5670,8 @@
         ],
         "weight": 70,
         "label": "Death of Henry VIII",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_VIII"
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_VIII",
+        "labelCn": "亨利八世去世"
       }
     ],
     "wikiUrl": "https://en.wikipedia.org/wiki/Henry_VIII",
@@ -5161,7 +5680,12 @@
     "sourceNote": "",
     "notes": "Only the Mary I and Elizabeth I branches are modeled here; his spouses and other children remain outside this pass.",
     "createdDate": "260815",
-    "createdOrder": 15
+    "createdOrder": 15,
+    "displayNameCn": "亨利八世",
+    "fullNameCn": "英格兰国王亨利八世",
+    "primaryTitleCn": "英格兰国王",
+    "birthPlaceCn": "英格兰格林尼治宫",
+    "deathPlaceCn": "英格兰白厅宫"
   },
   {
     "id": "16M260815R016",
@@ -5180,7 +5704,9 @@
       "kind": "uncertain",
       "summary": "Cause of death uncertain",
       "detail": "Mary died during an influenza outbreak, but the precise medical cause of her death is not certain.",
-      "wikiUrl": "https://en.wikipedia.org/wiki/Mary_I_of_England"
+      "wikiUrl": "https://en.wikipedia.org/wiki/Mary_I_of_England",
+      "summaryCn": "死因存疑",
+      "detailCn": "玛丽死于一次流感爆发期间，但确切医学死因无法确定。"
     },
     "gender": "female",
     "dynasty": "House of Tudor",
@@ -5192,7 +5718,8 @@
       {
         "title": "Queen of England",
         "startYear": 1553,
-        "endYear": 1558
+        "endYear": 1558,
+        "titleCn": "英格兰王后"
       }
     ],
     "tags": [
@@ -5220,7 +5747,8 @@
         ],
         "weight": 98,
         "label": "Became Queen of England",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Mary_I_of_England"
+        "wikiUrl": "https://en.wikipedia.org/wiki/Mary_I_of_England",
+        "labelCn": "成为英格兰王后"
       },
       {
         "year": 1553,
@@ -5233,7 +5761,8 @@
         ],
         "weight": 90,
         "label": "Coronation as Queen of England",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Coronation_of_Mary_I_of_England"
+        "wikiUrl": "https://en.wikipedia.org/wiki/Coronation_of_Mary_I_of_England",
+        "labelCn": "加冕为英格兰王后"
       },
       {
         "year": 1554,
@@ -5246,7 +5775,8 @@
         ],
         "weight": 82,
         "label": "Marriage to Philip of Spain",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Mary_I_of_England"
+        "wikiUrl": "https://en.wikipedia.org/wiki/Mary_I_of_England",
+        "labelCn": "与西班牙的腓力成婚"
       },
       {
         "year": 1554,
@@ -5257,7 +5787,8 @@
         ],
         "weight": 88,
         "label": "Restoration of Papal Supremacy",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Mary_I_of_England"
+        "wikiUrl": "https://en.wikipedia.org/wiki/Mary_I_of_England",
+        "labelCn": "恢复教皇至上权威"
       },
       {
         "year": 1558,
@@ -5268,7 +5799,8 @@
         ],
         "weight": 78,
         "label": "Loss of Calais",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Siege_of_Calais_(1558)"
+        "wikiUrl": "https://en.wikipedia.org/wiki/Siege_of_Calais_(1558)",
+        "labelCn": "失去加来"
       },
       {
         "year": 1558,
@@ -5280,7 +5812,8 @@
         ],
         "weight": 70,
         "label": "Death of Mary I",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Mary_I_of_England"
+        "wikiUrl": "https://en.wikipedia.org/wiki/Mary_I_of_England",
+        "labelCn": "玛丽一世去世"
       }
     ],
     "wikiUrl": "https://en.wikipedia.org/wiki/Mary_I_of_England",
@@ -5289,7 +5822,12 @@
     "sourceNote": "",
     "notes": "Daughter of Henry VIII; her mother Catherine of Aragon is intentionally not modeled in this pass.",
     "createdDate": "260815",
-    "createdOrder": 16
+    "createdOrder": 16,
+    "displayNameCn": "玛丽一世",
+    "fullNameCn": "英格兰女王玛丽一世",
+    "primaryTitleCn": "英格兰女王",
+    "birthPlaceCn": "英格兰格林尼治宫",
+    "deathPlaceCn": "英格兰圣詹姆斯宫"
   },
   {
     "id": "16E260815I017",
@@ -5312,7 +5850,9 @@
       "kind": "normal",
       "summary": "Died after declining health",
       "detail": "Elizabeth died at Richmond Palace after a period of declining health in the final months of her reign.",
-      "wikiUrl": "https://en.wikipedia.org/wiki/Elizabeth_I"
+      "wikiUrl": "https://en.wikipedia.org/wiki/Elizabeth_I",
+      "summaryCn": "健康衰退后去世",
+      "detailCn": "伊丽莎白在其统治的最后数月健康状况持续衰退，于里士满宫去世。"
     },
     "gender": "female",
     "dynasty": "House of Tudor",
@@ -5324,7 +5864,8 @@
       {
         "title": "Queen of England",
         "startYear": 1558,
-        "endYear": 1603
+        "endYear": 1603,
+        "titleCn": "英格兰王后"
       }
     ],
     "tags": [
@@ -5353,7 +5894,8 @@
         ],
         "weight": 98,
         "label": "Became Queen of England",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Elizabeth_I"
+        "wikiUrl": "https://en.wikipedia.org/wiki/Elizabeth_I",
+        "labelCn": "成为英格兰王后"
       },
       {
         "year": 1559,
@@ -5366,7 +5908,8 @@
         ],
         "weight": 91,
         "label": "Coronation as Queen of England",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Coronation_of_Elizabeth_I"
+        "wikiUrl": "https://en.wikipedia.org/wiki/Coronation_of_Elizabeth_I",
+        "labelCn": "加冕为英格兰王后"
       },
       {
         "year": 1559,
@@ -5377,7 +5920,8 @@
         ],
         "weight": 96,
         "label": "Elizabethan Religious Settlement",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Elizabethan_Religious_Settlement"
+        "wikiUrl": "https://en.wikipedia.org/wiki/Elizabethan_Religious_Settlement",
+        "labelCn": "伊丽莎白宗教和解"
       },
       {
         "year": 1588,
@@ -5389,7 +5933,8 @@
         ],
         "weight": 100,
         "label": "Defeat of the Spanish Armada",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Spanish_Armada"
+        "wikiUrl": "https://en.wikipedia.org/wiki/Spanish_Armada",
+        "labelCn": "击败西班牙无敌舰队"
       },
       {
         "year": 1601,
@@ -5400,7 +5945,8 @@
         ],
         "weight": 80,
         "label": "Elizabethan Poor Law",
-        "wikiUrl": "https://en.wikipedia.org/wiki/English_Poor_Laws"
+        "wikiUrl": "https://en.wikipedia.org/wiki/English_Poor_Laws",
+        "labelCn": "伊丽莎白济贫法"
       },
       {
         "year": 1603,
@@ -5412,7 +5958,8 @@
         ],
         "weight": 70,
         "label": "Death of Elizabeth I",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Elizabeth_I"
+        "wikiUrl": "https://en.wikipedia.org/wiki/Elizabeth_I",
+        "labelCn": "伊丽莎白一世去世"
       }
     ],
     "wikiUrl": "https://en.wikipedia.org/wiki/Elizabeth_I",
@@ -5421,6 +5968,11 @@
     "sourceNote": "",
     "notes": "Daughter of Henry VIII; her mother Anne Boleyn is intentionally not modeled in this pass. Last Tudor monarch.",
     "createdDate": "260815",
-    "createdOrder": 17
+    "createdOrder": 17,
+    "displayNameCn": "伊丽莎白一世",
+    "fullNameCn": "英格兰女王伊丽莎白一世",
+    "primaryTitleCn": "英格兰女王",
+    "birthPlaceCn": "英格兰格林尼治宫",
+    "deathPlaceCn": "英格兰里士满宫"
   }
 ]

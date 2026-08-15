@@ -8,7 +8,10 @@ export function genderMark(person: Person) {
   return person.gender === "male" ? "♂" : person.gender === "female" ? "♀" : "";
 }
 
-export function initials(person: Person) {
+export function initials(person: Person, language?: "en" | "cn") {
+  // CN mode: the first two characters of the Chinese display name; EN mode:
+  // uppercase initials from the English display name, capped at three.
+  if (language === "cn") return (person.displayNameCn || person.displayName).replace(/\s+/g, "").slice(0, 2);
   const name = person.displayName || person.firstName;
   return name.split(/\s+/).map((part) => part[0]).join("").slice(0, 3).toUpperCase();
 }

@@ -1,7 +1,9 @@
 import type { Person } from "../../types";
 
 function normalizedSearchText(value: string) {
-  return value.toLowerCase().replace(/[^a-z0-9]/g, "");
+  // Keep Unicode letters (CJK included) and numbers; drop punctuation, spaces,
+  // and case so both English and Chinese queries normalize consistently.
+  return value.toLowerCase().replace(/[^\p{L}\p{N}]/gu, "");
 }
 
 function editDistance(left: string, right: string) {
@@ -24,7 +26,12 @@ export function peopleSearchResults(people: Person[], query: string) {
 
   return people
     .map((person) => {
-      const normalizedValues = [person.displayName, person.fullName, ...person.alsoKnownAs].map(normalizedSearchText).filter(Boolean);
+      // English canonical fields plus Chinese display fields, so the same
+      // query matches in either language.
+      const normalizedValues = [
+        person.displayName, person.fullName, ...person.alsoKnownAs,
+        person.displayNameCn ?? "", person.fullNameCn ?? "", person.nicknameCn ?? "", person.primaryTitleCn ?? "",
+      ].map(normalizedSearchText).filter(Boolean);
       const directMatch = normalizedValues.reduce((best, value) => {
         const index = value.indexOf(normalizedQuery);
         return index >= 0 ? Math.min(best, index) : best;

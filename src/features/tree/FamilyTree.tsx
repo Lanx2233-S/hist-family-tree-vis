@@ -38,6 +38,7 @@ export function FamilyTree({
   const [expandedSpouseAncestors, setExpandedSpouseAncestors] = useState<Record<string, number>>({});
   const [activeSpouseIndex, setActiveSpouseIndex] = useState(0);
   const t = copyFor(language);
+  const nameOf = (person: Person) => textFor(person, language).displayName;
   const byId = new Map(people.map((person) => [person.id, person]));
   const center = byId.get(selectedId) ?? byId.get("11A260814K001") ?? people[0];
   function ancestorFor(person: Person) {
@@ -318,7 +319,7 @@ export function FamilyTree({
     const query = searchQuery.trim().toLowerCase();
     const matchesTag = activeTag === "all" || person.tags.includes(activeTag);
     const matchesGender = activeGender === "all" || person.gender === activeGender;
-    const searchable = `${person.displayName} ${person.fullName} ${label.displayName} ${label.fullName} ${person.alsoKnownAs.join(" ")}`.toLowerCase();
+    const searchable = `${person.displayName} ${person.fullName} ${label.displayName} ${label.fullName} ${person.alsoKnownAs.join(" ")} ${person.nicknameCn ?? ""} ${person.primaryTitleCn ?? ""}`.toLowerCase();
     const matchesSearch = !query || searchable.includes(query);
     const isDimmed = !matchesTag || !matchesGender || !matchesSearch;
     const tier = titleTier(person);
@@ -350,13 +351,13 @@ export function FamilyTree({
         <rect width={card.width} height={card.height} rx="8" />
         <text className={`gender-mark ${person.gender}`} x={card.width - 15} y="20">{genderMark(person)}</text>
         <circle cx={centerX} cy="24" r="21" />
-        <text className="avatar-text" x={centerX} y="30">{initials(person)}</text>
+        <text className="avatar-text" x={centerX} y="30">{initials(person, language)}</text>
         <text className="node-name" x={centerX} y={nameStartY}>
           {nameLines.map((line, index) => <tspan key={line} x={centerX} dy={index === 0 ? 0 : 14}>{line}</tspan>)}
         </text>
         <text className="node-title" x={centerX} y={titleY}>{label.primaryTitle}</text>
         <text className="node-years" x={centerX} y={yearsY}>{years(person)}</text>
-        {person.tags.includes("illegitimate") && <text className="legitimacy-mark" x="14" y="20">B</text>}
+        {person.tags.includes("illegitimate") && <text className="legitimacy-mark" x="14" y="20">{language === "cn" ? "私" : "B"}</text>}
       </g>
     );
   }
@@ -466,7 +467,7 @@ export function FamilyTree({
                   y={y + card.height / 2 - 12}
                   expanded={Boolean(expandedSpouses[person.id])}
                   onClick={() => togglePersonSpouses(person)}
-                  label={fillCopy(t.toggleRelationshipsFor, { name: person.displayName })}
+                  label={fillCopy(t.toggleRelationshipsFor, { name: nameOf(person) })}
                 />
               )}
               {depth < ancestorNodes.length && (
@@ -475,7 +476,7 @@ export function FamilyTree({
                   y={y - card.height / 2 - 18}
                   expanded
                   onClick={() => setExtraAncestorDepth(Math.max(0, depth - radius))}
-                  label={fillCopy(t.collapseAncestorsAbove, { name: person.displayName })}
+                  label={fillCopy(t.collapseAncestorsAbove, { name: nameOf(person) })}
                 />
               )}
             </g>
@@ -506,7 +507,7 @@ export function FamilyTree({
                     y={y + card.height / 2 - 12}
                     expanded={Boolean(expandedSpouses[person.id])}
                     onClick={() => togglePersonSpouses(person)}
-                    label={fillCopy(t.toggleRelationshipsFor, { name: person.displayName })}
+                    label={fillCopy(t.toggleRelationshipsFor, { name: nameOf(person) })}
                   />
                 )}
                 {depth < (expandedSpouseAncestors[spouseId] ?? 0) && (
@@ -515,7 +516,7 @@ export function FamilyTree({
                     y={y - card.height / 2 - 18}
                     expanded
                     onClick={() => setExpandedSpouseAncestors((current) => ({ ...current, [spouseId]: depth }))}
-                    label={fillCopy(t.collapseAncestorsAbove, { name: person.displayName })}
+                    label={fillCopy(t.collapseAncestorsAbove, { name: nameOf(person) })}
                   />
                 )}
               </g>
@@ -532,7 +533,7 @@ export function FamilyTree({
                 y={y - card.height / 2 - 18}
                 expanded={depth > 0}
                 onClick={() => setExpandedSpouseAncestors((current) => ({ ...current, [spouse.id]: depth > 0 ? 0 : 1 }))}
-                label={fillCopy(t.extendAncestorsFrom, { name: spouse.displayName })}
+                label={fillCopy(t.extendAncestorsFrom, { name: nameOf(spouse) })}
               />
             );
           })}
@@ -549,7 +550,7 @@ export function FamilyTree({
                 y={topNode.y - card.height / 2 - 18}
                 expanded={false}
                 onClick={() => setExpandedSpouseAncestors((current) => ({ ...current, [spouse.id]: depth + 1 }))}
-                label={fillCopy(t.extendAncestorLineFrom, { name: spouse.displayName })}
+                label={fillCopy(t.extendAncestorLineFrom, { name: nameOf(spouse) })}
               />
             );
           })}
@@ -622,7 +623,7 @@ export function FamilyTree({
                   y={y - card.height / 2 - 18}
                   expanded
                   onClick={() => setHiddenChildren((current) => ({ ...current, [person.id]: true }))}
-                  label={fillCopy(t.hide, { name: person.displayName })}
+                  label={fillCopy(t.hide, { name: nameOf(person) })}
                 />
               )}
               {person.relationships.childIds.length > 0 && (
@@ -631,7 +632,7 @@ export function FamilyTree({
                   y={y + card.height / 2 - 12}
                   expanded={renderedChildParentIds.has(person.id)}
                   onClick={() => togglePersonDescendants(person)}
-                  label={fillCopy(t.extendDescendantsFrom, { name: person.displayName })}
+                  label={fillCopy(t.extendDescendantsFrom, { name: nameOf(person) })}
                 />
               )}
             </g>
@@ -642,7 +643,7 @@ export function FamilyTree({
             .filter((person): person is Person => Boolean(person))
             .filter((person) => hiddenChildren[person.id])
             .map((person, index) => (
-            <BranchToggle key={person.id} x={centerPoint.x + 42 + index * 34} y={childSpineY} expanded={false} onClick={() => setHiddenChildren((current) => ({ ...current, [person.id]: false }))} label={`${t.show} ${person.displayName}`} />
+            <BranchToggle key={person.id} x={centerPoint.x + 42 + index * 34} y={childSpineY} expanded={false} onClick={() => setHiddenChildren((current) => ({ ...current, [person.id]: false }))} label={`${t.show} ${nameOf(person)}`} />
           ))}
         </g>
       </svg>

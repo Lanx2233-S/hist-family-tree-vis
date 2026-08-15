@@ -1,5 +1,5 @@
 import { useState } from "react";
-import type { Person, PersonEvent } from "../../types";
+import type { Person, PersonEvent, Title } from "../../types";
 
 export type Locale = "en" | "cn";
 export type Language = Locale;
@@ -11,6 +11,8 @@ export const tagCopy: Record<string, UiCopy> = {
   monarch: { en: "Monarch", cn: "君主" },
   commander: { en: "Commander", cn: "指挥官" },
   duke: { en: "Duke", cn: "公爵" },
+  count: { en: "Count", cn: "伯爵" },
+  countess: { en: "Countess", cn: "女伯爵" },
   queen: { en: "Queen", cn: "王后" },
   crusader: { en: "Crusader", cn: "十字军" },
   noble: { en: "Noble", cn: "贵族" },
@@ -21,6 +23,8 @@ export const tagCopy: Record<string, UiCopy> = {
   clergy: { en: "Clergy", cn: "教士" },
   illegitimate: { en: "Illegitimate", cn: "私生子女" },
   partner: { en: "Partner", cn: "伴侣" },
+  emperor: { en: "Emperor", cn: "皇帝" },
+  empress: { en: "Empress", cn: "皇后" },
 };
 
 // Backward-compatible English/Chinese tag maps.
@@ -51,6 +55,8 @@ export const copy = {
   noMatchingPeople: { en: "No matching people", cn: "无匹配人物" },
   addPerson: { en: "+ Person", cn: "+ 人物" },
   familyTree: { en: "Family Tree", cn: "家族树" },
+  documentTitle: { en: "Norman Family Tree", cn: "诺曼家族树" },
+  tagsPlaceholder: { en: "monarch, commander, noble", cn: "如 monarch, commander, noble" },
   // Detail panel
   culture: { en: "Culture", cn: "文化" },
   faith: { en: "Faith", cn: "信仰" },
@@ -184,7 +190,29 @@ export function fillCopy(template: string, values: Record<string, string>): stri
 }
 
 const eventTagLabels: Record<string, Record<Locale, string>> = {
+  all: { en: "All", cn: "全部" },
   title: { en: "TITLE", cn: "头衔" }, marriage: { en: "MARRIAGE", cn: "婚姻" }, alliance: { en: "ALLIANCE", cn: "联盟" }, battle: { en: "BATTLE", cn: "会战" }, campaign: { en: "CAMPAIGN", cn: "战役" }, coronation: { en: "CORONATION", cn: "加冕" }, childbirth: { en: "CHILDBIRTH", cn: "生育" }, dynasty: { en: "DYNASTY", cn: "王朝" }, government: { en: "GOVERNMENT", cn: "政务" }, death: { en: "DEATH", cn: "死亡" }, partner: { en: "PARTNER", cn: "伴侣" }, crusade: { en: "CRUSADE", cn: "十字军" }, conquest: { en: "CONQUEST", cn: "征服" }, commander: { en: "COMMANDER", cn: "指挥官" }, king: { en: "KING", cn: "国王" }, queen: { en: "QUEEN", cn: "王后" }, duke: { en: "DUKE", cn: "公爵" }, law: { en: "LAW", cn: "法令" }, rebellion: { en: "REBELLION", cn: "叛乱" }, administration: { en: "ADMINISTRATION", cn: "行政" }, legal: { en: "LEGAL", cn: "法律" }, politics: { en: "POLITICS", cn: "政治" },
+  annulment: { en: "ANNULMENT", cn: "婚姻无效" },
+  church: { en: "CHURCH", cn: "教会" },
+  defeat: { en: "DEFEAT", cn: "战败" },
+  defense: { en: "DEFENSE", cn: "防御" },
+  diplomacy: { en: "DIPLOMACY", cn: "外交" },
+  dynastic_alliance: { en: "DYNASTIC ALLIANCE", cn: "王朝联姻" },
+  imprisonment: { en: "IMPRISONMENT", cn: "囚禁" },
+  main_commander: { en: "MAIN COMMANDER", cn: "主帅" },
+  monarch: { en: "MONARCH", cn: "君主" },
+  noble: { en: "NOBLE", cn: "贵族" },
+  pacification: { en: "PACIFICATION", cn: "平定" },
+  political_crisis: { en: "POLITICAL CRISIS", cn: "政治危机" },
+  reformation: { en: "REFORMATION", cn: "宗教改革" },
+  regency: { en: "REGENCY", cn: "摄政" },
+  religion: { en: "RELIGION", cn: "宗教" },
+  succession: { en: "SUCCESSION", cn: "继承" },
+  territory: { en: "TERRITORY", cn: "领土" },
+  title_acquired: { en: "TITLE ACQUIRED", cn: "获得头衔" },
+  treaty: { en: "TREATY", cn: "条约" },
+  uncertain: { en: "UNCERTAIN", cn: "存疑" },
+  violent: { en: "VIOLENT", cn: "非自然死亡" },
 };
 
 export function shortEnglishName(person: Person) {
@@ -192,14 +220,139 @@ export function shortEnglishName(person: Person) {
   return `${person.displayName} ${person.nickname}`;
 }
 
-export function textFor(person: Person, _language: Language) {
-  return { displayName: person.displayName, fullName: shortEnglishName(person), nickname: person.nickname, primaryTitle: person.primaryTitle, dynasty: person.dynasty, culture: person.culture, faith: person.faith, birthPlace: person.birthPlace, deathPlace: person.deathPlace, title: (title: string) => title, event: (label: string) => label };
+// Static Chinese mappings for shared vocabulary. These live in the
+// presentation layer (not per-record data) because the strings repeat across
+// many people and the DB schema intentionally stays English-only.
+const titleCnMap: Record<string, string> = {
+  "Archbishop of York": "约克大主教",
+  "Bishop-elect of Durham": "达勒姆主教当选人",
+  "Count of Anjou": "安茹伯爵",
+  "Count of Poitiers": "普瓦捷伯爵",
+  "Count of Rouen": "鲁昂伯爵",
+  "Countess of Anjou": "安茹伯爵夫人",
+  "Countess of Blois": "布卢瓦伯爵夫人",
+  "Countess of Champagne": "香槟伯爵夫人",
+  "Countess of Ulster": "阿尔斯特伯爵夫人",
+  "Duchess of Aquitaine": "阿基坦女公爵",
+  "Duchess of Normandy": "诺曼底女公爵",
+  "Duchess of Saxony": "萨克森公爵夫人",
+  "Duke of Aquitaine": "阿基坦公爵",
+  "Duke of Brittany": "布列塔尼公爵",
+  "Duke of Clarence": "克拉伦斯公爵",
+  "Duke of Lancaster": "兰开斯特公爵",
+  "Duke of Normandy": "诺曼底公爵",
+  "Duke of York": "约克公爵",
+  "Earl of March": "马奇伯爵",
+  "Earl of Salisbury": "索尔兹伯里伯爵",
+  "English prince": "英格兰王子",
+  "Holy Roman Emperor": "神圣罗马帝国皇帝",
+  "Holy Roman Empress": "神圣罗马帝国皇后",
+  "Junior King of England": "英格兰共治国王",
+  "King of England": "英格兰国王",
+  "King of France": "法兰西国王",
+  "King of Germany": "德意志国王",
+  "King of Ireland": "爱尔兰国王",
+  "King of Wessex": "威塞克斯国王",
+  "King of the Anglo-Saxons": "盎格鲁-撒克逊人的国王",
+  "King of the English": "英格兰人的国王",
+  "Lady of the English": "英格兰人的夫人",
+  "Lord of Ireland": "爱尔兰领主",
+  Noblewoman: "女贵族",
+  "Partner of Henry II": "亨利二世的伴侣",
+  "Prince of Wales": "威尔士亲王",
+  "Queen of Castile": "卡斯蒂利亚王后",
+  "Queen of England": "英格兰王后",
+  "Queen of France": "法兰西王后",
+  "Queen of Scotland": "苏格兰王后",
+  "Queen of Sicily": "西西里王后",
+};
+
+const cultureCnMap: Record<string, string> = {
+  Norman: "诺曼人",
+  Flemish: "佛兰德人",
+  German: "德意志人",
+  Angevin: "安茹人",
+  Occitan: "奥克人",
+  English: "英格兰人",
+  French: "法兰西人",
+  "Anglo-Norman": "盎格鲁-诺曼人",
+  Welsh: "威尔士人",
+  Norse: "诺斯人",
+  "Anglo-Saxon": "盎格鲁-撒克逊人",
+  Scottish: "苏格兰人",
+};
+
+const faithCnMap: Record<string, string> = {
+  Catholic: "天主教",
+  Anglican: "圣公会",
+};
+
+const dynastyCnMap: Record<string, string> = {
+  "House of Normandy": "诺曼王朝",
+  "House of Flanders": "佛兰德家族",
+  "Salian dynasty": "萨利安王朝",
+  "House of Plantagenet": "金雀花王朝",
+  "House of Poitiers": "普瓦捷家族",
+  "House of Capet": "卡佩王朝",
+  "House of Mortimer": "莫蒂默家族",
+  "House of Wessex": "威塞克斯王朝",
+  "House of Dunkeld": "邓凯尔德王朝",
+  "House of York": "约克家族",
+  "House of Tudor": "都铎王朝",
+};
+
+export function titleCn(title: string) {
+  return titleCnMap[title] ?? title;
+}
+
+export function cultureCn(culture: string) {
+  return cultureCnMap[culture] ?? culture;
+}
+
+export function faithCn(faith: string) {
+  return faithCnMap[faith] ?? faith;
+}
+
+export function dynastyCn(dynasty: string) {
+  return dynastyCnMap[dynasty] ?? dynasty;
+}
+
+// The single source of localized person display. In CN mode every field uses
+// its Chinese counterpart when recorded, and falls back to the English
+// canonical value otherwise (e.g. people created through the form or loaded
+// from the database before CN fields exist there).
+export function textFor(person: Person, language: Language) {
+  const useCn = language === "cn";
+  return {
+    displayName: useCn ? person.displayNameCn || person.displayName : person.displayName,
+    fullName: useCn ? person.fullNameCn || shortEnglishName(person) : shortEnglishName(person),
+    nickname: useCn ? person.nicknameCn || person.nickname : person.nickname,
+    primaryTitle: useCn ? person.primaryTitleCn || titleCn(person.primaryTitle) : person.primaryTitle,
+    dynasty: useCn ? dynastyCn(person.dynasty) : person.dynasty,
+    culture: useCn ? cultureCn(person.culture) : person.culture,
+    faith: useCn ? faithCn(person.faith) : person.faith,
+    birthPlace: useCn ? person.birthPlaceCn || person.birthPlace : person.birthPlace,
+    deathPlace: useCn ? person.deathPlaceCn || person.deathPlace : person.deathPlace,
+    // Title objects carry their own optional titleCn (e.g. database rows);
+    // prefer it over the static map, which stays as the shared-vocabulary fallback.
+    title: (title: Title) => useCn ? title.titleCn || titleCn(title.title) : title.title,
+    event: (label: string) => label,
+  };
+}
+
+export function eventLabelText(event: PersonEvent, language: Language) {
+  return language === "cn" ? event.labelCn || event.label : event.label;
 }
 
 export function years(person: Person) { return `${person.birthYear || "?"}-${person.deathYear || "?"}`; }
 export function lifespan(person: Person, language: Locale) { const t = copyFor(language); return person.birthYear && person.deathYear ? `${Number(person.deathYear) - Number(person.birthYear)} ${t.yearsUnit}` : t.unknown; }
 export function genderMark(person: Person) { return person.gender === "male" ? "♂" : person.gender === "female" ? "♀" : ""; }
-export function initials(person: Person) { return `${person.firstName[0] ?? ""}${person.displayName.match(/\b[IVX]+\b/)?.[0] ?? ""}`; }
+export function initials(person: Person, language?: Language) {
+  // CN mode: the first two characters of the Chinese display name fit the
+  // avatar circle; EN mode keeps the initial + regnal-number pattern.
+  if (language === "cn") return (person.displayNameCn || person.displayName).replace(/\s+/g, "").slice(0, 2);
+  return `${person.firstName[0] ?? ""}${person.displayName.match(/\b[IVX]+\b/)?.[0] ?? ""}`;
+}
 export function nodeNameLines(name: string) { if (name.length <= 16) return [name]; const words = name.split(" "); const midpoint = Math.ceil(words.length / 2); return words.length < 2 ? [name] : [words.slice(0, midpoint).join(" "), words.slice(midpoint).join(" ")]; }
 export function titleTier(person: Person) { const combined = `${person.rank} ${person.primaryTitle} ${person.titles.map((item) => item.title).join(" ")}`.toLowerCase(); if (combined.includes("empress")) return "empress"; if (combined.includes("emperor")) return "emperor"; if (person.tags.includes("consort") && combined.includes("queen")) return "queen-consort"; if (combined.includes("king of france")) return "supreme-king"; if (combined.includes("queen of france")) return "france-queen"; if (combined.includes("grand duke") || combined.includes("grand duchess")) return "king"; if (combined.includes("king") || combined.includes("queen")) return "king"; if (combined.includes("duke") || combined.includes("duchess")) return "duke"; if (combined.includes("count") || combined.includes("countess") || combined.includes("earl")) return "count"; return "untitled"; }
 export function eventDateValue(event: PersonEvent) { return Number(event.year || 0) * 10000 + Number(event.month || 1) * 100 + Number(event.day || 1); }
@@ -216,6 +369,11 @@ export function DeathCauseButton({ person, language }: { person: Person; languag
   const t = copyFor(language);
   const cause = person.deathCause;
   if (!cause) return null;
+  const useCn = language === "cn";
+  const name = useCn ? person.displayNameCn || person.displayName : person.displayName;
+  const summary = useCn ? cause.summaryCn || cause.summary : cause.summary;
+  const detail = useCn ? cause.detailCn || cause.detail : cause.detail;
+  const culprit = useCn ? cause.culpritCn || cause.culprit : cause.culprit;
   const marker = cause.kind === "violent" ? "●" : cause.kind === "violent_uncertain" ? "●?" : cause.kind === "uncertain" ? "○?" : "○";
-  return <>{<button type="button" className={`death-cause-button ${cause.kind}`} onClick={() => setOpen(true)} aria-label={fillCopy(t.showDeathCauseFor, { name: person.displayName })}>{marker}</button>}{isOpen && <div className="modal-backdrop" role="presentation" onClick={() => setOpen(false)}><section className={`death-modal ${cause.kind}`} role="dialog" aria-modal="true" aria-label={fillCopy(t.deathCauseAria, { name: person.displayName })} onClick={(event) => event.stopPropagation()}><div className="modal-header"><div><p className="eyebrow">{t.deathCause}</p><h3>{person.displayName}</h3></div><button type="button" onClick={() => setOpen(false)}>{t.close}</button></div><p className="death-summary">{cause.summary}</p>{cause.culprit && <p className="death-culprit">{cause.kind === "violent_uncertain" ? t.namedFigureDisputedIntent : t.culprit}: {cause.culprit}</p>}<p>{cause.detail}</p>{cause.wikiUrl && <a className="wiki-link" href={cause.wikiUrl} target="_blank" rel="noreferrer">{t.wiki}</a>}</section></div>}</>;
+  return <>{<button type="button" className={`death-cause-button ${cause.kind}`} onClick={() => setOpen(true)} aria-label={fillCopy(t.showDeathCauseFor, { name })}>{marker}</button>}{isOpen && <div className="modal-backdrop" role="presentation" onClick={() => setOpen(false)}><section className={`death-modal ${cause.kind}`} role="dialog" aria-modal="true" aria-label={fillCopy(t.deathCauseAria, { name })} onClick={(event) => event.stopPropagation()}><div className="modal-header"><div><p className="eyebrow">{t.deathCause}</p><h3>{name}</h3></div><button type="button" onClick={() => setOpen(false)}>{t.close}</button></div><p className="death-summary">{summary}</p>{culprit && <p className="death-culprit">{cause.kind === "violent_uncertain" ? t.namedFigureDisputedIntent : t.culprit}: {culprit}</p>}<p>{detail}</p>{cause.wikiUrl && <a className="wiki-link" href={cause.wikiUrl} target="_blank" rel="noreferrer">{t.wiki}</a>}</section></div>}</>;
 }

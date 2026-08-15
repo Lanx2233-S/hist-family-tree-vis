@@ -33,6 +33,10 @@ CREATE TABLE IF NOT EXISTS people (
   updated_at TIMESTAMPTZ NOT NULL DEFAULT now()
 );
 
+-- Chinese display fields for the CN interface mode. English columns remain the
+-- canonical layer; localized carries only optional presentation overrides.
+ALTER TABLE people ADD COLUMN IF NOT EXISTS localized JSONB NOT NULL DEFAULT '{}'::jsonb;
+
 CREATE TABLE IF NOT EXISTS person_parentage (
   child_id TEXT PRIMARY KEY REFERENCES people(id) ON DELETE CASCADE,
   father_id TEXT REFERENCES people(id) ON DELETE SET NULL,
@@ -60,6 +64,8 @@ CREATE TABLE IF NOT EXISTS person_titles (
   end_year INTEGER
 );
 
+ALTER TABLE person_titles ADD COLUMN IF NOT EXISTS title_cn TEXT NOT NULL DEFAULT '';
+
 CREATE TABLE IF NOT EXISTS person_tags (
   person_id TEXT NOT NULL REFERENCES people(id) ON DELETE CASCADE,
   tag TEXT NOT NULL,
@@ -82,6 +88,8 @@ CREATE TABLE IF NOT EXISTS person_events (
   CHECK (month IS NULL OR month BETWEEN 1 AND 12),
   CHECK (day IS NULL OR day BETWEEN 1 AND 31)
 );
+
+ALTER TABLE person_events ADD COLUMN IF NOT EXISTS label_cn TEXT NOT NULL DEFAULT '';
 
 CREATE INDEX IF NOT EXISTS people_name_search_idx ON people USING gin (
   to_tsvector('simple', display_name || ' ' || full_name || ' ' || nickname)

@@ -316,3 +316,36 @@ Split by responsibility and keep data, derived presentation, interaction state, 
 - 先补齐所有 event type 的双语映射。
 - 再把婚姻状态从硬编码 UUID 改成数据字段，例如 `union.status` 或关系记录中的 `isFormer`。
 - 完成浏览器验收后，再进入 Phase 2 的中文搜索和关系模型改造。
+
+## 2026-08-16：Phase 2 完整汉化与验收
+
+### 目标
+
+- 补齐全部 UI、事件类型、标签、操作提示、人物详情和表单文案的 EN/CN 双语。
+- 为人物姓名、头衔、地点、事件、死因增加独立中文显示字段，中文模式使用这些字段。
+- 支持中文人物搜索。
+- 保留英文 canonical 字段、Wikipedia URL、ID 与数据库结构兼容性；不改变人物卡视觉结构。
+
+### 已完成
+
+- **数据**：`people.normandy.json` 65 人新增 `displayNameCn/fullNameCn/nicknameCn/primaryTitleCn/birthPlaceCn/deathPlaceCn`（65/65）、`titles[].titleCn`（75/75）、`events[].labelCn`（153/153）、`deathCause.summaryCn/detailCn/culpritCn`（26/26）。英文字段经 jq 剥离中文键后与 HEAD 逐字对比，零改动。
+- **文案**：`tagCopy` 补齐 count/countess/emperor/empress；`eventTagLabels` 补齐 annulment、succession、regency、imprisonment、political_crisis、religion、treaty、violent 等 22 个类型及 "all"；新增 `titleCnMap`/`cultureCnMap`/`faithCnMap`/`dynastyCnMap` 静态映射——共用词汇（王朝/文化/信仰/头衔）走呈现层映射而非逐人字段，数据库加载的数据同样受益。Phase 1 验收遗留的 event type 映射缺口已闭合。
+- **呈现层**：`textFor()` 全字段中文优先、英文回退；新增 `eventLabelText()`；`initials(person, language)` 中文取前两字；死因弹窗 summary/detail/culprit 中文；文档 `title` 与 `html lang` 随语言切换（zh-CN）。
+- **搜索**：`normalizedSearchText` 改用 Unicode 属性转义 `\p{L}\p{N}`，中文查询不再被剥离；搜索池纳入全部中文字段；搜索弹窗本地化渲染；树节点变暗匹配补入 `nicknameCn`/`primaryTitleCn`。
+- **消费组件**：Toolbar、FamilyTree（含 8 处分支按钮 aria/title 与私生子记号 B/私）、DetailPanel、ProtagonistPage（hook 双语）、PersonFormModal（含父/母下拉、Tags placeholder、错误提示）全部接入。
+- **服务端**：`schema.sql` 增加 `people.localized JSONB`、`person_titles.title_cn`、`person_events.label_cn`（均 `ADD COLUMN IF NOT EXISTS`，幂等；既有库重新应用 schema.sql 即可）；`seed.mjs` 写入；`index.mjs` 白名单展开中文字段。`textFor().title` 改为接收 Title 对象，优先 `title.titleCn`，静态映射仅作回退。
+- **seed 幂等性加固**：`person_titles`/`person_events` 由 `ON CONFLICT DO NOTHING` 改为按唯一索引冲突目标 `DO UPDATE`，仅回填 `title_cn`/`label_cn`，不覆盖既有行的其他字段（含用户手工编辑）；people upsert 增加 `death_cause = EXCLUDED.death_cause`，使旧库死因 JSONB 内的中文键也能补写。既有数据库重跑 `npm run db:seed` 即可获得中文字段，无需删改任何历史数据。
+- **验收**：
+  - 静态审计（子代理）：全部 copy/tag/eventTag 成对无缺失；数据中 17 种人物标签、18 种事件类型、37 种事件标签零遗漏；人物卡 SVG 结构未变；无阻塞项。
+  - `npm run build` 通过（TS strict + Vite）。
+  - Headless Chrome CDP 运行时验证：首页 → 家谱页 → 死因弹窗 → 搜索 "威廉"（7 条中文结果）→ 切回英文，全部正确，无 React 运行时错误；API 未启动时按设计回退 JSON 数据。
+- **收尾**：一次性迁移脚本 `merge-cn.mjs` 用后即删；`.gitignore` 加入 `.DS_Store`。
+
+### 遗留问题
+
+- 人物表单仍仅录入英文字段，新建人物在中文模式回退英文（已做优雅回退）。
+- 中文搜索为子串 + 编辑距离匹配，未做拼音匹配。
+- 事件 note、人物 notes/sourceNote、deathCause 正文以外史料保持英文 canonical。
+- `isFormerMarriage()` 仍硬编码埃莉诺与路易七世的 UUID（Phase 1 验收遗留，待关系模型改造）。
+- 运行时验收基于 headless Chrome 的 DOM 级断言与截图，截图未人工目检；建议人工抽检一次浏览器视觉效果。
+- `culpritCn` 仅 3/26，与英文 culprit 一一对应（其余 23 人英文亦无元凶字段）。
