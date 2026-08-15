@@ -1,5 +1,7 @@
 import { useMemo, useState, type FormEvent } from "react";
 import { createPerson, type CreatePersonInput } from "../api/peopleApi";
+import { useFamilyStore } from "../store";
+import { copyFor } from "../features/shared/presentation";
 import type { Person } from "../types";
 
 type PersonFormModalProps = {
@@ -19,6 +21,8 @@ function createPersonId(birthYear: string, firstName: string, sequence: number) 
 }
 
 export function PersonFormModal({ people, onClose, onCreated }: PersonFormModalProps) {
+  const language = useFamilyStore((state) => state.language);
+  const t = copyFor(language);
   const [firstName, setFirstName] = useState("");
   const [lastName, setLastName] = useState("");
   const [displayName, setDisplayName] = useState("");
@@ -62,7 +66,7 @@ export function PersonFormModal({ people, onClose, onCreated }: PersonFormModalP
       onCreated(person);
       onClose();
     } catch (caught) {
-      setError(caught instanceof Error ? caught.message : "Could not save person.");
+      setError(caught instanceof Error ? caught.message : t.couldNotSave);
     } finally {
       setSaving(false);
     }
@@ -73,33 +77,33 @@ export function PersonFormModal({ people, onClose, onCreated }: PersonFormModalP
       <section className="person-form-modal" role="dialog" aria-modal="true" aria-labelledby="person-form-title" onMouseDown={(event) => event.stopPropagation()}>
         <div className="modal-header">
           <div>
-            <span className="detail-eyebrow">DATABASE ENTRY</span>
-            <h2 id="person-form-title">Add person</h2>
+            <span className="detail-eyebrow">{t.databaseEntry}</span>
+            <h2 id="person-form-title">{t.addPersonTitle}</h2>
           </div>
-          <button type="button" onClick={onClose}>Close</button>
+          <button type="button" onClick={onClose}>{t.close}</button>
         </div>
         <form onSubmit={submit}>
           <div className="person-form-grid">
-            <label>First name<input required value={firstName} onChange={(event) => setFirstName(event.target.value)} /></label>
-            <label>Last name<input value={lastName} onChange={(event) => setLastName(event.target.value)} /></label>
-            <label>Display name<input value={displayName} onChange={(event) => setDisplayName(event.target.value)} /></label>
-            <label>Full name<input value={fullName} onChange={(event) => setFullName(event.target.value)} /></label>
-            <label>Born<input inputMode="numeric" value={birthYear} onChange={(event) => setBirthYear(event.target.value)} /></label>
-            <label>Died<input inputMode="numeric" value={deathYear} onChange={(event) => setDeathYear(event.target.value)} /></label>
-            <label>Gender<select value={gender} onChange={(event) => setGender(event.target.value as CreatePersonInput["gender"])}><option value="unknown">Unknown</option><option value="male">Male</option><option value="female">Female</option></select></label>
-            <label>Rank<select value={rank} onChange={(event) => setRank(event.target.value)}><option value="untitled">Untitled</option><option value="count">Count</option><option value="duke">Duke</option><option value="king">King</option><option value="queen">Queen</option><option value="emperor">Emperor</option></select></label>
-            <label>Dynasty<input value={dynasty} onChange={(event) => setDynasty(event.target.value)} /></label>
-            <label>Primary title<input value={primaryTitle} onChange={(event) => setPrimaryTitle(event.target.value)} /></label>
-            <label>Father<select value={fatherId} onChange={(event) => setFatherId(event.target.value)}><option value="">Unknown</option>{people.filter((person) => person.gender === "male").map((person) => <option key={person.id} value={person.id}>{person.displayName} · {person.id}</option>)}</select></label>
-            <label>Mother<select value={motherId} onChange={(event) => setMotherId(event.target.value)}><option value="">Unknown</option>{people.filter((person) => person.gender === "female").map((person) => <option key={person.id} value={person.id}>{person.displayName} · {person.id}</option>)}</select></label>
-            <label className="span-two">Tags<input value={tags} onChange={(event) => setTags(event.target.value)} placeholder="monarch, commander, noble" /></label>
-            <label className="span-two">English Wikipedia<input type="url" value={wikiUrl} onChange={(event) => setWikiUrl(event.target.value)} placeholder="https://en.wikipedia.org/..." /></label>
+            <label>{t.firstName}<input required value={firstName} onChange={(event) => setFirstName(event.target.value)} /></label>
+            <label>{t.lastName}<input value={lastName} onChange={(event) => setLastName(event.target.value)} /></label>
+            <label>{t.displayName}<input value={displayName} onChange={(event) => setDisplayName(event.target.value)} /></label>
+            <label>{t.fullName}<input value={fullName} onChange={(event) => setFullName(event.target.value)} /></label>
+            <label>{t.birthYear}<input inputMode="numeric" value={birthYear} onChange={(event) => setBirthYear(event.target.value)} /></label>
+            <label>{t.deathYear}<input inputMode="numeric" value={deathYear} onChange={(event) => setDeathYear(event.target.value)} /></label>
+            <label>{t.gender}<select value={gender} onChange={(event) => setGender(event.target.value as CreatePersonInput["gender"])}><option value="unknown">{t.unknown}</option><option value="male">{t.male}</option><option value="female">{t.female}</option></select></label>
+            <label>{t.rank}<select value={rank} onChange={(event) => setRank(event.target.value)}><option value="untitled">{t.untitled}</option><option value="count">{t.count}</option><option value="duke">{t.duke}</option><option value="king">{t.king}</option><option value="queen">{t.queen}</option><option value="emperor">{t.emperor}</option></select></label>
+            <label>{t.dynasty}<input value={dynasty} onChange={(event) => setDynasty(event.target.value)} /></label>
+            <label>{t.primaryTitle}<input value={primaryTitle} onChange={(event) => setPrimaryTitle(event.target.value)} /></label>
+            <label>{t.father}<select value={fatherId} onChange={(event) => setFatherId(event.target.value)}><option value="">{t.unknown}</option>{people.filter((person) => person.gender === "male").map((person) => <option key={person.id} value={person.id}>{person.displayName} · {person.id}</option>)}</select></label>
+            <label>{t.mother}<select value={motherId} onChange={(event) => setMotherId(event.target.value)}><option value="">{t.unknown}</option>{people.filter((person) => person.gender === "female").map((person) => <option key={person.id} value={person.id}>{person.displayName} · {person.id}</option>)}</select></label>
+            <label className="span-two">{t.tagsLabel}<input value={tags} onChange={(event) => setTags(event.target.value)} placeholder="monarch, commander, noble" /></label>
+            <label className="span-two">{t.englishWikipedia}<input type="url" value={wikiUrl} onChange={(event) => setWikiUrl(event.target.value)} placeholder="https://en.wikipedia.org/..." /></label>
           </div>
-          <p className="person-id-preview">ID: <code>{suggestedId}</code></p>
+          <p className="person-id-preview">{t.idLabel}: <code>{suggestedId}</code></p>
           {error && <p className="form-error">{error}</p>}
           <div className="form-actions">
-            <button type="button" onClick={onClose}>Cancel</button>
-            <button type="submit" className="primary-action" disabled={isSaving}>{isSaving ? "Saving" : "Save person"}</button>
+            <button type="button" onClick={onClose}>{t.cancel}</button>
+            <button type="submit" className="primary-action" disabled={isSaving}>{isSaving ? t.saving : t.savePerson}</button>
           </div>
         </form>
       </section>

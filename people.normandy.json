@@ -702,7 +702,9 @@
     "relationships": {
       "fatherId": "11A260814K001",
       "motherId": "11M260814F003",
-      "spouseIds": [],
+      "spouseIds": [
+        "11M260815C012"
+      ],
       "partnerIds": [],
       "childIds": [
         "12M260814Q008"
@@ -824,7 +826,7 @@
     "rank": "duke",
     "importanceScore": 72,
     "relationships": {
-      "fatherId": "",
+      "fatherId": "10R260815F003",
       "motherId": "",
       "spouseIds": [],
       "partnerIds": [],
@@ -846,7 +848,56 @@
     "sourceNote": "",
     "notes": "",
     "createdDate": "260814",
-    "events": [],
+    "events": [
+      {
+        "year": 1128,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynasty"
+        ],
+        "weight": 95,
+        "label": "Marriage to Geoffrey Plantagenet, Count of Anjou",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Geoffrey_Plantagenet,_Count_of_Anjou",
+        "month": 6,
+        "day": 17
+      },
+      {
+        "year": 1135,
+        "type": "succession",
+        "tags": [
+          "title",
+          "succession"
+        ],
+        "weight": 98,
+        "label": "Claimed the English throne",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Empress_Matilda",
+        "month": 12
+      },
+      {
+        "year": 1141,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "succession"
+        ],
+        "weight": 90,
+        "label": "Captured King Stephen at Lincoln",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Lincoln_(1141)",
+        "month": 2
+      },
+      {
+        "year": 1153,
+        "type": "diplomacy",
+        "tags": [
+          "diplomacy",
+          "succession"
+        ],
+        "weight": 100,
+        "label": "Treaty of Wallingford secured Henry's succession",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Treaty_of_Wallingford"
+      }
+    ],
     "id": "12M260814Q008",
     "firstName": "Matilda",
     "displayName": "Empress Matilda",
@@ -870,18 +921,25 @@
         "title": "Lady of the English",
         "startYear": 1141,
         "endYear": 1141
+      },
+      {
+        "title": "Countess of Anjou",
+        "startYear": 1128,
+        "endYear": 1151
       }
     ],
     "tags": [
       "empress",
+      "count",
       "noble"
     ],
     "rank": "empress",
     "importanceScore": 88,
     "relationships": {
       "fatherId": "11H260814L006",
-      "motherId": "",
+      "motherId": "11M260815C012",
       "spouseIds": [
+        "12H260815E018",
         "12G260814V009"
       ],
       "partnerIds": [],
@@ -891,7 +949,54 @@
     },
     "wikiUrl": "https://en.wikipedia.org/wiki/Empress_Matilda",
     "sourceUrl": "https://en.wikipedia.org/wiki/Empress_Matilda",
-    "createdOrder": 8
+    "createdOrder": 8,
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died of natural causes",
+      "detail": "Empress Matilda died at Notre-Dame-du-Pré near Rouen in 1167 after a long political life.",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Empress_Matilda"
+    }
+  },
+  {
+    "id": "12H260815E018",
+    "firstName": "Henry",
+    "lastName": "Salian",
+    "displayName": "Henry V",
+    "fullName": "Henry V, Holy Roman Emperor",
+    "nickname": "the Proud",
+    "alsoKnownAs": [],
+    "nicknameTags": ["proud"],
+    "birthYear": 1081,
+    "deathYear": 1125,
+    "birthPlace": "Goslar, Saxony",
+    "deathPlace": "Utrecht, Lower Lorraine",
+    "gender": "male",
+    "dynasty": "Salian dynasty",
+    "house": "Salian dynasty",
+    "culture": "German",
+    "faith": "Catholic",
+    "primaryTitle": "Holy Roman Emperor",
+    "titles": [
+      { "title": "Holy Roman Emperor", "startYear": 1111, "endYear": 1125 },
+      { "title": "King of Germany", "startYear": 1099, "endYear": 1125 }
+    ],
+    "tags": ["emperor", "monarch", "noble"],
+    "rank": "emperor",
+    "importanceScore": 78,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": ["12M260814Q008"],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Henry_V,_Holy_Roman_Emperor",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Henry_V,_Holy_Roman_Emperor",
+    "sourceNote": "First husband of Empress Matilda; marriage ended after his death.",
+    "notes": "Holy Roman Emperor and first husband of Empress Matilda.",
+    "createdDate": "260815",
+    "createdOrder": 18
   },
   {
     "lastName": "Anjou",
@@ -1860,7 +1965,52 @@
     "sourceNote": "",
     "notes": "",
     "createdDate": "260814",
-    "events": [],
+    "events": [
+      {
+        "year": 1272,
+        "type": "title",
+        "tags": [
+          "title",
+          "monarch"
+        ],
+        "weight": 96,
+        "label": "Became King of England",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Edward_I_of_England"
+      },
+      {
+        "year": 1282,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "conquest"
+        ],
+        "weight": 98,
+        "label": "Conquest of Wales",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Conquest_of_Wales_by_Edward_I"
+      },
+      {
+        "year": 1284,
+        "type": "government",
+        "tags": [
+          "government",
+          "law"
+        ],
+        "weight": 86,
+        "label": "Statute of Rhuddlan",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Statute_of_Rhuddlan"
+      },
+      {
+        "year": 1296,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "conquest"
+        ],
+        "weight": 94,
+        "label": "Invaded Scotland",
+        "wikiUrl": "https://en.wikipedia.org/wiki/First_War_of_Scottish_Independence"
+      }
+    ],
     "id": "13E260814W015",
     "firstName": "Edward",
     "displayName": "Edward I",
@@ -1898,7 +2048,13 @@
     },
     "wikiUrl": "https://en.wikipedia.org/wiki/Edward_I_of_England",
     "sourceUrl": "https://en.wikipedia.org/wiki/Edward_I_of_England",
-    "createdOrder": 15
+    "createdOrder": 15,
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died after illness during campaign",
+      "detail": "Edward I died near Burgh by Sands in 1307 while campaigning against Scotland; chronic illness and dysentery are commonly discussed in accounts.",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Edward_I_of_England"
+    }
   },
   {
     "id": "12W260814X016",
@@ -2632,14 +2788,65 @@
         "14R260814P029"
       ]
     },
-    "events": [],
+    "events": [
+      {
+        "year": 1346,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "commander"
+        ],
+        "weight": 96,
+        "label": "Battle of Crécy",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Cr%C3%A9cy"
+      },
+      {
+        "year": 1355,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "commander"
+        ],
+        "weight": 86,
+        "label": "Chevauchée of Aquitaine",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Edward_the_Black_Prince"
+      },
+      {
+        "year": 1356,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "commander"
+        ],
+        "weight": 100,
+        "label": "Battle of Poitiers",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Poitiers"
+      },
+      {
+        "year": 1367,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "commander"
+        ],
+        "weight": 90,
+        "label": "Battle of Nájera",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_N%C3%A1jera"
+      }
+    ],
     "wikiUrl": "https://en.wikipedia.org/wiki/Edward_the_Black_Prince",
     "portraitUrl": "",
     "sourceUrl": "https://en.wikipedia.org/wiki/Edward_the_Black_Prince",
     "sourceNote": "",
     "notes": "Blank MVP person card; inserted main-line father of Richard II.",
     "createdDate": "260814",
-    "createdOrder": 30
+    "createdOrder": 30,
+    "deathCause": {
+      "kind": "uncertain",
+      "summary": "Died after prolonged illness",
+      "detail": "The Black Prince died at Westminster in 1376 after years of serious illness; medieval accounts do not establish one certain diagnosis.",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Edward_the_Black_Prince"
+    }
   },
   {
     "id": "14J260814G031",
@@ -2682,14 +2889,65 @@
         "14H260814L032"
       ]
     },
-    "events": [],
+    "events": [
+      {
+        "year": 1362,
+        "type": "title",
+        "tags": [
+          "title",
+          "noble"
+        ],
+        "weight": 88,
+        "label": "Became Duke of Lancaster",
+        "wikiUrl": "https://en.wikipedia.org/wiki/John_of_Gaunt"
+      },
+      {
+        "year": 1371,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "diplomacy"
+        ],
+        "weight": 82,
+        "label": "Marriage to Constance of Castile",
+        "wikiUrl": "https://en.wikipedia.org/wiki/John_of_Gaunt"
+      },
+      {
+        "year": 1373,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "commander"
+        ],
+        "weight": 86,
+        "label": "Great Chevauchée in France",
+        "wikiUrl": "https://en.wikipedia.org/wiki/John_of_Gaunt"
+      },
+      {
+        "year": 1390,
+        "type": "title",
+        "tags": [
+          "title",
+          "diplomacy"
+        ],
+        "weight": 78,
+        "label": "Claimed the Crown of Castile",
+        "wikiUrl": "https://en.wikipedia.org/wiki/John_of_Gaunt"
+      }
+    ],
     "wikiUrl": "https://en.wikipedia.org/wiki/John_of_Gaunt",
     "portraitUrl": "",
     "sourceUrl": "https://en.wikipedia.org/wiki/John_of_Gaunt",
     "sourceNote": "",
     "notes": "Blank MVP person card; basic identity and direct relationship only.",
     "createdDate": "260814",
-    "createdOrder": 31
+    "createdOrder": 31,
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died after illness",
+      "detail": "John of Gaunt died at Leicester Castle in 1399 after declining health.",
+      "wikiUrl": "https://en.wikipedia.org/wiki/John_of_Gaunt"
+    }
   },
   {
     "id": "14H260814L032",
@@ -2732,14 +2990,54 @@
         "14H260814V033"
       ]
     },
-    "events": [],
+    "events": [
+      {
+        "year": 1399,
+        "type": "succession",
+        "tags": [
+          "title",
+          "succession"
+        ],
+        "weight": 100,
+        "label": "Deposed Richard II and became King of England",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_IV_of_England"
+      },
+      {
+        "year": 1403,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "commander"
+        ],
+        "weight": 94,
+        "label": "Battle of Shrewsbury",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Shrewsbury"
+      },
+      {
+        "year": 1405,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "rebellion"
+        ],
+        "weight": 82,
+        "label": "Suppressed the Percy and Glyndŵr rebellions",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_IV_of_England"
+      }
+    ],
     "wikiUrl": "https://en.wikipedia.org/wiki/Henry_IV_of_England",
     "portraitUrl": "",
     "sourceUrl": "https://en.wikipedia.org/wiki/Henry_IV_of_England",
     "sourceNote": "",
     "notes": "Blank MVP person card; basic identity and direct relationship only.",
     "createdDate": "260814",
-    "createdOrder": 32
+    "createdOrder": 32,
+    "deathCause": {
+      "kind": "uncertain",
+      "summary": "Cause of death uncertain",
+      "detail": "Henry IV died in 1413 after prolonged ill health; medieval descriptions do not establish a single certain diagnosis.",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Henry_IV_of_England"
+    }
   },
   {
     "id": "14H260814V033",
@@ -2782,14 +3080,71 @@
         "15H260814S034"
       ]
     },
-    "events": [],
+    "events": [
+      {
+        "year": 1413,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "king"
+        ],
+        "weight": 88,
+        "label": "Coronation as King of England",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_V_of_England",
+        "month": 4,
+        "day": 9
+      },
+      {
+        "year": 1415,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "commander"
+        ],
+        "weight": 100,
+        "label": "Battle of Agincourt",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Agincourt",
+        "month": 10,
+        "day": 25
+      },
+      {
+        "year": 1417,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "conquest"
+        ],
+        "weight": 94,
+        "label": "Conquest of Normandy",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_V_of_England"
+      },
+      {
+        "year": 1420,
+        "type": "diplomacy",
+        "tags": [
+          "diplomacy",
+          "succession"
+        ],
+        "weight": 98,
+        "label": "Treaty of Troyes",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Treaty_of_Troyes",
+        "month": 5,
+        "day": 21
+      }
+    ],
     "wikiUrl": "https://en.wikipedia.org/wiki/Henry_V_of_England",
     "portraitUrl": "",
     "sourceUrl": "https://en.wikipedia.org/wiki/Henry_V_of_England",
     "sourceNote": "",
     "notes": "Blank MVP person card; basic identity and direct relationship only.",
     "createdDate": "260814",
-    "createdOrder": 33
+    "createdOrder": 33,
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died of dysentery",
+      "detail": "Henry V died at Château de Vincennes in 1422 after contracting dysentery during the campaign in France.",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Henry_V_of_England"
+    }
   },
   {
     "id": "15H260814S034",
@@ -2829,14 +3184,70 @@
       "partnerIds": [],
       "childIds": []
     },
-    "events": [],
+    "events": [
+      {
+        "year": 1422,
+        "type": "title",
+        "tags": [
+          "title",
+          "monarch"
+        ],
+        "weight": 96,
+        "label": "Became King of England as an infant",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_VI_of_England"
+      },
+      {
+        "year": 1431,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "king"
+        ],
+        "weight": 88,
+        "label": "Crowned King of France at Paris",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_VI_of_England",
+        "month": 12,
+        "day": 16
+      },
+      {
+        "year": 1453,
+        "type": "government",
+        "tags": [
+          "government",
+          "succession"
+        ],
+        "weight": 92,
+        "label": "First major episode of mental illness",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_VI_of_England"
+      },
+      {
+        "year": 1471,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "succession"
+        ],
+        "weight": 94,
+        "label": "Battle of Tewkesbury",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Tewkesbury",
+        "month": 5,
+        "day": 4
+      }
+    ],
     "wikiUrl": "https://en.wikipedia.org/wiki/Henry_VI_of_England",
     "portraitUrl": "",
     "sourceUrl": "https://en.wikipedia.org/wiki/Henry_VI_of_England",
     "sourceNote": "",
     "notes": "Blank MVP person card; basic identity and direct relationship only.",
     "createdDate": "260814",
-    "createdOrder": 34
+    "createdOrder": 34,
+    "deathCause": {
+      "kind": "violent_uncertain",
+      "summary": "Died violently; circumstances disputed",
+      "detail": "Henry VI died in the Tower of London in 1471, shortly after the Yorkist victory. He was probably murdered, but the precise killer and circumstances remain disputed.",
+      "culprit": "Traditionally associated with Richard, Duke of Gloucester; not proven",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Henry_VI_of_England"
+    }
   },
   {
     "id": "14L260814C035",
@@ -3072,14 +3483,68 @@
         "15E260814Y040"
       ]
     },
-    "events": [],
+    "events": [
+      {
+        "year": 1453,
+        "type": "government",
+        "tags": [
+          "government",
+          "succession"
+        ],
+        "weight": 90,
+        "label": "Appointed Lord Protector",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Richard,_Duke_of_York"
+      },
+      {
+        "year": 1455,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "commander"
+        ],
+        "weight": 94,
+        "label": "First Battle of St Albans",
+        "wikiUrl": "https://en.wikipedia.org/wiki/First_Battle_of_St_Albans"
+      },
+      {
+        "year": 1460,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "commander"
+        ],
+        "weight": 90,
+        "label": "Battle of Northampton",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Northampton_(1460)",
+        "month": 7,
+        "day": 10
+      },
+      {
+        "year": 1460,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "dynasty"
+        ],
+        "weight": 96,
+        "label": "Act of Accord named him heir to the throne",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Act_of_Accord",
+        "month": 10
+      }
+    ],
     "wikiUrl": "https://en.wikipedia.org/wiki/Richard_of_York,_3rd_Duke_of_York",
     "portraitUrl": "",
     "sourceUrl": "https://en.wikipedia.org/wiki/Richard_of_York,_3rd_Duke_of_York",
     "sourceNote": "",
     "notes": "Blank MVP person card; inserted between Anne Mortimer and Edward IV.",
     "createdDate": "260814",
-    "createdOrder": 39
+    "createdOrder": 39,
+    "deathCause": {
+      "kind": "violent",
+      "summary": "Killed in battle",
+      "detail": "Richard of York was killed after the Battle of Wakefield in 1460 while fighting the Lancastrian army.",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Wakefield"
+    }
   },
   {
     "id": "15E260814Y040",
@@ -3119,17 +3584,77 @@
       "spouseIds": [],
       "partnerIds": [],
       "childIds": [
-        "15E260814V041"
+        "15E260814V041",
+        "15E260815Y013"
       ]
     },
-    "events": [],
+    "events": [
+      {
+        "year": 1461,
+        "type": "title",
+        "tags": [
+          "title",
+          "monarch"
+        ],
+        "weight": 98,
+        "label": "Became King of England",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Edward_IV_of_England",
+        "month": 3,
+        "day": 4
+      },
+      {
+        "year": 1461,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "commander"
+        ],
+        "weight": 100,
+        "label": "Battle of Towton",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Towton",
+        "month": 3,
+        "day": 29
+      },
+      {
+        "year": 1471,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "commander"
+        ],
+        "weight": 94,
+        "label": "Battle of Tewkesbury",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Tewkesbury",
+        "month": 5,
+        "day": 4
+      },
+      {
+        "year": 1475,
+        "type": "diplomacy",
+        "tags": [
+          "diplomacy",
+          "treaty"
+        ],
+        "weight": 78,
+        "label": "Treaty of Picquigny",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Treaty_of_Picquigny",
+        "month": 8,
+        "day": 29
+      }
+    ],
     "wikiUrl": "https://en.wikipedia.org/wiki/Edward_IV_of_England",
     "portraitUrl": "",
     "sourceUrl": "https://en.wikipedia.org/wiki/Edward_IV_of_England",
     "sourceNote": "",
     "notes": "Blank MVP person card; basic identity and direct relationship only.",
     "createdDate": "260814",
-    "createdOrder": 40
+    "createdOrder": 40,
+    "deathCause": {
+      "kind": "uncertain",
+      "summary": "Cause of death uncertain",
+      "detail": "Edward IV died suddenly at Westminster in 1483 after a short illness; contemporary and later accounts do not agree on a precise diagnosis.",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Edward_IV_of_England"
+    }
   },
   {
     "id": "15E260814V041",
@@ -3169,14 +3694,58 @@
       "partnerIds": [],
       "childIds": []
     },
-    "events": [],
+    "events": [
+      {
+        "year": 1483,
+        "type": "title",
+        "tags": [
+          "title",
+          "monarch"
+        ],
+        "weight": 96,
+        "label": "Became King of England",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Edward_V_of_England",
+        "month": 4,
+        "day": 9
+      },
+      {
+        "year": 1483,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "dynasty"
+        ],
+        "weight": 92,
+        "label": "Declared illegitimate and displaced from the succession",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Titulus_Regius",
+        "month": 6
+      },
+      {
+        "year": 1483,
+        "type": "death",
+        "tags": [
+          "death",
+          "uncertain"
+        ],
+        "weight": 100,
+        "label": "Disappeared in the Tower of London",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Princes_in_the_Tower",
+        "note": "His fate remains unresolved."
+      }
+    ],
     "wikiUrl": "https://en.wikipedia.org/wiki/Edward_V_of_England",
     "portraitUrl": "",
     "sourceUrl": "https://en.wikipedia.org/wiki/Edward_V_of_England",
     "sourceNote": "",
     "notes": "Blank MVP person card; basic identity and direct relationship only.",
     "createdDate": "260814",
-    "createdOrder": 41
+    "createdOrder": 41,
+    "deathCause": {
+      "kind": "uncertain",
+      "summary": "Death and fate uncertain",
+      "detail": "Edward V disappeared in the Tower of London in 1483. No confirmed remains or definitive account establishes when or how he died.",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Edward_V_of_England"
+    }
   },
   {
     "id": "12I260815A042",
@@ -3463,5 +4032,1395 @@
     "notes": "Blank MVP person card; illegitimate son of Henry II in the standard extended list.",
     "createdDate": "260815",
     "createdOrder": 47
+  },
+  {
+    "id": "09R260815K001",
+    "firstName": "Rollo",
+    "lastName": "Normandy",
+    "displayName": "Rollo",
+    "fullName": "Rollo the Walker",
+    "nickname": "the Walker",
+    "alsoKnownAs": [
+      "Rolf"
+    ],
+    "nicknameTags": [
+      "walker"
+    ],
+    "birthYear": 860,
+    "deathYear": 930,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "male",
+    "dynasty": "House of Normandy",
+    "house": "House of Normandy",
+    "culture": "Norse",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Rouen",
+    "titles": [
+      {
+        "title": "Count of Rouen",
+        "startYear": 911,
+        "endYear": 927
+      }
+    ],
+    "tags": [
+      "commander",
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 88,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "09W260815L002"
+      ]
+    },
+    "events": [
+      {
+        "year": 911,
+        "type": "title",
+        "tags": [
+          "title",
+          "diplomacy"
+        ],
+        "weight": 100,
+        "label": "Treaty of Saint-Clair-sur-Epte; granted Normandy",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Treaty_of_Saint-Clair-sur-Epte"
+      },
+      {
+        "year": 912,
+        "type": "religion",
+        "tags": [
+          "religion",
+          "dynasty"
+        ],
+        "weight": 82,
+        "label": "Baptized at Rouen",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Rollo"
+      },
+      {
+        "year": 927,
+        "type": "succession",
+        "tags": [
+          "title",
+          "dynasty"
+        ],
+        "weight": 78,
+        "label": "Passed the Norman succession to William Longsword",
+        "wikiUrl": "https://en.wikipedia.org/wiki/William_I,_Duke_of_Normandy"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Rollo",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Rollo",
+    "sourceNote": "",
+    "notes": "Early dates are approximate. First ruler of Normandy, commonly styled Count of Rouen.",
+    "createdDate": "260815",
+    "createdOrder": 1,
+    "deathCause": {
+      "kind": "uncertain",
+      "summary": "Death details uncertain",
+      "detail": "Rollo is traditionally dated to have died around 930; the surviving accounts do not establish a reliable cause of death.",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Rollo"
+    }
+  },
+  {
+    "id": "09W260815L002",
+    "firstName": "William",
+    "lastName": "Normandy",
+    "displayName": "William Longsword",
+    "fullName": "William Longsword, Count of Rouen",
+    "nickname": "Longsword",
+    "alsoKnownAs": [],
+    "nicknameTags": [
+      "longsword"
+    ],
+    "birthYear": 893,
+    "deathYear": 942,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "male",
+    "dynasty": "House of Normandy",
+    "house": "House of Normandy",
+    "culture": "Norman",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Rouen",
+    "titles": [
+      {
+        "title": "Count of Rouen",
+        "startYear": 927,
+        "endYear": 942
+      }
+    ],
+    "tags": [
+      "commander",
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 80,
+    "relationships": {
+      "fatherId": "09R260815K001",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "10R260815F003"
+      ]
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/William_Longsword",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/William_Longsword",
+    "sourceNote": "",
+    "notes": "Second ruler of Normandy; early titles are commonly rendered as Count of Rouen or Count of Normandy.",
+    "createdDate": "260815",
+    "createdOrder": 2
+  },
+  {
+    "id": "10R260815F003",
+    "firstName": "Richard",
+    "lastName": "Normandy",
+    "displayName": "Richard I of Normandy",
+    "fullName": "Richard I the Fearless",
+    "nickname": "the Fearless",
+    "alsoKnownAs": [],
+    "nicknameTags": [
+      "fearless"
+    ],
+    "birthYear": 933,
+    "deathYear": 996,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "male",
+    "dynasty": "House of Normandy",
+    "house": "House of Normandy",
+    "culture": "Norman",
+    "faith": "Catholic",
+    "primaryTitle": "Duke of Normandy",
+    "titles": [
+      {
+        "title": "Duke of Normandy",
+        "startYear": 942,
+        "endYear": 996
+      }
+    ],
+    "tags": [
+      "commander",
+      "duke",
+      "noble"
+    ],
+    "rank": "duke",
+    "importanceScore": 82,
+    "relationships": {
+      "fatherId": "09W260815L002",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "10D260814R007"
+      ]
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Richard_I_of_Normandy",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Richard_I_of_Normandy",
+    "sourceNote": "",
+    "notes": "Ducal terminology for early Norman rulers varies by source; this card uses the conventional modern title.",
+    "createdDate": "260815",
+    "createdOrder": 3
+  },
+  {
+    "id": "09A260815F004",
+    "firstName": "Alfred",
+    "lastName": "Wessex",
+    "displayName": "Alfred the Great",
+    "fullName": "Alfred the Great",
+    "nickname": "the Great",
+    "alsoKnownAs": [],
+    "nicknameTags": [
+      "great"
+    ],
+    "birthYear": 849,
+    "deathYear": 899,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "male",
+    "dynasty": "House of Wessex",
+    "house": "House of Wessex",
+    "culture": "Anglo-Saxon",
+    "faith": "Catholic",
+    "primaryTitle": "King of Wessex",
+    "titles": [
+      {
+        "title": "King of Wessex",
+        "startYear": 871,
+        "endYear": 899
+      }
+    ],
+    "tags": [
+      "monarch",
+      "commander"
+    ],
+    "rank": "king",
+    "importanceScore": 94,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "09E260815L005"
+      ]
+    },
+    "events": [
+      {
+        "year": 871,
+        "type": "title",
+        "tags": [
+          "title",
+          "monarch"
+        ],
+        "weight": 92,
+        "label": "Became King of Wessex",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Alfred_the_Great"
+      },
+      {
+        "year": 871,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "commander"
+        ],
+        "weight": 88,
+        "label": "Battle of Ashdown",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Ashdown"
+      },
+      {
+        "year": 878,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "commander"
+        ],
+        "weight": 100,
+        "label": "Battle of Edington",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Edington"
+      },
+      {
+        "year": 886,
+        "type": "government",
+        "tags": [
+          "government",
+          "dynasty"
+        ],
+        "weight": 84,
+        "label": "Captured London",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Alfred_the_Great"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Alfred_the_Great",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Alfred_the_Great",
+    "sourceNote": "",
+    "notes": "Maternal ancestor of Empress Matilda through the royal House of Wessex.",
+    "createdDate": "260815",
+    "createdOrder": 4,
+    "deathCause": {
+      "kind": "uncertain",
+      "summary": "Cause of death uncertain",
+      "detail": "Alfred died at Winchester in 899 after a long period of declining health; the precise illness is not securely identified.",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Alfred_the_Great"
+    }
+  },
+  {
+    "id": "09E260815L005",
+    "firstName": "Edward",
+    "lastName": "Wessex",
+    "displayName": "Edward the Elder",
+    "fullName": "Edward the Elder",
+    "nickname": "the Elder",
+    "alsoKnownAs": [],
+    "nicknameTags": [
+      "elder"
+    ],
+    "birthYear": 874,
+    "deathYear": 924,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "male",
+    "dynasty": "House of Wessex",
+    "house": "House of Wessex",
+    "culture": "Anglo-Saxon",
+    "faith": "Catholic",
+    "primaryTitle": "King of the Anglo-Saxons",
+    "titles": [
+      {
+        "title": "King of the Anglo-Saxons",
+        "startYear": 899,
+        "endYear": 924
+      }
+    ],
+    "tags": [
+      "monarch",
+      "commander"
+    ],
+    "rank": "king",
+    "importanceScore": 84,
+    "relationships": {
+      "fatherId": "09A260815F004",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "10E260815D006"
+      ]
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Edward_the_Elder",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Edward_the_Elder",
+    "sourceNote": "",
+    "notes": "Son of Alfred the Great.",
+    "createdDate": "260815",
+    "createdOrder": 5
+  },
+  {
+    "id": "10E260815D006",
+    "firstName": "Edmund",
+    "lastName": "Wessex",
+    "displayName": "Edmund I",
+    "fullName": "Edmund I of England",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 921,
+    "deathYear": 946,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "male",
+    "dynasty": "House of Wessex",
+    "house": "House of Wessex",
+    "culture": "Anglo-Saxon",
+    "faith": "Catholic",
+    "primaryTitle": "King of the English",
+    "titles": [
+      {
+        "title": "King of the English",
+        "startYear": 939,
+        "endYear": 946
+      }
+    ],
+    "tags": [
+      "monarch",
+      "commander"
+    ],
+    "rank": "king",
+    "importanceScore": 80,
+    "relationships": {
+      "fatherId": "09E260815L005",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "10E260815G007"
+      ]
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Edmund_I",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Edmund_I",
+    "sourceNote": "",
+    "notes": "Son of Edward the Elder.",
+    "createdDate": "260815",
+    "createdOrder": 6
+  },
+  {
+    "id": "10E260815G007",
+    "firstName": "Edgar",
+    "lastName": "Wessex",
+    "displayName": "Edgar the Peaceful",
+    "fullName": "Edgar the Peaceful",
+    "nickname": "the Peaceful",
+    "alsoKnownAs": [],
+    "nicknameTags": [
+      "peaceful"
+    ],
+    "birthYear": 943,
+    "deathYear": 975,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "male",
+    "dynasty": "House of Wessex",
+    "house": "House of Wessex",
+    "culture": "Anglo-Saxon",
+    "faith": "Catholic",
+    "primaryTitle": "King of the English",
+    "titles": [
+      {
+        "title": "King of the English",
+        "startYear": 959,
+        "endYear": 975
+      }
+    ],
+    "tags": [
+      "monarch"
+    ],
+    "rank": "king",
+    "importanceScore": 82,
+    "relationships": {
+      "fatherId": "10E260815D006",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "10A260815U008"
+      ]
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Edgar_the_Peaceful",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Edgar_the_Peaceful",
+    "sourceNote": "",
+    "notes": "Son of Edmund I.",
+    "createdDate": "260815",
+    "createdOrder": 7
+  },
+  {
+    "id": "10A260815U008",
+    "firstName": "Aethelred",
+    "lastName": "Wessex",
+    "displayName": "Aethelred II",
+    "fullName": "Aethelred II the Unready",
+    "nickname": "the Unready",
+    "alsoKnownAs": [
+      "Æthelred the Unready"
+    ],
+    "nicknameTags": [
+      "unready"
+    ],
+    "birthYear": 966,
+    "deathYear": 1016,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "male",
+    "dynasty": "House of Wessex",
+    "house": "House of Wessex",
+    "culture": "Anglo-Saxon",
+    "faith": "Catholic",
+    "primaryTitle": "King of England",
+    "titles": [
+      {
+        "title": "King of England",
+        "startYear": 978,
+        "endYear": 1016
+      }
+    ],
+    "tags": [
+      "monarch"
+    ],
+    "rank": "king",
+    "importanceScore": 84,
+    "relationships": {
+      "fatherId": "10E260815G007",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "10E260815I009"
+      ]
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/%C3%86thelred_the_Unready",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/%C3%86thelred_the_Unready",
+    "sourceNote": "",
+    "notes": "Son of Edgar the Peaceful.",
+    "createdDate": "260815",
+    "createdOrder": 8
+  },
+  {
+    "id": "10E260815I009",
+    "firstName": "Edmund",
+    "lastName": "Wessex",
+    "displayName": "Edmund II",
+    "fullName": "Edmund II Ironside",
+    "nickname": "Ironside",
+    "alsoKnownAs": [],
+    "nicknameTags": [
+      "ironside"
+    ],
+    "birthYear": 988,
+    "deathYear": 1016,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "male",
+    "dynasty": "House of Wessex",
+    "house": "House of Wessex",
+    "culture": "Anglo-Saxon",
+    "faith": "Catholic",
+    "primaryTitle": "King of England",
+    "titles": [
+      {
+        "title": "King of England",
+        "startYear": 1016,
+        "endYear": 1016
+      }
+    ],
+    "tags": [
+      "monarch",
+      "commander"
+    ],
+    "rank": "king",
+    "importanceScore": 86,
+    "relationships": {
+      "fatherId": "10A260815U008",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "11E260815X010"
+      ]
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Edmund_Ironside",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Edmund_Ironside",
+    "sourceNote": "",
+    "notes": "Son of Aethelred II.",
+    "createdDate": "260815",
+    "createdOrder": 9
+  },
+  {
+    "id": "11E260815X010",
+    "firstName": "Edward",
+    "lastName": "Wessex",
+    "displayName": "Edward the Exile",
+    "fullName": "Edward the Exile",
+    "nickname": "the Exile",
+    "alsoKnownAs": [
+      "Edward Aetheling"
+    ],
+    "nicknameTags": [
+      "exile"
+    ],
+    "birthYear": 1016,
+    "deathYear": 1057,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "male",
+    "dynasty": "House of Wessex",
+    "house": "House of Wessex",
+    "culture": "Anglo-Saxon",
+    "faith": "Catholic",
+    "primaryTitle": "English prince",
+    "titles": [],
+    "tags": [
+      "noble"
+    ],
+    "rank": "untitled",
+    "importanceScore": 76,
+    "relationships": {
+      "fatherId": "10E260815I009",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "11M260815S011"
+      ]
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Edward_the_Exile",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Edward_the_Exile",
+    "sourceNote": "",
+    "notes": "Father of Saint Margaret of Scotland.",
+    "createdDate": "260815",
+    "createdOrder": 10
+  },
+  {
+    "id": "11M260815S011",
+    "firstName": "Margaret",
+    "lastName": "Wessex",
+    "displayName": "Saint Margaret of Scotland",
+    "fullName": "Saint Margaret of Scotland",
+    "nickname": "the Saint",
+    "alsoKnownAs": [
+      "Margaret of Wessex"
+    ],
+    "nicknameTags": [
+      "saint"
+    ],
+    "birthYear": 1045,
+    "deathYear": 1093,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "female",
+    "dynasty": "House of Wessex",
+    "house": "House of Wessex",
+    "culture": "Anglo-Saxon",
+    "faith": "Catholic",
+    "primaryTitle": "Queen of Scotland",
+    "titles": [
+      {
+        "title": "Queen of Scotland",
+        "startYear": 1070,
+        "endYear": 1093
+      }
+    ],
+    "tags": [
+      "queen",
+      "consort",
+      "noble"
+    ],
+    "rank": "queen",
+    "importanceScore": 86,
+    "relationships": {
+      "fatherId": "11E260815X010",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "11M260815C012"
+      ]
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Saint_Margaret_of_Scotland",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Saint_Margaret_of_Scotland",
+    "sourceNote": "",
+    "notes": "Mother of Matilda of Scotland; the Scottish paternal line is intentionally not yet modeled.",
+    "createdDate": "260815",
+    "createdOrder": 11
+  },
+  {
+    "id": "11M260815C012",
+    "firstName": "Matilda",
+    "lastName": "Scotland",
+    "displayName": "Matilda of Scotland",
+    "fullName": "Matilda of Scotland, Queen of England",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Edith of Scotland"
+    ],
+    "nicknameTags": [],
+    "birthYear": 1080,
+    "deathYear": 1118,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "female",
+    "dynasty": "House of Dunkeld",
+    "house": "House of Dunkeld",
+    "culture": "Scottish",
+    "faith": "Catholic",
+    "primaryTitle": "Queen of England",
+    "titles": [
+      {
+        "title": "Queen of England",
+        "startYear": 1100,
+        "endYear": 1118
+      }
+    ],
+    "tags": [
+      "queen",
+      "consort",
+      "noble"
+    ],
+    "rank": "queen",
+    "importanceScore": 86,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "11M260815S011",
+      "spouseIds": [
+        "11H260814L006"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "12M260814Q008"
+      ]
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Matilda_of_Scotland",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Matilda_of_Scotland",
+    "sourceNote": "",
+    "notes": "Mother of Empress Matilda; born Edith and later known as Matilda.",
+    "createdDate": "260815",
+    "createdOrder": 12
+  },
+  {
+    "id": "15E260815Y013",
+    "firstName": "Elizabeth",
+    "lastName": "York",
+    "displayName": "Elizabeth of York",
+    "fullName": "Elizabeth of York, Queen of England",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1466,
+    "deathYear": 1503,
+    "birthPlace": "Westminster, England",
+    "deathPlace": "Tower of London, England",
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died after childbirth",
+      "detail": "Elizabeth died eleven days after giving birth to her last child, Katherine Tudor.",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Elizabeth_of_York"
+    },
+    "gender": "female",
+    "dynasty": "House of York",
+    "house": "House of York",
+    "culture": "English",
+    "faith": "Catholic",
+    "primaryTitle": "Queen of England",
+    "titles": [
+      {
+        "title": "Queen of England",
+        "startYear": 1486,
+        "endYear": 1503
+      }
+    ],
+    "tags": [
+      "queen",
+      "consort",
+      "noble"
+    ],
+    "rank": "queen",
+    "importanceScore": 93,
+    "relationships": {
+      "fatherId": "15E260814Y040",
+      "motherId": "",
+      "spouseIds": [
+        "15H260815T014"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "15H260815T015"
+      ]
+    },
+    "events": [
+      {
+        "year": 1485,
+        "month": 8,
+        "day": 22,
+        "type": "dynasty",
+        "tags": [
+          "dynasty",
+          "succession"
+        ],
+        "weight": 87,
+        "label": "Tudor Victory at Bosworth",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Bosworth_Field"
+      },
+      {
+        "year": 1486,
+        "month": 1,
+        "day": 18,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 97,
+        "label": "Marriage to Henry VII",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Elizabeth_of_York"
+      },
+      {
+        "year": 1487,
+        "month": 11,
+        "day": 25,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "queen"
+        ],
+        "weight": 82,
+        "label": "Coronation as Queen of England",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Elizabeth_of_York"
+      },
+      {
+        "year": 1491,
+        "month": 6,
+        "day": 28,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "dynasty"
+        ],
+        "weight": 86,
+        "label": "Birth of Henry VIII",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_VIII"
+      },
+      {
+        "year": 1503,
+        "month": 2,
+        "day": 11,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Death of Elizabeth of York",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Elizabeth_of_York"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Elizabeth_of_York",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Elizabeth_of_York",
+    "sourceNote": "",
+    "notes": "Daughter of Edward IV. Her marriage to Henry VII united the Houses of York and Lancaster.",
+    "createdDate": "260815",
+    "createdOrder": 13
+  },
+  {
+    "id": "15H260815T014",
+    "firstName": "Henry",
+    "lastName": "Tudor",
+    "displayName": "Henry VII",
+    "fullName": "Henry VII of England",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Henry Tudor"
+    ],
+    "nicknameTags": [],
+    "birthYear": 1457,
+    "deathYear": 1509,
+    "birthPlace": "Pembroke Castle, Wales",
+    "deathPlace": "Richmond Palace, England",
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died after a prolonged illness",
+      "detail": "Henry VII died at Richmond Palace after declining health; no violent cause is recorded.",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Henry_VII_of_England"
+    },
+    "gender": "male",
+    "dynasty": "House of Tudor",
+    "house": "House of Tudor",
+    "culture": "English",
+    "faith": "Catholic",
+    "primaryTitle": "King of England",
+    "titles": [
+      {
+        "title": "King of England",
+        "startYear": 1485,
+        "endYear": 1509
+      }
+    ],
+    "tags": [
+      "monarch",
+      "commander",
+      "administrator"
+    ],
+    "rank": "king",
+    "importanceScore": 96,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "15E260815Y013"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "15H260815T015"
+      ]
+    },
+    "events": [
+      {
+        "year": 1485,
+        "month": 8,
+        "day": 22,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "commander",
+          "conquest"
+        ],
+        "weight": 100,
+        "label": "Battle of Bosworth Field",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Bosworth_Field"
+      },
+      {
+        "year": 1485,
+        "month": 8,
+        "day": 22,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "king"
+        ],
+        "weight": 99,
+        "label": "Became King of England",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_VII_of_England"
+      },
+      {
+        "year": 1485,
+        "month": 10,
+        "day": 30,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "king"
+        ],
+        "weight": 91,
+        "label": "Coronation as King of England",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_VII_of_England"
+      },
+      {
+        "year": 1486,
+        "month": 1,
+        "day": 18,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 98,
+        "label": "Marriage to Elizabeth of York",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Elizabeth_of_York"
+      },
+      {
+        "year": 1487,
+        "month": 6,
+        "day": 16,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "dynasty",
+          "succession"
+        ],
+        "weight": 94,
+        "label": "Battle of Stoke Field",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Stoke_Field"
+      },
+      {
+        "year": 1492,
+        "type": "diplomacy",
+        "tags": [
+          "diplomacy",
+          "treaty"
+        ],
+        "weight": 78,
+        "label": "Treaty of Etaples",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Treaty_of_%C3%89taples"
+      },
+      {
+        "year": 1509,
+        "month": 4,
+        "day": 21,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Death of Henry VII",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_VII_of_England"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Henry_VII_of_England",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Henry_VII_of_England",
+    "sourceNote": "",
+    "notes": "Tudor paternal line intentionally not modeled. Founder of the Tudor royal line in this tree.",
+    "createdDate": "260815",
+    "createdOrder": 14
+  },
+  {
+    "id": "15H260815T015",
+    "firstName": "Henry",
+    "lastName": "Tudor",
+    "displayName": "Henry VIII",
+    "fullName": "Henry VIII of England",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1491,
+    "deathYear": 1547,
+    "birthPlace": "Greenwich Palace, England",
+    "deathPlace": "Whitehall Palace, England",
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died after prolonged physical decline",
+      "detail": "Henry VIII died after years of serious health problems, including severe leg ulcers and declining mobility.",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Henry_VIII"
+    },
+    "gender": "male",
+    "dynasty": "House of Tudor",
+    "house": "House of Tudor",
+    "culture": "English",
+    "faith": "Catholic",
+    "primaryTitle": "King of England",
+    "titles": [
+      {
+        "title": "King of England",
+        "startYear": 1509,
+        "endYear": 1547
+      },
+      {
+        "title": "King of Ireland",
+        "startYear": 1541,
+        "endYear": 1547
+      }
+    ],
+    "tags": [
+      "monarch",
+      "commander",
+      "administrator"
+    ],
+    "rank": "king",
+    "importanceScore": 99,
+    "relationships": {
+      "fatherId": "15H260815T014",
+      "motherId": "15E260815Y013",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "16M260815R016",
+        "16E260815I017"
+      ]
+    },
+    "events": [
+      {
+        "year": 1509,
+        "month": 4,
+        "day": 21,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "king"
+        ],
+        "weight": 98,
+        "label": "Became King of England",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_VIII"
+      },
+      {
+        "year": 1509,
+        "month": 6,
+        "day": 24,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "king"
+        ],
+        "weight": 91,
+        "label": "Coronation as King of England",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Coronation_of_Henry_VIII_and_Catherine"
+      },
+      {
+        "year": 1513,
+        "month": 8,
+        "day": 16,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "commander"
+        ],
+        "weight": 78,
+        "label": "Battle of the Spurs",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_the_Spurs"
+      },
+      {
+        "year": 1534,
+        "type": "government",
+        "tags": [
+          "government",
+          "reformation"
+        ],
+        "weight": 100,
+        "label": "Act of Supremacy",
+        "wikiUrl": "https://en.wikipedia.org/wiki/First_Act_of_Supremacy"
+      },
+      {
+        "year": 1541,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "king"
+        ],
+        "weight": 76,
+        "label": "Became King of Ireland",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_VIII"
+      },
+      {
+        "year": 1547,
+        "month": 1,
+        "day": 28,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Death of Henry VIII",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_VIII"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Henry_VIII",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Henry_VIII",
+    "sourceNote": "",
+    "notes": "Only the Mary I and Elizabeth I branches are modeled here; his spouses and other children remain outside this pass.",
+    "createdDate": "260815",
+    "createdOrder": 15
+  },
+  {
+    "id": "16M260815R016",
+    "firstName": "Mary",
+    "lastName": "Tudor",
+    "displayName": "Mary I",
+    "fullName": "Mary I of England",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1516,
+    "deathYear": 1558,
+    "birthPlace": "Greenwich Palace, England",
+    "deathPlace": "St James's Palace, England",
+    "deathCause": {
+      "kind": "uncertain",
+      "summary": "Cause of death uncertain",
+      "detail": "Mary died during an influenza outbreak, but the precise medical cause of her death is not certain.",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Mary_I_of_England"
+    },
+    "gender": "female",
+    "dynasty": "House of Tudor",
+    "house": "House of Tudor",
+    "culture": "English",
+    "faith": "Catholic",
+    "primaryTitle": "Queen of England",
+    "titles": [
+      {
+        "title": "Queen of England",
+        "startYear": 1553,
+        "endYear": 1558
+      }
+    ],
+    "tags": [
+      "monarch",
+      "queen"
+    ],
+    "rank": "queen",
+    "importanceScore": 91,
+    "relationships": {
+      "fatherId": "15H260815T015",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1553,
+        "month": 7,
+        "day": 19,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "queen"
+        ],
+        "weight": 98,
+        "label": "Became Queen of England",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Mary_I_of_England"
+      },
+      {
+        "year": 1553,
+        "month": 10,
+        "day": 1,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "queen"
+        ],
+        "weight": 90,
+        "label": "Coronation as Queen of England",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Coronation_of_Mary_I_of_England"
+      },
+      {
+        "year": 1554,
+        "month": 7,
+        "day": 25,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "alliance"
+        ],
+        "weight": 82,
+        "label": "Marriage to Philip of Spain",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Mary_I_of_England"
+      },
+      {
+        "year": 1554,
+        "type": "government",
+        "tags": [
+          "government",
+          "religion"
+        ],
+        "weight": 88,
+        "label": "Restoration of Papal Supremacy",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Mary_I_of_England"
+      },
+      {
+        "year": 1558,
+        "type": "diplomacy",
+        "tags": [
+          "diplomacy",
+          "territory"
+        ],
+        "weight": 78,
+        "label": "Loss of Calais",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Siege_of_Calais_(1558)"
+      },
+      {
+        "year": 1558,
+        "month": 11,
+        "day": 17,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Death of Mary I",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Mary_I_of_England"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Mary_I_of_England",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Mary_I_of_England",
+    "sourceNote": "",
+    "notes": "Daughter of Henry VIII; her mother Catherine of Aragon is intentionally not modeled in this pass.",
+    "createdDate": "260815",
+    "createdOrder": 16
+  },
+  {
+    "id": "16E260815I017",
+    "firstName": "Elizabeth",
+    "lastName": "Tudor",
+    "displayName": "Elizabeth I",
+    "fullName": "Elizabeth I of England",
+    "nickname": "",
+    "alsoKnownAs": [
+      "the Virgin Queen"
+    ],
+    "nicknameTags": [
+      "virgin queen"
+    ],
+    "birthYear": 1533,
+    "deathYear": 1603,
+    "birthPlace": "Greenwich Palace, England",
+    "deathPlace": "Richmond Palace, England",
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died after declining health",
+      "detail": "Elizabeth died at Richmond Palace after a period of declining health in the final months of her reign.",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Elizabeth_I"
+    },
+    "gender": "female",
+    "dynasty": "House of Tudor",
+    "house": "House of Tudor",
+    "culture": "English",
+    "faith": "Anglican",
+    "primaryTitle": "Queen of England",
+    "titles": [
+      {
+        "title": "Queen of England",
+        "startYear": 1558,
+        "endYear": 1603
+      }
+    ],
+    "tags": [
+      "monarch",
+      "queen",
+      "administrator"
+    ],
+    "rank": "queen",
+    "importanceScore": 99,
+    "relationships": {
+      "fatherId": "15H260815T015",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1558,
+        "month": 11,
+        "day": 17,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "queen"
+        ],
+        "weight": 98,
+        "label": "Became Queen of England",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Elizabeth_I"
+      },
+      {
+        "year": 1559,
+        "month": 1,
+        "day": 15,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "queen"
+        ],
+        "weight": 91,
+        "label": "Coronation as Queen of England",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Coronation_of_Elizabeth_I"
+      },
+      {
+        "year": 1559,
+        "type": "government",
+        "tags": [
+          "government",
+          "religion"
+        ],
+        "weight": 96,
+        "label": "Elizabethan Religious Settlement",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Elizabethan_Religious_Settlement"
+      },
+      {
+        "year": 1588,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "defense",
+          "diplomacy"
+        ],
+        "weight": 100,
+        "label": "Defeat of the Spanish Armada",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Spanish_Armada"
+      },
+      {
+        "year": 1601,
+        "type": "government",
+        "tags": [
+          "government",
+          "law"
+        ],
+        "weight": 80,
+        "label": "Elizabethan Poor Law",
+        "wikiUrl": "https://en.wikipedia.org/wiki/English_Poor_Laws"
+      },
+      {
+        "year": 1603,
+        "month": 3,
+        "day": 24,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Death of Elizabeth I",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Elizabeth_I"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Elizabeth_I",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Elizabeth_I",
+    "sourceNote": "",
+    "notes": "Daughter of Henry VIII; her mother Anne Boleyn is intentionally not modeled in this pass. Last Tudor monarch.",
+    "createdDate": "260815",
+    "createdOrder": 17
   }
 ]

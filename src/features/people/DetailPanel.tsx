@@ -1,7 +1,7 @@
 ﻿import { useState } from "react";
 import { useFamilyStore } from "../../store";
 import type { PersonEvent } from "../../types";
-import { byImportance, cnTagLabels, copy, DeathCauseButton, eventAge, eventDateText, eventDateValue, eventTagText, EventNote, genderMark, initials, lifespan, shortEnglishName, textFor, years, type Language } from "../shared/presentation";
+import { byImportance, copyFor, DeathCauseButton, eventAge, eventDateText, eventDateValue, eventTagText, EventNote, genderMark, initials, lifespan, shortEnglishName, tagText, textFor, years, type Language } from "../shared/presentation";
 export function DetailPanel() {
   const people = useFamilyStore((state) => state.people);
   const selectedId = useFamilyStore((state) => state.selectedId);
@@ -9,7 +9,7 @@ export function DetailPanel() {
   const [isTimelineOpen, setTimelineOpen] = useState(false);
   const [eventTag, setEventTag] = useState("all");
   const person = people.find((item) => item.id === selectedId) ?? people[0];
-  const t = copy[language];
+  const t = copyFor(language);
   const label = textFor(person, language);
   const topEvents = byImportance(person.events).slice(0, 3).sort((a, b) => eventDateValue(a) - eventDateValue(b));
   const timelineEvents = [...person.events].sort((a, b) => eventDateValue(a) - eventDateValue(b));
@@ -26,15 +26,15 @@ export function DetailPanel() {
       <h2>{label.fullName}</h2>
       <div className="subtitle">
         <span className="primary-title">{label.primaryTitle}</span>
-        <span className="life-row"><span>{years(person)}</span><strong>{lifespan(person)}</strong></span>
+        <span className="life-row"><span>{years(person)}</span><strong>{lifespan(person, language)}</strong></span>
       </div>
       {label.nickname && <p className="nickname">"{label.nickname}"</p>}
-      <div className="tag-row">{person.tags.map((tag) => <span key={tag}>{language === "cn" ? cnTagLabels[tag] ?? tag : tag}</span>)}</div>
+      <div className="tag-row">{person.tags.map((tag) => <span key={tag}>{tagText(tag, language)}</span>)}</div>
       <dl className="facts">
         <div><dt>{t.culture}</dt><dd>{label.culture || t.unknown}</dd></div>
         <div><dt>{t.faith}</dt><dd>{label.faith || t.unknown}</dd></div>
         <div><dt>{t.born}</dt><dd>{label.birthPlace || t.unknown}</dd></div>
-        <div><dt>{t.died}</dt><dd className="death-fact"><span>{label.deathPlace || t.unknown}</span><DeathCauseButton person={person} /></dd></div>
+        <div><dt>{t.died}</dt><dd className="death-fact"><span>{label.deathPlace || t.unknown}</span><DeathCauseButton person={person} language={language} /></dd></div>
       </dl>
       <h3>{t.titles}</h3>
       <ul className="compact-list">
@@ -51,9 +51,9 @@ export function DetailPanel() {
             <div className="event-main">
               <div className="event-title-row">
                 <a href={event.wikiUrl} target="_blank" rel="noreferrer">{label.event(event.label)}</a>
-                <strong className="event-age">{eventAge(person, event)}</strong>
+                <strong className="event-age">{eventAge(person, event, language)}</strong>
               </div>
-              <div className="event-meta"><small>{eventTagText(event.tags?.[0] ?? event.type, language)}</small><EventNote note={event.note} /></div>
+              <div className="event-meta"><small>{eventTagText(event.tags?.[0] ?? event.type, language)}</small><EventNote note={event.note} language={language} /></div>
             </div>
           </li>
         ))}
@@ -81,9 +81,9 @@ export function DetailPanel() {
                   <div>
                     <div className="event-title-row">
                       <a href={event.wikiUrl} target="_blank" rel="noreferrer">{label.event(event.label)}</a>
-                      <strong className="event-age">{eventAge(person, event)}</strong>
+                      <strong className="event-age">{eventAge(person, event, language)}</strong>
                     </div>
-                    <div className="event-meta"><small>{(event.tags ?? [event.type]).map((tag) => eventTagText(tag, language)).join(" / ")}</small><EventNote note={event.note} /></div>
+                    <div className="event-meta"><small>{(event.tags ?? [event.type]).map((tag) => eventTagText(tag, language)).join(" / ")}</small><EventNote note={event.note} language={language} /></div>
                   </div>
                 </li>
               ))}

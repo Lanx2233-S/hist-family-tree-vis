@@ -135,6 +135,135 @@ main {
   line-height: 1.55;
 }
 
+.realm-entrances {
+  display: grid;
+  gap: 12px;
+  max-width: 360px;
+  margin-top: 30px;
+}
+
+.realm-entry {
+  display: grid;
+  gap: 5px;
+  border: 2px solid #8b6b43;
+  border-radius: 8px;
+  background: rgba(255, 248, 232, 0.62);
+  color: #22170f;
+  cursor: pointer;
+  font: inherit;
+  padding: 14px 16px;
+  text-align: left;
+  transition: background 180ms ease, transform 180ms ease, box-shadow 180ms ease;
+}
+
+.realm-entry:hover,
+.realm-entry.active {
+  background: #243f3e;
+  box-shadow: 0 14px 28px rgba(55, 35, 20, 0.18);
+  color: #fff8e8;
+  transform: translateX(4px);
+}
+
+.realm-entry strong {
+  font-family: Georgia, Cambria, "Times New Roman", serif;
+  font-size: 28px;
+}
+
+.realm-entry span:last-child {
+  font-size: 12px;
+  font-weight: 700;
+  opacity: 0.78;
+}
+
+.realm-entry-kicker {
+  color: #8f1f26;
+  font-size: 10px;
+  font-weight: 900;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
+.realm-entry.active .realm-entry-kicker,
+.realm-entry:hover .realm-entry-kicker {
+  color: #e9c983;
+}
+
+.protagonist-selection {
+  min-width: 0;
+}
+
+.realm-heading,
+.protagonist-pagination {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.realm-heading {
+  margin-bottom: 10px;
+  color: #7a321f;
+  font-size: 13px;
+  font-weight: 900;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
+.realm-heading small {
+  color: #6a4930;
+  font-size: 11px;
+  letter-spacing: 0;
+}
+
+.protagonist-pagination {
+  gap: 12px;
+  margin-top: 14px;
+  color: #6a4930;
+  font-size: 12px;
+  font-weight: 800;
+}
+
+.protagonist-pagination button,
+.realm-empty button {
+  min-width: 38px;
+  border: 1px solid #8b6b43;
+  border-radius: 7px;
+  background: #fff8e8;
+  color: #22170f;
+  cursor: pointer;
+  font: inherit;
+  font-weight: 900;
+  padding: 8px 12px;
+}
+
+.protagonist-pagination button:disabled {
+  cursor: default;
+  opacity: 0.4;
+}
+
+.realm-empty {
+  min-height: 500px;
+  display: grid;
+  align-content: center;
+  justify-items: start;
+  gap: 12px;
+  padding: 36px;
+  border: 2px solid #8b6b43;
+  border-radius: 8px;
+  background: rgba(255, 248, 232, 0.58);
+}
+
+.realm-empty h2 {
+  margin: 0;
+  font-family: Georgia, Cambria, "Times New Roman", serif;
+  font-size: 46px;
+}
+
+.realm-empty p {
+  margin: 0 0 12px;
+  color: #6a4930;
+  font-weight: 700;
+}
+
 .protagonist-grid {
   display: grid;
   gap: 18px;
@@ -851,6 +980,14 @@ h1 {
   background: #e7d2aa;
 }
 
+.branch-toggle:disabled {
+  border-color: rgba(139, 107, 67, 0.42);
+  background: rgba(216, 210, 200, 0.72);
+  color: rgba(122, 50, 31, 0.42);
+  cursor: not-allowed;
+  box-shadow: none;
+}
+
 .union-label {
   fill: #7a321f;
   font-size: 8px;
@@ -911,8 +1048,76 @@ h1 {
   stroke: #c6922d;
 }
 
+.person-node.tier-emperor:not(.illegitimate) rect:not(.selection-glow) {
+  fill: #56316f;
+  stroke: #17130f;
+}
+
+.person-node.tier-empress:not(.illegitimate) rect:not(.selection-glow) {
+  fill: #c6a9d8;
+  stroke: #17130f;
+}
+
+.person-node.tier-france-queen:not(.illegitimate) rect:not(.selection-glow) {
+  fill: #aab8d6;
+  stroke: #17130f;
+}
+
+.person-node.tier-france-queen:not(.illegitimate) .node-name,
+.person-node.tier-france-queen:not(.illegitimate) .node-title,
+.person-node.tier-france-queen:not(.illegitimate) .node-years {
+  fill: #26324f;
+}
+
+.person-node.tier-queen-consort:not(.illegitimate) rect:not(.selection-glow) {
+  fill: #c98288;
+  stroke: #17130f;
+}
+
+.person-node.tier-queen-consort:not(.illegitimate) .node-name,
+.person-node.tier-queen-consort:not(.illegitimate) .node-title,
+.person-node.tier-queen-consort:not(.illegitimate) .node-years {
+  fill: #4f2027;
+}
+
+.person-node.tier-supreme-king:not(.illegitimate) rect:not(.selection-glow) {
+  fill: #283b72;
+  stroke: #17130f;
+}
+
+.person-node.tier-supreme-king:not(.illegitimate) .node-name,
+.person-node.tier-supreme-king:not(.illegitimate) .node-title,
+.person-node.tier-supreme-king:not(.illegitimate) .node-years,
+.person-node.tier-supreme-king:not(.illegitimate) .avatar-text {
+  fill: #fff;
+}
+
+.person-node.tier-empress:not(.illegitimate) .node-name,
+.person-node.tier-empress:not(.illegitimate) .node-title,
+.person-node.tier-empress:not(.illegitimate) .node-years {
+  fill: #32203d;
+}
+
+.person-node.tier-emperor:not(.illegitimate) .node-name,
+.person-node.tier-emperor:not(.illegitimate) .node-title,
+.person-node.tier-emperor:not(.illegitimate) .node-years,
+.person-node.tier-emperor:not(.illegitimate) .avatar-text {
+  fill: #fff;
+}
+
+.person-node.tier-emperor:not(.illegitimate) rect:not(.selection-glow) {
+  fill: #56316f;
+  stroke: #17130f;
+}
+
 .person-node.tier-king rect {
   stroke: #7a1f1f;
+}
+
+.person-node.tier-king:not(.illegitimate) rect:not(.selection-glow),
+.person-node.tier-grand-duke:not(.illegitimate) rect:not(.selection-glow) {
+  fill: #6f2026;
+  stroke: #17130f;
 }
 
 .person-node.tier-grand-duke rect {
@@ -925,6 +1130,34 @@ h1 {
 
 .person-node.tier-count rect {
   stroke: #6f8174;
+}
+
+.person-node.tier-duke:not(.illegitimate) rect:not(.selection-glow) {
+  fill: #9cc4d6;
+  stroke: #17130f;
+}
+
+.person-node.tier-count:not(.illegitimate) rect:not(.selection-glow) {
+  fill: #aab8ad;
+  stroke: #17130f;
+}
+
+.person-node.tier-emperor:not(.illegitimate) .node-name,
+.person-node.tier-emperor:not(.illegitimate) .node-title,
+.person-node.tier-emperor:not(.illegitimate) .node-years,
+.person-node.tier-king:not(.illegitimate) .node-name,
+.person-node.tier-king:not(.illegitimate) .node-title,
+.person-node.tier-king:not(.illegitimate) .node-years,
+.person-node.tier-grand-duke:not(.illegitimate) .node-name,
+.person-node.tier-grand-duke:not(.illegitimate) .node-title,
+.person-node.tier-grand-duke:not(.illegitimate) .node-years {
+  fill: #fff;
+}
+
+.person-node.tier-emperor:not(.illegitimate) .avatar-text,
+.person-node.tier-king:not(.illegitimate) .avatar-text,
+.person-node.tier-grand-duke:not(.illegitimate) .avatar-text {
+  fill: #fff;
 }
 
 .person-node.tier-untitled rect {

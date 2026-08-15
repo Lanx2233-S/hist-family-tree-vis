@@ -1,7 +1,7 @@
 ﻿import { useEffect, useRef, useState } from "react";
 import { useFamilyStore } from "../../store";
 import type { Person } from "../../types";
-import { copy, genderMark, initials, nodeNameLines, sortPeopleByBirth, textFor, titleTier, years, type Language } from "../shared/presentation";
+import { copyFor, fillCopy, genderMark, initials, nodeNameLines, sortPeopleByBirth, textFor, titleTier, years, type Language } from "../shared/presentation";
 export function FamilyTree({
   onHome,
   onBack,
@@ -16,7 +16,6 @@ export function FamilyTree({
   treeVisitKey: number;
 }) {
   const treeShellRef = useRef<HTMLElement | null>(null);
-  const lastCenteredSelectionRef = useRef<string>("");
   const people = useFamilyStore((state) => state.people);
   const selectedId = useFamilyStore((state) => state.selectedId);
   const activeTag = useFamilyStore((state) => state.activeTag);
@@ -36,15 +35,17 @@ export function FamilyTree({
   const [expandedDescendants, setExpandedDescendants] = useState<Record<string, boolean>>({});
   const [collapsedDescendants, setCollapsedDescendants] = useState<Record<string, boolean>>({});
   const [expandedSpouses, setExpandedSpouses] = useState<Record<string, boolean>>({});
+  const [expandedSpouseAncestors, setExpandedSpouseAncestors] = useState<Record<string, number>>({});
   const [activeSpouseIndex, setActiveSpouseIndex] = useState(0);
-  const t = copy[language];
+  const t = copyFor(language);
   const byId = new Map(people.map((person) => [person.id, person]));
   const center = byId.get(selectedId) ?? byId.get("11A260814K001") ?? people[0];
   function ancestorFor(person: Person) {
     const father = byId.get(person.relationships.fatherId);
     const mother = byId.get(person.relationships.motherId);
-    // Keep the principal line patrilineal whenever the father has a recorded card.
-    // Maternal descent remains the fallback for branches whose father is unknown.
+    // The top control follows one stable route: father first, then mother only
+    // when the father's record is absent. Maternal transitions stay explicit
+    // through the spouse button on the relevant card.
     return father ?? mother;
   }
   const radius = Math.floor(generationDepth / 2);
@@ -84,12 +85,35 @@ export function FamilyTree({
   ).map(({ person }) => person.id);
   const visibleCenterChildren = visibleCenterChildIds.length;
   const neededChildWidth = Math.max(0, (visibleCenterChildren - 1) * siblingGap + card.width + horizontalPadding * 2);
-  const width = Math.max(1280, neededChildWidth);
-  const centerPoint = { x: width / 2, y: 130 + ancestorRadius * generationGap };
+  const expandedSpouseAncestorDepth = Object.values(expandedSpouseAncestors)
+    .reduce((total, depth) => total + depth, 0);
+  const maxSpouseAncestorDepth = Object.values(expandedSpouseAncestors)
+    .reduce((max, depth) => Math.max(max, depth), 0);
+  const hasExpandedRelationshipBranch = Object.values(expandedSpouses).some(Boolean)
+    || maxSpouseAncestorDepth > 0;
+  // Relationship branches can extend several cards to the right of the
+  // focused chain. Keep those cards inside the SVG so the shell can scroll to
+  // them instead of clipping them at the viewBox edge.
+  const relationshipWidth = hasExpandedRelationshipBranch
+    ? (ancestorRadius + maxSpouseAncestorDepth + 4) * 250 + card.width + horizontalPadding * 2
+    : 0;
+  const width = Math.max(1280, neededChildWidth, relationshipWidth);
+  // A spouse branch starts from an existing ancestor row, so its vertical
+  // extent must include both the principal-chain depth and its own depth.
+  const spouseAncestorRadius = expandedSpouseAncestorDepth > 0
+    ? ancestorRadius + expandedSpouseAncestorDepth
+    : 0;
+  const centerPoint = { x: width / 2, y: 130 + Math.max(ancestorRadius, spouseAncestorRadius + 1) * generationGap };
   for (let depth = 1; depth <= ancestorRadius; depth += 1) {
     const ancestor = ancestorFor(ancestorCursor);
     if (!ancestor) break;
-    ancestorNodes.push({ person: ancestor, x: centerPoint.x, y: centerPoint.y - depth * generationGap, depth });
+    const extraDepth = Math.max(0, depth - radius);
+    // Keep an unexpanded ancestor chain vertically aligned. Only spread an
+    // extra ancestor sideways when its lower node is showing a spouse branch.
+    const sideOffset = extraDepth > 0 && expandedSpouses[ancestorCursor.id]
+      ? (extraDepth % 2 === 0 ? 250 : -250)
+      : 0;
+    ancestorNodes.push({ person: ancestor, x: centerPoint.x + sideOffset, y: centerPoint.y - depth * generationGap, depth });
     ancestorCursor = ancestor;
   }
   const topAncestor = ancestorNodes[ancestorNodes.length - 1];
@@ -128,7 +152,7 @@ export function FamilyTree({
   const spousePoints = activeSpouse ? [{ person: activeSpouse, x: centerPoint.x + 250, y: centerPoint.y }] : [];
   const childSpineY = centerPoint.y + 122;
   const ancestorSpouseNodes = showParents
-    ? ancestorNodes.flatMap((node, index) => {
+      ? ancestorNodes.flatMap((node, index) => {
         const childBelow = index === 0 ? center : ancestorNodes[index - 1].person;
         return expandedSpouses[node.person.id]
           ? relationshipPartnerIds(node.person, childBelow)
@@ -138,44 +162,119 @@ export function FamilyTree({
           : [];
       })
     : [];
-  const descendantSpouseNodes = showChildren
-    ? descendantRows.flat().flatMap((node) =>
-        expandedSpouses[node.person.id]
-          ? relationshipPartnerIds(node.person)
-              .map((id) => byId.get(id))
-              .filter((person): person is Person => Boolean(person))
-              .map((spouse, spouseIndex) => ({ spouse, owner: node, x: node.x + 250, y: node.y + spouseIndex * 118 }))
-          : [],
-      )
-    : [];
-  const relatedSpouseNodes = [...ancestorSpouseNodes, ...descendantSpouseNodes];
+  const spouseAncestorNodes = ancestorSpouseNodes.flatMap(({ spouse, x, y }) => {
+    const depthLimit = expandedSpouseAncestors[spouse.id] ?? 0;
+    const nodes: Array<{ person: Person; x: number; y: number; depth: number; spouseId: string }> = [];
+    let cursor = spouse;
+    for (let depth = 1; depth <= depthLimit; depth += 1) {
+      const ancestor = ancestorFor(cursor);
+      if (!ancestor) break;
+      nodes.push({ person: ancestor, x, y: y - depth * generationGap, depth, spouseId: spouse.id });
+      cursor = ancestor;
+    }
+    return nodes;
+  });
+  const spouseBranchSpouseNodes = spouseAncestorNodes.flatMap((node) => {
+    if (!expandedSpouses[node.person.id]) return [];
+    const lowerPerson = node.depth === 1
+      ? ancestorSpouseNodes.find((candidate) => candidate.spouse.id === node.spouseId)?.spouse
+      : spouseAncestorNodes.find((candidate) => candidate.spouseId === node.spouseId && candidate.depth === node.depth - 1)?.person;
+    return relationshipPartnerIds(node.person, lowerPerson)
+      .map((id) => byId.get(id))
+      .filter((person): person is Person => Boolean(person))
+      .map((spouse, spouseIndex) => ({
+        spouse,
+        owner: node,
+        x: node.x + 250,
+        y: node.y + spouseIndex * 118,
+      }));
+  });
+  const nestedSpouseAncestorNodes = spouseBranchSpouseNodes.flatMap(({ spouse, x, y }) => {
+    const depthLimit = expandedSpouseAncestors[spouse.id] ?? 0;
+    const nodes: Array<{ person: Person; x: number; y: number; depth: number; spouseId: string }> = [];
+    let cursor = spouse;
+    for (let depth = 1; depth <= depthLimit; depth += 1) {
+      const ancestor = ancestorFor(cursor);
+      if (!ancestor) break;
+      nodes.push({ person: ancestor, x, y: y - depth * generationGap, depth, spouseId: spouse.id });
+      cursor = ancestor;
+    }
+    return nodes;
+  });
+  // Relationship toggles must keep working on every visible ancestor card,
+  // including cards that were reached through another spouse branch.
+  const nestedSpouseBranchSpouseNodes = nestedSpouseAncestorNodes.flatMap((node) => {
+    if (!expandedSpouses[node.person.id]) return [];
+    const lowerPerson = node.depth === 1
+      ? spouseBranchSpouseNodes.find((candidate) => candidate.spouse.id === node.spouseId)?.spouse
+      : nestedSpouseAncestorNodes.find((candidate) => candidate.spouseId === node.spouseId && candidate.depth === node.depth - 1)?.person;
+    return relationshipPartnerIds(node.person, lowerPerson)
+      .map((id) => byId.get(id))
+      .filter((person): person is Person => Boolean(person))
+      .map((spouse, spouseIndex) => ({
+        spouse,
+        owner: node,
+        x: node.x + 250,
+        y: node.y + spouseIndex * 118,
+      }));
+  });
+  const deepSpouseAncestorNodes = nestedSpouseBranchSpouseNodes.flatMap(({ spouse, x, y }) => {
+    const depthLimit = expandedSpouseAncestors[spouse.id] ?? 0;
+    const nodes: Array<{ person: Person; x: number; y: number; depth: number; spouseId: string }> = [];
+    let cursor = spouse;
+    for (let depth = 1; depth <= depthLimit; depth += 1) {
+      const ancestor = ancestorFor(cursor);
+      if (!ancestor) break;
+      nodes.push({ person: ancestor, x, y: y - depth * generationGap, depth, spouseId: spouse.id });
+      cursor = ancestor;
+    }
+    return nodes;
+  });
+  const allSpouseAncestorNodes = [
+    ...spouseAncestorNodes,
+    ...nestedSpouseAncestorNodes,
+    ...deepSpouseAncestorNodes,
+  ];
+  const relatedSpouseNodes = [
+    ...ancestorSpouseNodes,
+    ...spouseBranchSpouseNodes,
+    ...nestedSpouseBranchSpouseNodes,
+  ];
 
-  useEffect(() => {
+  function centerTree() {
     const shell = treeShellRef.current;
     if (!shell) return;
-    const centerKey = `${selectedId}:${treeVisitKey}:${centerPoint.x}`;
-    if (lastCenteredSelectionRef.current === centerKey) return;
-    lastCenteredSelectionRef.current = centerKey;
     const targetLeft = Math.max(0, centerPoint.x * zoom - shell.clientWidth / 2);
     const targetTop = Math.max(0, centerPoint.y * zoom - shell.clientHeight / 2);
     shell.scrollTo({ left: targetLeft, top: targetTop, behavior: "smooth" });
-  }, [selectedId, treeVisitKey, centerPoint.x, centerPoint.y, zoom]);
+  }
+
+  // Center only when entering the tree page. Expanding a branch must preserve
+  // the user's current viewport; refocusing is an explicit toolbar action.
+  useEffect(() => {
+    centerTree();
+    // Deliberately exclude layout and selection changes: branch expansion and
+    // person selection should never move the viewport without user intent.
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [treeVisitKey]);
 
   useEffect(() => {
     setActiveSpouseIndex(Math.max(0, spouses.length - 1));
   }, [selectedId, spouses.length]);
 
-  function BranchToggle({ x, y, expanded, onClick, label }: { x: number; y: number; expanded: boolean; onClick: () => void; label: string }) {
+  function BranchToggle({ x, y, expanded, onClick, label, disabled = false }: { x: number; y: number; expanded: boolean; onClick: () => void; label: string; disabled?: boolean }) {
     return (
       <foreignObject x={x - 13} y={y - 13} width="26" height="26">
         <button
           type="button"
           className="branch-toggle"
+          disabled={disabled}
           onClick={(event) => {
             event.stopPropagation();
             onClick();
           }}
           aria-label={label}
+          title={disabled ? t.collapseActiveAncestorFirst : label}
         >
           {expanded ? "-" : "+"}
         </button>
@@ -200,7 +299,7 @@ export function FamilyTree({
                 : Math.min(spouses.length - 1, normalized + 1);
             });
           }}
-          aria-label={`${direction === "previous" ? "Previous" : "Next"} spouse`}
+          aria-label={direction === "previous" ? t.previousSpouse : t.nextSpouse}
         >
           {symbol}
         </button>
@@ -238,6 +337,7 @@ export function FamilyTree({
           setExpandedDescendants({});
           setCollapsedDescendants({});
           setExpandedSpouses({});
+          setExpandedSpouseAncestors({});
         }}
         tabIndex={0}
         role="button"
@@ -291,13 +391,6 @@ export function FamilyTree({
     if (parentId === center.id && showSpouses && spousePoints.length > 0) {
       return { x: (centerPoint.x + spousePoints[0].x) / 2, y: centerPoint.y - bottomOffset };
     }
-    const parent = descendantRows.flat().find((node) => node.person.id === parentId);
-    if (parent && expandedSpouses[parent.person.id]) {
-      const spouse = [...parent.person.relationships.spouseIds, ...parent.person.relationships.partnerIds]
-        .map((id) => byId.get(id))
-        .find((person): person is Person => Boolean(person));
-      if (spouse) return { x: parent.x + 125, y: parent.y - bottomOffset };
-    }
     return nodePosition.get(parentId) ?? centerPoint;
   }
 
@@ -325,25 +418,47 @@ export function FamilyTree({
 
   return (
     <section ref={treeShellRef} className="tree-shell" aria-label={t.ariaTree} onWheel={handleTreeWheel}>
-      <div className="zoom-controls" aria-label={language === "cn" ? "缂╂斁鎺у埗" : "Zoom controls"}>
+      <div className="zoom-controls" aria-label={t.zoomControls}>
         <button type="button" onClick={zoomOut} aria-label={t.zoomOut}>-</button>
         <button type="button" onClick={resetZoom} aria-label={t.resetZoom}>{Math.round(zoom * 100)}%</button>
         <button type="button" onClick={zoomIn} aria-label={t.zoomIn}>+</button>
+        <button
+          type="button"
+          className="tree-focus-button"
+          onClick={centerTree}
+          aria-label={t.centerFocus}
+          title={t.centerFocus}
+        >
+          ◎
+        </button>
       </div>
-      <div className="tree-nav-controls" aria-label="Tree navigation">
-        <button type="button" onClick={onBack} disabled={!canBack}>Back</button>
-        <button type="button" onClick={onHome}>Home</button>
+      <div className="tree-nav-controls" aria-label={t.treeNavigation}>
+        <button type="button" onClick={onBack} disabled={!canBack}>{t.back}</button>
+        <button type="button" onClick={onHome}>{t.home}</button>
       </div>
       <svg viewBox={`0 0 ${width} ${height}`} role="img" style={{ width: `${width * zoom}px`, height: `${height * zoom}px` }}>
         <g>
           <circle className="union-dot" cx={centerPoint.x} cy="44" r="7" />
           <text className="union-label" x={centerPoint.x} y="68">{t.rootLabel}</text>
-          {ancestorNodes.length > 0 && <BranchToggle x={centerPoint.x} y={centerPoint.y - card.height / 2 - 34} expanded={showParents} onClick={() => setShowParents(!showParents)} label="Toggle parents" />}
+          {ancestorNodes.length > 0 && <BranchToggle x={centerPoint.x} y={centerPoint.y - card.height / 2 - 34} expanded={showParents} onClick={() => setShowParents(!showParents)} label={t.toggleParents} />}
           {showParents && ancestorNodes.map(({ person, x, y, depth }) => {
             const lower = depth === 1 ? centerPoint : ancestorNodes[depth - 2];
+            const lowerPerson = depth === 1 ? center : ancestorNodes[depth - 2].person;
+            const otherParent = ancestorSpouseNodes.find((node) =>
+              node.owner.person.id === person.id
+              && [lowerPerson.relationships.fatherId, lowerPerson.relationships.motherId].includes(node.spouse.id),
+            );
+            const childAnchor = otherParent
+              ? { x: (x + otherParent.x) / 2, y }
+              : { x, y: y + card.height / 2 };
+            const childTopY = lower.y - card.height / 2;
+            const branchY = childTopY - 32;
+            const linkPath = otherParent
+              ? `M${childAnchor.x},${childAnchor.y} V${branchY} H${lower.x} V${childTopY}`
+              : `M${childAnchor.x},${childAnchor.y} V${childTopY}`;
             return (
             <g key={person.id}>
-              <path className="tree-link" d={`M${x},${y + card.height / 2} V${lower.y - card.height / 2}`} />
+              <path className="tree-link" d={linkPath} />
               <PersonNode person={person} x={x} y={y} />
               {relationshipPartnerIds(person).length > 0 && (
                 <BranchToggle
@@ -351,10 +466,91 @@ export function FamilyTree({
                   y={y + card.height / 2 - 12}
                   expanded={Boolean(expandedSpouses[person.id])}
                   onClick={() => togglePersonSpouses(person)}
-                  label={`Toggle relationships for ${person.displayName}`}
+                  label={fillCopy(t.toggleRelationshipsFor, { name: person.displayName })}
+                />
+              )}
+              {depth < ancestorNodes.length && (
+                <BranchToggle
+                  x={x}
+                  y={y - card.height / 2 - 18}
+                  expanded
+                  onClick={() => setExtraAncestorDepth(Math.max(0, depth - radius))}
+                  label={fillCopy(t.collapseAncestorsAbove, { name: person.displayName })}
                 />
               )}
             </g>
+            );
+          })}
+          {allSpouseAncestorNodes.map(({ person, x, y, depth, spouseId }) => {
+            const lower = depth === 1
+              ? relatedSpouseNodes.find((node) => node.spouse.id === spouseId)
+              : allSpouseAncestorNodes.find((node) => node.spouseId === spouseId && node.depth === depth - 1);
+            if (!lower) return null;
+            const lowerPerson = "spouse" in lower ? lower.spouse : lower.person;
+            const otherParent = spouseBranchSpouseNodes.find((node) =>
+              node.owner.person.id === person.id
+              && [lowerPerson.relationships.fatherId, lowerPerson.relationships.motherId].includes(node.spouse.id),
+            );
+            const childTopY = lower.y - card.height / 2;
+            const branchY = childTopY - 32;
+            const linkPath = otherParent
+              ? `M${(x + otherParent.x) / 2},${y} V${branchY} H${lower.x} V${childTopY}`
+              : `M${x},${y + card.height / 2} V${childTopY}`;
+            return (
+              <g key={`spouse-ancestor-${spouseId}-${person.id}`}>
+                <path className="tree-link" d={linkPath} />
+                <PersonNode person={person} x={x} y={y} />
+                {relationshipPartnerIds(person).length > 0 && (
+                  <BranchToggle
+                    x={x + card.width / 2 - 12}
+                    y={y + card.height / 2 - 12}
+                    expanded={Boolean(expandedSpouses[person.id])}
+                    onClick={() => togglePersonSpouses(person)}
+                    label={fillCopy(t.toggleRelationshipsFor, { name: person.displayName })}
+                  />
+                )}
+                {depth < (expandedSpouseAncestors[spouseId] ?? 0) && (
+                  <BranchToggle
+                    x={x}
+                    y={y - card.height / 2 - 18}
+                    expanded
+                    onClick={() => setExpandedSpouseAncestors((current) => ({ ...current, [spouseId]: depth }))}
+                    label={fillCopy(t.collapseAncestorsAbove, { name: person.displayName })}
+                  />
+                )}
+              </g>
+            );
+          })}
+          {relatedSpouseNodes.map(({ spouse, x, y }) => {
+            const canExpand = Boolean(ancestorFor(spouse));
+            if (!canExpand) return null;
+            const depth = expandedSpouseAncestors[spouse.id] ?? 0;
+            return (
+              <BranchToggle
+                key={`spouse-ancestor-toggle-${spouse.id}`}
+                x={x}
+                y={y - card.height / 2 - 18}
+                expanded={depth > 0}
+                onClick={() => setExpandedSpouseAncestors((current) => ({ ...current, [spouse.id]: depth > 0 ? 0 : 1 }))}
+                label={fillCopy(t.extendAncestorsFrom, { name: spouse.displayName })}
+              />
+            );
+          })}
+          {relatedSpouseNodes.map(({ spouse }) => {
+            const depth = expandedSpouseAncestors[spouse.id] ?? 0;
+            if (depth === 0) return null;
+            const branchNodes = allSpouseAncestorNodes.filter((node) => node.spouseId === spouse.id);
+            const topNode = branchNodes[branchNodes.length - 1];
+            if (!topNode || !ancestorFor(topNode.person)) return null;
+            return (
+              <BranchToggle
+                key={`spouse-ancestor-more-${spouse.id}`}
+                x={topNode.x}
+                y={topNode.y - card.height / 2 - 18}
+                expanded={false}
+                onClick={() => setExpandedSpouseAncestors((current) => ({ ...current, [spouse.id]: depth + 1 }))}
+                label={fillCopy(t.extendAncestorLineFrom, { name: spouse.displayName })}
+              />
             );
           })}
           {showParents && topAncestorParent && (
@@ -363,7 +559,7 @@ export function FamilyTree({
               y={topAncestor.y - card.height / 2 - 18}
               expanded={false}
               onClick={() => setExtraAncestorDepth((value) => value + 1)}
-              label="Extend ancestor line"
+              label={t.extendAncestorLine}
             />
           )}
           {showParents && extraAncestorDepth > 0 && (
@@ -372,7 +568,7 @@ export function FamilyTree({
               y={centerPoint.y - card.height / 2 - 34}
               expanded
               onClick={() => setExtraAncestorDepth((value) => Math.max(0, value - 1))}
-              label="Collapse ancestor line"
+              label={t.collapseAncestorLine}
             />
           )}
           {showSpouses && spousePoints.map(({ person, x, y }) => (
@@ -380,7 +576,7 @@ export function FamilyTree({
               <path className={`marriage-link ${isFormerMarriage(person) ? "former" : ""} ${isNonMaritalPartner(person) ? "partner" : ""}`} d={`M${centerPoint.x + card.width / 2},${centerPoint.y} H${x - card.width / 2}`} />
               {isFormerMarriage(person) && <text className="marriage-break" x={(centerPoint.x + x) / 2} y={centerPoint.y + 5}>x</text>}
               {isNonMaritalPartner(person) && <text className="partner-mark" x={(centerPoint.x + x) / 2} y={centerPoint.y + 5}>◇</text>}
-              <text className="union-label" x={(centerPoint.x + x) / 2} y={centerPoint.y - 18}>{isFormerMarriage(person) ? "DIVORCED" : isNonMaritalPartner(person) ? "PARTNER" : t.unionLabel}</text>
+              <text className="union-label" x={(centerPoint.x + x) / 2} y={centerPoint.y - 18}>{isFormerMarriage(person) ? t.divorced : isNonMaritalPartner(person) ? t.partner : t.unionLabel}</text>
               <PersonNode person={person} x={x} y={y} />
               {spouses.length === 2 ? (
                 <SpouseCycleButton x={x + card.width / 2 + 16} y={y} direction={normalizedSpouseIndex === spouses.length - 1 ? "previous" : "next"} />
@@ -393,7 +589,7 @@ export function FamilyTree({
             </g>
           ))}
           <PersonNode person={center} x={centerPoint.x} y={centerPoint.y} />
-          {spouses.length > 0 && <BranchToggle x={centerPoint.x + card.width / 2 - 12} y={centerPoint.y + card.height / 2 - 12} expanded={showSpouses} onClick={() => setShowSpouses(!showSpouses)} label="Toggle spouses" />}
+          {spouses.length > 0 && <BranchToggle x={centerPoint.x + card.width / 2 - 12} y={centerPoint.y + card.height / 2 - 12} expanded={showSpouses} onClick={() => setShowSpouses(!showSpouses)} label={t.toggleSpouses} />}
           {children.length > 0 && (
             <BranchToggle
               x={centerPoint.x - card.width / 2 + 10}
@@ -402,14 +598,14 @@ export function FamilyTree({
               onClick={() => {
                 setShowChildren(!showChildren);
               }}
-              label="Toggle descendants"
+              label={t.toggleDescendants}
             />
           )}
           {relatedSpouseNodes.map(({ spouse, owner, x, y }) => (
             <g key={`${owner.person.id}-${spouse.id}`}>
               <path className={`marriage-link ${owner.person.relationships.partnerIds.includes(spouse.id) ? "partner" : ""}`} d={`M${owner.x + card.width / 2},${owner.y} H${x - card.width / 2}`} />
               {owner.person.relationships.partnerIds.includes(spouse.id) && <text className="partner-mark" x={(owner.x + x) / 2} y={owner.y + 5}>◇</text>}
-              <text className="union-label" x={(owner.x + x) / 2} y={owner.y - 18}>{owner.person.relationships.partnerIds.includes(spouse.id) ? "PARTNER" : t.unionLabel}</text>
+              <text className="union-label" x={(owner.x + x) / 2} y={owner.y - 18}>{owner.person.relationships.partnerIds.includes(spouse.id) ? t.partner : t.unionLabel}</text>
               <PersonNode person={spouse} x={x} y={y} />
             </g>
           ))}
@@ -426,7 +622,7 @@ export function FamilyTree({
                   y={y - card.height / 2 - 18}
                   expanded
                   onClick={() => setHiddenChildren((current) => ({ ...current, [person.id]: true }))}
-                  label={`Hide ${person.displayName}`}
+                  label={fillCopy(t.hide, { name: person.displayName })}
                 />
               )}
               {person.relationships.childIds.length > 0 && (
@@ -435,25 +631,7 @@ export function FamilyTree({
                   y={y + card.height / 2 - 12}
                   expanded={renderedChildParentIds.has(person.id)}
                   onClick={() => togglePersonDescendants(person)}
-                  label={`Extend descendants from ${person.displayName}`}
-                />
-              )}
-              {relationshipPartnerIds(person).length > 0 && (
-                <BranchToggle
-                  x={x + card.width / 2 - 12}
-                  y={y + card.height / 2 - 12}
-                  expanded={Boolean(expandedSpouses[person.id])}
-                  onClick={() => togglePersonSpouses(person)}
-                  label={`Toggle relationships for ${person.displayName}`}
-                />
-              )}
-              {person.relationships.partnerIds.length > 0 && person.relationships.spouseIds.length === 0 && (
-                <BranchToggle
-                  x={x + card.width / 2 - 12}
-                  y={y + card.height / 2 - 12}
-                  expanded={Boolean(expandedSpouses[person.id])}
-                  onClick={() => togglePersonSpouses(person)}
-                  label={`Toggle partners for ${person.displayName}`}
+                  label={fillCopy(t.extendDescendantsFrom, { name: person.displayName })}
                 />
               )}
             </g>
@@ -464,11 +642,11 @@ export function FamilyTree({
             .filter((person): person is Person => Boolean(person))
             .filter((person) => hiddenChildren[person.id])
             .map((person, index) => (
-            <BranchToggle key={person.id} x={centerPoint.x + 42 + index * 34} y={childSpineY} expanded={false} onClick={() => setHiddenChildren((current) => ({ ...current, [person.id]: false }))} label={`Show ${person.displayName}`} />
+            <BranchToggle key={person.id} x={centerPoint.x + 42 + index * 34} y={childSpineY} expanded={false} onClick={() => setHiddenChildren((current) => ({ ...current, [person.id]: false }))} label={`${t.show} ${person.displayName}`} />
           ))}
         </g>
       </svg>
-      <div className="generation-controls" aria-label="Generation depth">
+      <div className="generation-controls" aria-label={t.generationDepth}>
         <button
           type="button"
           onClick={() => {
@@ -481,7 +659,7 @@ export function FamilyTree({
         >
           -
         </button>
-        <span>{generationDepth} gen</span>
+        <span>{generationDepth} {t.generationUnit}</span>
         <button
           type="button"
           onClick={() => {
@@ -507,7 +685,7 @@ export function FamilyTree({
             setHiddenChildren({});
           }}
         >
-          reset
+          {t.reset}
         </button>
       </div>
     </section>

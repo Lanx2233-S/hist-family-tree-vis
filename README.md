@@ -2,7 +2,7 @@
 
 `hist-family-tree-vis` is a historical family-tree project inspired by Crusader Kings III (CK3). It integrates historical-person records and presents family relationships, titles, events, and other context through an interactive visualization.
 
-The project begins with medieval England, using the Norman period as its first source area. The current dataset contains 47 people and is stored in `people.normandy.json`; PostgreSQL is supported for durable records and future expansion.
+The project begins with medieval England, using the Norman period as its first source area. The current dataset contains 65 people and is stored in `people.normandy.json`; PostgreSQL is supported for durable records and future expansion.
 
 The app uses React for exploration and PostgreSQL for durable person records. The existing JSON remains the local demo fallback until a database is configured and seeded.
 

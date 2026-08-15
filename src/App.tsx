@@ -7,7 +7,7 @@ import { PageTabs, type AppPage } from "./components/PageTabs";
 import { peopleSearchResults } from "./features/people/peopleSearch";
 import { DetailPanel } from "./features/people/DetailPanel";
 import { FamilyTree } from "./features/tree/FamilyTree";
-import { cnTagLabels, copy, tagLabels, textFor, years } from "./features/shared/presentation";
+import { copyFor, tagText, textFor, years } from "./features/shared/presentation";
 import { ProtagonistPage } from "./pages/ProtagonistPage";
 function Toolbar({ onSelectPerson, onAddPerson }: { onSelectPerson: (id: string) => void; onAddPerson: () => void }) {
   const people = useFamilyStore((state) => state.people);
@@ -24,10 +24,11 @@ function Toolbar({ onSelectPerson, onAddPerson }: { onSelectPerson: (id: string)
   const [isGenderOpen, setGenderOpen] = useState(false);
   const [isPeopleSearchOpen, setPeopleSearchOpen] = useState(false);
   const tags = ["all", ...Array.from(new Set(people.flatMap((person) => person.tags))).slice(0, 8)];
-  const t = copy[language];
+  const t = copyFor(language);
   const selectedPerson = people.find((person) => person.id === selectedId) ?? people[0];
   const selectedLabel = textFor(selectedPerson, language);
-  const treeTitle = `${selectedLabel.dynasty || selectedPerson.house || "Family"} Family Tree`;
+  const houseLabel = selectedLabel.dynasty || selectedPerson.house;
+  const treeTitle = houseLabel ? `${houseLabel} ${t.familyTree}` : t.familyTree;
   const searchResults = peopleSearchResults(people, searchQuery);
 
   function selectSearchResult(person: Person) {
@@ -78,13 +79,13 @@ function Toolbar({ onSelectPerson, onAddPerson }: { onSelectPerson: (id: string)
                   <strong>{person.displayName}</strong>
                   <small>{person.primaryTitle} · {years(person)}</small>
                 </button>
-              )) : <p className="people-search-empty">No matching people</p>}
+              )) : <p className="people-search-empty">{t.noMatchingPeople}</p>}
             </div>
           )}
           </div>
-          <button type="button" className="add-person-button" onClick={onAddPerson}>+ Person</button>
+          <button type="button" className="add-person-button" onClick={onAddPerson}>{t.addPerson}</button>
           <div className="popup-filter">
-            <button type="button" className={activeTag !== "all" ? "active" : ""} onClick={() => setTagOpen(!isTagOpen)}>{t.tagFilter}: {language === "cn" ? cnTagLabels[activeTag] ?? activeTag : tagLabels[activeTag] ?? activeTag}</button>
+            <button type="button" className={activeTag !== "all" ? "active" : ""} onClick={() => setTagOpen(!isTagOpen)}>{t.tagFilter}: {tagText(activeTag, language)}</button>
             {isTagOpen && (
               <div className="filter-popover">
                 <input
@@ -99,19 +100,19 @@ function Toolbar({ onSelectPerson, onAddPerson }: { onSelectPerson: (id: string)
                 />
                 {tags.map((tag) => (
                   <button data-filter-option key={tag} type="button" className={activeTag === tag ? "active" : ""} onClick={() => { setActiveTag(tag); setTagOpen(false); }}>
-                    {language === "cn" ? cnTagLabels[tag] ?? tag : tagLabels[tag] ?? tag}
+                    {tagText(tag, language)}
                   </button>
                 ))}
               </div>
             )}
           </div>
           <div className="popup-filter">
-            <button type="button" className={activeGender !== "all" ? "active" : ""} onClick={() => setGenderOpen(!isGenderOpen)}>{t.genderFilter}: {activeGender === "all" ? (language === "cn" ? "全部" : "All") : activeGender === "male" ? t.male : t.female}</button>
+            <button type="button" className={activeGender !== "all" ? "active" : ""} onClick={() => setGenderOpen(!isGenderOpen)}>{t.genderFilter}: {activeGender === "all" ? t.all : activeGender === "male" ? t.male : t.female}</button>
             {isGenderOpen && (
               <div className="filter-popover compact">
                 {(["all", "male", "female"] as const).map((gender) => (
                   <button key={gender} type="button" className={activeGender === gender ? "active" : ""} onClick={() => { setActiveGender(gender); setGenderOpen(false); }}>
-                    {gender === "all" ? (language === "cn" ? "全部" : "All") : gender === "male" ? `♂ ${t.male}` : `♀ ${t.female}`}
+                    {gender === "all" ? t.all : gender === "male" ? `♂ ${t.male}` : `♀ ${t.female}`}
                   </button>
                 ))}
               </div>
