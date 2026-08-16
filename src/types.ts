@@ -61,6 +61,7 @@ export type Person = {
   tags: string[];
   rank: string;
   importanceScore: number;
+  historicalRating?: number;
   relationships: {
     fatherId: string;
     motherId: string;

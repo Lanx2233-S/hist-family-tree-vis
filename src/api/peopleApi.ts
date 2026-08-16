@@ -12,6 +12,7 @@ export type CreatePersonInput = {
   dynasty?: string;
   primaryTitle?: string;
   rank?: string;
+  historicalRating?: number;
   wikiUrl?: string;
   fatherId?: string;
   motherId?: string;

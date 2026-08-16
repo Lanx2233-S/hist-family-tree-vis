@@ -404,3 +404,70 @@ Split by responsibility and keep data, derived presentation, interaction state, 
 
 - 继续补充早期英格兰谱系时，应区分可靠史料人物、成年存活人物与早夭/传说人物。
 - 王后配偶与女性实际君主继续通过 `consort` 标签和 `rank` 组合区分，避免仅依据英文 Queen 字样判断。
+
+## 2026-08-17：CSS 模块化与版本发布
+
+### 已完成
+
+- 将单一的 `src/styles.css` 拆分为 `src/styles/` 下的功能模块，并由 `main.css` 作为唯一入口统一导入。
+- 按设计令牌、基础样式、布局、导航、主角页、详情面板、家谱树、表单和响应式规则完成归类。
+- 保留原有选择器、级联顺序、响应式断点、纹章定位和家谱缩放行为；`person-card.css` 暂留为空文件作为预留模块。
+- `npm run build` 与 `git diff --check` 均通过。
+- 创建并推送版本提交：`7ec12d6`，提交信息为 `26-08-17-01-feat: expand Wessex lineage and split stylesheets`。
+- `docs/CLAUDE.local.md` 与编辑器临时文件未加入版本控制。
+
+## 2026-08-17：至亲链关系排查与时间合理性校验
+
+### 本次修正
+
+- 排查 Hugues Capet、Hugh the Great、Robert I 等人物的至亲链，发现并移除“大于格错误连接诺曼底罗贝尔一世”的父子关系。
+- 清除诺曼底罗贝尔一世指向不存在人物的孤儿 `fatherId`，避免把缺失人物误显示为已知父亲。
+- 排查 Béatrice of Vermandois，移除她与诺曼底罗贝尔一世的错误配偶 UUID；保留贝阿特丽丝与大于格的母子关系。
+- 明确记录：贝阿特丽丝的丈夫应为西法兰克国王罗贝尔一世，但该人物目前尚未录入，不能用同名的诺曼底公爵替代。
+- `npm run build` 通过；关系引用检查未发现孤儿 UUID。
+
+### 后续数据验收原则
+
+- 至亲链不能只检查 UUID 是否存在，还必须检查父母方向、配偶双方和子女反向关系是否一致。
+- 对每条父子关系执行出生年合理性检查：父母通常应比子女年长，代际差距不能明显违背生育年龄和历史年代。
+- 对同名人物必须同时核对头衔、地区、王朝、出生年和来源链接，禁止仅凭姓名匹配关系。
+- 对跨王朝婚姻，若配偶人物未录入，应保留史料备注和婚姻事件，但不要用相近姓名的人物 UUID 代替。
+- 发现史料缺口时宁可暂时留空，也不建立看似完整但历史上错误的至亲链。
+
+### 版本记录
+
+- `26-08-17-02-feat: enrich historical data and validate kinship links`
+- Commit：`f59a93e`
+- 已完成构建验收并准备推送；本地策略文件未纳入版本。
+
+## 2026-08-17：人物卡全面补全工程（historicalRating >= 5）
+
+### 目标
+
+- 将全部 historicalRating >= 5 的人物卡补全到项目最完整人物（Henry II 51 分、Eleanor of Aquitaine 49 分）的水平。
+- 12 名重点人物优先：William I、Henry I、John、Charlemagne、Richard I、Henry VII、Henry VIII、Elizabeth I、Philippe II Augustus、Alfred the Great、Edward I、Henry V。
+- 严格沿用既有事件规则（类型/标签白名单、权重、YYYY.MM.DD 精度、争议标注），资料以英文维基百科为基线核对。
+
+### 已完成
+
+- **执行架构**：按成本策略拆分为 12 个并行研究子代理（按王朝分组：威塞克斯、诺曼、金雀花、卡佩、加洛林、普瓦图等），各自只读主数据、产出完整记录 payload 至 /tmp/enrich/，再由综合代理以 span 级精确替换合并入库——30 条未涉及记录的字节完全不变。
+- **覆盖**：98 位 >=5 星人物中补全 96 位（Henry II 与 Eleanor 即基准，未动）。重点人物事件 12–16 条，其余按星级 3–11 条。
+- **事件规模**：全库事件由约 160 条增至 796 条，净新增约 640 条（含补全期间用户手动新增并被保留的 4 条）。
+- **字段**：全员补齐出生/死亡地与中文、deathCause 双语（normal/violent/violent_uncertain/uncertain 四态）、别名、称号、来源与备注；事件每条含 label/labelCn/type/tags/weight/wikiUrl，争议日期与传说材料均在 note 标注。
+- **史实修正 20 条**：含 Roger Mortimer 身份甄别（第 4 代马奇伯爵，非被处决的第 1 代）、Anne Mortimer 生年 1390→1388、Louis VI 卒地、Guilhem III「秃头」→「亚麻头」误译、William II 死因按项目惯例定为明确非自然死亡、Morgan FitzRoy 与 Ramnulf I 的失效 wikiUrl 修复等；完整清单见 `people-entry-log.md` 末尾「资料补全状态」章节。
+- **同名甄别**：Ælfthryth（佛兰德伯爵夫人 vs 埃德加之妻）、Eadgifu（长者爱德华之女 vs 其妻）、Marie de France（香槟伯爵夫人 vs 诗人）、两位 Richard II（诺曼 vs 英格兰）等均按 UUID 核实身份，未发生混链。
+- **用户工作保全**：补全期间用户新增的 4 条事件全部保留；约克的理查「1453 任护国公」史实有误（实际 1454.3.27）且与新增正确条目重复，已删除错误条并保留更正说明。
+- **条目日志**：`people-entry-log.md` 原历史表格未动，末尾追加 96 行补全状态表（评分/事件数/基础资料/缺口）与史实修正清单。
+
+### 验收
+
+- 126 人 UUID 全唯一；关系引用 0 孤儿；无重复人物、无重复事件。
+- 事件 type/tag 全部通过白名单校验（修正 9 处将 political_crisis 误用作 tag 的事件）。
+- 所有 >=5 星人物事件 >=3 条；William I（14 条）、Henry I（12 条）、John（15 条）基础资料全满，达到基准水平。
+- `npm run build` 与 `git diff --check` 通过。
+
+### 遗留
+
+- 10 位人物出生/死亡地因史料无记载保留为空（Geoffroy V、Guilhem IX、Louis VII、Morgan FitzRoy 等），已在条目日志标注缺口原因。
+- 配偶/子女不在人物库的婚姻只记事件、不建关系链接（亨利八世诸妻、Constance of Brittany 等），待人物库扩展后回填。
+- 本轮补全与 UUID 化、CSS 拆分等前序工作均未提交，建议分批提交并各附验收说明。

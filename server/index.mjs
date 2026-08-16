@@ -61,6 +61,7 @@ function asPerson(row) {
     tags: [],
     rank: row.rank,
     importanceScore: row.importance_score,
+    historicalRating: row.historical_rating ?? 0,
     relationships: { fatherId: "", motherId: "", spouseIds: [], partnerIds: [], childIds: [] },
     events: [],
     wikiUrl: row.wiki_url,
@@ -132,13 +133,13 @@ async function createPerson(input) {
       String(input.nickname ?? ""), input.birthYear || null, input.deathYear || null,
       String(input.birthPlace ?? ""), String(input.deathPlace ?? ""), String(input.gender ?? "unknown"),
       String(input.dynasty ?? ""), String(input.house ?? input.dynasty ?? ""), String(input.culture ?? ""), String(input.faith ?? ""),
-      String(input.primaryTitle ?? ""), String(input.rank ?? "untitled"), Number(input.importanceScore ?? 0),
+      String(input.primaryTitle ?? ""), String(input.rank ?? "untitled"), Number(input.importanceScore ?? 0), Math.max(0, Math.min(10, Number(input.historicalRating ?? 0))),
       String(input.wikiUrl ?? ""), String(input.sourceUrl ?? input.wikiUrl ?? ""), String(input.notes ?? ""),
       dateCode(), createdOrder,
     ];
     await client.query(
-      `INSERT INTO people (id, first_name, last_name, display_name, full_name, nickname, birth_year, death_year, birth_place, death_place, gender, dynasty, house, culture, faith, primary_title, rank, importance_score, wiki_url, source_url, notes, created_date, created_order)
-       VALUES ($1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11,$12,$13,$14,$15,$16,$17,$18,$19,$20,$21,$22,$23)`,
+      `INSERT INTO people (id, first_name, last_name, display_name, full_name, nickname, birth_year, death_year, birth_place, death_place, gender, dynasty, house, culture, faith, primary_title, rank, importance_score, historical_rating, wiki_url, source_url, notes, created_date, created_order)
+       VALUES ($1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11,$12,$13,$14,$15,$16,$17,$18,$19,$20,$21,$22,$23,$24)`,
       values,
     );
     if (input.fatherId || input.motherId) {

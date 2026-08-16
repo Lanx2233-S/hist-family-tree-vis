@@ -26,8 +26,8 @@ async function seed() {
     await client.query("BEGIN");
     for (const person of people) {
       await client.query(
-        `INSERT INTO people (id, first_name, last_name, display_name, full_name, nickname, also_known_as, nickname_tags, birth_year, death_year, birth_place, death_place, gender, dynasty, house, culture, faith, primary_title, rank, importance_score, wiki_url, portrait_url, source_url, source_note, notes, death_cause, created_date, created_order, localized)
-         VALUES ($1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11,$12,$13,$14,$15,$16,$17,$18,$19,$20,$21,$22,$23,$24,$25,$26,$27,$28,$29)
+        `INSERT INTO people (id, first_name, last_name, display_name, full_name, nickname, also_known_as, nickname_tags, birth_year, death_year, birth_place, death_place, gender, dynasty, house, culture, faith, primary_title, rank, importance_score, historical_rating, wiki_url, portrait_url, source_url, source_note, notes, death_cause, created_date, created_order, localized)
+         VALUES ($1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11,$12,$13,$14,$15,$16,$17,$18,$19,$20,$21,$22,$23,$24,$25,$26,$27,$28,$29,$30)
          ON CONFLICT (id) DO UPDATE SET
            display_name = EXCLUDED.display_name,
            full_name = EXCLUDED.full_name,
@@ -41,7 +41,7 @@ async function seed() {
           person.id, person.firstName, person.lastName, person.displayName, person.fullName, person.nickname,
           person.alsoKnownAs ?? [], person.nicknameTags ?? [], nullable(person.birthYear), nullable(person.deathYear),
           person.birthPlace, person.deathPlace, person.gender, person.dynasty, person.house, person.culture, person.faith,
-          person.primaryTitle, person.rank, person.importanceScore, person.wikiUrl, person.portraitUrl, person.sourceUrl,
+          person.primaryTitle, person.rank, person.importanceScore, person.historicalRating ?? 0, person.wikiUrl, person.portraitUrl, person.sourceUrl,
           person.sourceNote, person.notes, person.deathCause ? JSON.stringify(person.deathCause) : null, person.createdDate, person.createdOrder,
           localizedFields(person),
         ],

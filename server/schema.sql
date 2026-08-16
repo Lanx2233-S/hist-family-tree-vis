@@ -21,6 +21,7 @@ CREATE TABLE IF NOT EXISTS people (
   primary_title TEXT NOT NULL DEFAULT '',
   rank TEXT NOT NULL DEFAULT 'untitled',
   importance_score INTEGER NOT NULL DEFAULT 0,
+  historical_rating INTEGER NOT NULL DEFAULT 0 CHECK (historical_rating BETWEEN 0 AND 10),
   wiki_url TEXT NOT NULL DEFAULT '',
   portrait_url TEXT NOT NULL DEFAULT '',
   source_url TEXT NOT NULL DEFAULT '',
@@ -36,6 +37,7 @@ CREATE TABLE IF NOT EXISTS people (
 -- Chinese display fields for the CN interface mode. English columns remain the
 -- canonical layer; localized carries only optional presentation overrides.
 ALTER TABLE people ADD COLUMN IF NOT EXISTS localized JSONB NOT NULL DEFAULT '{}'::jsonb;
+ALTER TABLE people ADD COLUMN IF NOT EXISTS historical_rating INTEGER NOT NULL DEFAULT 0;
 
 CREATE TABLE IF NOT EXISTS person_parentage (
   child_id TEXT PRIMARY KEY REFERENCES people(id) ON DELETE CASCADE,

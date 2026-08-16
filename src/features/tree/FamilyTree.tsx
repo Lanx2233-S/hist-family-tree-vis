@@ -41,7 +41,7 @@ export function FamilyTree({
   const t = copyFor(language);
   const nameOf = (person: Person) => textFor(person, language).displayName;
   const byId = new Map(people.map((person) => [person.id, person]));
-  const center = byId.get(selectedId) ?? byId.get("11A260814K001") ?? people[0];
+  const center = byId.get(selectedId) ?? byId.get("21b5ec21-1812-4731-8b03-721988be302f") ?? people[0];
   const heraldry = heraldryFor(center);
   function ancestorFor(person: Person) {
     const father = byId.get(person.relationships.fatherId);
@@ -113,10 +113,7 @@ export function FamilyTree({
     const extraDepth = Math.max(0, depth - radius);
     // Keep an unexpanded ancestor chain vertically aligned. Only spread an
     // extra ancestor sideways when its lower node is showing a spouse branch.
-    const sideOffset = extraDepth > 0 && expandedSpouses[ancestorCursor.id]
-      ? (extraDepth % 2 === 0 ? 250 : -250)
-      : 0;
-    ancestorNodes.push({ person: ancestor, x: centerPoint.x + sideOffset, y: centerPoint.y - depth * generationGap, depth });
+    ancestorNodes.push({ person: ancestor, x: centerPoint.x, y: centerPoint.y - depth * generationGap, depth });
     ancestorCursor = ancestor;
   }
   const topAncestor = ancestorNodes[ancestorNodes.length - 1];
@@ -342,7 +339,7 @@ export function FamilyTree({
 
     return (
       <g
-        className={`person-node tier-${tier} ${person.tags.includes("illegitimate") ? "illegitimate" : ""} ${isSelected ? "selected" : ""} ${isDimmed ? "dimmed" : ""}`}
+        className={`person-node tier-${tier} rating-${person.historicalRating ?? 0} ${person.tags.includes("illegitimate") ? "illegitimate" : ""} ${isSelected ? "selected" : ""} ${isDimmed ? "dimmed" : ""}`}
         transform={`translate(${x - card.width / 2},${y - card.height / 2})`}
         onClick={() => {
           onSelectPerson(person.id);
@@ -411,9 +408,15 @@ export function FamilyTree({
     return nodePosition.get(parentId) ?? centerPoint;
   }
 
-  function isFormerMarriage(person: Person) {
-    const ids = new Set([center.id, person.id]);
-    return ids.has("12E260814A011") && ids.has("12L260814F024");
+  function isFormerMarriage(person: Person, owner: Person = center) {
+    const ids = new Set([owner.id, person.id]);
+    const formerPairs = [
+      // Eleanor of Aquitaine x Louis VII — marriage annulled 1152
+      ["cbb11a70-0b0f-40ca-b9c6-95426b904bf6", "6ae9afe1-d639-482e-b9ea-13d27778f842"],
+      // Philippe II Augustus x Agnes of Meran — marriage declared invalid 1201
+      ["7cc009b6-08d8-459b-b40e-2921bf3e4580", "ef872301-2b9a-4b4e-a7d8-0c2529a049db"],
+    ];
+    return formerPairs.some(([a, b]) => ids.has(a) && ids.has(b));
   }
 
   function isNonMaritalPartner(person: Person) {
@@ -602,7 +605,7 @@ export function FamilyTree({
               <path className={`marriage-link ${isFormerMarriage(person) ? "former" : ""} ${isNonMaritalPartner(person) ? "partner" : ""}`} d={`M${centerPoint.x + card.width / 2},${centerPoint.y} H${x - card.width / 2}`} />
               {isFormerMarriage(person) && <text className="marriage-break" x={(centerPoint.x + x) / 2} y={centerPoint.y + 5}>x</text>}
               {isNonMaritalPartner(person) && <text className="partner-mark" x={(centerPoint.x + x) / 2} y={centerPoint.y + 5}>◇</text>}
-              <text className="union-label" x={(centerPoint.x + x) / 2} y={centerPoint.y - 18}>{isFormerMarriage(person) ? t.divorced : isNonMaritalPartner(person) ? t.partner : t.unionLabel}</text>
+              <text className="union-label" x={(centerPoint.x + x) / 2} y={centerPoint.y - 18}>{isFormerMarriage(person) ? t.formerUnion : isNonMaritalPartner(person) ? t.partner : t.unionLabel}</text>
               <PersonNode person={person} x={x} y={y} />
               {spouses.length === 2 ? (
                 <SpouseCycleButton x={x + card.width / 2 + 16} y={y} direction={normalizedSpouseIndex === spouses.length - 1 ? "previous" : "next"} />
@@ -629,9 +632,10 @@ export function FamilyTree({
           )}
           {relatedSpouseNodes.map(({ spouse, owner, x, y }) => (
             <g key={`${owner.person.id}-${spouse.id}`}>
-              <path className={`marriage-link ${owner.person.relationships.partnerIds.includes(spouse.id) ? "partner" : ""}`} d={`M${owner.x + card.width / 2},${owner.y} H${x - card.width / 2}`} />
+              <path className={`marriage-link ${isFormerMarriage(spouse, owner.person) ? "former" : ""} ${owner.person.relationships.partnerIds.includes(spouse.id) ? "partner" : ""}`} d={`M${owner.x + card.width / 2},${owner.y} H${x - card.width / 2}`} />
+              {isFormerMarriage(spouse, owner.person) && <text className="marriage-break" x={(owner.x + x) / 2} y={owner.y + 5}>x</text>}
               {owner.person.relationships.partnerIds.includes(spouse.id) && <text className="partner-mark" x={(owner.x + x) / 2} y={owner.y + 5}>◇</text>}
-              <text className="union-label" x={(owner.x + x) / 2} y={owner.y - 18}>{owner.person.relationships.partnerIds.includes(spouse.id) ? t.partner : t.unionLabel}</text>
+              <text className="union-label" x={(owner.x + x) / 2} y={owner.y - 18}>{isFormerMarriage(spouse, owner.person) ? t.formerUnion : owner.person.relationships.partnerIds.includes(spouse.id) ? t.partner : t.unionLabel}</text>
               <PersonNode person={spouse} x={x} y={y} />
             </g>
           ))}

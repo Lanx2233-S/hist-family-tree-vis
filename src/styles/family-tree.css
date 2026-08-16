@@ -304,6 +304,16 @@
   stroke-width: 2.8;
 }
 
+/* Historical rating: 5–10 keeps the filled card border; 0–3 is an empty card. */
+.person-node.rating-0 rect:not(.selection-glow),
+.person-node.rating-1 rect:not(.selection-glow),
+.person-node.rating-2 rect:not(.selection-glow),
+.person-node.rating-3 rect:not(.selection-glow) {
+  fill: transparent !important;
+  stroke: #b8aa92 !important;
+  stroke-dasharray: 4 4;
+}
+
 .person-node circle {
   fill: #243f3e;
   stroke: #c89b48;

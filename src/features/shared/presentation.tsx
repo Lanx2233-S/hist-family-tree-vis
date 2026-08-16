@@ -90,7 +90,7 @@ export const copy = {
   zoomControls: { en: "Zoom controls", cn: "缩放控制" },
   centerFocus: { en: "Center focused person", cn: "聚焦当前人物" },
   partner: { en: "PARTNER", cn: "伴侣" },
-  divorced: { en: "DIVORCED", cn: "离异" },
+  formerUnion: { en: "FORMER UNION", cn: "前婚" },
   // Page tabs
   pages: { en: "Pages", cn: "页面" },
   homePage: { en: "Home Page", cn: "首页" },
@@ -328,12 +328,14 @@ const heraldryByDynasty: Record<string, string> = {
   "House of Plantagenet": "/images/Plantagenet.png",
   "House of Capet": "/images/Capet.png",
   "House of Poitiers": "/images/Poitiers.png",
+  "Carolingian dynasty": "/images/Charlemagne.png",
+  "House of Wessex": "/images/Wessex.png",
 };
 
 // Geoffrey V's documented blue shield with six gold lions needs its own asset,
 // so do not substitute the later English three-lions arms for him.
 export function heraldryFor(person: Person) {
-  if (person.id === "12G260814V009") return undefined;
+  if (person.id === "cc0cb400-e684-4bdb-b477-9a8fb578f4f5") return undefined;
   const src = heraldryByDynasty[person.dynasty];
   return src ? { src, alt: `${person.dynasty} heraldry` } : undefined;
 }

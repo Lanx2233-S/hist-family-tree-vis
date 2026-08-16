@@ -25,7 +25,7 @@ type FamilyState = {
 
 export const useFamilyStore = create<FamilyState>((set) => ({
   people: peopleData as Person[],
-  selectedId: "11A260814K001",
+  selectedId: "21b5ec21-1812-4731-8b03-721988be302f",
   activeTag: "all",
   activeGender: "all",
   searchQuery: "",

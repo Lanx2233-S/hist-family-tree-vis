@@ -12,21 +12,21 @@ export function ProtagonistPage({ onEnter, onTree }: { onEnter: (id: string) => 
   const [page, setPage] = useState(0);
   const t = copyFor(language);
   const picks = [
-    { id: "09A260815F004", phase: "I", hook: "Wessex Before England", hookCn: "英格兰之前的威塞克斯", toneKey: "pickToneNorman" as const },
-    { id: "11A260814K001", phase: "II", hook: "1066 Norman Conquest", hookCn: "1066 诺曼征服", toneKey: "pickToneNorman" as const },
-    { id: "12E260814A011", phase: "III", hook: "Angevin Empire", hookCn: "安茹帝国", toneKey: "pickToneAngevin" as const },
-    { id: "13E260814W015", phase: "IV", hook: "Plantagenet Main Line", hookCn: "金雀花主支世系", toneKey: "pickTonePlantagenet" as const },
-    { id: "15E260814Y040", phase: "V", hook: "Yorkist Claim", hookCn: "约克王位主张", toneKey: "pickToneYorkist" as const },
-    { id: "16E260815I017", phase: "VI", hook: "Tudor Culmination", hookCn: "都铎巅峰", toneKey: "pickToneTudor" as const },
+    { id: "aed34407-7ca3-4fcc-9255-ce1b908f9b72", phase: "I", hook: "Wessex Before England", hookCn: "英格兰之前的威塞克斯", toneKey: "pickToneNorman" as const },
+    { id: "21b5ec21-1812-4731-8b03-721988be302f", phase: "II", hook: "1066 Norman Conquest", hookCn: "1066 诺曼征服", toneKey: "pickToneNorman" as const },
+    { id: "cbb11a70-0b0f-40ca-b9c6-95426b904bf6", phase: "III", hook: "Angevin Empire", hookCn: "安茹帝国", toneKey: "pickToneAngevin" as const },
+    { id: "f58b655d-8403-4f6d-9d5d-ecffaeaa0b0e", phase: "IV", hook: "Plantagenet Main Line", hookCn: "金雀花主支世系", toneKey: "pickTonePlantagenet" as const },
+    { id: "423d8a6a-a3f5-4502-abc7-5b6943dcfac6", phase: "V", hook: "Yorkist Claim", hookCn: "约克王位主张", toneKey: "pickToneYorkist" as const },
+    { id: "035085c7-f1bd-483a-a2c9-fc9f348170ac", phase: "VI", hook: "Tudor Culmination", hookCn: "都铎巅峰", toneKey: "pickToneTudor" as const },
   ];
   const francePicks = [
-    { id: "07C260817C015", phase: "I", hook: "The Carolingian Empire", hookCn: "加洛林帝国", toneKey: "pickToneCharlemagne" as const },
-    { id: "10L260817L005", phase: "II", hook: "Capetian Consolidation", hookCn: "卡佩王朝巩固", toneKey: "pickToneFrenchLouis" as const },
-    { id: "11P260817P006", phase: "III", hook: "The Augustan Crown", hookCn: "奥古斯都王冠", toneKey: "pickToneFrenchPhilip" as const },
+    { id: "02b8c87d-6e49-4027-a6fa-a92431160a38", phase: "I", hook: "The Carolingian Empire", hookCn: "加洛林帝国", toneKey: "pickToneCharlemagne" as const },
+    { id: "d2dd406e-702b-425c-b3dc-2dcac8e8163d", phase: "II", hook: "Capetian Consolidation", hookCn: "卡佩王朝巩固", toneKey: "pickToneFrenchLouis" as const },
+    { id: "7cc009b6-08d8-459b-b40e-2921bf3e4580", phase: "III", hook: "The Augustan Crown", hookCn: "奥古斯都王冠", toneKey: "pickToneFrenchPhilip" as const },
   ];
   const activePicks = realm === "france" ? francePicks : picks;
-  const visiblePicks = activePicks.slice(page * 3, page * 3 + 3);
-  const pageCount = Math.ceil(activePicks.length / 3);
+  const visiblePicks = activePicks.slice(page * 4, page * 4 + 4);
+  const pageCount = Math.ceil(activePicks.length / 4);
 
   return (
     <main className="protagonist-page">
