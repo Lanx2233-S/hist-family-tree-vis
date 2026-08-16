@@ -20,6 +20,7 @@ type FamilyState = {
   zoomIn: () => void;
   zoomOut: () => void;
   resetZoom: () => void;
+  setZoom: (zoom: number) => void;
 };
 
 export const useFamilyStore = create<FamilyState>((set) => ({
@@ -42,6 +43,9 @@ export const useFamilyStore = create<FamilyState>((set) => ({
   setSearchQuery: (searchQuery) => set({ searchQuery }),
   setLanguage: (language) => set({ language }),
   zoomIn: () => set((state) => ({ zoom: Math.min(1.6, Number((state.zoom + 0.1).toFixed(2))) })),
-  zoomOut: () => set((state) => ({ zoom: Math.max(0.7, Number((state.zoom - 0.1).toFixed(2))) })),
+  zoomOut: () => set((state) => ({ zoom: Math.max(0.5, Number((state.zoom - 0.1).toFixed(2))) })),
   resetZoom: () => set({ zoom: 1 }),
+  // Programmatic zoom used by the fit-to-viewport logic when entering the
+  // tree page; clamped to the same range as the manual controls.
+  setZoom: (zoom) => set({ zoom: Math.min(1.6, Math.max(0.5, Number(zoom.toFixed(2)))) }),
 }));

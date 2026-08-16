@@ -26,6 +26,7 @@ export function FamilyTree({
   const zoomIn = useFamilyStore((state) => state.zoomIn);
   const zoomOut = useFamilyStore((state) => state.zoomOut);
   const resetZoom = useFamilyStore((state) => state.resetZoom);
+  const setZoom = useFamilyStore((state) => state.setZoom);
   const [showParents, setShowParents] = useState(true);
   const [showSpouses, setShowSpouses] = useState(true);
   const [showChildren, setShowChildren] = useState(true);
@@ -242,18 +243,32 @@ export function FamilyTree({
     ...nestedSpouseBranchSpouseNodes,
   ];
 
-  function centerTree() {
+  function centerTree(zoomOverride?: number) {
     const shell = treeShellRef.current;
     if (!shell) return;
-    const targetLeft = Math.max(0, centerPoint.x * zoom - shell.clientWidth / 2);
-    const targetTop = Math.max(0, centerPoint.y * zoom - shell.clientHeight / 2);
+    const scale = zoomOverride ?? zoom;
+    const targetLeft = Math.max(0, centerPoint.x * scale - shell.clientWidth / 2);
+    const targetTop = Math.max(0, centerPoint.y * scale - shell.clientHeight / 2);
     shell.scrollTo({ left: targetLeft, top: targetTop, behavior: "smooth" });
   }
 
-  // Center only when entering the tree page. Expanding a branch must preserve
-  // the user's current viewport; refocusing is an explicit toolbar action.
+  // Fit the canvas to the available viewport width when entering the tree
+  // page. Cards, connectors, and controls all scale together through the SVG
+  // viewBox, so this zoom never distorts card proportions.
+  function fitZoomFor(shellWidth: number) {
+    return Math.min(1, Math.max(0.5, (shellWidth - 32) / width));
+  }
+
+  // Center and fit only when entering the tree page. Expanding a branch must
+  // preserve the user's current viewport; refocusing is an explicit toolbar
+  // action. The fit clamps to [0.5, 1]: never upscaled beyond 100% on large
+  // screens, never shrunk below 50% on narrow ones.
   useEffect(() => {
-    centerTree();
+    const shell = treeShellRef.current;
+    if (!shell) return;
+    const fit = fitZoomFor(shell.clientWidth);
+    setZoom(fit);
+    centerTree(fit);
     // Deliberately exclude layout and selection changes: branch expansion and
     // person selection should never move the viewport without user intent.
     // eslint-disable-next-line react-hooks/exhaustive-deps
@@ -426,7 +441,7 @@ export function FamilyTree({
         <button
           type="button"
           className="tree-focus-button"
-          onClick={centerTree}
+          onClick={() => centerTree()}
           aria-label={t.centerFocus}
           title={t.centerFocus}
         >

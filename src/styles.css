@@ -19,7 +19,7 @@ body {
 
 main {
   min-height: 100vh;
-  padding: 24px;
+  padding: clamp(12px, 2vw, 24px);
   background:
     linear-gradient(90deg, rgba(40, 69, 70, 0.08) 1px, transparent 1px),
     linear-gradient(rgba(40, 69, 70, 0.08) 1px, transparent 1px),
@@ -31,8 +31,8 @@ main {
   position: relative;
   display: grid;
   align-content: start;
-  overflow: hidden;
-  padding: 28px;
+  overflow-x: hidden;
+  padding: clamp(16px, 2.5vw, 28px);
   background:
     radial-gradient(circle at 24% 24%, rgba(183, 139, 67, 0.24), transparent 28%),
     radial-gradient(circle at 78% 18%, rgba(126, 34, 34, 0.18), transparent 30%),
@@ -57,8 +57,7 @@ main {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  max-width: 1180px;
-  width: 100%;
+  width: min(100% - 2rem, 1400px);
   margin: 0 auto;
 }
 
@@ -86,7 +85,7 @@ main {
 }
 
 .page-tabs button {
-  min-width: 104px;
+  min-width: clamp(84px, 12vw, 104px);
   border: 0;
   border-right: 1px solid rgba(139, 107, 67, 0.45);
   background: transparent;
@@ -111,11 +110,12 @@ main {
   position: relative;
   z-index: 1;
   display: grid;
-  grid-template-columns: minmax(280px, 0.85fr) minmax(420px, 1.15fr);
-  gap: 34px;
+  /* Track minimums shrink with the viewport (vw) so the two-column hero
+     never exceeds narrow windows; fr ratios keep desktop proportions. */
+  grid-template-columns: minmax(min(280px, 30vw), 0.85fr) minmax(min(420px, 45vw), 1.15fr);
+  gap: clamp(20px, 3vw, 34px);
   align-items: center;
-  max-width: 1180px;
-  width: 100%;
+  width: min(100% - 2rem, 1400px);
   min-height: calc(100vh - 110px);
   margin: 0 auto;
 }
@@ -241,7 +241,7 @@ main {
 }
 
 .realm-empty {
-  min-height: 500px;
+  min-height: clamp(280px, 55vh, 500px);
   display: grid;
   align-content: center;
   justify-items: start;
@@ -266,6 +266,7 @@ main {
 
 .protagonist-grid {
   display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(230px, 100%), 1fr));
   gap: 18px;
 }
 
@@ -424,6 +425,7 @@ main {
   display: flex;
   align-items: end;
   justify-content: space-between;
+  flex-wrap: wrap;
   gap: 20px;
   max-width: 1440px;
   margin: 0 auto 18px;
@@ -433,6 +435,10 @@ main {
   display: grid;
   justify-items: end;
   gap: 10px;
+  /* Keep the controls right-aligned even when the toolbar wraps onto a
+     second row, so popovers anchored at the toolbar edge stay inside the
+     viewport. */
+  margin-left: auto;
 }
 
 .eyebrow {
@@ -560,9 +566,16 @@ h1 {
   position: absolute;
   z-index: 20;
   top: calc(100% + 8px);
-  right: 0;
+  /* Anchor to the search box's left edge. The desktop toolbar wraps when the
+     heading and controls do not fit on one line, which places the controls
+     (and the search box) on the left side of the viewport; a right-anchored
+     popover then extends past the viewport's left edge. Left-anchoring keeps
+     the popover fully inside the viewport in both the wrapped and the
+     right-aligned (unwrapped) toolbar layouts. */
+  left: 0;
+  right: auto;
   display: grid;
-  width: 290px;
+  width: min(290px, calc(100vw - 28px));
   max-height: 330px;
   overflow: auto;
   gap: 5px;
@@ -696,7 +709,7 @@ h1 {
   top: calc(100% + 8px);
   right: 0;
   display: grid;
-  width: 220px;
+  width: min(220px, calc(100vw - 28px));
   max-height: 320px;
   overflow: auto;
   gap: 6px;
@@ -708,7 +721,7 @@ h1 {
 }
 
 .filter-popover.compact {
-  width: 170px;
+  width: min(170px, calc(100vw - 28px));
 }
 
 .filter-popover input {
@@ -729,7 +742,10 @@ h1 {
 
 .workspace {
   display: grid;
-  grid-template-columns: minmax(0, 1fr) 360px;
+  /* Detail panel scales with the viewport instead of staying a fixed 360px,
+     so the tree keeps its space between the 980px collapse point and
+     large-desktop widths. */
+  grid-template-columns: minmax(0, 1fr) minmax(clamp(280px, 26vw, 360px), 360px);
   gap: 18px;
   max-width: 1440px;
   margin: 0 auto;
@@ -746,7 +762,8 @@ h1 {
 .tree-shell {
   position: relative;
   height: calc(100vh - 158px);
-  min-height: 620px;
+  height: calc(100dvh - 158px);
+  min-height: 360px;
   overflow: auto;
   scrollbar-gutter: stable;
   scrollbar-color: rgba(139, 107, 67, 0.72) rgba(255, 248, 232, 0.55);
@@ -775,7 +792,7 @@ h1 {
 
 .tree-shell svg {
   width: 100%;
-  height: 650px;
+  height: auto;
 }
 
 .zoom-controls {
@@ -1617,7 +1634,7 @@ dd {
 
 .timeline-list li {
   display: grid;
-  grid-template-columns: 98px 1fr;
+  grid-template-columns: minmax(70px, 98px) 1fr;
   gap: 18px;
   border-left: 2px solid rgba(139, 107, 67, 0.32);
   padding: 0 0 16px 16px;
@@ -1713,6 +1730,7 @@ dd {
 
   .toolbar-controls {
     justify-items: start;
+    margin-left: 0;
   }
 
   .workspace {
@@ -1721,5 +1739,42 @@ dd {
 
   .detail-panel {
     order: -1;
+  }
+
+  /* The search popover is left-anchored at all widths; the filter popovers
+     are right-anchored for the desktop toolbar, so with the stacked,
+     left-aligned toolbar here, re-anchor them to the left edge so they
+     cannot overflow the viewport. */
+  .people-search-popover,
+  .filter-popover {
+    left: 0;
+    right: auto;
+  }
+
+  /* The stacked toolbar is taller than the 158px desktop assumption, so the
+     shell derives its height from the viewport instead of a fixed offset. */
+  .tree-shell {
+    height: max(320px, 55dvh);
+  }
+}
+
+@media (max-width: 560px) {
+  .person-form-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .protagonist-card {
+    min-height: 230px;
+    padding: 18px;
+  }
+
+  .timeline-list li {
+    grid-template-columns: minmax(56px, 70px) 1fr;
+    gap: 10px;
+    padding-left: 10px;
+  }
+
+  .modal-backdrop {
+    padding: 12px;
   }
 }
