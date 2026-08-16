@@ -1,25 +1,32 @@
 import { useState } from "react";
 import { useFamilyStore } from "../store";
 import { genderMark, initials, titleTier, years } from "../lib/personPresentation";
-import { copyFor, textFor } from "../features/shared/presentation";
+import { copyFor, heraldryFor, textFor } from "../features/shared/presentation";
 import { PageTabs } from "../components/PageTabs";
 
 export function ProtagonistPage({ onEnter, onTree }: { onEnter: (id: string) => void; onTree: () => void }) {
   const people = useFamilyStore((state) => state.people);
   const setLanguage = useFamilyStore((state) => state.setLanguage);
   const language = useFamilyStore((state) => state.language);
-  const [realm, setRealm] = useState<"england" | "france">("england");
+  const [realm, setRealm] = useState<"england" | "france" | null>(null);
   const [page, setPage] = useState(0);
   const t = copyFor(language);
   const picks = [
-    { id: "11A260814K001", phase: "I", hook: "1066 Norman Conquest", hookCn: "1066 诺曼征服", toneKey: "pickToneNorman" as const },
-    { id: "12E260814A011", phase: "II", hook: "Angevin Empire", hookCn: "安茹帝国", toneKey: "pickToneAngevin" as const },
-    { id: "13E260814W015", phase: "III", hook: "Plantagenet Main Line", hookCn: "金雀花主支世系", toneKey: "pickTonePlantagenet" as const },
-    { id: "15E260814Y040", phase: "IV", hook: "Yorkist Claim", hookCn: "约克王位主张", toneKey: "pickToneYorkist" as const },
-    { id: "16E260815I017", phase: "V", hook: "Tudor Culmination", hookCn: "都铎巅峰", toneKey: "pickToneTudor" as const },
+    { id: "09A260815F004", phase: "I", hook: "Wessex Before England", hookCn: "英格兰之前的威塞克斯", toneKey: "pickToneNorman" as const },
+    { id: "11A260814K001", phase: "II", hook: "1066 Norman Conquest", hookCn: "1066 诺曼征服", toneKey: "pickToneNorman" as const },
+    { id: "12E260814A011", phase: "III", hook: "Angevin Empire", hookCn: "安茹帝国", toneKey: "pickToneAngevin" as const },
+    { id: "13E260814W015", phase: "IV", hook: "Plantagenet Main Line", hookCn: "金雀花主支世系", toneKey: "pickTonePlantagenet" as const },
+    { id: "15E260814Y040", phase: "V", hook: "Yorkist Claim", hookCn: "约克王位主张", toneKey: "pickToneYorkist" as const },
+    { id: "16E260815I017", phase: "VI", hook: "Tudor Culmination", hookCn: "都铎巅峰", toneKey: "pickToneTudor" as const },
   ];
-  const visiblePicks = picks.slice(page * 3, page * 3 + 3);
-  const pageCount = Math.ceil(picks.length / 3);
+  const francePicks = [
+    { id: "07C260817C015", phase: "I", hook: "The Carolingian Empire", hookCn: "加洛林帝国", toneKey: "pickToneCharlemagne" as const },
+    { id: "10L260817L005", phase: "II", hook: "Capetian Consolidation", hookCn: "卡佩王朝巩固", toneKey: "pickToneFrenchLouis" as const },
+    { id: "11P260817P006", phase: "III", hook: "The Augustan Crown", hookCn: "奥古斯都王冠", toneKey: "pickToneFrenchPhilip" as const },
+  ];
+  const activePicks = realm === "france" ? francePicks : picks;
+  const visiblePicks = activePicks.slice(page * 3, page * 3 + 3);
+  const pageCount = Math.ceil(activePicks.length / 3);
 
   return (
     <main className="protagonist-page">
@@ -39,30 +46,38 @@ export function ProtagonistPage({ onEnter, onTree }: { onEnter: (id: string) => 
           <h1>{t.chooseYourHistoricalFocus}</h1>
           <p>{t.startFromFeaturedRuler}</p>
           <div className="realm-entrances" aria-label={t.historicalRegions}>
-            <button type="button" className={`realm-entry ${realm === "england" ? "active" : ""}`} onClick={() => { setRealm("england"); setPage(0); }}>
+            <button type="button" aria-expanded={realm === "england"} className={`realm-entry ${realm === "england" ? "active" : ""}`} onClick={() => { setRealm(realm === "england" ? null : "england"); setPage(0); }}>
               <span className="realm-entry-kicker">{t.realm} I</span>
               <strong>{t.england}</strong>
               <span>{t.englandLines}</span>
             </button>
-            <button type="button" className={`realm-entry ${realm === "france" ? "active" : ""}`} onClick={() => { setRealm("france"); setPage(0); }}>
+            <button type="button" aria-expanded={realm === "france"} className={`realm-entry ${realm === "france" ? "active" : ""}`} onClick={() => { setRealm(realm === "france" ? null : "france"); setPage(0); }}>
               <span className="realm-entry-kicker">{t.realm} II</span>
               <strong>{t.france}</strong>
-              <span>{t.collectionOpeningSoon}</span>
+              <span>{t.frenchLines}</span>
             </button>
           </div>
         </div>
-        <div className="protagonist-selection">
-          {realm === "england" ? <>
-            <div className="realm-heading"><span>{t.england}</span><small>{page + 1} / {pageCount}</small></div>
+        {realm && <div className="protagonist-selection">
+          {<>
+            <div className="realm-heading"><span>{realm === "france" ? t.france : t.england}</span><small>{page + 1} / {pageCount}</small></div>
             <div className="protagonist-grid">
           {visiblePicks.map((pick) => {
             const person = people.find((item) => item.id === pick.id);
             if (!person) return null;
             const label = textFor(person, language);
+            const heraldry = heraldryFor(person);
             return (
               <button key={pick.id} type="button" className={`protagonist-card tier-${titleTier(person)}`} onClick={() => onEnter(person.id)}>
                 <span className="phase-badge">{t.phase} {pick.phase}</span>
                 <span className={`protagonist-gender ${person.gender}`}>{genderMark(person)}</span>
+                {heraldry && (
+                  <img
+                    className="protagonist-heraldry"
+                    src={heraldry.src}
+                    alt={heraldry.alt}
+                  />
+                )}
                 <span className="protagonist-avatar">{initials(person, language)}</span>
                 <span className="protagonist-name">{label.fullName}</span>
                 <span className="protagonist-title">{label.primaryTitle} · {years(person)}</span>
@@ -74,12 +89,12 @@ export function ProtagonistPage({ onEnter, onTree }: { onEnter: (id: string) => 
           })}
             </div>
             <div className="protagonist-pagination">
-              <button type="button" onClick={() => setPage((value) => Math.max(0, value - 1))} disabled={page === 0} aria-label={t.previousEnglandProtagonists}>←</button>
+              <button type="button" onClick={() => setPage((value) => Math.max(0, value - 1))} disabled={page === 0} aria-label={t.previousProtagonists}>←</button>
               <span>{t.featuredFigures}</span>
-              <button type="button" onClick={() => setPage((value) => Math.min(pageCount - 1, value + 1))} disabled={page === pageCount - 1} aria-label={t.nextEnglandProtagonists}>→</button>
+              <button type="button" onClick={() => setPage((value) => Math.min(pageCount - 1, value + 1))} disabled={page === pageCount - 1} aria-label={t.nextProtagonists}>→</button>
             </div>
-          </> : <div className="realm-empty"><span className="realm-entry-kicker">{t.france}</span><h2>{t.frenchFamilyTrees}</h2><p>{t.realmReserved}</p><button type="button" onClick={() => setRealm("england")}>{t.returnToEngland}</button></div>}
-        </div>
+          </>}
+        </div>}
       </section>
     </main>
   );

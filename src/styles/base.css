@@ -1,0 +1,45 @@
+/* The three @tailwind directives originally headed src/styles.css and are
+   kept in this earliest-imported stylesheet so the generated Tailwind base /
+   components / utilities CSS lands ahead of every project rule in the final
+   bundle, exactly as in the original single file (only the :root token block
+   from tokens.css, which outranks Tailwind's html rule by specificity,
+   precedes it). */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  min-width: 320px;
+  margin: 0;
+}
+
+h1,
+h2,
+h3 {
+  margin: 0;
+  font-family: Georgia, Cambria, "Times New Roman", serif;
+  letter-spacing: 0;
+}
+
+h1 {
+  font-size: clamp(32px, 5vw, 64px);
+  line-height: 0.95;
+}
+
+dt {
+  color: #7a321f;
+  font-size: 11px;
+  font-weight: 900;
+  text-transform: uppercase;
+}
+
+dd {
+  margin: 4px 0 0;
+  color: #2f2117;
+  font-size: 13px;
+  font-weight: 650;
+}

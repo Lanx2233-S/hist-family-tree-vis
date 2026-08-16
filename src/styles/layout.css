@@ -1,0 +1,20 @@
+main {
+  min-height: 100vh;
+  padding: clamp(12px, 2vw, 24px);
+  background:
+    linear-gradient(90deg, rgba(40, 69, 70, 0.08) 1px, transparent 1px),
+    linear-gradient(rgba(40, 69, 70, 0.08) 1px, transparent 1px),
+    #efe4d0;
+  background-size: 34px 34px;
+}
+
+.workspace {
+  display: grid;
+  /* Detail panel scales with the viewport instead of staying a fixed 360px,
+     so the tree keeps its space between the 980px collapse point and
+     large-desktop widths. */
+  grid-template-columns: minmax(0, 1fr) minmax(clamp(280px, 26vw, 360px), 360px);
+  gap: 18px;
+  max-width: 1440px;
+  margin: 0 auto;
+}

@@ -105,10 +105,13 @@ export const copy = {
   england: { en: "England", cn: "英格兰" },
   france: { en: "France", cn: "法兰西" },
   englandLines: { en: "Norman, Plantagenet, Yorkist, and Tudor lines", cn: "诺曼、金雀花、约克与都铎世系" },
+  frenchLines: { en: "Capetian, Valois, and Bourbon lines", cn: "卡佩、瓦卢瓦与波旁世系" },
   collectionOpeningSoon: { en: "Collection opening soon", cn: "即将开放" },
   featuredFigures: { en: "Featured figures", cn: "精选人物" },
   previousEnglandProtagonists: { en: "Previous England protagonists", cn: "上一组英格兰主角" },
   nextEnglandProtagonists: { en: "Next England protagonists", cn: "下一组英格兰主角" },
+  previousProtagonists: { en: "Previous protagonists", cn: "上一组主角" },
+  nextProtagonists: { en: "Next protagonists", cn: "下一组主角" },
   frenchFamilyTrees: { en: "French family trees", cn: "法国家族树" },
   realmReserved: { en: "This realm is reserved for the next collection.", cn: "此区域保留给下一批收藏。" },
   returnToEngland: { en: "Return to England", cn: "返回英格兰" },
@@ -119,6 +122,9 @@ export const copy = {
   pickTonePlantagenet: { en: "From Edward I through Edward III, the Black Prince, and Richard II.", cn: "从爱德华一世经爱德华三世、黑太子，到理查二世。" },
   pickToneYorkist: { en: "The Clarence-Mortimer line into Edward IV and the Wars of the Roses.", cn: "克莱伦斯—莫蒂默世系通向爱德华四世与玫瑰战争。" },
   pickToneTudor: { en: "From the Yorkist succession to the last Tudor monarch and the Elizabethan age.", cn: "从约克继承到末代都铎君主与伊丽莎白时代。" },
+  pickToneFrenchLouis: { en: "The Capetian crown takes root around Paris and the royal domain begins to consolidate.", cn: "卡佩王冠在巴黎周边扎根，王室领地开始逐步巩固。" },
+  pickToneFrenchPhilip: { en: "Philip Augustus turns the Capetian monarchy into a dominant French power.", cn: "腓力·奥古斯都将卡佩王权塑造成法兰西的主导力量。" },
+  pickToneCharlemagne: { en: "The Frankish kingdom becomes a Carolingian empire spanning western Europe.", cn: "法兰克王国扩展为横跨西欧的加洛林帝国。" },
   // Person form
   databaseEntry: { en: "DATABASE ENTRY", cn: "数据库条目" },
   addPersonTitle: { en: "Add person", cn: "添加人物" },
@@ -315,6 +321,21 @@ export function faithCn(faith: string) {
 
 export function dynastyCn(dynasty: string) {
   return dynastyCnMap[dynasty] ?? dynasty;
+}
+
+const heraldryByDynasty: Record<string, string> = {
+  "House of Normandy": "/images/Normandy.png",
+  "House of Plantagenet": "/images/Plantagenet.png",
+  "House of Capet": "/images/Capet.png",
+  "House of Poitiers": "/images/Poitiers.png",
+};
+
+// Geoffrey V's documented blue shield with six gold lions needs its own asset,
+// so do not substitute the later English three-lions arms for him.
+export function heraldryFor(person: Person) {
+  if (person.id === "12G260814V009") return undefined;
+  const src = heraldryByDynasty[person.dynasty];
+  return src ? { src, alt: `${person.dynasty} heraldry` } : undefined;
 }
 
 // The single source of localized person display. In CN mode every field uses

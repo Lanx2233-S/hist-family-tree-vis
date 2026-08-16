@@ -1,0 +1,10 @@
+/* person-card.css
+   The original stylesheet has no generic person-card layer that is shared
+   across pages, so this file intentionally contains no rules:
+   - .protagonist-card and its tier variants (HTML cards on the home page)
+     live in protagonist.css
+   - .person-node, .gender-mark, .avatar-text and the legitimacy markers
+     (SVG tree nodes) live in family-tree.css
+   - .portrait / .portrait-gender (DetailPanel avatar) live in
+     detail-panel.css
+   The file is kept so the main.css @import list stays stable. */

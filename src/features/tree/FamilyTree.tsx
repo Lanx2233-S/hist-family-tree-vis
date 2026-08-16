@@ -1,7 +1,7 @@
 ﻿import { useEffect, useRef, useState } from "react";
 import { useFamilyStore } from "../../store";
 import type { Person } from "../../types";
-import { copyFor, fillCopy, genderMark, initials, nodeNameLines, sortPeopleByBirth, textFor, titleTier, years, type Language } from "../shared/presentation";
+import { copyFor, fillCopy, genderMark, heraldryFor, initials, nodeNameLines, sortPeopleByBirth, textFor, titleTier, years, type Language } from "../shared/presentation";
 export function FamilyTree({
   onHome,
   onBack,
@@ -42,6 +42,7 @@ export function FamilyTree({
   const nameOf = (person: Person) => textFor(person, language).displayName;
   const byId = new Map(people.map((person) => [person.id, person]));
   const center = byId.get(selectedId) ?? byId.get("11A260814K001") ?? people[0];
+  const heraldry = heraldryFor(center);
   function ancestorFor(person: Person) {
     const father = byId.get(person.relationships.fatherId);
     const mother = byId.get(person.relationships.motherId);
@@ -452,7 +453,16 @@ export function FamilyTree({
         <button type="button" onClick={onBack} disabled={!canBack}>{t.back}</button>
         <button type="button" onClick={onHome}>{t.home}</button>
       </div>
-      <svg viewBox={`0 0 ${width} ${height}`} role="img" style={{ width: `${width * zoom}px`, height: `${height * zoom}px` }}>
+      <div className="tree-canvas" style={{ width: `${width * zoom}px`, height: `${height * zoom}px` }}>
+        {heraldry && (
+          <img
+            className="tree-corner-portrait"
+            src={heraldry.src}
+            alt={heraldry.alt}
+            onError={(event) => { event.currentTarget.hidden = true; }}
+          />
+        )}
+        <svg viewBox={`0 0 ${width} ${height}`} role="img" style={{ width: `${width * zoom}px`, height: `${height * zoom}px` }}>
         <g>
           <circle className="union-dot" cx={centerPoint.x} cy="44" r="7" />
           <text className="union-label" x={centerPoint.x} y="68">{t.rootLabel}</text>
@@ -661,7 +671,8 @@ export function FamilyTree({
             <BranchToggle key={person.id} x={centerPoint.x + 42 + index * 34} y={childSpineY} expanded={false} onClick={() => setHiddenChildren((current) => ({ ...current, [person.id]: false }))} label={`${t.show} ${nameOf(person)}`} />
           ))}
         </g>
-      </svg>
+        </svg>
+      </div>
       <div className="generation-controls" aria-label={t.generationDepth}>
         <button
           type="button"
@@ -707,6 +718,3 @@ export function FamilyTree({
     </section>
   );
 }
-
-
-

@@ -1,0 +1,282 @@
+.page-tabs {
+  position: relative;
+  z-index: 20;
+  display: inline-flex;
+  overflow: hidden;
+  max-width: 1440px;
+  margin: 0 auto 14px;
+  border: 1px solid #8b6b43;
+  border-radius: 8px;
+  background: #fff8e8;
+  box-shadow: 0 8px 24px rgba(55, 35, 20, 0.12);
+}
+
+.protagonist-topbar .page-tabs {
+  margin: 0;
+}
+
+.page-tabs button {
+  min-width: clamp(84px, 12vw, 104px);
+  border: 0;
+  border-right: 1px solid rgba(139, 107, 67, 0.45);
+  background: transparent;
+  color: #332115;
+  cursor: pointer;
+  font: inherit;
+  font-size: 12px;
+  font-weight: 900;
+  padding: 10px 13px;
+}
+
+.page-tabs button:last-child {
+  border-right: 0;
+}
+
+.page-tabs button.active {
+  background: #243f3e;
+  color: #fff8e8;
+}
+
+.page-switch {
+  position: fixed;
+  z-index: 20;
+  right: 24px;
+  bottom: 24px;
+  border: 1px solid #8b6b43;
+  border-radius: 999px;
+  background: #243f3e;
+  color: #fff8e8;
+  cursor: pointer;
+  font: inherit;
+  font-size: 12px;
+  font-weight: 900;
+  padding: 10px 14px;
+  box-shadow: 0 12px 32px rgba(55, 35, 20, 0.22);
+}
+
+.toolbar {
+  display: flex;
+  align-items: end;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 20px;
+  max-width: 1440px;
+  margin: 0 auto 18px;
+}
+
+.toolbar-controls {
+  display: grid;
+  justify-items: end;
+  gap: 10px;
+  /* Keep the controls right-aligned even when the toolbar wraps onto a
+     second row, so popovers anchored at the toolbar edge stay inside the
+     viewport. */
+  margin-left: auto;
+}
+
+.eyebrow {
+  margin: 0 0 6px;
+  color: #7a321f;
+  font-size: 12px;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.filter-bar,
+.filters,
+.language-toggle {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: end;
+  gap: 8px;
+}
+
+.filter-bar {
+  align-items: center;
+  position: relative;
+}
+
+.filters button,
+.filter-bar button,
+.language-toggle button,
+.wiki-link {
+  border: 1px solid #8b6b43;
+  border-radius: 7px;
+  background: #fff8e8;
+  color: #332115;
+  cursor: pointer;
+  font: inherit;
+  font-size: 13px;
+  font-weight: 700;
+  padding: 9px 12px;
+}
+
+.language-toggle {
+  flex-wrap: nowrap;
+  gap: 0;
+  overflow: hidden;
+  border: 1px solid #8b6b43;
+  border-radius: 8px;
+  background: #fff8e8;
+}
+
+.language-toggle button {
+  min-width: 46px;
+  border: 0;
+  border-radius: 0;
+  background: transparent;
+  transition: background-color 180ms ease, color 180ms ease;
+}
+
+.filter-bar button,
+.filters button {
+  transition: background-color 180ms ease, color 180ms ease, border-color 180ms ease;
+}
+
+.filters button.active,
+.filter-bar button.active,
+.language-toggle button.active {
+  background: #243f3e;
+  border-color: #243f3e;
+  color: #fff8e8;
+}
+
+.search-field {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  width: 190px;
+  border: 1px solid #8b6b43;
+  border-radius: 7px;
+  background: #fff8e8;
+  color: #7a321f;
+  padding: 0 10px;
+}
+
+.search-field span {
+  font-size: 17px;
+  font-weight: 900;
+}
+
+.search-field input {
+  width: 100%;
+  min-width: 0;
+  border: 0;
+  outline: 0;
+  background: transparent;
+  color: #332115;
+  font: inherit;
+  font-size: 13px;
+  font-weight: 800;
+  padding: 10px 0;
+}
+
+.add-person-button {
+  border-color: #243f3e;
+  background: #243f3e;
+  color: #fff8e8;
+}
+
+.people-search {
+  position: relative;
+}
+
+.people-search-popover {
+  position: absolute;
+  z-index: 20;
+  top: calc(100% + 8px);
+  /* Anchor to the search box's left edge. The desktop toolbar wraps when the
+     heading and controls do not fit on one line, which places the controls
+     (and the search box) on the left side of the viewport; a right-anchored
+     popover then extends past the viewport's left edge. Left-anchoring keeps
+     the popover fully inside the viewport in both the wrapped and the
+     right-aligned (unwrapped) toolbar layouts. */
+  left: 0;
+  right: auto;
+  display: grid;
+  width: min(290px, calc(100vw - 28px));
+  max-height: 330px;
+  overflow: auto;
+  gap: 5px;
+  border: 1px solid rgba(73, 50, 31, 0.34);
+  border-radius: 8px;
+  background: #fff8e8;
+  box-shadow: 0 18px 46px rgba(55, 35, 20, 0.2);
+  padding: 8px;
+}
+
+.people-search-popover button {
+  display: grid;
+  gap: 3px;
+  width: 100%;
+  border: 1px solid transparent;
+  border-radius: 6px;
+  background: transparent;
+  color: #332115;
+  padding: 9px 10px;
+  text-align: left;
+}
+
+.people-search-popover button:hover,
+.people-search-popover button:focus-visible {
+  border-color: #8b6b43;
+  background: #f5e5bd;
+  outline: 0;
+}
+
+.people-search-popover strong {
+  font-size: 14px;
+}
+
+.people-search-popover small,
+.people-search-empty {
+  color: #7a321f;
+  font-size: 12px;
+  font-weight: 700;
+}
+
+.people-search-empty {
+  margin: 5px 3px;
+}
+
+.popup-filter {
+  position: relative;
+}
+
+.filter-popover {
+  position: absolute;
+  z-index: 12;
+  top: calc(100% + 8px);
+  right: 0;
+  display: grid;
+  width: min(220px, calc(100vw - 28px));
+  max-height: 320px;
+  overflow: auto;
+  gap: 6px;
+  border: 1px solid rgba(73, 50, 31, 0.34);
+  border-radius: 8px;
+  background: #fff8e8;
+  box-shadow: 0 18px 46px rgba(55, 35, 20, 0.18);
+  padding: 10px;
+}
+
+.filter-popover.compact {
+  width: min(170px, calc(100vw - 28px));
+}
+
+.filter-popover input {
+  border: 1px solid #8b6b43;
+  border-radius: 7px;
+  background: rgba(255, 255, 255, 0.38);
+  color: #332115;
+  font: inherit;
+  font-size: 13px;
+  font-weight: 800;
+  padding: 8px 9px;
+}
+
+.filter-popover button {
+  width: 100%;
+  text-align: left;
+}

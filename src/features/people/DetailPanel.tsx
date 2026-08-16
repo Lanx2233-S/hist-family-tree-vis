@@ -1,7 +1,7 @@
 ﻿import { useState } from "react";
 import { useFamilyStore } from "../../store";
 import type { PersonEvent } from "../../types";
-import { byImportance, copyFor, DeathCauseButton, eventAge, eventDateText, eventDateValue, eventLabelText, eventTagText, EventNote, genderMark, initials, lifespan, shortEnglishName, tagText, textFor, years, type Language } from "../shared/presentation";
+import { byImportance, copyFor, DeathCauseButton, eventAge, eventDateText, eventDateValue, eventLabelText, eventTagText, EventNote, genderMark, heraldryFor, initials, lifespan, shortEnglishName, tagText, textFor, years, type Language } from "../shared/presentation";
 export function DetailPanel() {
   const people = useFamilyStore((state) => state.people);
   const selectedId = useFamilyStore((state) => state.selectedId);
@@ -11,6 +11,7 @@ export function DetailPanel() {
   const person = people.find((item) => item.id === selectedId) ?? people[0];
   const t = copyFor(language);
   const label = textFor(person, language);
+  const heraldry = heraldryFor(person);
   const topEvents = byImportance(person.events).slice(0, 3).sort((a, b) => eventDateValue(a) - eventDateValue(b));
   const timelineEvents = [...person.events].sort((a, b) => eventDateValue(a) - eventDateValue(b));
   const eventTags = Array.from(new Set(person.events.flatMap((event) => event.tags ?? [event.type])));
@@ -22,6 +23,9 @@ export function DetailPanel() {
         <div className="portrait">{initials(person, language)}</div>
         <span className={`portrait-gender ${person.gender}`}>{genderMark(person)}</span>
       </div>
+      {heraldry && (
+        <img className="detail-heraldry" src={heraldry.src} alt={heraldry.alt} />
+      )}
       <p className="eyebrow">{label.dynasty}</p>
       <h2>{label.fullName}</h2>
       <div className="subtitle">
@@ -95,5 +99,3 @@ export function DetailPanel() {
     </aside>
   );
 }
-
-

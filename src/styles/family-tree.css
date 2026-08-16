@@ -1,0 +1,508 @@
+/* Shared heraldry rule: the same mix-blend-mode applies to the protagonist
+   page coat-of-arms, the DetailPanel coat-of-arms (.detail-heraldry lives in
+   detail-panel.css) and the tree-corner portrait. Kept here first so it stays
+   before every rule that sets other (non-overlapping) properties on these
+   elements, mirroring its position in the original single file. */
+.protagonist-heraldry,
+.detail-heraldry,
+.tree-corner-portrait {
+  /* The supplied heraldry images use white canvases. Multiply makes that
+     white blend into the parchment while preserving the coloured charges. */
+  mix-blend-mode: multiply;
+}
+
+.tree-shell,
+.detail-panel {
+  border: 1px solid rgba(73, 50, 31, 0.34);
+  border-radius: 8px;
+  background: rgba(255, 248, 232, 0.82);
+  box-shadow: 0 18px 50px rgba(55, 35, 20, 0.12);
+}
+
+.tree-shell {
+  position: relative;
+  height: calc(100vh - 158px);
+  height: calc(100dvh - 158px);
+  min-height: 360px;
+  overflow: auto;
+  scrollbar-gutter: stable;
+  scrollbar-color: rgba(139, 107, 67, 0.72) rgba(255, 248, 232, 0.55);
+  scrollbar-width: thin;
+}
+
+.tree-shell::-webkit-scrollbar {
+  width: 9px;
+  height: 9px;
+}
+
+.tree-shell::-webkit-scrollbar-track {
+  border-radius: 999px;
+  background: rgba(255, 248, 232, 0.58);
+}
+
+.tree-shell::-webkit-scrollbar-thumb {
+  border: 2px solid rgba(255, 248, 232, 0.7);
+  border-radius: 999px;
+  background: rgba(139, 107, 67, 0.78);
+}
+
+.tree-shell::-webkit-scrollbar-thumb:hover {
+  background: rgba(122, 50, 31, 0.82);
+}
+
+.tree-shell svg {
+  width: 100%;
+  height: auto;
+}
+
+.tree-canvas {
+  position: relative;
+}
+
+.tree-canvas svg {
+  display: block;
+}
+
+.zoom-controls {
+  position: sticky;
+  z-index: 5;
+  top: 12px;
+  left: 12px;
+  display: inline-flex;
+  overflow: hidden;
+  margin: 12px 0 0 12px;
+  border: 1px solid #8b6b43;
+  border-radius: 8px;
+  background: #fff8e8;
+  box-shadow: 0 8px 24px rgba(55, 35, 20, 0.14);
+}
+
+.tree-nav-controls {
+  position: absolute;
+  z-index: 5;
+  top: 58px;
+  left: 12px;
+  display: inline-flex;
+  overflow: hidden;
+  margin: 8px 0 0 12px;
+  border: 1px solid #8b6b43;
+  border-radius: 8px;
+  background: #fff8e8;
+  box-shadow: 0 8px 24px rgba(55, 35, 20, 0.14);
+}
+
+.tree-nav-controls button {
+  min-width: 58px;
+  border: 0;
+  border-right: 1px solid rgba(139, 107, 67, 0.45);
+  background: transparent;
+  color: #332115;
+  cursor: pointer;
+  font: inherit;
+  font-size: 12px;
+  font-weight: 900;
+  padding: 9px 10px;
+}
+
+.tree-nav-controls button:last-child {
+  border-right: 0;
+}
+
+.tree-nav-controls button:hover:not(:disabled) {
+  background: #e7d2aa;
+}
+
+.tree-nav-controls button:disabled {
+  cursor: not-allowed;
+  opacity: 0.42;
+}
+
+.tree-corner-portrait {
+  position: absolute;
+  z-index: 4;
+  top: 14px;
+  right: 14px;
+  width: clamp(72px, 9vw, 126px);
+  height: clamp(90px, 11.25vw, 158px);
+  object-fit: contain;
+  object-position: center;
+}
+
+.generation-controls {
+  position: sticky;
+  z-index: 5;
+  bottom: 12px;
+  left: 12px;
+  display: inline-flex;
+  overflow: hidden;
+  margin: 0 0 12px 12px;
+  border: 1px solid #8b6b43;
+  border-radius: 8px;
+  background: #fff8e8;
+  box-shadow: 0 8px 24px rgba(55, 35, 20, 0.14);
+}
+
+.generation-controls button,
+.generation-controls span {
+  min-width: 42px;
+  border: 0;
+  border-right: 1px solid rgba(139, 107, 67, 0.45);
+  background: transparent;
+  color: #332115;
+  font: inherit;
+  font-size: 13px;
+  font-weight: 900;
+  padding: 9px 10px;
+}
+
+.generation-controls button {
+  cursor: pointer;
+}
+
+.generation-controls span {
+  min-width: 64px;
+  text-align: center;
+}
+
+.generation-controls button:last-child {
+  border-right: 0;
+}
+
+.generation-controls button:hover {
+  background: #e7d2aa;
+}
+
+.zoom-controls button {
+  min-width: 42px;
+  border: 0;
+  border-right: 1px solid rgba(139, 107, 67, 0.45);
+  background: transparent;
+  color: #332115;
+  cursor: pointer;
+  font: inherit;
+  font-size: 13px;
+  font-weight: 900;
+  padding: 9px 10px;
+}
+
+.zoom-controls button:last-child {
+  border-right: 0;
+}
+
+.zoom-controls button:hover {
+  background: #e7d2aa;
+}
+
+.tree-link {
+  fill: none;
+  stroke: #8b6b43;
+  stroke-width: 2;
+}
+
+.marriage-link {
+  fill: none;
+  stroke: #7a321f;
+  stroke-width: 2.6;
+}
+
+.marriage-link.former {
+  stroke-dasharray: 28 8 4 8 28;
+}
+
+.marriage-link.partner {
+  stroke: #2f2f2f;
+  stroke-dasharray: 1 9;
+  stroke-linecap: round;
+}
+
+.marriage-break {
+  fill: #7a321f;
+  font-size: 14px;
+  font-weight: 900;
+  text-anchor: middle;
+  text-transform: uppercase;
+}
+
+.partner-mark {
+  fill: #2f2f2f;
+  font-size: 15px;
+  font-weight: 900;
+  text-anchor: middle;
+}
+
+.spouse-cycle-button {
+  display: grid;
+  width: 26px;
+  height: 26px;
+  place-items: center;
+  border: 1px solid #8b6b43;
+  border-radius: 999px;
+  background: #fff8e8;
+  color: #7a321f;
+  cursor: pointer;
+  font: inherit;
+  font-size: 15px;
+  font-weight: 900;
+  line-height: 1;
+  box-shadow: 0 5px 12px rgba(55, 35, 20, 0.16);
+}
+
+.spouse-cycle-button:hover {
+  background: #e7d2aa;
+}
+
+.union-dot {
+  fill: #7a321f;
+}
+
+.branch-toggle {
+  display: grid;
+  width: 24px;
+  height: 24px;
+  place-items: center;
+  border: 1px solid #8b6b43;
+  border-radius: 999px;
+  background: #fff8e8;
+  color: #7a321f;
+  cursor: pointer;
+  font: inherit;
+  font-size: 15px;
+  font-weight: 900;
+  line-height: 1;
+  box-shadow: 0 5px 12px rgba(55, 35, 20, 0.16);
+}
+
+.branch-toggle:hover {
+  background: #e7d2aa;
+}
+
+.branch-toggle:disabled {
+  border-color: rgba(139, 107, 67, 0.42);
+  background: rgba(216, 210, 200, 0.72);
+  color: rgba(122, 50, 31, 0.42);
+  cursor: not-allowed;
+  box-shadow: none;
+}
+
+.union-label {
+  fill: #7a321f;
+  font-size: 8px;
+  font-weight: 700;
+  text-anchor: middle;
+  text-transform: uppercase;
+}
+
+.person-node {
+  cursor: pointer;
+  outline: none;
+  transition: opacity 160ms ease, transform 160ms ease;
+}
+
+.person-node rect {
+  fill: #fff8e8;
+  stroke: #8b6b43;
+  stroke-width: 2.8;
+}
+
+.person-node circle {
+  fill: #243f3e;
+  stroke: #c89b48;
+  stroke-width: 2;
+}
+
+.gender-mark {
+  paint-order: stroke fill;
+  stroke: rgba(255, 248, 232, 0.95);
+  stroke-width: 2.4px;
+  fill: #2f72b8;
+  font-family: Georgia, Cambria, "Times New Roman", serif;
+  font-size: 24px;
+  font-style: italic;
+  font-weight: 900;
+  text-anchor: middle;
+  filter: drop-shadow(0 2px 2px rgba(37, 52, 64, 0.26));
+}
+
+.gender-mark.female {
+  fill: #c45a9c;
+}
+
+.person-node .selection-glow {
+  fill: rgba(255, 252, 231, 0.42);
+  stroke: rgba(255, 247, 190, 0.98);
+  stroke-width: 10;
+  filter: drop-shadow(0 0 12px rgba(255, 244, 194, 0.95))
+    drop-shadow(0 0 22px rgba(255, 232, 150, 0.62))
+    drop-shadow(0 10px 16px rgba(72, 45, 20, 0.3));
+}
+
+.person-node.selected rect:not(.selection-glow) {
+  filter: drop-shadow(0 6px 10px rgba(72, 45, 20, 0.22));
+}
+
+.person-node.tier-emperor rect {
+  stroke: #c6922d;
+}
+
+.person-node.tier-emperor:not(.illegitimate) rect:not(.selection-glow) {
+  fill: #56316f;
+  stroke: #17130f;
+}
+
+.person-node.tier-empress:not(.illegitimate) rect:not(.selection-glow) {
+  fill: #c6a9d8;
+  stroke: #17130f;
+}
+
+.person-node.tier-france-queen:not(.illegitimate) rect:not(.selection-glow) {
+  fill: #aab8d6;
+  stroke: #17130f;
+}
+
+.person-node.tier-france-queen:not(.illegitimate) .node-name,
+.person-node.tier-france-queen:not(.illegitimate) .node-title,
+.person-node.tier-france-queen:not(.illegitimate) .node-years {
+  fill: #26324f;
+}
+
+.person-node.tier-queen-consort:not(.illegitimate) rect:not(.selection-glow) {
+  fill: #c98288;
+  stroke: #17130f;
+}
+
+.person-node.tier-queen-consort:not(.illegitimate) .node-name,
+.person-node.tier-queen-consort:not(.illegitimate) .node-title,
+.person-node.tier-queen-consort:not(.illegitimate) .node-years {
+  fill: #4f2027;
+}
+
+.person-node.tier-supreme-king:not(.illegitimate) rect:not(.selection-glow) {
+  fill: #283b72;
+  stroke: #17130f;
+}
+
+.person-node.tier-supreme-king:not(.illegitimate) .node-name,
+.person-node.tier-supreme-king:not(.illegitimate) .node-title,
+.person-node.tier-supreme-king:not(.illegitimate) .node-years,
+.person-node.tier-supreme-king:not(.illegitimate) .avatar-text {
+  fill: #fff;
+}
+
+.person-node.tier-empress:not(.illegitimate) .node-name,
+.person-node.tier-empress:not(.illegitimate) .node-title,
+.person-node.tier-empress:not(.illegitimate) .node-years {
+  fill: #32203d;
+}
+
+.person-node.tier-emperor:not(.illegitimate) .node-name,
+.person-node.tier-emperor:not(.illegitimate) .node-title,
+.person-node.tier-emperor:not(.illegitimate) .node-years,
+.person-node.tier-emperor:not(.illegitimate) .avatar-text {
+  fill: #fff;
+}
+
+.person-node.tier-king rect {
+  stroke: #7a1f1f;
+}
+
+.person-node.tier-king:not(.illegitimate) rect:not(.selection-glow),
+.person-node.tier-grand-duke:not(.illegitimate) rect:not(.selection-glow) {
+  fill: #6f2026;
+  stroke: #17130f;
+}
+
+.person-node.tier-grand-duke rect {
+  stroke: #6d3d9a;
+}
+
+.person-node.tier-duke rect {
+  stroke: #6fa8c9;
+}
+
+.person-node.tier-count rect {
+  stroke: #6f8174;
+}
+
+.person-node.tier-duke:not(.illegitimate) rect:not(.selection-glow) {
+  fill: #9cc4d6;
+  stroke: #17130f;
+}
+
+.person-node.tier-count:not(.illegitimate) rect:not(.selection-glow) {
+  fill: #aab8ad;
+  stroke: #17130f;
+}
+
+.person-node.tier-emperor:not(.illegitimate) .node-name,
+.person-node.tier-emperor:not(.illegitimate) .node-title,
+.person-node.tier-emperor:not(.illegitimate) .node-years,
+.person-node.tier-king:not(.illegitimate) .node-name,
+.person-node.tier-king:not(.illegitimate) .node-title,
+.person-node.tier-king:not(.illegitimate) .node-years,
+.person-node.tier-grand-duke:not(.illegitimate) .node-name,
+.person-node.tier-grand-duke:not(.illegitimate) .node-title,
+.person-node.tier-grand-duke:not(.illegitimate) .node-years {
+  fill: #fff;
+}
+
+.person-node.tier-emperor:not(.illegitimate) .avatar-text,
+.person-node.tier-king:not(.illegitimate) .avatar-text,
+.person-node.tier-grand-duke:not(.illegitimate) .avatar-text {
+  fill: #fff;
+}
+
+.person-node.tier-untitled rect {
+  stroke: #c7c2b5;
+}
+
+.person-node.illegitimate rect {
+  stroke: #2f2f2f;
+  stroke-width: 3.4;
+  stroke-dasharray: 8 4;
+}
+
+.legitimacy-mark {
+  fill: #fff8e8;
+  stroke: #2f2f2f;
+  stroke-width: 3px;
+  paint-order: stroke fill;
+  font-size: 15px;
+  font-weight: 900;
+  text-anchor: middle;
+}
+
+.person-node.dimmed {
+  opacity: 0.28;
+}
+
+.avatar-text,
+.node-name,
+.node-title,
+.node-years {
+  text-anchor: middle;
+  pointer-events: none;
+}
+
+.avatar-text {
+  fill: #fff8e8;
+  font-size: 13px;
+  font-weight: 900;
+}
+
+.node-name {
+  fill: #22170f;
+  font-size: 15px;
+  font-weight: 900;
+}
+
+.node-title {
+  fill: #6a4930;
+  font-size: 11px;
+  font-weight: 700;
+}
+
+.node-years {
+  fill: #7a321f;
+  font-size: 11px;
+  font-weight: 800;
+}
