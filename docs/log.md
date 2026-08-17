@@ -437,8 +437,8 @@ Split by responsibility and keep data, derived presentation, interaction state, 
 ### 版本记录
 
 - `26-08-17-02-feat: enrich historical data and validate kinship links`
-- Commit：`f59a93e`
-- 已完成构建验收并准备推送；本地策略文件未纳入版本。
+- Commit：`288cd58`
+- 已完成构建验收并推送至 `origin/main`；本地策略文件未纳入版本。
 
 ## 2026-08-17：人物卡全面补全工程（historicalRating >= 5）
 
