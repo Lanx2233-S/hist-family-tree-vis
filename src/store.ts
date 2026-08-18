@@ -1,5 +1,5 @@
 import { create } from "zustand";
-import peopleData from "../people.normandy.json";
+import peopleData from "./data/people";
 import type { Person } from "./types";
 
 type FamilyState = {

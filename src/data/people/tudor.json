@@ -1,0 +1,1162 @@
+[
+  {
+    "id": "7933ae03-5845-4972-927c-b1a3d648edda",
+    "firstName": "Henry",
+    "lastName": "Tudor",
+    "displayName": "Henry VII",
+    "fullName": "Henry VII of England",
+    "displayNameCn": "亨利七世",
+    "fullNameCn": "英格兰国王亨利七世",
+    "nickname": "",
+    "nicknameCn": "",
+    "nicknameTags": [],
+    "alsoKnownAs": [
+      "Henry Tudor",
+      "the Winter King"
+    ],
+    "gender": "male",
+    "birthYear": 1457,
+    "deathYear": 1509,
+    "birthPlace": "Pembroke Castle, Wales",
+    "birthPlaceCn": "威尔士彭布罗克城堡",
+    "deathPlace": "Richmond Palace, England",
+    "deathPlaceCn": "英格兰里士满宫",
+    "dynasty": "House of Tudor",
+    "house": "House of Tudor",
+    "culture": "English",
+    "faith": "Catholic",
+    "rank": "king",
+    "primaryTitle": "King of England",
+    "primaryTitleCn": "英格兰国王",
+    "titles": [
+      {
+        "title": "King of England",
+        "startYear": 1485,
+        "endYear": 1509,
+        "titleCn": "英格兰国王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "commander",
+      "administrator"
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Henry_VII_of_England",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Henry_VII_of_England",
+    "sourceNote": "",
+    "notes": "Tudor paternal line intentionally not modeled. Founder of the Tudor royal line in this tree. Born at Pembroke Castle in Wales on 28 January 1457; only child of Margaret Beaufort (aged 13) and Edmund Tudor, who died before his birth.",
+    "portraitUrl": "",
+    "historicalRating": 9,
+    "importanceScore": 96,
+    "createdDate": "260815",
+    "createdOrder": 14,
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died after a prolonged illness",
+      "detail": "Henry VII died at Richmond Palace of tuberculosis, after declining health; no violent cause is recorded.",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Henry_VII_of_England",
+      "summaryCn": "久病后去世",
+      "detailCn": "亨利七世在健康恶化后因肺结核去世于里士满宫；无暴力死因记载。"
+    },
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "6c6619a1-067a-4f2b-a410-c882d6b794f7"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "56f44ca5-9a53-45b7-943d-619335ae6179"
+      ]
+    },
+    "events": [
+      {
+        "year": 1485,
+        "month": 8,
+        "day": 22,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "commander",
+          "conquest"
+        ],
+        "weight": 100,
+        "label": "Battle of Bosworth Field",
+        "labelCn": "博斯沃思原野战役",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Bosworth_Field",
+        "note": "Henry defeated and killed Richard III on 22 August 1485, ending the Wars of the Roses."
+      },
+      {
+        "year": 1485,
+        "month": 8,
+        "day": 22,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "king"
+        ],
+        "weight": 99,
+        "label": "Became King of England",
+        "labelCn": "成为英格兰国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_VII_of_England",
+        "note": "Henry claimed the crown on the field of battle by right of conquest, backdated to 21 August 1485; Parliament confirmed his title in November 1485."
+      },
+      {
+        "year": 1485,
+        "month": 10,
+        "day": 30,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "king"
+        ],
+        "weight": 91,
+        "label": "Coronation as King of England",
+        "labelCn": "加冕为英格兰国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_VII_of_England",
+        "note": "Crowned at Westminster Abbey on 30 October 1485."
+      },
+      {
+        "year": 1486,
+        "month": 1,
+        "day": 18,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 98,
+        "label": "Marriage to Elizabeth of York",
+        "labelCn": "与约克的伊丽莎白成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Elizabeth_of_York",
+        "note": "Married Elizabeth of York at Westminster Abbey on 18 January 1486, uniting the Houses of Lancaster and York and securing Yorkist acceptance of his reign."
+      },
+      {
+        "year": 1487,
+        "month": 6,
+        "day": 16,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "dynasty",
+          "succession"
+        ],
+        "weight": 94,
+        "label": "Battle of Stoke Field",
+        "labelCn": "斯托克原野战役",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Stoke_Field",
+        "note": "Final battle of the Wars of the Roses: Yorkist rebels backing the pretender Lambert Simnel were crushed and John de la Pole, Earl of Lincoln, was killed."
+      },
+      {
+        "year": 1489,
+        "month": 3,
+        "type": "diplomacy",
+        "tags": [
+          "diplomacy",
+          "treaty",
+          "dynastic_alliance"
+        ],
+        "weight": 84,
+        "label": "Treaty of Medina del Campo",
+        "labelCn": "《梅迪纳德尔坎波条约》",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Treaty_of_Medina_del_Campo",
+        "note": "Signed in March 1489 with Spain; betrothed Arthur, Prince of Wales, to Catherine of Aragon."
+      },
+      {
+        "year": 1492,
+        "month": 11,
+        "day": 3,
+        "type": "diplomacy",
+        "tags": [
+          "diplomacy",
+          "treaty"
+        ],
+        "weight": 78,
+        "label": "Treaty of Etaples",
+        "labelCn": "《埃塔普勒条约》",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Treaty_of_%C3%89taples",
+        "note": "Signed on 3 November 1492 after Henry's brief invasion of France; Charles VIII paid a large indemnity and agreed not to shelter pretenders."
+      },
+      {
+        "year": 1496,
+        "month": 2,
+        "type": "diplomacy",
+        "tags": [
+          "diplomacy",
+          "treaty"
+        ],
+        "weight": 76,
+        "label": "Intercursus Magnus with Burgundy",
+        "labelCn": "与勃艮第签订《大通商条约》",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Intercursus_Magnus",
+        "note": "Signed in February 1496; restored the wool and cloth trade with the Burgundian Netherlands after the trade embargo."
+      },
+      {
+        "year": 1497,
+        "month": 9,
+        "type": "rebellion",
+        "tags": [
+          "rebellion",
+          "succession"
+        ],
+        "weight": 88,
+        "label": "Perkin Warbeck's rising in Cornwall",
+        "labelCn": "珀金·沃贝克在康沃尔登陆起事",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Perkin_Warbeck",
+        "note": "Warbeck, who claimed to be Richard of York (one of the Princes in the Tower), landed in Cornwall in September 1497 and was quickly captured; he was executed in 1499."
+      },
+      {
+        "year": 1502,
+        "month": 4,
+        "day": 2,
+        "type": "death",
+        "tags": [
+          "death",
+          "dynasty"
+        ],
+        "weight": 78,
+        "label": "Death of Arthur, Prince of Wales",
+        "labelCn": "王储亚瑟去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Arthur,_Prince_of_Wales",
+        "note": "Arthur died at Ludlow Castle on 2 April 1502, very likely of the sweating sickness, making the future Henry VIII the heir."
+      },
+      {
+        "year": 1503,
+        "month": 8,
+        "day": 8,
+        "type": "diplomacy",
+        "tags": [
+          "diplomacy",
+          "dynastic_alliance"
+        ],
+        "weight": 80,
+        "label": "Margaret Tudor weds James IV of Scotland",
+        "labelCn": "长女玛格丽特与苏格兰詹姆斯四世联姻",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Margaret_Tudor",
+        "note": "Margaret married James IV on 8 August 1503 under the Treaty of Perpetual Peace (1502); the match later carried the Stuart claim to the English throne."
+      },
+      {
+        "year": 1509,
+        "month": 4,
+        "day": 21,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Death of Henry VII",
+        "labelCn": "亨利七世去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_VII_of_England",
+        "note": "Henry died at Richmond Palace of tuberculosis on 21 April 1509 and was succeeded by his son Henry VIII."
+      }
+    ]
+  },
+  {
+    "id": "56f44ca5-9a53-45b7-943d-619335ae6179",
+    "firstName": "Henry",
+    "lastName": "Tudor",
+    "displayName": "Henry VIII",
+    "fullName": "Henry VIII of England",
+    "displayNameCn": "亨利八世",
+    "fullNameCn": "英格兰国王亨利八世",
+    "nickname": "",
+    "nicknameCn": "",
+    "nicknameTags": [],
+    "alsoKnownAs": [
+      "Bluff King Hal"
+    ],
+    "gender": "male",
+    "birthYear": 1491,
+    "deathYear": 1547,
+    "birthPlace": "Greenwich Palace, England",
+    "birthPlaceCn": "英格兰格林尼治宫",
+    "deathPlace": "Whitehall Palace, England",
+    "deathPlaceCn": "英格兰白厅宫",
+    "dynasty": "House of Tudor",
+    "house": "House of Tudor",
+    "culture": "English",
+    "faith": "Catholic",
+    "rank": "king",
+    "primaryTitle": "King of England",
+    "primaryTitleCn": "英格兰国王",
+    "titles": [
+      {
+        "title": "King of England",
+        "startYear": 1509,
+        "endYear": 1547,
+        "titleCn": "英格兰国王"
+      },
+      {
+        "title": "King of Ireland",
+        "startYear": 1541,
+        "endYear": 1547,
+        "titleCn": "爱尔兰国王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "commander",
+      "administrator"
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Henry_VIII",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Henry_VIII",
+    "sourceNote": "",
+    "notes": "Only the Mary I and Elizabeth I branches are modeled here; his six wives and his other children (including Edward VI) remain outside this pass, so marriages are covered as events rather than as relationship links.",
+    "portraitUrl": "",
+    "historicalRating": 10,
+    "importanceScore": 99,
+    "createdDate": "260815",
+    "createdOrder": 15,
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died after prolonged physical decline",
+      "detail": "Henry VIII died at Whitehall Palace after years of serious health problems, including severe leg ulcers, a gangrenous leg wound from a 1536 jousting accident, and declining mobility; the exact cause of death is uncertain.",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Henry_VIII",
+      "summaryCn": "长期身体衰退后去世",
+      "detailCn": "亨利八世在多年严重健康问题后于白厅宫去世，包括严重的腿部溃疡、1536年比武事故造成的腿部坏疽以及行动能力衰退；确切死因尚无定论。"
+    },
+    "relationships": {
+      "fatherId": "7933ae03-5845-4972-927c-b1a3d648edda",
+      "motherId": "6c6619a1-067a-4f2b-a410-c882d6b794f7",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "0387c1d8-633c-4fa8-9c48-47e4644704da",
+        "035085c7-f1bd-483a-a2c9-fc9f348170ac",
+        "358dd39b-2742-4ae8-8c50-897bd98cf897"
+      ]
+    },
+    "events": [
+      {
+        "year": 1509,
+        "month": 4,
+        "day": 21,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "king"
+        ],
+        "weight": 98,
+        "label": "Became King of England",
+        "labelCn": "成为英格兰国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_VIII",
+        "note": "Succeeded on the death of his father Henry VII on 21 April 1509."
+      },
+      {
+        "year": 1509,
+        "month": 6,
+        "day": 11,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynasty"
+        ],
+        "weight": 93,
+        "label": "Marriage to Catherine of Aragon",
+        "labelCn": "与阿拉贡的凯瑟琳成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Catherine_of_Aragon",
+        "note": "Married Catherine, widow of his elder brother Arthur, at Greenwich on 11 June 1509; they were crowned together on 24 June."
+      },
+      {
+        "year": 1509,
+        "month": 6,
+        "day": 24,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "king"
+        ],
+        "weight": 91,
+        "label": "Coronation as King of England",
+        "labelCn": "加冕为英格兰国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Coronation_of_Henry_VIII_and_Catherine",
+        "note": "Crowned at Westminster Abbey together with Catherine of Aragon on 24 June 1509."
+      },
+      {
+        "year": 1527,
+        "type": "political_crisis",
+        "tags": [
+          "annulment",
+          "religion"
+        ],
+        "weight": 88,
+        "label": "The King's Great Matter begins",
+        "labelCn": "“国王的大事”——亨利谋求废除与凯瑟琳的婚姻",
+        "wikiUrl": "https://en.wikipedia.org/wiki/King%27s_Great_Matter",
+        "note": "Henry sought the annulment of his marriage to Catherine of Aragon, citing her earlier marriage to Arthur; the Pope's refusal set the course towards the break with Rome."
+      },
+      {
+        "year": 1533,
+        "month": 1,
+        "day": 25,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "religion"
+        ],
+        "weight": 90,
+        "label": "Marriage to Anne Boleyn",
+        "labelCn": "与安妮·博林成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Anne_Boleyn",
+        "note": "Secret marriage to the pregnant Anne Boleyn in London; Cranmer's court declared the Catherine marriage void on 23 May 1533."
+      },
+      {
+        "year": 1533,
+        "month": 5,
+        "day": 23,
+        "type": "annulment",
+        "tags": [
+          "annulment",
+          "marriage",
+          "religion"
+        ],
+        "weight": 87,
+        "label": "Annulment of marriage to Catherine of Aragon",
+        "labelCn": "宣布与阿拉贡的凯瑟琳的婚姻无效",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Catherine_of_Aragon",
+        "note": "Archbishop Cranmer's court at Dunstable declared the marriage to Catherine invalid; Catherine never accepted the ruling."
+      },
+      {
+        "year": 1533,
+        "month": 9,
+        "day": 7,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "dynasty"
+        ],
+        "weight": 84,
+        "label": "Birth of Elizabeth I",
+        "labelCn": "伊丽莎白（后来的伊丽莎白一世）出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Elizabeth_I",
+        "note": "Anne Boleyn gave birth to Elizabeth at Greenwich Palace on 7 September 1533; Henry's disappointment over a daughter weakened Anne's position."
+      },
+      {
+        "year": 1534,
+        "type": "government",
+        "tags": [
+          "government",
+          "reformation"
+        ],
+        "weight": 100,
+        "label": "Act of Supremacy",
+        "labelCn": "《至尊法案》",
+        "wikiUrl": "https://en.wikipedia.org/wiki/First_Act_of_Supremacy",
+        "note": "The First Act of Supremacy (royal assent 3 November 1534) declared Henry Supreme Head of the Church of England; Pope Clement VII's excommunication of Henry was not made official until later."
+      },
+      {
+        "year": 1536,
+        "month": 5,
+        "day": 19,
+        "type": "death",
+        "tags": [
+          "death",
+          "violent"
+        ],
+        "weight": 86,
+        "label": "Execution of Anne Boleyn",
+        "labelCn": "安妮·博林被处决",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Anne_Boleyn",
+        "note": "Anne was beheaded on Tower Green on 19 May 1536 after conviction for treason and adultery on charges widely regarded as engineered."
+      },
+      {
+        "year": 1536,
+        "type": "government",
+        "tags": [
+          "government",
+          "religion",
+          "territory"
+        ],
+        "weight": 95,
+        "label": "Dissolution of the Monasteries begins",
+        "labelCn": "解散修道院运动开始",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Dissolution_of_the_monasteries",
+        "note": "The First Suppression Act (1536) closed the smaller religious houses; the Second Suppression Act (1539) dissolved the rest, with their wealth and lands seized by the Crown."
+      },
+      {
+        "year": 1536,
+        "month": 10,
+        "type": "rebellion",
+        "tags": [
+          "rebellion",
+          "religion",
+          "government"
+        ],
+        "weight": 92,
+        "label": "Pilgrimage of Grace",
+        "labelCn": "求恩巡礼叛乱",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Pilgrimage_of_Grace",
+        "note": "A major northern rising, begun in October 1536, against the dissolution of the monasteries and religious changes; its leaders were pardoned and then executed in 1537."
+      },
+      {
+        "year": 1537,
+        "month": 10,
+        "day": 12,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "dynasty",
+          "succession"
+        ],
+        "weight": 88,
+        "label": "Birth of Edward VI",
+        "labelCn": "爱德华（后来的爱德华六世）出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Edward_VI",
+        "note": "Jane Seymour bore the long-awaited male heir on 12 October 1537; she died of complications on 24 October 1537."
+      },
+      {
+        "year": 1540,
+        "month": 1,
+        "day": 6,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "alliance",
+          "dynasty"
+        ],
+        "weight": 78,
+        "label": "Marriage to Anne of Cleves",
+        "labelCn": "与克利夫斯的安妮成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Anne_of_Cleves",
+        "note": "Political marriage sealed on the strength of a Holbein portrait; the marriage was never consummated and was annulled on 9 July 1540."
+      },
+      {
+        "year": 1540,
+        "month": 7,
+        "day": 9,
+        "type": "annulment",
+        "tags": [
+          "annulment",
+          "marriage"
+        ],
+        "weight": 72,
+        "label": "Annulment of marriage to Anne of Cleves",
+        "labelCn": "宣布与克利夫斯的安妮的婚姻无效",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Anne_of_Cleves",
+        "note": "Annulled on grounds of non-consummation and an alleged pre-contract; Anne accepted a generous settlement and outlived Henry."
+      },
+      {
+        "year": 1541,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "king"
+        ],
+        "weight": 76,
+        "label": "Became King of Ireland",
+        "labelCn": "成为爱尔兰国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_VIII",
+        "note": "Crown of Ireland Act: passed by the Irish Parliament in 1541, with royal assent following in 1542; the event is dated per the original record."
+      },
+      {
+        "year": 1547,
+        "month": 1,
+        "day": 28,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Death of Henry VIII",
+        "labelCn": "亨利八世去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_VIII",
+        "note": "Henry died at Whitehall Palace on 28 January 1547 after years of declining health and was succeeded by Edward VI."
+      },
+      {
+        "year": 1513,
+        "month": 8,
+        "day": 16,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "commander"
+        ],
+        "weight": 78,
+        "label": "Battle of the Spurs",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_the_Spurs",
+        "labelCn": "马刺战役"
+      }
+    ]
+  },
+  {
+    "id": "0387c1d8-633c-4fa8-9c48-47e4644704da",
+    "firstName": "Mary",
+    "lastName": "Tudor",
+    "displayName": "Mary I",
+    "fullName": "Mary I of England",
+    "displayNameCn": "玛丽一世",
+    "fullNameCn": "英格兰女王玛丽一世",
+    "nickname": "Bloody Mary",
+    "nicknameCn": "血腥玛丽",
+    "nicknameTags": [
+      "epithet"
+    ],
+    "alsoKnownAs": [],
+    "gender": "female",
+    "birthYear": 1516,
+    "deathYear": 1558,
+    "birthPlace": "Greenwich Palace, England",
+    "deathPlace": "St James's Palace, England",
+    "birthPlaceCn": "英格兰格林尼治宫",
+    "deathPlaceCn": "英格兰圣詹姆斯宫",
+    "dynasty": "House of Tudor",
+    "house": "House of Tudor",
+    "culture": "English",
+    "faith": "Catholic",
+    "rank": "queen",
+    "primaryTitle": "Queen of England",
+    "primaryTitleCn": "英格兰女王",
+    "titles": [
+      {
+        "title": "Queen of England",
+        "startYear": 1553,
+        "endYear": 1558,
+        "titleCn": "英格兰女王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "queen"
+    ],
+    "importanceScore": 91,
+    "historicalRating": 9,
+    "wikiUrl": "https://en.wikipedia.org/wiki/Mary_I_of_England",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Mary_I_of_England",
+    "sourceNote": "",
+    "notes": "Daughter of Henry VIII; her mother Catherine of Aragon is intentionally not modeled in this pass. Died during an influenza epidemic; modern scholars suspect ovarian cysts or uterine cancer. 'Bloody Mary' is a posthumous epithet tied to the Marian persecutions.",
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died during an influenza epidemic",
+      "detail": "Mary died at St James's Palace on 17 November 1558, aged 42, during an influenza epidemic; modern scholars suspect ovarian cysts or uterine cancer as the underlying cause. Not a violent death.",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Mary_I_of_England",
+      "summaryCn": "流感流行期间去世",
+      "detailCn": "玛丽于1558年11月17日在圣詹姆斯宫去世，享年42岁，正值流感流行期间；现代学者推测潜在死因可能是卵巢囊肿或子宫癌。非暴力死亡。"
+    },
+    "relationships": {
+      "fatherId": "56f44ca5-9a53-45b7-943d-619335ae6179",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1516,
+        "month": 2,
+        "day": 18,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "dynasty"
+        ],
+        "weight": 85,
+        "label": "Birth of Mary at Greenwich Palace",
+        "labelCn": "玛丽在格林尼治宫出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Mary_I_of_England",
+        "note": "Only child of Henry VIII and Catherine of Aragon to survive infancy."
+      },
+      {
+        "year": 1533,
+        "type": "political_crisis",
+        "tags": [
+          "law",
+          "succession"
+        ],
+        "weight": 88,
+        "label": "Declared illegitimate and removed from succession",
+        "labelCn": "被宣告为私生女并排除出继承序列",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Mary_I_of_England",
+        "note": "In May 1533 Cranmer annulled Henry VIII's marriage to Catherine of Aragon; Mary was deemed illegitimate, styled 'The Lady Mary' and barred from the succession."
+      },
+      {
+        "year": 1544,
+        "type": "government",
+        "tags": [
+          "law",
+          "succession"
+        ],
+        "weight": 72,
+        "label": "Restored to succession by the Third Succession Act",
+        "labelCn": "经《第三次继承法》恢复继承权",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Third_Succession_Act",
+        "note": "Henry VIII placed Mary after Edward in the line of succession, though she remained legally illegitimate."
+      },
+      {
+        "year": 1553,
+        "month": 7,
+        "day": 19,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "queen"
+        ],
+        "weight": 98,
+        "label": "Became Queen of England",
+        "labelCn": "成为英格兰女王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Mary_I_of_England"
+      },
+      {
+        "year": 1553,
+        "month": 10,
+        "day": 1,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "queen"
+        ],
+        "weight": 90,
+        "label": "Coronation as Queen of England",
+        "labelCn": "加冕为英格兰女王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Coronation_of_Mary_I_of_England"
+      },
+      {
+        "year": 1554,
+        "month": 1,
+        "type": "rebellion",
+        "tags": [
+          "rebellion"
+        ],
+        "weight": 80,
+        "label": "Wyatt's Rebellion in Kent",
+        "labelCn": "肯特郡怀亚特叛乱",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Wyatt%27s_Rebellion",
+        "note": "January-February 1554: revolt led by Thomas Wyatt the Younger against Mary's planned marriage to Philip of Spain; suppressed in February, Wyatt executed."
+      },
+      {
+        "year": 1554,
+        "month": 7,
+        "day": 25,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "alliance"
+        ],
+        "weight": 82,
+        "label": "Marriage to Philip of Spain",
+        "labelCn": "与西班牙的腓力成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Mary_I_of_England"
+      },
+      {
+        "year": 1554,
+        "month": 11,
+        "day": 30,
+        "type": "government",
+        "tags": [
+          "government",
+          "religion"
+        ],
+        "weight": 88,
+        "label": "Restoration of Papal Supremacy",
+        "labelCn": "恢复教皇至上权威",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Mary_I_of_England",
+        "note": "Existing event, dated: 30 November 1554 Cardinal Pole absolved Parliament in Mary's presence, ending the English schism with Rome."
+      },
+      {
+        "year": 1555,
+        "type": "religion",
+        "tags": [
+          "religion"
+        ],
+        "weight": 86,
+        "label": "Marian Persecutions begin (c. 280 burned)",
+        "labelCn": "玛丽宗教迫害开始（约280人被处火刑）",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Marian_persecutions",
+        "note": "First burnings in February 1555; more than 280 Protestants were executed by burning by 1558. Factual record, kept neutral."
+      },
+      {
+        "year": 1558,
+        "month": 1,
+        "day": 7,
+        "type": "diplomacy",
+        "tags": [
+          "diplomacy",
+          "territory",
+          "defeat"
+        ],
+        "weight": 78,
+        "label": "Loss of Calais to France",
+        "labelCn": "加来被法国攻陷",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Siege_of_Calais_(1558)",
+        "note": "Existing event, dated: French forces took Calais in January 1558 (capitulation 7 January), England's last continental possession."
+      },
+      {
+        "year": 1558,
+        "month": 11,
+        "day": 17,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Death of Mary I",
+        "labelCn": "玛丽一世去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Mary_I_of_England"
+      },
+      {
+        "year": 1558,
+        "type": "diplomacy",
+        "tags": [
+          "diplomacy",
+          "territory"
+        ],
+        "weight": 78,
+        "label": "Loss of Calais",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Siege_of_Calais_(1558)",
+        "labelCn": "失去加来"
+      }
+    ],
+    "createdDate": "260815",
+    "createdOrder": 16
+  },
+  {
+    "id": "035085c7-f1bd-483a-a2c9-fc9f348170ac",
+    "firstName": "Elizabeth",
+    "lastName": "Tudor",
+    "displayName": "Elizabeth I",
+    "fullName": "Elizabeth I of England",
+    "displayNameCn": "伊丽莎白一世",
+    "fullNameCn": "英格兰女王伊丽莎白一世",
+    "nickname": "",
+    "nicknameCn": "",
+    "nicknameTags": [
+      "virgin queen"
+    ],
+    "alsoKnownAs": [
+      "the Virgin Queen",
+      "Good Queen Bess",
+      "Gloriana"
+    ],
+    "gender": "female",
+    "birthYear": 1533,
+    "deathYear": 1603,
+    "birthPlace": "Greenwich Palace, England",
+    "birthPlaceCn": "英格兰格林尼治宫",
+    "deathPlace": "Richmond Palace, England",
+    "deathPlaceCn": "英格兰里士满宫",
+    "dynasty": "House of Tudor",
+    "house": "House of Tudor",
+    "culture": "English",
+    "faith": "Anglican",
+    "rank": "queen",
+    "primaryTitle": "Queen of England",
+    "primaryTitleCn": "英格兰女王",
+    "titles": [
+      {
+        "title": "Queen of England",
+        "startYear": 1558,
+        "endYear": 1603,
+        "titleCn": "英格兰女王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "queen",
+      "administrator"
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Elizabeth_I",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Elizabeth_I",
+    "sourceNote": "",
+    "notes": "Daughter of Henry VIII; her mother Anne Boleyn is intentionally not modeled in this pass. Last Tudor monarch. Never married, and died without issue; she was succeeded by James VI of Scotland.",
+    "portraitUrl": "",
+    "historicalRating": 10,
+    "importanceScore": 99,
+    "createdDate": "260815",
+    "createdOrder": 17,
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died after declining health",
+      "detail": "Elizabeth died at Richmond Palace on 24 March 1603 after a period of declining health in the final months of her reign; the immediate cause of death is uncertain.",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Elizabeth_I",
+      "summaryCn": "健康衰退后去世",
+      "detailCn": "伊丽莎白在其统治的最后数月健康状况持续衰退，于1603年3月24日在里士满宫去世；直接死因尚无定论。"
+    },
+    "relationships": {
+      "fatherId": "56f44ca5-9a53-45b7-943d-619335ae6179",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1554,
+        "month": 3,
+        "day": 18,
+        "type": "imprisonment",
+        "tags": [
+          "imprisonment"
+        ],
+        "weight": 82,
+        "label": "Imprisoned in the Tower of London",
+        "labelCn": "因怀亚特叛乱受嫌被囚于伦敦塔",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Wyatt%27s_Rebellion",
+        "note": "Suspected of involvement in Wyatt's Rebellion, Elizabeth was imprisoned in the Tower on 18 March 1554 and later held at Woodstock; she was released in 1555."
+      },
+      {
+        "year": 1558,
+        "month": 11,
+        "day": 17,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "queen"
+        ],
+        "weight": 98,
+        "label": "Became Queen of England",
+        "labelCn": "成为英格兰女王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Elizabeth_I",
+        "note": "Elizabeth succeeded on the death of her half-sister Mary I on 17 November 1558."
+      },
+      {
+        "year": 1559,
+        "month": 1,
+        "day": 15,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "queen"
+        ],
+        "weight": 91,
+        "label": "Coronation as Queen of England",
+        "labelCn": "加冕为英格兰女王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Coronation_of_Elizabeth_I",
+        "note": "Crowned at Westminster Abbey on 15 January 1559."
+      },
+      {
+        "year": 1559,
+        "month": 5,
+        "day": 8,
+        "type": "government",
+        "tags": [
+          "government",
+          "religion"
+        ],
+        "weight": 96,
+        "label": "Elizabethan Religious Settlement",
+        "labelCn": "伊丽莎白宗教和解",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Elizabethan_Religious_Settlement",
+        "note": "The Act of Supremacy (law from 8 May 1559) restored the royal supremacy and the Act of Uniformity established the 1559 Book of Common Prayer, defining the Protestant Church of England."
+      },
+      {
+        "year": 1563,
+        "type": "government",
+        "tags": [
+          "government",
+          "law"
+        ],
+        "weight": 74,
+        "label": "Poor Act of 1563",
+        "labelCn": "《1563年济贫法》",
+        "wikiUrl": "https://en.wikipedia.org/wiki/English_Poor_Laws",
+        "note": "Early poor-relief legislation; further Acts followed in 1598 and 1601."
+      },
+      {
+        "year": 1568,
+        "month": 5,
+        "type": "political_crisis",
+        "tags": [
+          "succession",
+          "imprisonment"
+        ],
+        "weight": 88,
+        "label": "Mary, Queen of Scots flees to England",
+        "labelCn": "苏格兰女王玛丽逃入英格兰并被软禁",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Mary,_Queen_of_Scots",
+        "note": "After her defeat at Langside in May 1568, Mary fled to England and was detained for nineteen years, becoming the focus of Catholic plots."
+      },
+      {
+        "year": 1570,
+        "month": 2,
+        "day": 25,
+        "type": "religion",
+        "tags": [
+          "religion"
+        ],
+        "weight": 84,
+        "label": "Papal excommunication of Elizabeth",
+        "labelCn": "教皇颁布诏书绝罚伊丽莎白",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Regnans_in_Excelsis",
+        "note": "Pope Pius V issued Regnans in Excelsis on 25 February 1570, excommunicating Elizabeth and absolving English Catholics of allegiance to her."
+      },
+      {
+        "year": 1579,
+        "type": "diplomacy",
+        "tags": [
+          "diplomacy",
+          "marriage",
+          "dynasty"
+        ],
+        "weight": 72,
+        "label": "Courtship of Francis, Duke of Anjou",
+        "labelCn": "安茹公爵弗朗索瓦的求婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Francis,_Duke_of_Anjou",
+        "note": "The last serious marriage negotiation; the courtship collapsed by 1581 and Elizabeth remained unmarried — the 'Virgin Queen'."
+      },
+      {
+        "year": 1585,
+        "month": 8,
+        "day": 20,
+        "type": "diplomacy",
+        "tags": [
+          "diplomacy",
+          "treaty",
+          "alliance"
+        ],
+        "weight": 86,
+        "label": "Treaty of Nonsuch with the Dutch",
+        "labelCn": "与荷兰签订《楠萨奇条约》",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Treaty_of_Nonsuch",
+        "note": "England pledged military support to the Dutch Revolt on 20 August 1585, provoking the Anglo-Spanish War."
+      },
+      {
+        "year": 1587,
+        "month": 2,
+        "day": 8,
+        "type": "death",
+        "tags": [
+          "death",
+          "violent"
+        ],
+        "weight": 90,
+        "label": "Execution of Mary, Queen of Scots",
+        "labelCn": "处决苏格兰女王玛丽",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Mary,_Queen_of_Scots",
+        "note": "Mary was beheaded at Fotheringhay Castle on 8 February 1587 after the Babington Plot; Elizabeth claimed the signed warrant had been sent without her knowledge."
+      },
+      {
+        "year": 1588,
+        "month": 7,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "defense",
+          "diplomacy"
+        ],
+        "weight": 100,
+        "label": "Defeat of the Spanish Armada",
+        "labelCn": "击败西班牙无敌舰队",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Spanish_Armada",
+        "note": "The Spanish Armada sailed in July 1588; English fire-ships scattered it off Gravelines on 28-29 July, and storms wrecked many of the surviving ships on the Irish coast."
+      },
+      {
+        "year": 1601,
+        "month": 2,
+        "day": 8,
+        "type": "rebellion",
+        "tags": [
+          "rebellion"
+        ],
+        "weight": 78,
+        "label": "Essex's Rebellion",
+        "labelCn": "埃塞克斯伯爵叛乱",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Essex%27s_Rebellion",
+        "note": "Robert Devereux, Earl of Essex, led a failed rising in London on 8 February 1601 and was executed on 25 February."
+      },
+      {
+        "year": 1601,
+        "type": "government",
+        "tags": [
+          "government",
+          "law"
+        ],
+        "weight": 80,
+        "label": "Elizabethan Poor Law",
+        "labelCn": "伊丽莎白济贫法",
+        "wikiUrl": "https://en.wikipedia.org/wiki/English_Poor_Laws",
+        "note": "The 1601 Elizabethan Poor Law consolidated earlier legislation (1563, 1598) and shaped English poor relief for centuries."
+      },
+      {
+        "year": 1601,
+        "month": 11,
+        "day": 30,
+        "type": "government",
+        "tags": [
+          "government"
+        ],
+        "weight": 74,
+        "label": "The Golden Speech",
+        "labelCn": "黄金演讲",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Golden_Speech",
+        "note": "Elizabeth's farewell speech to Parliament on 30 November 1601, affirming her bond with her subjects."
+      },
+      {
+        "year": 1603,
+        "month": 3,
+        "day": 24,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Death of Elizabeth I",
+        "labelCn": "伊丽莎白一世去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Elizabeth_I",
+        "note": "Elizabeth died at Richmond Palace on 24 March 1603; James VI of Scotland succeeded as James I, ending the Tudor dynasty."
+      }
+    ]
+  },
+  {
+    "id": "358dd39b-2742-4ae8-8c50-897bd98cf897",
+    "firstName": "Edward",
+    "lastName": "Tudor",
+    "displayName": "Edward VI",
+    "fullName": "Edward VI of England",
+    "displayNameCn": "爱德华六世",
+    "fullNameCn": "英格兰国王爱德华六世",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1537,
+    "deathYear": 1553,
+    "birthPlace": "Hampton Court Palace, England",
+    "deathPlace": "Greenwich Palace, England",
+    "birthPlaceCn": "英格兰汉普顿宫",
+    "deathPlaceCn": "英格兰格林尼治宫",
+    "gender": "male",
+    "dynasty": "House of Tudor",
+    "house": "House of Tudor",
+    "culture": "English",
+    "faith": "Protestant",
+    "primaryTitle": "King of England",
+    "primaryTitleCn": "英格兰国王",
+    "titles": [
+      {
+        "title": "King of England",
+        "titleCn": "英格兰国王",
+        "startYear": 1547,
+        "endYear": 1553
+      }
+    ],
+    "tags": [
+      "monarch"
+    ],
+    "rank": "king",
+    "importanceScore": 82,
+    "historicalRating": 8,
+    "relationships": {
+      "fatherId": "56f44ca5-9a53-45b7-943d-619335ae6179",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [],
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died after a prolonged illness",
+      "summaryCn": "久病后去世",
+      "detail": "Edward VI died at Greenwich Palace on 6 July 1553 after a long illness, probably tuberculosis.",
+      "detailCn": "1553年7月6日，爱德华六世在长期患病后于格林尼治宫去世，可能死于肺结核。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Edward_VI"
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Edward_VI",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Edward_VI",
+    "sourceNote": "Only son of Henry VIII to survive infancy; succeeded by Mary I after the short Lady Jane Grey episode.",
+    "notes": "Basic main-line succession card; mother Jane Seymour is outside the current roster.",
+    "createdDate": "260818",
+    "createdOrder": 154
+  }
+]

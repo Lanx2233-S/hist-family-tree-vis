@@ -1,0 +1,186 @@
+[
+  {
+    "id": "6c6619a1-067a-4f2b-a410-c882d6b794f7",
+    "firstName": "Elizabeth",
+    "lastName": "York",
+    "displayName": "Elizabeth of York",
+    "fullName": "Elizabeth of York, Queen of England",
+    "displayNameCn": "约克的伊丽莎白",
+    "fullNameCn": "约克的伊丽莎白，英格兰王后",
+    "nickname": "",
+    "nicknameCn": "",
+    "nicknameTags": [],
+    "alsoKnownAs": [],
+    "gender": "female",
+    "birthYear": 1466,
+    "deathYear": 1503,
+    "birthPlace": "Westminster, England",
+    "deathPlace": "Tower of London, England",
+    "birthPlaceCn": "英格兰威斯敏斯特",
+    "deathPlaceCn": "英格兰伦敦塔",
+    "dynasty": "House of York",
+    "house": "House of York",
+    "culture": "English",
+    "faith": "Catholic",
+    "rank": "queen",
+    "primaryTitle": "Queen of England",
+    "primaryTitleCn": "英格兰王后",
+    "titles": [
+      {
+        "title": "Queen of England",
+        "startYear": 1486,
+        "endYear": 1503,
+        "titleCn": "英格兰王后"
+      }
+    ],
+    "tags": [
+      "queen",
+      "consort",
+      "noble"
+    ],
+    "importanceScore": 93,
+    "historicalRating": 8,
+    "wikiUrl": "https://en.wikipedia.org/wiki/Elizabeth_of_York",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Elizabeth_of_York",
+    "sourceNote": "",
+    "notes": "Daughter of Edward IV. Her marriage to Henry VII united the Houses of York and Lancaster. She died of a postpartum infection on her 37th birthday, eleven days after giving birth to Katherine Tudor; Henry VII never remarried.",
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died after childbirth",
+      "detail": "Elizabeth died on 11 February 1503 at the Tower of London, eleven days after giving birth to her last child, Katherine Tudor, succumbing to a postpartum infection.",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Elizabeth_of_York",
+      "summaryCn": "产后去世",
+      "detailCn": "伊丽莎白于1503年2月11日在伦敦塔去世，在生下最后一个孩子凯瑟琳·都铎十一天后死于产后感染。"
+    },
+    "relationships": {
+      "fatherId": "423d8a6a-a3f5-4502-abc7-5b6943dcfac6",
+      "motherId": "",
+      "spouseIds": [
+        "7933ae03-5845-4972-927c-b1a3d648edda"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "56f44ca5-9a53-45b7-943d-619335ae6179"
+      ]
+    },
+    "events": [
+      {
+        "year": 1466,
+        "month": 2,
+        "day": 11,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "dynasty"
+        ],
+        "weight": 70,
+        "label": "Birth of Elizabeth of York at Westminster",
+        "labelCn": "约克的伊丽莎白在威斯敏斯特出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Elizabeth_of_York",
+        "note": "Born 11 February 1466 at the Palace of Westminster, eldest child of Edward IV and Elizabeth Woodville."
+      },
+      {
+        "year": 1485,
+        "month": 8,
+        "day": 22,
+        "type": "dynasty",
+        "tags": [
+          "dynasty",
+          "succession"
+        ],
+        "weight": 87,
+        "label": "Tudor Victory at Bosworth",
+        "labelCn": "博斯沃思之战中的都铎胜利",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Bosworth_Field"
+      },
+      {
+        "year": 1486,
+        "month": 1,
+        "day": 18,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 97,
+        "label": "Marriage to Henry VII",
+        "labelCn": "与亨利七世成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Elizabeth_of_York"
+      },
+      {
+        "year": 1486,
+        "month": 9,
+        "day": 20,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "dynasty"
+        ],
+        "weight": 84,
+        "label": "Birth of Arthur, Prince of Wales",
+        "labelCn": "威尔士亲王亚瑟出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Arthur,_Prince_of_Wales",
+        "note": "First son Arthur born 20 September 1486, eight months after the royal wedding."
+      },
+      {
+        "year": 1487,
+        "month": 11,
+        "day": 25,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "queen"
+        ],
+        "weight": 82,
+        "label": "Coronation as Queen of England",
+        "labelCn": "加冕为英格兰王后",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Elizabeth_of_York"
+      },
+      {
+        "year": 1491,
+        "month": 6,
+        "day": 28,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "dynasty"
+        ],
+        "weight": 86,
+        "label": "Birth of Henry VIII",
+        "labelCn": "亨利八世出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_VIII"
+      },
+      {
+        "year": 1501,
+        "month": 11,
+        "day": 14,
+        "type": "dynasty",
+        "tags": [
+          "dynasty",
+          "dynastic_alliance"
+        ],
+        "weight": 62,
+        "label": "Marriage of Prince Arthur to Catherine of Aragon",
+        "labelCn": "亚瑟王子与阿拉贡的凯瑟琳成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Arthur,_Prince_of_Wales",
+        "note": "Dynastic alliance with Spain at St Paul's Cathedral; Arthur died five months later."
+      },
+      {
+        "year": 1503,
+        "month": 2,
+        "day": 11,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Death of Elizabeth of York",
+        "labelCn": "约克的伊丽莎白去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Elizabeth_of_York"
+      }
+    ],
+    "createdDate": "260815",
+    "createdOrder": 13
+  }
+]

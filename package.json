@@ -7,7 +7,8 @@
     "dev": "vite",
     "api": "node server/index.mjs",
     "db:seed": "node server/seed.mjs",
-    "build": "tsc && vite build",
+    "data:build": "node scripts/build-people.mjs",
+    "build": "npm run data:build && tsc && vite build",
     "preview": "vite preview"
   },
   "dependencies": {

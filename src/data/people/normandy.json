@@ -1,0 +1,2159 @@
+[
+  {
+    "id": "21b5ec21-1812-4731-8b03-721988be302f",
+    "firstName": "William",
+    "lastName": "Normandy",
+    "displayName": "William I",
+    "fullName": "William the Conqueror",
+    "nickname": "the Conqueror",
+    "alsoKnownAs": [
+      "William the Bastard",
+      "William of Normandy",
+      "Guillaume le Conquérant"
+    ],
+    "nicknameTags": [
+      "bastard",
+      "conqueror"
+    ],
+    "birthYear": 1028,
+    "deathYear": 1087,
+    "birthPlace": "Falaise, Duchy of Normandy",
+    "deathPlace": "Rouen, Duchy of Normandy",
+    "gender": "male",
+    "dynasty": "House of Normandy",
+    "house": "House of Normandy",
+    "culture": "Norman",
+    "faith": "Catholic",
+    "primaryTitle": "King of England",
+    "titles": [
+      {
+        "title": "Duke of Normandy",
+        "startYear": 1035,
+        "endYear": 1087,
+        "titleCn": "诺曼底公爵"
+      },
+      {
+        "title": "King of England",
+        "startYear": 1066,
+        "endYear": 1087,
+        "titleCn": "英格兰国王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "commander",
+      "duke",
+      "conqueror"
+    ],
+    "rank": "king",
+    "importanceScore": 95,
+    "relationships": {
+      "fatherId": "da51f613-00e2-42ff-9027-a052fac5fc07",
+      "motherId": "",
+      "spouseIds": [
+        "2a19d3aa-7968-4c0b-9870-fe3db9c9b575"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "bea83a88-2399-4eb7-a496-9cfcee8599a6",
+        "576ee669-b638-4013-91cf-71f637200b83",
+        "90840bac-1589-4ba4-abfe-9189e6046b36"
+      ]
+    },
+    "events": [
+      {
+        "year": 1035,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "duke"
+        ],
+        "weight": 72,
+        "label": "Became Duke of Normandy",
+        "wikiUrl": "https://en.wikipedia.org/wiki/William_the_Conqueror",
+        "month": 7,
+        "labelCn": "成为诺曼底公爵",
+        "note": "Succeeded his father Robert I, who died in July 1035 returning from pilgrimage; William was aged about 7-8."
+      },
+      {
+        "year": 1047,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "commander",
+          "rebellion"
+        ],
+        "weight": 74,
+        "label": "Battle of Val-ès-Dunes",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Val-%C3%A8s-Dunes",
+        "labelCn": "瓦莱斯杜讷战役",
+        "note": "With King Henry I of France, defeated rebel Norman barons and secured his hold on the duchy."
+      },
+      {
+        "year": 1051,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 78,
+        "label": "Marriage to Matilda of Flanders",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Matilda_of_Flanders",
+        "month": 8,
+        "labelCn": "与佛兰德的玛蒂尔达成婚",
+        "note": "Marriage date commonly given as c. 1050-53; the 1051 date is traditional. Required a papal dispensation for consanguinity."
+      },
+      {
+        "year": 1066,
+        "month": 9,
+        "day": 28,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "conquest",
+          "commander"
+        ],
+        "weight": 94,
+        "label": "Norman invasion of England",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Norman_conquest_of_England",
+        "labelCn": "诺曼征服英格兰",
+        "note": "Fleet landed at Pevensey Bay two days after Harold's victory at Stamford Bridge."
+      },
+      {
+        "year": 1066,
+        "month": 10,
+        "day": 14,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "commander",
+          "conquest"
+        ],
+        "weight": 100,
+        "label": "Battle of Hastings",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Hastings",
+        "labelCn": "黑斯廷斯战役"
+      },
+      {
+        "year": 1066,
+        "month": 12,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "king"
+        ],
+        "weight": 98,
+        "label": "Became King of England",
+        "wikiUrl": "https://en.wikipedia.org/wiki/William_the_Conqueror",
+        "note": "Berkhamsted submission / crown offered.",
+        "labelCn": "成为英格兰国王"
+      },
+      {
+        "year": 1066,
+        "month": 12,
+        "day": 25,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "king"
+        ],
+        "weight": 92,
+        "label": "Coronation as King of England",
+        "wikiUrl": "https://en.wikipedia.org/wiki/William_the_Conqueror",
+        "labelCn": "加冕为英格兰国王"
+      },
+      {
+        "year": 1069,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "pacification"
+        ],
+        "weight": 88,
+        "label": "Harrying of the North",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Harrying_of_the_North",
+        "labelCn": "北方洗劫",
+        "note": "Winter campaign of 1069-70 in response to northern revolt backed by Edgar the Aetheling and a Danish fleet; over by April 1070."
+      },
+      {
+        "year": 1072,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "diplomacy",
+          "territory"
+        ],
+        "weight": 78,
+        "label": "Invasion of Scotland and Treaty of Abernethy",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Treaty_of_Abernethy",
+        "labelCn": "入侵苏格兰与《阿伯内西和约》",
+        "note": "Defeated Malcolm III, who submitted and gave up his son Duncan as a hostage."
+      },
+      {
+        "year": 1075,
+        "type": "rebellion",
+        "tags": [
+          "rebellion"
+        ],
+        "weight": 74,
+        "label": "Revolt of the Earls",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Revolt_of_the_Earls",
+        "labelCn": "伯爵叛乱",
+        "note": "Conspiracy by Ralph de Gael and Roger de Breteuil; Waltheof executed in May 1076."
+      },
+      {
+        "year": 1078,
+        "type": "government",
+        "tags": [
+          "government"
+        ],
+        "weight": 66,
+        "label": "White Tower of London begun",
+        "wikiUrl": "https://en.wikipedia.org/wiki/White_Tower_(Tower_of_London)",
+        "labelCn": "伦敦白塔动工",
+        "note": "Construction of the keep of the Tower of London began, a symbol of Norman authority over London."
+      },
+      {
+        "year": 1086,
+        "type": "government",
+        "tags": [
+          "government"
+        ],
+        "weight": 84,
+        "label": "Domesday Book completed",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Domesday_Book",
+        "labelCn": "《末日审判书》编纂完成"
+      },
+      {
+        "year": 1086,
+        "month": 8,
+        "type": "government",
+        "tags": [
+          "government",
+          "law"
+        ],
+        "weight": 70,
+        "label": "Oath of Salisbury",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Domesday_Book",
+        "labelCn": "索尔兹伯里誓约",
+        "note": "All tenants-in-chief swore homage and fealty directly to the king, commonly dated 1 August 1086; covered in the Domesday Book article."
+      },
+      {
+        "year": 1087,
+        "month": 9,
+        "day": 9,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Death of William the Conqueror",
+        "wikiUrl": "https://en.wikipedia.org/wiki/William_the_Conqueror",
+        "note": "Died at the Priory of Saint-Gervais near Rouen after injuries and illness following the Mantes campaign.",
+        "labelCn": "征服者威廉去世"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/William_the_Conqueror",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/William_the_Conqueror",
+    "sourceNote": "",
+    "notes": "Central figure for the Norman conquest family tree MVP. Birth year is approximate (c. 1028, Falaise); mother Herleva is not in the roster. Death often linked to a saddle injury sustained in the Mantes campaign.",
+    "createdDate": "260814",
+    "createdOrder": 1,
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died from illness and injuries after campaign",
+      "detail": "William died at Rouen in 1087 after becoming seriously ill following the Mantes campaign. His death is usually treated as campaign-related illness or injury (a saddle injury) rather than assassination.",
+      "wikiUrl": "https://en.wikipedia.org/wiki/William_the_Conqueror",
+      "summaryCn": "战役后因病伤去世",
+      "detailCn": "1087 年威廉在芒特战役后身患重病，于鲁昂去世。通常认为其死因是征战所致的疾病或伤病（马鞍创伤），而非遇刺。"
+    },
+    "displayNameCn": "威廉一世",
+    "fullNameCn": "征服者威廉一世",
+    "nicknameCn": "征服者",
+    "primaryTitleCn": "英格兰国王",
+    "birthPlaceCn": "诺曼底公国法莱斯",
+    "deathPlaceCn": "诺曼底公国鲁昂",
+    "historicalRating": 10
+  },
+  {
+    "id": "da51f613-00e2-42ff-9027-a052fac5fc07",
+    "firstName": "Robert",
+    "lastName": "Normandy",
+    "displayName": "Robert I",
+    "fullName": "Robert I, Duke of Normandy",
+    "displayNameCn": "罗贝尔一世",
+    "fullNameCn": "诺曼底公爵罗贝尔一世",
+    "nickname": "the Magnificent",
+    "nicknameCn": "华丽者",
+    "alsoKnownAs": [
+      "Robert the Devil"
+    ],
+    "nicknameTags": [
+      "magnificent"
+    ],
+    "gender": "male",
+    "birthYear": 1000,
+    "deathYear": 1035,
+    "birthPlace": "Normandy",
+    "deathPlace": "Nicaea, Byzantine Empire",
+    "birthPlaceCn": "诺曼底",
+    "deathPlaceCn": "拜占庭帝国尼西亚",
+    "dynasty": "House of Normandy",
+    "house": "House of Normandy",
+    "culture": "Norman",
+    "faith": "Catholic",
+    "rank": "duke",
+    "primaryTitle": "Duke of Normandy",
+    "primaryTitleCn": "诺曼底公爵",
+    "titles": [
+      {
+        "title": "Duke of Normandy",
+        "startYear": 1027,
+        "endYear": 1035,
+        "titleCn": "诺曼底公爵"
+      }
+    ],
+    "tags": [
+      "duke",
+      "noble"
+    ],
+    "importanceScore": 78,
+    "historicalRating": 8,
+    "relationships": {
+      "fatherId": "0e597c77-dd0b-419c-9227-b56fb37e3b9d",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "21b5ec21-1812-4731-8b03-721988be302f"
+      ]
+    },
+    "events": [
+      {
+        "year": 1027,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title",
+          "dynasty",
+          "uncertain"
+        ],
+        "weight": 86,
+        "label": "Succeeded his brother Richard III as Duke of Normandy",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Robert_I,_Duke_of_Normandy",
+        "note": "Infobox dates his reign 1027-1035; some accounts place the succession in 1028. Richard III's death about a year after Robert's defeated rebellion raised suspicions of Robert's involvement.",
+        "labelCn": "继承兄长理查三世成为诺曼底公爵"
+      },
+      {
+        "year": 1028,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "dynasty"
+        ],
+        "weight": 64,
+        "label": "Birth of his son William (the Conqueror)",
+        "wikiUrl": "https://en.wikipedia.org/wiki/William_the_Conqueror",
+        "note": "Born c. 1027-1028 at Falaise to Herleva, Robert's mistress.",
+        "labelCn": "与赫莱娃之子威廉（征服者）出生"
+      },
+      {
+        "year": 1030,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "conquest",
+          "territory"
+        ],
+        "weight": 70,
+        "label": "Campaign against his cousin Alan III of Brittany",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Robert_I,_Duke_of_Normandy",
+        "note": "Sacked Dol and repelled raids on Avranches before peace was brokered by his uncle, Archbishop Robert of Rouen. Date approximate (c. 1030).",
+        "labelCn": "征讨表亲布列塔尼公爵艾伦三世"
+      },
+      {
+        "year": 1032,
+        "type": "diplomacy",
+        "tags": [
+          "diplomacy",
+          "alliance",
+          "territory"
+        ],
+        "weight": 74,
+        "label": "Support for King Henry I of France; rewarded with the French Vexin",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_I_of_France",
+        "note": "Robert sheltered Henry I against his mother Queen Constance, who backed her younger son; Henry rewarded him with the French Vexin. Date c. 1032-1033.",
+        "labelCn": "支持法兰西国王亨利一世，获授法兰西韦克桑"
+      },
+      {
+        "year": 1034,
+        "type": "diplomacy",
+        "tags": [
+          "diplomacy",
+          "alliance",
+          "dynasty"
+        ],
+        "weight": 76,
+        "label": "Sheltered the exiled Edward (the Confessor) and Alfred at the Norman court",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Edward_the_Confessor",
+        "note": "Edward and Alfred were sons of Robert's aunt Emma of Normandy. Robert attempted an invasion of England on their behalf but was turned back by unfavourable winds. Date c. 1034.",
+        "labelCn": "收留流亡的爱德华（忏悔者）与阿尔弗雷德"
+      },
+      {
+        "year": 1035,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "dynasty",
+          "title"
+        ],
+        "weight": 82,
+        "label": "Named William (the Conqueror) his heir before departing on pilgrimage",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Robert_I,_Duke_of_Normandy",
+        "note": "Early in 1035 Robert made his young son William his heir with baronial agreement, then set out for Jerusalem.",
+        "labelCn": "朝圣前立威廉（未来的征服者）为继承人"
+      },
+      {
+        "year": 1035,
+        "month": 7,
+        "day": 2,
+        "type": "death",
+        "tags": [
+          "death",
+          "religion",
+          "uncertain"
+        ],
+        "weight": 90,
+        "label": "Pilgrimage to Jerusalem; died at Nicaea on the return",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Robert_I,_Duke_of_Normandy",
+        "note": "Robert fell seriously ill and died at Nicaea on the return journey (1-3 July 1035, commonly given as 2 July). William of Malmesbury and Wace reported poisoning, but sudden unexplained deaths were commonly attributed to poison in 11th-century Normandy.",
+        "labelCn": "赴耶路撒冷朝圣，归途于尼西亚去世"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Robert_I,_Duke_of_Normandy",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Robert_I,_Duke_of_Normandy",
+    "sourceNote": "",
+    "notes": "Father of William the Conqueror. Born 22 June 1000. Succession in 1027 (some accounts 1028) after the death of his brother Richard III, with rumoured involvement. Died at Nicaea while returning from pilgrimage; medieval chroniclers (William of Malmesbury, Wace) reported poisoning, not generally accepted by modern historians.",
+    "createdDate": "260814",
+    "createdOrder": 2,
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died of illness at Nicaea; poisoning claimed by some chroniclers",
+      "detail": "Robert I fell seriously ill and died at Nicaea on the return from Jerusalem, 1-3 July 1035 (commonly 2 July). William of Malmesbury and Wace reported poisoning, naming a 'Ralph Mowin' as instigator, but this is not generally accepted; sudden unexplained deaths were commonly attributed to poison in 11th-century Normandy.",
+      "culprit": "Ralph Mowin (named by William of Malmesbury; unsubstantiated)",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Robert_I,_Duke_of_Normandy",
+      "summaryCn": "病逝于尼西亚；部分编年史家称中毒",
+      "detailCn": "罗贝尔一世在从耶路撒冷朝圣归途中患病，1035 年 7 月初（通常作 7 月 2 日，一说 1–3 日）死于尼西亚。马姆斯伯里的威廉与瓦斯记载其遭毒杀，并指拉尔夫·莫温为主使，但此说未获公认；11 世纪诺曼底常有将突发死因归咎于毒杀的做法。",
+      "culpritCn": "拉尔夫·莫温（据马姆斯伯里的威廉；未经证实）"
+    }
+  },
+  {
+    "id": "bea83a88-2399-4eb7-a496-9cfcee8599a6",
+    "firstName": "Robert",
+    "lastName": "Normandy",
+    "displayName": "Robert Curthose",
+    "fullName": "Robert Curthose, Duke of Normandy",
+    "displayNameCn": "罗贝尔·柯索斯",
+    "fullNameCn": "诺曼底公爵罗贝尔·柯索斯",
+    "nickname": "Curthose",
+    "nicknameCn": "柯索斯",
+    "alsoKnownAs": [],
+    "nicknameTags": [
+      "curthose"
+    ],
+    "gender": "male",
+    "birthYear": 1051,
+    "deathYear": 1134,
+    "birthPlace": "Normandy",
+    "deathPlace": "Cardiff Castle, Wales",
+    "birthPlaceCn": "诺曼底",
+    "deathPlaceCn": "威尔士加的夫城堡",
+    "dynasty": "House of Normandy",
+    "house": "House of Normandy",
+    "culture": "Norman",
+    "faith": "Catholic",
+    "rank": "duke",
+    "primaryTitle": "Duke of Normandy",
+    "primaryTitleCn": "诺曼底公爵",
+    "titles": [
+      {
+        "title": "Duke of Normandy",
+        "startYear": 1087,
+        "endYear": 1106,
+        "titleCn": "诺曼底公爵"
+      }
+    ],
+    "tags": [
+      "duke",
+      "commander",
+      "crusader",
+      "noble"
+    ],
+    "importanceScore": 84,
+    "historicalRating": 8,
+    "relationships": {
+      "fatherId": "21b5ec21-1812-4731-8b03-721988be302f",
+      "motherId": "2a19d3aa-7968-4c0b-9870-fe3db9c9b575",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1077,
+        "type": "rebellion",
+        "tags": [
+          "rebellion",
+          "dynasty"
+        ],
+        "weight": 68,
+        "label": "Rebelled against his father William the Conqueror",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Robert_Curthose",
+        "note": "Robert's first insurrection followed his brothers humiliating him and his father refusing to punish them; hostilities ran 1077-1080.",
+        "labelCn": "与其父征服者威廉爆发叛乱"
+      },
+      {
+        "year": 1079,
+        "month": 1,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "main_commander",
+          "defeat"
+        ],
+        "weight": 74,
+        "label": "Battle of Gerberoi: unhorsed King William in combat",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Gerberoi",
+        "note": "In January 1079 Robert is said to have unhorsed his father in single combat, stopping when he recognized his voice; a truce followed at Easter 1080.",
+        "labelCn": "热伯鲁瓦之战：其父威廉一世落马"
+      },
+      {
+        "year": 1087,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "duke"
+        ],
+        "weight": 86,
+        "label": "Became Duke of Normandy",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Robert_Curthose",
+        "note": "On William the Conqueror's death Robert received the Duchy of Normandy while William Rufus received the Kingdom of England.",
+        "labelCn": "成为诺曼底公爵"
+      },
+      {
+        "year": 1096,
+        "type": "diplomacy",
+        "tags": [
+          "diplomacy",
+          "territory",
+          "crusade"
+        ],
+        "weight": 76,
+        "label": "Mortgaged Normandy to William II to fund the crusade",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Robert_Curthose",
+        "note": "Robert pledged his lands in Normandy to William Rufus in return for a payment of 10,000 marks, raised by a heavy and resented tax.",
+        "labelCn": "以诺曼底抵押换取 10,000 马克资助东征"
+      },
+      {
+        "year": 1096,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "crusade"
+        ],
+        "weight": 82,
+        "label": "First Crusade",
+        "wikiUrl": "https://en.wikipedia.org/wiki/First_Crusade",
+        "note": "Robert's crusade conduct, 1096-1099, was the one period of clear distinction in his career.",
+        "labelCn": "第一次十字军东征"
+      },
+      {
+        "year": 1097,
+        "month": 7,
+        "day": 1,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "crusade",
+          "main_commander"
+        ],
+        "weight": 80,
+        "label": "Battle of Dorylaeum",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Dorylaeum",
+        "note": "Robert fought as an important commander, ambushed in the vanguard with Bohemond; he helped hold the line until the main army arrived.",
+        "labelCn": "多里莱乌姆之战"
+      },
+      {
+        "year": 1099,
+        "month": 7,
+        "day": 15,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "crusade",
+          "conquest"
+        ],
+        "weight": 84,
+        "label": "Siege of Jerusalem",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Siege_of_Jerusalem_(1099)",
+        "note": "Robert took a prominent part in the capture of Jerusalem on 15 July 1099 and fought again at Ascalon on 12 August 1099.",
+        "labelCn": "参加攻克耶路撒冷"
+      },
+      {
+        "year": 1100,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynasty"
+        ],
+        "weight": 70,
+        "label": "Marriage to Sybilla of Conversano",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Sybilla_of_Conversano",
+        "note": "Married on the way home from crusade; the couple had one legitimate child, William Clito (d. 1128). Sybilla died in 1103.",
+        "labelCn": "与西比拉·德·孔韦尔萨诺成婚"
+      },
+      {
+        "year": 1106,
+        "month": 9,
+        "day": 28,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "main_commander",
+          "defeat"
+        ],
+        "weight": 94,
+        "label": "Battle of Tinchebray",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Tinchebray",
+        "note": "Henry I defeated Robert's army decisively; Robert was captured and Normandy passed to the English crown. He was imprisoned at Corfe, then Devizes for about twenty years, then Cardiff.",
+        "labelCn": "坦什布赖战役"
+      },
+      {
+        "year": 1134,
+        "month": 2,
+        "day": 3,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 58,
+        "label": "Death of Robert Curthose",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Robert_Curthose",
+        "note": "Died while imprisoned at Cardiff Castle, probably 3 February 1134; buried at Gloucester Abbey.",
+        "labelCn": "罗贝尔·柯索斯去世"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Robert_Curthose",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Robert_Curthose",
+    "sourceNote": "",
+    "notes": "Eldest son of William the Conqueror. Birth year is approximate (c. 1051-1053). Inherited Normandy in 1087; mortgaged it to William II to fund the First Crusade, where he was an important commander. Lost Normandy at Tinchebray in 1106 and spent the rest of his life in captivity, dying at Cardiff Castle in 1134.",
+    "createdDate": "260814",
+    "createdOrder": 4,
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died in captivity at Cardiff Castle",
+      "detail": "Robert Curthose died probably on 3 February 1134 after many years imprisoned by his brother Henry I. The death itself is not usually treated as murder, but the long captivity is central to the context.",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Robert_Curthose",
+      "summaryCn": "死于加的夫城堡的囚禁中",
+      "detailCn": "1134 年 2 月 3 日前后，罗贝尔·柯索斯在遭其兄亨利一世长期囚禁后去世。其死亡本身通常不被视为谋杀，但长期囚禁是重要背景。"
+    }
+  },
+  {
+    "id": "576ee669-b638-4013-91cf-71f637200b83",
+    "firstName": "William",
+    "lastName": "Normandy",
+    "displayName": "William II",
+    "fullName": "William II of England",
+    "displayNameCn": "威廉二世",
+    "fullNameCn": "英格兰国王威廉二世",
+    "nickname": "Rufus",
+    "nicknameCn": "鲁夫斯",
+    "alsoKnownAs": [
+      "William Rufus",
+      "William the Red"
+    ],
+    "nicknameTags": [
+      "rufus",
+      "red"
+    ],
+    "gender": "male",
+    "birthYear": 1056,
+    "deathYear": 1100,
+    "birthPlace": "Normandy",
+    "deathPlace": "New Forest, Hampshire, England",
+    "birthPlaceCn": "诺曼底",
+    "deathPlaceCn": "英格兰汉普郡新森林",
+    "dynasty": "House of Normandy",
+    "house": "House of Normandy",
+    "culture": "Norman",
+    "faith": "Catholic",
+    "rank": "king",
+    "primaryTitle": "King of England",
+    "primaryTitleCn": "英格兰国王",
+    "titles": [
+      {
+        "title": "King of England",
+        "startYear": 1087,
+        "endYear": 1100,
+        "titleCn": "英格兰国王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "commander"
+    ],
+    "importanceScore": 86,
+    "historicalRating": 8,
+    "relationships": {
+      "fatherId": "21b5ec21-1812-4731-8b03-721988be302f",
+      "motherId": "2a19d3aa-7968-4c0b-9870-fe3db9c9b575",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1087,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "king"
+        ],
+        "weight": 92,
+        "label": "Became King of England",
+        "wikiUrl": "https://en.wikipedia.org/wiki/William_II_of_England",
+        "note": "Received the Kingdom of England on his father's death, while his elder brother Robert Curthose inherited Normandy.",
+        "labelCn": "成为英格兰国王"
+      },
+      {
+        "year": 1087,
+        "month": 9,
+        "day": 26,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "king"
+        ],
+        "weight": 86,
+        "label": "Coronation as King of England",
+        "wikiUrl": "https://en.wikipedia.org/wiki/William_II_of_England",
+        "labelCn": "加冕为英格兰国王"
+      },
+      {
+        "year": 1088,
+        "type": "rebellion",
+        "tags": [
+          "rebellion",
+          "king"
+        ],
+        "weight": 78,
+        "label": "Put down the rebellion of Norman barons supporting Robert",
+        "wikiUrl": "https://en.wikipedia.org/wiki/William_II_of_England",
+        "note": "Led by Bishop Odo of Bayeux, the barons revolted in favour of Robert Curthose; as Robert failed to appear in England, William won the support of the English with silver and promises of better government.",
+        "labelCn": "平定支持罗贝尔的男爵叛乱"
+      },
+      {
+        "year": 1091,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "conquest",
+          "territory"
+        ],
+        "weight": 74,
+        "label": "Invaded Normandy, forcing Robert to cede lands",
+        "wikiUrl": "https://en.wikipedia.org/wiki/William_II_of_England",
+        "note": "William crushed Robert's forces and forced him to cede a portion of his lands.",
+        "labelCn": "入侵诺曼底，迫其兄割地"
+      },
+      {
+        "year": 1093,
+        "type": "religion",
+        "tags": [
+          "religion",
+          "church",
+          "government"
+        ],
+        "weight": 70,
+        "label": "Appointed Anselm Archbishop of Canterbury",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Anselm_of_Canterbury",
+        "note": "Named Anselm during a serious illness, having delayed a successor to Lanfranc since 1089 and taken the see's revenues; the two clashed repeatedly over ecclesiastical issues.",
+        "labelCn": "任命安瑟伦为坎特伯雷大主教"
+      },
+      {
+        "year": 1096,
+        "month": 11,
+        "type": "diplomacy",
+        "tags": [
+          "diplomacy",
+          "territory",
+          "crusade"
+        ],
+        "weight": 80,
+        "label": "Took Normandy in pledge from Robert and ruled it as regent",
+        "wikiUrl": "https://en.wikipedia.org/wiki/William_II_of_England",
+        "note": "Robert pledged his lands in Normandy to William in return for 10,000 marks (about a quarter of William's annual revenue) to fund the First Crusade; William then ruled Normandy as regent. Dating of the agreement approximate (late 1096).",
+        "labelCn": "取得罗贝尔抵押的诺曼底，代为统治"
+      },
+      {
+        "year": 1097,
+        "month": 10,
+        "type": "religion",
+        "tags": [
+          "religion",
+          "church"
+        ],
+        "weight": 66,
+        "label": "Archbishop Anselm went into exile",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Anselm_of_Canterbury",
+        "note": "In October 1097 Anselm left England after repeated conflicts with William, who retained the see's revenues.",
+        "labelCn": "大主教安瑟伦流亡"
+      },
+      {
+        "year": 1100,
+        "month": 8,
+        "day": 2,
+        "type": "death",
+        "tags": [
+          "death",
+          "violent",
+          "uncertain"
+        ],
+        "weight": 82,
+        "label": "Death in the New Forest",
+        "wikiUrl": "https://en.wikipedia.org/wiki/William_II_of_England",
+        "note": "Killed by an arrow through the lung while hunting. Walter Tirel is traditionally named, though intent remains disputed; Henry, his brother and successor, had the most to gain and was crowned within days.",
+        "labelCn": "死于新森林"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/William_II_of_England",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/William_II_of_England",
+    "sourceNote": "",
+    "notes": "Third son of William the Conqueror. Birth year is approximate (c. 1056-1060). Accession 1087; killed in the New Forest on 2 August 1100. Per project convention (docs/log.md Phase 2) the death is treated as clearly non-natural ('violent'); intent (accident vs murder) remains disputed.",
+    "createdDate": "260814",
+    "createdOrder": 5,
+    "deathCause": {
+      "kind": "violent",
+      "summary": "Killed by an arrow; intent disputed",
+      "detail": "William II was shot by an arrow through the lung in the New Forest on 2 August 1100. Walter Tirel is traditionally identified as the archer, but whether this was accident, negligence, or murder remains disputed; treated as non-natural per project convention. Henry I, his brother and successor, seized the treasury and was crowned within days.",
+      "culprit": "Walter Tirel (traditionally named; intent disputed)",
+      "wikiUrl": "https://en.wikipedia.org/wiki/William_II_of_England",
+      "summaryCn": "中箭身亡；意图存疑",
+      "detailCn": "1100 年 8 月 2 日威廉二世在新森林被箭射穿肺部身亡。传统上认定射箭者为沃尔特·蒂雷尔，但究竟是意外、过失还是谋杀仍有争议；按项目惯例视为非自然死亡。其弟兼继任者亨利一世随即夺取国库并于数日内加冕。",
+      "culpritCn": "沃尔特·蒂雷尔（传统说法；意图存疑）"
+    }
+  },
+  {
+    "id": "90840bac-1589-4ba4-abfe-9189e6046b36",
+    "firstName": "Henry",
+    "lastName": "Normandy",
+    "displayName": "Henry I",
+    "fullName": "Henry I of England",
+    "nickname": "Beauclerc",
+    "alsoKnownAs": [
+      "Henry Beauclerc",
+      "Henry FitzWilliam",
+      "The Lion of Justice"
+    ],
+    "nicknameTags": [
+      "beauclerc"
+    ],
+    "birthYear": 1068,
+    "deathYear": 1135,
+    "birthPlace": "Selby, Yorkshire, England",
+    "deathPlace": "Lyons-la-Foret, Duchy of Normandy",
+    "gender": "male",
+    "dynasty": "House of Normandy",
+    "house": "House of Normandy",
+    "culture": "Norman",
+    "faith": "Catholic",
+    "primaryTitle": "King of England",
+    "titles": [
+      {
+        "title": "King of England",
+        "startYear": 1100,
+        "endYear": 1135,
+        "titleCn": "英格兰国王"
+      },
+      {
+        "title": "Duke of Normandy",
+        "startYear": 1106,
+        "endYear": 1135,
+        "titleCn": "诺曼底公爵"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "commander",
+      "administrator"
+    ],
+    "rank": "king",
+    "importanceScore": 89,
+    "relationships": {
+      "fatherId": "21b5ec21-1812-4731-8b03-721988be302f",
+      "motherId": "2a19d3aa-7968-4c0b-9870-fe3db9c9b575",
+      "spouseIds": [
+        "8c48b7d7-e2bb-42f8-8c68-ce449b147eb0"
+      ],
+      "partnerIds": [
+        "de7af180-4027-4b64-a5c5-9c7c1ac271ae"
+      ],
+      "childIds": [
+        "f194f118-96af-4ad4-af2b-f8449720cff1"
+      ]
+    },
+    "events": [
+      {
+        "year": 1100,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "king"
+        ],
+        "weight": 92,
+        "label": "Became King of England",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_I_of_England",
+        "labelCn": "成为英格兰国王",
+        "note": "Seized the throne within days of William II's death in a New Forest hunting accident on 2 August 1100."
+      },
+      {
+        "year": 1100,
+        "month": 8,
+        "day": 5,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "king"
+        ],
+        "weight": 86,
+        "label": "Coronation as King of England",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_I_of_England",
+        "labelCn": "加冕为英格兰国王"
+      },
+      {
+        "year": 1100,
+        "month": 11,
+        "day": 11,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 80,
+        "label": "Marriage to Matilda of Scotland",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Matilda_of_Scotland",
+        "labelCn": "与苏格兰的玛蒂尔达成婚",
+        "note": "Married at Westminster Abbey; the match united the Norman line with the Anglo-Saxon royal house. Matilda died in 1118."
+      },
+      {
+        "year": 1100,
+        "type": "government",
+        "tags": [
+          "government",
+          "law"
+        ],
+        "weight": 84,
+        "label": "Charter of Liberties",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Charter_of_Liberties",
+        "labelCn": "颁布《自由宪章》",
+        "note": "Coronation charter promising to abandon William II's abuses of royal and Church power."
+      },
+      {
+        "year": 1101,
+        "type": "diplomacy",
+        "tags": [
+          "diplomacy",
+          "treaty",
+          "succession"
+        ],
+        "weight": 76,
+        "label": "Treaty of Alton",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Treaty_of_Alton",
+        "labelCn": "《阿尔顿条约》",
+        "note": "Peace with Robert Curthose, who recognised Henry as king of England in return for an annuity and renunciation of western Normandy claims."
+      },
+      {
+        "year": 1106,
+        "month": 9,
+        "day": 28,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "commander",
+          "succession"
+        ],
+        "weight": 96,
+        "label": "Battle of Tinchebray",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Tinchebray",
+        "labelCn": "坦什布赖战役",
+        "note": "Defeated and captured his brother Robert Curthose, who remained imprisoned for life."
+      },
+      {
+        "year": 1106,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "duke"
+        ],
+        "weight": 90,
+        "label": "Became Duke of Normandy",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_I_of_England",
+        "labelCn": "成为诺曼底公爵"
+      },
+      {
+        "year": 1119,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "commander"
+        ],
+        "weight": 72,
+        "label": "Battle of Brémule",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Br%C3%A9mule",
+        "labelCn": "布雷米尔战役",
+        "note": "Summer 1119; decisive victory over Louis VI of France."
+      },
+      {
+        "year": 1120,
+        "month": 11,
+        "day": 25,
+        "type": "dynasty",
+        "tags": [
+          "dynasty",
+          "succession",
+          "death"
+        ],
+        "weight": 94,
+        "label": "White Ship disaster",
+        "wikiUrl": "https://en.wikipedia.org/wiki/White_Ship",
+        "labelCn": "白船号海难",
+        "note": "His only legitimate son William Adelin drowned off Barfleur, leaving Henry without a male heir and triggering the succession crisis."
+      },
+      {
+        "year": 1121,
+        "month": 1,
+        "type": "marriage",
+        "tags": [
+          "marriage"
+        ],
+        "weight": 64,
+        "label": "Marriage to Adeliza of Louvain",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Adeliza_of_Louvain",
+        "labelCn": "与鲁汶的阿德莉萨成婚",
+        "note": "Married at Windsor Castle in January 1121; the marriage was childless. Adeliza is not in the roster."
+      },
+      {
+        "year": 1127,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "dynasty"
+        ],
+        "weight": 88,
+        "label": "Empress Matilda recognised as heir",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Empress_Matilda",
+        "labelCn": "指定玛蒂尔达为继承人",
+        "note": "In January 1127 Henry made the barons swear to accept his daughter Matilda as successor; a second oath was taken in 1131."
+      },
+      {
+        "year": 1135,
+        "month": 12,
+        "day": 1,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 62,
+        "label": "Death of Henry I",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_I_of_England",
+        "note": "Died at Saint-Denis-en-Lyons (Lyons-la-Foret) after a week of illness; traditionally linked to eating too many lampreys.",
+        "labelCn": "亨利一世去世"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Henry_I_of_England",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Henry_I_of_England",
+    "sourceNote": "",
+    "notes": "Youngest son of William the Conqueror. Birth year is approximate (c. 1068, possibly early 1069; born in or near Selby, Yorkshire). Second wife Adeliza of Louvain and son William Adelin are not in the roster. Partner link to Nest (ferch Rhys) added: she is recorded as his mistress and mother of Henry FitzRoy.",
+    "createdDate": "260814",
+    "createdOrder": 6,
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died after sudden illness",
+      "detail": "Henry I died in Normandy in 1135 after a sudden illness, traditionally said to have followed eating lampreys against medical advice.",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Henry_I_of_England",
+      "summaryCn": "突发疾病去世",
+      "detailCn": "1135 年亨利一世在诺曼底突发疾病去世，传统说法称他违背医嘱食用七鳃鳗后发病。"
+    },
+    "displayNameCn": "亨利一世",
+    "fullNameCn": "英格兰国王亨利一世",
+    "nicknameCn": "博克莱尔",
+    "primaryTitleCn": "英格兰国王",
+    "birthPlaceCn": "英格兰约克郡塞尔比",
+    "deathPlaceCn": "诺曼底公国利翁拉福雷",
+    "historicalRating": 8
+  },
+  {
+    "id": "0e597c77-dd0b-419c-9227-b56fb37e3b9d",
+    "firstName": "Richard",
+    "lastName": "Normandy",
+    "displayName": "Richard II",
+    "fullName": "Richard II, Duke of Normandy",
+    "displayNameCn": "理查二世",
+    "fullNameCn": "诺曼底公爵理查二世",
+    "nickname": "the Good",
+    "nicknameCn": "善者",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "gender": "male",
+    "birthYear": 980,
+    "deathYear": 1026,
+    "birthPlace": "Normandy",
+    "deathPlace": "Fécamp, Normandy",
+    "birthPlaceCn": "诺曼底",
+    "deathPlaceCn": "诺曼底费康",
+    "dynasty": "House of Normandy",
+    "house": "House of Normandy",
+    "culture": "Norman",
+    "faith": "Catholic",
+    "rank": "duke",
+    "primaryTitle": "Duke of Normandy",
+    "primaryTitleCn": "诺曼底公爵",
+    "titles": [
+      {
+        "title": "Duke of Normandy",
+        "startYear": 996,
+        "endYear": 1026,
+        "titleCn": "诺曼底公爵"
+      }
+    ],
+    "tags": [
+      "duke",
+      "noble"
+    ],
+    "importanceScore": 72,
+    "historicalRating": 7,
+    "relationships": {
+      "fatherId": "f9226738-a160-482d-9fe8-dbf10b285845",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "da51f613-00e2-42ff-9027-a052fac5fc07"
+      ]
+    },
+    "events": [
+      {
+        "year": 996,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title",
+          "dynasty"
+        ],
+        "weight": 88,
+        "label": "Succeeded his father Richard I as Duke of Normandy",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Richard_II,_Duke_of_Normandy",
+        "note": "Eldest surviving son of Richard the Fearless and Gunnor de Crepon. His uncle Count Rodulf of Ivry served as regent during his first years and put down a peasant insurrection.",
+        "labelCn": "继承其父理查一世成为诺曼底公爵"
+      },
+      {
+        "year": 1000,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance",
+          "dynasty"
+        ],
+        "weight": 68,
+        "label": "Double marriage alliance with Brittany",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Richard_II,_Duke_of_Normandy",
+        "note": "Richard married Judith of Brittany c. 1000, while his sister Hawise had wed her brother, Duke Geoffrey I, c. 996.",
+        "labelCn": "与布列塔尼结成双重联姻"
+      },
+      {
+        "year": 1001,
+        "type": "religion",
+        "tags": [
+          "religion",
+          "church"
+        ],
+        "weight": 70,
+        "label": "Church reform: William of Volpiano refounded Fécamp Abbey",
+        "wikiUrl": "https://en.wikipedia.org/wiki/William_of_Volpiano",
+        "note": "Richard brought the reformer William of Volpiano from Dijon to Normandy; Fécamp became the centre of monastic reform in the duchy.",
+        "labelCn": "教会改革：延请沃尔皮亚诺的威廉重建费康修道院"
+      },
+      {
+        "year": 1002,
+        "type": "diplomacy",
+        "tags": [
+          "diplomacy",
+          "dynastic_alliance",
+          "marriage"
+        ],
+        "weight": 80,
+        "label": "His sister Emma of Normandy married King Aethelred II of England",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Emma_of_Normandy",
+        "note": "The marriage later gave Richard's grandson, William the Conqueror, the basis of his claim to the English throne.",
+        "labelCn": "其妹埃玛嫁予英格兰国王埃塞尔雷德二世"
+      },
+      {
+        "year": 1002,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "defense",
+          "commander"
+        ],
+        "weight": 72,
+        "label": "Repelled an English attack on the Cotentin",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Richard_II,_Duke_of_Normandy",
+        "note": "After Richard sheltered Vikings raiding England, violating a treaty with Aethelred II, an English force attacked the Cotentin and was routed by the rapid Norman cavalry response. Exact year not fixed in the sources (early 1000s).",
+        "labelCn": "击退英格兰对科唐坦的进攻"
+      },
+      {
+        "year": 1013,
+        "type": "diplomacy",
+        "tags": [
+          "diplomacy",
+          "alliance"
+        ],
+        "weight": 74,
+        "label": "Hosted King Aethelred II and Queen Emma in Normandy",
+        "wikiUrl": "https://en.wikipedia.org/wiki/%C3%86thelred_the_Unready",
+        "note": "Emma fled with her sons Edward and Alfred after Sweyn Forkbeard's invasion; Aethelred followed shortly after. Richard also received Sweyn at Rouen and concluded an alliance with him.",
+        "labelCn": "在诺曼底接纳流亡的埃塞尔雷德二世与埃玛"
+      },
+      {
+        "year": 1026,
+        "month": 8,
+        "day": 28,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 76,
+        "label": "Death of Richard II",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Richard_II,_Duke_of_Normandy",
+        "note": "Died 28 August 1026; buried at Fécamp Abbey. Succeeded by his son Richard III, then Robert I.",
+        "labelCn": "理查二世去世"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Richard_II,_Duke_of_Normandy",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Richard_II,_Duke_of_Normandy",
+    "sourceNote": "",
+    "notes": "Called 'the Good' (Le Bon). Birth year debated: older scholarship suggested c. 963, modern accounts (Wikipedia) give c. 980; estimates range c. 963-980. Succeeded in 996 under the regency of his uncle Rodulf of Ivry. Commissioned Dudo of Saint-Quentin's history of the Norman dukes. His sister Emma's marriage to Aethelred II later underpinned William the Conqueror's claim to England.",
+    "createdDate": "260814",
+    "createdOrder": 7,
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died of natural causes (details unrecorded)",
+      "detail": "Richard II died on 28 August 1026; contemporary records do not specify the cause, and the death is conventionally treated as natural.",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Richard_II,_Duke_of_Normandy",
+      "summaryCn": "自然死亡（细节无记载）",
+      "detailCn": "理查二世于 1026 年 8 月 28 日去世；当时史料未记载死因，按自然死亡处理。"
+    }
+  },
+  {
+    "id": "f194f118-96af-4ad4-af2b-f8449720cff1",
+    "firstName": "Matilda",
+    "lastName": "Normandy",
+    "displayName": "Empress Matilda",
+    "fullName": "Empress Matilda",
+    "displayNameCn": "玛蒂尔达皇后",
+    "fullNameCn": "神圣罗马帝国皇后玛蒂尔达",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "gender": "female",
+    "birthYear": 1102,
+    "deathYear": 1167,
+    "birthPlace": "Winchester or Sutton Courtenay, England (uncertain)",
+    "deathPlace": "Notre-Dame-du-Pré, near Rouen, Normandy",
+    "birthPlaceCn": "英格兰（温切斯特或萨顿考特尼，不确定）",
+    "deathPlaceCn": "诺曼底鲁昂附近的普雷圣母修道院",
+    "dynasty": "House of Normandy",
+    "house": "House of Normandy",
+    "culture": "Norman",
+    "faith": "Catholic",
+    "rank": "empress",
+    "primaryTitle": "Holy Roman Empress",
+    "primaryTitleCn": "神圣罗马帝国皇后",
+    "titles": [
+      {
+        "title": "Holy Roman Empress",
+        "startYear": 1114,
+        "endYear": 1125,
+        "titleCn": "神圣罗马帝国皇后"
+      },
+      {
+        "title": "Lady of the English",
+        "startYear": 1141,
+        "endYear": 1141,
+        "titleCn": "英格兰人的夫人"
+      },
+      {
+        "title": "Countess of Anjou",
+        "startYear": 1128,
+        "endYear": 1151,
+        "titleCn": "安茹伯爵夫人"
+      }
+    ],
+    "tags": [
+      "empress",
+      "count",
+      "noble"
+    ],
+    "importanceScore": 88,
+    "historicalRating": 8,
+    "relationships": {
+      "fatherId": "90840bac-1589-4ba4-abfe-9189e6046b36",
+      "motherId": "8c48b7d7-e2bb-42f8-8c68-ce449b147eb0",
+      "spouseIds": [
+        "9fd77e98-145c-4153-b806-768ff1d76ba6",
+        "cc0cb400-e684-4bdb-b477-9a8fb578f4f5"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "29e2abba-321e-4090-a35d-10f0bd6a420a"
+      ]
+    },
+    "events": [
+      {
+        "year": 1114,
+        "month": 1,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 85,
+        "label": "Marriage to Emperor Henry V at Worms",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_V,_Holy_Roman_Emperor",
+        "note": "Matilda had been crowned German queen at Mainz on 25 July 1110; the wedding to the Holy Roman Emperor took place at Worms in January 1114.",
+        "labelCn": "在沃尔姆斯与皇帝亨利五世成婚"
+      },
+      {
+        "year": 1125,
+        "month": 5,
+        "day": 23,
+        "type": "dynasty",
+        "tags": [
+          "dynasty",
+          "succession"
+        ],
+        "weight": 78,
+        "label": "Widowed on the death of Emperor Henry V",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_V,_Holy_Roman_Emperor",
+        "note": "Henry V died on 23 May 1125 at Utrecht; Matilda then returned to Normandy and later England.",
+        "labelCn": "皇帝亨利五世去世，玛蒂尔达守寡"
+      },
+      {
+        "year": 1127,
+        "month": 1,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "government"
+        ],
+        "weight": 90,
+        "label": "English barons swore an oath recognizing Matilda as Henry I's heir",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Empress_Matilda",
+        "note": "The barons gathered at Westminster at Christmas 1126 and swore in January 1127 to recognize Matilda and any future legitimate heir; some accounts date the oath to 1126. A second collective oath followed in September 1131.",
+        "labelCn": "英格兰贵族宣誓承认玛蒂尔达为继承人"
+      },
+      {
+        "year": 1128,
+        "month": 6,
+        "day": 17,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynasty"
+        ],
+        "weight": 95,
+        "label": "Marriage to Geoffrey Plantagenet, Count of Anjou",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Geoffrey_Plantagenet,_Count_of_Anjou",
+        "note": "Married at Le Mans on 17 June 1128; their son, the future Henry II, was born in 1133.",
+        "labelCn": "与安茹伯爵金雀花若弗鲁瓦成婚"
+      },
+      {
+        "year": 1135,
+        "month": 12,
+        "type": "succession",
+        "tags": [
+          "title",
+          "succession"
+        ],
+        "weight": 98,
+        "label": "Claimed the English throne",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Empress_Matilda",
+        "note": "After Henry I's death in late 1135, Stephen seized the throne and was crowned at Westminster on 22 December 1135, beginning the period known as the Anarchy.",
+        "labelCn": "宣称英格兰王位"
+      },
+      {
+        "year": 1139,
+        "month": 9,
+        "day": 30,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "succession"
+        ],
+        "weight": 80,
+        "label": "Arrived in England, landing at Arundel",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Empress_Matilda",
+        "note": "On 30 September 1139 Robert of Gloucester and Matilda arrived in England with a force of 140 knights, opening the armed phase of her claim.",
+        "labelCn": "在阿伦德尔登陆，进入英格兰"
+      },
+      {
+        "year": 1141,
+        "month": 2,
+        "day": 2,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "succession"
+        ],
+        "weight": 90,
+        "label": "Captured King Stephen at Lincoln",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Lincoln_(1141)",
+        "note": "Stephen was captured at the Battle of Lincoln on 2 February 1141.",
+        "labelCn": "在林肯俘虏国王斯蒂芬"
+      },
+      {
+        "year": 1141,
+        "month": 4,
+        "day": 8,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "succession",
+          "government"
+        ],
+        "weight": 93,
+        "label": "Proclaimed Lady of the English",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Empress_Matilda",
+        "note": "The clergy declared for Matilda at Winchester on 8 April 1141. She was never crowned queen: her planned coronation collapsed amid London opposition and she fled the city on 24 June 1141.",
+        "labelCn": "被宣布为「英格兰人的夫人」"
+      },
+      {
+        "year": 1148,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "territory"
+        ],
+        "weight": 74,
+        "label": "Departed England for Normandy, ending her active claim",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Empress_Matilda",
+        "note": "After the Rout of Winchester (1141) and the death of her chief supporter Robert of Gloucester in 1147, Matilda left England for Normandy in early 1148, though she retained the title until 1153.",
+        "labelCn": "离开英格兰返回诺曼底"
+      },
+      {
+        "year": 1153,
+        "type": "diplomacy",
+        "tags": [
+          "diplomacy",
+          "succession"
+        ],
+        "weight": 100,
+        "label": "Treaty of Wallingford secured Henry's succession",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Treaty_of_Wallingford",
+        "note": "The settlement (also known as the Treaty of Winchester) recognized Stephen as king for life with Matilda's son Henry as heir; Henry succeeded as Henry II in 1154.",
+        "labelCn": "《沃灵福德条约》确保亨利的继承权"
+      },
+      {
+        "year": 1167,
+        "month": 9,
+        "day": 10,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 88,
+        "label": "Death of Empress Matilda",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Empress_Matilda",
+        "note": "Died 10 September 1167 at the priory of Notre-Dame-du-Pré near Rouen; buried at Bec Abbey, later reburied at Rouen Cathedral.",
+        "labelCn": "玛蒂尔达皇后去世"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Empress_Matilda",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Empress_Matilda",
+    "sourceNote": "",
+    "notes": "Daughter of Henry I and Matilda of Scotland; wife of Emperor Henry V and of Geoffroy V of Anjou; mother of Henry II. Never crowned queen of England: her planned coronation collapsed amid London opposition (April-June 1141). Oath dating: barons gathered at Westminster at Christmas 1126 and swore in January 1127 (some accounts say 1126).",
+    "createdDate": "260814",
+    "createdOrder": 8,
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died of natural causes",
+      "detail": "Empress Matilda died on 10 September 1167 at the priory of Notre-Dame-du-Pré near Rouen after a long political life; buried at Bec Abbey, later reburied at Rouen Cathedral.",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Empress_Matilda",
+      "summaryCn": "自然死亡",
+      "detailCn": "1167 年 9 月 10 日，玛蒂尔达皇后在鲁昂附近的普雷圣母修道院去世，结束了漫长的政治生涯；安葬于贝克修道院，后改葬鲁昂大教堂。"
+    }
+  },
+  {
+    "id": "97cf6de4-4f41-4ebe-8034-85fc0f1bf90e",
+    "firstName": "Rollo",
+    "lastName": "Normandy",
+    "displayName": "Rollo",
+    "fullName": "Rollo the Walker",
+    "displayNameCn": "罗洛",
+    "fullNameCn": "行者罗洛",
+    "nickname": "the Walker",
+    "nicknameCn": "行者",
+    "alsoKnownAs": [
+      "Rolf"
+    ],
+    "nicknameTags": [
+      "walker"
+    ],
+    "gender": "male",
+    "birthYear": 860,
+    "deathYear": 930,
+    "birthPlace": "Scandinavia (Norway or Denmark; disputed)",
+    "deathPlace": "Duchy of Normandy (buried at Rouen Cathedral)",
+    "birthPlaceCn": "斯堪的纳维亚（挪威或丹麦；有争议）",
+    "deathPlaceCn": "诺曼底公国（葬于鲁昂大教堂）",
+    "dynasty": "House of Normandy",
+    "house": "House of Normandy",
+    "culture": "Norse",
+    "faith": "Catholic",
+    "rank": "count",
+    "primaryTitle": "Count of Rouen",
+    "primaryTitleCn": "鲁昂伯爵",
+    "titles": [
+      {
+        "title": "Count of Rouen",
+        "startYear": 911,
+        "endYear": 927,
+        "titleCn": "鲁昂伯爵"
+      }
+    ],
+    "tags": [
+      "commander",
+      "noble"
+    ],
+    "importanceScore": 88,
+    "historicalRating": 8,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "88618620-6fc3-4058-8fa5-475bd0363c94"
+      ]
+    },
+    "events": [
+      {
+        "year": 876,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "conquest",
+          "uncertain"
+        ],
+        "weight": 66,
+        "label": "Viking raids on West Francia; traditional seizure of Rouen",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Rollo",
+        "note": "Dudo of Saint-Quentin places Rollo taking Rouen in 876; modern scholars dispute this and he may not have reached West Francia until after 876.",
+        "labelCn": "洗劫西法兰克；传统记载攻取鲁昂"
+      },
+      {
+        "year": 886,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "battle",
+          "commander"
+        ],
+        "weight": 72,
+        "label": "Took part in the Viking Siege of Paris (885-886)",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Siege_of_Paris_(885%E2%80%93886)",
+        "labelCn": "参与维京人对巴黎的围城（885–886 年）"
+      },
+      {
+        "year": 911,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "defeat",
+          "campaign"
+        ],
+        "weight": 74,
+        "label": "Siege of Chartres; defeated by the Franks",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Siege_of_Chartres_(911)",
+        "note": "The Frankish victory under Robert of France helped bring about the treaty with Charles the Simple.",
+        "labelCn": "围攻沙特尔，为法兰克人所败"
+      },
+      {
+        "year": 911,
+        "type": "title",
+        "tags": [
+          "title",
+          "diplomacy",
+          "treaty",
+          "uncertain"
+        ],
+        "weight": 100,
+        "label": "Treaty of Saint-Clair-sur-Epte; granted Normandy",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Treaty_of_Saint-Clair-sur-Epte",
+        "note": "The 911 date rests on later tradition (Dudo of Saint-Quentin); the earliest independent evidence is a charter of 918, and some historians date the agreement c. 911-912. Rollo received the lands between the Epte and the sea in exchange for allegiance and baptism.",
+        "labelCn": "《圣克莱尔-叙尔-埃普特条约》；获授诺曼底"
+      },
+      {
+        "year": 912,
+        "type": "religion",
+        "tags": [
+          "religion",
+          "dynasty"
+        ],
+        "weight": 82,
+        "label": "Baptized at Rouen",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Rollo",
+        "note": "Took the baptismal name Robert after his godfather, Robert I of France. Some scholars argue the conversion was only formal at first and paganism persisted.",
+        "labelCn": "在鲁昂受洗"
+      },
+      {
+        "year": 927,
+        "type": "succession",
+        "tags": [
+          "title",
+          "dynasty"
+        ],
+        "weight": 78,
+        "label": "Passed the Norman succession to William Longsword",
+        "wikiUrl": "https://en.wikipedia.org/wiki/William_I,_Duke_of_Normandy",
+        "note": "Rule passed by c. 927-928; Rollo is last mentioned by the chronicler Flodoard in 928.",
+        "labelCn": "将诺曼继承权传给长剑威廉"
+      },
+      {
+        "year": 930,
+        "type": "death",
+        "tags": [
+          "death",
+          "uncertain"
+        ],
+        "weight": 78,
+        "label": "Death of Rollo",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Rollo",
+        "note": "Died c. 930; sources place his death between his last mention in 928 and 933. Buried at Rouen Cathedral; cause of death unrecorded.",
+        "labelCn": "罗洛去世"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Rollo",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Rollo",
+    "sourceNote": "",
+    "notes": "First ruler of Normandy, commonly styled Count of Rouen. Early dates are approximate. Origins debated: Dudo of Saint-Quentin claimed he was Danish, while Icelandic/Norwegian sagas identify him with Hrolfr of More, western Norway. Treaty dating: 911 per later tradition, earliest independent evidence a charter of 918. His rule passed to William Longsword by c. 927-928; he died between 928 and 933.",
+    "createdDate": "260815",
+    "createdOrder": 1,
+    "deathCause": {
+      "kind": "uncertain",
+      "summary": "Death details uncertain",
+      "detail": "Rollo died c. 930 (sources place his death between his last mention by Flodoard in 928 and 933); the surviving accounts do not establish a reliable cause of death. He was buried at Rouen Cathedral.",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Rollo",
+      "summaryCn": "死亡详情存疑",
+      "detailCn": "罗洛约于 930 年去世（史料将其死期定于 928 年最后一次被弗洛多阿尔提及至 933 年之间）；现存史料无法确立可靠的死因。他安葬于鲁昂大教堂。"
+    }
+  },
+  {
+    "id": "88618620-6fc3-4058-8fa5-475bd0363c94",
+    "firstName": "Guillaume",
+    "lastName": "Normandy",
+    "displayName": "Guillaume Longue-Épée",
+    "fullName": "Guillaume Longue-Épée, Count of Rouen",
+    "displayNameCn": "长剑纪尧姆",
+    "fullNameCn": "鲁昂伯爵长剑纪尧姆",
+    "nickname": "Longue-Épée",
+    "nicknameCn": "长剑",
+    "alsoKnownAs": [
+      "William Longsword"
+    ],
+    "nicknameTags": [
+      "longsword"
+    ],
+    "gender": "male",
+    "birthYear": 893,
+    "deathYear": 942,
+    "birthPlace": "Normandy or England (uncertain)",
+    "deathPlace": "Picquigny, Somme, West Francia",
+    "birthPlaceCn": "诺曼底或英格兰（不确定）",
+    "deathPlaceCn": "西法兰克索姆河畔皮基尼",
+    "dynasty": "House of Normandy",
+    "house": "House of Normandy",
+    "culture": "Norman",
+    "faith": "Catholic",
+    "rank": "count",
+    "primaryTitle": "Count of Rouen",
+    "primaryTitleCn": "鲁昂伯爵",
+    "titles": [
+      {
+        "title": "Count of Rouen",
+        "startYear": 927,
+        "endYear": 942,
+        "titleCn": "鲁昂伯爵"
+      }
+    ],
+    "tags": [
+      "commander",
+      "noble"
+    ],
+    "importanceScore": 80,
+    "historicalRating": 8,
+    "relationships": {
+      "fatherId": "97cf6de4-4f41-4ebe-8034-85fc0f1bf90e",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "f9226738-a160-482d-9fe8-dbf10b285845"
+      ]
+    },
+    "events": [
+      {
+        "year": 927,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title",
+          "dynasty"
+        ],
+        "weight": 88,
+        "label": "Succeeded Rollo as Count of Rouen",
+        "wikiUrl": "https://en.wikipedia.org/wiki/William_Longsword",
+        "note": "Rollo lived on for about five more years; rule passed c. 927-928.",
+        "labelCn": "继承罗洛成为鲁昂伯爵"
+      },
+      {
+        "year": 933,
+        "type": "title",
+        "tags": [
+          "title",
+          "territory",
+          "diplomacy"
+        ],
+        "weight": 78,
+        "label": "Recognized King Rudolph; granted Cotentin and Avranchin",
+        "wikiUrl": "https://en.wikipedia.org/wiki/William_Longsword",
+        "note": "In exchange for recognizing Rudolph as king of West Francia, William received lordship over much of the lands of the Bretons, including Avranches, the Cotentin Peninsula and the Channel Islands.",
+        "labelCn": "承认鲁道夫国王；获授科唐坦与阿夫朗尚"
+      },
+      {
+        "year": 933,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "dynasty"
+        ],
+        "weight": 60,
+        "label": "Birth of his son Richard (the future Richard I)",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Richard_I_of_Normandy",
+        "note": "Richard was born c. 933 to Sprota, William's more danico (non-Christian) wife.",
+        "labelCn": "儿子理查（未来的理查一世）出生"
+      },
+      {
+        "year": 935,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 68,
+        "label": "Marriage to Luitgarde of Vermandois",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Luitgarde_of_Vermandois",
+        "note": "Daughter of Count Herbert II of Vermandois; the union produced no children.",
+        "labelCn": "与韦尔芒杜瓦的吕特加德成婚"
+      },
+      {
+        "year": 936,
+        "type": "diplomacy",
+        "tags": [
+          "diplomacy",
+          "alliance"
+        ],
+        "weight": 62,
+        "label": "Received King Louis IV on his return from England",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Louis_IV_of_France",
+        "note": "William was among the Norman magnates who received the new king of West Francia, called back from exile in England.",
+        "labelCn": "迎接自英格兰归来的国王路易四世"
+      },
+      {
+        "year": 939,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "territory"
+        ],
+        "weight": 66,
+        "label": "Conflict with Arnulf I of Flanders",
+        "wikiUrl": "https://en.wikipedia.org/wiki/William_Longsword",
+        "note": "William aided his brother-in-law Herluin II of Montreuil against Arnulf; Arnulf retaliated against Normandy, and William was excommunicated for ravaging Arnulf's estates.",
+        "labelCn": "与佛兰德的阿努尔夫一世交战"
+      },
+      {
+        "year": 942,
+        "month": 12,
+        "day": 17,
+        "type": "death",
+        "tags": [
+          "death",
+          "violent"
+        ],
+        "weight": 95,
+        "label": "Assassinated by Arnulf's followers at Picquigny",
+        "wikiUrl": "https://en.wikipedia.org/wiki/William_Longsword",
+        "note": "Ambushed and killed while attending a peace conference on an island in the Somme at Picquigny.",
+        "labelCn": "在皮基尼遭阿努尔夫党羽刺杀"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/William_Longsword",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/William_Longsword",
+    "sourceNote": "",
+    "notes": "Second ruler of Normandy; contemporary sources called him Count of Rouen, and 'duke' only came into common usage in the 11th century. Son of Rollo and Poppa of Bayeux. Assassinated on 17 December 942 at Picquigny by followers of Arnulf I of Flanders; his son Richard I (aged about ten) succeeded him. Birth year approximate (c. 893), possibly in England.",
+    "createdDate": "260815",
+    "createdOrder": 2,
+    "deathCause": {
+      "kind": "violent",
+      "summary": "Assassinated at a peace conference",
+      "detail": "William Longsword was ambushed and killed on 17 December 942 by followers of Arnulf I of Flanders while attending a peace conference at Picquigny, on an island in the Somme.",
+      "culprit": "Followers of Arnulf I, Count of Flanders",
+      "wikiUrl": "https://en.wikipedia.org/wiki/William_Longsword",
+      "summaryCn": "和谈时遭暗杀",
+      "detailCn": "942 年 12 月 17 日，长剑纪尧姆在索姆河皮基尼岛与佛兰德伯爵阿努尔夫一世进行和谈时，遭阿努尔夫党羽伏击杀害。",
+      "culpritCn": "佛兰德伯爵阿努尔夫一世的党羽"
+    }
+  },
+  {
+    "id": "f9226738-a160-482d-9fe8-dbf10b285845",
+    "firstName": "Richard",
+    "lastName": "Normandy",
+    "displayName": "Richard I of Normandy",
+    "fullName": "Richard I the Fearless",
+    "displayNameCn": "诺曼底的理查一世",
+    "fullNameCn": "无畏者理查一世",
+    "nickname": "the Fearless",
+    "nicknameCn": "无畏者",
+    "alsoKnownAs": [],
+    "nicknameTags": [
+      "fearless"
+    ],
+    "gender": "male",
+    "birthYear": 933,
+    "deathYear": 996,
+    "birthPlace": "Fécamp, Normandy",
+    "deathPlace": "Fécamp, Normandy",
+    "birthPlaceCn": "诺曼底费康",
+    "deathPlaceCn": "诺曼底费康",
+    "dynasty": "House of Normandy",
+    "house": "House of Normandy",
+    "culture": "Norman",
+    "faith": "Catholic",
+    "rank": "duke",
+    "primaryTitle": "Duke of Normandy",
+    "primaryTitleCn": "诺曼底公爵",
+    "titles": [
+      {
+        "title": "Duke of Normandy",
+        "startYear": 942,
+        "endYear": 996,
+        "titleCn": "诺曼底公爵"
+      }
+    ],
+    "tags": [
+      "commander",
+      "duke",
+      "noble"
+    ],
+    "importanceScore": 82,
+    "historicalRating": 8,
+    "relationships": {
+      "fatherId": "88618620-6fc3-4058-8fa5-475bd0363c94",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "0e597c77-dd0b-419c-9227-b56fb37e3b9d",
+        "11999429-e764-4ed2-9c8c-cf95cfbbdecc"
+      ]
+    },
+    "events": [
+      {
+        "year": 942,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "dynasty",
+          "uncertain"
+        ],
+        "weight": 82,
+        "label": "Succeeded his murdered father at about age ten",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Richard_I_of_Normandy",
+        "note": "Richard was about ten when William Longsword was killed on 17 December 942. King Louis IV first installed him, then seized duchy lands and held Richard at Laon until Norman knights (led by Osmond de Centville and Bernard the Dane) secured his release.",
+        "labelCn": "年仅约十岁继承遭弑之父的领地"
+      },
+      {
+        "year": 946,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "title",
+          "succession"
+        ],
+        "weight": 80,
+        "label": "Defeated King Louis IV; recognized as duke",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Richard_I_of_Normandy",
+        "note": "Allied with Norman and Viking leaders plus men sent by Harald Bluetooth; Louis IV was captured and the subsequent Treaty of Gerberoy (c. 947) recognized Richard as duke.",
+        "labelCn": "击败路易四世；《热伯鲁瓦条约》承认理查为公爵"
+      },
+      {
+        "year": 960,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 74,
+        "label": "Marriage to Emma of Paris, daughter of Hugh the Great",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Emma_of_Paris",
+        "note": "Connected Richard directly to the House of Capet; Emma died after March 968 with no issue.",
+        "labelCn": "与巴黎的埃玛成婚（强者于格之女）"
+      },
+      {
+        "year": 962,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "defense",
+          "commander"
+        ],
+        "weight": 72,
+        "label": "Repelled the invasion of Theobald I of Blois",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Richard_I_of_Normandy",
+        "note": "Count Theobald I of Blois invaded in 962 but was routed before crossing the Seine.",
+        "labelCn": "击退布卢瓦的蒂博一世入侵"
+      },
+      {
+        "year": 965,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynasty"
+        ],
+        "weight": 64,
+        "label": "Marriage to Gunnor (more danico); children legitimized",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Gunnor",
+        "note": "Gunnor was of Viking/Danish descent; Richard married her to legitimize their children, including the future Richard II. Date not precisely recorded (mid-960s).",
+        "labelCn": "与古诺尔结合，子女获合法地位"
+      },
+      {
+        "year": 987,
+        "type": "diplomacy",
+        "tags": [
+          "diplomacy",
+          "alliance",
+          "dynasty"
+        ],
+        "weight": 72,
+        "label": "Alliance with the new King of the Franks, Hugh Capet",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Hugh_Capet",
+        "note": "Richard had been made guardian of the young Hugh Capet in 955; his marriage to Emma of Paris tied him to the Capetian house.",
+        "labelCn": "与法兰克新王于格·卡佩结盟"
+      },
+      {
+        "year": 990,
+        "type": "religion",
+        "tags": [
+          "religion",
+          "church",
+          "government"
+        ],
+        "weight": 70,
+        "label": "Rebuilt Fécamp Abbey",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Fécamp_Abbey",
+        "note": "Richard restored the abbey destroyed by Viking raids; he was later buried there.",
+        "labelCn": "重建费康修道院"
+      },
+      {
+        "year": 996,
+        "month": 11,
+        "day": 20,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 80,
+        "label": "Death of Richard I",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Richard_I_of_Normandy",
+        "note": "Died of natural causes at Fécamp; buried at Fécamp Abbey. Succeeded by his son Richard II.",
+        "labelCn": "理查一世去世"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Richard_I_of_Normandy",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Richard_I_of_Normandy",
+    "sourceNote": "",
+    "notes": "Ducal terminology for early Norman rulers varies by source; this card uses the conventional modern title. Born c. 932-933 (Wikipedia infobox gives 28 August 932 at Fécamp). Succeeded at about age ten after his father's murder. In his last 30 years he made Normandy the most cohesive and formidable principality in West Francia. Died of natural causes on 20 November 996; father of Richard II.",
+    "createdDate": "260815",
+    "createdOrder": 3,
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died of natural causes",
+      "detail": "Richard I died of natural causes on 20 November 996 at Fécamp, aged about 64, and was buried at Fécamp Abbey.",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Richard_I_of_Normandy",
+      "summaryCn": "自然死亡",
+      "detailCn": "理查一世于 996 年 11 月 20 日在费康自然去世，享年约 64 岁，安葬于费康修道院。"
+    }
+  },
+  {
+    "id": "11999429-e764-4ed2-9c8c-cf95cfbbdecc",
+    "firstName": "Emma",
+    "lastName": "Normandy",
+    "displayName": "Emma of Normandy",
+    "fullName": "Emma of Normandy",
+    "displayNameCn": "诺曼底的艾玛",
+    "fullNameCn": "诺曼底的艾玛",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [
+      "Ælfgifu"
+    ],
+    "nicknameTags": [],
+    "birthYear": 984,
+    "deathYear": 1052,
+    "birthPlace": "Normandy",
+    "deathPlace": "Winchester, England",
+    "birthPlaceCn": "诺曼底",
+    "deathPlaceCn": "英格兰温彻斯特",
+    "gender": "female",
+    "dynasty": "House of Normandy",
+    "house": "House of Normandy",
+    "culture": "Norman",
+    "faith": "Catholic",
+    "primaryTitle": "Queen of England",
+    "primaryTitleCn": "英格兰王后",
+    "titles": [
+      {
+        "title": "Queen of England",
+        "titleCn": "英格兰王后",
+        "startYear": 1002,
+        "endYear": 1016
+      },
+      {
+        "title": "Queen of England",
+        "titleCn": "英格兰王后",
+        "startYear": 1017,
+        "endYear": 1035
+      }
+    ],
+    "tags": [
+      "queen",
+      "noble",
+      "administrator"
+    ],
+    "rank": "queen",
+    "importanceScore": 91,
+    "historicalRating": 9,
+    "relationships": {
+      "fatherId": "f9226738-a160-482d-9fe8-dbf10b285845",
+      "motherId": "",
+      "spouseIds": [
+        "ed0b5627-f0d9-4c85-ac64-26c1c4c3e4b2",
+        "0fb64530-ea06-47ec-9570-6166155b53ba"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "a9d5b087-d9a5-4970-8f5c-6701fdb0463c",
+        "0a5b30a1-051e-41ea-a10a-1c37ce523603"
+      ]
+    },
+    "events": [
+      {
+        "year": 1002,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynasty"
+        ],
+        "weight": 90,
+        "label": "Marriage to Æthelred II",
+        "labelCn": "与埃塞尔雷德二世结婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Emma_of_Normandy"
+      },
+      {
+        "year": 1013,
+        "type": "exile",
+        "tags": [
+          "exile",
+          "dynasty"
+        ],
+        "weight": 82,
+        "label": "Fled to Normandy during Sweyn's conquest",
+        "labelCn": "斯温征服时逃往诺曼底",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Emma_of_Normandy"
+      },
+      {
+        "year": 1017,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynasty"
+        ],
+        "weight": 94,
+        "label": "Marriage to Cnut",
+        "labelCn": "与克努特结婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Emma_of_Normandy"
+      },
+      {
+        "year": 1035,
+        "type": "regency",
+        "tags": [
+          "government",
+          "dynasty"
+        ],
+        "weight": 86,
+        "label": "Acted for Harthacnut's claim",
+        "labelCn": "为哈德克努特的继承权主持政局",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Emma_of_Normandy"
+      },
+      {
+        "year": 1042,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "dynasty"
+        ],
+        "weight": 84,
+        "label": "Edward the Confessor became king",
+        "labelCn": "忏悔者爱德华成为国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Emma_of_Normandy"
+      }
+    ],
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died at Winchester",
+      "summaryCn": "在温彻斯特去世",
+      "detail": "Emma died in 1052 and was buried in the Old Minster at Winchester.",
+      "detailCn": "艾玛于1052年去世，葬于温彻斯特旧教堂。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Emma_of_Normandy"
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Emma_of_Normandy",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Emma_of_Normandy",
+    "sourceNote": "Norman duchess who was queen to Æthelred II and then Cnut; mother of Edward the Confessor and Harthacnut.",
+    "notes": "Full cross-dynastic anchor card. Her son Alfred Ætheling is outside the current roster.",
+    "createdDate": "260818",
+    "createdOrder": 149
+  }
+]

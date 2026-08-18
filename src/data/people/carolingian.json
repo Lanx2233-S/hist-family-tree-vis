@@ -1,0 +1,1895 @@
+[
+  {
+    "id": "ca47aef7-9566-469b-acb4-098529825888",
+    "firstName": "Bernard",
+    "lastName": "Carolingian",
+    "displayName": "Bernard of Italy",
+    "fullName": "Bernard, King of Italy",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Bernard of Lombardy"
+    ],
+    "nicknameTags": [],
+    "birthYear": 797,
+    "deathYear": 818,
+    "birthPlace": "Vermandois, Francia",
+    "birthPlaceCn": "法兰克韦尔芒杜瓦",
+    "deathPlace": "Aachen, Francia",
+    "deathPlaceCn": "法兰克亚琛",
+    "gender": "male",
+    "dynasty": "Carolingian dynasty",
+    "house": "Carolingian dynasty",
+    "culture": "Frankish",
+    "faith": "Catholic",
+    "primaryTitle": "King of Italy",
+    "primaryTitleCn": "意大利国王",
+    "titles": [
+      {
+        "title": "King of Italy",
+        "startYear": 810,
+        "endYear": 818,
+        "titleCn": "意大利国王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "noble"
+    ],
+    "rank": "king",
+    "importanceScore": 70,
+    "relationships": {
+      "fatherId": "ed8b06b2-bcbf-46ba-b032-6ef61d9bdd2a",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "f1f472eb-b141-42d4-9590-bc9700c40e6f"
+      ]
+    },
+    "events": [
+      {
+        "year": 810,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "king",
+          "succession"
+        ],
+        "weight": 85,
+        "label": "King of Italy",
+        "labelCn": "成为意大利国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Bernard_of_Italy",
+        "note": "Succeeded his father Pepin; Charlemagne confirmed him in 812 and 813."
+      },
+      {
+        "year": 817,
+        "type": "rebellion",
+        "tags": [
+          "rebellion",
+          "king"
+        ],
+        "weight": 90,
+        "label": "Rebellion against Louis the Pious",
+        "labelCn": "起兵反抗虔诚者路易",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ordinatio_Imperii",
+        "note": "After the Ordinatio Imperii made him a vassal of his cousin Lothair; he surrendered at Chalon and was taken to Aachen."
+      },
+      {
+        "year": 818,
+        "type": "political_crisis",
+        "tags": [
+          "imprisonment",
+          "king",
+          "violent"
+        ],
+        "weight": 88,
+        "label": "Condemned for treason; blinded",
+        "labelCn": "以叛国罪被定罪并遭刺瞎双眼",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Bernard_of_Italy",
+        "note": "Tried and condemned for treason at the end of 817; the death sentence was commuted to blinding with a red-hot stiletto."
+      },
+      {
+        "year": 818,
+        "month": 4,
+        "day": 17,
+        "type": "death",
+        "tags": [
+          "death",
+          "king",
+          "violent"
+        ],
+        "weight": 92,
+        "label": "Death from blinding wounds at Aachen",
+        "labelCn": "在亚琛因失明酷刑去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Bernard_of_Italy",
+        "note": "Died in agony two days after the blinding procedure; buried at Milan."
+      }
+    ],
+    "deathCause": {
+      "kind": "violent",
+      "summary": "Blinded on Louis the Pious's orders; died of the wounds",
+      "detail": "After his 817 rebellion Bernard was tried for treason and sentenced to death, commuted to blinding, carried out by pressing a red-hot stiletto to the eyeballs. He died in agony two days later, on 17 April 818 at Aachen. The blinding was punishment for rebellion against Louis the Pious.",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Bernard_of_Italy",
+      "summaryCn": "被刺瞎双眼后伤重而死",
+      "detailCn": "817 年叛乱失败后，伯纳德以叛国罪受审，死刑被改为刺瞎双眼（以烧红的利器灼烧眼球）。两天后即 818 年 4 月 17 日，他在亚琛痛苦死去。失明是对其背叛虔诚者路易的惩罚。"
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Bernard_of_Italy",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Bernard_of_Italy",
+    "sourceNote": "Son of Pepin of Italy and grandson of Charlemagne.",
+    "notes": "His son Pepin founded the Vermandois branch. An illegitimate son of Pepin of Italy, born c. 797 in Vermandois. Death place is Aachen (Milan is his burial place). His 817 plot against Louis the Pious ended his life; the Carolingian male line descended through him to the counts of Vermandois.",
+    "createdDate": "260817",
+    "createdOrder": 71,
+    "displayNameCn": "意大利的伯纳德",
+    "fullNameCn": "意大利国王伯纳德",
+    "historicalRating": 7
+  },
+  {
+    "id": "ed8b06b2-bcbf-46ba-b032-6ef61d9bdd2a",
+    "firstName": "Pepin",
+    "lastName": "Carolingian",
+    "displayName": "Pepin of Italy",
+    "fullName": "Pepin, King of Italy",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Pepin of Lombardy",
+      "Carloman"
+    ],
+    "nicknameTags": [],
+    "birthYear": 777,
+    "deathYear": 810,
+    "birthPlace": "Italy",
+    "birthPlaceCn": "意大利",
+    "deathPlace": "Milan, Italy",
+    "deathPlaceCn": "意大利米兰",
+    "gender": "male",
+    "dynasty": "Carolingian dynasty",
+    "house": "Carolingian dynasty",
+    "culture": "Frankish",
+    "faith": "Catholic",
+    "primaryTitle": "King of Italy",
+    "primaryTitleCn": "意大利国王",
+    "titles": [
+      {
+        "title": "King of Italy",
+        "startYear": 781,
+        "endYear": 810,
+        "titleCn": "意大利国王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "noble"
+    ],
+    "rank": "king",
+    "importanceScore": 78,
+    "relationships": {
+      "fatherId": "02b8c87d-6e49-4027-a6fa-a92431160a38",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "ca47aef7-9566-469b-acb4-098529825888"
+      ]
+    },
+    "events": [
+      {
+        "year": 777,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "dynasty"
+        ],
+        "weight": 78,
+        "label": "Birth as Carloman; renamed Pepin at baptism",
+        "labelCn": "出生（本名卡洛曼）",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Pepin_of_Italy",
+        "note": "Born 777 to Charlemagne and Hildegard (alternative c. 773); renamed Pepin at his baptism in 781."
+      },
+      {
+        "year": 781,
+        "month": 4,
+        "day": 15,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "king",
+          "church"
+        ],
+        "weight": 95,
+        "label": "Crowned King of the Lombards by Pope Adrian I",
+        "labelCn": "教皇阿德里安一世为其加冕为伦巴第国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Pepin_of_Italy",
+        "note": "Crowned in Rome at the age of four; later styled King of Italy, ruling under Charlemagne-appointed advisors with his court based at Verona."
+      },
+      {
+        "year": 786,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "commander"
+        ],
+        "weight": 66,
+        "label": "Campaign in Bavaria",
+        "labelCn": "出征巴伐利亚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Pepin_of_Italy"
+      },
+      {
+        "year": 796,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "commander",
+          "conquest",
+          "main_commander"
+        ],
+        "weight": 92,
+        "label": "Avar campaign; destruction of the Avar Khaganate",
+        "labelCn": "远征阿瓦尔，摧毁阿瓦尔汗国",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Avars",
+        "note": "Led the campaign that took the Avar stronghold and precipitated the collapse of the Avar state."
+      },
+      {
+        "year": 797,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "dynasty"
+        ],
+        "weight": 70,
+        "label": "Birth of son Bernard (future King of Italy)",
+        "labelCn": "儿子伯纳德（未来的意大利国王）出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Bernard_of_Italy",
+        "note": "c. 797; Bernard later rebelled and died after being blinded in 818."
+      },
+      {
+        "year": 810,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "commander"
+        ],
+        "weight": 64,
+        "label": "Campaign against Venice",
+        "labelCn": "征讨威尼斯",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Pepin_of_Italy"
+      },
+      {
+        "year": 810,
+        "month": 7,
+        "day": 8,
+        "type": "death",
+        "tags": [
+          "death",
+          "king",
+          "monarch"
+        ],
+        "weight": 95,
+        "label": "Death at Milan",
+        "labelCn": "在米兰去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Pepin_of_Italy",
+        "note": "Died 8 July 810, predeceasing Charlemagne; Milan is the traditional death place, and the deaths of several family members in 810-811 may relate to an epidemic."
+      }
+    ],
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died of illness",
+      "detail": "Pepin died on 8 July 810, before his father Charlemagne. The traditional death place is Milan; several Carolingian family deaths in 810-811 may have been caused by an epidemic spread from cattle. No violent cause is recorded.",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Pepin_of_Italy",
+      "summaryCn": "因病去世",
+      "detailCn": "810 年 7 月 8 日，丕平先于其父查理曼去世。传统说法称其殁于米兰；810—811 年间加洛林家族多名成员相继去世，可能与由牲畜传播的疫情有关。史料未载暴力死因。"
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Pepin_of_Italy",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Pepin_of_Italy",
+    "sourceNote": "Son of Charlemagne and father of Bernard of Italy.",
+    "notes": "The direct Carolingian bridge into the Vermandois line. Born 777 (alternative c. 773); baptized in 781 and renamed Pepin from Carloman. His male-line descendants (counts of Vermandois) outlasted all other Carolingian male lines.",
+    "createdDate": "260817",
+    "createdOrder": 72,
+    "displayNameCn": "意大利的丕平",
+    "fullNameCn": "意大利国王丕平",
+    "historicalRating": 8
+  },
+  {
+    "id": "02b8c87d-6e49-4027-a6fa-a92431160a38",
+    "firstName": "Charlemagne",
+    "lastName": "Carolingian",
+    "displayName": "Charlemagne",
+    "fullName": "Charlemagne, Emperor of the Romans",
+    "nickname": "the Great",
+    "alsoKnownAs": [
+      "Charles the Great",
+      "Charles I",
+      "Karl der Große"
+    ],
+    "nicknameTags": [],
+    "birthYear": 742,
+    "deathYear": 814,
+    "birthPlace": "Herstal, Francia",
+    "deathPlace": "Aachen, Francia",
+    "gender": "male",
+    "dynasty": "Carolingian dynasty",
+    "house": "Carolingian dynasty",
+    "culture": "Frankish",
+    "faith": "Catholic",
+    "primaryTitle": "Emperor of the Romans",
+    "titles": [
+      {
+        "title": "King of the Franks",
+        "startYear": 768,
+        "endYear": 814,
+        "titleCn": "法兰克国王"
+      },
+      {
+        "title": "Emperor of the Romans",
+        "startYear": 800,
+        "endYear": 814,
+        "titleCn": "罗马人的皇帝"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "commander",
+      "emperor"
+    ],
+    "rank": "emperor",
+    "importanceScore": 98,
+    "relationships": {
+      "fatherId": "cb48dbe9-8595-447c-a44d-a7d26a024c20",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "ed8b06b2-bcbf-46ba-b032-6ef61d9bdd2a",
+        "c0d9e24a-43ae-4958-81c3-56a3bf791748",
+        "96a628a6-855a-4d4b-967b-a1ccc66f1d1d",
+        "c18cc2d9-6f85-4234-8318-5eefe8c99444",
+        "16fd0d4e-072c-4dcd-98ed-e90ddafbbd17",
+        "48cc9996-d995-40ed-bd4f-a9bea3b83dc5",
+        "e624a729-296e-468b-935e-846725478572",
+        "dbdec229-295e-4204-8c0b-06c90e2ba874",
+        "ea05110b-545e-4110-8784-bda5d18660c6",
+        "01570f60-d11f-4b97-988c-c6243c9b0a3e",
+        "b6bb1a86-ca40-473a-9707-dde5d3506bb3",
+        "252b6148-4238-40b6-b185-44294a3357e1",
+        "009f1f5c-9694-45c8-a974-653de365d1f7",
+        "d261acd7-c00c-4b88-b28b-7a72f05f4585",
+        "82ed3493-a386-4781-9883-ea84e730515a",
+        "b669888a-cb9a-49c4-b23f-b10d7da21d05",
+        "b77e26cb-04a5-4d36-8fe6-dc747960349c",
+        "648b3003-e95f-4d08-b36d-cb115b14c7c9"
+      ]
+    },
+    "events": [
+      {
+        "year": 768,
+        "month": 10,
+        "day": 9,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "succession"
+        ],
+        "weight": 88,
+        "label": "Became King of the Franks",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Charlemagne",
+        "labelCn": "成为法兰克国王",
+        "note": "Crowned jointly with his brother Carloman I at separate coronations in Noyon and Soissons."
+      },
+      {
+        "year": 771,
+        "month": 12,
+        "day": 4,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "dynasty"
+        ],
+        "weight": 84,
+        "label": "Sole king of the Franks",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Carloman_I",
+        "labelCn": "成为法兰克唯一国王",
+        "note": "Became sole ruler after Carloman died suddenly on 4 December 771."
+      },
+      {
+        "year": 771,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 78,
+        "label": "Marriage to Hildegard",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Hildegard_(queen)",
+        "labelCn": "与希尔迪加德成婚",
+        "note": "Married Hildegard in 771 after setting aside his brief marriage to Desiderius's daughter; she bore most of his surviving heirs and died in 783."
+      },
+      {
+        "year": 772,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "conquest"
+        ],
+        "weight": 95,
+        "label": "Saxon Wars begin",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Saxon_Wars",
+        "labelCn": "萨克森战争开始",
+        "note": "Over 30 years of nearly continuous warfare (772-804) to subdue and convert the Saxons; began with the destruction of the Irminsul."
+      },
+      {
+        "year": 774,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "conquest",
+          "territory"
+        ],
+        "weight": 90,
+        "label": "Conquest of the Lombard kingdom",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Charlemagne",
+        "labelCn": "征服伦巴第王国",
+        "note": "Siege of Pavia from late 773; the city surrendered by June 774 and Desiderius was deposed."
+      },
+      {
+        "year": 774,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "conquest",
+          "territory"
+        ],
+        "weight": 86,
+        "label": "Became King of the Lombards",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Charlemagne",
+        "labelCn": "成为伦巴第国王"
+      },
+      {
+        "year": 778,
+        "month": 8,
+        "day": 15,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "defeat",
+          "campaign"
+        ],
+        "weight": 84,
+        "label": "Battle of Roncevaux Pass",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Roncevaux_Pass",
+        "labelCn": "龙塞斯瓦耶斯战役",
+        "note": "Defeat of the Frankish rearguard by Basques in the Pyrenees while returning from Spain; traditionally dated 15 August 778. (The later Roland legend is not treated as history here.)"
+      },
+      {
+        "year": 782,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "violent"
+        ],
+        "weight": 82,
+        "label": "Massacre of Verden",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Massacre_of_Verden",
+        "labelCn": "凡尔登大屠杀",
+        "note": "Allegedly 4,500 Saxon prisoners executed in 782 after a Saxon revolt; not a conventional battle, and the numbers are debated."
+      },
+      {
+        "year": 785,
+        "type": "diplomacy",
+        "tags": [
+          "diplomacy",
+          "religion",
+          "pacification"
+        ],
+        "weight": 80,
+        "label": "Submission and baptism of Widukind",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Widukind",
+        "labelCn": "维杜金德归顺受洗",
+        "note": "By 785 the Saxon leader Widukind agreed to be baptised, with Charlemagne as his godfather."
+      },
+      {
+        "year": 795,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "conquest",
+          "territory"
+        ],
+        "weight": 82,
+        "label": "Conquest of the Avars",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Avar_Wars",
+        "labelCn": "征服阿瓦尔人",
+        "note": "After campaigns in 788-796, including Pepin of Italy's later wars, the Avar kingdom collapsed and its treasure was brought to Aachen."
+      },
+      {
+        "year": 800,
+        "month": 12,
+        "day": 25,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "religion",
+          "title"
+        ],
+        "weight": 99,
+        "label": "Imperial coronation in Rome",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Charlemagne",
+        "labelCn": "罗马加冕称帝",
+        "note": "Crowned 'Emperor of the Romans' by Pope Leo III at St Peter's on Christmas Day 800; Einhard claims Charlemagne said he would not have entered the church had he known of the plan."
+      },
+      {
+        "year": 802,
+        "type": "government",
+        "tags": [
+          "government",
+          "law"
+        ],
+        "weight": 85,
+        "label": "Imperial reforms and Carolingian Renaissance",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Capitulary",
+        "labelCn": "帝国改革与加洛林文艺复兴",
+        "note": "The 802 Capitulary of Aachen revised the laws, and the court school under Alcuin fostered a cultural revival across the empire."
+      },
+      {
+        "year": 813,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "dynasty"
+        ],
+        "weight": 78,
+        "label": "Louis the Pious crowned co-emperor",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Louis_the_Pious",
+        "labelCn": "路易一世加冕为共治皇帝",
+        "note": "In 813 Charlemagne crowned his son Louis co-emperor at Aachen, securing the succession within the family."
+      },
+      {
+        "year": 814,
+        "month": 1,
+        "day": 28,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 74,
+        "label": "Death of Charlemagne",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Charlemagne",
+        "labelCn": "查理曼去世",
+        "note": "Died on 28 January 814 at Aachen after an illness (Einhard reports pleurisy); buried in the Palatine Chapel."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Charlemagne",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Charlemagne",
+    "sourceNote": "King of the Franks and emperor; father of Pepin of Italy.",
+    "notes": "The Carolingian ancestor anchoring the Vermandois-to-Capetian line. Birth year disputed: 742 (traditional) vs 747/748 (preferred by current scholarship and the Wikipedia article); birth place traditionally Herstal but uncertain. Mother Bertrada of Laon and the wives Hildegard/Fastrada/Luitgard are not in the roster; the roster's 'Hildegard' entry is kept as a child (an infant daughter of that name existed, as did the queen of the same name).",
+    "createdDate": "260817",
+    "createdOrder": 73,
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died of illness in Aachen",
+      "detail": "Charlemagne died on 28 January 814 at Aachen, traditionally attributed to illness (Einhard reports pleurisy) after declining health in his final years.",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Charlemagne",
+      "summaryCn": "因病于亚琛去世",
+      "detailCn": "查理曼于 814 年 1 月 28 日在亚琛去世，传统上认为死于疾病（艾因哈德记载为胸膜炎），此前晚年健康已每况愈下。"
+    },
+    "displayNameCn": "查理曼",
+    "fullNameCn": "罗马人的皇帝查理曼",
+    "nicknameCn": "大帝",
+    "primaryTitleCn": "罗马人的皇帝",
+    "birthPlaceCn": "法兰克王国赫斯塔尔（今比利时）",
+    "deathPlaceCn": "法兰克王国亚琛（今德国）",
+    "historicalRating": 10
+  },
+  {
+    "id": "cb48dbe9-8595-447c-a44d-a7d26a024c20",
+    "firstName": "Pepin",
+    "lastName": "Carolingian",
+    "displayName": "Pepin the Short",
+    "fullName": "Pepin the Short, King of the Franks",
+    "nickname": "the Short",
+    "alsoKnownAs": [
+      "Pepin III",
+      "Pepin the Younger"
+    ],
+    "nicknameTags": [],
+    "birthYear": 714,
+    "deathYear": 768,
+    "birthPlace": "Jupille, Francia",
+    "birthPlaceCn": "法兰克朱皮耶",
+    "deathPlace": "Saint-Denis, Francia",
+    "deathPlaceCn": "法兰克圣但尼",
+    "gender": "male",
+    "dynasty": "Carolingian dynasty",
+    "house": "Carolingian dynasty",
+    "culture": "Frankish",
+    "faith": "Catholic",
+    "primaryTitle": "King of the Franks",
+    "primaryTitleCn": "法兰克国王",
+    "titles": [
+      {
+        "title": "Mayor of the Palace",
+        "startYear": 741,
+        "endYear": 751,
+        "titleCn": "宫相"
+      },
+      {
+        "title": "King of the Franks",
+        "startYear": 751,
+        "endYear": 768,
+        "titleCn": "法兰克国王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "commander"
+    ],
+    "rank": "king",
+    "importanceScore": 86,
+    "relationships": {
+      "fatherId": "ba95e60e-88bf-4cbb-9efa-f8a4769d13db",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "02b8c87d-6e49-4027-a6fa-a92431160a38"
+      ]
+    },
+    "events": [
+      {
+        "year": 741,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "government",
+          "noble"
+        ],
+        "weight": 80,
+        "label": "Co-Mayor of the Palace with Carloman",
+        "labelCn": "与卡洛曼共任宫相",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Pepin_the_Short",
+        "note": "After Charles Martel's death; Pepin took Neustria while Carloman took Austrasia."
+      },
+      {
+        "year": 747,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "government",
+          "noble"
+        ],
+        "weight": 78,
+        "label": "Sole Mayor of the Palace",
+        "labelCn": "独任宫相",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Pepin_the_Short",
+        "note": "Carloman retired to a monastery, leaving Pepin sole mayor and dux et princeps Francorum."
+      },
+      {
+        "year": 751,
+        "type": "dynasty",
+        "tags": [
+          "dynasty",
+          "king",
+          "succession"
+        ],
+        "weight": 95,
+        "label": "Deposed Childeric III; elected King of the Franks",
+        "labelCn": "废黜希尔德里克三世，当选法兰克国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Childeric_III",
+        "note": "The last Merovingian king was deposed and confined to a monastery after Pope Zachary's ruling."
+      },
+      {
+        "year": 751,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "king",
+          "religion"
+        ],
+        "weight": 88,
+        "label": "Anointed King at Soissons",
+        "labelCn": "在苏瓦松受膏加冕",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Pepin_the_Short",
+        "note": "No exact date is recorded; tradition gives November 751."
+      },
+      {
+        "year": 754,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "church",
+          "king",
+          "dynasty"
+        ],
+        "weight": 90,
+        "label": "Re-anointed by Pope Stephen II at Saint-Denis",
+        "labelCn": "教皇斯德望二世在圣但尼为其再行加冕",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Pope_Stephen_II",
+        "note": "Midsummer 754; his sons Charles and Carloman were anointed too and made Patricians of Rome."
+      },
+      {
+        "year": 756,
+        "type": "diplomacy",
+        "tags": [
+          "diplomacy",
+          "church",
+          "territory",
+          "treaty"
+        ],
+        "weight": 86,
+        "label": "Donation of Pepin",
+        "labelCn": "丕平献土",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Donation_of_Pepin",
+        "note": "Year commonly given as 756, after the second Lombard campaign; the donation established the Papal States."
+      },
+      {
+        "year": 756,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "commander",
+          "conquest"
+        ],
+        "weight": 74,
+        "label": "Second Italian campaign against Aistulf",
+        "labelCn": "再征意大利讨伐艾斯图夫",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Pepin_the_Short",
+        "note": "Standard accounts date the two Lombard campaigns to 754 and 756; the second forced Aistulf to cede territory to the papacy."
+      },
+      {
+        "year": 768,
+        "month": 9,
+        "day": 24,
+        "type": "death",
+        "tags": [
+          "death",
+          "monarch",
+          "king"
+        ],
+        "weight": 95,
+        "label": "Death at Saint-Denis",
+        "labelCn": "在圣但尼去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Pepin_the_Short",
+        "note": "One account says he died on campaign; he was buried in the Basilica of Saint-Denis."
+      }
+    ],
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died of natural causes",
+      "detail": "Pepin died on 24 September 768, aged 53-54. Sources record no violence or suspicious circumstances; he was buried in the Basilica of Saint-Denis.",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Pepin_the_Short",
+      "summaryCn": "自然死亡",
+      "detailCn": "768 年 9 月 24 日，矮子丕平去世，享年约 54 岁。史料未记载暴力或可疑死因；他安葬于圣但尼圣殿。"
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Pepin_the_Short",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Pepin_the_Short",
+    "sourceNote": "Founder of the Carolingian royal line; father of Charlemagne.",
+    "notes": "The direct predecessor of Charlemagne in the project chain. Birth year c. 714 is approximate; birthplace Jupille is traditional. He ended the Merovingian line and, with the papal alliance (754, 756), legitimated the Carolingian kingship.",
+    "createdDate": "260817",
+    "createdOrder": 74,
+    "displayNameCn": "矮子丕平",
+    "fullNameCn": "法兰克国王矮子丕平",
+    "nicknameCn": "矮子",
+    "historicalRating": 8
+  },
+  {
+    "id": "ba95e60e-88bf-4cbb-9efa-f8a4769d13db",
+    "firstName": "Charles",
+    "lastName": "Carolingian",
+    "displayName": "Charles Martel",
+    "fullName": "Charles Martel, Mayor of the Palace",
+    "nickname": "Martel",
+    "alsoKnownAs": [
+      "Charles the Hammer",
+      "Charles Martel"
+    ],
+    "nicknameTags": [],
+    "birthYear": 688,
+    "deathYear": 741,
+    "birthPlace": "Herstal, Francia",
+    "birthPlaceCn": "法兰克埃斯塔勒",
+    "deathPlace": "Quierzy-sur-Oise, Francia",
+    "deathPlaceCn": "法兰克瓦兹河畔基耶尔济",
+    "gender": "male",
+    "dynasty": "Carolingian dynasty",
+    "house": "Carolingian dynasty",
+    "culture": "Frankish",
+    "faith": "Catholic",
+    "primaryTitle": "Mayor of the Palace",
+    "primaryTitleCn": "宫相",
+    "titles": [
+      {
+        "title": "Mayor of the Palace",
+        "startYear": 715,
+        "endYear": 741,
+        "titleCn": "宫相"
+      },
+      {
+        "title": "Duke and Prince of the Franks",
+        "startYear": 718,
+        "endYear": 741,
+        "titleCn": "法兰克公爵与亲王"
+      }
+    ],
+    "tags": [
+      "commander",
+      "noble"
+    ],
+    "rank": "noble",
+    "importanceScore": 82,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "cb48dbe9-8595-447c-a44d-a7d26a024c20"
+      ]
+    },
+    "events": [
+      {
+        "year": 715,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "government",
+          "noble"
+        ],
+        "weight": 80,
+        "label": "Acclaimed Mayor of the Palace of Austrasia",
+        "labelCn": "被拥立为奥斯特拉西亚宫相",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Charles_Martel",
+        "note": "Escaped imprisonment by Plectrude after the death of Pepin of Herstal; the exact year is 715 or 716."
+      },
+      {
+        "year": 716,
+        "month": 4,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "commander",
+          "defense"
+        ],
+        "weight": 78,
+        "label": "Battle of Amblève",
+        "labelCn": "安布勒沃战役",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Ambl%C3%A8ve",
+        "note": "His first major victory after escaping prison; the turning point of the Frankish civil war."
+      },
+      {
+        "year": 718,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "commander",
+          "king"
+        ],
+        "weight": 84,
+        "label": "Battle of Soissons; recognized over all Frankish kingdoms",
+        "labelCn": "苏瓦松战役，确立对法兰克诸国的统治",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Charles_Martel",
+        "note": "Defeated the alliance of Chilperic II and Odo the Great, winning recognition of his mayoralty over all the Frankish kingdoms."
+      },
+      {
+        "year": 732,
+        "month": 10,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "commander",
+          "defense",
+          "main_commander"
+        ],
+        "weight": 99,
+        "label": "Battle of Tours (Poitiers)",
+        "labelCn": "图尔战役（普瓦捷战役）",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Tours",
+        "note": "Defeated the Umayyad army of Abd al-Rahman al-Ghafiqi. The exact day is unknown; tradition dates it to October 732."
+      },
+      {
+        "year": 734,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "commander",
+          "conquest",
+          "territory"
+        ],
+        "weight": 74,
+        "label": "Battle of the Boarn; subjugation of Frisia",
+        "labelCn": "博尔恩河战役，征服弗里西亚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_the_Boarn",
+        "note": "Slain the Frisian duke Bubo and subjugated Frisia."
+      },
+      {
+        "year": 737,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "commander",
+          "conquest",
+          "territory"
+        ],
+        "weight": 82,
+        "label": "Campaign in Provence and Septimania",
+        "labelCn": "远征普罗旺斯与塞普提马尼亚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Charles_Martel",
+        "note": "Sieges of Avignon, Narbonne and Nîmes against the Umayyads."
+      },
+      {
+        "year": 737,
+        "type": "government",
+        "tags": [
+          "government",
+          "king",
+          "noble"
+        ],
+        "weight": 76,
+        "label": "Ruled the Franks without a king",
+        "labelCn": "无王在位期间统治法兰克",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Charles_Martel",
+        "note": "After King Theuderic IV died no successor was appointed; the throne stayed vacant until Charles's death in 741."
+      },
+      {
+        "year": 740,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "dynasty",
+          "title"
+        ],
+        "weight": 68,
+        "label": "Divided the realm among his sons",
+        "labelCn": "将国土分封给诸子",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Charles_Martel",
+        "note": "c. 740; Carloman, Pepin the Short and Grifo received shares."
+      },
+      {
+        "year": 741,
+        "month": 10,
+        "day": 22,
+        "type": "death",
+        "tags": [
+          "death",
+          "monarch",
+          "noble"
+        ],
+        "weight": 95,
+        "label": "Death at Quierzy",
+        "labelCn": "在基耶尔济去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Charles_Martel"
+      }
+    ],
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died of natural causes at Quierzy",
+      "detail": "Charles Martel died on 22 October 741 at Quierzy-sur-Oise. Sources record no violence or unusual illness; he was buried at the Basilica of Saint-Denis.",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Charles_Martel",
+      "summaryCn": "在基耶尔济自然死亡",
+      "detailCn": "741 年 10 月 22 日，查理·马特在瓦兹河畔基耶尔济去世。史料未记载暴力或异常病因；他安葬于圣但尼圣殿。"
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Charles_Martel",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Charles_Martel",
+    "sourceNote": "Carolingian ruler and father of Pepin the Short; victor of the Battle of Tours.",
+    "notes": "The requested upper endpoint of the early medieval chain. Birth year is usually given as c. 688 (other estimates 676-690). He wielded royal power as Mayor of the Palace and Duke and Prince of the Franks without taking the royal title.",
+    "createdDate": "260817",
+    "createdOrder": 75,
+    "displayNameCn": "查理·马特",
+    "fullNameCn": "宫相查理·马特",
+    "nicknameCn": "铁锤",
+    "historicalRating": 8
+  },
+  {
+    "id": "c0d9e24a-43ae-4958-81c3-56a3bf791748",
+    "firstName": "Pepin",
+    "lastName": "the Hunchback",
+    "displayName": "Pepin the Hunchback",
+    "fullName": "Pepin the Hunchback",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "驼背丕平",
+    "fullNameCn": "驼背丕平",
+    "birthYear": 769,
+    "deathYear": 811,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "male",
+    "dynasty": "Carolingian dynasty",
+    "house": "Carolingian dynasty",
+    "culture": "Frankish",
+    "faith": "Catholic",
+    "primaryTitle": "",
+    "titles": [],
+    "tags": [
+      "noble"
+    ],
+    "rank": "noble",
+    "importanceScore": 35,
+    "relationships": {
+      "fatherId": "02b8c87d-6e49-4027-a6fa-a92431160a38",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Pepin_the_Hunchback",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Pepin_the_Hunchback",
+    "sourceNote": "Child of Charlemagne. illegitimate; mother traditionally identified as Himiltrude.",
+    "notes": "Added in the Charlemagne children expansion; spouse and partner data intentionally omitted.",
+    "createdDate": "20260817",
+    "createdOrder": 93,
+    "historicalRating": 4
+  },
+  {
+    "id": "96a628a6-855a-4d4b-967b-a1ccc66f1d1d",
+    "firstName": "Charles",
+    "lastName": "the Younger",
+    "displayName": "Charles the Younger",
+    "fullName": "Charles the Younger",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "小查理",
+    "fullNameCn": "小查理",
+    "birthYear": 772,
+    "deathYear": 811,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "male",
+    "dynasty": "Carolingian dynasty",
+    "house": "Carolingian dynasty",
+    "culture": "Frankish",
+    "faith": "Catholic",
+    "primaryTitle": "",
+    "titles": [],
+    "tags": [
+      "noble"
+    ],
+    "rank": "noble",
+    "importanceScore": 35,
+    "relationships": {
+      "fatherId": "02b8c87d-6e49-4027-a6fa-a92431160a38",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Charles_the_Younger",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Charles_the_Younger",
+    "sourceNote": "Child of Charlemagne. son of Charlemagne; mother traditionally identified as Hildegard.",
+    "notes": "Added in the Charlemagne children expansion; spouse and partner data intentionally omitted.",
+    "createdDate": "20260817",
+    "createdOrder": 94,
+    "historicalRating": 4
+  },
+  {
+    "id": "c18cc2d9-6f85-4234-8318-5eefe8c99444",
+    "firstName": "Adalhaid",
+    "lastName": "",
+    "displayName": "Adalhaid",
+    "fullName": "Adalhaid",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "阿达莱德",
+    "fullNameCn": "阿达莱德",
+    "birthYear": 774,
+    "deathYear": 774,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "female",
+    "dynasty": "Carolingian dynasty",
+    "house": "Carolingian dynasty",
+    "culture": "Frankish",
+    "faith": "Catholic",
+    "primaryTitle": "",
+    "titles": [],
+    "tags": [
+      "noble"
+    ],
+    "rank": "noble",
+    "importanceScore": 35,
+    "relationships": {
+      "fatherId": "02b8c87d-6e49-4027-a6fa-a92431160a38",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Adalhaid",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Adalhaid",
+    "sourceNote": "Child of Charlemagne. attributed daughter; mother traditionally identified as Hildegard.",
+    "notes": "Added in the Charlemagne children expansion; spouse and partner data intentionally omitted.",
+    "createdDate": "20260817",
+    "createdOrder": 95,
+    "historicalRating": 0
+  },
+  {
+    "id": "16fd0d4e-072c-4dcd-98ed-e90ddafbbd17",
+    "firstName": "Rotrude",
+    "lastName": "",
+    "displayName": "Rotrude",
+    "fullName": "Rotrude",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "罗特鲁德",
+    "fullNameCn": "罗特鲁德",
+    "birthYear": 775,
+    "deathYear": 810,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "female",
+    "dynasty": "Carolingian dynasty",
+    "house": "Carolingian dynasty",
+    "culture": "Frankish",
+    "faith": "Catholic",
+    "primaryTitle": "",
+    "titles": [],
+    "tags": [
+      "noble"
+    ],
+    "rank": "noble",
+    "importanceScore": 35,
+    "relationships": {
+      "fatherId": "02b8c87d-6e49-4027-a6fa-a92431160a38",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Rotrude",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Rotrude",
+    "sourceNote": "Child of Charlemagne. daughter of Charlemagne; mother traditionally identified as Hildegard.",
+    "notes": "Added in the Charlemagne children expansion; spouse and partner data intentionally omitted.",
+    "createdDate": "20260817",
+    "createdOrder": 96,
+    "historicalRating": 4
+  },
+  {
+    "id": "48cc9996-d995-40ed-bd4f-a9bea3b83dc5",
+    "firstName": "Lothair",
+    "lastName": "",
+    "displayName": "Lothair",
+    "fullName": "Lothair",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "洛泰尔",
+    "fullNameCn": "洛泰尔",
+    "birthYear": 778,
+    "deathYear": 778,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "male",
+    "dynasty": "Carolingian dynasty",
+    "house": "Carolingian dynasty",
+    "culture": "Frankish",
+    "faith": "Catholic",
+    "primaryTitle": "",
+    "titles": [],
+    "tags": [
+      "noble"
+    ],
+    "rank": "noble",
+    "importanceScore": 35,
+    "relationships": {
+      "fatherId": "02b8c87d-6e49-4027-a6fa-a92431160a38",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Lothair",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Lothair",
+    "sourceNote": "Child of Charlemagne. twin of Louis the Pious; died in infancy.",
+    "notes": "Added in the Charlemagne children expansion; spouse and partner data intentionally omitted.",
+    "createdDate": "20260817",
+    "createdOrder": 97,
+    "historicalRating": 0
+  },
+  {
+    "id": "e624a729-296e-468b-935e-846725478572",
+    "firstName": "Bertha",
+    "lastName": "",
+    "displayName": "Bertha",
+    "fullName": "Bertha",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "贝尔塔",
+    "fullNameCn": "贝尔塔",
+    "birthYear": 779,
+    "deathYear": 823,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "female",
+    "dynasty": "Carolingian dynasty",
+    "house": "Carolingian dynasty",
+    "culture": "Frankish",
+    "faith": "Catholic",
+    "primaryTitle": "",
+    "titles": [],
+    "tags": [
+      "noble"
+    ],
+    "rank": "noble",
+    "importanceScore": 35,
+    "relationships": {
+      "fatherId": "02b8c87d-6e49-4027-a6fa-a92431160a38",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Bertha",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Bertha",
+    "sourceNote": "Child of Charlemagne. daughter of Charlemagne; mother traditionally identified as Hildegard.",
+    "notes": "Added in the Charlemagne children expansion; spouse and partner data intentionally omitted.",
+    "createdDate": "20260817",
+    "createdOrder": 98,
+    "historicalRating": 4
+  },
+  {
+    "id": "dbdec229-295e-4204-8c0b-06c90e2ba874",
+    "firstName": "Gisela",
+    "lastName": "",
+    "displayName": "Gisela",
+    "fullName": "Gisela",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "吉塞拉",
+    "fullNameCn": "吉塞拉",
+    "birthYear": 781,
+    "deathYear": 808,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "female",
+    "dynasty": "Carolingian dynasty",
+    "house": "Carolingian dynasty",
+    "culture": "Frankish",
+    "faith": "Catholic",
+    "primaryTitle": "",
+    "titles": [],
+    "tags": [
+      "noble"
+    ],
+    "rank": "noble",
+    "importanceScore": 35,
+    "relationships": {
+      "fatherId": "02b8c87d-6e49-4027-a6fa-a92431160a38",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Gisela",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Gisela",
+    "sourceNote": "Child of Charlemagne. daughter of Charlemagne; mother traditionally identified as Hildegard.",
+    "notes": "Added in the Charlemagne children expansion; spouse and partner data intentionally omitted.",
+    "createdDate": "20260817",
+    "createdOrder": 99,
+    "historicalRating": 4
+  },
+  {
+    "id": "ea05110b-545e-4110-8784-bda5d18660c6",
+    "firstName": "Hildegard",
+    "lastName": "",
+    "displayName": "Hildegard",
+    "fullName": "Hildegard",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "希尔德加德",
+    "fullNameCn": "希尔德加德",
+    "birthYear": 782,
+    "deathYear": 783,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "female",
+    "dynasty": "Carolingian dynasty",
+    "house": "Carolingian dynasty",
+    "culture": "Frankish",
+    "faith": "Catholic",
+    "primaryTitle": "",
+    "titles": [],
+    "tags": [
+      "noble"
+    ],
+    "rank": "noble",
+    "importanceScore": 35,
+    "relationships": {
+      "fatherId": "02b8c87d-6e49-4027-a6fa-a92431160a38",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Hildegard",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Hildegard",
+    "sourceNote": "Child of Charlemagne. daughter of Charlemagne; died young.",
+    "notes": "Added in the Charlemagne children expansion; spouse and partner data intentionally omitted.",
+    "createdDate": "20260817",
+    "createdOrder": 100,
+    "historicalRating": 0
+  },
+  {
+    "id": "01570f60-d11f-4b97-988c-c6243c9b0a3e",
+    "firstName": "Theodrada",
+    "lastName": "",
+    "displayName": "Theodrada",
+    "fullName": "Theodrada",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "特奥德拉达",
+    "fullNameCn": "特奥德拉达",
+    "birthYear": 785,
+    "deathYear": 844,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "female",
+    "dynasty": "Carolingian dynasty",
+    "house": "Carolingian dynasty",
+    "culture": "Frankish",
+    "faith": "Catholic",
+    "primaryTitle": "",
+    "titles": [],
+    "tags": [
+      "noble"
+    ],
+    "rank": "noble",
+    "importanceScore": 35,
+    "relationships": {
+      "fatherId": "02b8c87d-6e49-4027-a6fa-a92431160a38",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Theodrada",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Theodrada",
+    "sourceNote": "Child of Charlemagne. daughter of Charlemagne; mother traditionally identified as Fastrada.",
+    "notes": "Added in the Charlemagne children expansion; spouse and partner data intentionally omitted.",
+    "createdDate": "20260817",
+    "createdOrder": 101,
+    "historicalRating": 4
+  },
+  {
+    "id": "b6bb1a86-ca40-473a-9707-dde5d3506bb3",
+    "firstName": "Hiltrude",
+    "lastName": "",
+    "displayName": "Hiltrude",
+    "fullName": "Hiltrude",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "希尔特鲁德",
+    "fullNameCn": "希尔特鲁德",
+    "birthYear": 787,
+    "deathYear": 800,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "female",
+    "dynasty": "Carolingian dynasty",
+    "house": "Carolingian dynasty",
+    "culture": "Frankish",
+    "faith": "Catholic",
+    "primaryTitle": "",
+    "titles": [],
+    "tags": [
+      "noble"
+    ],
+    "rank": "noble",
+    "importanceScore": 35,
+    "relationships": {
+      "fatherId": "02b8c87d-6e49-4027-a6fa-a92431160a38",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Hiltrude",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Hiltrude",
+    "sourceNote": "Child of Charlemagne. daughter of Charlemagne; mother traditionally identified as Fastrada.",
+    "notes": "Added in the Charlemagne children expansion; spouse and partner data intentionally omitted.",
+    "createdDate": "20260817",
+    "createdOrder": 102,
+    "historicalRating": 4
+  },
+  {
+    "id": "252b6148-4238-40b6-b185-44294a3357e1",
+    "firstName": "Adaltrude",
+    "lastName": "",
+    "displayName": "Adaltrude",
+    "fullName": "Adaltrude",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "阿达尔特鲁德",
+    "fullNameCn": "阿达尔特鲁德",
+    "birthYear": 790,
+    "deathYear": 814,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "female",
+    "dynasty": "Carolingian dynasty",
+    "house": "Carolingian dynasty",
+    "culture": "Frankish",
+    "faith": "Catholic",
+    "primaryTitle": "",
+    "titles": [],
+    "tags": [
+      "noble"
+    ],
+    "rank": "noble",
+    "importanceScore": 35,
+    "relationships": {
+      "fatherId": "02b8c87d-6e49-4027-a6fa-a92431160a38",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Adaltrude",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Adaltrude",
+    "sourceNote": "Child of Charlemagne. daughter traditionally attributed to Gersuinda.",
+    "notes": "Added in the Charlemagne children expansion; spouse and partner data intentionally omitted.",
+    "createdDate": "20260817",
+    "createdOrder": 103,
+    "historicalRating": 4
+  },
+  {
+    "id": "009f1f5c-9694-45c8-a974-653de365d1f7",
+    "firstName": "Ruothild",
+    "lastName": "",
+    "displayName": "Ruothild",
+    "fullName": "Ruothild",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "鲁奥希尔德",
+    "fullNameCn": "鲁奥希尔德",
+    "birthYear": 790,
+    "deathYear": 852,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "female",
+    "dynasty": "Carolingian dynasty",
+    "house": "Carolingian dynasty",
+    "culture": "Frankish",
+    "faith": "Catholic",
+    "primaryTitle": "",
+    "titles": [],
+    "tags": [
+      "noble"
+    ],
+    "rank": "noble",
+    "importanceScore": 35,
+    "relationships": {
+      "fatherId": "02b8c87d-6e49-4027-a6fa-a92431160a38",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Ruothild_(daughter_of_Charlemagne)",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Ruothild_(daughter_of_Charlemagne)",
+    "sourceNote": "Charlemagne's daughter by Madelgard; Abbess of Faremoutiers; died 24 March 852. Also spelled Rothild / Hruothild.",
+    "notes": "Daughter of Charlemagne and Madelgard; Abbess of Faremoutiers, died 24 March 852. Distinct from Hruodhaid, Charlemagne's illegitimate daughter of uncertain death date.",
+    "createdDate": "20260817",
+    "createdOrder": 104,
+    "historicalRating": 4
+  },
+  {
+    "id": "d261acd7-c00c-4b88-b28b-7a72f05f4585",
+    "firstName": "Drogo",
+    "lastName": "",
+    "displayName": "Drogo",
+    "fullName": "Drogo",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "德罗戈",
+    "fullNameCn": "德罗戈",
+    "birthYear": 801,
+    "deathYear": 855,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "male",
+    "dynasty": "Carolingian dynasty",
+    "house": "Carolingian dynasty",
+    "culture": "Frankish",
+    "faith": "Catholic",
+    "primaryTitle": "",
+    "titles": [],
+    "tags": [
+      "noble"
+    ],
+    "rank": "noble",
+    "importanceScore": 35,
+    "relationships": {
+      "fatherId": "02b8c87d-6e49-4027-a6fa-a92431160a38",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Drogo_of_Metz",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Drogo_of_Metz",
+    "sourceNote": "Child of Charlemagne. son traditionally attributed to Regina.",
+    "notes": "Added in the Charlemagne children expansion; spouse and partner data intentionally omitted.",
+    "createdDate": "20260817",
+    "createdOrder": 105,
+    "historicalRating": 4
+  },
+  {
+    "id": "82ed3493-a386-4781-9883-ea84e730515a",
+    "firstName": "Hugh",
+    "lastName": "",
+    "displayName": "Hugh",
+    "fullName": "Hugh",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "于格",
+    "fullNameCn": "于格",
+    "birthYear": 802,
+    "deathYear": 844,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "male",
+    "dynasty": "Carolingian dynasty",
+    "house": "Carolingian dynasty",
+    "culture": "Frankish",
+    "faith": "Catholic",
+    "primaryTitle": "",
+    "titles": [],
+    "tags": [
+      "noble"
+    ],
+    "rank": "noble",
+    "importanceScore": 35,
+    "relationships": {
+      "fatherId": "02b8c87d-6e49-4027-a6fa-a92431160a38",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Hugh,_Abbot_of_Saint-Quentin",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Hugh,_Abbot_of_Saint-Quentin",
+    "sourceNote": "Child of Charlemagne. son traditionally attributed to Regina.",
+    "notes": "Added in the Charlemagne children expansion; spouse and partner data intentionally omitted.",
+    "createdDate": "20260817",
+    "createdOrder": 106,
+    "historicalRating": 4
+  },
+  {
+    "id": "b669888a-cb9a-49c4-b23f-b10d7da21d05",
+    "firstName": "Theodoric",
+    "lastName": "",
+    "displayName": "Theodoric",
+    "fullName": "Theodoric",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "特奥多里克",
+    "fullNameCn": "特奥多里克",
+    "birthYear": 807,
+    "deathYear": 818,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "male",
+    "dynasty": "Carolingian dynasty",
+    "house": "Carolingian dynasty",
+    "culture": "Frankish",
+    "faith": "Catholic",
+    "primaryTitle": "",
+    "titles": [],
+    "tags": [
+      "noble"
+    ],
+    "rank": "noble",
+    "importanceScore": 35,
+    "relationships": {
+      "fatherId": "02b8c87d-6e49-4027-a6fa-a92431160a38",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Theodoric",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Theodoric",
+    "sourceNote": "Child of Charlemagne. son traditionally attributed to Adallind.",
+    "notes": "Added in the Charlemagne children expansion; spouse and partner data intentionally omitted.",
+    "createdDate": "20260817",
+    "createdOrder": 107,
+    "historicalRating": 4
+  },
+  {
+    "id": "b77e26cb-04a5-4d36-8fe6-dc747960349c",
+    "firstName": "Hruodhaid",
+    "lastName": "",
+    "displayName": "Hruodhaid",
+    "fullName": "Hruodhaid",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "赫鲁奥德海德",
+    "fullNameCn": "赫鲁奥德海德",
+    "birthYear": 787,
+    "deathYear": "",
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "female",
+    "dynasty": "Carolingian dynasty",
+    "house": "Carolingian dynasty",
+    "culture": "Frankish",
+    "faith": "Catholic",
+    "primaryTitle": "",
+    "titles": [],
+    "tags": [
+      "noble"
+    ],
+    "rank": "noble",
+    "importanceScore": 35,
+    "relationships": {
+      "fatherId": "02b8c87d-6e49-4027-a6fa-a92431160a38",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Hruodhaid",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Hruodhaid",
+    "sourceNote": "Charlemagne's illegitimate daughter, born c. 787; mother not identified in Einhard's account. Death year unrecorded — sources note she was still alive after 800, possibly after 814.",
+    "notes": "Illegitimate daughter of Charlemagne, born c. 787; death year unrecorded. Distinct from Ruothild, the Abbess of Faremoutiers who died 24 March 852.",
+    "createdDate": "20260817",
+    "createdOrder": 108,
+    "historicalRating": 4
+  },
+  {
+    "id": "648b3003-e95f-4d08-b36d-cb115b14c7c9",
+    "firstName": "Louis",
+    "lastName": "",
+    "displayName": "Louis I",
+    "fullName": "Louis the Pious",
+    "nickname": "the Pious",
+    "alsoKnownAs": [
+      "Louis the Pious",
+      "Louis le Pieux",
+      "Louis the Debonaire"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "虔诚者路易",
+    "fullNameCn": "虔诚者路易",
+    "nicknameCn": "虔诚者",
+    "birthYear": 778,
+    "deathYear": 840,
+    "birthPlace": "Chasseneuil-du-Poitou, Francia",
+    "deathPlace": "Ingelheim, Francia",
+    "birthPlaceCn": "法兰克沙瑟讷伊",
+    "deathPlaceCn": "法兰克英格尔海姆",
+    "gender": "male",
+    "dynasty": "Carolingian dynasty",
+    "house": "Carolingian dynasty",
+    "culture": "Frankish",
+    "faith": "Catholic",
+    "primaryTitle": "Holy Roman Emperor",
+    "primaryTitleCn": "神圣罗马帝国皇帝",
+    "titles": [
+      {
+        "title": "King of Aquitaine",
+        "startYear": 781,
+        "endYear": 814,
+        "titleCn": "阿基坦国王"
+      },
+      {
+        "title": "Holy Roman Emperor",
+        "startYear": 814,
+        "endYear": 840,
+        "titleCn": "神圣罗马帝国皇帝"
+      },
+      {
+        "title": "King of the Franks",
+        "startYear": 814,
+        "endYear": 840,
+        "titleCn": "法兰克国王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "emperor",
+      "king"
+    ],
+    "rank": "emperor",
+    "importanceScore": 88,
+    "relationships": {
+      "fatherId": "02b8c87d-6e49-4027-a6fa-a92431160a38",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Louis_the_Pious",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Louis_the_Pious",
+    "sourceNote": "Mother Hildegard of Vinzgouw is not yet in the roster. Twin of Lothair (778), who died in infancy. Spouses Ermengarde of Hesbaye and Judith of Bavaria, and his sons (Lothair I, Pepin I of Aquitaine, Louis the German, Charles the Bald), are not yet in the roster.",
+    "notes": "Third son of Charlemagne and Hildegard; the only legitimate adult son to survive his father and succeed to the empire. Emperor of the Carolingian Empire and King of the Franks from 814 to 840.",
+    "historicalRating": 9,
+    "createdDate": "20260818",
+    "createdOrder": 123,
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died at Ingelheim",
+      "summaryCn": "在英格尔海姆去世",
+      "detail": "Louis the Pious died on 20 June 840 at Ingelheim, near Mainz, after the final partition of the empire among his sons.",
+      "detailCn": "840 年 6 月 20 日，虔诚者路易在最终将帝国分封诸子之后，于美因茨附近的英格尔海姆去世。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Louis_the_Pious"
+    },
+    "events": [
+      {
+        "year": 778,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 60,
+        "label": "Born at Chasseneuil, twin of Lothair",
+        "labelCn": "出生于沙瑟讷伊，洛泰尔的双胞胎兄弟",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Louis_the_Pious"
+      },
+      {
+        "year": 781,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "king"
+        ],
+        "weight": 84,
+        "label": "Crowned King of Aquitaine",
+        "labelCn": "加冕为阿基坦国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Louis_the_Pious",
+        "note": "Crowned king of Aquitaine as a young child under Charlemagne's authority."
+      },
+      {
+        "year": 801,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "conquest",
+          "territory"
+        ],
+        "weight": 72,
+        "label": "Conquest of Barcelona",
+        "labelCn": "征服巴塞罗那",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Louis_the_Pious",
+        "note": "Captured Barcelona from the Emirate of Córdoba."
+      },
+      {
+        "year": 813,
+        "month": 9,
+        "day": 11,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 90,
+        "label": "Crowned co-emperor at Aachen",
+        "labelCn": "在亚琛加冕为共治皇帝",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Louis_the_Pious"
+      },
+      {
+        "year": 814,
+        "month": 1,
+        "day": 28,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "monarch"
+        ],
+        "weight": 96,
+        "label": "Became sole emperor and King of the Franks",
+        "labelCn": "成为唯一皇帝与法兰克人国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Louis_the_Pious"
+      },
+      {
+        "year": 816,
+        "month": 10,
+        "day": 5,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch",
+          "church"
+        ],
+        "weight": 82,
+        "label": "Papal coronation at Reims",
+        "labelCn": "兰斯教宗加冕",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Louis_the_Pious",
+        "note": "Crowned by Pope Stephen IV at Reims."
+      },
+      {
+        "year": 817,
+        "type": "government",
+        "tags": [
+          "government",
+          "law",
+          "succession"
+        ],
+        "weight": 88,
+        "label": "Ordinatio Imperii",
+        "labelCn": "颁布〈帝国条例〉",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ordinatio_Imperii",
+        "note": "Planned the division of the empire among his sons while preserving imperial unity."
+      },
+      {
+        "year": 833,
+        "month": 11,
+        "day": 13,
+        "type": "political_crisis",
+        "tags": [
+          "political_crisis",
+          "rebellion"
+        ],
+        "weight": 86,
+        "label": "Deposed at the Field of Lies",
+        "labelCn": "在「谎言之地」被废黜",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Louis_the_Pious",
+        "note": "Deposed by his rebellious sons at the Field of Lies; restored on 1 March 834."
+      },
+      {
+        "year": 840,
+        "month": 6,
+        "day": 20,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 95,
+        "label": "Died at Ingelheim",
+        "labelCn": "在英格尔海姆去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Louis_the_Pious",
+        "note": "His death led to the Treaty of Verdun (843), which divided the Carolingian Empire."
+      }
+    ]
+  }
+]

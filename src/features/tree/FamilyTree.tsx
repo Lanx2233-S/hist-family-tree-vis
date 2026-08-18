@@ -70,7 +70,9 @@ export function FamilyTree({
     const parentIds = [child.relationships.fatherId, child.relationships.motherId]
       .filter((id) => id && id !== owner.id);
     const matchingIds = relationshipIds.filter((id) => parentIds.includes(id));
-    return matchingIds.length > 0 ? matchingIds : relationshipIds;
+    // Do not fall back to every spouse: an absent mother/father UUID means
+    // the parental connection is unknown, not that all spouses are parents.
+    return matchingIds;
   }
   const normalizedSpouseIndex = spouses.length > 0 ? Math.min(activeSpouseIndex, spouses.length - 1) : 0;
   const activeSpouse = spouses.length > 0 ? spouses[normalizedSpouseIndex] : undefined;

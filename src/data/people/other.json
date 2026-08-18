@@ -1,0 +1,4909 @@
+[
+  {
+    "id": "2a19d3aa-7968-4c0b-9870-fe3db9c9b575",
+    "firstName": "Matilda",
+    "lastName": "Flanders",
+    "displayName": "Matilda of Flanders",
+    "fullName": "Matilda of Flanders, Queen of England",
+    "displayNameCn": "佛兰德的玛蒂尔达",
+    "fullNameCn": "佛兰德的玛蒂尔达，英格兰王后",
+    "nickname": "",
+    "nicknameCn": "",
+    "nicknameTags": [],
+    "alsoKnownAs": [
+      "Maud of Flanders"
+    ],
+    "gender": "female",
+    "birthYear": 1031,
+    "deathYear": 1083,
+    "birthPlace": "Flanders",
+    "deathPlace": "Caen, Duchy of Normandy",
+    "birthPlaceCn": "佛兰德",
+    "deathPlaceCn": "诺曼底公国卡昂",
+    "dynasty": "House of Flanders",
+    "house": "House of Flanders",
+    "culture": "Flemish",
+    "faith": "Catholic",
+    "rank": "queen",
+    "primaryTitle": "Queen of England",
+    "primaryTitleCn": "英格兰王后",
+    "titles": [
+      {
+        "title": "Duchess of Normandy",
+        "startYear": 1051,
+        "endYear": 1083,
+        "titleCn": "诺曼底女公爵"
+      },
+      {
+        "title": "Queen of England",
+        "startYear": 1068,
+        "endYear": 1083,
+        "titleCn": "英格兰王后"
+      }
+    ],
+    "tags": [
+      "queen",
+      "duchess",
+      "consort"
+    ],
+    "importanceScore": 82,
+    "historicalRating": 8,
+    "wikiUrl": "https://en.wikipedia.org/wiki/Matilda_of_Flanders",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Matilda_of_Flanders",
+    "sourceNote": "",
+    "notes": "Wife of William the Conqueror. Birth year is approximate. Served as regent of Normandy during William's absences in England (c. 1066-1072); also called Maud.",
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died of natural causes",
+      "detail": "Matilda died in Normandy on 2 November 1083. Standard accounts do not describe a violent or suspicious death.",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Matilda_of_Flanders",
+      "summaryCn": "自然死亡",
+      "detailCn": "1083年11月2日玛蒂尔达在诺曼底去世。通行史料未记载暴力或可疑的死因。"
+    },
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "21b5ec21-1812-4731-8b03-721988be302f"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "bea83a88-2399-4eb7-a496-9cfcee8599a6",
+        "576ee669-b638-4013-91cf-71f637200b83",
+        "90840bac-1589-4ba4-abfe-9189e6046b36"
+      ]
+    },
+    "events": [
+      {
+        "year": 1051,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 82,
+        "label": "Marriage to William, Duke of Normandy",
+        "labelCn": "与诺曼底公爵威廉成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Matilda_of_Flanders"
+      },
+      {
+        "year": 1051,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "dynasty"
+        ],
+        "weight": 84,
+        "label": "Birth of Robert Curthose",
+        "labelCn": "罗贝尔·柯索斯出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Robert_Curthose"
+      },
+      {
+        "year": 1054,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "dynasty"
+        ],
+        "weight": 58,
+        "label": "Birth of Richard of Normandy",
+        "labelCn": "诺曼底的理查出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Richard_of_Normandy"
+      },
+      {
+        "year": 1055,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "dynasty"
+        ],
+        "weight": 52,
+        "label": "Birth of Adeliza of Normandy",
+        "labelCn": "诺曼底的阿德莉扎出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Adeliza_of_Normandy"
+      },
+      {
+        "year": 1058,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "dynasty"
+        ],
+        "weight": 62,
+        "label": "Birth of Cecilia of Normandy",
+        "labelCn": "诺曼底的塞西莉亚出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Cecilia_of_Normandy"
+      },
+      {
+        "year": 1056,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "dynasty"
+        ],
+        "weight": 88,
+        "label": "Birth of William Rufus",
+        "labelCn": "威廉·鲁夫斯出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/William_II_of_England"
+      },
+      {
+        "year": 1061,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "dynasty"
+        ],
+        "weight": 48,
+        "label": "Birth of Matilda of Normandy",
+        "labelCn": "诺曼底的玛蒂尔达出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Matilda_of_Normandy"
+      },
+      {
+        "year": 1062,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "dynasty"
+        ],
+        "weight": 70,
+        "label": "Birth of Adela of Normandy",
+        "labelCn": "诺曼底的阿德拉出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Adela_of_Normandy"
+      },
+      {
+        "year": 1064,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "dynasty",
+          "uncertain"
+        ],
+        "weight": 34,
+        "label": "Birth of Agatha of Normandy",
+        "labelCn": "诺曼底的阿加莎出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/William_the_Conqueror"
+      },
+      {
+        "year": 1066,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "dynasty"
+        ],
+        "weight": 60,
+        "label": "Birth of Constance of Normandy",
+        "labelCn": "诺曼底的康斯坦丝出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Constance_of_Normandy"
+      },
+      {
+        "year": 1066,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "queen"
+        ],
+        "weight": 90,
+        "label": "Became Queen of England",
+        "labelCn": "成为英格兰王后",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Matilda_of_Flanders"
+      },
+      {
+        "year": 1068,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "dynasty"
+        ],
+        "weight": 90,
+        "label": "Birth of Henry Beauclerc",
+        "labelCn": "亨利·博克莱尔出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_I_of_England"
+      },
+      {
+        "year": 1068,
+        "month": 5,
+        "day": 11,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "queen"
+        ],
+        "weight": 86,
+        "label": "Coronation as Queen of England",
+        "labelCn": "加冕为英格兰王后",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Matilda_of_Flanders"
+      },
+      {
+        "year": 1083,
+        "month": 11,
+        "day": 2,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 58,
+        "label": "Death of Matilda of Flanders",
+        "labelCn": "佛兰德的玛蒂尔达去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Matilda_of_Flanders"
+      }
+    ],
+    "createdDate": "260814",
+    "createdOrder": 3
+  },
+  {
+    "id": "9fd77e98-145c-4153-b806-768ff1d76ba6",
+    "firstName": "Heinrich",
+    "lastName": "Salian",
+    "displayName": "Heinrich V",
+    "fullName": "Heinrich V, Holy Roman Emperor",
+    "nickname": "the Proud",
+    "alsoKnownAs": [],
+    "nicknameTags": [
+      "proud"
+    ],
+    "birthYear": 1081,
+    "deathYear": 1125,
+    "birthPlace": "Goslar, Saxony",
+    "birthPlaceCn": "萨克森戈斯拉尔",
+    "deathPlace": "Utrecht, Lower Lorraine",
+    "deathPlaceCn": "下洛林乌得勒支",
+    "gender": "male",
+    "dynasty": "Salian dynasty",
+    "house": "Salian dynasty",
+    "culture": "German",
+    "faith": "Catholic",
+    "primaryTitle": "Holy Roman Emperor",
+    "primaryTitleCn": "神圣罗马帝国皇帝",
+    "titles": [
+      {
+        "title": "King of Germany",
+        "startYear": 1099,
+        "endYear": 1125,
+        "titleCn": "德意志国王"
+      },
+      {
+        "title": "Holy Roman Emperor",
+        "startYear": 1111,
+        "endYear": 1125,
+        "titleCn": "神圣罗马帝国皇帝"
+      }
+    ],
+    "tags": [
+      "emperor",
+      "monarch",
+      "noble"
+    ],
+    "rank": "emperor",
+    "importanceScore": 78,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "f194f118-96af-4ad4-af2b-f8449720cff1"
+      ],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1105,
+        "type": "rebellion",
+        "tags": [
+          "rebellion",
+          "king",
+          "succession"
+        ],
+        "weight": 84,
+        "label": "Revolt against Emperor Henry IV",
+        "labelCn": "起兵反对皇帝亨利四世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_V,_Holy_Roman_Emperor",
+        "note": "Forced his father to abdicate on 31 December 1105."
+      },
+      {
+        "year": 1106,
+        "month": 1,
+        "day": 5,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "king",
+          "succession"
+        ],
+        "weight": 86,
+        "label": "King of Germany",
+        "labelCn": "成为德意志国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_V,_Holy_Roman_Emperor",
+        "note": "Anointed and crowned on 5-6 January 1106 after his father's forced abdication; he had first been crowned co-ruler at Aachen on 6 January 1099."
+      },
+      {
+        "year": 1111,
+        "month": 2,
+        "type": "political_crisis",
+        "tags": [
+          "imprisonment",
+          "church",
+          "king"
+        ],
+        "weight": 88,
+        "label": "Seizure of Pope Paschal II",
+        "labelCn": "拘押教皇帕斯卡尔二世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Pope_Paschal_II",
+        "note": "The pope was captured in February 1111 after the cancelled coronation of 12 February; the Treaty of Ponte Mammolo followed on 12 April 1111."
+      },
+      {
+        "year": 1111,
+        "month": 4,
+        "day": 13,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch",
+          "church"
+        ],
+        "weight": 97,
+        "label": "Imperial coronation",
+        "labelCn": "加冕为神圣罗马帝国皇帝",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_V,_Holy_Roman_Emperor"
+      },
+      {
+        "year": 1114,
+        "month": 1,
+        "day": 7,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 82,
+        "label": "Marriage to Matilda of England",
+        "labelCn": "与英格兰的玛蒂尔达成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Empress_Matilda",
+        "note": "Wedding celebrations in Mainz; the engagement had been made at Utrecht at Easter 1110."
+      },
+      {
+        "year": 1122,
+        "month": 9,
+        "day": 23,
+        "type": "diplomacy",
+        "tags": [
+          "diplomacy",
+          "church",
+          "treaty",
+          "religion"
+        ],
+        "weight": 95,
+        "label": "Concordat of Worms",
+        "labelCn": "《沃尔姆斯宗教协定》",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Concordat_of_Worms",
+        "note": "Ended the Investiture Controversy between emperor and papacy."
+      },
+      {
+        "year": 1125,
+        "month": 5,
+        "day": 23,
+        "type": "death",
+        "tags": [
+          "death",
+          "monarch",
+          "king"
+        ],
+        "weight": 96,
+        "label": "Death at Utrecht",
+        "labelCn": "在乌得勒支去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_V,_Holy_Roman_Emperor",
+        "note": "Died of disease; modern accounts often attribute it to cancer. He was the last Salian emperor; the marriage produced no surviving legitimate heirs."
+      }
+    ],
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died of disease at Utrecht (commonly attributed to cancer)",
+      "detail": "Henry V died on 23 May 1125 at Utrecht. Contemporary sources record death from disease; later accounts commonly attribute it to cancer. His body was buried at Speyer. As the last Salian emperor he left no surviving legitimate heirs, and the crown passed to Lothair of Supplinburg.",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Henry_V,_Holy_Roman_Emperor",
+      "summaryCn": "在乌得勒支因病去世（常归因于癌症）",
+      "detailCn": "1125 年 5 月 23 日，亨利五世在乌得勒支去世。时人记载为疾病所致，后世常归因于癌症。其遗体葬于施派尔。作为萨利安王朝最后一位皇帝，他没有留下存活的合法继承人，王位转由洛泰尔三世继承。"
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Henry_V,_Holy_Roman_Emperor",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Henry_V,_Holy_Roman_Emperor",
+    "sourceNote": "First husband of Empress Matilda; marriage ended after his death.",
+    "notes": "Holy Roman Emperor and first husband of Empress Matilda. Birth date uncertain: probably 11 August 1081 or 1086 (sources disagree). German spelling 'Heinrich' is preserved per project convention.",
+    "createdDate": "260815",
+    "createdOrder": 18,
+    "displayNameCn": "海因里希五世",
+    "fullNameCn": "神圣罗马帝国皇帝海因里希五世",
+    "nicknameCn": "骄傲者",
+    "historicalRating": 8
+  },
+  {
+    "lastName": "Aquitaine",
+    "alsoKnownAs": [
+      "Eleanor, Duchess of Aquitaine",
+      "Queen Eleanor"
+    ],
+    "nicknameTags": [
+      "duchess",
+      "queen"
+    ],
+    "birthPlace": "Poitiers, Duchy of Aquitaine",
+    "deathPlace": "Fontevraud Abbey, Anjou, Kingdom of France",
+    "portraitUrl": "",
+    "sourceNote": "",
+    "notes": "",
+    "createdDate": "260814",
+    "events": [
+      {
+        "year": 1137,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "duke"
+        ],
+        "weight": 98,
+        "label": "Became Duchess of Aquitaine",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Eleanor_of_Aquitaine",
+        "note": "Inherited Aquitaine after the death of William X.",
+        "labelCn": "成为阿基坦女公爵"
+      },
+      {
+        "year": 1137,
+        "month": 7,
+        "day": 25,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 92,
+        "label": "Marriage to Louis, heir to France",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Louis_VII_of_France",
+        "labelCn": "与法兰西王储路易成婚"
+      },
+      {
+        "year": 1137,
+        "month": 12,
+        "day": 25,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "queen"
+        ],
+        "weight": 84,
+        "label": "Coronation as Queen of France",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Eleanor_of_Aquitaine",
+        "labelCn": "加冕为法兰西王后"
+      },
+      {
+        "year": 1145,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "dynasty"
+        ],
+        "weight": 62,
+        "label": "Birth of Marie of France",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Marie_of_France,_Countess_of_Champagne",
+        "labelCn": "法兰西的玛丽出生"
+      },
+      {
+        "year": 1147,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "crusade"
+        ],
+        "weight": 76,
+        "label": "Second Crusade",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Second_Crusade",
+        "labelCn": "第二次十字军东征"
+      },
+      {
+        "year": 1150,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "dynasty"
+        ],
+        "weight": 60,
+        "label": "Birth of Alix of France",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Alix_of_France,_Countess_of_Blois",
+        "labelCn": "法兰西的阿利克斯出生"
+      },
+      {
+        "year": 1152,
+        "month": 3,
+        "day": 21,
+        "type": "annulment",
+        "tags": [
+          "annulment",
+          "marriage"
+        ],
+        "weight": 91,
+        "label": "Annulment of marriage to Louis VII",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Eleanor_of_Aquitaine",
+        "labelCn": "与路易七世的婚姻被宣告无效"
+      },
+      {
+        "year": 1152,
+        "month": 5,
+        "day": 18,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 100,
+        "label": "Marriage to Henry, Duke of Normandy",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_II_of_England",
+        "labelCn": "与诺曼底公爵亨利成婚"
+      },
+      {
+        "year": 1153,
+        "month": 8,
+        "day": 17,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "dynasty"
+        ],
+        "weight": 68,
+        "label": "Birth of William IX, Count of Poitiers",
+        "wikiUrl": "https://en.wikipedia.org/wiki/William_IX,_Count_of_Poitiers",
+        "labelCn": "普瓦捷伯爵威廉九世出生"
+      },
+      {
+        "year": 1154,
+        "month": 12,
+        "day": 19,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "queen"
+        ],
+        "weight": 90,
+        "label": "Coronation as Queen of England",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Eleanor_of_Aquitaine",
+        "labelCn": "加冕为英格兰王后"
+      },
+      {
+        "year": 1155,
+        "month": 2,
+        "day": 28,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "dynasty"
+        ],
+        "weight": 72,
+        "label": "Birth of Henry the Young King",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_the_Young_King",
+        "labelCn": "幼王亨利出生"
+      },
+      {
+        "year": 1156,
+        "month": 6,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "dynasty"
+        ],
+        "weight": 64,
+        "label": "Birth of Matilda of England",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Matilda_of_England,_Duchess_of_Saxony",
+        "labelCn": "英格兰的玛蒂尔达出生"
+      },
+      {
+        "year": 1157,
+        "month": 9,
+        "day": 8,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "dynasty"
+        ],
+        "weight": 88,
+        "label": "Birth of Richard the Lionheart",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Richard_I_of_England",
+        "labelCn": "狮心王理查出生"
+      },
+      {
+        "year": 1158,
+        "month": 9,
+        "day": 23,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "dynasty"
+        ],
+        "weight": 66,
+        "label": "Birth of Geoffrey II, Duke of Brittany",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Geoffrey_II,_Duke_of_Brittany",
+        "labelCn": "布列塔尼公爵若弗鲁瓦二世出生"
+      },
+      {
+        "year": 1161,
+        "month": 10,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "dynasty"
+        ],
+        "weight": 64,
+        "label": "Birth of Eleanor of England",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Eleanor_of_England,_Queen_of_Castile",
+        "labelCn": "英格兰的埃莉诺出生"
+      },
+      {
+        "year": 1165,
+        "month": 10,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "dynasty"
+        ],
+        "weight": 62,
+        "label": "Birth of Joan of England",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Joan_of_England,_Queen_of_Sicily",
+        "labelCn": "英格兰的琼出生"
+      },
+      {
+        "year": 1166,
+        "month": 12,
+        "day": 24,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "dynasty"
+        ],
+        "weight": 82,
+        "label": "Birth of John Lackland",
+        "wikiUrl": "https://en.wikipedia.org/wiki/John,_King_of_England",
+        "labelCn": "无地王约翰出生"
+      },
+      {
+        "year": 1173,
+        "type": "rebellion",
+        "tags": [
+          "dynasty",
+          "campaign"
+        ],
+        "weight": 94,
+        "label": "Supported the Revolt of 1173-1174",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Revolt_of_1173%E2%80%931174",
+        "labelCn": "支持 1173—1174 年叛乱"
+      },
+      {
+        "year": 1174,
+        "type": "imprisonment",
+        "tags": [
+          "imprisonment",
+          "dynasty"
+        ],
+        "weight": 88,
+        "label": "Imprisoned by Henry II",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Eleanor_of_Aquitaine",
+        "labelCn": "被亨利二世囚禁"
+      },
+      {
+        "year": 1189,
+        "type": "regency",
+        "tags": [
+          "regency",
+          "government"
+        ],
+        "weight": 92,
+        "label": "Released and governed for Richard I",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Eleanor_of_Aquitaine",
+        "labelCn": "获释并为理查一世摄政"
+      },
+      {
+        "year": 1192,
+        "type": "diplomacy",
+        "tags": [
+          "diplomacy",
+          "crusade"
+        ],
+        "weight": 90,
+        "label": "Raised Richard I's ransom",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Richard_I_of_England",
+        "labelCn": "筹集理查一世的赎金"
+      },
+      {
+        "year": 1199,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "dynasty"
+        ],
+        "weight": 84,
+        "label": "Supported John after Richard I died",
+        "wikiUrl": "https://en.wikipedia.org/wiki/John,_King_of_England",
+        "labelCn": "理查一世死后支持约翰"
+      },
+      {
+        "year": 1200,
+        "type": "diplomacy",
+        "tags": [
+          "diplomacy",
+          "dynasty"
+        ],
+        "weight": 86,
+        "label": "Embassy to Castile for Blanche of Castile",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Blanche_of_Castile",
+        "labelCn": "出使卡斯蒂利亚商议卡斯蒂利亚的布兰奇的婚事"
+      },
+      {
+        "year": 1204,
+        "month": 4,
+        "day": 1,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 72,
+        "label": "Death of Eleanor of Aquitaine",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Eleanor_of_Aquitaine",
+        "labelCn": "阿基坦的埃莉诺去世"
+      }
+    ],
+    "id": "cbb11a70-0b0f-40ca-b9c6-95426b904bf6",
+    "firstName": "Eleanor",
+    "displayName": "Eleanor of Aquitaine",
+    "fullName": "Eleanor of Aquitaine",
+    "nickname": "",
+    "birthYear": 1122,
+    "deathYear": 1204,
+    "gender": "female",
+    "dynasty": "House of Poitiers",
+    "house": "House of Poitiers",
+    "culture": "Occitan",
+    "faith": "Catholic",
+    "primaryTitle": "Queen of England",
+    "titles": [
+      {
+        "title": "Duchess of Aquitaine",
+        "startYear": 1137,
+        "endYear": 1204,
+        "titleCn": "阿基坦女公爵"
+      },
+      {
+        "title": "Queen of France",
+        "startYear": 1137,
+        "endYear": 1152,
+        "titleCn": "法兰西王后"
+      },
+      {
+        "title": "Queen of England",
+        "startYear": 1154,
+        "endYear": 1189,
+        "titleCn": "英格兰王后"
+      }
+    ],
+    "tags": [
+      "queen",
+      "duchess",
+      "consort",
+      "noble"
+    ],
+    "rank": "queen",
+    "importanceScore": 93,
+    "relationships": {
+      "fatherId": "391d79fe-1ce8-47ac-8eea-781b3a14f7bd",
+      "motherId": "",
+      "spouseIds": [
+        "6ae9afe1-d639-482e-b9ea-13d27778f842",
+        "29e2abba-321e-4090-a35d-10f0bd6a420a"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "f788cb6e-8238-45f7-838c-46768b8dacab",
+        "a7953e51-4bf0-4d2d-916d-ae0bad4f56ce",
+        "9dd8500b-98c5-469e-b70f-cc517f862d0d",
+        "acc6f935-44de-475d-beb0-3db12649068d",
+        "bfd64c09-d382-4674-806b-9d2e89766900",
+        "b8d3addb-be4b-43ca-9ebc-f70c1864685b",
+        "875bb570-7221-46eb-8873-d59d6dcb4f57",
+        "389f5949-fcb8-4bd6-a394-f4523a0d69af",
+        "f77342f7-a04d-4d69-9f91-3068e067fc61",
+        "6e154ae2-a354-40fc-bdc8-104ef378f743"
+      ]
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Eleanor_of_Aquitaine",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Eleanor_of_Aquitaine",
+    "createdOrder": 11,
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died at Fontevraud Abbey",
+      "detail": "Eleanor died at Fontevraud Abbey in 1204 at about 82 years old. Accounts treat her death as natural rather than violent or suspicious.",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Eleanor_of_Aquitaine",
+      "summaryCn": "在丰特夫罗修道院去世",
+      "detailCn": "1204 年埃莉诺在丰特夫罗修道院去世，享年约 82 岁。史料将其死亡视为自然死亡，而非暴力或可疑死亡。"
+    },
+    "displayNameCn": "阿基坦的埃莉诺",
+    "fullNameCn": "阿基坦的埃莉诺",
+    "primaryTitleCn": "英格兰王后",
+    "birthPlaceCn": "阿基坦公国普瓦捷",
+    "deathPlaceCn": "法兰西王国安茹丰特夫罗修道院",
+    "historicalRating": 9
+  },
+  {
+    "id": "391d79fe-1ce8-47ac-8eea-781b3a14f7bd",
+    "firstName": "Guilhem",
+    "lastName": "Aquitaine",
+    "displayName": "Guilhem X",
+    "fullName": "Guilhem X, Duke of Aquitaine",
+    "nickname": "le Saint",
+    "alsoKnownAs": [
+      "William X",
+      "Guillaume X"
+    ],
+    "nicknameTags": [],
+    "birthYear": 1099,
+    "deathYear": 1137,
+    "birthPlace": "Toulouse",
+    "deathPlace": "Santiago de Compostela",
+    "gender": "male",
+    "dynasty": "House of Poitiers",
+    "house": "House of Poitiers",
+    "culture": "Occitan",
+    "faith": "Catholic",
+    "primaryTitle": "Duke of Aquitaine",
+    "titles": [
+      {
+        "title": "Duke of Aquitaine",
+        "startYear": 1126,
+        "endYear": 1137,
+        "titleCn": "阿基坦公爵"
+      },
+      {
+        "title": "Duke of Gascony",
+        "startYear": 1126,
+        "endYear": 1137,
+        "titleCn": "加斯科涅公爵"
+      },
+      {
+        "title": "Count of Poitiers",
+        "startYear": 1126,
+        "endYear": 1137,
+        "titleCn": "普瓦捷伯爵"
+      }
+    ],
+    "tags": [
+      "duke",
+      "noble"
+    ],
+    "rank": "duke",
+    "importanceScore": 74,
+    "relationships": {
+      "fatherId": "07e299dc-0bb7-4219-ac2f-1d94d0475ecb",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "cbb11a70-0b0f-40ca-b9c6-95426b904bf6"
+      ]
+    },
+    "events": [
+      {
+        "year": 1121,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 90,
+        "label": "Marriage to Aenor of Chatellerault",
+        "wikiUrl": "https://en.wikipedia.org/wiki/William_X,_Duke_of_Aquitaine",
+        "labelCn": "与沙泰勒罗的埃诺尔结婚",
+        "note": "Married Aenor, daughter of Dangerose (his father's mistress) by her first husband Aimery of Chatellerault, easing the earlier strain between father and son caused by William IX setting aside Philippa for Dangerose."
+      },
+      {
+        "year": 1126,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "dynasty"
+        ],
+        "weight": 97,
+        "label": "Duke of Aquitaine, Duke of Gascony and Count of Poitiers",
+        "wikiUrl": "https://en.wikipedia.org/wiki/William_X,_Duke_of_Aquitaine",
+        "labelCn": "继承阿基坦公爵、加斯科涅公爵与普瓦捷伯爵",
+        "note": "Succeeded his father Guilhem IX in 1126. His son William Aigret died in 1130 at age four, around the time Aenor herself died."
+      },
+      {
+        "year": 1130,
+        "type": "religion",
+        "tags": [
+          "religion",
+          "church",
+          "uncertain"
+        ],
+        "weight": 84,
+        "label": "Backed the antipope in the 1130 schism",
+        "wikiUrl": "https://en.wikipedia.org/wiki/William_X,_Duke_of_Aquitaine",
+        "labelCn": "在1130年教廷分裂中支持对立教宗",
+        "note": "Initially supported antipope Anacletus II in the papal schism of 1130, against the wishes of his own bishops, until St. Bernard of Clairvaux persuaded him in 1134 to support Innocent II."
+      },
+      {
+        "year": 1136,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "alliance"
+        ],
+        "weight": 82,
+        "label": "Raid into Normandy with Geoffrey of Anjou",
+        "wikiUrl": "https://en.wikipedia.org/wiki/William_X,_Duke_of_Aquitaine",
+        "labelCn": "与安茹伯爵若弗鲁瓦联合袭扰诺曼底",
+        "note": "Raided Normandy in 1136 in alliance with Geoffrey V, Count of Anjou, whose son Henry later married Guilhem's daughter Eleanor."
+      },
+      {
+        "year": 1137,
+        "type": "religion",
+        "tags": [
+          "religion"
+        ],
+        "weight": 92,
+        "label": "Pilgrimage to Santiago de Compostela",
+        "wikiUrl": "https://en.wikipedia.org/wiki/William_X,_Duke_of_Aquitaine",
+        "labelCn": "前往圣地亚哥-德孔波斯特拉朝圣",
+        "note": "Joined the pilgrimage to Santiago de Compostela in 1137, in keeping with his family's habit of pilgrimage; he died during the trip."
+      },
+      {
+        "year": 1137,
+        "month": 4,
+        "day": 9,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 95,
+        "label": "Death of Guilhem X",
+        "wikiUrl": "https://en.wikipedia.org/wiki/William_X,_Duke_of_Aquitaine",
+        "labelCn": "吉勒姆十世去世",
+        "note": "Died 9 April 1137 at Santiago de Compostela during the pilgrimage. Before dying he asked King Louis VI of France to protect his fifteen-year-old daughter Eleanor and find her a suitable husband; Louis accepted the guardianship and married her to his son, the future Louis VII."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/William_X,_Duke_of_Aquitaine",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/William_X,_Duke_of_Aquitaine",
+    "sourceNote": "Birth year varies: c. 1098 (EN infobox) vs 1099 (Chronicle of Saint-Maixent and this project's record); he was born in Toulouse during the brief period when his parents ruled it. Death: 9 April 1137 at Santiago de Compostela on pilgrimage; no cause recorded. The article itself carries citation-maintenance tags.",
+    "notes": "Blank MVP card replaced with a full research-backed card; existing identity and the father/child links (to Guilhem IX and Eleanor of Aquitaine) preserved. His death left the 15-year-old Eleanor as heiress of Aquitaine; Louis VI took her under royal protection and her 1137 marriage to the future Louis VII brought Aquitaine into the French royal domain.",
+    "createdDate": "260814",
+    "createdOrder": 16,
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died on pilgrimage to Santiago de Compostela",
+      "detail": "Guilhem X died 9 April 1137 at Santiago de Compostela while on pilgrimage; no cause of death is recorded. His death left his fifteen-year-old daughter Eleanor as heiress of Aquitaine and led to her marriage with the future Louis VII of France.",
+      "wikiUrl": "https://en.wikipedia.org/wiki/William_X,_Duke_of_Aquitaine",
+      "summaryCn": "在圣地亚哥-德孔波斯特拉朝圣途中去世",
+      "detailCn": "吉勒姆十世于1137年4月9日在朝圣途中于圣地亚哥-德孔波斯特拉去世，死因未记载。他的去世使十五岁的女儿埃莉诺成为阿基坦继承人，并促成她与后来的法国国王路易七世成婚。"
+    },
+    "displayNameCn": "吉勒姆十世",
+    "fullNameCn": "阿基坦公爵吉勒姆十世",
+    "nicknameCn": "圣者",
+    "primaryTitleCn": "阿基坦公爵",
+    "birthPlaceCn": "图卢兹",
+    "deathPlaceCn": "圣地亚哥-德孔波斯特拉",
+    "historicalRating": 7
+  },
+  {
+    "id": "07e299dc-0bb7-4219-ac2f-1d94d0475ecb",
+    "firstName": "Guilhem",
+    "lastName": "Aquitaine",
+    "displayName": "Guilhem IX",
+    "fullName": "Guilhem IX, Duke of Aquitaine",
+    "nickname": "lo Trobador",
+    "alsoKnownAs": [
+      "William IX",
+      "Guillaume IX",
+      "Guilhem de Peitieus"
+    ],
+    "nicknameTags": [],
+    "birthYear": 1071,
+    "deathYear": 1127,
+    "birthPlace": "",
+    "deathPlace": "Poitiers",
+    "gender": "male",
+    "dynasty": "House of Poitiers",
+    "house": "House of Poitiers",
+    "culture": "Occitan",
+    "faith": "Catholic",
+    "primaryTitle": "Duke of Aquitaine",
+    "titles": [
+      {
+        "title": "Duke of Aquitaine",
+        "startYear": 1086,
+        "endYear": 1127,
+        "titleCn": "阿基坦公爵"
+      },
+      {
+        "title": "Duke of Gascony",
+        "startYear": 1086,
+        "endYear": 1127,
+        "titleCn": "加斯科涅公爵"
+      },
+      {
+        "title": "Count of Poitiers",
+        "startYear": 1086,
+        "endYear": 1127,
+        "titleCn": "普瓦捷伯爵"
+      }
+    ],
+    "tags": [
+      "duke",
+      "noble",
+      "commander"
+    ],
+    "rank": "duke",
+    "importanceScore": 76,
+    "relationships": {
+      "fatherId": "b2bd4758-f667-458b-953b-8d3785b8b387",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "391d79fe-1ce8-47ac-8eea-781b3a14f7bd"
+      ]
+    },
+    "events": [
+      {
+        "year": 1086,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "dynasty"
+        ],
+        "weight": 96,
+        "label": "Duke of Aquitaine and Count of Poitiers",
+        "wikiUrl": "https://en.wikipedia.org/wiki/William_IX,_Duke_of_Aquitaine",
+        "labelCn": "继承阿基坦公爵与普瓦捷伯爵",
+        "note": "Succeeded his father Guilhem VIII, who died 25 September 1086. The Church initially considered him illegitimate because of his father's earlier divorces and the parents' consanguinity, until papal approval was obtained."
+      },
+      {
+        "year": 1094,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 95,
+        "label": "Marriage to Philippa of Toulouse",
+        "wikiUrl": "https://en.wikipedia.org/wiki/William_IX,_Duke_of_Aquitaine",
+        "labelCn": "与图卢兹的菲莉帕结婚",
+        "note": "Married Philippa of Toulouse in 1094, bringing her claim to the county of Toulouse. The alleged earlier marriage to Ermengarde of Anjou (1088) is doubtful (Ruth Harvey, 1993)."
+      },
+      {
+        "year": 1098,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "conquest",
+          "territory"
+        ],
+        "weight": 88,
+        "label": "Capture of Toulouse",
+        "wikiUrl": "https://en.wikipedia.org/wiki/William_IX,_Duke_of_Aquitaine",
+        "labelCn": "攻占图卢兹",
+        "note": "Captured Toulouse in 1098 with Philippa, asserting her inheritance claim, for which they were threatened with excommunication. He mortgaged Toulouse back to Bertrand of Saint-Gilles in 1101 to fund his crusade and lost it for good to Alfonso Jordan in 1122."
+      },
+      {
+        "year": 1101,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "crusade",
+          "main_commander",
+          "defeat"
+        ],
+        "weight": 97,
+        "label": "Crusade of 1101 - disaster at Heraclea",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Crusade_of_1101",
+        "labelCn": "1101年十字军东征——赫拉克莱亚惨败",
+        "note": "Led an army on the Crusade of 1101; it was destroyed by the Seljuk Turks under Kilij Arslan I at Heraclea in September 1101 and he reached Antioch with only six companions."
+      },
+      {
+        "year": 1114,
+        "type": "political_crisis",
+        "tags": [
+          "church"
+        ],
+        "weight": 86,
+        "label": "Excommunication and the Dangereuse affair",
+        "wikiUrl": "https://en.wikipedia.org/wiki/William_IX,_Duke_of_Aquitaine",
+        "labelCn": "被绝罚及与丹格罗丝的感情风波",
+        "note": "Excommunicated in early 1114 for infringing Church tax privileges, after threatening the bishop of Poitiers with a sword, and again for taking Dangereuse, wife of his vassal Aimery de Rochefoucauld; he installed her in the Maubergeonne tower at Poitiers and painted her likeness on his shield."
+      },
+      {
+        "year": 1118,
+        "type": "religion",
+        "tags": [
+          "religion",
+          "church"
+        ],
+        "weight": 80,
+        "label": "Reconciliation with the Church",
+        "wikiUrl": "https://en.wikipedia.org/wiki/William_IX,_Duke_of_Aquitaine",
+        "labelCn": "与教会和解",
+        "note": "Readmitted to the Church around 1118-1120 after concessions. His wife Philippa had retired to Fontevraud Abbey and died 28 November 1118."
+      },
+      {
+        "year": 1127,
+        "month": 2,
+        "day": 10,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 84,
+        "label": "Death of Guilhem IX",
+        "wikiUrl": "https://en.wikipedia.org/wiki/William_IX,_Duke_of_Aquitaine",
+        "labelCn": "吉勒姆九世去世",
+        "note": "Died 10 February after a short illness in Poitiers. The year is debated: this project's record uses 1127, but the text of both EN and FR Wikipedia gives 10 February 1126 (their category boxes say 1127). He is remembered as the first troubadour whose work survives (11 songs), a founder of Occitan literature."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/William_IX,_Duke_of_Aquitaine",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/William_IX,_Duke_of_Aquitaine",
+    "sourceNote": "Death year is disputed: EN and FR Wikipedia article text give 10 February 1126, while their succession/category boxes and other references give 1127 (used here, matching the existing record). The traditional first marriage to Ermengarde of Anjou (1088) is doubtful. Birthplace not given by the sources.",
+    "notes": "The earliest troubadour whose work survives (11 songs, one of dubious attribution); 'lo Trobador' was applied only in the nineteenth century, contemporaries sometimes calling him 'the Younger.' His affair with Dangereuse (Viscountess of Chatellerault) estranged him from his son, the future Guilhem X, whose own marriage in 1121 to Dangereuse's daughter Aenor healed the rift. Blank MVP card replaced with a full research-backed card; existing identity and father/child links preserved.",
+    "createdDate": "260814",
+    "createdOrder": 17,
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died after a short illness in Poitiers",
+      "detail": "Guilhem IX died 10 February in Poitiers after a short illness. The year is disputed: 1127 (used in this project's data and many references) vs 1126 (EN and FR Wikipedia article text). He is remembered as the earliest troubadour whose works survive.",
+      "wikiUrl": "https://en.wikipedia.org/wiki/William_IX,_Duke_of_Aquitaine",
+      "summaryCn": "在普瓦捷患病后不久去世",
+      "detailCn": "吉勒姆九世于2月10日在普瓦捷患急病去世。年份有争议：本项目数据及许多参考文献作1127年，而英法维基百科正文作1126年。他以作品流传至今的最早游吟诗人著称。"
+    },
+    "displayNameCn": "吉勒姆九世",
+    "fullNameCn": "阿基坦公爵吉勒姆九世",
+    "nicknameCn": "吟游诗人",
+    "primaryTitleCn": "阿基坦公爵",
+    "birthPlaceCn": "",
+    "deathPlaceCn": "普瓦捷",
+    "historicalRating": 7
+  },
+  {
+    "id": "83fe78c1-47e6-4a72-92fd-dc0b7bdd02ce",
+    "firstName": "Roger",
+    "lastName": "Mortimer",
+    "displayName": "Roger Mortimer",
+    "fullName": "Roger Mortimer, 4th Earl of March",
+    "displayNameCn": "罗杰·莫蒂默",
+    "fullNameCn": "第四代马奇伯爵罗杰·莫蒂默",
+    "nickname": "",
+    "nicknameCn": "",
+    "nicknameTags": [],
+    "alsoKnownAs": [
+      "Roger Mortimer, 4th Earl of March",
+      "Roger de Mortimer"
+    ],
+    "gender": "male",
+    "birthYear": 1374,
+    "deathYear": 1398,
+    "birthPlace": "Usk, Monmouthshire, Wales",
+    "deathPlace": "County Carlow, Ireland",
+    "birthPlaceCn": "威尔士蒙茅斯郡阿斯克",
+    "deathPlaceCn": "爱尔兰卡洛郡",
+    "dynasty": "House of Mortimer",
+    "house": "House of Mortimer",
+    "culture": "English",
+    "faith": "Catholic",
+    "rank": "count",
+    "primaryTitle": "Earl of March",
+    "primaryTitleCn": "马奇伯爵",
+    "titles": [
+      {
+        "title": "Earl of March",
+        "startYear": 1381,
+        "endYear": 1398,
+        "titleCn": "马奇伯爵"
+      },
+      {
+        "title": "Earl of Ulster",
+        "startYear": 1382,
+        "endYear": 1398,
+        "titleCn": "阿尔斯特伯爵"
+      }
+    ],
+    "tags": [
+      "noble",
+      "commander"
+    ],
+    "importanceScore": 76,
+    "historicalRating": 7,
+    "wikiUrl": "https://en.wikipedia.org/wiki/Roger_Mortimer,_4th_Earl_of_March",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Roger_Mortimer,_4th_Earl_of_March",
+    "sourceNote": "",
+    "notes": "Grandson of Lionel of Antwerp through his mother Philippa of Clarence. Proclaimed heir presumptive to Richard II in October 1385 (per Cokayne; historian R.R. Davies considers the story baseless, though his claim was openly discussed). NOTE: this roster entry is Roger Mortimer, 4th Earl of March (1374-1398), not the 1st Earl executed in 1330. His daughter Anne Mortimer's line carried the Yorkist claim to the throne.",
+    "deathCause": {
+      "kind": "violent",
+      "summary": "Slain at the Battle of Kellistown, Ireland",
+      "detail": "Roger was killed on 20 July 1398 at the Battle of Kellistown, County Carlow, Ireland, while campaigning. Riding ahead of his army unattended and in Irish garb, he was killed by men who did not recognize him. Some sources give 15 August as the date.",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Roger_Mortimer,_4th_Earl_of_March",
+      "summaryCn": "在爱尔兰凯尔斯敦之战中阵亡",
+      "detailCn": "罗杰于1398年7月20日在爱尔兰卡洛郡凯尔斯敦之战中阵亡：他孤身身着爱尔兰装束骑行在军队前方，被未认出他的士兵杀死。部分史料将日期记作8月15日。"
+    },
+    "relationships": {
+      "fatherId": "",
+      "motherId": "dc4c0c6f-1f8c-41ed-a91b-92b78a065bd9",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "38e14a5d-17a3-4c5a-8ee3-3d4d39d911af"
+      ]
+    },
+    "events": [
+      {
+        "year": 1374,
+        "month": 4,
+        "day": 11,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "uncertain"
+        ],
+        "weight": 60,
+        "label": "Birth of Roger Mortimer at Usk",
+        "labelCn": "罗杰·莫蒂默在阿斯克出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Roger_Mortimer,_4th_Earl_of_March",
+        "note": "Born 11 April 1374 at Usk, Monmouthshire."
+      },
+      {
+        "year": 1381,
+        "month": 12,
+        "day": 27,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "succession"
+        ],
+        "weight": 75,
+        "label": "Inherited the Earldoms of March and Ulster",
+        "labelCn": "继承马奇与阿尔斯特伯爵领地",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Roger_Mortimer,_4th_Earl_of_March",
+        "note": "His father Edmund Mortimer, 3rd Earl, died 27 December 1381; the six-year-old Roger succeeded to the Earldom of March (Ulster title vested 1382)."
+      },
+      {
+        "year": 1385,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "uncertain"
+        ],
+        "weight": 85,
+        "label": "Proclaimed heir presumptive to Richard II",
+        "labelCn": "被宣布为理查二世的推定继承人",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Roger_Mortimer,_4th_Earl_of_March",
+        "note": "G.E. Cokayne states Mortimer was proclaimed heir presumptive in October 1385; historian R.R. Davies calls the story baseless, though contemporary records show his claim was openly discussed."
+      },
+      {
+        "year": 1388,
+        "month": 10,
+        "day": 7,
+        "type": "marriage",
+        "tags": [
+          "marriage"
+        ],
+        "weight": 66,
+        "label": "Marriage to Eleanor Holland",
+        "labelCn": "与埃莉诺·霍兰成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Roger_Mortimer,_4th_Earl_of_March",
+        "note": "Married on or about 7 October 1388, aged 14; Eleanor Holland is not modeled in the roster."
+      },
+      {
+        "year": 1390,
+        "month": 4,
+        "day": 23,
+        "type": "title",
+        "tags": [
+          "title"
+        ],
+        "weight": 60,
+        "label": "Knighted by Richard II",
+        "labelCn": "被理查二世册封为骑士",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Roger_Mortimer,_4th_Earl_of_March",
+        "note": "Knighted on St George's Day, 23 April 1390."
+      },
+      {
+        "year": 1394,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "government"
+        ],
+        "weight": 62,
+        "label": "Lord Lieutenant of Ireland; campaigns against Irish chieftains",
+        "labelCn": "任爱尔兰总督并征讨爱尔兰酋长",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Roger_Mortimer,_4th_Earl_of_March",
+        "note": "First appointed Lord Lieutenant of Ireland on 24 January 1382 (aged 7, with uncle Sir Thomas Mortimer as deputy); reappointed July 1392, September 1394 and April 1397. He made little headway against the native Irish chieftains."
+      },
+      {
+        "year": 1398,
+        "month": 7,
+        "day": 20,
+        "type": "death",
+        "tags": [
+          "death",
+          "violent"
+        ],
+        "weight": 80,
+        "label": "Death at the Battle of Kellistown",
+        "labelCn": "在凯尔斯敦之战中阵亡",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Roger_Mortimer,_4th_Earl_of_March",
+        "note": "Killed 20 July 1398 in County Carlow, Ireland; some sources give 15 August as the death date. Buried at Wigmore Abbey."
+      }
+    ],
+    "createdDate": "260814",
+    "createdOrder": 37
+  },
+  {
+    "id": "38e14a5d-17a3-4c5a-8ee3-3d4d39d911af",
+    "firstName": "Anne",
+    "lastName": "Mortimer",
+    "displayName": "Anne Mortimer",
+    "fullName": "Anne de Mortimer",
+    "displayNameCn": "安妮·莫蒂默",
+    "fullNameCn": "安妮·莫蒂默",
+    "nickname": "",
+    "nicknameCn": "",
+    "nicknameTags": [],
+    "alsoKnownAs": [
+      "Anne de Mortimer",
+      "Countess of Cambridge"
+    ],
+    "gender": "female",
+    "birthYear": 1388,
+    "deathYear": 1411,
+    "birthPlace": "",
+    "deathPlace": "",
+    "birthPlaceCn": "",
+    "deathPlaceCn": "",
+    "dynasty": "House of Mortimer",
+    "house": "House of Mortimer",
+    "culture": "English",
+    "faith": "Catholic",
+    "rank": "untitled",
+    "primaryTitle": "Noblewoman",
+    "primaryTitleCn": "女贵族",
+    "titles": [],
+    "tags": [
+      "noble"
+    ],
+    "importanceScore": 72,
+    "historicalRating": 7,
+    "wikiUrl": "https://en.wikipedia.org/wiki/Anne_de_Mortimer",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Anne_de_Mortimer",
+    "sourceNote": "",
+    "notes": "Grandmother of Edward IV through Richard of York. Married secretly to Richard of Conisburgh; the Yorkist claim to the throne passed through her Mortimer descent, underpinning the Wars of the Roses. Birth year corrected from 1390 to 1388 (born 27 December 1388).",
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died soon after childbirth",
+      "detail": "Anne died on or around 22 September 1411, shortly after the birth of her son Richard of York, at about age 22. Likely complications of childbirth, though the precise cause is not explicitly documented.",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Anne_de_Mortimer",
+      "summaryCn": "产后不久去世",
+      "detailCn": "安妮于1411年9月22日前后去世，即在生下儿子约克的理查之后不久，年仅约22岁。很可能死于分娩并发症，但具体原因无明确记载。"
+    },
+    "relationships": {
+      "fatherId": "83fe78c1-47e6-4a72-92fd-dc0b7bdd02ce",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "1299a0d9-153e-4a1d-a90f-27ae608c44ae"
+      ]
+    },
+    "events": [
+      {
+        "year": 1388,
+        "month": 12,
+        "day": 27,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "uncertain"
+        ],
+        "weight": 60,
+        "label": "Birth of Anne Mortimer",
+        "labelCn": "安妮·莫蒂默出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Anne_de_Mortimer",
+        "note": "Born 27 December 1388, eldest child of Roger Mortimer, 4th Earl of March, and Eleanor Holland; birthplace not documented."
+      },
+      {
+        "year": 1408,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "uncertain"
+        ],
+        "weight": 78,
+        "label": "Secret marriage to Richard of Conisburgh",
+        "labelCn": "与科尼斯伯勒的理查秘密成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Richard_of_Conisburgh,_3rd_Earl_of_Cambridge",
+        "note": "Married secretly c. early 1408 (after 8 January) without her relatives' knowledge; validated by papal dispensation on 23 May 1408. Richard of Conisburgh is not modeled in the roster, so no relationship link is set."
+      },
+      {
+        "year": 1409,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "dynasty"
+        ],
+        "weight": 60,
+        "label": "Birth of Isabel of York",
+        "labelCn": "约克的伊莎贝尔出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Anne_de_Mortimer",
+        "note": "First child Isabel born 1409."
+      },
+      {
+        "year": 1411,
+        "month": 9,
+        "day": 21,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "dynasty"
+        ],
+        "weight": 88,
+        "label": "Birth of Richard of York",
+        "labelCn": "约克的理查出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Richard_of_York,_3rd_Duke_of_York",
+        "note": "Son Richard, later 3rd Duke of York and father of Edward IV and Richard III, born 21 September 1411 (some sources: 22 September)."
+      },
+      {
+        "year": 1411,
+        "month": 9,
+        "day": 22,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 82,
+        "label": "Death of Anne Mortimer",
+        "labelCn": "安妮·莫蒂默去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Anne_de_Mortimer",
+        "note": "Died on or around 22 September 1411, soon after Richard's birth, aged about 22; buried at Kings Langley, Hertfordshire."
+      },
+      {
+        "year": 1425,
+        "type": "dynasty",
+        "tags": [
+          "dynasty",
+          "succession"
+        ],
+        "weight": 60,
+        "label": "Mortimer claim passes to her son Richard",
+        "labelCn": "莫蒂默家族的继承权传于其子理查",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Anne_de_Mortimer",
+        "note": "Posthumous: her brother Edmund Mortimer, 5th Earl of March, died heirless in 1425, making her son Richard of York the Yorkist claimant to the throne."
+      }
+    ],
+    "createdDate": "260814",
+    "createdOrder": 38
+  },
+  {
+    "id": "04bd4507-aadb-4108-9bb4-278c7e06ae53",
+    "firstName": "Ida",
+    "lastName": "Tosny",
+    "displayName": "Ida de Tosny",
+    "fullName": "Ida de Tosny",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": "",
+    "deathYear": "",
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "female",
+    "dynasty": "",
+    "house": "",
+    "culture": "Anglo-Norman",
+    "faith": "Catholic",
+    "primaryTitle": "Partner of Henry II",
+    "titles": [],
+    "tags": [
+      "partner"
+    ],
+    "rank": "untitled",
+    "importanceScore": 38,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [
+        "29e2abba-321e-4090-a35d-10f0bd6a420a"
+      ],
+      "childIds": [
+        "b9d986e1-2e99-4889-a02d-d72391b216cd"
+      ]
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Ida_de_Tosny",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Ida_de_Tosny",
+    "sourceNote": "",
+    "notes": "Blank MVP person card; non-marital partner of Henry II and mother of William Longespee.",
+    "createdDate": "260815",
+    "createdOrder": 42,
+    "displayNameCn": "伊达·德·托斯尼",
+    "fullNameCn": "伊达·德·托斯尼",
+    "primaryTitleCn": "亨利二世的伴侣",
+    "historicalRating": 4
+  },
+  {
+    "id": "a7f4c320-5137-4cfd-b522-52e951026caf",
+    "firstName": "Ykenai",
+    "lastName": "",
+    "displayName": "Ykenai",
+    "fullName": "Ykenai",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Hikenai"
+    ],
+    "nicknameTags": [],
+    "birthYear": "",
+    "deathYear": "",
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "female",
+    "dynasty": "",
+    "house": "",
+    "culture": "Anglo-Norman",
+    "faith": "Catholic",
+    "primaryTitle": "Partner of Henry II",
+    "titles": [],
+    "tags": [
+      "partner"
+    ],
+    "rank": "untitled",
+    "importanceScore": 36,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [
+        "29e2abba-321e-4090-a35d-10f0bd6a420a"
+      ],
+      "childIds": [
+        "8a4656fa-331c-4054-ab20-c1deefbd5844"
+      ]
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Geoffrey_(archbishop_of_York)",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Geoffrey_(archbishop_of_York)",
+    "sourceNote": "",
+    "notes": "Blank MVP person card; named mother of Geoffrey, Archbishop of York, in Henry II illegitimate-child tradition.",
+    "createdDate": "260815",
+    "createdOrder": 43,
+    "displayNameCn": "伊肯奈",
+    "fullNameCn": "伊肯奈",
+    "primaryTitleCn": "亨利二世的伴侣",
+    "historicalRating": 4
+  },
+  {
+    "id": "de7af180-4027-4b64-a5c5-9c7c1ac271ae",
+    "firstName": "Nest",
+    "lastName": "",
+    "displayName": "Nest",
+    "fullName": "Nest",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Nesta"
+    ],
+    "nicknameTags": [],
+    "birthYear": "",
+    "deathYear": "",
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "female",
+    "dynasty": "",
+    "house": "",
+    "culture": "Welsh",
+    "faith": "Catholic",
+    "primaryTitle": "Partner of Henry II",
+    "titles": [],
+    "tags": [
+      "partner"
+    ],
+    "rank": "untitled",
+    "importanceScore": 34,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [
+        "29e2abba-321e-4090-a35d-10f0bd6a420a"
+      ],
+      "childIds": [
+        "d3b4b5d0-b6ac-4319-831a-d186be9e3bc3"
+      ]
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Morgan_(bishop-elect_of_Durham)",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Morgan_(bishop-elect_of_Durham)",
+    "sourceNote": "",
+    "notes": "Blank MVP person card; probable mother of Morgan FitzRoy.",
+    "createdDate": "260815",
+    "createdOrder": 44,
+    "displayNameCn": "内丝特",
+    "fullNameCn": "内丝特",
+    "primaryTitleCn": "亨利二世的伴侣",
+    "historicalRating": 3
+  },
+  {
+    "id": "8c48b7d7-e2bb-42f8-8c68-ce449b147eb0",
+    "firstName": "Matilda",
+    "lastName": "Scotland",
+    "displayName": "Matilda of Scotland",
+    "fullName": "Matilda of Scotland, Queen of England",
+    "displayNameCn": "苏格兰的玛蒂尔达",
+    "fullNameCn": "苏格兰的玛蒂尔达，英格兰王后",
+    "nickname": "Good Queen Maud",
+    "nicknameCn": "贤后莫德",
+    "nicknameTags": [
+      "epithet"
+    ],
+    "alsoKnownAs": [
+      "Edith of Scotland",
+      "Maud of Scotland"
+    ],
+    "gender": "female",
+    "birthYear": 1080,
+    "deathYear": 1118,
+    "birthPlace": "Dunfermline, Scotland",
+    "deathPlace": "Westminster Palace, London, England",
+    "birthPlaceCn": "苏格兰邓弗姆林",
+    "deathPlaceCn": "英格兰伦敦威斯敏斯特宫",
+    "dynasty": "House of Dunkeld",
+    "house": "House of Dunkeld",
+    "culture": "Scottish",
+    "faith": "Catholic",
+    "rank": "queen",
+    "primaryTitle": "Queen of England",
+    "primaryTitleCn": "英格兰王后",
+    "titles": [
+      {
+        "title": "Queen of England",
+        "startYear": 1100,
+        "endYear": 1118,
+        "titleCn": "英格兰王后"
+      }
+    ],
+    "tags": [
+      "queen",
+      "consort",
+      "noble"
+    ],
+    "importanceScore": 86,
+    "historicalRating": 8,
+    "wikiUrl": "https://en.wikipedia.org/wiki/Matilda_of_Scotland",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Matilda_of_Scotland",
+    "sourceNote": "",
+    "notes": "Mother of Empress Matilda; christened Edith and took the regnal name Matilda at her coronation. Known as 'Good Queen Maud'. Acted as regent of England during Henry I's absences in 1104, 1107, 1108 and 1111. An attempted sainthood was never completed.",
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died of natural causes",
+      "detail": "Matilda died at Westminster Palace on 1 May 1118, aged about 37-38. No violent cause is recorded; the precise illness is not documented.",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Matilda_of_Scotland",
+      "summaryCn": "自然死亡",
+      "detailCn": "玛蒂尔达于1118年5月1日在威斯敏斯特宫去世，享年约37至38岁。史料未记载暴力死因，具体疾病不详。"
+    },
+    "relationships": {
+      "fatherId": "",
+      "motherId": "73169d74-c7ee-4e7d-9711-74b9272ab00c",
+      "spouseIds": [
+        "90840bac-1589-4ba4-abfe-9189e6046b36"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "f194f118-96af-4ad4-af2b-f8449720cff1"
+      ]
+    },
+    "events": [
+      {
+        "year": 1080,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "uncertain"
+        ],
+        "weight": 60,
+        "label": "Birth of Edith (later Matilda) at Dunfermline",
+        "labelCn": "埃迪丝（后来的玛蒂尔达）在邓弗姆林出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Matilda_of_Scotland",
+        "note": "Born c. 1080 in Dunfermline, Scotland; christened Edith (Eadgyth). Exact date unknown."
+      },
+      {
+        "year": 1100,
+        "month": 11,
+        "day": 11,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 95,
+        "label": "Marriage to Henry I at Westminster Abbey",
+        "labelCn": "在威斯敏斯特教堂与亨利一世成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Matilda_of_Scotland",
+        "note": "Married 11 November 1100, officiated by Archbishop Anselm; Edith took the regnal name Matilda."
+      },
+      {
+        "year": 1100,
+        "month": 11,
+        "day": 11,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "queen"
+        ],
+        "weight": 88,
+        "label": "Crowned Queen of England",
+        "labelCn": "加冕为英格兰王后",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Matilda_of_Scotland",
+        "note": "Crowned on her wedding day, 11 November 1100."
+      },
+      {
+        "year": 1102,
+        "month": 2,
+        "day": 7,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "dynasty"
+        ],
+        "weight": 85,
+        "label": "Birth of Empress Matilda",
+        "labelCn": "女皇玛蒂尔达出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Empress_Matilda",
+        "note": "Daughter Matilda (later Holy Roman Empress and claimant to England) born 7 February 1102."
+      },
+      {
+        "year": 1103,
+        "month": 8,
+        "day": 5,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "dynasty"
+        ],
+        "weight": 78,
+        "label": "Birth of William Adelin",
+        "labelCn": "威廉·阿德林出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/William_Adelin",
+        "note": "Son and heir William born 5 August 1103; he drowned in the White Ship disaster of 1120."
+      },
+      {
+        "year": 1104,
+        "type": "government",
+        "tags": [
+          "government",
+          "regency"
+        ],
+        "weight": 74,
+        "label": "Regent of England during Henry I's absences",
+        "labelCn": "在亨利一世外出期间摄政英格兰",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Matilda_of_Scotland",
+        "note": "Acted as regent of England in 1104, 1107, 1108 and 1111 while Henry campaigned in Normandy and France; head of Henry's court during his absence."
+      },
+      {
+        "year": 1118,
+        "month": 5,
+        "day": 1,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 72,
+        "label": "Death of Matilda of Scotland",
+        "labelCn": "苏格兰的玛蒂尔达去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Matilda_of_Scotland",
+        "note": "Died at Westminster Palace; buried in Westminster Abbey near Edward the Confessor."
+      }
+    ],
+    "createdDate": "260815",
+    "createdOrder": 12
+  },
+  {
+    "id": "03f3405f-5513-4f48-aee3-42e11902cde5",
+    "firstName": "Ramnulf",
+    "lastName": "Poitiers",
+    "displayName": "Ramnulf I",
+    "fullName": "Ramnulf I, Count of Poitiers",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Ranulf I",
+      "Rainulf I",
+      "Renoul I"
+    ],
+    "nicknameTags": [],
+    "birthYear": 820,
+    "deathYear": 866,
+    "birthPlace": "Auvergne",
+    "deathPlace": "Poitiers",
+    "gender": "male",
+    "dynasty": "House of Poitiers",
+    "house": "House of Poitiers",
+    "culture": "Occitan",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Poitiers",
+    "titles": [
+      {
+        "title": "Count of Poitiers",
+        "startYear": 854,
+        "endYear": 866,
+        "titleCn": "普瓦捷伯爵"
+      }
+    ],
+    "tags": [
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 48,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "ab041d6d-cf97-4b15-b35d-918f5d17e473"
+      ]
+    },
+    "events": [
+      {
+        "year": 854,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "succession"
+        ],
+        "weight": 88,
+        "label": "Count of Poitiers",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ranulf_I_of_Aquitaine",
+        "labelCn": "成为普瓦捷伯爵",
+        "note": "Effective start of his tenure as count of Poitiers. Ademar of Chabannes claims he was appointed in 840 and the EN succession box gives 835, but modern scholarship (following the death of Bishop Ebroin) regards 854 as most plausible."
+      },
+      {
+        "year": 866,
+        "month": 9,
+        "day": 15,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "violent"
+        ],
+        "weight": 92,
+        "label": "Wounded at the Battle of Brissarthe",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Brissarthe",
+        "labelCn": "在布里斯萨特战役中负伤",
+        "note": "Fighting Viking raiders at Brissarthe on 15 September 866; Robert the Strong was killed and Ramnulf was gravely wounded by an arrow."
+      },
+      {
+        "year": 866,
+        "month": 10,
+        "day": 15,
+        "type": "death",
+        "tags": [
+          "death",
+          "violent"
+        ],
+        "weight": 85,
+        "label": "Death of Ramnulf I",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ranulf_I_of_Aquitaine",
+        "labelCn": "拉姆努尔夫一世去世",
+        "note": "Died of his battle wounds at Poitiers about a month after Brissarthe (15 October 866 per French Wikipedia)."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Ranulf_I_of_Aquitaine",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Ramnulfids",
+    "sourceNote": "Early Ramnulfid genealogy and dates are partly uncertain: birth year 820 (FR infobox) or c. 825 (Settipani); the start of the countship is variously given as 835/840/854; the identities of his mother and wife (Adaltrude of Maine / Bilichilde) are uncertain. He was also a lay abbot of Saint-Hilaire (841-866).",
+    "notes": "Founder of the House of Poitiers/Ramnulfids; son of Gerard, Count of Auvergne according to the cited genealogy. NOTE: the EN article is titled 'Ranulf I of Aquitaine' — the previously stored URL with the 'Ramnulf' spelling returns 404 and has been corrected.",
+    "createdDate": "260816",
+    "createdOrder": 48,
+    "deathCause": {
+      "kind": "violent",
+      "summary": "Died of wounds from the Battle of Brissarthe",
+      "detail": "Fought the Vikings at Brissarthe (15 September 866) alongside Robert the Strong, who was killed; Ramnulf was wounded by an arrow and died of his wounds in Poitiers around 15 October 866.",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Ranulf_I_of_Aquitaine",
+      "summaryCn": "死于布里斯萨特战役所受的箭伤",
+      "detailCn": "866年9月15日与罗伯特·强者一同在布里斯萨特与维京人作战；罗伯特阵亡，拉姆努尔夫中箭重伤，约10月15日在普瓦捷伤重不治。"
+    },
+    "displayNameCn": "拉姆努尔夫一世",
+    "fullNameCn": "普瓦捷伯爵拉姆努尔夫一世",
+    "nicknameCn": "",
+    "primaryTitleCn": "普瓦捷伯爵",
+    "birthPlaceCn": "奥弗涅",
+    "deathPlaceCn": "普瓦捷",
+    "historicalRating": 5
+  },
+  {
+    "id": "ab041d6d-cf97-4b15-b35d-918f5d17e473",
+    "firstName": "Ramnulf",
+    "lastName": "Poitiers",
+    "displayName": "Ramnulf II",
+    "fullName": "Ramnulf II, Count of Poitiers",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Ranulf II",
+      "Rannulf II",
+      "Renoul II"
+    ],
+    "nicknameTags": [],
+    "birthYear": 850,
+    "deathYear": 890,
+    "birthPlace": "Poitiers",
+    "deathPlace": "Paris",
+    "gender": "male",
+    "dynasty": "House of Poitiers",
+    "house": "House of Poitiers",
+    "culture": "Occitan",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Poitiers",
+    "titles": [
+      {
+        "title": "Count of Poitiers",
+        "startYear": 866,
+        "endYear": 890,
+        "titleCn": "普瓦捷伯爵"
+      },
+      {
+        "title": "King of Aquitaine",
+        "startYear": 888,
+        "endYear": 890,
+        "titleCn": "阿基坦国王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 54,
+    "relationships": {
+      "fatherId": "03f3405f-5513-4f48-aee3-42e11902cde5",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "ea25e4b2-0ea3-4c7a-90b8-7299d2f03d8e",
+        "b6d90909-ed70-4fd5-93c6-e5726538138a"
+      ]
+    },
+    "events": [
+      {
+        "year": 866,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "dynasty"
+        ],
+        "weight": 92,
+        "label": "Count of Poitiers after his father's death",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ranulf_II_of_Aquitaine",
+        "labelCn": "继承普瓦捷伯爵",
+        "note": "Succeeded his father Ramnulf I. The EN article gives 866, French Wikipedia gives 877 and its succession box 886-890 — the start date varies by source."
+      },
+      {
+        "year": 888,
+        "type": "title",
+        "tags": [
+          "title",
+          "king",
+          "succession",
+          "uncertain"
+        ],
+        "weight": 90,
+        "label": "Styled himself King of Aquitaine",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ranulf_II_of_Aquitaine",
+        "labelCn": "自称阿基坦国王",
+        "note": "After the death of Charles the Fat in 888 he styled himself King of Aquitaine (per the Annales Fuldenses) and refused to recognize Odo as king; the claim lasted until 889 or his death. French Wikipedia instead presents him as styling himself duke (dux maximae partis Aquitaniae), so the royal title is contested."
+      },
+      {
+        "year": 890,
+        "month": 8,
+        "day": 5,
+        "type": "death",
+        "tags": [
+          "death",
+          "uncertain"
+        ],
+        "weight": 88,
+        "label": "Death of Ramnulf II",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ranulf_II_of_Aquitaine",
+        "labelCn": "拉姆努尔夫二世去世",
+        "note": "Died at Paris on 5 August 890; French Wikipedia reports he may have been poisoned ('peut-etre empoisonne'). His legitimate son Ramnulf III was short-lived, so the illegitimate Ebalus Manzer carried the line."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Ranulf_II_of_Aquitaine",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Ramnulfids",
+    "sourceNote": "The claim to be King of Aquitaine was short-lived and contested: it rests mainly on the Annales Fuldenses, and French Wikipedia describes only a self-styled ducal title (888-890). Count-of-Poitiers start date varies (866/877/886). He took custody of the child Charles (later Charles the Simple) after 888.",
+    "notes": "Son of Ramnulf I; father of the genealogical Ramnulf III branch and of the illegitimate Ebalus Manzer. His wife Ermengarde is otherwise unrecorded and even the marriage is uncertain; the identity of his mother is debated (Bilichilde of Maine, a Guilhemide princess, or another wife of Ramnulf I).",
+    "createdDate": "260816",
+    "createdOrder": 49,
+    "deathCause": {
+      "kind": "uncertain",
+      "summary": "Possibly poisoned at Paris",
+      "detail": "Ramnulf II died at Paris on 5 August 890. French Wikipedia suggests he may have been poisoned, but the cause is not confirmed and the EN article gives no cause of death.",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Ranulf_II_of_Aquitaine",
+      "summaryCn": "可能在巴黎被毒杀",
+      "detailCn": "拉姆努尔夫二世于890年8月5日在巴黎去世。法语维基百科推测其可能被毒杀，但死因未获确认，英文维基百科未记载死因。"
+    },
+    "displayNameCn": "拉姆努尔夫二世",
+    "fullNameCn": "普瓦捷伯爵拉姆努尔夫二世",
+    "nicknameCn": "",
+    "primaryTitleCn": "普瓦捷伯爵",
+    "birthPlaceCn": "普瓦捷",
+    "deathPlaceCn": "巴黎",
+    "historicalRating": 5
+  },
+  {
+    "id": "ea25e4b2-0ea3-4c7a-90b8-7299d2f03d8e",
+    "firstName": "Ramnulf",
+    "lastName": "Poitiers",
+    "displayName": "Ramnulf III",
+    "fullName": "Ramnulf III of Aquitaine",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Ranulf III"
+    ],
+    "nicknameTags": [],
+    "birthYear": "",
+    "deathYear": "",
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "male",
+    "dynasty": "House of Poitiers",
+    "house": "House of Poitiers",
+    "culture": "Occitan",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Poitiers",
+    "titles": [
+      {
+        "title": "Count of Poitiers",
+        "startYear": "",
+        "endYear": "",
+        "titleCn": "普瓦捷伯爵"
+      }
+    ],
+    "tags": [
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 24,
+    "relationships": {
+      "fatherId": "ab041d6d-cf97-4b15-b35d-918f5d17e473",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Ramnulfids",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Ramnulfids",
+    "sourceNote": "Genealogical entry; dates and detailed biography are not securely established in the cited overview.",
+    "notes": "Shown as a branch of Ramnulf II in the House of Poitiers genealogy, not as the direct father of Ebalus.",
+    "createdDate": "260816",
+    "createdOrder": 50,
+    "displayNameCn": "拉姆努尔夫三世",
+    "fullNameCn": "阿基坦的拉姆努尔夫三世",
+    "historicalRating": 2
+  },
+  {
+    "id": "b6d90909-ed70-4fd5-93c6-e5726538138a",
+    "firstName": "Ebalus",
+    "lastName": "Poitiers",
+    "displayName": "Ebalus Manzer",
+    "fullName": "Ebalus Manzer, Count of Poitiers",
+    "nickname": "Manzer",
+    "alsoKnownAs": [
+      "Ebles Mancer",
+      "Ebles Manzer",
+      "Ebalus the Bastard",
+      "Ebles the Bastard"
+    ],
+    "nicknameTags": [
+      "illegitimate"
+    ],
+    "birthYear": 870,
+    "deathYear": 934,
+    "birthPlace": "Poitiers",
+    "deathPlace": "Poitiers",
+    "gender": "male",
+    "dynasty": "House of Poitiers",
+    "house": "House of Poitiers",
+    "culture": "Occitan",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Poitiers",
+    "titles": [
+      {
+        "title": "Count of Poitiers",
+        "startYear": 902,
+        "endYear": 934,
+        "titleCn": "普瓦捷伯爵"
+      },
+      {
+        "title": "Duke of Aquitaine",
+        "startYear": 927,
+        "endYear": 932,
+        "titleCn": "阿基坦公爵"
+      }
+    ],
+    "tags": [
+      "noble",
+      "illegitimate"
+    ],
+    "rank": "count",
+    "importanceScore": 58,
+    "relationships": {
+      "fatherId": "ab041d6d-cf97-4b15-b35d-918f5d17e473",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "e1d0d653-6155-497c-8120-67018ecdeef7"
+      ]
+    },
+    "events": [
+      {
+        "year": 890,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "dynasty",
+          "uncertain"
+        ],
+        "weight": 88,
+        "label": "Count of Poitiers after Ramnulf II's death",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ebalus_of_Aquitaine",
+        "labelCn": "继承普瓦捷伯爵",
+        "note": "As the illegitimate son of Ramnulf II he took Poitou after his father's death, but his right to rule was challenged because he was a bastard."
+      },
+      {
+        "year": 892,
+        "type": "political_crisis",
+        "tags": [
+          "rebellion",
+          "dynasty"
+        ],
+        "weight": 84,
+        "label": "Aymar seizes Poitiers; Ebalus goes into exile",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ebalus_of_Aquitaine",
+        "labelCn": "埃马尔夺取普瓦捷，埃布勒斯流亡",
+        "note": "In 892 Aymar, backed by King Odo of France, overthrew Ebalus; he fled to the safety of his father's allies William the Pious and Gerald of Aurillac."
+      },
+      {
+        "year": 902,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "conquest",
+          "succession"
+        ],
+        "weight": 92,
+        "label": "Recovered Poitiers with William the Pious",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ebalus_of_Aquitaine",
+        "labelCn": "在虔诚者威廉支持下收复普瓦捷",
+        "note": "Retook Poitiers in 902 with an army lent by the distant relative William the Pious and was formally invested as Count of Poitou by Charles the Simple; he conquered the Limousin in 904."
+      },
+      {
+        "year": 911,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "defense"
+        ],
+        "weight": 78,
+        "label": "Fought Rollo at the Battle of Chartres",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Siege_of_Chartres_(911)",
+        "labelCn": "参与沙特尔之战抗击罗洛",
+        "note": "Participated in the campaign that defeated Rollo's Vikings at Chartres in 911 (FR Wikipedia; the exact date, 20 July or 21 August 911, varies by source)."
+      },
+      {
+        "year": 927,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title",
+          "territory"
+        ],
+        "weight": 90,
+        "label": "Duke of Aquitaine and Auvergne",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ebalus_of_Aquitaine",
+        "labelCn": "成为阿基坦公爵兼奥弗涅伯爵",
+        "note": "After the deaths of William the Younger and his brother Acfred, Ebalus inherited the duchy of Aquitaine and the counties of Berry, Auvergne and Velay (FR dates this to 927, EN to 928). He was stripped of Berry in 929, and in 932 King Raoul transferred the duchy of Aquitaine and Auvergne to Raymond Pons of Toulouse."
+      },
+      {
+        "year": 934,
+        "type": "death",
+        "tags": [
+          "death",
+          "uncertain"
+        ],
+        "weight": 82,
+        "label": "Death of Ebalus Manzer",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ebalus_of_Aquitaine",
+        "labelCn": "埃布勒斯·曼泽尔去世",
+        "note": "Death year given as 934 in this project's data; Wikipedia gives 934/935 (infobox 935). No cause of death is recorded."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Ebalus_of_Aquitaine",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Ramnulfids",
+    "sourceNote": "Wikipedia identifies Ebalus as the illegitimate son of Ranulf II; the exact maternal line is not supplied ('Manzer' is a Hebrew word meaning bastard). Birth c. 870, uncertain. Titles: Count of Poitou 890-892 and 902-934; Duke of Aquitaine 927/928-932. Death year 934/935.",
+    "notes": "His line leads to the later House of Poitiers dukes and Eleanor of Aquitaine. NOTE on titles: the previous record dated his countship from 927; sources show he held Poitou continuously from 902 (after an earlier 890-892 tenure), so the entry was corrected, and the Duchy of Aquitaine (927-932) added.",
+    "createdDate": "260816",
+    "createdOrder": 51,
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died in 934/935; no cause recorded",
+      "detail": "No cause of death is recorded for Ebalus Manzer. The year is given as 934 in this project's data; Wikipedia gives 934/935 (infobox 935).",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Ebalus_of_Aquitaine",
+      "summaryCn": "约934/935年去世，死因不详",
+      "detailCn": "埃布勒斯·曼泽尔的死因没有记载。项目数据记作934年；维基百科记载为934/935年（信息框为935年）。"
+    },
+    "displayNameCn": "埃布勒斯·曼泽尔",
+    "fullNameCn": "普瓦捷伯爵埃布勒斯·曼泽尔",
+    "nicknameCn": "私生子",
+    "primaryTitleCn": "普瓦捷伯爵",
+    "birthPlaceCn": "普瓦捷",
+    "deathPlaceCn": "普瓦捷",
+    "historicalRating": 6
+  },
+  {
+    "id": "e1d0d653-6155-497c-8120-67018ecdeef7",
+    "firstName": "Guilhem",
+    "lastName": "Poitiers",
+    "displayName": "Guilhem III Towhead",
+    "fullName": "Guilhem III Towhead, Count of Poitiers",
+    "nickname": "Towhead",
+    "alsoKnownAs": [
+      "William III Towhead",
+      "Guillaume III Tête d'étoupe"
+    ],
+    "nicknameTags": [],
+    "birthYear": 913,
+    "deathYear": 963,
+    "birthPlace": "Poitiers",
+    "deathPlace": "Saint-Maixent-l'Ecole",
+    "gender": "male",
+    "dynasty": "House of Poitiers",
+    "house": "House of Poitiers",
+    "culture": "Occitan",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Poitiers",
+    "titles": [
+      {
+        "title": "Count of Poitiers",
+        "startYear": 935,
+        "endYear": 963,
+        "titleCn": "普瓦捷伯爵"
+      },
+      {
+        "title": "Count of Auvergne",
+        "startYear": 950,
+        "endYear": 963,
+        "titleCn": "奥弗涅伯爵"
+      },
+      {
+        "title": "Count Palatine of Aquitaine",
+        "startYear": 959,
+        "endYear": 963,
+        "titleCn": "阿基坦宫伯"
+      }
+    ],
+    "tags": [
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 60,
+    "relationships": {
+      "fatherId": "b6d90909-ed70-4fd5-93c6-e5726538138a",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "98ba6794-6481-4c99-bfd5-f25f95ebd3a3"
+      ]
+    },
+    "events": [
+      {
+        "year": 935,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "dynasty"
+        ],
+        "weight": 90,
+        "label": "Count of Poitiers",
+        "wikiUrl": "https://en.wikipedia.org/wiki/William_III,_Duke_of_Aquitaine",
+        "labelCn": "成为普瓦捷伯爵",
+        "note": "Succeeded his father Ebalus Manzer at Poitiers. Birth year 913 per the infobox (915 in the page's succession box); born when his father was already middle-aged."
+      },
+      {
+        "year": 936,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 86,
+        "label": "Marriage to Gerloc of Normandy",
+        "wikiUrl": "https://en.wikipedia.org/wiki/William_III,_Duke_of_Aquitaine",
+        "labelCn": "与诺曼底的热洛丝结婚",
+        "note": "Married Gerloc (known as Adele), daughter of Rollo of Normandy, forging a Norman alliance. The c. 936 date comes from the less reliable Dudo of Saint-Quentin and is tentative. (Gerloc is not in the roster, so no spouse link is recorded.)"
+      },
+      {
+        "year": 950,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "defense"
+        ],
+        "weight": 84,
+        "label": "Repulsed Hugh the Great's invasion",
+        "wikiUrl": "https://en.wikipedia.org/wiki/William_III,_Duke_of_Aquitaine",
+        "labelCn": "击退大胡子于格的入侵",
+        "note": "Hugh the Great, reconciled with King Louis IV, was granted the duchies of Burgundy and Aquitaine and attacked Aquitaine with royal support; William defeated them."
+      },
+      {
+        "year": 955,
+        "month": 8,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "defeat"
+        ],
+        "weight": 82,
+        "label": "Defeated at the siege of Poitiers",
+        "wikiUrl": "https://en.wikipedia.org/wiki/William_III,_Duke_of_Aquitaine",
+        "labelCn": "普瓦捷围城战中失利",
+        "note": "King Lothair and Hugh the Great besieged Poitiers in August 955; the city held out, but William gave battle and was routed. After Hugh's death, Hugh Capet was named Duke of Aquitaine but never took up the fief."
+      },
+      {
+        "year": 962,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "succession"
+        ],
+        "weight": 88,
+        "label": "Ducal title recognized at the royal court",
+        "wikiUrl": "https://en.wikipedia.org/wiki/William_III,_Duke_of_Aquitaine",
+        "labelCn": "获王室认可为阿基坦公爵",
+        "note": "He claimed the duchy from his father's death, but the royal chancery recognized the title only around 962 (the article's lead dates the title to 959); he was also given the abbey of Saint-Hilaire-le-Grand."
+      },
+      {
+        "year": 963,
+        "month": 4,
+        "day": 3,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 80,
+        "label": "Death of Guilhem III",
+        "wikiUrl": "https://en.wikipedia.org/wiki/William_III,_Duke_of_Aquitaine",
+        "labelCn": "吉勒姆三世去世",
+        "note": "Died 3 April 963 at Saint-Maixent-l'Ecole and was buried at the Abbey of Saint-Cyprien, Poitiers; no cause of death is recorded."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/William_III,_Duke_of_Aquitaine",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Ramnulfids",
+    "sourceNote": "Wikipedia notes that he was called Count of the Duchy of Aquitaine or Count Palatine, but not unambiguously Duke of Aquitaine. Uncertain: birth year 913 vs 915; start of the ducal title 959 vs 962; marriage date c. 936 tentative; the filiation of his (possible) daughter Adelaide is disputed.",
+    "notes": "Occitanized display name; English and French forms remain in alsoKnownAs. 'Towhead' (Tete d'etoupe) refers to the flaxen colour of his hair, not to baldness; the Chinese nickname has been corrected from 'bald head' to 'flaxen-haired' accordingly.",
+    "createdDate": "260816",
+    "createdOrder": 52,
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died at Saint-Maixent-l'Ecole; no cause recorded",
+      "detail": "Guilhem III died 3 April 963 at Saint-Maixent-l'Ecole and was buried at the Abbey of Saint-Cyprien in Poitiers; the sources record no cause of death.",
+      "wikiUrl": "https://en.wikipedia.org/wiki/William_III,_Duke_of_Aquitaine",
+      "summaryCn": "在圣迈克桑莱科莱去世，死因不详",
+      "detailCn": "吉勒姆三世于963年4月3日在圣迈克桑莱科莱去世，葬于普瓦捷的圣西普里安修道院；史料未记载死因。"
+    },
+    "displayNameCn": "吉勒姆三世·亚麻头",
+    "fullNameCn": "普瓦捷伯爵吉勒姆三世·亚麻头",
+    "nicknameCn": "亚麻头",
+    "primaryTitleCn": "普瓦捷伯爵",
+    "birthPlaceCn": "普瓦捷",
+    "deathPlaceCn": "圣迈克桑莱科莱",
+    "historicalRating": 6
+  },
+  {
+    "id": "98ba6794-6481-4c99-bfd5-f25f95ebd3a3",
+    "firstName": "Guilhem",
+    "lastName": "Poitiers",
+    "displayName": "Guilhem IV Fierabras",
+    "fullName": "Guilhem IV Fierabras, Count of Poitiers",
+    "nickname": "Fierabras",
+    "alsoKnownAs": [
+      "William IV Iron Arm",
+      "Guillaume IV Fier-à-Bras"
+    ],
+    "nicknameTags": [],
+    "birthYear": 937,
+    "deathYear": 994,
+    "birthPlace": "Poitiers",
+    "deathPlace": "Poitiers",
+    "gender": "male",
+    "dynasty": "House of Poitiers",
+    "house": "House of Poitiers",
+    "culture": "Occitan",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Poitiers",
+    "titles": [
+      {
+        "title": "Count of Poitiers",
+        "startYear": 963,
+        "endYear": 995,
+        "titleCn": "普瓦捷伯爵"
+      }
+    ],
+    "tags": [
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 54,
+    "relationships": {
+      "fatherId": "e1d0d653-6155-497c-8120-67018ecdeef7",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "7c8abb64-bed3-454b-9fb3-b4c16b6ccf9c"
+      ]
+    },
+    "events": [
+      {
+        "year": 963,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "dynasty"
+        ],
+        "weight": 90,
+        "label": "Count of Poitiers and Duke of Aquitaine",
+        "wikiUrl": "https://en.wikipedia.org/wiki/William_IV,_Duke_of_Aquitaine",
+        "labelCn": "继承普瓦捷伯爵与阿基坦公爵",
+        "note": "Succeeded his father Guilhem III, who retired to the abbey of Saint-Cyprien in Poitiers."
+      },
+      {
+        "year": 968,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 84,
+        "label": "Marriage to Emma of Blois",
+        "wikiUrl": "https://en.wikipedia.org/wiki/William_IV,_Duke_of_Aquitaine",
+        "labelCn": "与布卢瓦的埃玛结婚",
+        "note": "Married Emma, daughter of Theobald I of Blois and Luitgarde of Vermandois. The marriage was stormy: Emma banished his mistresses and they separated twice."
+      },
+      {
+        "year": 988,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "defense"
+        ],
+        "weight": 88,
+        "label": "Resisted King Hugh Capet's invasion",
+        "wikiUrl": "https://en.wikipedia.org/wiki/William_IV,_Duke_of_Aquitaine",
+        "labelCn": "抵御国王于格·卡佩的入侵",
+        "note": "Refused to recognize Hugh Capet (his brother-in-law), who invaded Aquitaine; the royal army was defeated on the plain of the Loire. He also sheltered Louis, son of Charles of Lower Lorraine, the last Carolingian heir."
+      },
+      {
+        "year": 994,
+        "month": 2,
+        "day": 3,
+        "type": "death",
+        "tags": [
+          "death",
+          "uncertain"
+        ],
+        "weight": 82,
+        "label": "Death of Guilhem IV",
+        "wikiUrl": "https://en.wikipedia.org/wiki/William_IV,_Duke_of_Aquitaine",
+        "labelCn": "吉勒姆四世去世",
+        "note": "Died 3 February 994 and was buried at Maillezais Cathedral; an alternative date of 5 February 995 also appears (from Owen). He had retired to a monastery c. 990, leaving Emma to rule Aquitaine in the name of their son William until 1004."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/William_IV,_Duke_of_Aquitaine",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Ramnulfids",
+    "sourceNote": "The numbering differs between the counts of Poitiers and dukes of Aquitaine. Death date disputed: 3 February 994 (EN and FR infoboxes) vs 5 February 995 (alternative). Birth year c. 937 (c. 935 per FR). The title's end year is variously given as 990 (retirement), 993 or 995 depending on the source.",
+    "notes": "Occitanized display name; Fierabras means strong-armed/iron arm in the traditional epithet (the EN article glosses it as 'Proud Arm' from Fier-a-bras). His death year has been updated from 995 to 994 following the EN/FR Wikipedia infoboxes, with the 995 alternative flagged.",
+    "createdDate": "260816",
+    "createdOrder": 53,
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died in 994 (or 995); no cause recorded",
+      "detail": "No cause of death is recorded for Guilhem IV. He died 3 February 994 and was buried at Maillezais Cathedral, though an alternative date of 5 February 995 appears in some works; he had retired to a monastery c. 990 with Emma as regent.",
+      "wikiUrl": "https://en.wikipedia.org/wiki/William_IV,_Duke_of_Aquitaine",
+      "summaryCn": "994年（或995年）去世，死因不详",
+      "detailCn": "吉勒姆四世死因没有记载。他于994年2月3日去世，葬于马耶宰大教堂；部分著作记为995年2月5日。约990年他已隐退修道院，由埃玛摄政。"
+    },
+    "displayNameCn": "吉勒姆四世·铁臂",
+    "fullNameCn": "普瓦捷伯爵吉勒姆四世·铁臂",
+    "nicknameCn": "铁臂",
+    "primaryTitleCn": "普瓦捷伯爵",
+    "birthPlaceCn": "普瓦捷",
+    "deathPlaceCn": "普瓦捷",
+    "historicalRating": 5
+  },
+  {
+    "id": "7c8abb64-bed3-454b-9fb3-b4c16b6ccf9c",
+    "firstName": "Guilhem",
+    "lastName": "Poitiers",
+    "displayName": "Guilhem V the Great",
+    "fullName": "Guilhem V the Great, Count of Poitiers",
+    "nickname": "the Great",
+    "alsoKnownAs": [
+      "William V the Great",
+      "Guillaume V le Grand"
+    ],
+    "nicknameTags": [],
+    "birthYear": 969,
+    "deathYear": 1030,
+    "birthPlace": "Poitiers",
+    "deathPlace": "Maillezais",
+    "gender": "male",
+    "dynasty": "House of Poitiers",
+    "house": "House of Poitiers",
+    "culture": "Occitan",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Poitiers",
+    "titles": [
+      {
+        "title": "Duke of Aquitaine",
+        "startYear": 990,
+        "endYear": 1030,
+        "titleCn": "阿基坦公爵"
+      },
+      {
+        "title": "Count of Poitiers",
+        "startYear": 990,
+        "endYear": 1030,
+        "titleCn": "普瓦捷伯爵"
+      }
+    ],
+    "tags": [
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 66,
+    "relationships": {
+      "fatherId": "98ba6794-6481-4c99-bfd5-f25f95ebd3a3",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "fcad4d48-4b44-49df-b2da-9cdfc0daa708",
+        "5a4206df-24a9-4d12-a44d-770c0e803ba8",
+        "e3b35bf6-5798-4c8a-8eca-f541d2d7d12f",
+        "b2bd4758-f667-458b-953b-8d3785b8b387"
+      ]
+    },
+    "events": [
+      {
+        "year": 990,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "dynasty"
+        ],
+        "weight": 95,
+        "label": "Duke of Aquitaine and Count of Poitiers",
+        "wikiUrl": "https://en.wikipedia.org/wiki/William_V,_Duke_of_Aquitaine",
+        "labelCn": "继承阿基坦公爵与普瓦捷伯爵",
+        "note": "Succeeded his father Guilhem IV, who had retired to a monastery; his mother Emma of Blois acted as regent in his name until 1004."
+      },
+      {
+        "year": 1004,
+        "type": "government",
+        "tags": [
+          "government",
+          "regency"
+        ],
+        "weight": 82,
+        "label": "Personal rule begins",
+        "wikiUrl": "https://en.wikipedia.org/wiki/William_V,_Duke_of_Aquitaine",
+        "labelCn": "开始亲政",
+        "note": "Took up personal rule when his mother's regency ended in 1004."
+      },
+      {
+        "year": 1006,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "defeat"
+        ],
+        "weight": 80,
+        "label": "Defeated by Viking raiders",
+        "wikiUrl": "https://en.wikipedia.org/wiki/William_V,_Duke_of_Aquitaine",
+        "labelCn": "被维京人击败",
+        "note": "Suffered a defeat against Viking invaders in 1006."
+      },
+      {
+        "year": 1010,
+        "type": "religion",
+        "tags": [
+          "religion",
+          "church"
+        ],
+        "weight": 93,
+        "label": "Founded Maillezais Abbey",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Maillezais",
+        "labelCn": "创建马耶宰修道院",
+        "note": "Founded Maillezais Abbey (1010) and Bourgueil Abbey, rebuilt Poitiers cathedral after a fire, and supported the Peace and Truce of God movements — the basis of his reputation for piety."
+      },
+      {
+        "year": 1020,
+        "type": "diplomacy",
+        "tags": [
+          "diplomacy",
+          "treaty"
+        ],
+        "weight": 84,
+        "label": "Treaty with Fulk Nerra of Anjou",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Fulk_III,_Count_of_Anjou",
+        "labelCn": "与安茹的富尔克订立条约",
+        "note": "After losing the Loudunais and Mirebalais to Fulk Nerra, a treaty negotiated by Fulbert of Chartres (1020) defined their vassal-suzerain obligations; he also ceded Confolens, Ruffec and Chabanais to William II of Angouleme."
+      },
+      {
+        "year": 1024,
+        "type": "diplomacy",
+        "tags": [
+          "diplomacy",
+          "monarch",
+          "title"
+        ],
+        "weight": 88,
+        "label": "Declined the crown of Italy",
+        "wikiUrl": "https://en.wikipedia.org/wiki/William_V,_Duke_of_Aquitaine",
+        "labelCn": "婉拒意大利王位",
+        "note": "After Emperor Henry II's death, Italian nobles offered him the kingdom of Italy; he visited Italy (1024-1025) but found the situation unfavorable and renounced the crown for himself and his heirs."
+      },
+      {
+        "year": 1030,
+        "month": 1,
+        "day": 31,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 85,
+        "label": "Death of Guilhem V",
+        "wikiUrl": "https://en.wikipedia.org/wiki/William_V,_Duke_of_Aquitaine",
+        "labelCn": "吉勒姆五世去世",
+        "note": "Died at Maillezais Abbey, which he had founded and where he is buried, on the last (or second-to-last) day of January 1030; 'his reign ended in peace.' No cause of death is recorded."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/William_V,_Duke_of_Aquitaine",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Ramnulfids",
+    "sourceNote": "The Ramnulfid overview identifies William V as the father of William VI, Odo, William VII and William VIII branches. Uncertain: death day (30 or 31 January 1030); the death place was corrected from Poitiers to Maillezais Abbey per the EN article; the first wife's name is given as Adalemode of Limoges (not 'Sancha').",
+    "notes": "Important patron of learning and culture in Aquitaine; do not collapse his four sons into a single succession chain. He received ambassadors from Emperor Henry II, Alfonso V of Leon, Canute the Great and King Robert of France, and traveled widely, 'annually visiting Rome or Spain as a pilgrim.' NOTE: the Chinese nickname 'the Great' has been corrected from 'Grand Duke' to 'the Great one'.",
+    "createdDate": "260816",
+    "createdOrder": 54,
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died at Maillezais Abbey; no cause recorded",
+      "detail": "Guilhem V died at Maillezais Abbey (which he founded) on the last or second-to-last day of January 1030, 'his reign ended in peace'; no cause of death is recorded.",
+      "wikiUrl": "https://en.wikipedia.org/wiki/William_V,_Duke_of_Aquitaine",
+      "summaryCn": "在马耶宰修道院去世，死因不详",
+      "detailCn": "吉勒姆五世于1030年1月最后一天（或倒数第二天）在他创建的马耶宰修道院去世，'统治在和平中结束'；死因没有记载。"
+    },
+    "displayNameCn": "吉勒姆五世·伟大者",
+    "fullNameCn": "普瓦捷伯爵吉勒姆五世·伟大者",
+    "nicknameCn": "伟大者",
+    "primaryTitleCn": "普瓦捷伯爵",
+    "birthPlaceCn": "普瓦捷",
+    "deathPlaceCn": "马耶宰",
+    "historicalRating": 7
+  },
+  {
+    "id": "fcad4d48-4b44-49df-b2da-9cdfc0daa708",
+    "firstName": "Guilhem",
+    "lastName": "Poitiers",
+    "displayName": "Guilhem VI the Fat",
+    "fullName": "Guilhem VI the Fat, Count of Poitiers",
+    "nickname": "the Fat",
+    "alsoKnownAs": [
+      "William VI the Fat",
+      "Guillaume VI le Gros"
+    ],
+    "nicknameTags": [],
+    "birthYear": "",
+    "deathYear": 1038,
+    "birthPlace": "",
+    "deathPlace": "Poitiers",
+    "gender": "male",
+    "dynasty": "House of Poitiers",
+    "house": "House of Poitiers",
+    "culture": "Occitan",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Poitiers",
+    "titles": [
+      {
+        "title": "Count of Poitiers",
+        "startYear": 1030,
+        "endYear": 1038,
+        "titleCn": "普瓦捷伯爵"
+      }
+    ],
+    "tags": [
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 42,
+    "relationships": {
+      "fatherId": "7c8abb64-bed3-454b-9fb3-b4c16b6ccf9c",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/William_VI,_Duke_of_Aquitaine",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Ramnulfids",
+    "sourceNote": "Dates are incomplete in the cited overview.",
+    "notes": "Eldest son of William V; count of Poitiers from 1030 to 1038.",
+    "createdDate": "260816",
+    "createdOrder": 55,
+    "displayNameCn": "吉勒姆六世·肥胖者",
+    "fullNameCn": "普瓦捷伯爵吉勒姆六世·肥胖者",
+    "nicknameCn": "肥胖者",
+    "primaryTitleCn": "普瓦捷伯爵",
+    "historicalRating": 4
+  },
+  {
+    "id": "5a4206df-24a9-4d12-a44d-770c0e803ba8",
+    "firstName": "Odo",
+    "lastName": "Gascony",
+    "displayName": "Odo of Gascony",
+    "fullName": "Odo of Gascony, Count of Poitiers",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Eudes of Gascony"
+    ],
+    "nicknameTags": [],
+    "birthYear": "",
+    "deathYear": 1039,
+    "birthPlace": "Gascony",
+    "deathPlace": "Poitiers",
+    "gender": "male",
+    "dynasty": "House of Poitiers",
+    "house": "House of Poitiers",
+    "culture": "Occitan",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Gascony",
+    "titles": [
+      {
+        "title": "Count of Gascony",
+        "startYear": 1032,
+        "endYear": 1039,
+        "titleCn": "加斯科涅伯爵"
+      },
+      {
+        "title": "Count of Poitiers",
+        "startYear": 1038,
+        "endYear": 1039,
+        "titleCn": "普瓦捷伯爵"
+      }
+    ],
+    "tags": [
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 40,
+    "relationships": {
+      "fatherId": "7c8abb64-bed3-454b-9fb3-b4c16b6ccf9c",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Odo_of_Gascony",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Ramnulfids",
+    "sourceNote": "Half-brother of William VI according to the Ramnulfid genealogy.",
+    "notes": "A collateral succession branch; not the father of William VII or William VIII.",
+    "createdDate": "260816",
+    "createdOrder": 56,
+    "displayNameCn": "加斯科涅的奥多",
+    "fullNameCn": "普瓦捷伯爵加斯科涅的奥多",
+    "primaryTitleCn": "加斯科涅伯爵",
+    "historicalRating": 4
+  },
+  {
+    "id": "e3b35bf6-5798-4c8a-8eca-f541d2d7d12f",
+    "firstName": "Guilhem",
+    "lastName": "Poitiers",
+    "displayName": "Guilhem VII",
+    "fullName": "Guilhem VII, Duke of Aquitaine",
+    "nickname": "",
+    "alsoKnownAs": [
+      "William VII",
+      "Peter William",
+      "Pierre-Guillaume",
+      "Guillaume VII"
+    ],
+    "nicknameTags": [],
+    "birthYear": 1023,
+    "deathYear": 1058,
+    "birthPlace": "Poitiers",
+    "deathPlace": "Saumur",
+    "gender": "male",
+    "dynasty": "House of Poitiers",
+    "house": "House of Poitiers",
+    "culture": "Occitan",
+    "faith": "Catholic",
+    "primaryTitle": "Duke of Aquitaine",
+    "titles": [
+      {
+        "title": "Duke of Aquitaine",
+        "startYear": 1039,
+        "endYear": 1058,
+        "titleCn": "阿基坦公爵"
+      },
+      {
+        "title": "Count of Poitiers",
+        "startYear": 1039,
+        "endYear": 1058,
+        "titleCn": "普瓦捷伯爵"
+      }
+    ],
+    "tags": [
+      "duke",
+      "noble"
+    ],
+    "rank": "duke",
+    "importanceScore": 52,
+    "relationships": {
+      "fatherId": "7c8abb64-bed3-454b-9fb3-b4c16b6ccf9c",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1039,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "dynasty"
+        ],
+        "weight": 94,
+        "label": "Duke of Aquitaine after Odo's death",
+        "wikiUrl": "https://en.wikipedia.org/wiki/William_VII,_Duke_of_Aquitaine",
+        "labelCn": "在奥多死后继承阿基坦公爵",
+        "note": "Succeeded his half-brother Odo of Gascony, who was killed in battle at Mauze; Guilhem VII recovered his patrimony but did not succeed in occupying Gascony. (His sister Agnes's marriage to Emperor Henry III made him the emperor's brother-in-law.)"
+      },
+      {
+        "year": 1058,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "battle"
+        ],
+        "weight": 90,
+        "label": "War with Geoffroy Martel; siege of Saumur",
+        "wikiUrl": "https://en.wikipedia.org/wiki/William_VII,_Duke_of_Aquitaine",
+        "labelCn": "与若弗鲁瓦·马特尔开战并围攻索米尔",
+        "note": "His mother Agnes had remarried Geoffroy Martel, Count of Anjou, who refused to return territories taken under earlier dukes; Guilhem took up arms and besieged Geoffroy at Saumur."
+      },
+      {
+        "year": 1058,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 84,
+        "label": "Death of Guilhem VII",
+        "wikiUrl": "https://en.wikipedia.org/wiki/William_VII,_Duke_of_Aquitaine",
+        "labelCn": "吉勒姆七世去世",
+        "note": "Died of dysentery while besieging Saumur in autumn 1058; succeeded by his younger half-brother Guilhem VIII. The two daughters sometimes attributed to him (Clementia, Agnes) are only hypothesized."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/William_VII,_Duke_of_Aquitaine",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Ramnulfids",
+    "sourceNote": "Also known as Peter William; half-brother of William VI and William VIII. His wife Ermesinde is of uncertain origins, and the two daughters attributed to the couple are only hypothesized. Death: autumn 1058, of dysentery at the siege of Saumur; no exact date.",
+    "notes": "The direct dynastic line to Guilhem IX runs through his brother Guilhem VIII, not through Guilhem VII. Nicknamed 'the Eagle' (Aigret) or 'the Bold' (le Hardi).",
+    "createdDate": "260816",
+    "createdOrder": 57,
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died of dysentery at the siege of Saumur",
+      "detail": "Guilhem VII died of dysentery in autumn 1058 while besieging Geoffroy Martel of Anjou at Saumur; no exact day is recorded.",
+      "wikiUrl": "https://en.wikipedia.org/wiki/William_VII,_Duke_of_Aquitaine",
+      "summaryCn": "在围攻索米尔时死于痢疾",
+      "detailCn": "吉勒姆七世于1058年秋在围攻安茹伯爵若弗鲁瓦·马特尔所在的索米尔时死于痢疾，具体日期未记载。"
+    },
+    "displayNameCn": "吉勒姆七世",
+    "fullNameCn": "阿基坦公爵吉勒姆七世",
+    "nicknameCn": "",
+    "primaryTitleCn": "阿基坦公爵",
+    "birthPlaceCn": "普瓦捷",
+    "deathPlaceCn": "索米尔",
+    "historicalRating": 5
+  },
+  {
+    "id": "b2bd4758-f667-458b-953b-8d3785b8b387",
+    "firstName": "Guilhem",
+    "lastName": "Poitiers",
+    "displayName": "Guilhem VIII",
+    "fullName": "Guilhem VIII, Duke of Aquitaine",
+    "nickname": "",
+    "alsoKnownAs": [
+      "William VIII",
+      "Guy-Geoffrey",
+      "Gui-Geoffroi",
+      "Guillaume VIII"
+    ],
+    "nicknameTags": [],
+    "birthYear": 1025,
+    "deathYear": 1086,
+    "birthPlace": "Poitiers",
+    "deathPlace": "Chizé",
+    "gender": "male",
+    "dynasty": "House of Poitiers",
+    "house": "House of Poitiers",
+    "culture": "Occitan",
+    "faith": "Catholic",
+    "primaryTitle": "Duke of Aquitaine",
+    "titles": [
+      {
+        "title": "Duke of Gascony",
+        "startYear": 1052,
+        "endYear": 1086,
+        "titleCn": "加斯科涅公爵"
+      },
+      {
+        "title": "Duke of Aquitaine",
+        "startYear": 1058,
+        "endYear": 1086,
+        "titleCn": "阿基坦公爵"
+      },
+      {
+        "title": "Count of Poitiers",
+        "startYear": 1058,
+        "endYear": 1086,
+        "titleCn": "普瓦捷伯爵"
+      }
+    ],
+    "tags": [
+      "duke",
+      "noble",
+      "commander"
+    ],
+    "rank": "duke",
+    "importanceScore": 70,
+    "relationships": {
+      "fatherId": "7c8abb64-bed3-454b-9fb3-b4c16b6ccf9c",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "07e299dc-0bb7-4219-ac2f-1d94d0475ecb"
+      ]
+    },
+    "events": [
+      {
+        "year": 1052,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "succession"
+        ],
+        "weight": 88,
+        "label": "Duke of Gascony",
+        "wikiUrl": "https://en.wikipedia.org/wiki/William_VIII,_Duke_of_Aquitaine",
+        "labelCn": "成为加斯科涅公爵",
+        "note": "Became Duke of Gascony in 1052, succeeding Bernard II Tumapaler; Gascony had come into Aquitanian orbit through his father's marriage to Prisca of Gascony."
+      },
+      {
+        "year": 1058,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "dynasty"
+        ],
+        "weight": 95,
+        "label": "Duke of Aquitaine and Count of Poitiers",
+        "wikiUrl": "https://en.wikipedia.org/wiki/William_VIII,_Duke_of_Aquitaine",
+        "labelCn": "继承阿基坦公爵与普瓦捷伯爵",
+        "note": "Succeeded his brother Guilhem VII, who died at the siege of Saumur."
+      },
+      {
+        "year": 1058,
+        "month": 11,
+        "type": "annulment",
+        "tags": [
+          "annulment",
+          "marriage"
+        ],
+        "weight": 76,
+        "label": "Divorce from Garsende of Perigord",
+        "wikiUrl": "https://en.wikipedia.org/wiki/William_VIII,_Duke_of_Aquitaine",
+        "labelCn": "与佩里戈尔的加森德离婚",
+        "note": "Divorced his first wife Garsende (November 1058), reportedly for infertility; she became a nun at Saintes."
+      },
+      {
+        "year": 1064,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "commander",
+          "church"
+        ],
+        "weight": 93,
+        "label": "Siege of Barbastro",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Siege_of_Barbastro",
+        "labelCn": "围攻巴尔巴斯特罗",
+        "note": "Co-led the allied army aiding Ramiro I of Aragon at the Siege of Barbastro (1064), the first campaign organized by the papacy (Pope Alexander II) and a precursor of the Crusades; the city fell but was lost again within a few years."
+      },
+      {
+        "year": 1068,
+        "month": 5,
+        "type": "annulment",
+        "tags": [
+          "annulment",
+          "marriage"
+        ],
+        "weight": 76,
+        "label": "Divorce from Matoeda",
+        "wikiUrl": "https://en.wikipedia.org/wiki/William_VIII,_Duke_of_Aquitaine",
+        "labelCn": "与马托埃达离婚",
+        "note": "Divorced his second wife Matoeda in May 1068; their daughter Agnes later married Alfonso VI of Castile."
+      },
+      {
+        "year": 1072,
+        "type": "religion",
+        "tags": [
+          "religion",
+          "church",
+          "diplomacy"
+        ],
+        "weight": 82,
+        "label": "Pilgrimage to Rome for papal recognition",
+        "wikiUrl": "https://en.wikipedia.org/wiki/William_VIII,_Duke_of_Aquitaine",
+        "labelCn": "赴罗马寻求教宗认可",
+        "note": "Visited Rome in the early 1070s to win papal recognition for the children of his third marriage to Hildegarde of Burgundy (his cousin), since the Church had initially considered them illegitimate. (Year approximate: 1071-1074.)"
+      },
+      {
+        "year": 1086,
+        "month": 9,
+        "day": 25,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 86,
+        "label": "Death of Guilhem VIII",
+        "wikiUrl": "https://en.wikipedia.org/wiki/William_VIII,_Duke_of_Aquitaine",
+        "labelCn": "吉勒姆八世去世",
+        "note": "Died 25 September 1086 at Chizé, aged about 61; no cause of death recorded. His daughters' marriages to Iberian kings (Alfonso VI of Castile, Peter I of Aragon) cemented Spanish alliances."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/William_VIII,_Duke_of_Aquitaine",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Ramnulfids",
+    "sourceNote": "Born Gui-Geoffroi; younger brother of William VII and father of William IX. Birth year c. 1025; divorce dates are precise (November 1058, May 1068); death 25 September 1086 at Chizé.",
+    "notes": "Occitanized display name Guilhem VIII; the direct father link to existing Guilhem IX is now represented by UUID. His third wife Hildegarde of Burgundy was his cousin, which is why the children of that marriage initially needed papal recognition.",
+    "createdDate": "260816",
+    "createdOrder": 58,
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died at Chizé; no cause recorded",
+      "detail": "Guilhem VIII died 25 September 1086 at Chizé, aged about 61; no cause of death is recorded in the sources.",
+      "wikiUrl": "https://en.wikipedia.org/wiki/William_VIII,_Duke_of_Aquitaine",
+      "summaryCn": "在希泽去世，死因不详",
+      "detailCn": "吉勒姆八世于1086年9月25日在希泽去世，享年约61岁；史料未记载死因。"
+    },
+    "displayNameCn": "吉勒姆八世",
+    "fullNameCn": "阿基坦公爵吉勒姆八世",
+    "nicknameCn": "",
+    "primaryTitleCn": "阿基坦公爵",
+    "birthPlaceCn": "普瓦捷",
+    "deathPlaceCn": "希泽",
+    "historicalRating": 7
+  },
+  {
+    "id": "c029f7d9-d6a1-4c57-b2f7-d847392cdbd7",
+    "firstName": "Adèle",
+    "lastName": "Champagne",
+    "displayName": "Adèle of Champagne",
+    "fullName": "Adèle of Champagne, Queen of France",
+    "displayNameCn": "香槟的阿黛勒",
+    "fullNameCn": "法兰西王后香槟的阿黛勒",
+    "nickname": "",
+    "nicknameCn": "",
+    "nicknameTags": [],
+    "alsoKnownAs": [
+      "Adele of Champagne",
+      "Adela of Champagne",
+      "Adèle de Champagne"
+    ],
+    "gender": "female",
+    "birthYear": 1140,
+    "deathYear": 1206,
+    "birthPlace": "Blois, France",
+    "deathPlace": "Paris, France",
+    "birthPlaceCn": "法国布卢瓦",
+    "deathPlaceCn": "法国巴黎",
+    "dynasty": "House of Champagne",
+    "house": "House of Champagne",
+    "culture": "French",
+    "faith": "Catholic",
+    "rank": "queen",
+    "primaryTitle": "Queen of France",
+    "primaryTitleCn": "法兰西王后",
+    "titles": [
+      {
+        "title": "Queen of France",
+        "startYear": 1160,
+        "endYear": 1180,
+        "titleCn": "法兰西王后"
+      }
+    ],
+    "tags": [
+      "queen",
+      "consort",
+      "noble"
+    ],
+    "importanceScore": 58,
+    "historicalRating": 6,
+    "wikiUrl": "https://en.wikipedia.org/wiki/Adela_of_Champagne",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Adela_of_Champagne",
+    "sourceNote": "Third wife of Louis VII and mother of Philip II Augustus.",
+    "notes": "Added as Louis VII's default spouse; Eleanor of Aquitaine remains another spouse and can be selected with the spouse direction buttons. Daughter of Theobald II, Count of Champagne (birthplace Blois per Wikipedia infobox). Served as regent of France 1190-1191 with Archbishop William of the White Hands while Philip II was on the Third Crusade.",
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died of natural causes",
+      "detail": "Adèle died in Paris on 4 June 1206, aged about 66; no violent cause is recorded. She was buried at Pontigny Abbey near Auxerre.",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Adela_of_Champagne",
+      "summaryCn": "自然死亡",
+      "detailCn": "阿黛勒于1206年6月4日在巴黎去世，享年约66岁；无暴力死因记载。葬于欧塞尔附近的蓬蒂尼修道院。"
+    },
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "6ae9afe1-d639-482e-b9ea-13d27778f842"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "7cc009b6-08d8-459b-b40e-2921bf3e4580",
+        "608bccd6-7be9-4a60-9dbd-7187e866df83"
+      ]
+    },
+    "events": [
+      {
+        "year": 1160,
+        "month": 11,
+        "day": 13,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 85,
+        "label": "Marriage to Louis VII of France",
+        "labelCn": "与法兰西国王路易七世成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Adela_of_Champagne",
+        "note": "Married 13 November 1160, five weeks after the death of Louis's second wife Constance of Castile; the marriage sealed a peace with her father Count Theobald II."
+      },
+      {
+        "year": 1160,
+        "month": 11,
+        "day": 13,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "queen"
+        ],
+        "weight": 72,
+        "label": "Crowned Queen of France",
+        "labelCn": "加冕为法兰西王后",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Adela_of_Champagne",
+        "note": "Crowned queen at Orléans on the day of her wedding, 13 November 1160."
+      },
+      {
+        "year": 1165,
+        "month": 8,
+        "day": 21,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "dynasty"
+        ],
+        "weight": 90,
+        "label": "Birth of Philip II Augustus",
+        "labelCn": "腓力二世·奥古斯都出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Philip_II_of_France",
+        "note": "Long-awaited son of Louis VII, born 21 August 1165 at Gonesse; nicknamed 'God-given' (Dieudonné)."
+      },
+      {
+        "year": 1190,
+        "type": "government",
+        "tags": [
+          "government",
+          "regency"
+        ],
+        "weight": 80,
+        "label": "Regent of France during the Third Crusade",
+        "labelCn": "第三次十字军东征期间摄政法兰西",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Adela_of_Champagne",
+        "note": "Appointed regent by her son Philip II, acting together with Archbishop William of the White Hands from his departure in 1190 until his return in 1191."
+      },
+      {
+        "year": 1206,
+        "month": 6,
+        "day": 4,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 75,
+        "label": "Death of Adèle of Champagne",
+        "labelCn": "香槟的阿黛勒去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Adela_of_Champagne",
+        "note": "Died 4 June 1206 in Paris; buried at Pontigny Abbey."
+      }
+    ],
+    "createdDate": "260817",
+    "createdOrder": 65
+  },
+  {
+    "id": "ea16a35b-9d3b-44c8-b8c3-72598e0e4362",
+    "firstName": "Hugh",
+    "lastName": "Robertian",
+    "displayName": "Hugh the Great",
+    "fullName": "Hugh the Great, Duke of the Franks",
+    "nickname": "the Great",
+    "alsoKnownAs": [
+      "Hugh Magnus",
+      "Hugues le Grand"
+    ],
+    "nicknameTags": [],
+    "birthYear": 898,
+    "deathYear": 956,
+    "birthPlace": "Paris, West Francia",
+    "birthPlaceCn": "西法兰克巴黎",
+    "deathPlace": "Dourdan, West Francia",
+    "deathPlaceCn": "西法兰克杜尔当",
+    "gender": "male",
+    "dynasty": "Robertian dynasty",
+    "house": "Robertian dynasty",
+    "culture": "Frankish",
+    "faith": "Catholic",
+    "primaryTitle": "Duke of the Franks",
+    "primaryTitleCn": "法兰克公爵",
+    "titles": [
+      {
+        "title": "Count of Paris",
+        "startYear": 923,
+        "endYear": 956,
+        "titleCn": "巴黎伯爵"
+      },
+      {
+        "title": "Duke of the Franks",
+        "startYear": 936,
+        "endYear": 956,
+        "titleCn": "法兰克公爵"
+      }
+    ],
+    "tags": [
+      "noble",
+      "commander"
+    ],
+    "rank": "duke",
+    "importanceScore": 76,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "bda45606-c290-4f2a-8425-3c974a91ee60",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "6f92645c-bd9a-414d-9402-749dce748343"
+      ]
+    },
+    "events": [
+      {
+        "year": 923,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "duke",
+          "territory"
+        ],
+        "weight": 80,
+        "label": "Count of Paris and Margrave of Neustria",
+        "labelCn": "成为巴黎伯爵与纽斯特里亚侯爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Hugh_the_Great",
+        "note": "Succeeded his father Robert I, who died at Soissons in 923; the exact dates are approximate."
+      },
+      {
+        "year": 923,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "king",
+          "dynasty"
+        ],
+        "weight": 76,
+        "label": "Declined the Frankish crown",
+        "labelCn": "拒绝法兰克王位",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Hugh_the_Great",
+        "note": "After Robert I's death the crown passed to his brother-in-law Rudolph instead of Hugh."
+      },
+      {
+        "year": 936,
+        "type": "diplomacy",
+        "tags": [
+          "diplomacy",
+          "king",
+          "regency"
+        ],
+        "weight": 88,
+        "label": "Restored Louis IV from England",
+        "labelCn": "迎路易四世自英格兰归国为王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Louis_IV_of_France",
+        "note": "Took a very active part in bringing Louis IV (d'Outremer) back from the Kingdom of England in 936."
+      },
+      {
+        "year": 936,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "duke",
+          "government"
+        ],
+        "weight": 82,
+        "label": "Duke of the Franks",
+        "labelCn": "受封法兰克公爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Hugh_the_Great"
+      },
+      {
+        "year": 937,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 78,
+        "label": "Marriage to Hedwig of Saxony",
+        "labelCn": "与萨克森的哈德维希成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Hedwige_of_Saxony",
+        "note": "Daughter of Henry the Fowler; mother of his five children, including Hugh Capet."
+      },
+      {
+        "year": 948,
+        "type": "religion",
+        "tags": [
+          "religion",
+          "church",
+          "duke"
+        ],
+        "weight": 70,
+        "label": "Excommunicated at the Council of Ingelheim",
+        "labelCn": "在英格尔海姆会议上被处以绝罚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Hugh_the_Great",
+        "note": "Excommunicated in absentia at the Council of Ingelheim over his conflicts with Louis IV."
+      },
+      {
+        "year": 953,
+        "type": "diplomacy",
+        "tags": [
+          "diplomacy",
+          "religion",
+          "treaty"
+        ],
+        "weight": 72,
+        "label": "Peace with Louis IV",
+        "labelCn": "与路易四世修和",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Hugh_the_Great",
+        "note": "Made peace with the king and the church."
+      },
+      {
+        "year": 954,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "territory",
+          "duke",
+          "government"
+        ],
+        "weight": 84,
+        "label": "Invested with Burgundy and Aquitaine",
+        "labelCn": "受封勃艮第与阿基坦",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Hugh_the_Great",
+        "note": "After Louis IV's death he backed Lothair's coronation and was invested with the two duchies; by April 956 he was master of Burgundy."
+      },
+      {
+        "year": 956,
+        "month": 6,
+        "day": 16,
+        "type": "death",
+        "tags": [
+          "death",
+          "duke",
+          "noble"
+        ],
+        "weight": 95,
+        "label": "Death at Dourdan",
+        "labelCn": "在杜尔当去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Hugh_the_Great",
+        "note": "16 or 17 June 956; buried at the Basilica of Saint-Denis."
+      }
+    ],
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died of natural causes at Dourdan",
+      "detail": "Hugh died at Dourdan on 16 June (some sources say 17 June) 956, at the height of his power, about two months after becoming master of Burgundy. No violent or suspicious cause is recorded.",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Hugh_the_Great",
+      "summaryCn": "在杜尔当自然死亡",
+      "detailCn": "956 年 6 月 16 日（一说 17 日）大于格在杜尔当去世，时值其权力巅峰，距其成为勃艮第实际主宰仅两个月左右。史料未载暴力或可疑死因。"
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Hugh_the_Great",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Hugh_the_Great",
+    "sourceNote": "Father of Hugh Capet; son of Robert I of France and Béatrice of Vermandois.",
+    "notes": "The maternal link to Béatrice opens the documented Vermandois-Carolingian descent. Duke of the Franks and the most powerful magnate of West Francia; father of Hugh Capet, founder of the Capetian dynasty.",
+    "createdDate": "260817",
+    "createdOrder": 67,
+    "displayNameCn": "大于格",
+    "fullNameCn": "法兰克公爵大于格",
+    "nicknameCn": "大者",
+    "historicalRating": 8
+  },
+  {
+    "id": "bda45606-c290-4f2a-8425-3c974a91ee60",
+    "firstName": "Béatrice",
+    "lastName": "Vermandois",
+    "displayName": "Béatrice of Vermandois",
+    "fullName": "Béatrice of Vermandois",
+    "displayNameCn": "韦尔芒杜瓦的贝阿特丽丝",
+    "fullNameCn": "韦尔芒杜瓦的贝阿特丽丝",
+    "nickname": "",
+    "nicknameCn": "",
+    "nicknameTags": [],
+    "alsoKnownAs": [
+      "Beatrice of Vermandois"
+    ],
+    "gender": "female",
+    "birthYear": 880,
+    "deathYear": 931,
+    "birthPlace": "Vermandois, West Francia",
+    "deathPlace": "West Francia",
+    "birthPlaceCn": "西法兰克韦尔芒杜瓦",
+    "deathPlaceCn": "西法兰克",
+    "dynasty": "House of Vermandois",
+    "house": "House of Vermandois",
+    "culture": "Frankish",
+    "faith": "Catholic",
+    "rank": "queen",
+    "primaryTitle": "Queen of the Franks",
+    "primaryTitleCn": "法兰克王后",
+    "titles": [
+      {
+        "title": "Queen of the Franks",
+        "startYear": 922,
+        "endYear": 923,
+        "titleCn": "法兰克王后"
+      }
+    ],
+    "tags": [
+      "queen",
+      "noble"
+    ],
+    "importanceScore": 68,
+    "historicalRating": 7,
+    "wikiUrl": "https://en.wikipedia.org/wiki/Beatrice_of_Vermandois",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Beatrice_of_Vermandois",
+    "sourceNote": "Daughter of Herbert I of Vermandois and mother of Hugh the Great; wife of Robert I of France.",
+    "notes": "Her descent from the Carolingian line is through her father. Married c. 890 as the second wife of Robert of Neustria (later King Robert I); ancestress of the Capetian dynasty through her son Hugh the Great. Died after 26 March 931.",
+    "deathCause": {
+      "kind": "uncertain",
+      "summary": "Death date unknown (after 931)",
+      "detail": "Béatrice's last known attestation is 26 March 931; she died after that date, but the exact year, place and circumstances are not documented.",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Beatrice_of_Vermandois",
+      "summaryCn": "去世时间不详（931年之后）",
+      "detailCn": "贝阿特丽丝最后一次见于记载是931年3月26日；她在此之后去世，但确切年份、地点与情形均无记载。"
+    },
+    "relationships": {
+      "fatherId": "61fe4e30-9ec1-4495-8c4c-caf8df47c913",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "ea16a35b-9d3b-44c8-b8c3-72598e0e4362"
+      ]
+    },
+    "events": [
+      {
+        "year": 880,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "uncertain"
+        ],
+        "weight": 60,
+        "label": "Birth of Béatrice of Vermandois (c. 880)",
+        "labelCn": "韦尔芒杜瓦的贝阿特丽丝出生（约880年）",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Beatrice_of_Vermandois",
+        "note": "Born c. 880; exact date and place unknown."
+      },
+      {
+        "year": 890,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance",
+          "uncertain"
+        ],
+        "weight": 75,
+        "label": "Marriage to Robert of Neustria",
+        "labelCn": "与纽斯特里亚的罗贝尔成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Beatrice_of_Vermandois",
+        "note": "Married c. 890 as the second wife of Robert of Neustria, who later reigned as King Robert I of France (922-923)."
+      },
+      {
+        "year": 922,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "queen"
+        ],
+        "weight": 72,
+        "label": "Became Queen of the Franks",
+        "labelCn": "成为法兰克王后",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Beatrice_of_Vermandois",
+        "note": "Robert was elected king in 922; Béatrice was queen consort 922-923."
+      },
+      {
+        "year": 923,
+        "month": 6,
+        "day": 15,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "death"
+        ],
+        "weight": 68,
+        "label": "Robert I killed at the Battle of Soissons",
+        "labelCn": "罗贝尔一世在苏瓦松之战中阵亡",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Soissons_(923)",
+        "note": "Her husband was killed on 15 June 923; their son Hugh the Great was offered the crown but refused. Béatrice was left a widow."
+      },
+      {
+        "year": 931,
+        "type": "death",
+        "tags": [
+          "death",
+          "uncertain"
+        ],
+        "weight": 60,
+        "label": "Death of Béatrice of Vermandois (after 931)",
+        "labelCn": "韦尔芒杜瓦的贝阿特丽丝去世（931年之后）",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Beatrice_of_Vermandois",
+        "note": "Last attested 26 March 931; died after that date, exact date unknown."
+      }
+    ],
+    "createdDate": "260817",
+    "createdOrder": 68
+  },
+  {
+    "id": "61fe4e30-9ec1-4495-8c4c-caf8df47c913",
+    "firstName": "Herbert",
+    "lastName": "Vermandois",
+    "displayName": "Herbert I of Vermandois",
+    "fullName": "Herbert I, Count of Vermandois",
+    "displayNameCn": "韦尔芒杜瓦的赫伯特一世",
+    "fullNameCn": "韦尔芒杜瓦伯爵赫伯特一世",
+    "nickname": "",
+    "nicknameCn": "",
+    "nicknameTags": [],
+    "alsoKnownAs": [
+      "Herbert I of Vermandois",
+      "Herbert I, Count of Vermandois"
+    ],
+    "gender": "male",
+    "birthYear": 848,
+    "deathYear": 907,
+    "birthPlace": "Vermandois, West Francia",
+    "deathPlace": "Vermandois, West Francia",
+    "birthPlaceCn": "西法兰克韦尔芒杜瓦",
+    "deathPlaceCn": "西法兰克韦尔芒杜瓦",
+    "dynasty": "House of Vermandois",
+    "house": "House of Vermandois",
+    "culture": "Frankish",
+    "faith": "Catholic",
+    "rank": "count",
+    "primaryTitle": "Count of Vermandois",
+    "primaryTitleCn": "韦尔芒杜瓦伯爵",
+    "titles": [
+      {
+        "title": "Count of Vermandois",
+        "startYear": 896,
+        "endYear": 907,
+        "titleCn": "韦尔芒杜瓦伯爵"
+      }
+    ],
+    "tags": [
+      "noble",
+      "commander"
+    ],
+    "importanceScore": 64,
+    "historicalRating": 6,
+    "wikiUrl": "https://en.wikipedia.org/wiki/Herbert_I,_Count_of_Vermandois",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Herbert_I,_Count_of_Vermandois",
+    "sourceNote": "Son of Pepin of Vermandois and father of Béatrice of Vermandois.",
+    "notes": "Carolingian male-line descendant through Pepin of Italy. Count of Vermandois and Soissons; his dates of accession vary by source (text: before 889; infobox: 893; existing record: 896). His capture and murder of his brother Raoul in 896 may have led Baldwin II of Flanders to have him killed in 907 (speculative).",
+    "deathCause": {
+      "kind": "uncertain",
+      "summary": "Possibly assassinated on Baldwin II's orders",
+      "detail": "Herbert died in 907. Some historians speculate that Baldwin II of Flanders had him assassinated, possibly in retaliation for Herbert's capture and murder of his own brother Raoul in 896; the accounts are uncertain, and no battle or natural cause is recorded.",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Herbert_I,_Count_of_Vermandois",
+      "summaryCn": "疑遭暗杀（不确定）",
+      "detailCn": "赫伯特于907年去世。有史家推测他是被佛兰德伯爵鲍德温二世派人暗杀的，可能与896年赫伯特俘杀亲兄弟拉乌尔一事有关；此说尚不确定，史料亦未记载战斗或自然死亡。"
+    },
+    "relationships": {
+      "fatherId": "f1f472eb-b141-42d4-9590-bc9700c40e6f",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "bda45606-c290-4f2a-8425-3c974a91ee60"
+      ]
+    },
+    "events": [
+      {
+        "year": 848,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "uncertain"
+        ],
+        "weight": 60,
+        "label": "Birth of Herbert I (c. 848)",
+        "labelCn": "赫伯特一世出生（约848年）",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Herbert_I,_Count_of_Vermandois",
+        "note": "Born c. 848/850; exact date unknown."
+      },
+      {
+        "year": 889,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "uncertain"
+        ],
+        "weight": 65,
+        "label": "Became Count of Vermandois and Soissons",
+        "labelCn": "成为韦尔芒杜瓦与苏瓦松伯爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Herbert_I,_Count_of_Vermandois",
+        "note": "Accession date uncertain: Wikipedia text says before 889, the infobox gives 893, the existing record uses 896."
+      },
+      {
+        "year": 896,
+        "type": "political_crisis",
+        "tags": [
+          "violent",
+          "uncertain"
+        ],
+        "weight": 60,
+        "label": "Capture and murder of his brother Raoul",
+        "labelCn": "俘杀其兄弟拉乌尔",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Herbert_I,_Count_of_Vermandois",
+        "note": "Herbert captured his brother Raoul in the upper Somme valley and had him murdered rather than ransomed; some historians link this to his own later death."
+      },
+      {
+        "year": 907,
+        "type": "death",
+        "tags": [
+          "death",
+          "violent",
+          "uncertain"
+        ],
+        "weight": 70,
+        "label": "Death of Herbert I",
+        "labelCn": "赫伯特一世去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Herbert_I,_Count_of_Vermandois",
+        "note": "Died 907; possibly assassinated on the orders of Baldwin II of Flanders (speculative)."
+      }
+    ],
+    "createdDate": "260817",
+    "createdOrder": 69
+  },
+  {
+    "id": "f1f472eb-b141-42d4-9590-bc9700c40e6f",
+    "firstName": "Pepin",
+    "lastName": "Vermandois",
+    "displayName": "Pepin of Vermandois",
+    "fullName": "Pepin, Count of Vermandois",
+    "displayNameCn": "韦尔芒杜瓦的丕平",
+    "fullNameCn": "韦尔芒杜瓦伯爵丕平",
+    "nickname": "",
+    "nicknameCn": "",
+    "nicknameTags": [],
+    "alsoKnownAs": [
+      "Pepin I of Vermandois"
+    ],
+    "gender": "male",
+    "birthYear": 815,
+    "deathYear": 850,
+    "birthPlace": "Italy",
+    "deathPlace": "Vermandois, West Francia",
+    "birthPlaceCn": "意大利",
+    "deathPlaceCn": "西法兰克韦尔芒杜瓦",
+    "dynasty": "House of Vermandois",
+    "house": "House of Vermandois",
+    "culture": "Frankish",
+    "faith": "Catholic",
+    "rank": "count",
+    "primaryTitle": "Count of Vermandois",
+    "primaryTitleCn": "韦尔芒杜瓦伯爵",
+    "titles": [
+      {
+        "title": "Count of Vermandois",
+        "startYear": 834,
+        "endYear": 850,
+        "titleCn": "韦尔芒杜瓦伯爵"
+      }
+    ],
+    "tags": [
+      "noble"
+    ],
+    "importanceScore": 58,
+    "historicalRating": 6,
+    "wikiUrl": "https://en.wikipedia.org/wiki/Pepin_I,_Count_of_Vermandois",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Pepin_I,_Count_of_Vermandois",
+    "sourceNote": "Son of Bernard of Italy and ancestor of the Vermandois branch.",
+    "notes": "Often styled Pepin I of Vermandois in genealogical references. Son of Bernard of Italy and great-grandson of Charlemagne; held Vermandois, Senlis, Péronne and Saint-Quentin. NOTE: this is Pepin I, who died c. 850 (after 850 in some genealogies) — not Pepin II (d. c. 893) nor the 'after 922' figure. Death year corrected from 845 to c. 850 per Wikipedia.",
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died c. 850; circumstances unknown",
+      "detail": "Pepin died c. 850 (some genealogies say after 850). No violent or suspicious circumstances are recorded; the exact date and cause are not documented.",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Pepin_I,_Count_of_Vermandois",
+      "summaryCn": "约850年去世，死因不详",
+      "detailCn": "丕平约于850年去世（部分谱系记载为850年之后）。史料未记载暴力或可疑的情形，确切日期与死因均无记载。"
+    },
+    "relationships": {
+      "fatherId": "ca47aef7-9566-469b-acb4-098529825888",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "61fe4e30-9ec1-4495-8c4c-caf8df47c913"
+      ]
+    },
+    "events": [
+      {
+        "year": 815,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "uncertain"
+        ],
+        "weight": 60,
+        "label": "Birth of Pepin of Vermandois (c. 815)",
+        "labelCn": "韦尔芒杜瓦的丕平出生（约815年）",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Pepin_I,_Count_of_Vermandois",
+        "note": "Born c. 815 (Wikipedia infobox: c. 817); exact date unknown."
+      },
+      {
+        "year": 834,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "uncertain"
+        ],
+        "weight": 60,
+        "label": "Count of Vermandois, Senlis, Péronne and Saint-Quentin",
+        "labelCn": "任韦尔芒杜瓦、桑利、佩罗讷与圣康坦伯爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Pepin_I,_Count_of_Vermandois",
+        "note": "Date of succession uncertain; Wikipedia notes his son Pepin II held the county from 850."
+      },
+      {
+        "year": 840,
+        "type": "political_crisis",
+        "tags": [
+          "succession",
+          "uncertain"
+        ],
+        "weight": 60,
+        "label": "Supported Emperor Lothar after Louis the Pious's death",
+        "labelCn": "虔诚者路易去世后支持皇帝洛泰尔",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Pepin_I,_Count_of_Vermandois",
+        "note": "Despite earlier allegiance to Charles the Bald, Pepin supported Emperor Lothar in the succession struggle after Louis the Pious died (840)."
+      },
+      {
+        "year": 850,
+        "type": "death",
+        "tags": [
+          "death",
+          "uncertain"
+        ],
+        "weight": 60,
+        "label": "Death of Pepin of Vermandois",
+        "labelCn": "韦尔芒杜瓦的丕平去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Pepin_I,_Count_of_Vermandois",
+        "note": "Died c. 850 (some sources: after 850); exact date unknown."
+      }
+    ],
+    "createdDate": "260817",
+    "createdOrder": 70
+  },
+  {
+    "id": "244bb192-3eb6-4fa5-934c-30806c83ee5f",
+    "firstName": "Isabella",
+    "lastName": "of Hainaut",
+    "displayName": "Isabella of Hainaut",
+    "fullName": "Isabella of Hainaut, Queen of France",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "埃诺的伊莎贝尔",
+    "fullNameCn": "法兰西王后埃诺的伊莎贝尔",
+    "nicknameCn": null,
+    "birthYear": 1170,
+    "deathYear": 1190,
+    "birthPlace": "Valenciennes, County of Hainaut",
+    "deathPlace": "Paris, Kingdom of France",
+    "birthPlaceCn": "埃诺伯国瓦朗谢讷",
+    "deathPlaceCn": "法兰西王国巴黎",
+    "gender": "female",
+    "dynasty": "House of Flanders",
+    "house": "House of Flanders",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Queen of France",
+    "primaryTitleCn": "法兰西王后",
+    "titles": [
+      {
+        "title": "Queen of France",
+        "startYear": 1180,
+        "endYear": 1190,
+        "titleCn": "法兰西王后"
+      },
+      {
+        "title": "Countess of Artois",
+        "startYear": 1180,
+        "endYear": 1190,
+        "titleCn": "阿图瓦女伯爵"
+      }
+    ],
+    "tags": [
+      "queen",
+      "consort",
+      "noble"
+    ],
+    "rank": "queen",
+    "importanceScore": 78,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "7cc009b6-08d8-459b-b40e-2921bf3e4580"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "96b01b93-0b97-494a-896e-2d7abb07e05c"
+      ]
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Isabella_of_Hainault",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Isabella_of_Hainault",
+    "sourceNote": "",
+    "notes": "First wife of Philippe II Augustus. Parents (Baldwin V of Hainaut and Margaret I of Flanders) are not yet in the roster.",
+    "historicalRating": 7,
+    "createdDate": "20260817",
+    "createdOrder": 110,
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died following childbirth",
+      "summaryCn": "分娩后去世",
+      "detail": "Isabella gave birth to twin sons on 14 March 1190 (both died within days) and died the next day, 15 March 1190, aged 19. She was buried in Notre-Dame de Paris.",
+      "detailCn": "1190 年 3 月 14 日伊莎贝尔产下一对双胞胎儿子（数日内先后夭折），次日（3 月 15 日）去世，年仅 19 岁，葬于巴黎圣母院。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Isabella_of_Hainault"
+    },
+    "events": [
+      {
+        "year": 1170,
+        "month": 4,
+        "day": 5,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 62,
+        "label": "Born in Valenciennes",
+        "labelCn": "出生于瓦朗谢讷",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Isabella_of_Hainault"
+      },
+      {
+        "year": 1180,
+        "month": 4,
+        "day": 28,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 90,
+        "label": "Marriage to Philippe II at Bapaume",
+        "labelCn": "在巴波姆与腓力二世成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Isabella_of_Hainault",
+        "note": "Her dowry was the county of Artois; both bride and groom were fifteen."
+      },
+      {
+        "year": 1180,
+        "month": 5,
+        "day": 28,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "queen"
+        ],
+        "weight": 85,
+        "label": "Coronation as Queen of France",
+        "labelCn": "加冕为法兰西王后",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Isabella_of_Hainault",
+        "note": "Crowned at Saint-Denis."
+      },
+      {
+        "year": 1187,
+        "month": 9,
+        "day": 5,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "dynasty"
+        ],
+        "weight": 80,
+        "label": "Birth of Louis VIII",
+        "labelCn": "路易八世出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Louis_VIII_of_France"
+      },
+      {
+        "year": 1190,
+        "month": 3,
+        "day": 14,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 68,
+        "label": "Birth of twin sons Robert and Philippe",
+        "labelCn": "诞下双胞胎罗伯特与菲利普",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Isabella_of_Hainault",
+        "note": "Robert died the same day and Philippe three days later; both are excluded from the roster as infants who died young."
+      },
+      {
+        "year": 1190,
+        "month": 3,
+        "day": 15,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 95,
+        "label": "Died in Paris following childbirth",
+        "labelCn": "分娩后在巴黎去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Isabella_of_Hainault",
+        "note": "Philippe II was away campaigning in Normandy and did not attend the funeral."
+      }
+    ]
+  },
+  {
+    "id": "501a63f5-b331-4e97-9e92-ddb129d3f494",
+    "firstName": "Ingeborg",
+    "lastName": "of Denmark",
+    "displayName": "Ingeborg of Denmark",
+    "fullName": "Ingeborg of Denmark, Queen of France",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "丹麦的英格堡",
+    "fullNameCn": "法兰西王后丹麦的英格堡",
+    "nicknameCn": null,
+    "birthYear": 1174,
+    "deathYear": 1237,
+    "birthPlace": "",
+    "deathPlace": "Priory of Saint-Jean-de-l'Île, near Corbeil, Kingdom of France",
+    "birthPlaceCn": "",
+    "deathPlaceCn": "法兰西王国科尔贝附近的圣让岛修道院",
+    "gender": "female",
+    "dynasty": "House of Estridsen",
+    "house": "House of Estridsen",
+    "culture": "Danish",
+    "faith": "Catholic",
+    "primaryTitle": "Queen of France",
+    "primaryTitleCn": "法兰西王后",
+    "titles": [
+      {
+        "title": "Queen of France",
+        "startYear": 1193,
+        "endYear": 1223,
+        "titleCn": "法兰西王后"
+      }
+    ],
+    "tags": [
+      "queen",
+      "consort",
+      "noble"
+    ],
+    "rank": "queen",
+    "importanceScore": 76,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "7cc009b6-08d8-459b-b40e-2921bf3e4580"
+      ],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Ingeborg_of_Denmark,_Queen_of_France",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Ingeborg_of_Denmark,_Queen_of_France",
+    "sourceNote": "Birth year uncertain (c. 1174/75); birthplace not recorded. Death date varies across sources (1236–1238; Wikipedia infobox gives 29 July 1237). Parents (Valdemar I of Denmark and Sofia of Minsk) are not yet in the roster.",
+    "notes": "Second wife of Philippe II Augustus. Married 1193, repudiated the same day; the annulment was never canonically granted, and after the interdict crisis she was restored and remained queen until Philippe's death. The estrangement is modelled in events, not as a former marriage.",
+    "historicalRating": 7,
+    "createdDate": "20260817",
+    "createdOrder": 111,
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died at the Priory of Saint-Jean-de-l'Île",
+      "summaryCn": "在圣让岛修道院去世",
+      "detail": "Ingeborg died on 29 July 1237 (some sources give 1236 or 1238) at the Priory of Saint-Jean-de-l'Île near Corbeil, and was buried in the church of the Order of St John in Corbeil.",
+      "detailCn": "1237 年 7 月 29 日（有资料作 1236 或 1238 年），英格堡在科尔贝附近的圣让岛修道院去世，葬于科尔贝圣约翰骑士团教堂。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Ingeborg_of_Denmark,_Queen_of_France"
+    },
+    "events": [
+      {
+        "year": 1174,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "uncertain"
+        ],
+        "weight": 60,
+        "label": "Born in Denmark",
+        "labelCn": "出生于丹麦",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ingeborg_of_Denmark,_Queen_of_France",
+        "note": "Birth year uncertain (c. 1174/75); birthplace not recorded. Daughter of Valdemar I of Denmark and Sofia of Minsk."
+      },
+      {
+        "year": 1193,
+        "month": 8,
+        "day": 14,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 90,
+        "label": "Marriage to Philippe II",
+        "labelCn": "与腓力二世成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ingeborg_of_Denmark,_Queen_of_France",
+        "note": "Married at Amiens on 14 August 1193 (the infobox gives 15 August); Philippe repudiated her the very next day, but the repudiation never obtained canonical validity."
+      },
+      {
+        "year": 1193,
+        "month": 8,
+        "day": 25,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "queen"
+        ],
+        "weight": 82,
+        "label": "Coronation as Queen of France",
+        "labelCn": "加冕为法兰西王后",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ingeborg_of_Denmark,_Queen_of_France"
+      },
+      {
+        "year": 1193,
+        "month": 11,
+        "type": "political_crisis",
+        "tags": [
+          "politics",
+          "uncertain"
+        ],
+        "weight": 75,
+        "label": "Council of Compiègne annulment attempt",
+        "labelCn": "贡比涅会议企图宣告婚姻无效",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ingeborg_of_Denmark,_Queen_of_France",
+        "note": "About three months after the wedding Philippe summoned a council at Compiègne to annul the marriage; Danish envoys carried her appeal to Rome."
+      },
+      {
+        "year": 1200,
+        "type": "religion",
+        "tags": [
+          "religion",
+          "uncertain"
+        ],
+        "weight": 85,
+        "label": "Interdict on France over the repudiation",
+        "labelCn": "法国因休妻事件被施以禁罚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ingeborg_of_Denmark,_Queen_of_France",
+        "note": "Innocent III placed France under interdict (sources give 1199 or 1200); it was lifted in September 1200 when Philippe agreed to obey the pope."
+      },
+      {
+        "year": 1200,
+        "month": 9,
+        "type": "government",
+        "tags": [
+          "government",
+          "queen"
+        ],
+        "weight": 84,
+        "label": "Restored as Queen of France",
+        "labelCn": "恢复法兰西王后身份",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ingeborg_of_Denmark,_Queen_of_France"
+      },
+      {
+        "year": 1213,
+        "type": "diplomacy",
+        "tags": [
+          "diplomacy",
+          "queen"
+        ],
+        "weight": 72,
+        "label": "Full reconciliation with Philippe II",
+        "labelCn": "与腓力二世完全和解",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ingeborg_of_Denmark,_Queen_of_France",
+        "note": "Philippe reconciled with Ingeborg in 1213, after Agnes of Meran's death; she remained queen until his death in 1223."
+      },
+      {
+        "year": 1237,
+        "month": 7,
+        "day": 29,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 88,
+        "label": "Died at Saint-Jean-de-l'Île",
+        "labelCn": "在圣让岛修道院去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ingeborg_of_Denmark,_Queen_of_France",
+        "note": "Died 29 July 1237 (some sources 1236 or 1238) near Corbeil."
+      }
+    ]
+  },
+  {
+    "id": "ef872301-2b9a-4b4e-a7d8-0c2529a049db",
+    "firstName": "Agnes",
+    "lastName": "of Meran",
+    "displayName": "Agnes of Meran",
+    "fullName": "Agnes of Merania",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Agnes of Merania"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "梅拉尼亚的阿涅丝",
+    "fullNameCn": "梅拉尼亚的阿涅丝",
+    "nicknameCn": null,
+    "birthYear": 1180,
+    "deathYear": 1201,
+    "birthPlace": "",
+    "deathPlace": "Poissy, Kingdom of France",
+    "birthPlaceCn": "",
+    "deathPlaceCn": "法兰西王国普瓦西",
+    "gender": "female",
+    "dynasty": "House of Andechs",
+    "house": "House of Andechs",
+    "culture": "German",
+    "faith": "Catholic",
+    "primaryTitle": "",
+    "primaryTitleCn": "",
+    "titles": [],
+    "tags": [
+      "queen",
+      "consort",
+      "noble"
+    ],
+    "rank": "queen",
+    "importanceScore": 70,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "7cc009b6-08d8-459b-b40e-2921bf3e4580"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "3daa50c7-45fe-447c-8ba1-4852a562bc32",
+        "0d0f0049-4607-44b9-ab23-ff16f500f9f0"
+      ]
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Agnes_of_Merania",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Agnes_of_Merania",
+    "sourceNote": "Birth year and birthplace uncertain (Wikipedia gives 1175, other sources c. 1180). Parents (Berthold IV of Merania and Agnes of Rochlitz) are not yet in the roster.",
+    "notes": "Third wife of Philippe II Augustus. The 1196 marriage was contracted while Ingeborg lived and was declared invalid in 1201; her children were legitimised in November 1201. She was treated as queen but never canonically queen consort. Modelled as a former marriage (broken line), following the Eleanor x Louis VII pattern.",
+    "historicalRating": 6,
+    "createdDate": "20260817",
+    "createdOrder": 112,
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died at Poissy",
+      "summaryCn": "在普瓦西去世",
+      "detail": "Agnes died in July 1201 at the castle of Poissy, possibly in childbirth, and was buried in the Convent of Saint-Corentin near Mantes.",
+      "detailCn": "1201 年 7 月，阿涅丝在普瓦西城堡去世（可能死于分娩），葬于芒特附近的圣科朗坦修道院。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Agnes_of_Merania"
+    },
+    "events": [
+      {
+        "year": 1180,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "uncertain"
+        ],
+        "weight": 60,
+        "label": "Born in Merania",
+        "labelCn": "出生于梅拉尼亚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Agnes_of_Merania",
+        "note": "Birth year uncertain (c. 1175–1180); birthplace not recorded. Daughter of Berthold IV, Duke of Merania, of the House of Andechs."
+      },
+      {
+        "year": 1196,
+        "month": 6,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "uncertain"
+        ],
+        "weight": 88,
+        "label": "Marriage to Philippe II",
+        "labelCn": "与腓力二世成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Agnes_of_Merania",
+        "note": "Married June 1196 while Philippe's second wife Ingeborg was still living; under canon law the marriage was never valid."
+      },
+      {
+        "year": 1198,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 70,
+        "label": "Birth of Marie",
+        "labelCn": "女儿玛丽出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Agnes_of_Merania"
+      },
+      {
+        "year": 1200,
+        "month": 9,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 70,
+        "label": "Birth of Philippe Hurepel",
+        "labelCn": "儿子菲利普·于雷佩尔出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Agnes_of_Merania"
+      },
+      {
+        "year": 1201,
+        "month": 7,
+        "type": "death",
+        "tags": [
+          "death",
+          "uncertain"
+        ],
+        "weight": 90,
+        "label": "Died at Poissy",
+        "labelCn": "在普瓦西去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Agnes_of_Merania",
+        "note": "Died in July 1201 (some sources give 19/20 July), possibly in childbirth; her marriage had been declared invalid earlier that year."
+      },
+      {
+        "year": 1201,
+        "month": 11,
+        "type": "religion",
+        "tags": [
+          "religion",
+          "succession"
+        ],
+        "weight": 80,
+        "label": "Children legitimised by Pope Innocent III",
+        "labelCn": "子女获教皇英诺森三世承认为婚生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Agnes_of_Merania",
+        "note": "Marie and Philippe Hurepel were legitimised by papal dispensation in November 1201, after Agnes's death."
+      }
+    ]
+  },
+  {
+    "id": "01da1402-5d85-4186-859a-34f8cb06182d",
+    "firstName": "Sweyn",
+    "lastName": "Denmark",
+    "displayName": "Sweyn Forkbeard",
+    "fullName": "Sweyn Forkbeard",
+    "displayNameCn": "斯温八字胡",
+    "fullNameCn": "八字胡斯温",
+    "nickname": "Forkbeard",
+    "nicknameCn": "八字胡",
+    "alsoKnownAs": [
+      "Svend Tveskæg",
+      "Sweyn I of Denmark"
+    ],
+    "nicknameTags": [
+      "forkbeard"
+    ],
+    "birthYear": 960,
+    "deathYear": 1014,
+    "birthPlace": "Denmark",
+    "deathPlace": "Gainsborough, England",
+    "birthPlaceCn": "丹麦",
+    "deathPlaceCn": "英格兰盖恩斯伯勒",
+    "gender": "male",
+    "dynasty": "House of Knýtlinga",
+    "house": "House of Knýtlinga",
+    "culture": "Danish",
+    "faith": "Catholic",
+    "primaryTitle": "King of Denmark",
+    "primaryTitleCn": "丹麦国王",
+    "titles": [
+      {
+        "title": "King of Denmark",
+        "titleCn": "丹麦国王",
+        "startYear": 986,
+        "endYear": 1014
+      },
+      {
+        "title": "King of England",
+        "titleCn": "英格兰国王",
+        "startYear": 1013,
+        "endYear": 1014
+      }
+    ],
+    "tags": [
+      "monarch",
+      "commander",
+      "conqueror"
+    ],
+    "rank": "king",
+    "importanceScore": 88,
+    "historicalRating": 8,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "0fb64530-ea06-47ec-9570-6166155b53ba"
+      ]
+    },
+    "events": [
+      {
+        "year": 986,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "monarch"
+        ],
+        "weight": 86,
+        "label": "Became King of Denmark",
+        "labelCn": "成为丹麦国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Sweyn_Forkbeard"
+      },
+      {
+        "year": 1003,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "conquest"
+        ],
+        "weight": 88,
+        "label": "Renewed Danish invasion of England",
+        "labelCn": "重启对英格兰的丹麦入侵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Sweyn_Forkbeard"
+      },
+      {
+        "year": 1013,
+        "type": "conquest",
+        "tags": [
+          "conquest",
+          "monarch"
+        ],
+        "weight": 99,
+        "label": "Conquered England",
+        "labelCn": "征服英格兰",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Sweyn_Forkbeard",
+        "note": "Æthelred fled to Normandy and Sweyn was acknowledged as king late in 1013."
+      },
+      {
+        "year": 1014,
+        "month": 2,
+        "day": 3,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 92,
+        "label": "Died at Gainsborough",
+        "labelCn": "在盖恩斯伯勒去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Sweyn_Forkbeard"
+      }
+    ],
+    "deathCause": {
+      "kind": "uncertain",
+      "summary": "Died suddenly after conquering England",
+      "summaryCn": "征服英格兰后突然去世",
+      "detail": "Sweyn died at Gainsborough on 3 February 1014; the cause is not securely recorded.",
+      "detailCn": "1014年2月3日，斯温在盖恩斯伯勒去世；确切死因无可靠记载。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Sweyn_Forkbeard"
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Sweyn_Forkbeard",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Sweyn_Forkbeard",
+    "sourceNote": "King of Denmark and briefly king of England; father of Cnut.",
+    "notes": "North Sea imperial background card; basic family links are limited to the roster.",
+    "createdDate": "260818",
+    "createdOrder": 147
+  },
+  {
+    "id": "0fb64530-ea06-47ec-9570-6166155b53ba",
+    "firstName": "Cnut",
+    "lastName": "Denmark",
+    "displayName": "Cnut the Great",
+    "fullName": "Cnut the Great",
+    "displayNameCn": "克努特大帝",
+    "fullNameCn": "克努特大帝",
+    "nickname": "the Great",
+    "nicknameCn": "大帝",
+    "alsoKnownAs": [
+      "Canute the Great",
+      "Cnut I of England"
+    ],
+    "nicknameTags": [
+      "great"
+    ],
+    "birthYear": 990,
+    "deathYear": 1035,
+    "birthPlace": "Denmark",
+    "deathPlace": "Shaftesbury, England",
+    "birthPlaceCn": "丹麦",
+    "deathPlaceCn": "英格兰沙夫茨伯里",
+    "gender": "male",
+    "dynasty": "House of Knýtlinga",
+    "house": "House of Knýtlinga",
+    "culture": "Danish",
+    "faith": "Catholic",
+    "primaryTitle": "King of England",
+    "primaryTitleCn": "英格兰国王",
+    "titles": [
+      {
+        "title": "King of England",
+        "titleCn": "英格兰国王",
+        "startYear": 1016,
+        "endYear": 1035
+      },
+      {
+        "title": "King of Denmark",
+        "titleCn": "丹麦国王",
+        "startYear": 1018,
+        "endYear": 1035
+      },
+      {
+        "title": "King of Norway",
+        "titleCn": "挪威国王",
+        "startYear": 1028,
+        "endYear": 1035
+      }
+    ],
+    "tags": [
+      "monarch",
+      "commander",
+      "conqueror"
+    ],
+    "rank": "king",
+    "importanceScore": 94,
+    "historicalRating": 9,
+    "relationships": {
+      "fatherId": "01da1402-5d85-4186-859a-34f8cb06182d",
+      "motherId": "",
+      "spouseIds": [
+        "11999429-e764-4ed2-9c8c-cf95cfbbdecc"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "d539abe5-c27d-4b1a-a3b3-e16d93ce2344",
+        "0a5b30a1-051e-41ea-a10a-1c37ce523603"
+      ]
+    },
+    "events": [
+      {
+        "year": 1016,
+        "month": 10,
+        "day": 18,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "conquest",
+          "commander"
+        ],
+        "weight": 98,
+        "label": "Battle of Assandun",
+        "labelCn": "阿桑顿战役",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Assandun"
+      },
+      {
+        "year": 1016,
+        "month": 11,
+        "day": 30,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "monarch"
+        ],
+        "weight": 99,
+        "label": "Became sole king of England",
+        "labelCn": "成为唯一的英格兰国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Cnut_the_Great"
+      },
+      {
+        "year": 1017,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynasty"
+        ],
+        "weight": 91,
+        "label": "Marriage to Emma of Normandy",
+        "labelCn": "与诺曼底的埃玛结婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Emma_of_Normandy"
+      },
+      {
+        "year": 1018,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "monarch"
+        ],
+        "weight": 88,
+        "label": "Became King of Denmark",
+        "labelCn": "成为丹麦国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Cnut_the_Great"
+      },
+      {
+        "year": 1028,
+        "type": "conquest",
+        "tags": [
+          "conquest",
+          "monarch"
+        ],
+        "weight": 88,
+        "label": "Became King of Norway",
+        "labelCn": "成为挪威国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Cnut_the_Great"
+      },
+      {
+        "year": 1035,
+        "month": 11,
+        "day": 12,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 94,
+        "label": "Died at Shaftesbury",
+        "labelCn": "在沙夫茨伯里去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Cnut_the_Great"
+      }
+    ],
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died at Shaftesbury",
+      "summaryCn": "在沙夫茨伯里去世",
+      "detail": "Cnut died at Shaftesbury on 12 November 1035 after ruling England, Denmark and Norway.",
+      "detailCn": "1035年11月12日，克努特在统治英格兰、丹麦与挪威期间去世。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Cnut_the_Great"
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Cnut_the_Great",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Cnut_the_Great",
+    "sourceNote": "Son of Sweyn Forkbeard; ruler of the North Sea Empire.",
+    "notes": "Full North Sea Empire anchor card. Harold Harefoot and Harthacnut are represented in the roster; their mothers are intentionally not both modeled.",
+    "createdDate": "260818",
+    "createdOrder": 148
+  },
+  {
+    "id": "d539abe5-c27d-4b1a-a3b3-e16d93ce2344",
+    "firstName": "Harold",
+    "lastName": "Denmark",
+    "displayName": "Harold Harefoot",
+    "fullName": "Harold Harefoot",
+    "displayNameCn": "野兔脚哈罗德",
+    "fullNameCn": "野兔脚哈罗德",
+    "nickname": "Harefoot",
+    "nicknameCn": "野兔脚",
+    "alsoKnownAs": [
+      "Harold I"
+    ],
+    "nicknameTags": [
+      "harefoot"
+    ],
+    "birthYear": 1015,
+    "deathYear": 1040,
+    "birthPlace": "England",
+    "deathPlace": "Oxford, England",
+    "birthPlaceCn": "英格兰",
+    "deathPlaceCn": "英格兰牛津",
+    "gender": "male",
+    "dynasty": "House of Knýtlinga",
+    "house": "House of Knýtlinga",
+    "culture": "Danish",
+    "faith": "Catholic",
+    "primaryTitle": "King of England",
+    "primaryTitleCn": "英格兰国王",
+    "titles": [
+      {
+        "title": "King of England",
+        "titleCn": "英格兰国王",
+        "startYear": 1037,
+        "endYear": 1040
+      }
+    ],
+    "tags": [
+      "monarch"
+    ],
+    "rank": "king",
+    "importanceScore": 72,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "0fb64530-ea06-47ec-9570-6166155b53ba",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Harold_Harefoot",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Harold_Harefoot",
+    "sourceNote": "Son of Cnut and Ælfgifu of Northampton; ruled England from 1037 to 1040.",
+    "notes": "Basic North Sea Empire succession card; his mother is not yet in the roster.",
+    "createdDate": "260818",
+    "createdOrder": 150
+  },
+  {
+    "id": "0a5b30a1-051e-41ea-a10a-1c37ce523603",
+    "firstName": "Harthacnut",
+    "lastName": "Denmark",
+    "displayName": "Harthacnut",
+    "fullName": "Harthacnut, King of England",
+    "displayNameCn": "哈德克努特",
+    "fullNameCn": "英格兰国王哈德克努特",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [
+      "Harthacanute",
+      "Cnut III of Denmark"
+    ],
+    "nicknameTags": [],
+    "birthYear": 1018,
+    "deathYear": 1042,
+    "birthPlace": "England",
+    "deathPlace": "Lambeth, England",
+    "birthPlaceCn": "英格兰",
+    "deathPlaceCn": "英格兰兰贝斯",
+    "gender": "male",
+    "dynasty": "House of Knýtlinga",
+    "house": "House of Knýtlinga",
+    "culture": "Danish",
+    "faith": "Catholic",
+    "primaryTitle": "King of England",
+    "primaryTitleCn": "英格兰国王",
+    "titles": [
+      {
+        "title": "King of Denmark",
+        "titleCn": "丹麦国王",
+        "startYear": 1035,
+        "endYear": 1042
+      },
+      {
+        "title": "King of England",
+        "titleCn": "英格兰国王",
+        "startYear": 1040,
+        "endYear": 1042
+      }
+    ],
+    "tags": [
+      "monarch"
+    ],
+    "rank": "king",
+    "importanceScore": 75,
+    "historicalRating": 7,
+    "relationships": {
+      "fatherId": "0fb64530-ea06-47ec-9570-6166155b53ba",
+      "motherId": "11999429-e764-4ed2-9c8c-cf95cfbbdecc",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [],
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died suddenly at Lambeth",
+      "summaryCn": "在兰贝斯突然去世",
+      "detail": "Harthacnut died suddenly at a wedding feast in Lambeth on 8 June 1042.",
+      "detailCn": "1042年6月8日，哈德克努特在兰贝斯的一场婚宴上突然去世。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Harthacnut"
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Harthacnut",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Harthacnut",
+    "sourceNote": "Son of Cnut and Emma; king of Denmark and England, succeeded in England by Edward the Confessor.",
+    "notes": "Basic North Sea Empire succession card.",
+    "createdDate": "260818",
+    "createdOrder": 151
+  },
+  {
+    "id": "8da6a92d-40c5-47c0-8c42-9858db5cf61d",
+    "firstName": "Stephen",
+    "lastName": "Blois",
+    "displayName": "Stephen",
+    "fullName": "Stephen, King of England",
+    "displayNameCn": "斯蒂芬",
+    "fullNameCn": "英格兰国王斯蒂芬",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [
+      "Stephen of Blois"
+    ],
+    "nicknameTags": [],
+    "birthYear": 1092,
+    "deathYear": 1154,
+    "birthPlace": "Blois, France",
+    "deathPlace": "Dover, England",
+    "birthPlaceCn": "法国布卢瓦",
+    "deathPlaceCn": "英格兰多佛",
+    "gender": "male",
+    "dynasty": "House of Blois",
+    "house": "House of Blois",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "King of England",
+    "primaryTitleCn": "英格兰国王",
+    "titles": [
+      {
+        "title": "King of England",
+        "titleCn": "英格兰国王",
+        "startYear": 1135,
+        "endYear": 1154
+      }
+    ],
+    "tags": [
+      "monarch",
+      "noble"
+    ],
+    "rank": "king",
+    "importanceScore": 78,
+    "historicalRating": 7,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Stephen,_King_of_England",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Stephen,_King_of_England",
+    "sourceNote": "King during the Anarchy; succeeded by Henry II under the Treaty of Wallingford.",
+    "notes": "Basic main-line succession card. His parent generation is outside the current roster.",
+    "createdDate": "260818",
+    "createdOrder": 152
+  },
+  {
+    "id": "62f8458b-9497-45fd-8ccc-7930f38c7ae8",
+    "firstName": "Richard",
+    "lastName": "York",
+    "displayName": "Richard III",
+    "fullName": "Richard III of England",
+    "displayNameCn": "理查三世",
+    "fullNameCn": "英格兰国王理查三世",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [
+      "Richard of Gloucester"
+    ],
+    "nicknameTags": [],
+    "birthYear": 1452,
+    "deathYear": 1485,
+    "birthPlace": "Fotheringhay Castle, England",
+    "deathPlace": "Bosworth Field, England",
+    "birthPlaceCn": "英格兰福瑟林盖城堡",
+    "deathPlaceCn": "英格兰博斯沃思原野",
+    "gender": "male",
+    "dynasty": "House of Plantagenet",
+    "house": "House of York",
+    "culture": "English",
+    "faith": "Catholic",
+    "primaryTitle": "King of England",
+    "primaryTitleCn": "英格兰国王",
+    "titles": [
+      {
+        "title": "King of England",
+        "titleCn": "英格兰国王",
+        "startYear": 1483,
+        "endYear": 1485
+      }
+    ],
+    "tags": [
+      "monarch",
+      "commander"
+    ],
+    "rank": "king",
+    "importanceScore": 84,
+    "historicalRating": 8,
+    "relationships": {
+      "fatherId": "1299a0d9-153e-4a1d-a90f-27ae608c44ae",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [],
+    "deathCause": {
+      "kind": "violent",
+      "summary": "Killed at the Battle of Bosworth Field",
+      "summaryCn": "在博斯沃思原野战役中阵亡",
+      "detail": "Richard III was killed in battle on 22 August 1485.",
+      "detailCn": "1485年8月22日，理查三世在战斗中阵亡。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Richard_III_of_England"
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Richard_III_of_England",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Richard_III_of_England",
+    "sourceNote": "Younger brother of Edward IV; last Plantagenet king of England.",
+    "notes": "Basic main-line succession card.",
+    "createdDate": "260818",
+    "createdOrder": 153
+  }
+]

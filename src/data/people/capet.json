@@ -1,0 +1,3613 @@
+[
+  {
+    "id": "6ae9afe1-d639-482e-b9ea-13d27778f842",
+    "firstName": "Louis",
+    "lastName": "Capet",
+    "displayName": "Louis VII",
+    "fullName": "Louis VII the Young, King of the Franks",
+    "nickname": "the Young",
+    "alsoKnownAs": [
+      "Louis the Young"
+    ],
+    "nicknameTags": [],
+    "birthYear": 1120,
+    "deathYear": 1180,
+    "birthPlace": "",
+    "deathPlace": "Paris, France",
+    "birthPlaceCn": "",
+    "deathPlaceCn": "巴黎，法兰西王国",
+    "gender": "male",
+    "dynasty": "House of Capet",
+    "house": "House of Capet",
+    "culture": "French",
+    "faith": "Catholic",
+    "rank": "king",
+    "primaryTitle": "King of the Franks",
+    "primaryTitleCn": "法兰克人国王",
+    "titles": [
+      {
+        "title": "King of the Franks",
+        "startYear": 1137,
+        "endYear": 1180,
+        "titleCn": "法兰克人国王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "crusader"
+    ],
+    "importanceScore": 82,
+    "relationships": {
+      "fatherId": "d2dd406e-702b-425c-b3dc-2dcac8e8163d",
+      "motherId": "",
+      "spouseIds": [
+        "cbb11a70-0b0f-40ca-b9c6-95426b904bf6",
+        "c029f7d9-d6a1-4c57-b2f7-d847392cdbd7"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "f788cb6e-8238-45f7-838c-46768b8dacab",
+        "a7953e51-4bf0-4d2d-916d-ae0bad4f56ce",
+        "7cc009b6-08d8-459b-b40e-2921bf3e4580",
+        "608bccd6-7be9-4a60-9dbd-7187e866df83"
+      ]
+    },
+    "events": [
+      {
+        "year": 1131,
+        "month": 10,
+        "day": 25,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "king",
+          "church"
+        ],
+        "weight": 86,
+        "label": "Co-coronation at Reims",
+        "labelCn": "在兰斯加冕为共治国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Louis_VII_of_France",
+        "note": "Anointed and crowned by Pope Innocent II after the death of his elder brother Philip; commonly dated 25 October 1131."
+      },
+      {
+        "year": 1137,
+        "month": 7,
+        "day": 25,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 92,
+        "label": "Marriage to Eleanor of Aquitaine",
+        "labelCn": "与阿基坦的埃莉诺成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Louis_VII_of_France",
+        "note": "Married at Bordeaux in the wedding arranged by his dying father Louis VI; brought the Duchy of Aquitaine to the crown."
+      },
+      {
+        "year": 1137,
+        "month": 8,
+        "day": 1,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "king",
+          "dynasty"
+        ],
+        "weight": 88,
+        "label": "Accession as King of the Franks",
+        "labelCn": "即位为法兰克人国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Louis_VII_of_France"
+      },
+      {
+        "year": 1137,
+        "month": 12,
+        "day": 25,
+        "type": "coronation",
+        "tags": [
+          "coronation"
+        ],
+        "weight": 80,
+        "label": "Coronation at Bourges; Eleanor crowned queen",
+        "labelCn": "在布尔日加冕，埃莉诺加冕为王后",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Louis_VII_of_France"
+      },
+      {
+        "year": 1142,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "territory",
+          "uncertain"
+        ],
+        "weight": 82,
+        "label": "War with Theobald II of Champagne; burning of Vitry",
+        "labelCn": "与香槟的蒂博二世的战争及维特里大火",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Louis_VII_of_France",
+        "note": "During the 1142-1144 war Louis's troops burned Vitry-en-Perthois; more than 1,500 people perished in the church of the castle — exact date uncertain."
+      },
+      {
+        "year": 1147,
+        "month": 6,
+        "type": "campaign",
+        "tags": [
+          "crusade",
+          "main_commander"
+        ],
+        "weight": 94,
+        "label": "Second Crusade",
+        "labelCn": "第二次十字军东征",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Second_Crusade",
+        "note": "Declared his intention at Bourges (Christmas 1145) and took the cross after Bernard of Clairvaux preached at Vézelay (Easter 1146); set out with Eleanor from Saint-Denis in June 1147."
+      },
+      {
+        "year": 1148,
+        "month": 3,
+        "type": "political_crisis",
+        "tags": [
+          "crusade",
+          "uncertain"
+        ],
+        "weight": 84,
+        "label": "Antioch crisis with Eleanor",
+        "labelCn": "安条克危机：与埃莉诺的争执",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Louis_VII_of_France",
+        "note": "In Antioch Eleanor backed the cause of her uncle Raymond of Poitiers; Louis slipped away secretly for Jerusalem; the failed siege of Damascus followed — the episode is contentious."
+      },
+      {
+        "year": 1152,
+        "month": 3,
+        "day": 21,
+        "type": "annulment",
+        "tags": [
+          "annulment",
+          "church",
+          "marriage"
+        ],
+        "weight": 96,
+        "label": "Annulment of marriage to Eleanor (Council of Beaugency)",
+        "labelCn": "在博让西会议废除与埃莉诺的婚姻",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Louis_VII_of_France",
+        "note": "Marriage annulled for close kinship; Eleanor married Henry of Anjou (the future Henry II of England) on 18 May 1152, sparking the Capetian-Plantagenet rivalry."
+      },
+      {
+        "year": 1154,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 76,
+        "label": "Marriage to Constance of Castile",
+        "labelCn": "与卡斯蒂利亚的康斯坦丝成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Constance_of_Castile",
+        "note": "Constance died in childbirth on 4 October 1160."
+      },
+      {
+        "year": 1160,
+        "month": 11,
+        "day": 13,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 78,
+        "label": "Marriage to Adèle of Champagne",
+        "labelCn": "与香槟的阿黛勒成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ad%C3%A8le_of_Champagne",
+        "note": "Married about five weeks after Constance's death; mother of Philippe II Augustus (born 22 August 1165)."
+      },
+      {
+        "year": 1166,
+        "type": "diplomacy",
+        "tags": [
+          "religion",
+          "diplomacy",
+          "church"
+        ],
+        "weight": 74,
+        "label": "Gave refuge to Thomas Becket",
+        "labelCn": "为托马斯·贝克特提供庇护",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Thomas_Becket",
+        "note": "Becket fled England in 1164; Louis offered him refuge in the royal lands with a pension in 1166; Becket's murder in 1170 deepened distrust between Louis and Henry II."
+      },
+      {
+        "year": 1180,
+        "month": 9,
+        "day": 18,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 85,
+        "label": "Death of Louis VII",
+        "labelCn": "路易七世去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Louis_VII_of_France",
+        "note": "Died in Paris; buried at Barbeau Abbey (remains moved to Saint-Denis in 1817); already stricken with paralysis in his last years."
+      }
+    ],
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died 18 September 1180 in Paris; buried at Barbeau Abbey.",
+      "detail": "Already stricken with paralysis in his final years; later sources often give apoplexy (stroke) as the cause. His remains were moved to the Basilica of Saint-Denis in 1817.",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Louis_VII_of_France",
+      "summaryCn": "1180年9月18日卒于巴黎，葬于巴尔博修道院。",
+      "detailCn": "晚年已患瘫痪，后世史料常称其死于中风。1817年遗骸迁葬圣但尼圣殿。"
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Louis_VII_of_France",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Louis_VII_of_France",
+    "sourceNote": "King of the Franks 1137-1180; second Capetian monarch to take the cross; husband of Eleanor of Aquitaine and Adèle of Champagne.",
+    "notes": "Louis VII the Young; the canonical title is King of the Franks, while the later King of France wording remains an alias/contextual modern usage. His annulment from Eleanor of Aquitaine (1152) and her remarriage to Henry II of England began the long Capetian-Plantagenet struggle. Leader of the Second Crusade (1147-1149). His son by Adèle of Champagne, Philippe II Augustus, succeeded him. Birthplace unknown.",
+    "createdDate": "260814",
+    "createdOrder": 24,
+    "displayNameCn": "路易七世",
+    "fullNameCn": "法兰克人国王路易七世·年轻的",
+    "nicknameCn": "年轻的",
+    "historicalRating": 8
+  },
+  {
+    "id": "f788cb6e-8238-45f7-838c-46768b8dacab",
+    "firstName": "Marie",
+    "lastName": "Capet",
+    "displayName": "Marie de France",
+    "fullName": "Marie de France, Countess of Champagne",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Marie of France"
+    ],
+    "nicknameTags": [],
+    "birthYear": 1145,
+    "deathYear": 1198,
+    "birthPlace": "",
+    "deathPlace": "County of Champagne, France",
+    "birthPlaceCn": "",
+    "deathPlaceCn": "香槟伯国，法兰西",
+    "gender": "female",
+    "dynasty": "House of Capet",
+    "house": "House of Capet",
+    "culture": "French",
+    "faith": "Catholic",
+    "rank": "count",
+    "primaryTitle": "Countess of Champagne",
+    "primaryTitleCn": "香槟伯爵夫人",
+    "titles": [
+      {
+        "title": "Countess of Champagne",
+        "startYear": 1164,
+        "endYear": 1198,
+        "titleCn": "香槟伯爵夫人"
+      }
+    ],
+    "tags": [
+      "noble",
+      "consort"
+    ],
+    "importanceScore": 54,
+    "relationships": {
+      "fatherId": "6ae9afe1-d639-482e-b9ea-13d27778f842",
+      "motherId": "cbb11a70-0b0f-40ca-b9c6-95426b904bf6",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1164,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 86,
+        "label": "Marriage to Henry I of Champagne",
+        "labelCn": "与香槟伯爵亨利一世成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Marie_of_France,_Countess_of_Champagne",
+        "note": "Betrothed in 1153; the marriage is commonly dated 1164, though a 1159 charter already names her countess of Troyes — date uncertain."
+      },
+      {
+        "year": 1181,
+        "type": "regency",
+        "tags": [
+          "regency",
+          "government"
+        ],
+        "weight": 88,
+        "label": "Regency of Champagne for son Henry II",
+        "labelCn": "为儿子亨利二世摄政香槟",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Marie_of_France,_Countess_of_Champagne",
+        "note": "Regent for her minor son Henry II from 1181 until 1187; she had also governed Champagne during Henry I's pilgrimage (1179-1181)."
+      },
+      {
+        "year": 1190,
+        "type": "regency",
+        "tags": [
+          "regency",
+          "government",
+          "crusade"
+        ],
+        "weight": 76,
+        "label": "Second regency during the Third Crusade",
+        "labelCn": "第三次十字军东征期间的再度摄政",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Marie_of_France,_Countess_of_Champagne",
+        "note": "Governed Champagne 1190-1197 while her son Henry II took part in the Third Crusade; Henry II died in 1197."
+      },
+      {
+        "year": 1198,
+        "month": 3,
+        "day": 11,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 90,
+        "label": "Death of Marie of France",
+        "labelCn": "法兰西的玛丽去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Marie_of_France,_Countess_of_Champagne",
+        "note": "Died 11 March 1198, not long after the news of her son's death; buried in Meaux Cathedral (her tomb was destroyed by rioting Huguenots in 1562)."
+      }
+    ],
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died 11 March 1198 in the County of Champagne.",
+      "detail": "Died not long after the news of the death of her son Henry II of Champagne (1197); buried in Meaux Cathedral, though her tomb was destroyed by rioting Huguenots in 1562.",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Marie_of_France,_Countess_of_Champagne",
+      "summaryCn": "1198年3月11日卒于香槟伯国。",
+      "detailCn": "在得知其子香槟伯爵亨利二世（1197年卒）的死讯后不久去世；葬于莫城大教堂，墓冢于1562年毁于胡格诺派暴乱。"
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Marie_of_France,_Countess_of_Champagne",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Marie_of_France,_Countess_of_Champagne",
+    "sourceNote": "Daughter of Louis VII and Eleanor of Aquitaine; married Henry I, Count of Champagne.",
+    "notes": "Capetian princess and Countess of Champagne; her marriage links the French royal line to the House of Champagne. IMPORTANT DISTINCTION: this is Marie of France, Countess of Champagne (1145-1198), daughter of Louis VII and Eleanor of Aquitaine — NOT the 12th-century poet Marie de France, author of the Lais. This Marie was herself a celebrated patron of courtly literature: she commissioned Chrétien de Troyes's Lancelot (Le Chevalier de la Charrette) and supported Andreas Capellanus. Her birth was hailed as a 'miracle' by Bernard of Clairvaux. Henry I of Champagne is not in the roster, so no spouse link is set.",
+    "createdDate": "260814",
+    "createdOrder": 25,
+    "displayNameCn": "法兰西的玛丽",
+    "fullNameCn": "法兰西的玛丽，香槟伯爵夫人",
+    "historicalRating": 5
+  },
+  {
+    "id": "a7953e51-4bf0-4d2d-916d-ae0bad4f56ce",
+    "firstName": "Alix",
+    "lastName": "Capet",
+    "displayName": "Alix de France",
+    "fullName": "Alix de France, Countess of Blois",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Alix of France"
+    ],
+    "nicknameTags": [],
+    "birthYear": 1150,
+    "deathYear": 1197,
+    "birthPlace": "",
+    "deathPlace": "",
+    "birthPlaceCn": "",
+    "deathPlaceCn": "",
+    "gender": "female",
+    "dynasty": "House of Capet",
+    "house": "House of Capet",
+    "culture": "French",
+    "faith": "Catholic",
+    "rank": "count",
+    "primaryTitle": "Countess of Blois",
+    "primaryTitleCn": "布卢瓦伯爵夫人",
+    "titles": [
+      {
+        "title": "Countess of Blois",
+        "startYear": 1164,
+        "endYear": 1197,
+        "titleCn": "布卢瓦伯爵夫人"
+      }
+    ],
+    "tags": [
+      "noble",
+      "consort"
+    ],
+    "importanceScore": 52,
+    "relationships": {
+      "fatherId": "6ae9afe1-d639-482e-b9ea-13d27778f842",
+      "motherId": "cbb11a70-0b0f-40ca-b9c6-95426b904bf6",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1164,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 86,
+        "label": "Marriage to Theobald V of Blois",
+        "labelCn": "与布卢瓦伯爵蒂博五世成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Alix_of_France,_Countess_of_Blois",
+        "note": "Married at age 14; Theobald had earlier attempted to abduct Alix's mother Eleanor; her sister Marie married Theobald's brother Henry of Champagne the same year."
+      },
+      {
+        "year": 1190,
+        "type": "regency",
+        "tags": [
+          "regency",
+          "government"
+        ],
+        "weight": 74,
+        "label": "Regent of Blois during Theobald's absence",
+        "labelCn": "蒂博五世外出期间摄政布卢瓦",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Alix_of_France,_Countess_of_Blois",
+        "note": "Served as regent of Blois while Theobald was absent in 1190-1191 (Third Crusade)."
+      },
+      {
+        "year": 1191,
+        "type": "campaign",
+        "tags": [
+          "crusade",
+          "uncertain"
+        ],
+        "weight": 80,
+        "label": "Third Crusade: Theobald V dies at Acre",
+        "labelCn": "第三次十字军东征：蒂博五世死于阿卡",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Alix_of_France,_Countess_of_Blois",
+        "note": "Theobald V died at Acre in 1191 on the Third Crusade; some accounts place Alix with the crusade army (uncertain). She then ruled as regent for her son Louis until 1197."
+      },
+      {
+        "year": 1197,
+        "type": "death",
+        "tags": [
+          "death",
+          "uncertain"
+        ],
+        "weight": 90,
+        "label": "Death of Alix of France",
+        "labelCn": "法兰西的阿利克斯去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Alix_of_France,_Countess_of_Blois",
+        "note": "Died in 1197 or 1198 — exact year uncertain; some accounts say she was buried at Pontigny Abbey."
+      }
+    ],
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died in 1197 or 1198; exact year uncertain.",
+      "detail": "Sources give c. 1197/98; some accounts say she was buried at Pontigny Abbey.",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Alix_of_France,_Countess_of_Blois",
+      "summaryCn": "卒于1197年或1198年，确切年份不详。",
+      "detailCn": "史料记载为约1197/98年；有说法称其葬于蓬蒂尼修道院。"
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Alix_of_France,_Countess_of_Blois",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Alix_of_France,_Countess_of_Blois",
+    "sourceNote": "Daughter of Louis VII and Eleanor of Aquitaine; married Theobald V, Count of Blois.",
+    "notes": "Capetian princess and Countess of Blois; her marriage links the French royal line to the House of Blois. Born July-August 1150, she was named after her aunt Petronilla of Aquitaine, who was known as 'Alix'. Her parents' marriage was annulled in 1152 but she and her sister Marie remained legitimate. Her children include Louis I of Blois (participant in the Fourth Crusade). Theobald V of Blois is not in the roster, so no spouse link is set.",
+    "createdDate": "260814",
+    "createdOrder": 26,
+    "displayNameCn": "法兰西的阿利克斯",
+    "fullNameCn": "法兰西的阿利克斯，布卢瓦伯爵夫人",
+    "historicalRating": 5
+  },
+  {
+    "id": "6f92645c-bd9a-414d-9402-749dce748343",
+    "firstName": "Hugues",
+    "lastName": "Capet",
+    "displayName": "Hugues Capet",
+    "fullName": "Hugues Capet, King of the Franks",
+    "nickname": "Capet",
+    "alsoKnownAs": [
+      "Hugh Capet",
+      "Hugo Capet"
+    ],
+    "nicknameTags": [],
+    "birthYear": 941,
+    "deathYear": 996,
+    "birthPlace": "Paris, West Francia",
+    "deathPlace": "Les Juifs, West Francia",
+    "birthPlaceCn": "巴黎，西法兰克王国",
+    "deathPlaceCn": "莱瑞夫（普拉斯维尔附近），西法兰克王国",
+    "gender": "male",
+    "dynasty": "House of Capet",
+    "house": "House of Capet",
+    "culture": "French",
+    "faith": "Catholic",
+    "rank": "king",
+    "primaryTitle": "King of the Franks",
+    "primaryTitleCn": "法兰克人国王",
+    "titles": [
+      {
+        "title": "Duke of the Franks",
+        "startYear": 956,
+        "endYear": 987,
+        "titleCn": "法兰克公爵"
+      },
+      {
+        "title": "King of the Franks",
+        "startYear": 987,
+        "endYear": 996,
+        "titleCn": "法兰克人国王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "noble"
+    ],
+    "importanceScore": 78,
+    "relationships": {
+      "fatherId": "ea16a35b-9d3b-44c8-b8c3-72598e0e4362",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "fb8cf6a9-fad8-46e6-87aa-99dd01fe3ce9"
+      ]
+    },
+    "events": [
+      {
+        "year": 956,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "duke"
+        ],
+        "weight": 88,
+        "label": "Succeeded Hugh the Great as Duke of the Franks",
+        "labelCn": "继承强者于格成为法兰克公爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Hugh_Capet",
+        "note": "Hugh the Great died in 956; Hugh Capet succeeded him as Duke of the Franks (Duke of Francia) and Count of Paris."
+      },
+      {
+        "year": 970,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 74,
+        "label": "Marriage to Adelaide of Aquitaine",
+        "labelCn": "与阿基坦的阿德莱德成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Hugh_Capet",
+        "note": "Daughter of William III Towhead, Count of Poitou; date approximate (c. 969-970)."
+      },
+      {
+        "year": 978,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "defense",
+          "uncertain"
+        ],
+        "weight": 80,
+        "label": "Defence of Paris against Otto II",
+        "labelCn": "抵御奥托二世对巴黎的围攻",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Hugh_Capet",
+        "note": "Helped repel the imperial army of Emperor Otto II besieging Paris; his personal role is uncertain."
+      },
+      {
+        "year": 987,
+        "month": 5,
+        "day": 22,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "king",
+          "monarch"
+        ],
+        "weight": 96,
+        "label": "Elected King of the Franks at Senlis",
+        "labelCn": "在桑利斯被选为法兰克人国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Hugh_Capet",
+        "note": "Assembly at Senlis promoted by Archbishop Adalberon of Reims; the exact day is traditional."
+      },
+      {
+        "year": 987,
+        "month": 7,
+        "day": 3,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "king",
+          "church"
+        ],
+        "weight": 95,
+        "label": "Coronation at Noyon",
+        "labelCn": "在努瓦永加冕",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Hugh_Capet",
+        "note": "Wikipedia gives the coronation as 1 June at Noyon with a second ceremony on 3 July in Paris; the traditional date is 3 July 987 at Noyon."
+      },
+      {
+        "year": 987,
+        "month": 12,
+        "day": 25,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "dynasty",
+          "succession"
+        ],
+        "weight": 84,
+        "label": "Co-coronation of son Robert as co-king",
+        "labelCn": "为儿子罗贝尔举行共治国王加冕",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Robert_II_of_France",
+        "note": "Robert was crowned co-king at Orléans on 25 December 987 (some accounts give 30 December)."
+      },
+      {
+        "year": 991,
+        "type": "political_crisis",
+        "tags": [
+          "rebellion",
+          "imprisonment"
+        ],
+        "weight": 82,
+        "label": "Capture of rival Charles of Lorraine",
+        "labelCn": "俘获王位竞争者洛林公爵夏尔",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Hugh_Capet",
+        "note": "Charles of Lower Lorraine, claimant to the throne since 987, was seized at Laon by Bishop Adalberon and handed to Hugh; imprisoned at Orléans."
+      },
+      {
+        "year": 993,
+        "type": "rebellion",
+        "tags": [
+          "rebellion",
+          "uncertain"
+        ],
+        "weight": 78,
+        "label": "Conspiracy of Adalberon of Laon and Odo I of Blois",
+        "labelCn": "拉昂主教阿达尔贝龙与布卢瓦伯爵厄德一世的密谋",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Hugh_Capet",
+        "note": "A plot to deliver Hugh Capet into the custody of Emperor Otto III; it failed and went unpunished."
+      },
+      {
+        "year": 994,
+        "type": "religion",
+        "tags": [
+          "religion",
+          "church"
+        ],
+        "weight": 76,
+        "label": "Patron of monastic reform",
+        "labelCn": "赞助修道院改革",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Hugh_Capet",
+        "note": "Supported the Cluniac reform movement and monasteries such as Cluny, Fleury and Saint-Denis."
+      },
+      {
+        "year": 996,
+        "month": 10,
+        "day": 24,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 92,
+        "label": "Death of Hugh Capet",
+        "labelCn": "于格·卡佩去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Hugh_Capet",
+        "note": "Died at Les Juifs, near Prasville; interred at the Basilica of Saint-Denis."
+      }
+    ],
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died 24 October 996 at Les Juifs, near Prasville (some accounts say Paris).",
+      "detail": "Wikipedia records no cause of death; later accounts sometimes attribute it to smallpox. Buried at the Basilica of Saint-Denis.",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Hugh_Capet",
+      "summaryCn": "996年10月24日卒于莱瑞夫（普拉斯维尔附近），也有记载称卒于巴黎。",
+      "detailCn": "维基百科未载死因，后世个别记载称其死于天花。葬于圣但尼圣殿。"
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Hugh_Capet",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Capetian_dynasty",
+    "sourceNote": "Founder of the Capetian dynasty; the direct line here follows the father-to-son succession to Louis VII.",
+    "notes": "Elected King of the Franks in 987; ancestor of the French royal line represented by Louis VII. Founder of the House of Capet, which ruled France (in direct and cadet lines) until 1848. Birth is commonly dated c. 939-941 (birthYear field holds 941). His father Hugh the Great is in the roster; his mother Hedwige of Saxony and wife Adelaide of Aquitaine are not.",
+    "createdDate": "260817",
+    "createdOrder": 59,
+    "displayNameCn": "雨果·卡佩",
+    "fullNameCn": "法兰克人国王雨果·卡佩",
+    "nicknameCn": "卡佩",
+    "historicalRating": 8
+  },
+  {
+    "id": "fb8cf6a9-fad8-46e6-87aa-99dd01fe3ce9",
+    "firstName": "Robert",
+    "lastName": "Capet",
+    "displayName": "Robert II",
+    "fullName": "Robert II, King of the Franks",
+    "nickname": "the Pious",
+    "alsoKnownAs": [
+      "Robert the Pious",
+      "Robert le Pieux"
+    ],
+    "nicknameTags": [],
+    "birthYear": 972,
+    "deathYear": 1031,
+    "birthPlace": "Orléans, West Francia",
+    "deathPlace": "Melun, France",
+    "birthPlaceCn": "奥尔良，西法兰克王国",
+    "deathPlaceCn": "默伦，法兰西王国",
+    "gender": "male",
+    "dynasty": "House of Capet",
+    "house": "House of Capet",
+    "culture": "French",
+    "faith": "Catholic",
+    "rank": "king",
+    "primaryTitle": "King of the Franks",
+    "primaryTitleCn": "法兰克人国王",
+    "titles": [
+      {
+        "title": "King of the Franks",
+        "startYear": 996,
+        "endYear": 1031,
+        "titleCn": "法兰克人国王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "noble"
+    ],
+    "importanceScore": 70,
+    "relationships": {
+      "fatherId": "6f92645c-bd9a-414d-9402-749dce748343",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "067aff89-074c-4f6c-80e8-9bd741741f88"
+      ]
+    },
+    "events": [
+      {
+        "year": 987,
+        "month": 12,
+        "day": 25,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "king"
+        ],
+        "weight": 88,
+        "label": "Co-coronation as co-king at Orléans",
+        "labelCn": "在奥尔良加冕为共治国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Robert_II_of_France",
+        "note": "Crowned by the Archbishop of Reims at Sainte-Croix Cathedral, Orléans; some accounts give 30 December."
+      },
+      {
+        "year": 996,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "king"
+        ],
+        "weight": 86,
+        "label": "Became sole king on the death of Hugh Capet",
+        "labelCn": "于格·卡佩去世后继位为唯一国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Robert_II_of_France"
+      },
+      {
+        "year": 996,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "annulment",
+          "church"
+        ],
+        "weight": 74,
+        "label": "Marriage to Bertha of Burgundy",
+        "labelCn": "与勃艮第的贝尔塔成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Bertha_of_Burgundy",
+        "note": "Married in November/December 996; councils at Pavia (997) and Rome (998) condemned the consanguineous union; the couple separated in September 1001."
+      },
+      {
+        "year": 1001,
+        "type": "annulment",
+        "tags": [
+          "annulment",
+          "church"
+        ],
+        "weight": 80,
+        "label": "Annulment of marriage to Bertha",
+        "labelCn": "与贝尔塔的婚姻被废除",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Bertha_of_Burgundy",
+        "note": "Marriage annulled in 1001 for consanguinity; Wikipedia notes the pope never actually promulgated the threatened excommunication."
+      },
+      {
+        "year": 1003,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 76,
+        "label": "Marriage to Constance of Arles",
+        "labelCn": "与阿尔勒的康斯坦丝成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Constance_of_Arles",
+        "note": "Marriage contracted after October 1002 and before August 1004; conventionally dated 1003."
+      },
+      {
+        "year": 1003,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "territory",
+          "duke"
+        ],
+        "weight": 78,
+        "label": "Burgundian succession war",
+        "labelCn": "勃艮第继承战争",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Robert_II_of_France",
+        "note": "After Duke Henry I of Burgundy died in 1002, Robert campaigned in Burgundy (siege of Beaune 1004; Avallon and Auxerre 1005); Otto-William renounced the duchy by the agreements of 1005-1006."
+      },
+      {
+        "year": 1030,
+        "type": "political_crisis",
+        "tags": [
+          "rebellion"
+        ],
+        "weight": 72,
+        "label": "Revolt of sons Henry and Robert",
+        "labelCn": "儿子亨利与罗贝尔的叛乱",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_I_of_France",
+        "note": "Around 1030 his sons Henry and Robert revolted, most likely intriguing with their mother Constance."
+      },
+      {
+        "year": 1031,
+        "month": 7,
+        "day": 20,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 84,
+        "label": "Death of Robert II",
+        "labelCn": "罗贝尔二世去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Robert_II_of_France",
+        "note": "Died at his residence in Melun of an overwhelming fever; buried at the Basilica of Saint-Denis."
+      }
+    ],
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died 20 July 1031 at Melun of an overwhelming fever.",
+      "detail": "Died at his residence in Melun; buried at the Basilica of Saint-Denis.",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Robert_II_of_France",
+      "summaryCn": "1031年7月20日因高烧卒于默伦。",
+      "detailCn": "卒于默伦的居所，葬于圣但尼圣殿。"
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Robert_II_of_France",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Capetian_dynasty",
+    "sourceNote": "Son and successor of Hugh Capet; father of Henry I of France.",
+    "notes": "Known as Robert the Pious; his reign continued the early Capetian succession. Son of Hugh Capet and Adelaide of Aquitaine. His three marriages (Rozala of Italy, Bertha of Burgundy, Constance of Arles) all involved consanguinity disputes; the annulment of the Bertha marriage was an early clash between the Capetian crown and the papacy. Exact birth year uncertain (c. 972).",
+    "createdDate": "260817",
+    "createdOrder": 60,
+    "displayNameCn": "罗贝尔二世",
+    "fullNameCn": "法兰克人国王罗贝尔二世",
+    "nicknameCn": "虔诚者",
+    "historicalRating": 7
+  },
+  {
+    "id": "067aff89-074c-4f6c-80e8-9bd741741f88",
+    "firstName": "Henri",
+    "lastName": "Capet",
+    "displayName": "Henri I",
+    "fullName": "Henri I, King of the Franks",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Henry I of France",
+      "Henry I"
+    ],
+    "nicknameTags": [],
+    "birthYear": 1008,
+    "deathYear": 1060,
+    "birthPlace": "Reims, France",
+    "deathPlace": "Vitry-aux-Loges, France",
+    "birthPlaceCn": "兰斯，法兰西王国",
+    "deathPlaceCn": "维特里欧洛日，法兰西王国",
+    "gender": "male",
+    "dynasty": "House of Capet",
+    "house": "House of Capet",
+    "culture": "French",
+    "faith": "Catholic",
+    "rank": "king",
+    "primaryTitle": "King of the Franks",
+    "primaryTitleCn": "法兰克人国王",
+    "titles": [
+      {
+        "title": "Duke of Burgundy",
+        "startYear": 1016,
+        "endYear": 1032,
+        "titleCn": "勃艮第公爵"
+      },
+      {
+        "title": "King of the Franks",
+        "startYear": 1031,
+        "endYear": 1060,
+        "titleCn": "法兰克人国王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "noble"
+    ],
+    "importanceScore": 68,
+    "relationships": {
+      "fatherId": "fb8cf6a9-fad8-46e6-87aa-99dd01fe3ce9",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "2c6c9731-0d2d-466b-8310-7c9705d14891"
+      ]
+    },
+    "events": [
+      {
+        "year": 1016,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "duke"
+        ],
+        "weight": 74,
+        "label": "Became Duke of Burgundy",
+        "labelCn": "受封勃艮第公爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_I_of_France",
+        "note": "Received the duchy of Burgundy from his father Robert II in 1016; held it until 1032."
+      },
+      {
+        "year": 1027,
+        "month": 5,
+        "day": 14,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "king"
+        ],
+        "weight": 84,
+        "label": "Coronation as co-king at Reims",
+        "labelCn": "在兰斯加冕为共治国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_I_of_France",
+        "note": "Crowned co-king at Reims on 14 May 1027 while his father still lived."
+      },
+      {
+        "year": 1031,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "king",
+          "rebellion"
+        ],
+        "weight": 88,
+        "label": "Accession as King of the Franks",
+        "labelCn": "即位为法兰克人国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_I_of_France",
+        "note": "Succeeded his father on 20 July 1031; his mother Constance supported his younger brother Robert as a rival candidate."
+      },
+      {
+        "year": 1032,
+        "type": "diplomacy",
+        "tags": [
+          "diplomacy",
+          "succession",
+          "duke",
+          "dynasty"
+        ],
+        "weight": 78,
+        "label": "Settlement with brother Robert: grant of Burgundy",
+        "labelCn": "将勃艮第让予弟弟罗贝尔以平息争端",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_I_of_France",
+        "note": "Gave the Duchy of Burgundy to his brother Robert as an appanage in 1032; the peace is sometimes dated 1034."
+      },
+      {
+        "year": 1043,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance",
+          "uncertain"
+        ],
+        "weight": 82,
+        "label": "Marriage to Anne of Kiev",
+        "labelCn": "与基辅的安娜成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Anne_of_Kiev",
+        "note": "Traditional date 19 May 1051; some modern scholars argue for an earlier marriage, c. 1043-1049 — year uncertain."
+      },
+      {
+        "year": 1054,
+        "month": 2,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "main_commander",
+          "defeat"
+        ],
+        "weight": 86,
+        "label": "Battle of Mortemer",
+        "labelCn": "莫尔特默战役",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Mortemer",
+        "note": "Invaded Normandy but was defeated by William (the future Conqueror)."
+      },
+      {
+        "year": 1057,
+        "month": 8,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "main_commander",
+          "defeat"
+        ],
+        "weight": 80,
+        "label": "Battle of Varaville",
+        "labelCn": "瓦拉维尔战役",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Varaville",
+        "note": "Second defeat in Normandy; William caught Henry's army crossing the river Dives."
+      },
+      {
+        "year": 1060,
+        "month": 8,
+        "day": 4,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 90,
+        "label": "Death of Henry I",
+        "labelCn": "亨利一世去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_I_of_France",
+        "note": "Died at Vitry-aux-Loges (the Wikipedia article text says Vitry-en-Brie) while besieging Thimert; buried at the Basilica of Saint-Denis."
+      }
+    ],
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died 4 August 1060 at Vitry-aux-Loges while besieging Thimert.",
+      "detail": "Cause of death not recorded; Wikipedia infobox gives Vitry-aux-Loges, article text gives Vitry-en-Brie. Buried at the Basilica of Saint-Denis.",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Henry_I_of_France",
+      "summaryCn": "1060年8月4日围攻蒂梅尔时卒于维特里欧洛日。",
+      "detailCn": "死因未见记载；维基百科信息框写作维特里欧洛日，正文写作维特里昂布里。葬于圣但尼圣殿。"
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Henry_I_of_France",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Capetian_dynasty",
+    "sourceNote": "Son of Robert II and father of Philip I of France.",
+    "notes": "The French form Henri is used for the Capetian canonical display name; Henry I remains an English alias. His marriage to Anne of Kiev (traditional date 19 May 1051; earlier dating argued by some scholars) brought a princess of the Rurikid house of Kievan Rus' to France; she was the mother of Philippe I and acted as regent after Henri's death. His reign saw two failed invasions of Normandy (Mortemer 1054, Varaville 1057) against the rising William of Normandy.",
+    "createdDate": "260817",
+    "createdOrder": 61,
+    "displayNameCn": "亨利一世",
+    "fullNameCn": "法兰克人国王亨利一世",
+    "historicalRating": 7
+  },
+  {
+    "id": "2c6c9731-0d2d-466b-8310-7c9705d14891",
+    "firstName": "Philippe",
+    "lastName": "Capet",
+    "displayName": "Philippe I",
+    "fullName": "Philippe I, King of the Franks",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Philip I of France",
+      "Philip I"
+    ],
+    "nicknameTags": [],
+    "birthYear": 1052,
+    "deathYear": 1108,
+    "birthPlace": "Champagne-et-Fontaine, France",
+    "deathPlace": "Melun, France",
+    "birthPlaceCn": "香槟-枫丹，法兰西王国",
+    "deathPlaceCn": "默伦，法兰西王国",
+    "gender": "male",
+    "dynasty": "House of Capet",
+    "house": "House of Capet",
+    "culture": "French",
+    "faith": "Catholic",
+    "rank": "king",
+    "primaryTitle": "King of the Franks",
+    "primaryTitleCn": "法兰克人国王",
+    "titles": [
+      {
+        "title": "King of the Franks",
+        "startYear": 1060,
+        "endYear": 1108,
+        "titleCn": "法兰克人国王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "noble"
+    ],
+    "importanceScore": 72,
+    "relationships": {
+      "fatherId": "067aff89-074c-4f6c-80e8-9bd741741f88",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "d2dd406e-702b-425c-b3dc-2dcac8e8163d"
+      ]
+    },
+    "events": [
+      {
+        "year": 1059,
+        "month": 5,
+        "day": 23,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "king"
+        ],
+        "weight": 88,
+        "label": "Co-coronation at Reims",
+        "labelCn": "在兰斯加冕为共治国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Philip_I_of_France",
+        "note": "Crowned co-king at Reims on 23 May 1059 at about age seven."
+      },
+      {
+        "year": 1060,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "king",
+          "regency"
+        ],
+        "weight": 86,
+        "label": "Accession; regency of Anne of Kiev and Baldwin V of Flanders",
+        "labelCn": "即位；基辅的安娜与佛兰德的鲍德温五世摄政",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Philip_I_of_France",
+        "note": "Became king on 4 August 1060; his mother Anne of Kiev and Baldwin V of Flanders acted as regents until about 1067."
+      },
+      {
+        "year": 1071,
+        "month": 2,
+        "day": 22,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "defeat"
+        ],
+        "weight": 82,
+        "label": "Battle of Cassel",
+        "labelCn": "卡塞尔战役",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Cassel",
+        "note": "Intervened in the Flemish succession supporting Richilda of Flanders and was defeated by Robert the Frisian."
+      },
+      {
+        "year": 1072,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 70,
+        "label": "Marriage to Bertha of Holland",
+        "labelCn": "与荷兰的贝尔塔成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Bertha_of_Holland",
+        "note": "Bertha, mother of Louis VI, was repudiated in 1092."
+      },
+      {
+        "year": 1092,
+        "month": 5,
+        "day": 15,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "church",
+          "uncertain"
+        ],
+        "weight": 80,
+        "label": "Marriage to Bertrade de Montfort",
+        "labelCn": "与蒙福尔的贝特蕾德成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Bertrade_de_Montfort",
+        "note": "Repudiated Bertha of Holland (allegedly claiming she was too fat) and married Bertrade on 15 May 1092 while she was still married to Fulk IV of Anjou; led to conflict with the Church."
+      },
+      {
+        "year": 1095,
+        "month": 11,
+        "type": "religion",
+        "tags": [
+          "religion",
+          "church"
+        ],
+        "weight": 84,
+        "label": "Excommunication by Pope Urban II",
+        "labelCn": "被教皇乌尔班二世处以绝罚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Philip_I_of_France",
+        "note": "First banned by Hugh of Die in 1094; the sentence was renewed at the Council of Clermont (November 1095); Philip was absolved after a public penance in 1104."
+      },
+      {
+        "year": 1096,
+        "type": "campaign",
+        "tags": [
+          "crusade",
+          "uncertain"
+        ],
+        "weight": 76,
+        "label": "Absent from the First Crusade",
+        "labelCn": "未参加第一次十字军东征",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Philip_I_of_France",
+        "note": "Philip did not take the cross, unlike his brother Hugh of Vermandois who was a major participant; troops from his demesne did join the crusade."
+      },
+      {
+        "year": 1108,
+        "month": 7,
+        "day": 29,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 90,
+        "label": "Death of Philip I",
+        "labelCn": "腓力一世去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Philip_I_of_France",
+        "note": "Died at the castle of Melun; buried at Fleury Abbey, Saint-Benoît-sur-Loire, at his own request, rather than at Saint-Denis."
+      }
+    ],
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died 29 July 1108 at the castle of Melun.",
+      "detail": "Abbot Suger records that the king 'daily grew feebler'; no specific cause is given. Buried at Fleury Abbey (Saint-Benoît-sur-Loire) at his own request, not at Saint-Denis.",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Philip_I_of_France",
+      "summaryCn": "1108年7月29日卒于默伦城堡。",
+      "detailCn": "叙热修道院长记载国王“日渐衰弱”，无具体死因。按本人遗愿葬于弗勒里修道院（圣伯努瓦-卢瓦尔），而非圣但尼。"
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Philip_I_of_France",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Capetian_dynasty",
+    "sourceNote": "Son of Henry I and father of Louis VI of France.",
+    "notes": "The French form Philippe is used for the canonical display name; Philip I remains an English alias. His marriage to Bertrade de Montfort led to excommunication and a long conflict with the Church; he was the first Capetian king not buried at Saint-Denis. He did not take part in the First Crusade, and his reign saw the gradual encroachment of Norman (Anglo-Norman) power in the Vexin and elsewhere.",
+    "createdDate": "260817",
+    "createdOrder": 62,
+    "displayNameCn": "腓力一世",
+    "fullNameCn": "法兰克人国王腓力一世",
+    "historicalRating": 7
+  },
+  {
+    "id": "d2dd406e-702b-425c-b3dc-2dcac8e8163d",
+    "firstName": "Louis",
+    "lastName": "Capet",
+    "displayName": "Louis VI",
+    "fullName": "Louis VI, King of the Franks",
+    "nickname": "the Fat",
+    "alsoKnownAs": [
+      "Louis the Fat",
+      "Louis le Gros"
+    ],
+    "nicknameTags": [],
+    "birthYear": 1081,
+    "deathYear": 1137,
+    "birthPlace": "Paris, France",
+    "deathPlace": "Béthisy-Saint-Pierre, France",
+    "birthPlaceCn": "巴黎，法兰西王国",
+    "deathPlaceCn": "贝蒂西-圣皮埃尔，法兰西王国",
+    "gender": "male",
+    "dynasty": "House of Capet",
+    "house": "House of Capet",
+    "culture": "French",
+    "faith": "Catholic",
+    "rank": "king",
+    "primaryTitle": "King of the Franks",
+    "primaryTitleCn": "法兰克人国王",
+    "titles": [
+      {
+        "title": "King of the Franks",
+        "startYear": 1108,
+        "endYear": 1137,
+        "titleCn": "法兰克人国王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "noble"
+    ],
+    "importanceScore": 74,
+    "relationships": {
+      "fatherId": "2c6c9731-0d2d-466b-8310-7c9705d14891",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "6ae9afe1-d639-482e-b9ea-13d27778f842"
+      ]
+    },
+    "events": [
+      {
+        "year": 1108,
+        "month": 8,
+        "day": 3,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "king",
+          "coronation"
+        ],
+        "weight": 88,
+        "label": "Accession and coronation at Orléans",
+        "labelCn": "即位并在奥尔良加冕",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Louis_VI_of_France",
+        "note": "Became king on 29 July 1108 and was crowned at Orléans on 3 August by Daimbert of Sens, as his half-brother blocked the route to Reims."
+      },
+      {
+        "year": 1111,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "pacification",
+          "territory"
+        ],
+        "weight": 78,
+        "label": "Wars against robber barons and royal-domain consolidation",
+        "labelCn": "讨伐盗匪贵族、巩固王室领地",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Louis_VI_of_France",
+        "note": "Campaigns against Hugh of Crécy, Aymon Vaire-Vache and repeated sieges of Hugh of Le Puiset (1111-1113); Louis often led in person."
+      },
+      {
+        "year": 1115,
+        "month": 8,
+        "day": 3,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 72,
+        "label": "Marriage to Adélaide de Maurienne",
+        "labelCn": "与莫里耶讷的阿代拉伊德成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Adelaide_of_Maurienne",
+        "note": "Married Adelaide, daughter of Humbert II of Savoy, on 3 August 1115; mother of his eight children."
+      },
+      {
+        "year": 1119,
+        "month": 8,
+        "day": 20,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "main_commander",
+          "defeat"
+        ],
+        "weight": 86,
+        "label": "Battle of Brémule",
+        "labelCn": "布雷米勒战役",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Br%C3%A9mule",
+        "note": "Backing William Clito's claims in the war with Henry I of England over Gisors and Normandy, Louis's troops were routed at Brémule."
+      },
+      {
+        "year": 1124,
+        "month": 8,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "defense",
+          "monarch"
+        ],
+        "weight": 84,
+        "label": "Imperial invasion of Henry V repelled at Reims",
+        "labelCn": "在兰斯挫败神圣罗马皇帝亨利五世的入侵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Louis_VI_of_France",
+        "note": "Henry V of Germany assembled an army to march on Reims, but the invasion was abandoned after the French nobility rallied behind Louis."
+      },
+      {
+        "year": 1127,
+        "type": "diplomacy",
+        "tags": [
+          "diplomacy",
+          "succession",
+          "monarch"
+        ],
+        "weight": 82,
+        "label": "Intervention in Flanders",
+        "labelCn": "干预佛兰德事务",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Louis_VI_of_France",
+        "note": "After the murder of Charles the Good (2 March 1127), Louis took Ghent, Bruges and Ypres and backed William Clito as Count; after Clito's death in 1128 Louis confirmed Thierry of Alsace."
+      },
+      {
+        "year": 1137,
+        "month": 7,
+        "day": 25,
+        "type": "diplomacy",
+        "tags": [
+          "dynastic_alliance",
+          "diplomacy",
+          "marriage"
+        ],
+        "weight": 80,
+        "label": "Arranged marriage of Louis VII and Eleanor of Aquitaine",
+        "labelCn": "促成路易七世与阿基坦的埃莉诺的联姻",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Louis_VI_of_France",
+        "note": "Named guardian of Eleanor by the dying William X of Aquitaine; the wedding took place at the cathedral of Saint-André in Bordeaux on 25 July 1137."
+      },
+      {
+        "year": 1137,
+        "month": 8,
+        "day": 1,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 90,
+        "label": "Death of Louis VI",
+        "labelCn": "路易六世去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Louis_VI_of_France",
+        "note": "Died of dysentery at Béthisy-Saint-Pierre seven days after the wedding; buried at the Basilica of Saint-Denis."
+      }
+    ],
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died 1 August 1137 at Béthisy-Saint-Pierre of dysentery.",
+      "detail": "Died seven days after the wedding of Louis VII and Eleanor of Aquitaine, which he had arranged; buried at the Basilica of Saint-Denis.",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Louis_VI_of_France",
+      "summaryCn": "1137年8月1日因痢疾卒于贝蒂西-圣皮埃尔。",
+      "detailCn": "在其促成路易七世与埃莉诺的婚礼七天后去世；葬于圣但尼圣殿。"
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Louis_VI_of_France",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Capetian_dynasty",
+    "sourceNote": "Son of Philip I and father of Louis VII of France.",
+    "notes": "The existing Louis VII card now links to Louis VI through fatherId. The first strong Capetian king: he consolidated the royal domain around Paris and Orléans, fought the robber barons, and relied on his chronicler and adviser Abbot Suger of Saint-Denis. His arranged marriage of Louis VII to Eleanor of Aquitaine brought the duchy of Aquitaine into the royal domain in 1137.",
+    "createdDate": "260817",
+    "createdOrder": 63,
+    "displayNameCn": "路易六世",
+    "fullNameCn": "法兰克人国王路易六世",
+    "nicknameCn": "胖子",
+    "historicalRating": 7
+  },
+  {
+    "id": "7cc009b6-08d8-459b-b40e-2921bf3e4580",
+    "firstName": "Philippe",
+    "lastName": "Capet",
+    "displayName": "Philippe II Augustus",
+    "fullName": "Philippe II Augustus, King of France",
+    "nickname": "Augustus",
+    "alsoKnownAs": [
+      "Philip II Augustus",
+      "Philip Augustus",
+      "Philippe Auguste"
+    ],
+    "nicknameTags": [
+      "augustus"
+    ],
+    "birthYear": 1165,
+    "deathYear": 1223,
+    "birthPlace": "Gonesse, France",
+    "birthPlaceCn": "法国戈内斯",
+    "deathPlace": "Mantes-la-Jolie, France",
+    "deathPlaceCn": "法国芒特拉若利",
+    "gender": "male",
+    "dynasty": "House of Capet",
+    "house": "House of Capet",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "King of France",
+    "titles": [
+      {
+        "title": "King of France",
+        "startYear": 1180,
+        "endYear": 1223,
+        "titleCn": "法兰西国王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "crusader",
+      "commander"
+    ],
+    "rank": "king",
+    "importanceScore": 90,
+    "relationships": {
+      "fatherId": "6ae9afe1-d639-482e-b9ea-13d27778f842",
+      "motherId": "c029f7d9-d6a1-4c57-b2f7-d847392cdbd7",
+      "spouseIds": [
+        "244bb192-3eb6-4fa5-934c-30806c83ee5f",
+        "501a63f5-b331-4e97-9e92-ddb129d3f494",
+        "ef872301-2b9a-4b4e-a7d8-0c2529a049db"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "96b01b93-0b97-494a-896e-2d7abb07e05c",
+        "3daa50c7-45fe-447c-8ba1-4852a562bc32",
+        "0d0f0049-4607-44b9-ab23-ff16f500f9f0",
+        "2ecb4f64-5c5b-4628-9440-52ec01c88965"
+      ]
+    },
+    "events": [
+      {
+        "year": 1179,
+        "month": 11,
+        "day": 1,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "king"
+        ],
+        "weight": 90,
+        "label": "Coronation at Reims as co-king",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Philip_II_of_France",
+        "labelCn": "在兰斯加冕为共治国王",
+        "note": "Crowned at Reims on 1 November 1179 while his father Louis VII was in declining health."
+      },
+      {
+        "year": 1180,
+        "month": 4,
+        "day": 28,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "queen",
+          "dynastic_alliance"
+        ],
+        "weight": 80,
+        "label": "Marriage to Isabella of Hainaut",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Isabella_of_Hainault",
+        "labelCn": "与埃诺的伊莎贝拉结婚",
+        "note": "Married at Bapaume on 28 April 1180; she brought Artois as her dowry and died in 1190."
+      },
+      {
+        "year": 1180,
+        "month": 9,
+        "day": 18,
+        "type": "title",
+        "tags": [
+          "title",
+          "monarch",
+          "succession"
+        ],
+        "weight": 95,
+        "label": "Accession as sole King of France",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Philip_II_of_France",
+        "labelCn": "成为法兰西唯一国王",
+        "note": "Louis VII died 18 September 1180; Philip's sole reign ran 1180–1223."
+      },
+      {
+        "year": 1187,
+        "month": 9,
+        "day": 5,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "dynasty"
+        ],
+        "weight": 80,
+        "label": "Birth of heir Louis VIII",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Philip_II_of_France",
+        "labelCn": "王储路易八世诞生",
+        "note": "Son and future successor Louis VIII was born 5 September 1187."
+      },
+      {
+        "year": 1190,
+        "month": 7,
+        "day": 4,
+        "type": "campaign",
+        "tags": [
+          "crusade",
+          "campaign",
+          "religion"
+        ],
+        "weight": 88,
+        "label": "Joined the Third Crusade",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Third_Crusade",
+        "labelCn": "参加第三次十字军东征",
+        "note": "Left Vézelay 4 July 1190, reached Acre in April 1191, and returned to France on 31 July 1191 after a dispute with Richard I."
+      },
+      {
+        "year": 1193,
+        "month": 8,
+        "day": 14,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "queen"
+        ],
+        "weight": 75,
+        "label": "Marriage to Ingeborg of Denmark",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ingeborg_of_Denmark,_Queen_of_France",
+        "labelCn": "与丹麦的英格堡结婚",
+        "note": "Married at Amiens on 14 August 1193; Philip repudiated her the same day and sought an annulment on grounds of non-consummation."
+      },
+      {
+        "year": 1193,
+        "month": 8,
+        "day": 15,
+        "type": "annulment",
+        "tags": [
+          "annulment",
+          "queen"
+        ],
+        "weight": 78,
+        "label": "Repudiation of Ingeborg of Denmark",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ingeborg_of_Denmark,_Queen_of_France",
+        "labelCn": "休弃英格堡",
+        "note": "The annulment was refused by Popes Celestine III and Innocent III, leading to a long dispute that ended only with Ingeborg's restoration in 1213."
+      },
+      {
+        "year": 1196,
+        "month": 6,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "queen"
+        ],
+        "weight": 72,
+        "label": "Marriage to Agnes of Meran",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Agnes_of_Merania",
+        "labelCn": "与梅兰的阿格尼丝结婚",
+        "note": "Bigamous while Ingeborg was still alive; Innocent III declared the marriage null and placed France under interdict from 1199 until 7 September 1200. Agnes died in 1201."
+      },
+      {
+        "year": 1200,
+        "month": 5,
+        "day": 22,
+        "type": "diplomacy",
+        "tags": [
+          "diplomacy",
+          "treaty"
+        ],
+        "weight": 84,
+        "label": "Treaty of Le Goulet with King John",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Treaty_of_Le_Goulet",
+        "labelCn": "与约翰王签订《勒古莱条约》",
+        "note": "May 1200; John acknowledged Philip's overlordship and paid a relief for his continental lands, easing the Ingeborg dispute with the papacy."
+      },
+      {
+        "year": 1204,
+        "month": 3,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "conquest",
+          "territory"
+        ],
+        "weight": 98,
+        "label": "Conquest of Normandy",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Philip_II_of_France",
+        "labelCn": "征服诺曼底",
+        "note": "Château Gaillard fell in March 1204 after a five-month siege; by the end of 1204 most of Normandy and the Angevin lands were in Philip's hands."
+      },
+      {
+        "year": 1213,
+        "type": "annulment",
+        "tags": [
+          "annulment",
+          "religion"
+        ],
+        "weight": 74,
+        "label": "Ingeborg restored as queen",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ingeborg_of_Denmark,_Queen_of_France",
+        "labelCn": "迎回英格堡并恢复其王后地位",
+        "note": "After Agnes's death Philip took Ingeborg back; she was recognised at court as queen from 1213."
+      },
+      {
+        "year": 1214,
+        "month": 7,
+        "day": 27,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "main_commander"
+        ],
+        "weight": 99,
+        "label": "Battle of Bouvines",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Bouvines",
+        "labelCn": "布汶战役",
+        "note": "27 July 1214; Philip commanded the French royal army to a decisive victory over Emperor Otto IV and his coalition, securing his conquests."
+      },
+      {
+        "year": 1223,
+        "month": 7,
+        "day": 14,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 90,
+        "label": "Death at Mantes-la-Jolie",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Philip_II_of_France",
+        "labelCn": "于芒特拉若利去世",
+        "note": "Died 14 July 1223 of fever contracted while travelling in hot weather; buried at the Basilica of Saint-Denis."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Philip_II_of_France",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Philip_II_of_France",
+    "sourceNote": "First Capetian ruler to style himself King of France (Rex Franciae) from about 1190; the usage became established in royal documents by 1204. Marriage dates for Ingeborg follow the Wikipedia article (14 August 1193).",
+    "notes": "The supreme-king visual tier is intentionally triggered by the King of France title. Crowned co-king in 1179; his reign roughly tripled the royal domain through the conquest of Normandy (1204) and the victory at Bouvines (1214).",
+    "createdDate": "260817",
+    "createdOrder": 64,
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died of fever after illness",
+      "detail": "Philip fell ill in September 1222, recovered, then succumbed to a fever while travelling in hot weather in the summer of 1223; he died on 14 July 1223 at Mantes-la-Jolie against his physicians' advice and was buried at Saint-Denis.",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Philip_II_of_France",
+      "summaryCn": "病热去世",
+      "detailCn": "腓力于 1222 年 9 月染病后康复，1223 年夏季因暑热旅途引发高烧，于 7 月 14 日在芒特拉若利去世，葬于圣但尼修道院。"
+    },
+    "displayNameCn": "腓力二世·奥古斯都",
+    "fullNameCn": "法兰西国王腓力二世·奥古斯都",
+    "nicknameCn": "奥古斯都",
+    "primaryTitleCn": "法兰西国王",
+    "historicalRating": 9
+  },
+  {
+    "id": "608bccd6-7be9-4a60-9dbd-7187e866df83",
+    "firstName": "Agnès",
+    "lastName": "Capet",
+    "displayName": "Agnès of France",
+    "fullName": "Agnès of France, Byzantine Empress",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Agnes of France",
+      "Anne of France",
+      "Agnès de France"
+    ],
+    "nicknameTags": [],
+    "birthYear": 1171,
+    "deathYear": 1220,
+    "birthPlace": "France",
+    "deathPlace": "France",
+    "gender": "female",
+    "dynasty": "House of Capet",
+    "house": "House of Capet",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Princess of France",
+    "titles": [
+      {
+        "title": "Princess of France",
+        "startYear": 1171,
+        "endYear": 1220,
+        "titleCn": "法兰西公主"
+      }
+    ],
+    "tags": [
+      "noble",
+      "consort"
+    ],
+    "rank": "noble",
+    "importanceScore": 44,
+    "relationships": {
+      "fatherId": "6ae9afe1-d639-482e-b9ea-13d27778f842",
+      "motherId": "c029f7d9-d6a1-4c57-b2f7-d847392cdbd7",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Agnes_of_France_(1171%E2%80%931220)",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Agnes_of_France_(1171%E2%80%931220)",
+    "sourceNote": "Daughter of Louis VII and Adèle of Champagne; married Alexios II Komnenos and later Andronikos I Komnenos according to the cited account.",
+    "notes": "Her later Byzantine marital history is represented in source notes until spouse cards and cross-realm relationship records are added.",
+    "createdDate": "260817",
+    "createdOrder": 66,
+    "displayNameCn": "法兰西的阿涅丝",
+    "fullNameCn": "法兰西公主阿涅丝",
+    "primaryTitleCn": "法兰西公主",
+    "historicalRating": 4
+  },
+  {
+    "id": "96b01b93-0b97-494a-896e-2d7abb07e05c",
+    "firstName": "Louis",
+    "lastName": "Capet",
+    "displayName": "Louis VIII",
+    "fullName": "Louis VIII of France",
+    "nickname": "the Lion",
+    "alsoKnownAs": [
+      "Louis the Lion"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "路易八世",
+    "fullNameCn": "法兰西国王路易八世",
+    "nicknameCn": "狮子",
+    "birthYear": 1187,
+    "deathYear": 1226,
+    "birthPlace": "Paris, Kingdom of France",
+    "deathPlace": "Montpensier, Kingdom of France",
+    "birthPlaceCn": "法兰西王国巴黎",
+    "deathPlaceCn": "法兰西王国的蒙庞西耶",
+    "gender": "male",
+    "dynasty": "House of Capet",
+    "house": "House of Capet",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "King of France",
+    "primaryTitleCn": "法兰西国王",
+    "titles": [
+      {
+        "title": "King of France",
+        "startYear": 1223,
+        "endYear": 1226,
+        "titleCn": "法兰西国王"
+      }
+    ],
+    "tags": [
+      "king",
+      "noble"
+    ],
+    "rank": "king",
+    "importanceScore": 88,
+    "relationships": {
+      "fatherId": "7cc009b6-08d8-459b-b40e-2921bf3e4580",
+      "motherId": "244bb192-3eb6-4fa5-934c-30806c83ee5f",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "91f35e74-2dd3-4393-9858-0fc6b5acc537"
+      ]
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Louis_VIII_of_France",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Louis_VIII_of_France",
+    "sourceNote": "",
+    "notes": "Son of Philippe II Augustus and Isabella of Hainaut. Spouse Blanche of Castile and children (including Louis IX) are not yet in the roster; links to be added when those records exist.",
+    "historicalRating": 8,
+    "createdDate": "20260817",
+    "createdOrder": 109,
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died of dysentery",
+      "summaryCn": "死于痢疾",
+      "detail": "Louis VIII died of dysentery on 8 November 1226 at the Château de Montpensier in Auvergne while returning from the Albigensian crusade.",
+      "detailCn": "1226 年 11 月 8 日，路易八世在阿尔比十字军归途中因痢疾死于奥弗涅的蒙庞西耶城堡。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Louis_VIII_of_France"
+    },
+    "events": [
+      {
+        "year": 1187,
+        "month": 9,
+        "day": 5,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 62,
+        "label": "Born in Paris",
+        "labelCn": "出生于巴黎",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Louis_VIII_of_France"
+      },
+      {
+        "year": 1200,
+        "month": 5,
+        "day": 23,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 88,
+        "label": "Marriage to Blanche of Castile",
+        "labelCn": "与卡斯蒂利亚的布兰奇成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Blanche_of_Castile",
+        "note": "Blanche was the daughter of Alfonso VIII of Castile and Eleanor of England; the marriage was part of the Le Goulet settlement."
+      },
+      {
+        "year": 1215,
+        "month": 4,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "crusade"
+        ],
+        "weight": 70,
+        "label": "Crusading campaign in Languedoc",
+        "labelCn": "朗格多克十字军行动",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Albigensian_Crusade",
+        "note": "At Narbonne and Toulouse in April 1215, fulfilling his father's crusading vow."
+      },
+      {
+        "year": 1219,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "crusade",
+          "commander"
+        ],
+        "weight": 85,
+        "label": "Led the Albigensian Crusade",
+        "labelCn": "领导阿尔比十字军",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Albigensian_Crusade",
+        "note": "Led royal forces in Languedoc from 1219 to 1223 in support of Simon de Montfort."
+      },
+      {
+        "year": 1223,
+        "month": 7,
+        "day": 14,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "king"
+        ],
+        "weight": 96,
+        "label": "Became King of France",
+        "labelCn": "成为法兰西国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Louis_VIII_of_France"
+      },
+      {
+        "year": 1223,
+        "month": 8,
+        "day": 6,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "king"
+        ],
+        "weight": 93,
+        "label": "Coronation at Reims",
+        "labelCn": "兰斯加冕",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Louis_VIII_of_France"
+      },
+      {
+        "year": 1226,
+        "month": 1,
+        "type": "religion",
+        "tags": [
+          "religion",
+          "crusade"
+        ],
+        "weight": 72,
+        "label": "Took the cross for the royal crusade",
+        "labelCn": "为王家十字军立誓",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Albigensian_Crusade"
+      },
+      {
+        "year": 1226,
+        "month": 9,
+        "day": 9,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "territory",
+          "main_commander"
+        ],
+        "weight": 90,
+        "label": "Capture of Avignon",
+        "labelCn": "攻占阿维尼翁",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Siege_of_Avignon_(1226)",
+        "note": "The city surrendered on 9 September 1226 after a three-month siege, agreeing to pay 6,000 marks and raze its walls."
+      },
+      {
+        "year": 1226,
+        "month": 11,
+        "day": 8,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 94,
+        "label": "Died of dysentery at Montpensier",
+        "labelCn": "蒙庞西耶因痢疾去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Louis_VIII_of_France",
+        "note": "Died at the Château de Montpensier in Auvergne while returning from the Albigensian crusade."
+      }
+    ]
+  },
+  {
+    "id": "3daa50c7-45fe-447c-8ba1-4852a562bc32",
+    "firstName": "Marie",
+    "lastName": "Capet",
+    "displayName": "Marie of France",
+    "fullName": "Marie of France, Duchess of Brabant",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "布拉班特的玛丽",
+    "fullNameCn": "布拉班特公爵夫人玛丽",
+    "nicknameCn": null,
+    "birthYear": 1198,
+    "deathYear": 1224,
+    "birthPlace": "Kingdom of France",
+    "deathPlace": "Kingdom of France",
+    "birthPlaceCn": "法兰西王国",
+    "deathPlaceCn": "法兰西王国",
+    "gender": "female",
+    "dynasty": "House of Capet",
+    "house": "House of Capet",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Duchess of Brabant",
+    "primaryTitleCn": "布拉班特公爵夫人",
+    "titles": [
+      {
+        "title": "Duchess of Brabant",
+        "startYear": 1213,
+        "endYear": 1224,
+        "titleCn": "布拉班特公爵夫人"
+      }
+    ],
+    "tags": [
+      "duchess",
+      "consort",
+      "noble"
+    ],
+    "rank": "duchess",
+    "importanceScore": 55,
+    "relationships": {
+      "fatherId": "7cc009b6-08d8-459b-b40e-2921bf3e4580",
+      "motherId": "ef872301-2b9a-4b4e-a7d8-0c2529a049db",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Marie_of_France,_Duchess_of_Brabant",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Marie_of_France,_Duchess_of_Brabant",
+    "sourceNote": "Birthplace unrecorded. Death date 15 August 1224 per Wikipedia (some sources 1223). Spouse Henry I of Brabant and children are not yet in the roster.",
+    "notes": "Daughter of Philippe II Augustus and Agnes of Meran; legitimised with her brother Philippe Hurepel in November 1201.",
+    "historicalRating": 5,
+    "createdDate": "20260817",
+    "createdOrder": 113,
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died on 15 August 1224",
+      "summaryCn": "1224 年 8 月 15 日去世",
+      "detail": "Marie died on 15 August 1224 and was buried at Affligem Abbey (some sources give St Peter's Church, Leuven).",
+      "detailCn": "玛丽于 1224 年 8 月 15 日去世，葬于阿夫利赫姆修道院（有资料作鲁汶圣彼得教堂）。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Marie_of_France,_Duchess_of_Brabant"
+    },
+    "events": [
+      {
+        "year": 1198,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 60,
+        "label": "Born to Philippe II and Agnes of Meran",
+        "labelCn": "腓力二世与阿涅丝之女出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Marie_of_France,_Duchess_of_Brabant"
+      },
+      {
+        "year": 1201,
+        "month": 11,
+        "type": "religion",
+        "tags": [
+          "religion",
+          "succession"
+        ],
+        "weight": 75,
+        "label": "Legitimised by Pope Innocent III",
+        "labelCn": "获教皇英诺森三世承认为婚生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Marie_of_France,_Duchess_of_Brabant",
+        "note": "Legitimised with her brother Philippe Hurepel after their parents' marriage was declared invalid."
+      },
+      {
+        "year": 1213,
+        "month": 4,
+        "day": 22,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 85,
+        "label": "Marriage to Henry I, Duke of Brabant",
+        "labelCn": "与布拉班特公爵亨利一世成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Marie_of_France,_Duchess_of_Brabant",
+        "note": "Married at Soissons on 22 April 1213."
+      },
+      {
+        "year": 1224,
+        "month": 8,
+        "day": 15,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 88,
+        "label": "Died",
+        "labelCn": "去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Marie_of_France,_Duchess_of_Brabant",
+        "note": "Buried at Affligem Abbey; some sources give St Peter's Church, Leuven."
+      }
+    ]
+  },
+  {
+    "id": "0d0f0049-4607-44b9-ab23-ff16f500f9f0",
+    "firstName": "Philippe",
+    "lastName": "Capet",
+    "displayName": "Philippe Hurepel",
+    "fullName": "Philippe Hurepel, Count of Boulogne",
+    "nickname": "Hurepel",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "菲利普·于雷佩尔",
+    "fullNameCn": "布洛涅伯爵菲利普·于雷佩尔",
+    "nicknameCn": "于雷佩尔",
+    "birthYear": 1200,
+    "deathYear": 1235,
+    "birthPlace": "Kingdom of France",
+    "deathPlace": "Corbie, Kingdom of France",
+    "birthPlaceCn": "法兰西王国",
+    "deathPlaceCn": "法兰西王国科尔比",
+    "gender": "male",
+    "dynasty": "House of Capet",
+    "house": "House of Capet",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Boulogne",
+    "primaryTitleCn": "布洛涅伯爵",
+    "titles": [
+      {
+        "title": "Count of Boulogne",
+        "startYear": 1223,
+        "endYear": 1235,
+        "titleCn": "布洛涅伯爵"
+      },
+      {
+        "title": "Count of Clermont",
+        "startYear": "",
+        "endYear": 1235,
+        "titleCn": "克莱蒙伯爵"
+      }
+    ],
+    "tags": [
+      "count",
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 62,
+    "relationships": {
+      "fatherId": "7cc009b6-08d8-459b-b40e-2921bf3e4580",
+      "motherId": "ef872301-2b9a-4b4e-a7d8-0c2529a049db",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Philip_Hurepel",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Philip_Hurepel",
+    "sourceNote": "Birth September 1200 per Wikipedia. Marriage to Matilda II of Boulogne c. 1223 per Wikipedia (some older sources give 1216). Death year 1235 per Wikipedia (some sources 1234). Spouse and children are not yet in the roster.",
+    "notes": "Son of Philippe II Augustus and Agnes of Meran; legitimised in November 1201. Count of Boulogne jure uxoris and Count of Clermont.",
+    "historicalRating": 6,
+    "createdDate": "20260817",
+    "createdOrder": 114,
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died in 1235",
+      "summaryCn": "1235 年去世",
+      "detail": "Philippe Hurepel died in 1235 (some sources give 1234); the cause is unrecorded.",
+      "detailCn": "菲利普·于雷佩尔于 1235 年去世（有资料作 1234 年），死因无记载。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Philip_Hurepel"
+    },
+    "events": [
+      {
+        "year": 1200,
+        "month": 9,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 60,
+        "label": "Born to Philippe II and Agnes of Meran",
+        "labelCn": "腓力二世与阿涅丝之子出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Philip_Hurepel"
+      },
+      {
+        "year": 1201,
+        "month": 11,
+        "type": "religion",
+        "tags": [
+          "religion",
+          "succession"
+        ],
+        "weight": 75,
+        "label": "Legitimised by Pope Innocent III",
+        "labelCn": "获教皇英诺森三世承认为婚生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Philip_Hurepel",
+        "note": "Legitimised with his sister Marie after their parents' marriage was declared invalid."
+      },
+      {
+        "year": 1223,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "territory"
+        ],
+        "weight": 82,
+        "label": "Marriage to Matilda II, Countess of Boulogne",
+        "labelCn": "与布洛涅女伯爵玛蒂尔达二世成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Philip_Hurepel",
+        "note": "Married c. 1223; through her he held Boulogne, Mortain, Aumale and Dammartin jure uxoris."
+      },
+      {
+        "year": 1223,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "noble"
+        ],
+        "weight": 78,
+        "label": "Became Count of Boulogne jure uxoris",
+        "labelCn": "以妻权成为布洛涅伯爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Philip_Hurepel"
+      },
+      {
+        "year": 1226,
+        "type": "rebellion",
+        "tags": [
+          "rebellion"
+        ],
+        "weight": 84,
+        "label": "Revolt against Blanche of Castile",
+        "labelCn": "起兵反抗卡斯蒂利亚的布兰奇",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Philip_Hurepel",
+        "note": "Joined the baronial league opposing the regent Blanche after Louis VIII's death in 1226."
+      },
+      {
+        "year": 1235,
+        "type": "death",
+        "tags": [
+          "death",
+          "uncertain"
+        ],
+        "weight": 86,
+        "label": "Died",
+        "labelCn": "去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Philip_Hurepel",
+        "note": "Died 1235 (some sources 1234) at Corbie; cause unrecorded."
+      }
+    ]
+  },
+  {
+    "id": "2ecb4f64-5c5b-4628-9440-52ec01c88965",
+    "firstName": "Pierre",
+    "lastName": "Charlot",
+    "displayName": "Pierre Charlot",
+    "fullName": "Pierre Charlot, Bishop of Noyon",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "皮埃尔·夏洛",
+    "fullNameCn": "努瓦永主教皮埃尔·夏洛",
+    "nicknameCn": null,
+    "birthYear": 1205,
+    "deathYear": 1249,
+    "birthPlace": "",
+    "deathPlace": "Near Cyprus, returning from the Seventh Crusade",
+    "birthPlaceCn": "",
+    "deathPlaceCn": "第七次十字军归途中塞浦路斯附近",
+    "gender": "male",
+    "dynasty": "House of Capet",
+    "house": "House of Capet",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Bishop of Noyon",
+    "primaryTitleCn": "努瓦永主教",
+    "titles": [
+      {
+        "title": "Bishop of Noyon",
+        "startYear": 1240,
+        "endYear": 1249,
+        "titleCn": "努瓦永主教"
+      },
+      {
+        "title": "Treasurer of Saint-Martin of Tours",
+        "startYear": 1232,
+        "endYear": 1249,
+        "titleCn": "图尔圣马丁教堂司库"
+      }
+    ],
+    "tags": [
+      "clergy",
+      "illegitimate"
+    ],
+    "rank": "untitled",
+    "importanceScore": 50,
+    "relationships": {
+      "fatherId": "7cc009b6-08d8-459b-b40e-2921bf3e4580",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Pierre_Charlot",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Pierre_Charlot",
+    "sourceNote": "Birth year uncertain (between 1205 and 1209); mother unnamed (a lady of Arras). Illegitimate son of Philippe II Augustus.",
+    "notes": "Illegitimate son of Philippe II Augustus; Treasurer of Saint-Martin of Tours and Bishop of Noyon. Died near Cyprus returning from the Seventh Crusade.",
+    "historicalRating": 5,
+    "createdDate": "20260817",
+    "createdOrder": 115,
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died near Cyprus",
+      "summaryCn": "塞浦路斯附近去世",
+      "detail": "Pierre Charlot died in 1249 near Cyprus while returning from the Seventh Crusade with Louis IX, and was buried in the cathedral of Noyon.",
+      "detailCn": "1249 年，皮埃尔·夏洛随路易九世参加第七次十字军，在归途中于塞浦路斯附近去世，葬于努瓦永大教堂。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Pierre_Charlot"
+    },
+    "events": [
+      {
+        "year": 1205,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "uncertain"
+        ],
+        "weight": 58,
+        "label": "Born as an illegitimate son of Philippe II",
+        "labelCn": "作为腓力二世的私生子出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Pierre_Charlot",
+        "note": "Born between 1205 and 1209; his mother is unnamed in the sources (a lady of Arras)."
+      },
+      {
+        "year": 1232,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "church"
+        ],
+        "weight": 78,
+        "label": "Became Treasurer of Saint-Martin of Tours",
+        "labelCn": "出任图尔圣马丁教堂司库",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Pierre_Charlot",
+        "note": "Appointed by 1232."
+      },
+      {
+        "year": 1240,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "church"
+        ],
+        "weight": 85,
+        "label": "Elected Bishop of Noyon",
+        "labelCn": "当选努瓦永主教",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Pierre_Charlot",
+        "note": "A tied election was decided in Rome in his favour."
+      },
+      {
+        "year": 1249,
+        "type": "death",
+        "tags": [
+          "death",
+          "uncertain"
+        ],
+        "weight": 88,
+        "label": "Died near Cyprus on the return from the Seventh Crusade",
+        "labelCn": "第七次十字军归途中在塞浦路斯附近去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Pierre_Charlot",
+        "note": "Died in 1249 near Cyprus; buried in the cathedral of Noyon."
+      }
+    ]
+  },
+  {
+    "id": "91f35e74-2dd3-4393-9858-0fc6b5acc537",
+    "firstName": "Louis",
+    "lastName": "Capet",
+    "displayName": "Louis IX",
+    "fullName": "Louis IX of France",
+    "nickname": "Saint Louis",
+    "alsoKnownAs": [
+      "Saint Louis",
+      "Louis the Saint"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "路易九世",
+    "fullNameCn": "法兰西国王路易九世",
+    "nicknameCn": "圣路易",
+    "birthYear": 1214,
+    "deathYear": 1270,
+    "birthPlace": "Poissy, Kingdom of France",
+    "deathPlace": "Tunis, Ifriqiya",
+    "birthPlaceCn": "法兰西王国普瓦西",
+    "deathPlaceCn": "伊夫里基亚突尼斯",
+    "gender": "male",
+    "dynasty": "House of Capet",
+    "house": "House of Capet",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "King of France",
+    "primaryTitleCn": "法兰西国王",
+    "titles": [
+      {
+        "title": "King of France",
+        "startYear": 1226,
+        "endYear": 1270,
+        "titleCn": "法兰西国王"
+      }
+    ],
+    "tags": [
+      "king",
+      "noble"
+    ],
+    "rank": "king",
+    "importanceScore": 92,
+    "relationships": {
+      "fatherId": "96b01b93-0b97-494a-896e-2d7abb07e05c",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "97ff73e2-e417-4fb3-8b15-90514584a442"
+      ]
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Louis_IX_of_France",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Louis_IX_of_France",
+    "sourceNote": "",
+    "notes": "Son of Louis VIII and Blanche of Castile (Blanche is not yet in the roster; the mother link will be added when her record exists). Spouse Margaret of Provence and children other than Philippe III are not yet in the roster. Canonised in 1297 — the only French king to be made a saint.",
+    "historicalRating": 10,
+    "createdDate": "20260817",
+    "createdOrder": 116,
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died of illness at Tunis",
+      "summaryCn": "在突尼斯病逝",
+      "detail": "Louis IX died on 25 August 1270 at Tunis of dysentery (some sources suggest plague or typhus) during the Eighth Crusade.",
+      "detailCn": "1270 年 8 月 25 日，路易九世在第八次十字军东征期间于突尼斯因痢疾（有资料作瘟疫或伤寒）去世。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Louis_IX_of_France"
+    },
+    "events": [
+      {
+        "year": 1214,
+        "month": 4,
+        "day": 25,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 62,
+        "label": "Born at Poissy",
+        "labelCn": "出生于普瓦西",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Louis_IX_of_France"
+      },
+      {
+        "year": 1226,
+        "month": 11,
+        "day": 8,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "king"
+        ],
+        "weight": 96,
+        "label": "Became King of France at age twelve",
+        "labelCn": "十二岁即位为法兰西国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Louis_IX_of_France",
+        "note": "His mother Blanche of Castile ruled as regent during his minority."
+      },
+      {
+        "year": 1226,
+        "month": 11,
+        "day": 29,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "king"
+        ],
+        "weight": 93,
+        "label": "Coronation at Reims",
+        "labelCn": "兰斯加冕",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Louis_IX_of_France"
+      },
+      {
+        "year": 1234,
+        "month": 5,
+        "day": 27,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 82,
+        "label": "Marriage to Margaret of Provence",
+        "labelCn": "与普罗旺斯的玛格丽特成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Margaret_of_Provence",
+        "note": "Margaret is not yet in the roster."
+      },
+      {
+        "year": 1248,
+        "month": 4,
+        "day": 26,
+        "type": "religion",
+        "tags": [
+          "religion",
+          "church"
+        ],
+        "weight": 78,
+        "label": "Consecration of the Sainte-Chapelle",
+        "labelCn": "圣礼拜堂祝圣",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Sainte-Chapelle",
+        "note": "Built to house the relics of the Passion, including the Crown of Thorns."
+      },
+      {
+        "year": 1249,
+        "month": 6,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "crusade",
+          "main_commander"
+        ],
+        "weight": 90,
+        "label": "Seventh Crusade: capture of Damietta",
+        "labelCn": "第七次十字军：攻占杜姆亚特",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Seventh_Crusade"
+      },
+      {
+        "year": 1250,
+        "month": 2,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "crusade",
+          "defeat"
+        ],
+        "weight": 86,
+        "label": "Battle of Mansurah and capture",
+        "labelCn": "曼苏拉之战与被俘",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Mansurah_(1250)",
+        "note": "Defeated and captured in April 1250; ransomed in May 1250."
+      },
+      {
+        "year": 1259,
+        "month": 5,
+        "day": 28,
+        "type": "diplomacy",
+        "tags": [
+          "diplomacy",
+          "treaty"
+        ],
+        "weight": 84,
+        "label": "Treaty of Paris with Henry III",
+        "labelCn": "与亨利三世缔结《巴黎条约》",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Treaty_of_Paris_(1259)",
+        "note": "Henry III renounced claims to Normandy, Anjou and Poitou while Louis conceded parts of Aquitaine."
+      },
+      {
+        "year": 1270,
+        "month": 7,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "crusade",
+          "main_commander"
+        ],
+        "weight": 80,
+        "label": "Eighth Crusade against Tunis",
+        "labelCn": "第八次十字军远征突尼斯",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Eighth_Crusade"
+      },
+      {
+        "year": 1270,
+        "month": 8,
+        "day": 25,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 95,
+        "label": "Died at Tunis",
+        "labelCn": "在突尼斯去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Louis_IX_of_France"
+      },
+      {
+        "year": 1297,
+        "month": 8,
+        "day": 11,
+        "type": "religion",
+        "tags": [
+          "religion",
+          "church"
+        ],
+        "weight": 88,
+        "label": "Canonised as Saint Louis",
+        "labelCn": "被封圣为圣路易",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Louis_IX_of_France",
+        "note": "Canonised by Pope Boniface VIII; the only canonised king of France."
+      }
+    ]
+  },
+  {
+    "id": "97ff73e2-e417-4fb3-8b15-90514584a442",
+    "firstName": "Philippe",
+    "lastName": "Capet",
+    "displayName": "Philippe III",
+    "fullName": "Philippe III of France",
+    "nickname": "the Bold",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "腓力三世",
+    "fullNameCn": "法兰西国王腓力三世",
+    "nicknameCn": "勇敢者",
+    "birthYear": 1245,
+    "deathYear": 1285,
+    "birthPlace": "Poissy, Kingdom of France",
+    "deathPlace": "Perpignan, Kingdom of Majorca",
+    "birthPlaceCn": "法兰西王国普瓦西",
+    "deathPlaceCn": "马略卡王国佩皮尼昂",
+    "gender": "male",
+    "dynasty": "House of Capet",
+    "house": "House of Capet",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "King of France",
+    "primaryTitleCn": "法兰西国王",
+    "titles": [
+      {
+        "title": "King of France",
+        "startYear": 1270,
+        "endYear": 1285,
+        "titleCn": "法兰西国王"
+      }
+    ],
+    "tags": [
+      "king",
+      "noble"
+    ],
+    "rank": "king",
+    "importanceScore": 62,
+    "relationships": {
+      "fatherId": "91f35e74-2dd3-4393-9858-0fc6b5acc537",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "699ff54a-5291-422d-8621-d0a127c5d24c"
+      ]
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Philip_III_of_France",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Philip_III_of_France",
+    "sourceNote": "",
+    "notes": "Son of Louis IX and Margaret of Provence (Margaret is not yet in the roster). Spouses Isabella of Aragon and Marie of Brabant, and children other than Philippe IV, are not yet in the roster.",
+    "historicalRating": 7,
+    "createdDate": "20260817",
+    "createdOrder": 117,
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died of dysentery at Perpignan",
+      "summaryCn": "在佩皮尼昂死于痢疾",
+      "detail": "Philippe III died on 5 October 1285 at Perpignan of dysentery while retreating from the Aragonese Crusade.",
+      "detailCn": "1285 年 10 月 5 日，腓力三世在阿拉贡十字军撤退途中于佩皮尼昂因痢疾去世。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Philip_III_of_France"
+    },
+    "events": [
+      {
+        "year": 1245,
+        "month": 5,
+        "day": 1,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 60,
+        "label": "Born at Poissy",
+        "labelCn": "出生于普瓦西",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Philip_III_of_France"
+      },
+      {
+        "year": 1262,
+        "month": 5,
+        "day": 28,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 78,
+        "label": "Marriage to Isabella of Aragon",
+        "labelCn": "与阿拉贡的伊莎贝拉成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Isabella_of_Aragon,_Queen_of_France",
+        "note": "Isabella is not yet in the roster."
+      },
+      {
+        "year": 1270,
+        "month": 8,
+        "day": 25,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "king"
+        ],
+        "weight": 92,
+        "label": "Became King of France",
+        "labelCn": "即位为法兰西国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Philip_III_of_France",
+        "note": "Succeeded while on the Eighth Crusade with his father."
+      },
+      {
+        "year": 1271,
+        "month": 8,
+        "day": 15,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "king"
+        ],
+        "weight": 88,
+        "label": "Coronation at Reims",
+        "labelCn": "兰斯加冕",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Philip_III_of_France"
+      },
+      {
+        "year": 1282,
+        "month": 3,
+        "day": 30,
+        "type": "political_crisis",
+        "tags": [
+          "politics",
+          "uncertain"
+        ],
+        "weight": 74,
+        "label": "Sicilian Vespers and the fall of Charles of Anjou's Sicily",
+        "labelCn": "西西里晚祷与安茹查理失去西西里",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Sicilian_Vespers",
+        "note": "The revolt against his uncle Charles of Anjou drew Philippe into the Aragonese conflict."
+      },
+      {
+        "year": 1285,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "defeat"
+        ],
+        "weight": 82,
+        "label": "Aragonese Crusade and retreat",
+        "labelCn": "阿拉贡十字军与败退",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Aragonese_Crusade",
+        "note": "The expedition against Peter III of Aragon collapsed amid epidemic; Philippe died on the retreat."
+      },
+      {
+        "year": 1285,
+        "month": 10,
+        "day": 5,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 90,
+        "label": "Died at Perpignan",
+        "labelCn": "在佩皮尼昂去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Philip_III_of_France"
+      }
+    ]
+  },
+  {
+    "id": "699ff54a-5291-422d-8621-d0a127c5d24c",
+    "firstName": "Philippe",
+    "lastName": "Capet",
+    "displayName": "Philippe IV",
+    "fullName": "Philippe IV of France",
+    "nickname": "the Fair",
+    "alsoKnownAs": [
+      "Philip the Fair"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "腓力四世",
+    "fullNameCn": "法兰西国王腓力四世",
+    "nicknameCn": "美男子",
+    "birthYear": 1268,
+    "deathYear": 1314,
+    "birthPlace": "Fontainebleau, Kingdom of France",
+    "deathPlace": "Fontainebleau, Kingdom of France",
+    "birthPlaceCn": "法兰西王国枫丹白露",
+    "deathPlaceCn": "法兰西王国枫丹白露",
+    "gender": "male",
+    "dynasty": "House of Capet",
+    "house": "House of Capet",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "King of France",
+    "primaryTitleCn": "法兰西国王",
+    "titles": [
+      {
+        "title": "King of France",
+        "startYear": 1285,
+        "endYear": 1314,
+        "titleCn": "法兰西国王"
+      },
+      {
+        "title": "King of Navarre",
+        "startYear": 1284,
+        "endYear": 1305,
+        "titleCn": "纳瓦拉国王"
+      }
+    ],
+    "tags": [
+      "king",
+      "noble"
+    ],
+    "rank": "king",
+    "importanceScore": 88,
+    "relationships": {
+      "fatherId": "97ff73e2-e417-4fb3-8b15-90514584a442",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "f0d935d4-8efa-482c-bccb-ac105babc10d",
+        "f57da4e3-19a4-4087-8cf4-613a2ff0bc1f",
+        "da988cef-12ff-4b79-afad-70d0565b976e"
+      ]
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Philip_IV_of_France",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Philip_IV_of_France",
+    "sourceNote": "Birth in April–June 1268 (exact day unrecorded).",
+    "notes": "Son of Philippe III and Isabella of Aragon. Spouse Joan I of Navarre (through whom he held Navarre) and daughter Isabella of France are not yet in the roster.",
+    "historicalRating": 9,
+    "createdDate": "20260817",
+    "createdOrder": 118,
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died of a stroke at Fontainebleau",
+      "summaryCn": "在枫丹白露中风去世",
+      "detail": "Philippe IV died on 29 November 1314 at Fontainebleau, several weeks after a cerebral stroke suffered during a hunt (popularly linked to the Templar grand master's alleged curse).",
+      "detailCn": "1314 年 11 月 29 日，腓力四世在枫丹白露去世；数周前他在狩猎时中风（民间传说将之与圣殿骑士团大团长的诅咒相联系）。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Philip_IV_of_France"
+    },
+    "events": [
+      {
+        "year": 1268,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "uncertain"
+        ],
+        "weight": 60,
+        "label": "Born at Fontainebleau",
+        "labelCn": "出生于枫丹白露",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Philip_IV_of_France",
+        "note": "Born April–June 1268; exact day unrecorded."
+      },
+      {
+        "year": 1284,
+        "month": 8,
+        "day": 16,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 82,
+        "label": "Marriage to Joan I of Navarre",
+        "labelCn": "与纳瓦拉的让娜一世成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Joan_I_of_Navarre",
+        "note": "Through Joan he became King of Navarre jure uxoris; Joan is not yet in the roster."
+      },
+      {
+        "year": 1285,
+        "month": 10,
+        "day": 5,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "king"
+        ],
+        "weight": 94,
+        "label": "Became King of France",
+        "labelCn": "即位为法兰西国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Philip_IV_of_France"
+      },
+      {
+        "year": 1286,
+        "month": 1,
+        "day": 6,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "king"
+        ],
+        "weight": 90,
+        "label": "Coronation at Reims",
+        "labelCn": "兰斯加冕",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Philip_IV_of_France"
+      },
+      {
+        "year": 1302,
+        "month": 4,
+        "day": 10,
+        "type": "government",
+        "tags": [
+          "government",
+          "politics"
+        ],
+        "weight": 80,
+        "label": "First Estates-General convened",
+        "labelCn": "召开第一次三级会议",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Estates_General_(France)",
+        "note": "Summoned to rally support in the conflict with Pope Boniface VIII."
+      },
+      {
+        "year": 1302,
+        "month": 11,
+        "day": 18,
+        "type": "political_crisis",
+        "tags": [
+          "politics",
+          "church"
+        ],
+        "weight": 85,
+        "label": "Conflict with Boniface VIII: Unam Sanctam",
+        "labelCn": "与卜尼法斯八世的冲突：〈一圣教谕〉",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Unam_sanctam"
+      },
+      {
+        "year": 1303,
+        "month": 9,
+        "day": 7,
+        "type": "political_crisis",
+        "tags": [
+          "politics",
+          "church"
+        ],
+        "weight": 84,
+        "label": "Outrage of Anagni",
+        "labelCn": "阿纳尼事件",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Outrage_of_Anagni",
+        "note": "Boniface VIII was seized at Anagni by Guillaume de Nogaret's force; he died weeks later."
+      },
+      {
+        "year": 1307,
+        "month": 10,
+        "day": 13,
+        "type": "political_crisis",
+        "tags": [
+          "politics",
+          "church"
+        ],
+        "weight": 92,
+        "label": "Arrest of the Knights Templar",
+        "labelCn": "逮捕圣殿骑士团",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Knights_Templar",
+        "note": "Mass arrests across France; the order was suppressed at the Council of Vienne in 1312 and its grand master Jacques de Molay burned in March 1314."
+      },
+      {
+        "year": 1309,
+        "type": "religion",
+        "tags": [
+          "religion",
+          "church"
+        ],
+        "weight": 88,
+        "label": "Papacy moved to Avignon",
+        "labelCn": "教廷迁至阿维尼翁",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Avignon_Papacy",
+        "note": "Clement V, a French pope under Philippe's influence, settled the curia at Avignon."
+      },
+      {
+        "year": 1314,
+        "month": 11,
+        "day": 29,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 95,
+        "label": "Died at Fontainebleau",
+        "labelCn": "在枫丹白露去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Philip_IV_of_France"
+      }
+    ]
+  },
+  {
+    "id": "f0d935d4-8efa-482c-bccb-ac105babc10d",
+    "firstName": "Louis",
+    "lastName": "Capet",
+    "displayName": "Louis X",
+    "fullName": "Louis X of France",
+    "nickname": "the Quarrelsome",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "路易十世",
+    "fullNameCn": "法兰西国王路易十世",
+    "nicknameCn": "争吵者",
+    "birthYear": 1289,
+    "deathYear": 1316,
+    "birthPlace": "Paris, Kingdom of France",
+    "deathPlace": "Vincennes, Kingdom of France",
+    "birthPlaceCn": "法兰西王国巴黎",
+    "deathPlaceCn": "法兰西王国万塞讷",
+    "gender": "male",
+    "dynasty": "House of Capet",
+    "house": "House of Capet",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "King of France",
+    "primaryTitleCn": "法兰西国王",
+    "titles": [
+      {
+        "title": "King of France",
+        "startYear": 1314,
+        "endYear": 1316,
+        "titleCn": "法兰西国王"
+      },
+      {
+        "title": "King of Navarre",
+        "startYear": 1305,
+        "endYear": 1316,
+        "titleCn": "纳瓦拉国王"
+      }
+    ],
+    "tags": [
+      "king",
+      "noble"
+    ],
+    "rank": "king",
+    "importanceScore": 60,
+    "relationships": {
+      "fatherId": "699ff54a-5291-422d-8621-d0a127c5d24c",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "39979ed9-fafd-48f0-96d7-30f40e80f51b"
+      ]
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Louis_X_of_France",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Louis_X_of_France",
+    "sourceNote": "",
+    "notes": "Eldest son of Philippe IV and Joan I of Navarre. Spouses Margaret of Burgundy and Clementia of Hungary, and daughter Joan II of Navarre, are not yet in the roster.",
+    "historicalRating": 7,
+    "createdDate": "20260817",
+    "createdOrder": 119,
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died of illness at Vincennes",
+      "summaryCn": "在万塞讷病逝",
+      "detail": "Louis X died on 5 June 1316 at Vincennes, probably of pleurisy or pneumonia after a game of tennis; poisoning rumours circulated at the time.",
+      "detailCn": "1316 年 6 月 5 日，路易十世在万塞讷去世，可能是网球运动后患上胸膜炎或肺炎；当时曾有下毒传言。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Louis_X_of_France"
+    },
+    "events": [
+      {
+        "year": 1289,
+        "month": 10,
+        "day": 4,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 60,
+        "label": "Born in Paris",
+        "labelCn": "出生于巴黎",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Louis_X_of_France"
+      },
+      {
+        "year": 1305,
+        "month": 9,
+        "day": 23,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 72,
+        "label": "Marriage to Margaret of Burgundy",
+        "labelCn": "与勃艮第的玛格丽特成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Margaret_of_Burgundy,_Queen_of_France",
+        "note": "Margaret is not yet in the roster."
+      },
+      {
+        "year": 1314,
+        "type": "political_crisis",
+        "tags": [
+          "politics",
+          "imprisonment"
+        ],
+        "weight": 78,
+        "label": "Tour de Nesle affair",
+        "labelCn": "奈斯勒塔丑闻",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Tour_de_Nesle_affair",
+        "note": "Margaret of Burgundy was convicted of adultery and imprisoned; her death in 1315 (officially of illness) cleared the way for Louis's remarriage."
+      },
+      {
+        "year": 1314,
+        "month": 11,
+        "day": 29,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "king"
+        ],
+        "weight": 92,
+        "label": "Became King of France",
+        "labelCn": "即位为法兰西国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Louis_X_of_France"
+      },
+      {
+        "year": 1315,
+        "month": 8,
+        "day": 19,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 76,
+        "label": "Marriage to Clementia of Hungary",
+        "labelCn": "与匈牙利的克莱门西娅成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Clementia_of_Hungary",
+        "note": "Clementia is not yet in the roster; their posthumous son became John I."
+      },
+      {
+        "year": 1315,
+        "month": 8,
+        "day": 24,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "king"
+        ],
+        "weight": 86,
+        "label": "Coronation at Reims",
+        "labelCn": "兰斯加冕",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Louis_X_of_France"
+      },
+      {
+        "year": 1316,
+        "month": 6,
+        "day": 5,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 90,
+        "label": "Died at Vincennes",
+        "labelCn": "在万塞讷去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Louis_X_of_France",
+        "note": "His pregnant widow gave birth to John I in November 1316, triggering the succession crisis."
+      }
+    ]
+  },
+  {
+    "id": "39979ed9-fafd-48f0-96d7-30f40e80f51b",
+    "firstName": "John",
+    "lastName": "Capet",
+    "displayName": "John I",
+    "fullName": "John I of France",
+    "nickname": "the Posthumous",
+    "alsoKnownAs": [
+      "Jean I le Posthume"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "约翰一世",
+    "fullNameCn": "法兰西国王约翰一世",
+    "nicknameCn": "遗腹子",
+    "birthYear": 1316,
+    "deathYear": 1316,
+    "birthPlace": "Paris, Kingdom of France",
+    "deathPlace": "Paris, Kingdom of France",
+    "birthPlaceCn": "法兰西王国巴黎",
+    "deathPlaceCn": "法兰西王国巴黎",
+    "gender": "male",
+    "dynasty": "House of Capet",
+    "house": "House of Capet",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "King of France",
+    "primaryTitleCn": "法兰西国王",
+    "titles": [
+      {
+        "title": "King of France",
+        "startYear": 1316,
+        "endYear": 1316,
+        "titleCn": "法兰西国王"
+      },
+      {
+        "title": "King of Navarre",
+        "startYear": 1316,
+        "endYear": 1316,
+        "titleCn": "纳瓦拉国王"
+      }
+    ],
+    "tags": [
+      "king",
+      "noble"
+    ],
+    "rank": "king",
+    "importanceScore": 45,
+    "relationships": {
+      "fatherId": "f0d935d4-8efa-482c-bccb-ac105babc10d",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/John_I_of_France",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/John_I_of_France",
+    "sourceNote": "Mother Clementia of Hungary is not yet in the roster. Alternate dates (13–18 November) appear in the Chronique Parisienne Anonyme.",
+    "notes": "Posthumous son of Louis X; the only French king to reign for his entire life (15–19 November 1316, four/five days). His death broke three centuries of father-to-son succession and opened the dispute that led Philippe V to exclude women from the succession. A 14th-century impostor (Giannino Baglioni) later claimed to be him.",
+    "historicalRating": 5,
+    "createdDate": "20260817",
+    "createdOrder": 120,
+    "deathCause": {
+      "kind": "uncertain",
+      "summary": "Died five days after birth",
+      "summaryCn": "出生五日后夭折",
+      "detail": "John I died on 19 November 1316, four or five days after his birth; the cause is unknown and rumours of poisoning circulated immediately.",
+      "detailCn": "1316 年 11 月 19 日，约翰一世在出生四五天后夭折；死因不明，当时即有下毒传言。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/John_I_of_France"
+    },
+    "events": [
+      {
+        "year": 1316,
+        "month": 11,
+        "day": 15,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 75,
+        "label": "Born as posthumous son of Louis X",
+        "labelCn": "作为路易十世的遗腹子出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/John_I_of_France",
+        "note": "His uncle Philippe, Count of Poitiers, acted as regent."
+      },
+      {
+        "year": 1316,
+        "month": 11,
+        "day": 15,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "king"
+        ],
+        "weight": 90,
+        "label": "Proclaimed King of France at birth",
+        "labelCn": "出生即被宣布为法兰西国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/John_I_of_France",
+        "note": "The only king of France to hold the title for his entire life."
+      },
+      {
+        "year": 1316,
+        "month": 11,
+        "day": 19,
+        "type": "death",
+        "tags": [
+          "death",
+          "uncertain"
+        ],
+        "weight": 95,
+        "label": "Died five days after birth",
+        "labelCn": "出生五日后夭折",
+        "wikiUrl": "https://en.wikipedia.org/wiki/John_I_of_France",
+        "note": "His death ended three centuries of father-to-son succession and triggered the exclusion of women from the French succession."
+      }
+    ]
+  },
+  {
+    "id": "f57da4e3-19a4-4087-8cf4-613a2ff0bc1f",
+    "firstName": "Philippe",
+    "lastName": "Capet",
+    "displayName": "Philippe V",
+    "fullName": "Philippe V of France",
+    "nickname": "the Tall",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "腓力五世",
+    "fullNameCn": "法兰西国王腓力五世",
+    "nicknameCn": "高个子",
+    "birthYear": 1291,
+    "deathYear": 1322,
+    "birthPlace": "Lyon, Kingdom of France",
+    "deathPlace": "Abbey of Longchamp, Paris, Kingdom of France",
+    "birthPlaceCn": "法兰西王国里昂",
+    "deathPlaceCn": "法兰西王国巴黎隆尚修道院",
+    "gender": "male",
+    "dynasty": "House of Capet",
+    "house": "House of Capet",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "King of France",
+    "primaryTitleCn": "法兰西国王",
+    "titles": [
+      {
+        "title": "King of France",
+        "startYear": 1316,
+        "endYear": 1322,
+        "titleCn": "法兰西国王"
+      }
+    ],
+    "tags": [
+      "king",
+      "noble"
+    ],
+    "rank": "king",
+    "importanceScore": 64,
+    "relationships": {
+      "fatherId": "699ff54a-5291-422d-8621-d0a127c5d24c",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Philip_V_of_France",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Philip_V_of_France",
+    "sourceNote": "Birth year c. 1291 (some sources 1293/94).",
+    "notes": "Second son of Philippe IV. Spouse Joan II, Countess of Burgundy, is not yet in the roster (their Navarrese claim passed to their daughters). Left no male heir; his infant son Philippe (1316–1317) died young.",
+    "historicalRating": 7,
+    "createdDate": "20260817",
+    "createdOrder": 121,
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died of illness at Longchamp",
+      "summaryCn": "在隆尚修道院病逝",
+      "detail": "Philippe V died on 3 January 1322 at the Abbey of Longchamp near Paris, aged about 30, of dysentery (the sources also speak of multiple illnesses).",
+      "detailCn": "1322 年 1 月 3 日，腓力五世在巴黎附近的隆尚修道院去世，年仅约 30 岁，死于痢疾（史料亦提及多种疾病）。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Philip_V_of_France"
+    },
+    "events": [
+      {
+        "year": 1291,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "uncertain"
+        ],
+        "weight": 58,
+        "label": "Born in Lyon",
+        "labelCn": "出生于里昂",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Philip_V_of_France",
+        "note": "Born c. 1291; some sources give 1293/94."
+      },
+      {
+        "year": 1307,
+        "month": 1,
+        "day": 21,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 72,
+        "label": "Marriage to Joan II, Countess of Burgundy",
+        "labelCn": "与勃艮第女伯爵让娜二世成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Joan_II,_Countess_of_Burgundy",
+        "note": "Joan is not yet in the roster."
+      },
+      {
+        "year": 1316,
+        "month": 6,
+        "type": "government",
+        "tags": [
+          "government",
+          "regency"
+        ],
+        "weight": 84,
+        "label": "Regent for the unborn heir",
+        "labelCn": "出任待产王储的摄政",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Philip_V_of_France",
+        "note": "After Louis X's death he governed as regent pending the birth of John I."
+      },
+      {
+        "year": 1316,
+        "month": 11,
+        "day": 20,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "king"
+        ],
+        "weight": 94,
+        "label": "Became King of France",
+        "labelCn": "即位为法兰西国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Philip_V_of_France",
+        "note": "Succeeded his infant nephew John I over the claim of John's half-sister Joan."
+      },
+      {
+        "year": 1317,
+        "month": 1,
+        "day": 9,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "king"
+        ],
+        "weight": 88,
+        "label": "Coronation at Reims",
+        "labelCn": "兰斯加冕",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Philip_V_of_France"
+      },
+      {
+        "year": 1317,
+        "month": 2,
+        "day": 2,
+        "type": "government",
+        "tags": [
+          "government",
+          "succession",
+          "law"
+        ],
+        "weight": 92,
+        "label": "Assembly established the exclusion of women from the succession",
+        "labelCn": "议会确立女性排除于王位继承之外",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Philip_V_of_France",
+        "note": "The Paris assembly of 2 February 1317 asserted the principle later known as the Salic law, consolidating his own title."
+      },
+      {
+        "year": 1320,
+        "type": "religion",
+        "tags": [
+          "religion",
+          "uncertain"
+        ],
+        "weight": 70,
+        "label": "Shepherds' Crusade",
+        "labelCn": "牧人十字军",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Shepherds%27_Crusade_(1320)",
+        "note": "A popular movement that turned to attacks on Jews and clergy and was suppressed during his reign."
+      },
+      {
+        "year": 1322,
+        "month": 1,
+        "day": 3,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 90,
+        "label": "Died at Longchamp",
+        "labelCn": "在隆尚修道院去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Philip_V_of_France"
+      }
+    ]
+  },
+  {
+    "id": "da988cef-12ff-4b79-afad-70d0565b976e",
+    "firstName": "Charles",
+    "lastName": "Capet",
+    "displayName": "Charles IV",
+    "fullName": "Charles IV of France",
+    "nickname": "the Fair",
+    "alsoKnownAs": [
+      "Charles the Fair"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "查理四世",
+    "fullNameCn": "法兰西国王查理四世",
+    "nicknameCn": "美男子",
+    "birthYear": 1294,
+    "deathYear": 1328,
+    "birthPlace": "Clermont, Kingdom of France",
+    "deathPlace": "Vincennes, Kingdom of France",
+    "birthPlaceCn": "法兰西王国克莱蒙",
+    "deathPlaceCn": "法兰西王国万塞讷",
+    "gender": "male",
+    "dynasty": "House of Capet",
+    "house": "House of Capet",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "King of France",
+    "primaryTitleCn": "法兰西国王",
+    "titles": [
+      {
+        "title": "King of France",
+        "startYear": 1322,
+        "endYear": 1328,
+        "titleCn": "法兰西国王"
+      },
+      {
+        "title": "King of Navarre",
+        "startYear": 1322,
+        "endYear": 1328,
+        "titleCn": "纳瓦拉国王"
+      }
+    ],
+    "tags": [
+      "king",
+      "noble"
+    ],
+    "rank": "king",
+    "importanceScore": 78,
+    "relationships": {
+      "fatherId": "699ff54a-5291-422d-8621-d0a127c5d24c",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Charles_IV_of_France",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Charles_IV_of_France",
+    "sourceNote": "Born 18/19 June 1294 (day varies across sources).",
+    "notes": "Third son of Philippe IV; the last king of the direct Capetian line. His death without a male heir (only daughters survived) opened the succession dispute between Philippe of Valois and Edward III of England, a proximate cause of the Hundred Years' War. Spouses (Blanche of Burgundy, Marie of Luxembourg, Jeanne d'Évreux) are not yet in the roster.",
+    "historicalRating": 8,
+    "createdDate": "20260817",
+    "createdOrder": 122,
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died of illness at Vincennes",
+      "summaryCn": "在万塞讷病逝",
+      "detail": "Charles IV died on 1 February 1328 at Vincennes after a prolonged illness (various sources mention gout, tuberculosis or consumption).",
+      "detailCn": "1328 年 2 月 1 日，查理四世在久病后于万塞讷去世（资料提及痛风、结核或痨病）。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Charles_IV_of_France"
+    },
+    "events": [
+      {
+        "year": 1294,
+        "month": 6,
+        "day": 18,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "uncertain"
+        ],
+        "weight": 58,
+        "label": "Born at Clermont",
+        "labelCn": "出生于克莱蒙",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Charles_IV_of_France",
+        "note": "Born 18/19 June 1294; the day varies across sources."
+      },
+      {
+        "year": 1322,
+        "month": 1,
+        "day": 3,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "king"
+        ],
+        "weight": 94,
+        "label": "Became King of France",
+        "labelCn": "即位为法兰西国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Charles_IV_of_France"
+      },
+      {
+        "year": 1322,
+        "month": 2,
+        "day": 21,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "king"
+        ],
+        "weight": 88,
+        "label": "Coronation at Reims",
+        "labelCn": "兰斯加冕",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Charles_IV_of_France"
+      },
+      {
+        "year": 1322,
+        "month": 5,
+        "day": 19,
+        "type": "annulment",
+        "tags": [
+          "annulment",
+          "marriage"
+        ],
+        "weight": 76,
+        "label": "Marriage to Blanche of Burgundy annulled",
+        "labelCn": "与勃艮第的布朗什的婚姻被宣告无效",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Charles_IV_of_France",
+        "note": "Blanche had been imprisoned for adultery after the Tour de Nesle affair; the annulment (19 May 1322) permitted Charles's remarriage."
+      },
+      {
+        "year": 1322,
+        "month": 9,
+        "day": 21,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 74,
+        "label": "Marriage to Marie of Luxembourg",
+        "labelCn": "与卢森堡的玛丽成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Marie_of_Luxembourg,_Queen_of_France",
+        "note": "Marie is not yet in the roster."
+      },
+      {
+        "year": 1323,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "territory"
+        ],
+        "weight": 78,
+        "label": "War of Saint-Sardos with England",
+        "labelCn": "与英格兰的圣萨尔多战争",
+        "wikiUrl": "https://en.wikipedia.org/wiki/War_of_Saint-Sardos",
+        "note": "The Gascon conflict of 1323–1328 ended with the confiscation of most English-held Aquitaine."
+      },
+      {
+        "year": 1328,
+        "month": 2,
+        "day": 1,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 92,
+        "label": "Died without a male heir",
+        "labelCn": "去世，无男性继承人",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Charles_IV_of_France",
+        "note": "His death ended the direct Capetian line; the rival claims of Philippe of Valois and Edward III of England led to the Hundred Years' War."
+      }
+    ]
+  }
+]

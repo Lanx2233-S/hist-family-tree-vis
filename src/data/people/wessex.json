@@ -1,0 +1,4061 @@
+[
+  {
+    "id": "aed34407-7ca3-4fcc-9255-ce1b908f9b72",
+    "firstName": "Alfred",
+    "lastName": "Wessex",
+    "displayName": "Alfred the Great",
+    "fullName": "Alfred the Great",
+    "nickname": "the Great",
+    "alsoKnownAs": [
+      "Ælfred of Wessex",
+      "King Alfred"
+    ],
+    "nicknameTags": [
+      "great"
+    ],
+    "birthYear": 849,
+    "deathYear": 899,
+    "birthPlace": "Wantage, Wessex",
+    "birthPlaceCn": "韦塞克斯旺塔奇",
+    "deathPlace": "Winchester, Wessex",
+    "deathPlaceCn": "韦塞克斯温切斯特",
+    "gender": "male",
+    "dynasty": "House of Wessex",
+    "house": "House of Wessex",
+    "culture": "Anglo-Saxon",
+    "faith": "Catholic",
+    "primaryTitle": "King of Wessex",
+    "titles": [
+      {
+        "title": "King of Wessex",
+        "startYear": 871,
+        "endYear": 899,
+        "titleCn": "威塞克斯国王"
+      },
+      {
+        "title": "King of the Anglo-Saxons",
+        "startYear": 886,
+        "endYear": 899,
+        "titleCn": "盎格鲁-撒克逊人之王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "commander",
+      "law"
+    ],
+    "rank": "king",
+    "importanceScore": 94,
+    "relationships": {
+      "fatherId": "019f2067-839d-4480-b345-744fb9af428b",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "9e63e9bd-e794-4cf3-9c41-5aff3c81c29f",
+        "b725b22d-501e-4750-ad91-a71cc6069f8d",
+        "9b3065e7-e0a7-4aaa-bf90-70bac60f8562",
+        "4906de6b-cdef-468c-b602-411e4bbe3c03",
+        "547055ce-1258-4fa5-9373-14d0845aacf1"
+      ]
+    },
+    "events": [
+      {
+        "year": 868,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "queen"
+        ],
+        "weight": 76,
+        "label": "Marriage to Ealhswith of Mercia",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ealhswith",
+        "labelCn": "与默西亚的艾尔斯威丝结婚",
+        "note": "Ealhswith came from Mercian nobility; the marriage cemented ties with Mercia."
+      },
+      {
+        "year": 871,
+        "month": 1,
+        "day": 9,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "commander"
+        ],
+        "weight": 88,
+        "label": "Battle of Ashdown",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Ashdown",
+        "labelCn": "阿什当战役",
+        "note": "9 January 871, four days after the Danish victory at Reading; Alfred's forces prevailed."
+      },
+      {
+        "year": 871,
+        "month": 4,
+        "type": "title",
+        "tags": [
+          "title",
+          "monarch",
+          "succession"
+        ],
+        "weight": 92,
+        "label": "Became King of Wessex",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Alfred_the_Great",
+        "labelCn": "成为威塞克斯国王",
+        "note": "Succeeded his brother Æthelred I on his death in April 871; reign dated from 23 April 871."
+      },
+      {
+        "year": 878,
+        "month": 1,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "defense"
+        ],
+        "weight": 86,
+        "label": "Danish surprise attack on Chippenham; Alfred retreats to Athelney",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Alfred_the_Great",
+        "labelCn": "丹麦军突袭奇彭纳姆，阿尔弗雷德退守阿塞尔内",
+        "note": "Guthrum's forces struck at Chippenham on Twelfth Night (early January 878); Alfred withdrew to the marshes of Athelney."
+      },
+      {
+        "year": 878,
+        "month": 5,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "commander"
+        ],
+        "weight": 100,
+        "label": "Battle of Edington",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Edington",
+        "labelCn": "爱丁顿战役",
+        "note": "May 878; Alfred mustered the fyrd in the seventh week after Easter (4–10 May) and decisively defeated Guthrum."
+      },
+      {
+        "year": 878,
+        "type": "diplomacy",
+        "tags": [
+          "diplomacy",
+          "treaty",
+          "religion"
+        ],
+        "weight": 88,
+        "label": "Treaty of Wedmore; baptism of Guthrum",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Treaty_of_Wedmore",
+        "labelCn": "《韦德莫尔条约》与古斯鲁姆受洗",
+        "note": "Guthrum and 29 of his leading men were baptised at Aller, with Alfred as godfather; the formal Treaty of Alfred and Guthrum partitioning the Danelaw followed c. 879–886."
+      },
+      {
+        "year": 886,
+        "type": "government",
+        "tags": [
+          "government",
+          "dynasty"
+        ],
+        "weight": 84,
+        "label": "Captured London",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Alfred_the_Great",
+        "labelCn": "攻占伦敦",
+        "note": "Alfred occupied and restored London in 886, placing it under Mercian control."
+      },
+      {
+        "year": 886,
+        "type": "title",
+        "tags": [
+          "title",
+          "monarch"
+        ],
+        "weight": 87,
+        "label": "Took the title King of the Anglo-Saxons",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Alfred_the_Great",
+        "labelCn": "改用「盎格鲁-撒克逊人之王」称号",
+        "note": "From c. 886 Alfred styled himself King of the Anglo-Saxons, signalling overlordship of all English not under Danish rule."
+      },
+      {
+        "year": 890,
+        "type": "government",
+        "tags": [
+          "law",
+          "government"
+        ],
+        "weight": 90,
+        "label": "Issued the law code (Doom Book)",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Alfred_the_Great",
+        "labelCn": "颁布律法汇编《末日法典》",
+        "note": "Compiled in the late 880s or early 890s, drawing on earlier codes including those of Æthelberht, Ine and Offa; part of Alfred's broader programme of learning."
+      },
+      {
+        "year": 890,
+        "type": "government",
+        "tags": [
+          "government",
+          "defense"
+        ],
+        "weight": 85,
+        "label": "Built a network of fortified burhs",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Burghal_Hidage",
+        "labelCn": "营建要塞城镇（布尔赫）防御体系",
+        "note": "Fortified towns were built from the 880s during the peace after Edington; the Burghal Hidage records the system's obligations."
+      },
+      {
+        "year": 892,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "defense"
+        ],
+        "weight": 84,
+        "label": "Repelled renewed Viking invasions (892–896)",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Alfred_the_Great",
+        "labelCn": "击退892–896年维京人的再度入侵",
+        "note": "Large Viking fleets invaded from autumn 892/893; the campaign ended when the invaders gave up around 896."
+      },
+      {
+        "year": 893,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "commander"
+        ],
+        "weight": 82,
+        "label": "Battle of Buttington",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Buttington",
+        "labelCn": "布廷顿战役",
+        "note": "Dated 893 or 894 in different sources; combined West Saxon and Mercian forces defeated a besieged Viking army."
+      },
+      {
+        "year": 899,
+        "month": 10,
+        "day": 26,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 90,
+        "label": "Death at Winchester",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Alfred_the_Great",
+        "labelCn": "于温切斯特去世",
+        "note": "Died 26 October 899; the precise illness is not recorded in contemporary sources."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Alfred_the_Great",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Alfred_the_Great",
+    "sourceNote": "Birth year debated: Asser gives 849, but West Saxon genealogical evidence implies 847–848; 849 is used here as the mainstream figure. Traditional birthplace Wantage is not independently attested.",
+    "notes": "Maternal ancestor of Empress Matilda through the royal House of Wessex. Reformer of law and defence: issued a law code, built the burh network, and sponsored a programme of learning (court school and translations).",
+    "createdDate": "260815",
+    "createdOrder": 4,
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died of illness in old age (specific illness not recorded)",
+      "detail": "Alfred died at Winchester on 26 October 899 after a long period of declining health; contemporary sources do not identify the precise illness.",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Alfred_the_Great",
+      "summaryCn": "老年患病去世（具体病因未载）",
+      "detailCn": "899 年 10 月 26 日，阿尔弗雷德在长期健康衰退后于温彻斯特去世；当时的史料未能确证具体病因。"
+    },
+    "displayNameCn": "阿尔弗雷德大帝",
+    "fullNameCn": "阿尔弗雷德大帝",
+    "nicknameCn": "大帝",
+    "primaryTitleCn": "威塞克斯国王",
+    "historicalRating": 9
+  },
+  {
+    "id": "9e63e9bd-e794-4cf3-9c41-5aff3c81c29f",
+    "firstName": "Edward",
+    "lastName": "Wessex",
+    "displayName": "Edward the Elder",
+    "fullName": "Edward the Elder",
+    "nickname": "the Elder",
+    "nicknameCn": "长者",
+    "alsoKnownAs": [],
+    "nicknameTags": [
+      "elder"
+    ],
+    "gender": "male",
+    "birthYear": 874,
+    "deathYear": 924,
+    "birthPlace": "Wessex",
+    "birthPlaceCn": "威塞克斯",
+    "deathPlace": "Farndon, Cheshire",
+    "deathPlaceCn": "柴郡法恩登",
+    "dynasty": "House of Wessex",
+    "house": "House of Wessex",
+    "culture": "Anglo-Saxon",
+    "faith": "Catholic",
+    "rank": "king",
+    "primaryTitle": "King of the Anglo-Saxons",
+    "primaryTitleCn": "盎格鲁-撒克逊人的国王",
+    "titles": [
+      {
+        "title": "King of the Anglo-Saxons",
+        "startYear": 899,
+        "endYear": 924,
+        "titleCn": "盎格鲁-撒克逊人的国王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "commander"
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Edward_the_Elder",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Edward_the_Elder",
+    "sourceNote": "Son of Alfred the Great; birth year not recorded (historians estimate the mid-870s) and his birth place is unknown, so 'Wessex' is approximate; the exact date of the Battle of Tettenhall (5 August 910) rests on the Anglo-Saxon Chronicle.",
+    "notes": "King of the Anglo-Saxons 899-924; with his sister Æthelflæd he reconquered the southern Danelaw from the Vikings.",
+    "deathCause": {
+      "kind": "uncertain",
+      "summary": "Cause of death not recorded",
+      "detail": "Edward died at Farndon-on-Dee, Cheshire, on 17 July 924, shortly after suppressing a revolt by Mercians and Welsh at Chester; no cause of death is recorded. His son Ælfweard may have reigned in Wessex briefly before Æthelstan became king.",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Edward_the_Elder",
+      "summaryCn": "死因无记载",
+      "detailCn": "924 年 7 月 17 日长者爱德华在镇压切斯特的麦西亚人与威尔士人叛乱后不久，卒于柴郡迪河畔法恩登；死因无记载。其子埃尔夫沃德可能在威塞克斯短暂在位，随后埃塞尔斯坦继位。"
+    },
+    "relationships": {
+      "fatherId": "aed34407-7ca3-4fcc-9255-ce1b908f9b72",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "6a820f17-48e1-4927-b3f6-3471625acd47",
+        "02155361-a928-4fb6-990e-a3ac713e56c2",
+        "5e4fb7fc-d6a4-488d-ba0e-c10a3ee41f4f",
+        "73149398-824b-4a24-958e-812f8db08c68",
+        "97d321e2-bdc2-4089-9354-d990153212ff",
+        "9b63d20d-6b16-4569-b2cf-86a9a180a715"
+      ]
+    },
+    "events": [
+      {
+        "year": 899,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "king",
+          "monarch"
+        ],
+        "weight": 96,
+        "label": "Succeeded Alfred as King of the Anglo-Saxons",
+        "labelCn": "继承阿尔弗雷德成为盎格鲁-撒克逊人的国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Edward_the_Elder",
+        "note": "Alfred died on 26 October 899; Edward was accepted by the West Saxons and Mercians, though his cousin Æthelwold disputed the succession."
+      },
+      {
+        "year": 900,
+        "month": 6,
+        "day": 8,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "king",
+          "religion"
+        ],
+        "weight": 85,
+        "label": "Crowned at Kingston upon Thames",
+        "labelCn": "于泰晤士河畔金斯顿加冕",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Edward_the_Elder",
+        "note": "Crowned on 8 June 900 at Kingston upon Thames."
+      },
+      {
+        "year": 902,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "rebellion",
+          "defense"
+        ],
+        "weight": 78,
+        "label": "Battle of the Holme: revolt of Æthelwold ended",
+        "labelCn": "霍尔姆战役：埃塞尔沃尔德叛乱终结",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_the_Holme",
+        "note": "Fought on 13 December 902; the Danes won the battle but Æthelwold was killed, ending the threat to Edward's throne."
+      },
+      {
+        "year": 910,
+        "month": 8,
+        "day": 5,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "commander",
+          "main_commander"
+        ],
+        "weight": 92,
+        "label": "Battle of Tettenhall: decisive defeat of the Northumbrian Danes",
+        "labelCn": "特滕霍尔战役：大败诺森布里亚丹麦人",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Tettenhall",
+        "note": "A combined Mercian and West Saxon army inflicted a decisive defeat on the Northumbrian Danes; the date of 5 August 910 is from the Anglo-Saxon Chronicle."
+      },
+      {
+        "year": 917,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "conquest",
+          "territory",
+          "commander"
+        ],
+        "weight": 89,
+        "label": "Conquest of the East Anglian Danelaw: Tempsford, Colchester, Maldon",
+        "labelCn": "征服东盎格利亚丹麦法区：坦普斯福德、科尔切斯特、莫尔登",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Edward_the_Elder",
+        "note": "The decisive year: English forces stormed Tempsford and killed the last Danish king of East Anglia, took Colchester and relieved Maldon; the Danes of East Anglia, Cambridge and Northampton submitted."
+      },
+      {
+        "year": 918,
+        "type": "government",
+        "tags": [
+          "government",
+          "territory",
+          "dynasty"
+        ],
+        "weight": 86,
+        "label": "Took Stamford and Nottingham; imposed direct rule on Mercia",
+        "labelCn": "夺取斯坦福与诺丁汉，对麦西亚实行直接统治",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Edward_the_Elder",
+        "note": "Stamford and Nottingham surrendered in 918; after Æthelflæd's death (June 918) her daughter Ælfwynn was deposed in December 918 and Mercia was brought under Edward's direct rule."
+      },
+      {
+        "year": 920,
+        "type": "diplomacy",
+        "tags": [
+          "diplomacy",
+          "king",
+          "alliance"
+        ],
+        "weight": 91,
+        "label": "At Bakewell the kings of Scots, Northumbrians and Strathclyde accepted him as overlord",
+        "labelCn": "贝克韦尔会盟：苏格兰、诺森布里亚与斯特拉斯克莱德诸王承认其宗主权",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Edward_the_Elder",
+        "note": "At Bakewell in the Peak District the kings of the Scots, Rægnald, the Northumbrians and the Strathclyde Welsh 'chose him as father and lord'; modern historians are sceptical that this was a real submission."
+      },
+      {
+        "year": 924,
+        "month": 7,
+        "day": 17,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 90,
+        "label": "Died at Farndon-on-Dee, Cheshire",
+        "labelCn": "卒于柴郡迪河畔法恩登",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Edward_the_Elder",
+        "note": "17 July 924; succeeded by Æthelstan, though his son Ælfweard may have been king of Wessex for about a month before his own death in August 924."
+      }
+    ],
+    "importanceScore": 84,
+    "historicalRating": 8,
+    "createdDate": "260815",
+    "createdOrder": 5,
+    "displayNameCn": "长者爱德华",
+    "fullNameCn": "长者爱德华"
+  },
+  {
+    "id": "02155361-a928-4fb6-990e-a3ac713e56c2",
+    "firstName": "Æthelstan",
+    "lastName": "Wessex",
+    "displayName": "Æthelstan",
+    "fullName": "Æthelstan, King of the English",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [
+      "Athelstan"
+    ],
+    "nicknameTags": [],
+    "gender": "male",
+    "birthYear": 894,
+    "deathYear": 939,
+    "birthPlace": "Wessex",
+    "birthPlaceCn": "威塞克斯",
+    "deathPlace": "Gloucester",
+    "deathPlaceCn": "格洛斯特",
+    "dynasty": "House of Wessex",
+    "house": "House of Wessex",
+    "culture": "Anglo-Saxon",
+    "faith": "Catholic",
+    "rank": "king",
+    "primaryTitle": "King of the English",
+    "primaryTitleCn": "英格兰人的国王",
+    "titles": [
+      {
+        "title": "King of the English",
+        "startYear": 924,
+        "endYear": 939,
+        "titleCn": "英格兰人的国王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "commander"
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/%C3%86thelstan",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/%C3%86thelstan",
+    "sourceNote": "Eldest son of Edward the Elder and first king to effectively rule all England; birth year approximate (c. 894), and the 924 vs 925 start of his reign is disputed (Wessex delayed his coronation until 925).",
+    "notes": "Grandson of Alfred the Great; never married and had no children, succeeded by his half-brother Edmund I.",
+    "deathCause": {
+      "kind": "uncertain",
+      "summary": "No cause recorded",
+      "detail": "Æthelstan died at Gloucester on 27 October 939, aged about 45; no contemporary source records the cause of death, presumed to have been illness. He was buried at Malmesbury Abbey by his own wish.",
+      "wikiUrl": "https://en.wikipedia.org/wiki/%C3%86thelstan",
+      "summaryCn": "死因无记载",
+      "detailCn": "939 年 10 月 27 日埃塞尔斯坦卒于格洛斯特，享年约 45 岁；当代史料未记载死因，推测为疾病。按其遗愿葬于马尔姆斯伯里修道院。"
+    },
+    "relationships": {
+      "fatherId": "9e63e9bd-e794-4cf3-9c41-5aff3c81c29f",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 894,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 70,
+        "label": "Born in Wessex, traditionally at Winchester, c. 894",
+        "labelCn": "出生于威塞克斯（传统称温彻斯特），约 894 年",
+        "wikiUrl": "https://en.wikipedia.org/wiki/%C3%86thelstan",
+        "note": "Year approximate, based on William of Malmesbury's claim that he was thirty years old when he came to the throne in 924."
+      },
+      {
+        "year": 924,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "king"
+        ],
+        "weight": 85,
+        "label": "Accepted as King of the Anglo-Saxons by the Mercians",
+        "labelCn": "被麦西亚人拥立为盎格鲁-撒克逊人的国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/%C3%86thelstan",
+        "note": "The Mercians accepted him on Edward the Elder's death in July 924; opposition in Wessex delayed his coronation until September 925."
+      },
+      {
+        "year": 925,
+        "month": 9,
+        "day": 4,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "king",
+          "religion"
+        ],
+        "weight": 95,
+        "label": "Crowned King of the Anglo-Saxons at Kingston upon Thames",
+        "labelCn": "于泰晤士河畔金斯顿加冕为盎格鲁-撒克逊人的国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/%C3%86thelstan",
+        "note": "Crowned on 4 September 925 by Archbishop Athelm of Canterbury."
+      },
+      {
+        "year": 926,
+        "month": 1,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance",
+          "alliance"
+        ],
+        "weight": 74,
+        "label": "Marriage of his sister to Sihtric, Viking king of York",
+        "labelCn": "将姐妹嫁给约克维京国王西特里克",
+        "wikiUrl": "https://en.wikipedia.org/wiki/%C3%86thelstan",
+        "note": "January 926; after Sihtric's death in 927 Æthelstan seized York, completing the conquest."
+      },
+      {
+        "year": 927,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "conquest",
+          "territory"
+        ],
+        "weight": 97,
+        "label": "Conquest of York and Northumbria",
+        "labelCn": "征服约克与诺森布里亚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/%C3%86thelstan",
+        "note": "Seized York after Sihtric's death in 927; Ealdred of Bamburgh was driven out and Northumbria brought under his rule."
+      },
+      {
+        "year": 927,
+        "month": 7,
+        "day": 12,
+        "type": "diplomacy",
+        "tags": [
+          "diplomacy",
+          "king",
+          "alliance"
+        ],
+        "weight": 90,
+        "label": "Meeting at Eamont: Scottish and northern kings accept his overlordship",
+        "labelCn": "埃蒙特会盟：苏格兰与北方诸王承认其宗主权",
+        "wikiUrl": "https://en.wikipedia.org/wiki/%C3%86thelstan",
+        "note": "12 July 927; Constantine II of Scotland, Hywel Dda, Ealdred of Bamburgh and Owain of Strathclyde accepted his overlordship."
+      },
+      {
+        "year": 927,
+        "type": "title",
+        "tags": [
+          "title",
+          "king",
+          "monarch"
+        ],
+        "weight": 82,
+        "label": "Styled King of the English — first king of all England",
+        "labelCn": "称英格兰人的国王——首位全英格兰之王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/%C3%86thelstan",
+        "note": "From 927 his charters and coins used grand titles such as Rex totius Britanniae, 'King of the whole of Britain'."
+      },
+      {
+        "year": 929,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance",
+          "alliance"
+        ],
+        "weight": 72,
+        "label": "Half-sister Eadgyth married the future Emperor Otto I",
+        "labelCn": "异母妹埃德吉斯嫁给未来的皇帝奥托一世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/%C3%86thelstan",
+        "note": "929 or 930; Æthelstan sent two half-sisters to the court of Henry the Fowler, and Otto chose Eadgyth as his bride."
+      },
+      {
+        "year": 934,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "commander",
+          "conquest"
+        ],
+        "weight": 78,
+        "label": "Invaded Scotland; Constantine II acknowledged his overlordship",
+        "labelCn": "入侵苏格兰，君士坦丁二世承认其宗主权",
+        "wikiUrl": "https://en.wikipedia.org/wiki/%C3%86thelstan",
+        "note": "Campaign of May 934; by September Constantine witnessed a charter as subregulus."
+      },
+      {
+        "year": 937,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "commander",
+          "main_commander"
+        ],
+        "weight": 99,
+        "label": "Battle of Brunanburh: decisive victory over the Norse-Scottish alliance",
+        "labelCn": "布鲁南博尔战役：大败诺斯-苏格兰联军",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Brunanburh",
+        "note": "Autumn 937; exact day unrecorded. An overwhelming victory over the allied Norsemen, Scots and Strathclyde Britons, celebrated in the famous poem in the Anglo-Saxon Chronicle."
+      },
+      {
+        "year": 939,
+        "month": 10,
+        "day": 27,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 88,
+        "label": "Died at Gloucester",
+        "labelCn": "卒于格洛斯特",
+        "wikiUrl": "https://en.wikipedia.org/wiki/%C3%86thelstan",
+        "note": "27 October 939; buried at Malmesbury Abbey, Wiltshire."
+      }
+    ],
+    "importanceScore": 88,
+    "historicalRating": 9,
+    "createdDate": "260817",
+    "createdOrder": 88,
+    "displayNameCn": "埃塞尔斯坦",
+    "fullNameCn": "英格兰人的国王埃塞尔斯坦"
+  },
+  {
+    "id": "5e4fb7fc-d6a4-488d-ba0e-c10a3ee41f4f",
+    "firstName": "Eadred",
+    "lastName": "Wessex",
+    "displayName": "Eadred",
+    "fullName": "Eadred, King of the English",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [
+      "Edred"
+    ],
+    "nicknameTags": [],
+    "gender": "male",
+    "birthYear": 923,
+    "deathYear": 955,
+    "birthPlace": "Wessex",
+    "birthPlaceCn": "威塞克斯",
+    "deathPlace": "Frome",
+    "deathPlaceCn": "弗罗姆",
+    "dynasty": "House of Wessex",
+    "house": "House of Wessex",
+    "culture": "Anglo-Saxon",
+    "faith": "Catholic",
+    "rank": "king",
+    "primaryTitle": "King of the English",
+    "primaryTitleCn": "英格兰人的国王",
+    "titles": [
+      {
+        "title": "King of the English",
+        "startYear": 946,
+        "endYear": 955,
+        "titleCn": "英格兰人的国王"
+      }
+    ],
+    "tags": [
+      "monarch"
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Eadred",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Eadred",
+    "sourceNote": "Son of Edward the Elder and king of the English; the chronology of the Northumbrian succession struggles of 947-954 is 'very unclear' and contested by historians.",
+    "notes": "Youngest son of Edward the Elder and Eadgifu; completed the reduction of Northumbria; close friend of St Dunstan; died unmarried.",
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died of a chronic illness",
+      "detail": "Eadred died at Frome, Somerset, on 23 November 955 after ill health that worsened in his last years and led to his early death at about 32; contemporaries describe him sucking the juice from food, suggesting a chronic digestive ailment.",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Eadred",
+      "summaryCn": "死于慢性疾病",
+      "detailCn": "955 年 11 月 23 日埃德雷德卒于萨默塞特弗罗姆；晚年健康状况不断恶化，终致约 32 岁早逝。时人记载他进食时只吸食汤汁，提示慢性消化系统疾病。"
+    },
+    "relationships": {
+      "fatherId": "9e63e9bd-e794-4cf3-9c41-5aff3c81c29f",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 946,
+        "month": 5,
+        "day": 26,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "king",
+          "monarch"
+        ],
+        "weight": 90,
+        "label": "Succeeded his brother Edmund I as King of the English",
+        "labelCn": "继承兄长埃德蒙一世成为英格兰人的国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Eadred",
+        "note": "Edmund was killed at Pucklechurch on 26 May 946; his sons were young children, so Eadred succeeded."
+      },
+      {
+        "year": 946,
+        "month": 8,
+        "day": 16,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "king",
+          "religion"
+        ],
+        "weight": 82,
+        "label": "Crowned at Kingston upon Thames by Archbishop Oda",
+        "labelCn": "由坎特伯雷大主教奥达在金斯顿加冕",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Eadred",
+        "note": "Crowned on 16 August 946; in the same year he reduced all Northumbria under his rule and received promises of obedience from the Scots."
+      },
+      {
+        "year": 947,
+        "type": "diplomacy",
+        "tags": [
+          "diplomacy",
+          "king",
+          "territory"
+        ],
+        "weight": 84,
+        "label": "Northumbrian magnates submitted at Tanshelf",
+        "labelCn": "诺森布里亚权贵在坦谢尔夫归顺",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Eadred",
+        "note": "At Tanshelf, Archbishop Wulfstan and the York magnates pledged allegiance to Eadred."
+      },
+      {
+        "year": 948,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "commander"
+        ],
+        "weight": 78,
+        "label": "Ravaged Northumbria; burned Ripon Minster; ambushed at Castleford",
+        "labelCn": "蹂躏诺森布里亚，焚毁里彭大教堂，在卡斯尔福德遭伏击",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Eadred",
+        "note": "The York magnates had accepted Erik Bloodaxe as king; Eadred ravaged Northumbria and burned Ripon Minster to punish Wulfstan, then was ambushed on his return at Castleford; the Northumbrians soon deserted Erik and paid compensation."
+      },
+      {
+        "year": 952,
+        "type": "government",
+        "tags": [
+          "government",
+          "church",
+          "imprisonment"
+        ],
+        "weight": 80,
+        "label": "Arrested and deposed Archbishop Wulfstan",
+        "labelCn": "逮捕并废黜大主教伍尔夫斯坦",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Eadred",
+        "note": "In 952 Eadred arrested Wulfstan for his repeated dealings with the Scandinavian kings of York; the archbishop was later released (probably early 955) to the bishopric of Dorchester-on-Thames."
+      },
+      {
+        "year": 954,
+        "type": "diplomacy",
+        "tags": [
+          "diplomacy",
+          "territory",
+          "conquest"
+        ],
+        "weight": 88,
+        "label": "Final submission of Northumbria; Erik Bloodaxe expelled",
+        "labelCn": "诺森布里亚最终归顺；血斧埃里克被逐",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Eadred",
+        "note": "In 954 the York magnates threw out Erik Bloodaxe, this time permanently; Erik was assassinated shortly afterwards, and Osulf of Bamburgh was appointed the first ealdorman of all Northumbria."
+      },
+      {
+        "year": 955,
+        "month": 11,
+        "day": 23,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 85,
+        "label": "Died at Frome after a long illness",
+        "labelCn": "久病后卒于弗罗姆",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Eadred",
+        "note": "23 November 955; succeeded by his nephew Eadwig."
+      }
+    ],
+    "importanceScore": 72,
+    "historicalRating": 7,
+    "createdDate": "260817",
+    "createdOrder": 89,
+    "displayNameCn": "埃德雷德",
+    "fullNameCn": "英格兰人的国王埃德雷德"
+  },
+  {
+    "id": "73149398-824b-4a24-958e-812f8db08c68",
+    "firstName": "Eadgifu",
+    "lastName": "Wessex",
+    "displayName": "Eadgifu of Wessex",
+    "fullName": "Eadgifu of Wessex, Queen of West Francia",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Edgifu",
+      "Edgiva",
+      "Ogive"
+    ],
+    "nicknameTags": [],
+    "birthYear": 902,
+    "deathYear": 955,
+    "birthPlace": "Wessex",
+    "deathPlace": "Soissons",
+    "birthPlaceCn": "韦塞克斯",
+    "deathPlaceCn": "苏瓦松",
+    "gender": "female",
+    "dynasty": "House of Wessex",
+    "house": "House of Wessex",
+    "culture": "Anglo-Saxon",
+    "faith": "Catholic",
+    "primaryTitle": "Queen of West Francia",
+    "titles": [
+      {
+        "title": "Queen of West Francia",
+        "startYear": 919,
+        "endYear": 936,
+        "titleCn": "西法兰克王后"
+      }
+    ],
+    "tags": [
+      "noble",
+      "queen",
+      "consort"
+    ],
+    "rank": "queen",
+    "importanceScore": 48,
+    "relationships": {
+      "fatherId": "9e63e9bd-e794-4cf3-9c41-5aff3c81c29f",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 918,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "queen",
+          "dynastic_alliance"
+        ],
+        "weight": 90,
+        "label": "Marriage to Charles the Simple, King of West Francia",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Charles_the_Simple",
+        "labelCn": "与西法兰克国王查理三世（天真汉）结婚",
+        "note": "Eadgifu became Charles the Simple's second wife, married between 917 and 919 after the death of his first wife Frederuna; queen consort of West Francia from 919."
+      },
+      {
+        "year": 923,
+        "type": "political_crisis",
+        "tags": [
+          "dynasty",
+          "government",
+          "uncertain"
+        ],
+        "weight": 85,
+        "label": "Fled to England with her son Louis after Charles's deposition",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Eadgifu_of_Wessex",
+        "labelCn": "查理被废后携子路易逃往英格兰",
+        "note": "In 923 Charles the Simple was deposed after the Battle of Soissons and taken prisoner by Count Herbert II of Vermandois; Eadgifu fled with the infant Louis to England, where he was raised at the court of her half-brother Æthelstan."
+      },
+      {
+        "year": 936,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "monarch"
+        ],
+        "weight": 88,
+        "label": "Returned to France; her son Louis IV crowned King of West Francia",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Louis_IV_of_France",
+        "labelCn": "返回法兰西；其子路易四世加冕为西法兰克国王",
+        "note": "In 936 Louis IV was called back from England and crowned king of West Francia, with Eadgifu accompanying him; she then retired to a convent at Laon."
+      },
+      {
+        "year": 951,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "uncertain"
+        ],
+        "weight": 80,
+        "label": "Abduction by and marriage to Herbert the Old, Count of Omois",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Eadgifu_of_Wessex",
+        "labelCn": "被奥莫瓦伯爵老赫伯特掳走成婚",
+        "note": "In 951, to her son Louis IV's great anger, Eadgifu was abducted and married by Herbert the Old, Count of Omois; the circumstances are poorly documented."
+      },
+      {
+        "year": 951,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 95,
+        "label": "Death at Soissons (in or after 951)",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Eadgifu_of_Wessex",
+        "labelCn": "在苏瓦松去世（951年或其后）",
+        "note": "Eadgifu died at Soissons on 26 December in an unknown year; she is not recorded after 951, so the death is dated 'in or after 951'. The record's death year of 955 is an approximation."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Eadgifu_of_Wessex",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Eadgifu_of_Wessex",
+    "sourceNote": "Daughter of Edward the Elder and queen of West Francia. Birth year not recorded; died 'in or after 951' (record value 955); queen consort of West Francia 919–923.",
+    "notes": "Daughter of Edward the Elder and his second wife Ælfflæd. Married Charles the Simple of West Francia (917–919); fled with her son Louis to England in 923 after Charles was deposed; Louis was raised at the court of her half-brother Æthelstan and became king of West Francia in 936. She retired to Laon and is last recorded in 951. Her husband Charles the Simple and son Louis IV are not in the roster. Note: this Eadgifu is the queen of West Francia — not Eadgifu of Kent, the mother of Edmund I. Birth year is not recorded (record value 902 is an approximation).",
+    "createdDate": "260817",
+    "createdOrder": 90,
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died in or after 951 (exact year unknown)",
+      "detail": "Eadgifu died at Soissons on 26 December in an unknown year; she is not recorded after 951, so the mainstream dating is 'in or after 951'. The record's value of 955 is an approximation.",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Eadgifu_of_Wessex",
+      "summaryCn": "卒于951年或其后（确切年份不详）",
+      "detailCn": "伊德吉芙在某年12月26日卒于苏瓦松；951年之后史料再无记载，故主流定年为「951年或其后」。记录中的955年为近似值。"
+    },
+    "displayNameCn": "伊德吉芙",
+    "fullNameCn": "西法兰克王后伊德吉芙",
+    "nicknameCn": "",
+    "primaryTitleCn": "西法兰克王后",
+    "historicalRating": 5
+  },
+  {
+    "id": "97d321e2-bdc2-4089-9354-d990153212ff",
+    "firstName": "Ælfgifu",
+    "lastName": "Wessex",
+    "displayName": "Ælfgifu of Wessex",
+    "fullName": "Ælfgifu of Wessex",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Elgiva"
+    ],
+    "nicknameTags": [],
+    "birthYear": 900,
+    "deathYear": 944,
+    "birthPlace": "Wessex",
+    "deathPlace": "Wessex",
+    "gender": "female",
+    "dynasty": "House of Wessex",
+    "house": "House of Wessex",
+    "culture": "Anglo-Saxon",
+    "faith": "Catholic",
+    "primaryTitle": "Princess of Wessex",
+    "titles": [
+      {
+        "title": "Princess of Wessex",
+        "startYear": 900,
+        "endYear": 944,
+        "titleCn": "威塞克斯公主"
+      }
+    ],
+    "tags": [
+      "noble"
+    ],
+    "rank": "noble",
+    "importanceScore": 34,
+    "relationships": {
+      "fatherId": "9e63e9bd-e794-4cf3-9c41-5aff3c81c29f",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/%C3%86lfgifu_(daughter_of_Edward_the_Elder)",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/%C3%86lfgifu_(daughter_of_Edward_the_Elder)",
+    "sourceNote": "Daughter of Edward the Elder; identity is distinct from other women of the same name.",
+    "notes": "Basic card; event timeline intentionally left empty.",
+    "createdDate": "260817",
+    "createdOrder": 91,
+    "displayNameCn": "埃尔夫吉芙",
+    "fullNameCn": "威塞克斯公主埃尔夫吉芙",
+    "primaryTitleCn": "威塞克斯公主",
+    "historicalRating": 3
+  },
+  {
+    "id": "9b63d20d-6b16-4569-b2cf-86a9a180a715",
+    "firstName": "Eadgyth",
+    "lastName": "Wessex",
+    "displayName": "Eadgyth of Wessex",
+    "fullName": "Eadgyth of Wessex, Queen of Germany",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Edith",
+      "Edith of Wessex"
+    ],
+    "nicknameTags": [],
+    "birthYear": 910,
+    "deathYear": 946,
+    "birthPlace": "Wessex",
+    "deathPlace": "Magdeburg",
+    "birthPlaceCn": "韦塞克斯",
+    "deathPlaceCn": "马格德堡",
+    "gender": "female",
+    "dynasty": "House of Wessex",
+    "house": "House of Wessex",
+    "culture": "Anglo-Saxon",
+    "faith": "Catholic",
+    "primaryTitle": "Queen of Germany",
+    "titles": [
+      {
+        "title": "Queen of Germany",
+        "startYear": 929,
+        "endYear": 946,
+        "titleCn": "德意志王后"
+      }
+    ],
+    "tags": [
+      "noble",
+      "queen",
+      "consort"
+    ],
+    "rank": "queen",
+    "importanceScore": 45,
+    "relationships": {
+      "fatherId": "9e63e9bd-e794-4cf3-9c41-5aff3c81c29f",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 930,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "queen",
+          "dynastic_alliance"
+        ],
+        "weight": 92,
+        "label": "Marriage to Otto (later Otto I, Holy Roman Emperor)",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Otto_I,_Holy_Roman_Emperor",
+        "labelCn": "与奥托（后来的神圣罗马帝国皇帝奥托一世）结婚",
+        "note": "In 930 Henry the Fowler requested the match and Æthelstan sent Eadgyth and her sister Eadgifu to Germany; Otto chose Eadgyth. Otto had already granted her Magdeburg as dower in 929."
+      },
+      {
+        "year": 936,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "queen"
+        ],
+        "weight": 88,
+        "label": "Became Queen of East Francia/Germany; crowned separately from Otto",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Eadgyth",
+        "labelCn": "成为东法兰克（德意志）王后，与奥托分别受膏加冕",
+        "note": "On Otto's accession in 936 Eadgyth became queen of East Francia (Germany), crowned and anointed separately from her husband."
+      },
+      {
+        "year": 937,
+        "type": "religion",
+        "tags": [
+          "religion",
+          "church"
+        ],
+        "weight": 80,
+        "label": "Co-founded the Monastery of St Maurice at Magdeburg",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Magdeburg_Cathedral",
+        "labelCn": "与奥托共建马格德堡圣莫里斯修道院",
+        "note": "In 937 Eadgyth and Otto co-founded the Monastery of St Maurice at Magdeburg, later the site of her burial and of Magdeburg Cathedral."
+      },
+      {
+        "year": 941,
+        "type": "diplomacy",
+        "tags": [
+          "diplomacy"
+        ],
+        "weight": 75,
+        "label": "Reconciled Otto with his mother",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Eadgyth",
+        "labelCn": "促成奥托与其母和解",
+        "note": "In 941 Eadgyth effected a reconciliation between Otto and his mother; she also helped introduce the cult of Saint Oswald of Northumbria into Germany."
+      },
+      {
+        "year": 946,
+        "month": 1,
+        "day": 26,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 95,
+        "label": "Death at Magdeburg",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Eadgyth",
+        "labelCn": "在马格德堡去世",
+        "note": "Eadgyth died at Magdeburg on 26 January 946, aged about 35–36; her death was unexpected. Her remains, identified by isotope analysis in 2010, are the oldest known remains of a member of English royalty."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Eadgyth",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Eadgyth",
+    "sourceNote": "Daughter of Edward the Elder and queen of Germany. Married Otto in 930; died 26 January 946 at Magdeburg.",
+    "notes": "Daughter of Edward the Elder and his second wife Ælfflæd; sister of Eadgifu of Wessex. Married Otto, later Emperor Otto I, in 930; queen of East Francia/Germany from 936, crowned separately from Otto. Mother of Liudolf, Duke of Swabia, and Liutgard. This is the Eadgyth who married Otto I — distinct from Edith of Polesworth and Edith of Wilton. Her husband Otto I and children are not in the roster.",
+    "createdDate": "260817",
+    "createdOrder": 92,
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died at Magdeburg on 26 January 946; cause not recorded",
+      "detail": "Eadgyth died at Magdeburg on 26 January 946, aged about 35–36; her death was unexpected and the cause is not recorded. She was buried in the monastery of St Maurice, later Magdeburg Cathedral.",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Eadgyth",
+      "summaryCn": "946年1月26日卒于马格德堡，死因未载",
+      "detailCn": "伊德吉丝于946年1月26日在马格德堡去世，年约35–36岁；她的死出乎意料，死因未见记载。她葬于圣莫里斯修道院，即后来的马格德堡大教堂。"
+    },
+    "displayNameCn": "伊德吉丝",
+    "fullNameCn": "德意志王后伊德吉丝",
+    "nicknameCn": "",
+    "primaryTitleCn": "德意志王后",
+    "historicalRating": 5
+  },
+  {
+    "id": "6a820f17-48e1-4927-b3f6-3471625acd47",
+    "firstName": "Edmund",
+    "lastName": "Wessex",
+    "displayName": "Edmund I",
+    "fullName": "Edmund I of England",
+    "nickname": "the Magnificent",
+    "alsoKnownAs": [
+      "Edmund the Elder",
+      "Edmund the Just",
+      "Edmundus Magnificus"
+    ],
+    "nicknameTags": [
+      "magnificent"
+    ],
+    "birthYear": 921,
+    "deathYear": 946,
+    "birthPlace": "Wessex",
+    "deathPlace": "Pucklechurch, Gloucestershire",
+    "birthPlaceCn": "韦塞克斯",
+    "deathPlaceCn": "格洛斯特郡帕克尔彻奇",
+    "gender": "male",
+    "dynasty": "House of Wessex",
+    "house": "House of Wessex",
+    "culture": "Anglo-Saxon",
+    "faith": "Catholic",
+    "primaryTitle": "King of the English",
+    "titles": [
+      {
+        "title": "King of the English",
+        "startYear": 939,
+        "endYear": 946,
+        "titleCn": "英格兰人的国王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "commander"
+    ],
+    "rank": "king",
+    "importanceScore": 80,
+    "relationships": {
+      "fatherId": "9e63e9bd-e794-4cf3-9c41-5aff3c81c29f",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "eceed220-7a02-42dd-99cb-3420f16e2cf6",
+        "40c3aefb-37eb-48eb-8e56-e22733674533"
+      ]
+    },
+    "events": [
+      {
+        "year": 939,
+        "month": 10,
+        "day": 27,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "monarch"
+        ],
+        "weight": 90,
+        "label": "Became King of the English on Æthelstan's death",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Edmund_I",
+        "labelCn": "埃塞尔斯坦去世后继位为英格兰人的国王",
+        "note": "Succeeded his half-brother Æthelstan on 27 October 939; William of Malmesbury implies he was about 18."
+      },
+      {
+        "year": 939,
+        "month": 12,
+        "day": 1,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 84,
+        "label": "Coronation at Kingston-upon-Thames (Advent Sunday)",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Edmund_I",
+        "labelCn": "在泰晤士河畔金斯顿加冕（将临期主日）",
+        "note": "Probably crowned c. 1 December 939 (Advent Sunday), likely at Kingston-upon-Thames."
+      },
+      {
+        "year": 940,
+        "type": "marriage",
+        "tags": [
+          "marriage"
+        ],
+        "weight": 80,
+        "label": "Marriage to Ælfgifu of Shaftesbury",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Edmund_I",
+        "labelCn": "与沙夫茨伯里的埃尔夫吉芙结婚",
+        "note": "Married probably around the time of his accession; Ælfgifu, mother of his sons Eadwig and Edgar, died in 944 and was venerated as a saint."
+      },
+      {
+        "year": 940,
+        "type": "diplomacy",
+        "tags": [
+          "diplomacy",
+          "defeat",
+          "territory"
+        ],
+        "weight": 83,
+        "label": "Loss of the Five Boroughs; treaty at Leicester with Olaf Guthfrithson",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Olaf_Guthfrithson",
+        "labelCn": "丧失五城地区；与奥拉夫·古斯弗里特松在莱斯特订约",
+        "note": "Anlaf Guthfrithson stormed Tamworth and the treaty mediated by Archbishop Wulfstan of York surrendered the Five Boroughs — the first serious setback for the English since Edward the Elder's reconquest."
+      },
+      {
+        "year": 942,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "conquest",
+          "territory"
+        ],
+        "weight": 88,
+        "label": "Recovered the Five Boroughs",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Edmund_I",
+        "labelCn": "收复五城地区",
+        "note": "In 942 Edmund recovered Lincoln, Leicester, Nottingham, Stamford and Derby, commemorated by a poem in the Anglo-Saxon Chronicle."
+      },
+      {
+        "year": 943,
+        "type": "diplomacy",
+        "tags": [
+          "diplomacy",
+          "religion"
+        ],
+        "weight": 79,
+        "label": "Baptism of Anlaf Sihtricson with Edmund as godfather",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Edmund_I",
+        "labelCn": "奥拉夫·西特里克松受洗，埃德蒙任其教父",
+        "note": "The Norse king of York was baptised in 943 with Edmund as godfather, cementing peace."
+      },
+      {
+        "year": 944,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "conquest"
+        ],
+        "weight": 86,
+        "label": "Expelled the Viking kings of York",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Edmund_I",
+        "labelCn": "驱逐约克的维京国王",
+        "note": "In 944 Edmund expelled the remaining Norse kings of York, regaining control over the whole of England."
+      },
+      {
+        "year": 945,
+        "type": "diplomacy",
+        "tags": [
+          "diplomacy",
+          "alliance",
+          "territory"
+        ],
+        "weight": 82,
+        "label": "Ravaged Strathclyde; ceded it to Malcolm I of Scotland for a defensive pledge",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Edmund_I",
+        "labelCn": "蹂躏斯特拉斯克莱德，为换取防御盟约将其交给苏格兰国王马尔科姆一世",
+        "note": "Edmund ravaged Strathclyde in 945 and handed it to Malcolm I of Scotland in return for a pledge of defensive alliance."
+      },
+      {
+        "year": 946,
+        "month": 5,
+        "day": 26,
+        "type": "death",
+        "tags": [
+          "death",
+          "violent"
+        ],
+        "weight": 99,
+        "label": "Killed by an outlaw at Pucklechurch",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Edmund_I",
+        "labelCn": "在帕克尔彻奇被亡命之徒杀害",
+        "note": "Killed on 26 May 946 at Pucklechurch, Gloucestershire, while trying to rescue his steward from the outlaw Leofa; a minority view (Downham, Halloran) sees political assassination. Buried at Glastonbury Abbey."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Edmund_I",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Edmund_I",
+    "sourceNote": "Birth year 920/921 (record value 921); death 26 May 946 at Pucklechurch per the Anglo-Saxon Chronicle tradition as related by John of Worcester.",
+    "notes": "Son of Edward the Elder and his third wife Eadgifu of Kent; elder brother of King Eadred. Also styled Edmund the Elder, Edmund the Just and Edmund the Magnificent (Edmundus Magnificus). Recovered the Five Boroughs (942), expelled the Viking kings of York (944) and ceded Strathclyde to Malcolm I of Scotland in 945 for a defensive alliance. His mother, his wives (Ælfgifu of Shaftesbury, Æthelflæd of Damerham) and his elder son Eadwig are not in the roster.",
+    "createdDate": "260815",
+    "createdOrder": 6,
+    "deathCause": {
+      "kind": "violent",
+      "summary": "Killed by an outlaw at Pucklechurch while defending his steward",
+      "detail": "Edmund was killed on 26 May 946 at Pucklechurch, Gloucestershire, while trying to rescue his steward from the outlaw Leofa, who stabbed him to death; the story is recorded in the Anglo-Saxon Chronicle tradition (John of Worcester). A minority scholarly view (Downham, Halloran) argues political assassination, but most historians accept the chronicle account.",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Edmund_I",
+      "summaryCn": "在帕克尔彻奇为保护管家而被亡命之徒杀害",
+      "detailCn": "946年5月26日，埃德蒙在格洛斯特郡帕克尔彻奇为保护管家而与亡命之徒莱奥法（Leofa）搏斗，被其刺杀身亡；此说见于《盎格鲁-撒克逊编年史》传统（约翰·伍斯特转述）。少数学者（唐纳姆、哈洛伦）认为是政治暗杀，但多数史家接受编年史的记载。"
+    },
+    "displayNameCn": "埃德蒙一世",
+    "fullNameCn": "英格兰人的国王埃德蒙一世",
+    "nicknameCn": "威严者",
+    "primaryTitleCn": "英格兰人的国王",
+    "historicalRating": 8
+  },
+  {
+    "id": "eceed220-7a02-42dd-99cb-3420f16e2cf6",
+    "firstName": "Edgar",
+    "lastName": "Wessex",
+    "displayName": "Edgar the Peaceful",
+    "fullName": "Edgar the Peaceful",
+    "nickname": "the Peaceful",
+    "alsoKnownAs": [
+      "Edgar the Peacemaker",
+      "Edgar the Peaceable"
+    ],
+    "nicknameTags": [
+      "peaceful"
+    ],
+    "birthYear": 943,
+    "deathYear": 975,
+    "birthPlace": "England",
+    "deathPlace": "Winchester, England",
+    "birthPlaceCn": "英格兰",
+    "deathPlaceCn": "英格兰温彻斯特",
+    "gender": "male",
+    "dynasty": "House of Wessex",
+    "house": "House of Wessex",
+    "culture": "Anglo-Saxon",
+    "faith": "Catholic",
+    "primaryTitle": "King of the English",
+    "titles": [
+      {
+        "title": "King of the English",
+        "startYear": 959,
+        "endYear": 975,
+        "titleCn": "英格兰人的国王"
+      }
+    ],
+    "tags": [
+      "monarch"
+    ],
+    "rank": "king",
+    "importanceScore": 82,
+    "relationships": {
+      "fatherId": "6a820f17-48e1-4927-b3f6-3471625acd47",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "ed0b5627-f0d9-4c85-ac64-26c1c4c3e4b2",
+        "84ce52d6-91bf-47fb-afa1-5f869f20fbf6"
+      ]
+    },
+    "events": [
+      {
+        "year": 957,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "monarch",
+          "territory"
+        ],
+        "weight": 84,
+        "label": "Became King of Mercia when the kingdom was divided",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Edgar_the_Peaceful",
+        "labelCn": "王国分裂后成为默西亚国王",
+        "note": "In 957 the kingdom was divided: Edgar became King of the Mercians (with the Thames as boundary) while his brother Eadwig kept Wessex."
+      },
+      {
+        "year": 959,
+        "month": 10,
+        "day": 1,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "monarch"
+        ],
+        "weight": 92,
+        "label": "Became King of all England on Eadwig's death",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Edgar_the_Peaceful",
+        "labelCn": "埃德威格去世后继位为全英格兰国王",
+        "note": "On 1 October 959 Edgar became king of all England; coinage was still issued in Eadwig's name until then."
+      },
+      {
+        "year": 960,
+        "type": "religion",
+        "tags": [
+          "religion",
+          "church"
+        ],
+        "weight": 86,
+        "label": "Dunstan appointed Archbishop of Canterbury",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Dunstan",
+        "labelCn": "邓斯坦出任坎特伯雷大主教",
+        "note": "At the start of Edgar's reign Dunstan, recalled from exile, became Archbishop of Canterbury — a pillar of the Benedictine Reform."
+      },
+      {
+        "year": 964,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "queen"
+        ],
+        "weight": 80,
+        "label": "Marriage to Ælfthryth",
+        "wikiUrl": "https://en.wikipedia.org/wiki/%C3%86lfthryth,_wife_of_Edgar",
+        "labelCn": "与埃尔夫特里特结婚",
+        "note": "Edgar married Ælfthryth, widow of Ealdorman Æthelwold, in 964; she was consecrated queen in 973. Her sons were Edmund (d. 971) and Æthelred the Unready."
+      },
+      {
+        "year": 973,
+        "month": 5,
+        "day": 11,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 95,
+        "label": "Coronation of Edgar and Ælfthryth at Bath (Whit Sunday)",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Edgar_the_Peaceful",
+        "labelCn": "在巴思为埃德加与埃尔夫特里特加冕（圣灵降临节）",
+        "note": "11 May 973, Whit Sunday: Edgar was crowned at Bath, described in the Chronicle as if a first coronation though he had reigned since 959 — historians debate its significance."
+      },
+      {
+        "year": 973,
+        "type": "diplomacy",
+        "tags": [
+          "diplomacy",
+          "alliance"
+        ],
+        "weight": 88,
+        "label": "Submission of kings at Chester",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Edgar_the_Peaceful",
+        "labelCn": "切斯特诸王臣服",
+        "note": "At Chester in 973 six (ASC D) or eight (Ælfric) kings submitted to or allied with Edgar; the famous story of Edgar being rowed on the River Dee by the kings comes only from 12th-century writers and is traditional, not contemporary."
+      },
+      {
+        "year": 973,
+        "type": "religion",
+        "tags": [
+          "religion",
+          "reformation",
+          "church"
+        ],
+        "weight": 82,
+        "label": "Backed the English Benedictine Reform; Regularis Concordia",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Regularis_Concordia",
+        "labelCn": "支持英格兰本笃会改革运动，颁布《统一修院规程》",
+        "note": "Edgar strongly supported the monastic reform led by Dunstan, Oswald and Æthelwold; the Regularis Concordia (c. 973) established a single monastic rule."
+      },
+      {
+        "year": 975,
+        "month": 7,
+        "day": 8,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 90,
+        "label": "Death, aged 31–32; buried at Glastonbury Abbey",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Edgar_the_Peaceful",
+        "labelCn": "去世，享年31–32岁，葬于格拉斯顿伯里修道院",
+        "note": "Edgar died on 8 July 975, aged 31 or 32. The Anglo-Saxon Chronicle records no place; Winchester is traditionally given (John of Worcester). His death triggered the succession struggle between Edward the Martyr and Æthelred."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Edgar_the_Peaceful",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Edgar_the_Peaceful",
+    "sourceNote": "Born 943 or 944 (record value 943; his mother died the year he was born); died 8 July 975. The Chester rowing story is a 12th-century tradition, not contemporary evidence.",
+    "notes": "Son of Edmund I and his first wife Ælfgifu of Shaftesbury. Nicknamed the Peaceful/Peacemaker because his reign was free of serious external conflict; it was also the high point of the English Benedictine Reform. His consorts (Æthelflæd Eneda, Wulfthryth, Ælfthryth) and sons Edward the Martyr and Edmund (d. 971) are not in the roster.",
+    "createdDate": "260815",
+    "createdOrder": 7,
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died aged 31–32; cause not recorded",
+      "detail": "Edgar died on 8 July 975; contemporary sources record no illness and the cause of death is unknown. He was buried at Glastonbury Abbey. The traditional death place Winchester is given by John of Worcester but not by the Anglo-Saxon Chronicle.",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Edgar_the_Peaceful",
+      "summaryCn": "31–32岁时去世，死因未载",
+      "detailCn": "975年7月8日埃德加去世，当时史料未记载任何病症，死因不明。他葬于格拉斯顿伯里修道院。传统说法其死于温彻斯特出自约翰·伍斯特，编年史未载具体地点。"
+    },
+    "displayNameCn": "和平者埃德加",
+    "fullNameCn": "和平者埃德加",
+    "nicknameCn": "和平者",
+    "primaryTitleCn": "英格兰人的国王",
+    "historicalRating": 8
+  },
+  {
+    "id": "ed0b5627-f0d9-4c85-ac64-26c1c4c3e4b2",
+    "firstName": "Aethelred",
+    "lastName": "Wessex",
+    "displayName": "Aethelred II",
+    "fullName": "Aethelred II the Unready",
+    "nickname": "the Unready",
+    "alsoKnownAs": [
+      "Æthelred the Unready"
+    ],
+    "nicknameTags": [
+      "unready"
+    ],
+    "birthYear": 966,
+    "deathYear": 1016,
+    "birthPlace": "England",
+    "deathPlace": "London",
+    "birthPlaceCn": "英格兰",
+    "deathPlaceCn": "伦敦",
+    "gender": "male",
+    "dynasty": "House of Wessex",
+    "house": "House of Wessex",
+    "culture": "Anglo-Saxon",
+    "faith": "Catholic",
+    "primaryTitle": "King of England",
+    "titles": [
+      {
+        "title": "King of England",
+        "startYear": 978,
+        "endYear": 1016,
+        "titleCn": "英格兰国王"
+      }
+    ],
+    "tags": [
+      "monarch"
+    ],
+    "rank": "king",
+    "importanceScore": 84,
+    "relationships": {
+      "fatherId": "eceed220-7a02-42dd-99cb-3420f16e2cf6",
+      "motherId": "",
+      "spouseIds": [
+        "11999429-e764-4ed2-9c8c-cf95cfbbdecc"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "84d16e93-3a36-46a7-b7b9-b237dc38dfc6",
+        "a9d5b087-d9a5-4970-8f5c-6701fdb0463c"
+      ]
+    },
+    "events": [
+      {
+        "year": 978,
+        "month": 3,
+        "day": 18,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "monarch"
+        ],
+        "weight": 90,
+        "label": "Became king after the murder of his half-brother Edward the Martyr",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Edward_the_Martyr",
+        "labelCn": "同父异母兄殉道者爱德华遇害后继位",
+        "note": "Edward the Martyr was killed at Corfe on 18 March 978; Æthelred, aged about 9–12, came to the throne in deeply troubled circumstances."
+      },
+      {
+        "year": 979,
+        "month": 4,
+        "day": 14,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 88,
+        "label": "Consecration at Kingston-upon-Thames",
+        "wikiUrl": "https://en.wikipedia.org/wiki/%C3%86thelred_the_Unready",
+        "labelCn": "在泰晤士河畔金斯顿受膏加冕",
+        "note": "The Anglo-Saxon Chronicle says he was consecrated at Kingston 'with much rejoicing' over a year after his accession; the common dating is Easter 979 (14 April), but the day is uncertain."
+      },
+      {
+        "year": 991,
+        "month": 8,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "defeat"
+        ],
+        "weight": 92,
+        "label": "Battle of Maldon; Byrhtnoth killed; first large Danegeld paid",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Maldon",
+        "labelCn": "莫尔登战役；比尔特诺斯战死；首次缴纳巨额丹麦金",
+        "note": "In August 991 Ealdorman Byrhtnoth was defeated and killed by Vikings at Maldon; England paid 10,000 pounds to make them leave — the first large Danegeld."
+      },
+      {
+        "year": 994,
+        "type": "diplomacy",
+        "tags": [
+          "diplomacy",
+          "treaty",
+          "alliance"
+        ],
+        "weight": 86,
+        "label": "Olaf Tryggvason and Sweyn Forkbeard attacked; tribute paid; Olaf baptised",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Olaf_Tryggvason",
+        "labelCn": "奥拉夫·特里格瓦松与斯韦恩·福克比尔德入侵；纳贡；奥拉夫受洗",
+        "note": "In 994 the Norwegian Olaf Tryggvason and the Dane Sweyn Forkbeard besieged London; England paid 16,000 pounds and Æthelred sponsored Olaf's confirmation, after which Olaf promised never to return in hostility."
+      },
+      {
+        "year": 1002,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 87,
+        "label": "Marriage to Emma of Normandy",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Emma_of_Normandy",
+        "labelCn": "与诺曼底的埃玛结婚",
+        "note": "In 1002 Æthelred married Emma, sister of Duke Richard II of Normandy — a key dynastic alliance with Normandy; their sons included Edward the Confessor."
+      },
+      {
+        "year": 1002,
+        "month": 11,
+        "day": 13,
+        "type": "political_crisis",
+        "tags": [
+          "government",
+          "uncertain"
+        ],
+        "weight": 89,
+        "label": "St Brice's Day massacre of Danes",
+        "wikiUrl": "https://en.wikipedia.org/wiki/St_Brice%27s_Day_massacre",
+        "labelCn": "圣布赖斯日屠杀丹麦人",
+        "note": "On 13 November 1002 Æthelred ordered the killing of all Danish men in England; the order is known from his charter of 1004 and its scale is debated by historians."
+      },
+      {
+        "year": 1013,
+        "type": "political_crisis",
+        "tags": [
+          "conquest",
+          "defeat",
+          "territory"
+        ],
+        "weight": 85,
+        "label": "Sweyn Forkbeard's conquest of England; flight into exile in Normandy",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Sweyn_Forkbeard",
+        "labelCn": "斯韦恩·福克比尔德征服英格兰；流亡诺曼底",
+        "note": "From August 1013 Sweyn launched a full conquest; London held out but the country submitted, and by December 1013 Æthelred fled to his wife's family in Normandy."
+      },
+      {
+        "year": 1014,
+        "month": 2,
+        "day": 3,
+        "type": "government",
+        "tags": [
+          "government",
+          "monarch",
+          "succession"
+        ],
+        "weight": 88,
+        "label": "Returned from exile after Sweyn's death; restored to the throne",
+        "wikiUrl": "https://en.wikipedia.org/wiki/%C3%86thelred_the_Unready",
+        "labelCn": "斯韦恩死后自流亡地归来复位",
+        "note": "Sweyn died on 3 February 1014; Æthelred returned, received pledges of loyalty from the magnates (the first recorded pact between an English king and his subjects) and drove out Sweyn's son Cnut."
+      },
+      {
+        "year": 1015,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "conquest",
+          "defense"
+        ],
+        "weight": 84,
+        "label": "Cnut's invasion (1015–1016); Eadric Streona's defection; Edmund's rebellion",
+        "wikiUrl": "https://en.wikipedia.org/wiki/%C3%86thelred_the_Unready",
+        "labelCn": "克努特入侵（1015–1016年）；埃德里克·斯特雷奥纳叛变；埃德蒙起兵",
+        "note": "Cnut landed in autumn 1015 and conquered the north; Ealdorman Eadric Streona defected to him, while Æthelred's son Edmund revolted against his father. Æthelred, ill and suspicious, remained in London."
+      },
+      {
+        "year": 1016,
+        "month": 4,
+        "day": 23,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 95,
+        "label": "Death in London during Cnut's siege",
+        "wikiUrl": "https://en.wikipedia.org/wiki/%C3%86thelred_the_Unready",
+        "labelCn": "克努特围攻伦敦期间在伦敦去世",
+        "note": "Æthelred died in London on 23 April 1016 while Cnut besieged the city; he was buried in Old St Paul's Cathedral and was succeeded by his son Edmund Ironside."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/%C3%86thelred_the_Unready",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/%C3%86thelred_the_Unready",
+    "sourceNote": "Birth c. 966–969 (record value 966); death 23 April 1016 in London. His byname 'Unready' renders Old English unræd, 'ill-advised'.",
+    "notes": "Son of Edgar the Peaceful and Queen Ælfthryth (daughter of Ordgar, ealdorman of Devon) — a different Ælfthryth from the roster's Ælfthryth, Countess of Flanders, so no link is drawn. His byname 'Unready' (Old English unræd) is a pun meaning 'ill-advised' or 'no counsel', not 'unprepared'. His first wife Ælfgifu of York and second wife Emma of Normandy are not in the roster. Modern scholarship views his reign more sympathetically than the old condemnation: achievements in legislation, coinage and literature stand against the catastrophic end of his reign.",
+    "createdDate": "260815",
+    "createdOrder": 8,
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died of illness in London during Cnut's siege",
+      "detail": "Æthelred died in London on 23 April 1016, while Cnut's forces were besieging the city; the Anglo-Saxon Chronicle attributes his death to illness. Some later writers claimed he was murdered or died of grief, but the mainstream view is natural death after a period of sickness.",
+      "wikiUrl": "https://en.wikipedia.org/wiki/%C3%86thelred_the_Unready",
+      "summaryCn": "克努特围攻伦敦期间因病去世",
+      "detailCn": "1016年4月23日，在克努特围攻伦敦期间，埃塞尔雷德二世在伦敦病逝；《盎格鲁-撒克逊编年史》记载其死于疾病。后世个别记载称其遭谋杀或忧伤而死，但主流观点为自然死亡。"
+    },
+    "displayNameCn": "埃塞尔雷德二世",
+    "fullNameCn": "决策无方者埃塞尔雷德二世",
+    "nicknameCn": "决策无方者",
+    "primaryTitleCn": "英格兰国王",
+    "historicalRating": 8
+  },
+  {
+    "id": "84d16e93-3a36-46a7-b7b9-b237dc38dfc6",
+    "firstName": "Edmund",
+    "lastName": "Wessex",
+    "displayName": "Edmund II",
+    "fullName": "Edmund II Ironside",
+    "nickname": "Ironside",
+    "alsoKnownAs": [
+      "Edmund the Ironside"
+    ],
+    "nicknameTags": [
+      "ironside"
+    ],
+    "birthYear": 990,
+    "deathYear": 1016,
+    "birthPlace": "Wessex",
+    "deathPlace": "London",
+    "birthPlaceCn": "韦塞克斯",
+    "deathPlaceCn": "伦敦",
+    "gender": "male",
+    "dynasty": "House of Wessex",
+    "house": "House of Wessex",
+    "culture": "Anglo-Saxon",
+    "faith": "Catholic",
+    "primaryTitle": "King of England",
+    "titles": [
+      {
+        "title": "King of England",
+        "startYear": 1016,
+        "endYear": 1016,
+        "titleCn": "英格兰国王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "commander"
+    ],
+    "rank": "king",
+    "importanceScore": 86,
+    "relationships": {
+      "fatherId": "ed0b5627-f0d9-4c85-ac64-26c1c4c3e4b2",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "f030fca1-dfca-4a37-ba90-5222605ea831"
+      ]
+    },
+    "events": [
+      {
+        "year": 1015,
+        "type": "marriage",
+        "tags": [
+          "marriage"
+        ],
+        "weight": 80,
+        "label": "Marriage to Ealdgyth, widow of Sigeferth",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Edmund_Ironside",
+        "labelCn": "与西格弗斯的遗孀埃尔迪丝结婚",
+        "note": "In 1015 Edmund married Ealdgyth, widow of the murdered thegn Sigeferth, illegally and against his father's will — a direct challenge to Æthelred."
+      },
+      {
+        "year": 1016,
+        "month": 4,
+        "day": 23,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "monarch"
+        ],
+        "weight": 90,
+        "label": "Became King of the English after Æthelred's death",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Edmund_Ironside",
+        "labelCn": "埃塞尔雷德二世去世后继位为英格兰国王",
+        "note": "On 23 April 1016, after his father's death in London, Edmund was chosen king by the Londoners and the witan, continuing the war against Cnut."
+      },
+      {
+        "year": 1016,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 83,
+        "label": "Chosen and probably crowned in London",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Edmund_Ironside",
+        "labelCn": "在伦敦被拥立并可能加冕",
+        "note": "Edmund was 'probably crowned' in London in 1016, likely by Archbishop Lyfing of Canterbury; the ceremony is not securely recorded."
+      },
+      {
+        "year": 1016,
+        "month": 6,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "commander"
+        ],
+        "weight": 82,
+        "label": "Battle of Penselwood (victory over Cnut)",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Edmund_Ironside",
+        "labelCn": "彭塞尔伍德战役（击败克努特）",
+        "note": "In June 1016 Edmund fought Cnut at Penselwood in Somerset; the sources record the engagement as a success for Edmund in the summer campaign."
+      },
+      {
+        "year": 1016,
+        "month": 6,
+        "day": 30,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "commander"
+        ],
+        "weight": 84,
+        "label": "Battle of Sherston (indecisive)",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Edmund_Ironside",
+        "labelCn": "谢尔斯顿战役（未分胜负）",
+        "note": "In the last week of June 1016 Edmund fought Cnut at Sherston in Wiltshire; the battle was indecisive after two days of fighting."
+      },
+      {
+        "year": 1016,
+        "month": 10,
+        "day": 18,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "defeat",
+          "commander"
+        ],
+        "weight": 95,
+        "label": "Battle of Assandun; decisive defeat by Cnut",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Assandun",
+        "labelCn": "阿桑顿战役，败于克努特",
+        "note": "On 18 October 1016 Edmund was decisively defeated at Assandun (site uncertain, possibly Ashingdon, Essex); the flight of Eadric Streona was blamed for the rout."
+      },
+      {
+        "year": 1016,
+        "month": 10,
+        "type": "diplomacy",
+        "tags": [
+          "diplomacy",
+          "treaty",
+          "territory"
+        ],
+        "weight": 92,
+        "label": "Treaty of Alney (Olney); England divided with Cnut",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Edmund_Ironside",
+        "labelCn": "阿尔内（奥尔尼）条约；与克努特瓜分英格兰",
+        "note": "After Assandun, Edmund and Cnut agreed at Alney near Deerhurst to partition England: Edmund kept Wessex, Cnut took the north — a short-lived division before Edmund's death."
+      },
+      {
+        "year": 1016,
+        "month": 11,
+        "day": 30,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 99,
+        "label": "Death; cause unknown",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Edmund_Ironside",
+        "labelCn": "去世，死因不明",
+        "note": "Edmund died on 30 November 1016, possibly at London or Oxford, months into his reign; after his death Cnut took all England. Contemporary sources do not record the cause."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Edmund_Ironside",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Edmund_Ironside",
+    "sourceNote": "Birth c. 990–993 (record value 988, adjusted to 990 per mainstream scholarship); death 30 November 1016, cause unknown.",
+    "notes": "Son of Æthelred the Unready and his first wife Ælfgifu of York. Birth year is uncertain: historians place it between 990 and 993; he was possibly born at Æthelingadene (Singleton, West Sussex) and raised by his grandmother Queen Ælfthryth. His byname 'Ironside' appears in sources from c. 1057 and reflects his warrior reputation. His wife Ealdgyth and younger son Edmund Ætheling are not in the roster.",
+    "createdDate": "260815",
+    "createdOrder": 9,
+    "deathCause": {
+      "kind": "uncertain",
+      "summary": "Died 30 November 1016, months into his reign; cause unknown",
+      "detail": "Edmund died on 30 November 1016, possibly at London or Oxford, only months after the treaty with Cnut. Contemporary sources do not record the cause: disease, exhaustion from campaigning or battle injuries are all possible. The 11th-century chronicler Adam of Bremen claimed poisoning, and 12th-century writers told of murder, but modern historians regard these as unreliable (possibly folklore).",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Edmund_Ironside",
+      "summaryCn": "即位数月后于1016年11月30日去世，死因不明",
+      "detailCn": "1016年11月30日，埃德蒙在与克努特订约后仅数月即去世，地点可能在伦敦或牛津。当代史料未记载死因：疾病、征战劳累或战伤均有可能。11世纪不莱梅的亚当声称其被毒杀，12世纪文献则记载遇刺，现代史家均认为这些说法不可靠（可能出自民间传说）。"
+    },
+    "displayNameCn": "埃德蒙二世",
+    "fullNameCn": "铁骨埃德蒙二世",
+    "nicknameCn": "铁骨",
+    "primaryTitleCn": "英格兰国王",
+    "historicalRating": 8
+  },
+  {
+    "id": "f030fca1-dfca-4a37-ba90-5222605ea831",
+    "firstName": "Edward",
+    "lastName": "Wessex",
+    "displayName": "Edward the Exile",
+    "fullName": "Edward the Exile",
+    "nickname": "the Exile",
+    "alsoKnownAs": [
+      "Edward Aetheling",
+      "Edward Ætheling"
+    ],
+    "nicknameTags": [
+      "exile"
+    ],
+    "birthYear": 1016,
+    "deathYear": 1057,
+    "birthPlace": "England",
+    "deathPlace": "England",
+    "birthPlaceCn": "英格兰",
+    "deathPlaceCn": "英格兰",
+    "gender": "male",
+    "dynasty": "House of Wessex",
+    "house": "House of Wessex",
+    "culture": "Anglo-Saxon",
+    "faith": "Catholic",
+    "primaryTitle": "English prince",
+    "titles": [],
+    "tags": [
+      "noble"
+    ],
+    "rank": "untitled",
+    "importanceScore": 76,
+    "relationships": {
+      "fatherId": "84d16e93-3a36-46a7-b7b9-b237dc38dfc6",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "73169d74-c7ee-4e7d-9711-74b9272ab00c"
+      ]
+    },
+    "events": [
+      {
+        "year": 1016,
+        "type": "political_crisis",
+        "tags": [
+          "dynasty",
+          "government"
+        ],
+        "weight": 86,
+        "label": "Exiled with his brother Edmund; sent to the Swedish court of Olof Skötkonung",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Edward_the_Exile",
+        "labelCn": "与弟弟埃德蒙一同流亡，被送往瑞典国王奥洛夫·舍特科农的宫廷",
+        "note": "After the Danish conquest, Cnut sent the infant Edward and his brother Edmund to the Swedish court — supposedly to be killed — but Olof Skötkonung, an old ally of their grandfather, refused. The brothers' subsequent fate is poorly documented."
+      },
+      {
+        "year": 1019,
+        "type": "dynasty",
+        "tags": [
+          "dynasty",
+          "noble"
+        ],
+        "weight": 79,
+        "label": "Raised at the court of King Stephen I of Hungary",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Stephen_I_of_Hungary",
+        "labelCn": "在匈牙利国王斯蒂芬一世宫廷中长大",
+        "note": "Most reconstructions place Edward's upbringing at the Hungarian court of King Stephen I (c. 1019–1046); some place the brothers instead at the Kievan court of Yaroslav the Wise. The evidence is speculative."
+      },
+      {
+        "year": 1040,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "uncertain"
+        ],
+        "weight": 80,
+        "label": "Marriage to Agatha (origins disputed)",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Edward_the_Exile",
+        "labelCn": "与阿加莎结婚（其出身有争议）",
+        "note": "Edward's wife Agatha — mother of Margaret of Scotland, Christina and Edgar the Ætheling — is recorded, but her origins are disputed; the exact year of the marriage is unknown (c. 1035–1045)."
+      },
+      {
+        "year": 1046,
+        "type": "diplomacy",
+        "tags": [
+          "diplomacy",
+          "uncertain"
+        ],
+        "weight": 78,
+        "label": "Returned to Hungary with Andrew",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Andrew_I_of_Hungary",
+        "labelCn": "随安德鲁返回匈牙利",
+        "note": "Edward and his family likely accompanied Andrew (later Andrew I) back to Hungary in 1046 and may have fought with his army; the details are reconstructed from later sources."
+      },
+      {
+        "year": 1056,
+        "type": "title",
+        "tags": [
+          "title",
+          "succession",
+          "dynasty"
+        ],
+        "weight": 90,
+        "label": "Recalled by Edward the Confessor as heir to the English throne",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Edward_the_Confessor",
+        "labelCn": "被忏悔者爱德华召回，指定为英格兰王位继承人",
+        "note": "In 1056 Edward the Confessor made the exiled ætheling his heir — the last chance of an undisputed succession within the Saxon royal house; negotiations had begun with Bishop Ealdred's 1054 mission."
+      },
+      {
+        "year": 1057,
+        "type": "diplomacy",
+        "tags": [
+          "diplomacy",
+          "government"
+        ],
+        "weight": 85,
+        "label": "Arrived in England with his wife and children",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Edward_the_Exile",
+        "labelCn": "携妻儿抵达英格兰",
+        "note": "Edward finally arrived in England in 1057 with Agatha and their children — including the young Margaret, later queen of Scotland."
+      },
+      {
+        "year": 1057,
+        "month": 4,
+        "day": 19,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 99,
+        "label": "Death within days of arrival, before meeting the king",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Edward_the_Exile",
+        "labelCn": "抵达数日后去世，未能面见国王",
+        "note": "Edward died on 19 April 1057, within a few days of arriving in England, without meeting Edward the Confessor; he was buried in Old St Paul's Cathedral. The cause is not recorded."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Edward_the_Exile",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Edward_the_Exile",
+    "sourceNote": "Life is poorly documented: birth c. 1016; exile in Sweden, then (per most accounts) Hungary; recalled c. 1056; died 19 April 1057 days after arriving in England.",
+    "notes": "Son of Edmund Ironside and Ealdgyth; his life between 1016 and 1057 is poorly documented and partly speculative. Sent to Sweden after Cnut's conquest, he was raised — per most accounts — at the court of King Stephen I of Hungary (some reconstructions say Kiev) and was recalled by Edward the Confessor as heir in 1056, only to die days after his return. His wife Agatha (origins disputed) and children Christina and Edgar the Ætheling are not in the roster.",
+    "createdDate": "260815",
+    "createdOrder": 10,
+    "deathCause": {
+      "kind": "uncertain",
+      "summary": "Died within days of returning to England; cause not recorded",
+      "detail": "Edward arrived in England in 1057 after being recalled as heir by Edward the Confessor, but died within a few days, on 19 April 1057, before meeting the king. The cause is not recorded in contemporary sources; some later writers have suspected foul play, but there is no evidence of murder. He was buried in Old St Paul's Cathedral.",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Edward_the_Exile",
+      "summaryCn": "返回英格兰数日内去世，死因未载",
+      "detailCn": "1057年，爱德华应忏悔者爱德华之召回国出任继承人，但抵达后数日内（4月19日）便去世，未能面见国王。当代史料未记载死因；后世个别记载怀疑他遭暗害，但并无证据。他被葬于老圣保罗大教堂。"
+    },
+    "displayNameCn": "流亡者爱德华",
+    "fullNameCn": "流亡者爱德华",
+    "nicknameCn": "流亡者",
+    "primaryTitleCn": "英格兰王子",
+    "historicalRating": 8
+  },
+  {
+    "id": "73169d74-c7ee-4e7d-9711-74b9272ab00c",
+    "firstName": "Margaret",
+    "lastName": "Wessex",
+    "displayName": "Saint Margaret of Scotland",
+    "fullName": "Saint Margaret of Scotland",
+    "nickname": "the Saint",
+    "alsoKnownAs": [
+      "Margaret of Wessex"
+    ],
+    "nicknameTags": [
+      "saint"
+    ],
+    "birthYear": 1045,
+    "deathYear": 1093,
+    "birthPlace": "Kingdom of Hungary",
+    "deathPlace": "Edinburgh Castle",
+    "birthPlaceCn": "匈牙利王国",
+    "deathPlaceCn": "爱丁堡城堡",
+    "gender": "female",
+    "dynasty": "House of Wessex",
+    "house": "House of Wessex",
+    "culture": "Anglo-Saxon",
+    "faith": "Catholic",
+    "primaryTitle": "Queen of Scotland",
+    "titles": [
+      {
+        "title": "Queen of Scotland",
+        "startYear": 1070,
+        "endYear": 1093,
+        "titleCn": "苏格兰王后"
+      }
+    ],
+    "tags": [
+      "queen",
+      "consort",
+      "noble"
+    ],
+    "rank": "queen",
+    "importanceScore": 86,
+    "relationships": {
+      "fatherId": "f030fca1-dfca-4a37-ba90-5222605ea831",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "8c48b7d7-e2bb-42f8-8c68-ce449b147eb0"
+      ]
+    },
+    "events": [
+      {
+        "year": 1045,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "uncertain"
+        ],
+        "weight": 80,
+        "label": "Birth in Hungary (c. 1045)",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Saint_Margaret_of_Scotland",
+        "labelCn": "在匈牙利出生（约1045年）",
+        "note": "Margaret was born in the Kingdom of Hungary about 1045, during her family's exile; the exact year is uncertain."
+      },
+      {
+        "year": 1057,
+        "type": "dynasty",
+        "tags": [
+          "dynasty",
+          "noble"
+        ],
+        "weight": 78,
+        "label": "Came to England with her family after her father's death",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Saint_Margaret_of_Scotland",
+        "labelCn": "父亲去世后随家人来到英格兰",
+        "note": "The family was recalled to England in 1057, but her father Edward the Exile died immediately after landing; Margaret then resided at the English court."
+      },
+      {
+        "year": 1070,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "queen"
+        ],
+        "weight": 92,
+        "label": "Marriage to Malcolm III of Scotland",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Malcolm_III_of_Scotland",
+        "labelCn": "与苏格兰国王马尔科姆三世结婚",
+        "note": "Margaret married the widowed Malcolm III in 1070 and became Queen of Scotland; the marriage linked the Anglo-Saxon royal house with the Scottish crown."
+      },
+      {
+        "year": 1070,
+        "type": "religion",
+        "tags": [
+          "religion",
+          "reformation",
+          "church"
+        ],
+        "weight": 86,
+        "label": "Church reforms in Scotland (Easter observance, Lenten fast, synods)",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Saint_Margaret_of_Scotland",
+        "labelCn": "推动苏格兰教会改革（复活节习俗、斋戒、宗教会议）",
+        "note": "Margaret instigated religious reform: she changed Lenten observance to begin on Ash Wednesday, abolished the Saturday Sabbath rest, and held synods to correct church practice."
+      },
+      {
+        "year": 1072,
+        "type": "religion",
+        "tags": [
+          "religion",
+          "church"
+        ],
+        "weight": 88,
+        "label": "Invited the Benedictines to Dunfermline",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Dunfermline_Abbey",
+        "labelCn": "邀请本笃会修士至邓弗姆林",
+        "note": "In 1072 Margaret invited the Benedictine order to Dunfermline, founding the priory that became Dunfermline Abbey, her burial place."
+      },
+      {
+        "year": 1080,
+        "type": "religion",
+        "tags": [
+          "religion",
+          "church"
+        ],
+        "weight": 80,
+        "label": "Restored Iona Abbey",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Iona_Abbey",
+        "labelCn": "重修艾奥纳修道院",
+        "note": "Margaret restored the ancient abbey of Iona, and established pilgrim ferries at Queensferry and North Berwick."
+      },
+      {
+        "year": 1093,
+        "month": 11,
+        "day": 13,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "death"
+        ],
+        "weight": 85,
+        "label": "Battle of Alnwick; husband Malcolm III and son Edward killed",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Alnwick_(1093)",
+        "labelCn": "阿尼克战役；丈夫马尔科姆三世与长子爱德华阵亡",
+        "note": "On 13 November 1093 Malcolm III and her eldest son Edward were killed at the Battle of Alnwick during an invasion of Northumbria."
+      },
+      {
+        "year": 1093,
+        "month": 11,
+        "day": 16,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 99,
+        "label": "Death at Edinburgh Castle; buried at Dunfermline",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Saint_Margaret_of_Scotland",
+        "labelCn": "在爱丁堡城堡去世，葬于邓弗姆林",
+        "note": "Margaret died at Edinburgh Castle on 16 November 1093, three days after the deaths of her husband and eldest son, reportedly of grief; she was buried before the high altar at Dunfermline Abbey."
+      },
+      {
+        "year": 1250,
+        "type": "religion",
+        "tags": [
+          "religion",
+          "church"
+        ],
+        "weight": 82,
+        "label": "Canonised by Pope Innocent IV",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Pope_Innocent_IV",
+        "labelCn": "被教皇英诺森四世封圣",
+        "note": "Pope Innocent IV canonised Margaret in 1250; her remains were reinterred at Dunfermline on 19 June 1250."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Saint_Margaret_of_Scotland",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Saint_Margaret_of_Scotland",
+    "sourceNote": "Born c. 1045 in Hungary; married Malcolm III in 1070; died 16 November 1093 at Edinburgh Castle; canonised 1250.",
+    "notes": "Daughter of Edward the Exile and Agatha; granddaughter of Edmund Ironside. Married Malcolm III of Scotland c. 1070; renowned for piety and church reform (Dunfermline, Iona) and canonised in 1250. Her piety is well documented in the biography by her confessor Turgot; hagiographic miracle stories are omitted here. Her husband Malcolm III and children other than Matilda of Scotland are not in the roster. The Scottish paternal line is intentionally not yet modeled.",
+    "createdDate": "260815",
+    "createdOrder": 11,
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died at Edinburgh Castle, reportedly of grief, days after her husband and son were killed",
+      "detail": "Malcolm III and her eldest son Edward were killed at the Battle of Alnwick on 13 November 1093; Margaret died at Edinburgh Castle on 16 November 1093, reportedly of grief. She was buried before the high altar at Dunfermline Abbey.",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Saint_Margaret_of_Scotland",
+      "summaryCn": "丈夫与长子阵亡数日后在爱丁堡城堡去世，据载忧伤而逝",
+      "detailCn": "1093年11月13日，马尔科姆三世与长子爱德华在阿尼克战役中阵亡；玛格丽特于11月16日在爱丁堡城堡去世，据载因忧伤过度。她葬于邓弗姆林修道院主祭坛前。"
+    },
+    "displayNameCn": "苏格兰的圣玛格丽特",
+    "fullNameCn": "苏格兰的圣玛格丽特",
+    "nicknameCn": "圣者",
+    "primaryTitleCn": "苏格兰王后",
+    "historicalRating": 8
+  },
+  {
+    "id": "019f2067-839d-4480-b345-744fb9af428b",
+    "firstName": "Æthelwulf",
+    "lastName": "Wessex",
+    "displayName": "Æthelwulf",
+    "fullName": "Æthelwulf, King of Wessex",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [
+      "Ethelwulf",
+      "Aethelwulf"
+    ],
+    "nicknameTags": [],
+    "gender": "male",
+    "birthYear": 795,
+    "deathYear": 858,
+    "birthPlace": "Wessex",
+    "birthPlaceCn": "威塞克斯",
+    "deathPlace": "St. Judes, Wessex",
+    "deathPlaceCn": "威塞克斯",
+    "dynasty": "House of Wessex",
+    "house": "House of Wessex",
+    "culture": "Anglo-Saxon",
+    "faith": "Catholic",
+    "rank": "king",
+    "primaryTitle": "King of Wessex",
+    "primaryTitleCn": "威塞克斯国王",
+    "titles": [
+      {
+        "title": "King of Wessex",
+        "startYear": 839,
+        "endYear": 858,
+        "titleCn": "威塞克斯国王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "noble",
+      "commander"
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/%C3%86thelwulf,_King_of_Wessex",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/%C3%86thelwulf,_King_of_Wessex",
+    "sourceNote": "Father of Alfred the Great and four elder sons who ruled Wessex before him; birth year not recorded (c. 795 is an estimate) and the 838/839 dating of his accession is debated.",
+    "notes": "First son to succeed his father as West Saxon king since 641; husband of Osburh, then of Judith of Flanders.",
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died of natural causes, no illness recorded",
+      "detail": "Æthelwulf died on 13 January 858 in his early sixties; no cause is recorded, and his death is presumed natural. He was buried first at Steyning (Sussex) and later transferred to Winchester, probably by Alfred.",
+      "wikiUrl": "https://en.wikipedia.org/wiki/%C3%86thelwulf,_King_of_Wessex",
+      "summaryCn": "自然死亡，无疾病记载",
+      "detailCn": "858 年 1 月 13 日埃塞尔伍尔夫在六十岁上下去世；无死因记载，推测为自然死亡。初葬于斯泰宁（萨塞克斯），后（可能由阿尔弗雷德）迁葬温彻斯特。"
+    },
+    "relationships": {
+      "fatherId": "a82fd20d-3b23-44dd-9009-4f0184844ced",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "d1e0d029-8a32-4592-a4ad-7d0743d7b792",
+        "c19deaa7-e7ab-4a50-8fe1-a2d24dfa80bf",
+        "68208bf4-9135-4412-9880-5c2c172d014b",
+        "aed34407-7ca3-4fcc-9255-ce1b908f9b72",
+        "130ae8b0-257b-4bda-b753-98c17ce10730"
+      ]
+    },
+    "events": [
+      {
+        "year": 825,
+        "type": "title",
+        "tags": [
+          "title",
+          "king",
+          "noble"
+        ],
+        "weight": 74,
+        "label": "Became sub-king of Kent, Surrey, Sussex and Essex",
+        "labelCn": "成为肯特、萨里、萨塞克斯与埃塞克斯副王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/%C3%86thelwulf,_King_of_Wessex",
+        "note": "Sent with an army to Kent in 825 by his father Ecgberht; expelled the sub-king Baldred and was appointed sub-king of the south-east."
+      },
+      {
+        "year": 839,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "king",
+          "monarch"
+        ],
+        "weight": 90,
+        "label": "Succeeded Ecgberht as King of Wessex",
+        "labelCn": "继承埃格伯特成为威塞克斯国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/%C3%86thelwulf,_King_of_Wessex",
+        "note": "First father-son succession in Wessex since 641; he may have been consecrated king at Kingston in 838, and is possibly styled rex Saxonum in a charter of that year."
+      },
+      {
+        "year": 843,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "defeat",
+          "defense"
+        ],
+        "weight": 68,
+        "label": "Defeated by Vikings at Carhampton",
+        "labelCn": "在卡汉普顿被维京人击败",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Carhampton",
+        "note": "A Viking fleet and army fought Æthelwulf at Carhampton, Somerset; the West Saxons were defeated in 843."
+      },
+      {
+        "year": 851,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "commander",
+          "defense"
+        ],
+        "weight": 92,
+        "label": "Battle of Aclea: great victory over the Vikings",
+        "labelCn": "阿克利亚战役：大胜维京人",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Aclea",
+        "note": "The Anglo-Saxon Chronicle calls it 'the greatest slaughter of a heathen army that we have ever heard of up to the present day'."
+      },
+      {
+        "year": 853,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance",
+          "alliance"
+        ],
+        "weight": 70,
+        "label": "Daughter Æthelswith married Burgred, King of Mercia",
+        "labelCn": "女儿埃塞尔维斯嫁给麦西亚国王伯格雷德",
+        "wikiUrl": "https://en.wikipedia.org/wiki/%C3%86thelwulf,_King_of_Wessex",
+        "note": "Æthelwulf also joined the Mercian expedition into Wales in the same year."
+      },
+      {
+        "year": 855,
+        "type": "religion",
+        "tags": [
+          "religion",
+          "church"
+        ],
+        "weight": 88,
+        "label": "Pilgrimage to Rome with his son Alfred",
+        "labelCn": "与幼子阿尔弗雷德赴罗马朝圣",
+        "wikiUrl": "https://en.wikipedia.org/wiki/%C3%86thelwulf,_King_of_Wessex",
+        "note": "Left in spring 855 and stayed in Rome a year, giving lavish gifts including a gold crown weighing 4 pounds; before leaving he granted a 'decimation', donating a tenth of his lands."
+      },
+      {
+        "year": 856,
+        "month": 10,
+        "day": 1,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance",
+          "alliance"
+        ],
+        "weight": 80,
+        "label": "Married Judith, daughter of Charles the Bald",
+        "labelCn": "迎娶秃头查理之女朱迪丝",
+        "wikiUrl": "https://en.wikipedia.org/wiki/%C3%86thelwulf,_King_of_Wessex",
+        "note": "Married on 1 October 856 at Verberie and anointed by Hincmar, Archbishop of Rheims; Judith was aged 12 or 13."
+      },
+      {
+        "year": 856,
+        "type": "political_crisis",
+        "tags": [
+          "rebellion",
+          "succession",
+          "king"
+        ],
+        "weight": 84,
+        "label": "Division of the kingdom after Æthelbald's revolt",
+        "labelCn": "埃塞尔博尔德叛乱后分割王国",
+        "wikiUrl": "https://en.wikipedia.org/wiki/%C3%86thelwulf,_King_of_Wessex",
+        "note": "On returning from Rome in October 856 he faced a revolt led by his son Æthelbald; the kingdom was divided to avoid civil war, either by Æthelbald keeping Wessex or the kingdom being split at Selwood Forest."
+      },
+      {
+        "year": 858,
+        "month": 1,
+        "day": 13,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 86,
+        "label": "Died, buried first at Steyning then at Winchester",
+        "labelCn": "去世，初葬斯泰宁后迁温彻斯特",
+        "wikiUrl": "https://en.wikipedia.org/wiki/%C3%86thelwulf,_King_of_Wessex",
+        "note": "13 January 858; succeeded by Æthelbald in Wessex and Æthelberht in Kent."
+      }
+    ],
+    "importanceScore": 82,
+    "historicalRating": 8,
+    "createdDate": "260817",
+    "createdOrder": 76,
+    "displayNameCn": "埃塞尔伍尔夫",
+    "fullNameCn": "威塞克斯国王埃塞尔伍尔夫"
+  },
+  {
+    "id": "a82fd20d-3b23-44dd-9009-4f0184844ced",
+    "firstName": "Ecgberht",
+    "lastName": "Wessex",
+    "displayName": "Ecgberht",
+    "fullName": "Ecgberht, King of Wessex",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [
+      "Egbert",
+      "Ecgbryht"
+    ],
+    "nicknameTags": [],
+    "gender": "male",
+    "birthYear": 770,
+    "deathYear": 839,
+    "birthPlace": "Wessex",
+    "birthPlaceCn": "威塞克斯",
+    "deathPlace": "Wessex",
+    "deathPlaceCn": "威塞克斯",
+    "dynasty": "House of Wessex",
+    "house": "House of Wessex",
+    "culture": "Anglo-Saxon",
+    "faith": "Catholic",
+    "rank": "king",
+    "primaryTitle": "King of Wessex",
+    "primaryTitleCn": "威塞克斯国王",
+    "titles": [
+      {
+        "title": "King of Wessex",
+        "startYear": 802,
+        "endYear": 839,
+        "titleCn": "威塞克斯国王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "commander"
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Ecgberht,_King_of_Wessex",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Ecgberht,_King_of_Wessex",
+    "sourceNote": "Father of Æthelwulf and traditionally descended from the earlier West Saxon line; year of birth uncertain (born in the 770s) and the length of his exile in Francia (3 vs 13 years) is disputed.",
+    "notes": "Grandfather of Alfred the Great; ended Mercian domination of southern England and was the eighth acknowledged bretwalda.",
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Natural death at an advanced age",
+      "detail": "Ecgberht died in 839 after a reign of 37 years, aged about seventy; no cause is recorded and his death is presumed natural. He was buried in Winchester.",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Ecgberht,_King_of_Wessex",
+      "summaryCn": "高龄自然死亡",
+      "detailCn": "839 年埃格伯特在位 37 年后去世，享年约七十岁；无死因记载，推测为自然死亡。葬于温彻斯特。"
+    },
+    "relationships": {
+      "fatherId": "39188f42-f280-495b-804b-747314aca718",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "019f2067-839d-4480-b345-744fb9af428b"
+      ]
+    },
+    "events": [
+      {
+        "year": 789,
+        "type": "political_crisis",
+        "tags": [
+          "uncertain"
+        ],
+        "weight": 72,
+        "label": "Driven into exile in Francia by Offa and Beorhtric",
+        "labelCn": "被奥法与贝奥赫特里克放逐至法兰克",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ecgberht,_King_of_Wessex",
+        "note": "Probably exiled in 789 to the court of Charlemagne; the Anglo-Saxon Chronicle says three years, but many historians read it as thirteen (789-802)."
+      },
+      {
+        "year": 802,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "king",
+          "monarch"
+        ],
+        "weight": 95,
+        "label": "Became King of Wessex",
+        "labelCn": "成为威塞克斯国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ecgberht,_King_of_Wessex",
+        "note": "On Beorhtric's death in 802 Ecgberht returned from exile and took the West Saxon throne."
+      },
+      {
+        "year": 825,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "commander",
+          "main_commander"
+        ],
+        "weight": 97,
+        "label": "Battle of Ellendun: defeated Beornwulf of Mercia",
+        "labelCn": "埃伦登战役：击败麦西亚国王伯恩伍尔夫",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Ellendun",
+        "note": "Fought at Wroughton near Swindon; the victory ended Mercian domination of southern England."
+      },
+      {
+        "year": 825,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "conquest",
+          "territory"
+        ],
+        "weight": 88,
+        "label": "Conquest of Kent, Essex, Surrey and Sussex",
+        "labelCn": "征服肯特、埃塞克斯、萨里与萨塞克斯",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ecgberht,_King_of_Wessex",
+        "note": "825-826; his son Æthelwulf drove Baldred, king of Kent, north over the Thames, and the south-eastern peoples submitted."
+      },
+      {
+        "year": 829,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "conquest",
+          "territory"
+        ],
+        "weight": 93,
+        "label": "Conquered Mercia; Northumbrians submitted at Dore",
+        "labelCn": "征服麦西亚；诺森布里亚人在多尔归顺",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ecgberht,_King_of_Wessex",
+        "note": "Drove Wiglaf of Mercia into exile, ruled Mercia directly for a time, controlled the London mint and coined as King of Mercia; later in 829 the Northumbrians submitted to him at Dore."
+      },
+      {
+        "year": 829,
+        "type": "title",
+        "tags": [
+          "title",
+          "king",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Acknowledged as the eighth 'Wide-ruler' (bretwalda)",
+        "labelCn": "被承认为第八位不列颠统治者（bretwalda）",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ecgberht,_King_of_Wessex",
+        "note": "The Anglo-Saxon Chronicle lists him as the eighth king to hold the imperium over the other kingdoms of Britain."
+      },
+      {
+        "year": 830,
+        "type": "political_crisis",
+        "tags": [
+          "territory",
+          "rebellion"
+        ],
+        "weight": 76,
+        "label": "Wiglaf recovered Mercia",
+        "labelCn": "维格拉夫夺回麦西亚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ecgberht,_King_of_Wessex",
+        "note": "Wiglaf 'obtained the kingdom of Mercia again' in 830; Ecgberht nevertheless kept control of Kent, Essex and Surrey, and led a successful expedition against the Welsh in the same year."
+      },
+      {
+        "year": 838,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "commander",
+          "conquest"
+        ],
+        "weight": 82,
+        "label": "Battle of Hingston Down; Council of Kingston",
+        "labelCn": "欣斯顿山战役；金斯顿会议",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Hingston_Down",
+        "note": "Defeated an alliance of Danes and West Welsh in Cornwall; at the Council of Kingston in 838 he and Æthelwulf secured church support for the succession."
+      },
+      {
+        "year": 839,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 80,
+        "label": "Died; buried at Winchester",
+        "labelCn": "去世，葬于温彻斯特",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ecgberht,_King_of_Wessex",
+        "note": "Died in 839 after a 37-year reign; succeeded by his son Æthelwulf."
+      }
+    ],
+    "importanceScore": 80,
+    "historicalRating": 8,
+    "createdDate": "260817",
+    "createdOrder": 77,
+    "displayNameCn": "埃格伯特",
+    "fullNameCn": "威塞克斯国王埃格伯特"
+  },
+  {
+    "id": "39188f42-f280-495b-804b-747314aca718",
+    "firstName": "Ealhmund",
+    "lastName": "Kent",
+    "displayName": "Ealhmund of Kent",
+    "fullName": "Ealhmund, King of Kent",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [
+      "Ealhmund of Kent"
+    ],
+    "nicknameTags": [],
+    "gender": "male",
+    "birthYear": 745,
+    "deathYear": 785,
+    "birthPlace": "Kent",
+    "birthPlaceCn": "肯特",
+    "deathPlace": "Kent",
+    "deathPlaceCn": "肯特",
+    "dynasty": "House of Wessex",
+    "house": "House of Wessex",
+    "culture": "Anglo-Saxon",
+    "faith": "Catholic",
+    "rank": "king",
+    "primaryTitle": "King of Kent",
+    "primaryTitleCn": "肯特国王",
+    "titles": [
+      {
+        "title": "King of Kent",
+        "startYear": 784,
+        "endYear": 785,
+        "titleCn": "肯特国王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "noble"
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Ealhmund_of_Kent",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Ealhmund_of_Kent",
+    "sourceNote": "Father of Ecgberht; his own parentage is disputed in the West Saxon genealogies, and his birth and death dates (c. 745 and c. 785) are unrecorded estimates — his reign is known only from a single charter of 784.",
+    "notes": "Historical stopping point for the reliable Alfredian paternal line; only contemporary evidence of his kingship is charter S 38 of 784.",
+    "deathCause": {
+      "kind": "uncertain",
+      "summary": "Fate unknown; probably killed or driven out in 785",
+      "detail": "No contemporary record survives of Ealhmund's death; he was probably killed or driven out when Offa of Mercia reasserted control of Kent in 785.",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Ealhmund_of_Kent",
+      "summaryCn": "结局不明；785 年或被杀死或被驱逐",
+      "detailCn": "埃尔蒙德之死无当代记载；785 年麦西亚国王奥法重夺肯特时，他或被杀死或被驱逐出位。"
+    },
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "a82fd20d-3b23-44dd-9009-4f0184844ced"
+      ]
+    },
+    "events": [
+      {
+        "year": 784,
+        "type": "title",
+        "tags": [
+          "title",
+          "king",
+          "noble"
+        ],
+        "weight": 90,
+        "label": "King of Kent, attested by a charter at Reculver",
+        "labelCn": "肯特国王，以雷库弗契约为证",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ealhmund_of_Kent",
+        "note": "The only contemporary evidence is charter S 38 of 784, granting land at Sheldwich to the abbot of Reculver with no reference to Offa of Mercia; his identification as Ecgberht's father rests on the West Saxon genealogies, which some historians consider fabricated."
+      },
+      {
+        "year": 785,
+        "type": "political_crisis",
+        "tags": [
+          "territory",
+          "uncertain"
+        ],
+        "weight": 85,
+        "label": "Offa of Mercia regained Kent",
+        "labelCn": "麦西亚的奥法夺回肯特",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ealhmund_of_Kent",
+        "note": "By 785 Offa had regained control of Kent; Ealhmund was probably killed or driven out."
+      },
+      {
+        "year": 785,
+        "type": "death",
+        "tags": [
+          "death",
+          "uncertain"
+        ],
+        "weight": 80,
+        "label": "End of his reign; death date and circumstances unknown",
+        "labelCn": "统治终结，去世时间与情形不明",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ealhmund_of_Kent",
+        "note": "No death date survives; c. 785 is inferred from Offa's reconquest of Kent."
+      }
+    ],
+    "importanceScore": 58,
+    "historicalRating": 6,
+    "createdDate": "260817",
+    "createdOrder": 78,
+    "displayNameCn": "埃尔蒙德",
+    "fullNameCn": "肯特国王埃尔蒙德"
+  },
+  {
+    "id": "d1e0d029-8a32-4592-a4ad-7d0743d7b792",
+    "firstName": "Æthelstan",
+    "lastName": "Wessex",
+    "displayName": "Æthelstan of Wessex",
+    "fullName": "Æthelstan, Prince of Wessex",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Athelstan of Wessex"
+    ],
+    "nicknameTags": [],
+    "birthYear": 840,
+    "deathYear": 850,
+    "birthPlace": "Wessex",
+    "deathPlace": "Wessex",
+    "gender": "male",
+    "dynasty": "House of Wessex",
+    "house": "House of Wessex",
+    "culture": "Anglo-Saxon",
+    "faith": "Catholic",
+    "primaryTitle": "Prince of Wessex",
+    "titles": [
+      {
+        "title": "Prince of Wessex",
+        "startYear": 840,
+        "endYear": 850,
+        "titleCn": "威塞克斯王子"
+      }
+    ],
+    "tags": [
+      "noble"
+    ],
+    "rank": "noble",
+    "importanceScore": 34,
+    "relationships": {
+      "fatherId": "019f2067-839d-4480-b345-744fb9af428b",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/%C3%86thelwulf,_King_of_Wessex",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/%C3%86thelwulf,_King_of_Wessex",
+    "sourceNote": "Elder son of Æthelwulf; often identified as Alfred's eldest brother.",
+    "notes": "Basic sibling card; event timeline intentionally left empty.",
+    "createdDate": "260817",
+    "createdOrder": 79,
+    "displayNameCn": "埃塞尔斯坦",
+    "fullNameCn": "威塞克斯的埃塞尔斯坦",
+    "primaryTitleCn": "威塞克斯王子",
+    "historicalRating": 3
+  },
+  {
+    "id": "c19deaa7-e7ab-4a50-8fe1-a2d24dfa80bf",
+    "firstName": "Æthelbald",
+    "lastName": "Wessex",
+    "displayName": "Æthelbald of Wessex",
+    "fullName": "Æthelbald, King of Wessex",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [
+      "Athelbald of Wessex"
+    ],
+    "nicknameTags": [],
+    "gender": "male",
+    "birthYear": 834,
+    "deathYear": 860,
+    "birthPlace": "Wessex",
+    "birthPlaceCn": "威塞克斯",
+    "deathPlace": "Sherborne, Wessex",
+    "deathPlaceCn": "威塞克斯舍伯恩",
+    "dynasty": "House of Wessex",
+    "house": "House of Wessex",
+    "culture": "Anglo-Saxon",
+    "faith": "Catholic",
+    "rank": "king",
+    "primaryTitle": "King of Wessex",
+    "primaryTitleCn": "威塞克斯国王",
+    "titles": [
+      {
+        "title": "King of Wessex",
+        "startYear": 855,
+        "endYear": 860,
+        "titleCn": "威塞克斯国王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "noble"
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/%C3%86thelbald_of_Wessex",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/%C3%86thelbald_of_Wessex",
+    "sourceNote": "Elder brother of Alfred and king of Wessex before him; year of birth unknown (c. 834 is an estimate) and the exact mechanics of the 856 division of the kingdom are disputed.",
+    "notes": "Second son of Æthelwulf; his marriage to his widowed stepmother Judith was denounced by Asser but not opposed at the time; died childless.",
+    "deathCause": {
+      "kind": "uncertain",
+      "summary": "Cause of death unknown",
+      "detail": "Æthelbald died in 860, probably in about July, aged about 26; no cause is recorded — later writers speak only of a 'premature death'. He was buried at Sherborne Abbey, Dorset.",
+      "wikiUrl": "https://en.wikipedia.org/wiki/%C3%86thelbald_of_Wessex",
+      "summaryCn": "死因不明",
+      "detailCn": "860 年（约 7 月）埃塞尔博尔德去世，年仅约 26 岁；无死因记载，后世编年史仅称其早逝。葬于多塞特舍伯恩修道院。"
+    },
+    "relationships": {
+      "fatherId": "019f2067-839d-4480-b345-744fb9af428b",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 851,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "commander"
+        ],
+        "weight": 74,
+        "label": "Fought with his father at the Battle of Aclea",
+        "labelCn": "与父亲并肩参加阿克利亚战役",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Aclea",
+        "note": "The Anglo-Saxon Chronicle records that Æthelwulf and Æthelbald defeated the Vikings at Aclea in 851, 'the greatest slaughter of a heathen army... before or since'."
+      },
+      {
+        "year": 855,
+        "type": "title",
+        "tags": [
+          "title",
+          "king",
+          "monarch"
+        ],
+        "weight": 88,
+        "label": "Appointed King of Wessex while Æthelwulf went to Rome",
+        "labelCn": "在父亲赴罗马期间受封威塞克斯国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/%C3%86thelbald_of_Wessex",
+        "note": "Before leaving on pilgrimage in 855 Æthelwulf appointed Æthelbald king of Wessex and Æthelberht king of Kent."
+      },
+      {
+        "year": 856,
+        "type": "political_crisis",
+        "tags": [
+          "rebellion",
+          "succession"
+        ],
+        "weight": 90,
+        "label": "Revolt against his father; the kingdom was divided",
+        "labelCn": "反叛其父，王国被分割",
+        "wikiUrl": "https://en.wikipedia.org/wiki/%C3%86thelbald_of_Wessex",
+        "note": "On Æthelwulf's return in October 856 with his bride Judith, Æthelbald refused to give up the crown; the kingdom was divided rather than risk civil war — either Æthelbald kept Wessex while Æthelberht yielded Kent, or Wessex itself was split at Selwood Forest."
+      },
+      {
+        "year": 858,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance",
+          "alliance"
+        ],
+        "weight": 80,
+        "label": "Married his widowed stepmother Judith",
+        "labelCn": "迎娶寡居的继母朱迪丝",
+        "wikiUrl": "https://en.wikipedia.org/wiki/%C3%86thelbald_of_Wessex",
+        "note": "After Æthelwulf's death on 13 January 858; Asser denounced the union but it provoked no opposition at the time, and Judith attested his charters."
+      },
+      {
+        "year": 860,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 85,
+        "label": "Died; buried at Sherborne Abbey",
+        "labelCn": "去世，葬于舍伯恩修道院",
+        "wikiUrl": "https://en.wikipedia.org/wiki/%C3%86thelbald_of_Wessex",
+        "note": "Died in 860, probably in about July; succeeded by his brother Æthelberht, who reunited Wessex and Kent."
+      }
+    ],
+    "importanceScore": 45,
+    "historicalRating": 5,
+    "createdDate": "260817",
+    "createdOrder": 80,
+    "displayNameCn": "埃塞尔博尔德",
+    "fullNameCn": "威塞克斯国王埃塞尔博尔德"
+  },
+  {
+    "id": "68208bf4-9135-4412-9880-5c2c172d014b",
+    "firstName": "Æthelberht",
+    "lastName": "Wessex",
+    "displayName": "Æthelberht of Wessex",
+    "fullName": "Æthelberht, King of Wessex",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [
+      "Ethelbert of Wessex"
+    ],
+    "nicknameTags": [],
+    "gender": "male",
+    "birthYear": 835,
+    "deathYear": 865,
+    "birthPlace": "Wessex",
+    "birthPlaceCn": "威塞克斯",
+    "deathPlace": "Wessex",
+    "deathPlaceCn": "威塞克斯",
+    "dynasty": "House of Wessex",
+    "house": "House of Wessex",
+    "culture": "Anglo-Saxon",
+    "faith": "Catholic",
+    "rank": "king",
+    "primaryTitle": "King of Wessex",
+    "primaryTitleCn": "威塞克斯国王",
+    "titles": [
+      {
+        "title": "King of Wessex",
+        "startYear": 860,
+        "endYear": 865,
+        "titleCn": "威塞克斯国王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "noble"
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/%C3%86thelberht,_King_of_Wessex",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/%C3%86thelberht,_King_of_Wessex",
+    "sourceNote": "Brother of Alfred and king of Wessex before him; year of birth unknown (c. 835 is an estimate) and his death in autumn 865 is recorded only as of unknown causes.",
+    "notes": "Third of five sons of Æthelwulf; the first king to rule Wessex and Kent as a fully united kingdom; died childless.",
+    "deathCause": {
+      "kind": "uncertain",
+      "summary": "Died of unknown causes",
+      "detail": "Æthelberht died of unknown causes in the autumn of 865 and was buried at Sherborne Abbey, Dorset, beside his brother Æthelbald.",
+      "wikiUrl": "https://en.wikipedia.org/wiki/%C3%86thelberht,_King_of_Wessex",
+      "summaryCn": "死因不明",
+      "detailCn": "865 年秋埃塞尔伯特死因不明而去世，葬于多塞特舍伯恩修道院，与其兄埃塞尔博尔德为邻。"
+    },
+    "relationships": {
+      "fatherId": "019f2067-839d-4480-b345-744fb9af428b",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 855,
+        "type": "title",
+        "tags": [
+          "title",
+          "king",
+          "noble"
+        ],
+        "weight": 85,
+        "label": "Appointed sub-king of Kent, Essex, Sussex and Surrey",
+        "labelCn": "受封肯特、埃塞克斯、萨塞克斯与萨里副王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/%C3%86thelberht,_King_of_Wessex",
+        "note": "Appointed by his father Æthelwulf in 855 when the king left for Rome; on Æthelwulf's death in 858 he ruled the south-east until 860."
+      },
+      {
+        "year": 860,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "king",
+          "government"
+        ],
+        "weight": 90,
+        "label": "Succeeded Æthelbald, reuniting Wessex and Kent",
+        "labelCn": "继承埃塞尔博尔德，重新统一威塞克斯与肯特",
+        "wikiUrl": "https://en.wikipedia.org/wiki/%C3%86thelberht,_King_of_Wessex",
+        "note": "Æthelbald died childless in 860; Æthelberht appointed no sub-king, and Wessex and Kent were fully united for the first time."
+      },
+      {
+        "year": 860,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "defense"
+        ],
+        "weight": 74,
+        "label": "Raid on Winchester repelled",
+        "labelCn": "击退对温彻斯特的袭击",
+        "wikiUrl": "https://en.wikipedia.org/wiki/%C3%86thelberht,_King_of_Wessex",
+        "note": "A Viking army from the Somme sacked Winchester in 860 but was then defeated by the men of Hampshire and Berkshire; his reign 'began and ended with raids by the Vikings'."
+      },
+      {
+        "year": 865,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 85,
+        "label": "Died in autumn 865 of unknown causes; buried at Sherborne",
+        "labelCn": "865 年秋去世，死因不明，葬于舍伯恩",
+        "wikiUrl": "https://en.wikipedia.org/wiki/%C3%86thelberht,_King_of_Wessex",
+        "note": "Died childless in the autumn of 865 and was succeeded by his brother Æthelred I."
+      }
+    ],
+    "importanceScore": 46,
+    "historicalRating": 5,
+    "createdDate": "260817",
+    "createdOrder": 81,
+    "displayNameCn": "埃塞尔伯特",
+    "fullNameCn": "威塞克斯国王埃塞尔伯特"
+  },
+  {
+    "id": "130ae8b0-257b-4bda-b753-98c17ce10730",
+    "firstName": "Æthelred",
+    "lastName": "Wessex",
+    "displayName": "Æthelred I of Wessex",
+    "fullName": "Æthelred I, King of Wessex",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [
+      "Ethelred I of Wessex"
+    ],
+    "nicknameTags": [],
+    "gender": "male",
+    "birthYear": 845,
+    "deathYear": 871,
+    "birthPlace": "Wessex",
+    "birthPlaceCn": "威塞克斯",
+    "deathPlace": "Merton, Wessex",
+    "deathPlaceCn": "威塞克斯默顿",
+    "dynasty": "House of Wessex",
+    "house": "House of Wessex",
+    "culture": "Anglo-Saxon",
+    "faith": "Catholic",
+    "rank": "king",
+    "primaryTitle": "King of Wessex",
+    "primaryTitleCn": "威塞克斯国王",
+    "titles": [
+      {
+        "title": "King of Wessex",
+        "startYear": 865,
+        "endYear": 871,
+        "titleCn": "威塞克斯国王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "commander"
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/%C3%86thelred_I_of_Wessex",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/%C3%86thelred_I_of_Wessex",
+    "sourceNote": "Brother of Alfred and king of Wessex immediately before him; born 845/848 (year disputed) and the precise circumstances of his death at Merton in April 871 are uncertain.",
+    "notes": "Fourth of five sons of Æthelwulf; reigned during the first great Viking invasions of Wessex; father of Æthelhelm and Æthelwold.",
+    "deathCause": {
+      "kind": "violent",
+      "summary": "Died at Merton in the Viking wars",
+      "detail": "Æthelred died at Merton (Meretun), Wessex, shortly after Easter 871 (15 April), weeks after the defeat at the Battle of Meretun on 22 March 871; tradition attributes his death to wounds received in the battle, though contemporary sources record no diagnosis. He was buried at Wimborne Minster.",
+      "wikiUrl": "https://en.wikipedia.org/wiki/%C3%86thelred_I_of_Wessex",
+      "summaryCn": "维京战争期间卒于默顿",
+      "detailCn": "871 年复活节（4 月 15 日）后不久，埃塞尔雷德一世卒于威塞克斯默顿（梅雷顿），距 3 月 22 日梅雷顿战役战败仅数周；传统认为其死于战役所受创伤，但当代史料未载具体情形。葬于温伯恩大教堂。"
+    },
+    "relationships": {
+      "fatherId": "019f2067-839d-4480-b345-744fb9af428b",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 865,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "king",
+          "monarch"
+        ],
+        "weight": 90,
+        "label": "Succeeded his brother Æthelberht as King of Wessex",
+        "labelCn": "继承兄长埃塞尔伯特成为威塞克斯国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/%C3%86thelred_I_of_Wessex",
+        "note": "In the same year the Viking Great Heathen Army landed in East Anglia, beginning the invasions that dominated his reign."
+      },
+      {
+        "year": 867,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "defense",
+          "commander"
+        ],
+        "weight": 74,
+        "label": "Campaign in Mercia against the Great Heathen Army",
+        "labelCn": "在麦西亚对抗维京大军的征战",
+        "wikiUrl": "https://en.wikipedia.org/wiki/%C3%86thelred_I_of_Wessex",
+        "note": "Late 867; Æthelred and his brother Alfred led a West Saxon army to help King Burgred of Mercia relieve Nottingham, but the siege failed and Burgred paid off the Danes."
+      },
+      {
+        "year": 871,
+        "month": 1,
+        "day": 8,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "commander"
+        ],
+        "weight": 95,
+        "label": "Battle of Ashdown: victory over the Vikings",
+        "labelCn": "阿什当战役：击败维京人",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Ashdown",
+        "note": "c. 8 January 871; the West Saxons won and the Viking king Bagsecg was killed; Alfred led the attack while Æthelred heard Mass, a detail Asser uses to Æthelred's disadvantage."
+      },
+      {
+        "year": 871,
+        "month": 3,
+        "day": 22,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "defeat",
+          "death"
+        ],
+        "weight": 88,
+        "label": "Battle of Meretun: defeat; he died shortly afterwards",
+        "labelCn": "梅雷顿战役：战败，旋即去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Meretun",
+        "note": "22 March 871; the West Saxons were defeated and Bishop Heahmund of Sherborne was killed; Æthelred died shortly after Easter (15 April), traditionally of wounds from this battle."
+      },
+      {
+        "year": 871,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 92,
+        "label": "Died at Merton; buried at Wimborne Minster",
+        "labelCn": "卒于默顿，葬于温伯恩大教堂",
+        "wikiUrl": "https://en.wikipedia.org/wiki/%C3%86thelred_I_of_Wessex",
+        "note": "Died late April 871 shortly after Easter; his young sons were passed over and his brother Alfred succeeded him."
+      }
+    ],
+    "importanceScore": 58,
+    "historicalRating": 6,
+    "createdDate": "260817",
+    "createdOrder": 82,
+    "displayNameCn": "埃塞尔雷德一世",
+    "fullNameCn": "威塞克斯国王埃塞尔雷德一世"
+  },
+  {
+    "id": "b725b22d-501e-4750-ad91-a71cc6069f8d",
+    "firstName": "Æthelflæd",
+    "lastName": "Wessex",
+    "displayName": "Æthelflæd",
+    "fullName": "Æthelflæd, Lady of the Mercians",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [
+      "Ethelfleda"
+    ],
+    "nicknameTags": [],
+    "gender": "female",
+    "birthYear": 870,
+    "deathYear": 918,
+    "birthPlace": "Wessex",
+    "birthPlaceCn": "威塞克斯",
+    "deathPlace": "Tamworth, Mercia",
+    "deathPlaceCn": "麦西亚塔姆沃思",
+    "dynasty": "House of Wessex",
+    "house": "House of Wessex",
+    "culture": "Anglo-Saxon",
+    "faith": "Catholic",
+    "rank": "noble",
+    "primaryTitle": "Lady of the Mercians",
+    "primaryTitleCn": "麦西亚夫人",
+    "titles": [
+      {
+        "title": "Lady of the Mercians",
+        "startYear": 911,
+        "endYear": 918,
+        "titleCn": "麦西亚夫人"
+      }
+    ],
+    "tags": [
+      "noble",
+      "commander"
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/%C3%86thelfl%C3%A6d",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/%C3%86thelfl%C3%A6d",
+    "sourceNote": "Daughter of Alfred the Great and ruler of Mercia; birth year approximate (c. 870) and her marriage to Æthelred of Mercia can only be dated to the mid-880s.",
+    "notes": "Eldest child of Alfred the Great; with her brother Edward the Elder she reconquered the southern Danelaw; mother of Ælfwynn.",
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died of illness",
+      "detail": "Æthelflæd died at Tamworth on 12 June 918, 'eight days before midsummer' per the Anglo-Saxon Chronicle; no diagnosis is recorded, but her death is traditionally attributed to illness. She was buried beside her husband at St Oswald's Minster, Gloucester.",
+      "wikiUrl": "https://en.wikipedia.org/wiki/%C3%86thelfl%C3%A6d",
+      "summaryCn": "因病去世",
+      "detailCn": "据《盎格鲁-撒克逊编年史》，918 年 6 月 12 日（仲夏前八日）埃塞尔弗莱德卒于塔姆沃思；虽无病症记载，传统上认为死于疾病。葬于格洛斯特圣奥斯瓦尔德修道院，与丈夫合葬。"
+    },
+    "relationships": {
+      "fatherId": "aed34407-7ca3-4fcc-9255-ce1b908f9b72",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "cfef312f-94c3-4e88-8778-6b90f70a8690"
+      ]
+    },
+    "events": [
+      {
+        "year": 883,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance",
+          "alliance"
+        ],
+        "weight": 80,
+        "label": "Married Æthelred, Lord of the Mercians",
+        "labelCn": "嫁给麦西亚领主埃塞尔雷德",
+        "wikiUrl": "https://en.wikipedia.org/wiki/%C3%86thelfl%C3%A6d",
+        "note": "Year approximate; Alfred sealed the alliance with Mercia in the mid-880s, and she is first recorded as Æthelred's wife in a charter of 887."
+      },
+      {
+        "year": 909,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "religion",
+          "church"
+        ],
+        "weight": 70,
+        "label": "Raid on the northern Danelaw; relics of St Oswald taken to Gloucester",
+        "labelCn": "袭击北方丹麦法区；圣奥斯瓦尔德遗骸迁至格洛斯特",
+        "wikiUrl": "https://en.wikipedia.org/wiki/%C3%86thelfl%C3%A6d",
+        "note": "A West Saxon and Mercian force raided the northern Danelaw in 909; the relics of St Oswald were translated to the new minster at Gloucester."
+      },
+      {
+        "year": 911,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "queen",
+          "government"
+        ],
+        "weight": 93,
+        "label": "Sole rule as Lady of the Mercians after Æthelred's death",
+        "labelCn": "埃塞尔雷德去世后独揽大权，称麦西亚夫人",
+        "wikiUrl": "https://en.wikipedia.org/wiki/%C3%86thelfl%C3%A6d",
+        "note": "On Æthelred's death in 911 she became Myrcna hlæfdige, 'Lady of the Mercians' — one of the most unique events in early medieval history."
+      },
+      {
+        "year": 912,
+        "type": "government",
+        "tags": [
+          "government",
+          "defense",
+          "territory"
+        ],
+        "weight": 80,
+        "label": "Fortified Bridgnorth",
+        "labelCn": "营建布里奇诺斯堡垒",
+        "wikiUrl": "https://en.wikipedia.org/wiki/%C3%86thelfl%C3%A6d",
+        "note": "Part of her programme of building burhs to defend Mercia against the Danes; the site at Bridgnorth was fortified in 912."
+      },
+      {
+        "year": 913,
+        "type": "government",
+        "tags": [
+          "government",
+          "defense",
+          "territory"
+        ],
+        "weight": 78,
+        "label": "Built burhs at Tamworth and Stafford",
+        "labelCn": "营建塔姆沃思与斯塔福德堡垒",
+        "wikiUrl": "https://en.wikipedia.org/wiki/%C3%86thelfl%C3%A6d",
+        "note": "Forts at Tamworth and Stafford were constructed in 913; later burhs included Eddisbury, Warwick, Chirbury and Runcorn (914-915)."
+      },
+      {
+        "year": 916,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "commander",
+          "conquest"
+        ],
+        "weight": 74,
+        "label": "Campaign against Brycheiniog; destroyed the Llangorse crannog",
+        "labelCn": "征讨布雷赫尼奥格，摧毁兰戈尔斯湖上堡垒",
+        "wikiUrl": "https://en.wikipedia.org/wiki/%C3%86thelfl%C3%A6d",
+        "note": "In 916 she sent an army into Brycheiniog which destroyed the royal crannog on Llangorse Lake and captured the queen and 33 companions."
+      },
+      {
+        "year": 917,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "commander",
+          "conquest"
+        ],
+        "weight": 95,
+        "label": "Captured Derby from the Vikings",
+        "labelCn": "从维京人手中夺取德比",
+        "wikiUrl": "https://en.wikipedia.org/wiki/%C3%86thelfl%C3%A6d",
+        "note": "She sent an army which captured Derby in 917; the Anglo-Saxon Chronicle gives no month, and July is a later inference."
+      },
+      {
+        "year": 918,
+        "type": "diplomacy",
+        "tags": [
+          "diplomacy",
+          "conquest",
+          "territory"
+        ],
+        "weight": 90,
+        "label": "Leicester surrendered; York offered submission",
+        "labelCn": "莱斯特投降；约克表示归顺",
+        "wikiUrl": "https://en.wikipedia.org/wiki/%C3%86thelfl%C3%A6d",
+        "note": "Leicester surrendered without opposition in early 918 and most of its Danish army submitted; the leading men of Danish-ruled York also offered loyalty, but she died before acting on it."
+      },
+      {
+        "year": 918,
+        "month": 6,
+        "day": 12,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 92,
+        "label": "Died at Tamworth; buried at St Oswald's, Gloucester",
+        "labelCn": "卒于塔姆沃思，葬于格洛斯特圣奥斯瓦尔德修道院",
+        "wikiUrl": "https://en.wikipedia.org/wiki/%C3%86thelfl%C3%A6d",
+        "note": "Died at Tamworth on 12 June 918; her daughter Ælfwynn briefly succeeded her before Edward the Elder took Mercia under direct rule in December 918."
+      }
+    ],
+    "importanceScore": 78,
+    "historicalRating": 8,
+    "createdDate": "260817",
+    "createdOrder": 83,
+    "displayNameCn": "埃塞尔弗莱德",
+    "fullNameCn": "麦西亚夫人埃塞尔弗莱德"
+  },
+  {
+    "id": "9b3065e7-e0a7-4aaa-bf90-70bac60f8562",
+    "firstName": "Æthelgifu",
+    "lastName": "Wessex",
+    "displayName": "Æthelgifu",
+    "fullName": "Æthelgifu, Abbess of Shaftesbury",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Athelygifu"
+    ],
+    "nicknameTags": [],
+    "birthYear": 872,
+    "deathYear": 918,
+    "birthPlace": "Wessex",
+    "deathPlace": "Shaftesbury",
+    "gender": "female",
+    "dynasty": "House of Wessex",
+    "house": "House of Wessex",
+    "culture": "Anglo-Saxon",
+    "faith": "Catholic",
+    "primaryTitle": "Abbess of Shaftesbury",
+    "titles": [
+      {
+        "title": "Abbess of Shaftesbury",
+        "startYear": 888,
+        "endYear": 918,
+        "titleCn": "沙夫茨伯里女修道院院长"
+      }
+    ],
+    "tags": [
+      "noble"
+    ],
+    "rank": "noble",
+    "importanceScore": 40,
+    "relationships": {
+      "fatherId": "aed34407-7ca3-4fcc-9255-ce1b908f9b72",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Æthelgifu",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Æthelgifu",
+    "sourceNote": "Daughter of Alfred the Great and abbess of Shaftesbury.",
+    "notes": "Basic card; event timeline intentionally left empty.",
+    "createdDate": "260817",
+    "createdOrder": 84,
+    "displayNameCn": "埃塞尔吉夫",
+    "fullNameCn": "沙夫茨伯里女修道院院长埃塞尔吉夫",
+    "primaryTitleCn": "沙夫茨伯里女修道院院长",
+    "historicalRating": 4
+  },
+  {
+    "id": "4906de6b-cdef-468c-b602-411e4bbe3c03",
+    "firstName": "Ælfthryth",
+    "lastName": "Wessex",
+    "displayName": "Ælfthryth",
+    "fullName": "Ælfthryth, Countess of Flanders",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Eltrude",
+      "Ælfthryth of Wessex"
+    ],
+    "nicknameTags": [],
+    "birthYear": 877,
+    "deathYear": 929,
+    "birthPlace": "Wessex",
+    "deathPlace": "Flanders",
+    "birthPlaceCn": "韦塞克斯",
+    "deathPlaceCn": "佛兰德",
+    "gender": "female",
+    "dynasty": "House of Wessex",
+    "house": "House of Wessex",
+    "culture": "Anglo-Saxon",
+    "faith": "Catholic",
+    "primaryTitle": "Countess of Flanders",
+    "titles": [
+      {
+        "title": "Countess of Flanders",
+        "startYear": 893,
+        "endYear": 929,
+        "titleCn": "佛兰德伯爵夫人"
+      }
+    ],
+    "tags": [
+      "noble"
+    ],
+    "rank": "noble",
+    "importanceScore": 48,
+    "relationships": {
+      "fatherId": "aed34407-7ca3-4fcc-9255-ce1b908f9b72",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 880,
+        "type": "dynasty",
+        "tags": [
+          "dynasty",
+          "noble"
+        ],
+        "weight": 72,
+        "label": "Educated at the West Saxon court alongside her brother Edward",
+        "wikiUrl": "https://en.wikipedia.org/wiki/%C3%86lfthryth,_Countess_of_Flanders",
+        "labelCn": "在威塞克斯宫廷与兄长爱德华一同接受教育",
+        "note": "Ælfthryth was educated together with her brother Edward (later Edward the Elder) — a rare instance of a princess receiving an education equal to a prince's. No exact date is recorded."
+      },
+      {
+        "year": 895,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance",
+          "noble"
+        ],
+        "weight": 90,
+        "label": "Marriage to Baldwin II, Count of Flanders",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Baldwin_II,_Count_of_Flanders",
+        "labelCn": "与佛兰德伯爵鲍德温二世结婚",
+        "note": "Ælfthryth married Baldwin II of Flanders between 893 and 899; their sons were Arnulf (later Count Arnulf I) and Adalolf of Boulogne, and they also had daughters Ealswid and Ermentrud."
+      },
+      {
+        "year": 918,
+        "type": "death",
+        "tags": [
+          "death",
+          "noble"
+        ],
+        "weight": 78,
+        "label": "Widowed on the death of Baldwin II",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Baldwin_II,_Count_of_Flanders",
+        "labelCn": "鲍德温二世去世，寡居",
+        "note": "Baldwin II died in 918; Ælfthryth survived him by eleven years. Her death is sometimes given as 7 June 929."
+      },
+      {
+        "year": 929,
+        "month": 6,
+        "day": 7,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 95,
+        "label": "Death; buried at St Peter's Abbey, Ghent",
+        "wikiUrl": "https://en.wikipedia.org/wiki/%C3%86lfthryth,_Countess_of_Flanders",
+        "labelCn": "去世，葬于根特圣彼得修道院",
+        "note": "Ælfthryth died on 7 June 929, probably in Flanders, and was buried next to her husband at St Peter's Abbey, Ghent."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/%C3%86lfthryth,_Countess_of_Flanders",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/%C3%86lfthryth,_Countess_of_Flanders",
+    "sourceNote": "Daughter of Alfred the Great and wife of Baldwin II of Flanders. Married c. 893–899; died 7 June 929; buried at St Peter's Abbey, Ghent.",
+    "notes": "Youngest daughter of Alfred the Great and Ealhswith. Married Baldwin II, Count of Flanders (between 893 and 899); mother of Arnulf I of Flanders and Adalolf of Boulogne. IMPORTANT: this Ælfthryth is the Countess of Flanders, who died in 929 — she is NOT the Ælfthryth who married King Edgar (daughter of Ordgar, ealdorman of Devon, died c. 1000–1001). The two are different women, so no spousal link to Edgar is drawn. Her husband Baldwin II and children are not in the roster.",
+    "createdDate": "260817",
+    "createdOrder": 85,
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died 7 June 929; buried at St Peter's Abbey, Ghent",
+      "detail": "Ælfthryth died on 7 June 929, probably in Flanders, and was buried next to her husband Baldwin II at St Peter's Abbey, Ghent. The cause of death is not recorded.",
+      "wikiUrl": "https://en.wikipedia.org/wiki/%C3%86lfthryth,_Countess_of_Flanders",
+      "summaryCn": "929年6月7日去世，葬于根特圣彼得修道院",
+      "detailCn": "埃尔夫特里特于929年6月7日去世，地点可能在佛兰德；她被安葬于根特圣彼得修道院，与丈夫鲍德温二世相邻。死因未载。"
+    },
+    "displayNameCn": "埃尔夫特里特",
+    "fullNameCn": "佛兰德伯爵夫人埃尔夫特里特",
+    "nicknameCn": "",
+    "primaryTitleCn": "佛兰德伯爵夫人",
+    "historicalRating": 5
+  },
+  {
+    "id": "547055ce-1258-4fa5-9373-14d0845aacf1",
+    "firstName": "Æthelweard",
+    "lastName": "Wessex",
+    "displayName": "Æthelweard",
+    "fullName": "Æthelweard of Wessex",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Ethelweard"
+    ],
+    "nicknameTags": [],
+    "birthYear": 880,
+    "deathYear": 922,
+    "birthPlace": "Wessex",
+    "deathPlace": "Wessex",
+    "gender": "male",
+    "dynasty": "House of Wessex",
+    "house": "House of Wessex",
+    "culture": "Anglo-Saxon",
+    "faith": "Catholic",
+    "primaryTitle": "Prince of Wessex",
+    "titles": [
+      {
+        "title": "Prince of Wessex",
+        "startYear": 880,
+        "endYear": 922,
+        "titleCn": "威塞克斯王子"
+      }
+    ],
+    "tags": [
+      "noble"
+    ],
+    "rank": "noble",
+    "importanceScore": 35,
+    "relationships": {
+      "fatherId": "aed34407-7ca3-4fcc-9255-ce1b908f9b72",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/%C3%86thelweard_(son_of_Alfred)",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/%C3%86thelweard_(son_of_Alfred)",
+    "sourceNote": "Youngest known son of Alfred the Great.",
+    "notes": "Basic card; event timeline intentionally left empty.",
+    "createdDate": "260817",
+    "createdOrder": 86,
+    "displayNameCn": "埃塞尔韦尔德",
+    "fullNameCn": "威塞克斯的埃塞尔韦尔德",
+    "primaryTitleCn": "威塞克斯王子",
+    "historicalRating": 4
+  },
+  {
+    "id": "cfef312f-94c3-4e88-8778-6b90f70a8690",
+    "firstName": "Ælfwynn",
+    "lastName": "Mercia",
+    "displayName": "Ælfwynn",
+    "fullName": "Ælfwynn, Lady of Mercia",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Aelfwynn"
+    ],
+    "nicknameTags": [],
+    "birthYear": 900,
+    "deathYear": 935,
+    "birthPlace": "Mercia",
+    "deathPlace": "unknown",
+    "gender": "female",
+    "dynasty": "House of Wessex",
+    "house": "House of Wessex",
+    "culture": "Anglo-Saxon",
+    "faith": "Catholic",
+    "primaryTitle": "Lady of Mercia",
+    "titles": [
+      {
+        "title": "Lady of Mercia",
+        "startYear": 918,
+        "endYear": 918,
+        "titleCn": "麦西亚夫人"
+      }
+    ],
+    "tags": [
+      "noble"
+    ],
+    "rank": "noble",
+    "importanceScore": 42,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "b725b22d-501e-4750-ad91-a71cc6069f8d",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/%C3%86lfwynn",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/%C3%86lfwynn",
+    "sourceNote": "Daughter of Æthelflæd and the last ruler of Mercia in her line.",
+    "notes": "Basic card; event timeline intentionally left empty.",
+    "createdDate": "260817",
+    "createdOrder": 87,
+    "displayNameCn": "埃尔夫温",
+    "fullNameCn": "麦西亚夫人埃尔夫温",
+    "primaryTitleCn": "麦西亚夫人",
+    "historicalRating": 4
+  },
+  {
+    "id": "a9d5b087-d9a5-4970-8f5c-6701fdb0463c",
+    "firstName": "Edward",
+    "lastName": "Wessex",
+    "displayName": "Edward the Confessor",
+    "fullName": "Edward the Confessor",
+    "nickname": "the Confessor",
+    "alsoKnownAs": [
+      "Saint Edward the Confessor",
+      "Edward III of England (pre-Conquest numbering)"
+    ],
+    "nicknameTags": [
+      "saint",
+      "confessor"
+    ],
+    "displayNameCn": "忏悔者爱德华",
+    "fullNameCn": "忏悔者爱德华",
+    "nicknameCn": "忏悔者",
+    "birthYear": 1003,
+    "deathYear": 1066,
+    "birthPlace": "Islip, Oxfordshire, England",
+    "deathPlace": "Westminster Palace, England",
+    "birthPlaceCn": "英格兰牛津郡艾斯利普",
+    "deathPlaceCn": "英格兰威斯敏斯特宫",
+    "gender": "male",
+    "dynasty": "House of Wessex",
+    "house": "House of Wessex",
+    "culture": "Anglo-Saxon",
+    "faith": "Catholic",
+    "primaryTitle": "King of the English",
+    "primaryTitleCn": "英格兰人的国王",
+    "titles": [
+      {
+        "title": "King of the English",
+        "titleCn": "英格兰人的国王",
+        "startYear": 1042,
+        "endYear": 1066
+      }
+    ],
+    "tags": [
+      "monarch",
+      "saint",
+      "builder"
+    ],
+    "rank": "king",
+    "importanceScore": 95,
+    "historicalRating": 10,
+    "relationships": {
+      "fatherId": "ed0b5627-f0d9-4c85-ac64-26c1c4c3e4b2",
+      "motherId": "11999429-e764-4ed2-9c8c-cf95cfbbdecc",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1013,
+        "type": "exile",
+        "tags": [
+          "exile",
+          "dynasty"
+        ],
+        "weight": 82,
+        "label": "Fled to Normandy during the Danish conquest",
+        "labelCn": "丹麦征服期间逃往诺曼底",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Edward_the_Confessor",
+        "note": "Edward spent much of his youth in Normandy after Sweyn Forkbeard's invasion drove the royal family from England."
+      },
+      {
+        "year": 1041,
+        "type": "succession",
+        "tags": [
+          "dynasty",
+          "government"
+        ],
+        "weight": 86,
+        "label": "Returned to England under Harthacnut",
+        "labelCn": "在哈德克努特统治下返回英格兰",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Edward_the_Confessor",
+        "note": "Edward returned from Normandy and was associated with the childless Harthacnut's succession."
+      },
+      {
+        "year": 1042,
+        "month": 6,
+        "day": 8,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "king"
+        ],
+        "weight": 100,
+        "label": "Became King of the English",
+        "labelCn": "成为英格兰人的国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Edward_the_Confessor",
+        "note": "Edward succeeded Harthacnut after the latter's sudden death, restoring the House of Wessex to the English throne."
+      },
+      {
+        "year": 1043,
+        "month": 4,
+        "day": 3,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "king"
+        ],
+        "weight": 90,
+        "label": "Coronation at Winchester",
+        "labelCn": "在温彻斯特加冕",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Edward_the_Confessor"
+      },
+      {
+        "year": 1045,
+        "month": 1,
+        "day": 23,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynasty"
+        ],
+        "weight": 84,
+        "label": "Marriage to Edith of Wessex",
+        "labelCn": "与威塞克斯的伊迪丝结婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Edith_of_Wessex",
+        "note": "Edward married Godwin's daughter Edith; the marriage had no recorded children."
+      },
+      {
+        "year": 1051,
+        "type": "political_crisis",
+        "tags": [
+          "government",
+          "rebellion"
+        ],
+        "weight": 88,
+        "label": "Exile of the Godwin family",
+        "labelCn": "放逐戈德温家族",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Godwin,_Earl_of_Wessex",
+        "note": "Edward's conflict with Earl Godwin temporarily expelled the most powerful English family from the kingdom."
+      },
+      {
+        "year": 1052,
+        "type": "political_crisis",
+        "tags": [
+          "government",
+          "diplomacy"
+        ],
+        "weight": 90,
+        "label": "Restored the Godwin family after their return",
+        "labelCn": "戈德温家族归来后恢复其地位",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Edward_the_Confessor",
+        "note": "Godwin's armed return forced a settlement; Edward restored the family, including Harold, to power."
+      },
+      {
+        "year": 1057,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "dynasty"
+        ],
+        "weight": 86,
+        "label": "Recalled Edward the Exile as heir",
+        "labelCn": "召回流亡者爱德华作为继承人",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Edward_the_Exile",
+        "note": "The returned ætheling died within days, leaving Edward's succession unsettled."
+      },
+      {
+        "year": 1065,
+        "type": "government",
+        "tags": [
+          "religion",
+          "builder"
+        ],
+        "weight": 88,
+        "label": "Westminster Abbey church consecrated",
+        "labelCn": "威斯敏斯特修道院教堂祝圣",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Westminster_Abbey",
+        "note": "Edward's rebuilt abbey church was consecrated shortly before his death and became the focus of his posthumous cult."
+      },
+      {
+        "year": 1066,
+        "month": 1,
+        "day": 5,
+        "type": "death",
+        "tags": [
+          "death",
+          "succession"
+        ],
+        "weight": 100,
+        "label": "Death of Edward the Confessor",
+        "labelCn": "忏悔者爱德华去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Edward_the_Confessor",
+        "note": "Edward died childless, immediately precipitating the English succession crisis of 1066."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Edward_the_Confessor",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Edward_the_Confessor",
+    "sourceNote": "Edward's date and place of birth are generally given as c. 1003 at Islip, though early sources are limited. His reign and death dates are secure.",
+    "notes": "Predecessor of Harold II in the English royal succession. The project does not assert a biological relationship between Edward and Harold; their adjacency belongs only to the title-holder chain. His parents, wife and wider Wessex family are not yet connected here because the necessary cards are absent or incomplete.",
+    "createdDate": "260818",
+    "createdOrder": 3,
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died after illness, likely natural causes",
+      "summaryCn": "病后自然去世",
+      "detail": "Edward fell ill late in 1065 and died at Westminster Palace on 5 January 1066. Sources do not identify a more specific diagnosis, but his death is treated as natural rather than violent.",
+      "detailCn": "爱德华在1065年末患病，1066年1月5日于威斯敏斯特宫去世。史料未给出更具体的诊断，通常视为自然死亡而非暴力致死。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Edward_the_Confessor"
+    }
+  },
+  {
+    "id": "40c3aefb-37eb-48eb-8e56-e22733674533",
+    "firstName": "Eadwig",
+    "lastName": "Wessex",
+    "displayName": "Eadwig",
+    "fullName": "Eadwig, King of the English",
+    "displayNameCn": "伊德维格",
+    "fullNameCn": "英格兰人的国王伊德维格",
+    "nickname": "the Fair",
+    "nicknameCn": "俊美者",
+    "alsoKnownAs": [
+      "Edwy"
+    ],
+    "nicknameTags": [
+      "fair"
+    ],
+    "birthYear": 941,
+    "deathYear": 959,
+    "birthPlace": "England",
+    "deathPlace": "Gloucester, England",
+    "birthPlaceCn": "英格兰",
+    "deathPlaceCn": "英格兰格洛斯特",
+    "gender": "male",
+    "dynasty": "House of Wessex",
+    "house": "House of Wessex",
+    "culture": "Anglo-Saxon",
+    "faith": "Catholic",
+    "primaryTitle": "King of the English",
+    "primaryTitleCn": "英格兰人的国王",
+    "titles": [
+      {
+        "title": "King of the English",
+        "titleCn": "英格兰人的国王",
+        "startYear": 955,
+        "endYear": 959
+      }
+    ],
+    "tags": [
+      "monarch"
+    ],
+    "rank": "king",
+    "importanceScore": 70,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "6a820f17-48e1-4927-b3f6-3471625acd47",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Eadwig",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Eadwig",
+    "sourceNote": "Son of Edmund I; ruled from 955 until his death in 959.",
+    "notes": "Basic main-line card. His short reign was contested and England was divided in 957 between Eadwig in Wessex and his brother Edgar in Mercia.",
+    "createdDate": "260818",
+    "createdOrder": 145
+  },
+  {
+    "id": "84ce52d6-91bf-47fb-afa1-5f869f20fbf6",
+    "firstName": "Edward",
+    "lastName": "Wessex",
+    "displayName": "Edward the Martyr",
+    "fullName": "Edward the Martyr",
+    "displayNameCn": "殉道者爱德华",
+    "fullNameCn": "殉道者爱德华",
+    "nickname": "the Martyr",
+    "nicknameCn": "殉道者",
+    "alsoKnownAs": [],
+    "nicknameTags": [
+      "martyr"
+    ],
+    "birthYear": 962,
+    "deathYear": 978,
+    "birthPlace": "England",
+    "deathPlace": "Corfe Castle, England",
+    "birthPlaceCn": "英格兰",
+    "deathPlaceCn": "英格兰科夫城堡",
+    "gender": "male",
+    "dynasty": "House of Wessex",
+    "house": "House of Wessex",
+    "culture": "Anglo-Saxon",
+    "faith": "Catholic",
+    "primaryTitle": "King of the English",
+    "primaryTitleCn": "英格兰人的国王",
+    "titles": [
+      {
+        "title": "King of the English",
+        "titleCn": "英格兰人的国王",
+        "startYear": 975,
+        "endYear": 978
+      }
+    ],
+    "tags": [
+      "monarch",
+      "saint"
+    ],
+    "rank": "king",
+    "importanceScore": 76,
+    "historicalRating": 7,
+    "relationships": {
+      "fatherId": "eceed220-7a02-42dd-99cb-3420f16e2cf6",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [],
+    "deathCause": {
+      "kind": "violent",
+      "summary": "Murdered at Corfe Castle",
+      "summaryCn": "在科夫城堡遇害",
+      "detail": "Edward was killed at Corfe Castle on 18 March 978; the circumstances and instigators remain uncertain.",
+      "detailCn": "978年3月18日，爱德华在科夫城堡遇害；具体经过与主使者仍不明确。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Edward_the_Martyr"
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Edward_the_Martyr",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Edward_the_Martyr",
+    "sourceNote": "Elder son of Edgar the Peaceful; murdered in 978 and later venerated as a saint.",
+    "notes": "Basic main-line card.",
+    "createdDate": "260818",
+    "createdOrder": 146
+  }
+]

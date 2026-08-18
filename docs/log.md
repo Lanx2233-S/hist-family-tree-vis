@@ -584,3 +584,77 @@ Split by responsibility and keep data, derived presentation, interaction state, 
 - 人物数 144 → 154；王位链 40 段持有记录全部指向存在的人物卡。
 - 新增及修复关系的父母／子女双向引用逐项通过，所有关系 UUID 可解析，无孤儿引用。
 - `npm run build` 与 `git diff --check` 通过。
+
+## 2026-08-18：people.normandy.json 按 dynasty 拆分与统一入口
+
+### 目标
+
+- 将 805KB 单文件 `people.normandy.json` 按 house/dynasty 拆分为多文件，降低单文件维护成本，功能与数据内容完全不变。
+- 前端改为统一入口读取；后端与脚本暂保持读原文件，原文件保留作兼容数据源。
+
+### 已完成
+
+- **文件结构**：新增 `src/data/people/`，按 `dynasty` 字段拆分为 9 个文件：`normandy.json`(11)、`wessex.json`(28)、`godwin.json`(2)、`carolingian.json`(22)、`capet.json`(21)、`plantagenet.json`(28)、`york.json`(1)、`tudor.json`(5)、`other.json`(36)，合计 154 人。
+- **统一入口**：新增 `src/data/people/index.ts`，合并 9 个文件并按内嵌 `ORIGINAL_ORDER`（拆分时快照的 154 个 UUID 原始顺序）输出，UI 顺序不变；不在序列表中的新人自动追加末尾并 `console.warn`，避免静默丢失。
+- **前端迁移**：`src/store.ts` 唯一导入改为 `./data/people`，其余组件经 store 无感。
+- **后端兼容策略**：根 `people.normandy.json` 保留不动；`server/seed.mjs` 与 6 个 `scripts/*.mjs` 继续读根文件，零改动。前端已拆分、后端源暂保留。
+- **归属决策**：`dynasty` 为分区键；`dynasty`≠`house` 的 1 条记录（`62f8458b`，dynasty=Plantagenet / house=York）按规则归 `other.json` 并在报告列出；`dynasty` 缺失 3 条及 14 个小家族归 `other.json`。
+- **angevin.json 省略**：数据中无 Angevin 标签（早期金雀花王按 `House of Plantagenet` 记录），重分类被禁止，故不建空文件。
+
+### 验收
+
+- 9 个新 JSON 全部可解析；逐条深比较（按序 `JSON.stringify`）154/154 与原文件完全一致。
+- UUID 集合完全一致、无重复；parent/spouse/child 引用 0 孤儿，父子双向 162/162。
+- `npm run build`（tsc && vite build）与 `git diff --check` 通过；`src/` 无旧路径引用（仅 index.ts 文档注释含旧文件名）。
+
+### 遗留
+
+- **双数据源状态**：前端读拆分文件、后端读根文件，新增人物需两处同步更新，直至后端迁移到统一入口。
+- **ORIGINAL_ORDER 维护负担**：新增人物若忘记加入序列表，会追加到数组末尾并触发 console.warn（不丢人，但顺序变化）。createdOrder 字段与数组下标不符且不唯一，不能作为顺序依据。
+- 新 JSON 为标准 2 空格缩进，与旧文件的扁平缩进风格不同（值完全一致，不影响解析）。
+
+## 2026-08-18：拆分 JSON 成为唯一数据源（根 JSON 改为生成产物）
+
+### 目标
+
+- 第一步消除人物数据双数据源：`src/data/people/*.json` 为唯一源，根 `people.normandy.json` 为生成产物，后端与脚本继续读取生成文件，本轮不扩大改动范围。
+
+### 已完成
+
+- **共享顺序清单**：新增 `src/data/people/manifest.json`，含 `files`（9 个拆分文件清单）与 `order`（154 个 UUID 原始顺序）。`index.ts` 改为从 manifest 读取 ORIGINAL_ORDER（移除内嵌数组），前端与构建脚本共用同一份顺序，消除双份维护。
+- **生成脚本**：新增 `scripts/build-people.mjs`，读取 manifest + 9 个拆分文件，按 order 合并输出根 `people.normandy.json`（标准 2 空格缩进）。硬校验并立即失败：非法 JSON、记录缺 id、重复 UUID、order 重复/引用悬空/遗漏新人物、父子/配偶/子女引用孤儿、父子双向不一致。脚本头注释声明根 JSON 为生成产物、禁止手动编辑。
+- **npm 流程**：package.json 新增 `"data:build": "node scripts/build-people.mjs"`；`build` 改为 `npm run data:build && tsc && vite build`，生产构建前自动生成。
+- **兼容策略**：`server/seed.mjs` 与 6 个 `scripts/*.mjs` 继续读根 `people.normandy.json`（本轮未改）；根 JSON 保留为生成产物。
+- **语义说明**：构建脚本对「拆分文件中有新人但未加入 manifest.order」采取严格失败（强制更新清单）；前端 `index.ts` 保留 warn + 追加末尾的运行时兜底（vite dev 路径）。
+
+### 验收
+
+- `node scripts/build-people.mjs` 输出 OK（154 人 / 9 文件）；重复运行幂等。
+- 生成产物与原根 JSON 逐条值级深比较 154/154 一致（仅格式变为标准 2 空格缩进，一次性 diff）。
+- manifest.order 合并结果与原顺序一致 154/154；UUID 集合一致、无重复；孤儿与父子双向检查内建于脚本并通过。
+- `npm run build`（data:build → tsc → vite build）与 `git diff --check` 通过；`rg "people.normandy" src/` 0 命中。
+
+### 遗留
+
+- **以后新增/修改人物**：只改 `src/data/people/*.json`，并把新人物 UUID 加入 `manifest.json` 的 `order` 数组（构建脚本会强制校验），再运行 `npm run data:build` 重新生成根 JSON；不得直接编辑根 `people.normandy.json`。
+- 后端与 6 个脚本仍读生成文件——若手动改根 JSON 会被下次 data:build 覆盖，属预期行为。
+
+## 2026-08-18：数据源改造收尾审查与生成格式统一
+
+### 审查结论
+
+- **manifest.json 唯一源确认**：`src/data/people/manifest.json` 是文件清单与人物顺序的唯一来源，`index.ts`（前端）与 `build-people.mjs`（生成器）均从它读取。新增一致性 guard：生成器校验 manifest.files 与 index.ts 的 JSON import 集合必须一致，清单漂移立即失败。
+- **生成格式最终决策**：原根文件实为 4 种混合手工排版（96 条扁平 / 45 条标准 / 3 条 inline / 10 条单行紧凑 + 2 个特例），而非统一格式。曾实现按 UUID 钉格式的遗留复刻器做到字节级复现，经评审后**移除**——不维护旧文件的手工排版遗产。统一输出为 `JSON.stringify(people, null, 2) + "\n"`。
+- **一次性格式 diff 已接受**：根 JSON diff 约 22k 增 / 20.8k 删，全部为格式变化；与 HEAD 逐条值级深比较 154/154 一致，UUID 集合一致、无重复——非历史数据修改。
+
+### 验收
+
+- 连续运行 `data:build` 两次输出字节一致（幂等）；`npm run build`（data:build → tsc → vite build）与 `git diff --check` 通过。
+- 关系引用（父子/配偶/子女无孤儿、父子双向）由生成脚本硬校验，每次构建强制执行。
+- package.json 与 package-lock.json 一致（scripts 不进 lockfile，依赖 caret 范围均满足）。
+- `docs/CLAUDE.local.md` 保持未跟踪。
+
+### 遗留
+
+- 旧数据写脚本（`apply-historical-ratings.mjs`、`add-charlemagne-children.mjs`、`recalibrate-historical-ratings.mjs`、`rename-holy-roman-henry-v.mjs`）仍会按各自格式直接写根 JSON，与生成器输出格式冲突——属后续步骤迁移/弃用范围，本轮未动。
+- 工作树中 `src/features/tree/FamilyTree.tsx` 的未提交修改与本次数据流改造无关（并行改动）。

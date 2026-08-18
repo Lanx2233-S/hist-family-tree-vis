@@ -1,0 +1,402 @@
+[
+  {
+    "id": "acb44ca3-5936-4d3b-875a-0d485f5bcc70",
+    "firstName": "Godwin",
+    "lastName": "Wessex",
+    "displayName": "Godwin",
+    "fullName": "Godwin, Earl of Wessex",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Godwine",
+      "Godwin of Wessex"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "戈德温",
+    "fullNameCn": "威塞克斯伯爵戈德温",
+    "birthYear": 990,
+    "deathYear": 1053,
+    "birthPlace": "Sussex, England",
+    "deathPlace": "Winchester, England",
+    "birthPlaceCn": "英格兰苏塞克斯",
+    "deathPlaceCn": "英格兰温彻斯特",
+    "gender": "male",
+    "dynasty": "House of Godwin",
+    "house": "House of Godwin",
+    "culture": "Anglo-Saxon",
+    "faith": "Catholic",
+    "primaryTitle": "Earl of Wessex",
+    "primaryTitleCn": "威塞克斯伯爵",
+    "titles": [
+      {
+        "title": "Earl of Wessex",
+        "titleCn": "威塞克斯伯爵",
+        "startYear": 1019,
+        "endYear": 1053
+      }
+    ],
+    "tags": [
+      "noble",
+      "commander",
+      "statesman"
+    ],
+    "rank": "earl",
+    "importanceScore": 87,
+    "historicalRating": 8,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "131aba03-2d7b-4ae3-8d16-b7ebd660ce6c"
+      ]
+    },
+    "events": [
+      {
+        "year": 1019,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "noble"
+        ],
+        "weight": 86,
+        "label": "Became Earl of Wessex",
+        "labelCn": "成为威塞克斯伯爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Godwin,_Earl_of_Wessex",
+        "note": "Cnut elevated Godwin to the earldom of Wessex, making him one of the most powerful magnates in England."
+      },
+      {
+        "year": 1022,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynasty"
+        ],
+        "weight": 72,
+        "label": "Marriage to Gytha Thorkelsdóttir",
+        "labelCn": "与吉莎·索凯尔斯多蒂尔结婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Godwin,_Earl_of_Wessex",
+        "note": "The marriage date is uncertain; Gytha was of Danish aristocratic descent and became mother of Harold Godwinson and his siblings."
+      },
+      {
+        "year": 1035,
+        "type": "regency",
+        "tags": [
+          "government",
+          "dynasty"
+        ],
+        "weight": 76,
+        "label": "Supported Harthacnut's claim after Cnut's death",
+        "labelCn": "克努特去世后支持哈德克努特的继承权",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Godwin,_Earl_of_Wessex",
+        "note": "Godwin was central to the contest between Harthacnut and Harold Harefoot after Cnut died."
+      },
+      {
+        "year": 1040,
+        "type": "succession",
+        "tags": [
+          "government",
+          "dynasty"
+        ],
+        "weight": 78,
+        "label": "Backed Harthacnut's accession",
+        "labelCn": "支持哈德克努特即位",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Harthacnut",
+        "note": "Godwin helped secure Harthacnut's return and accession as king of England."
+      },
+      {
+        "year": 1042,
+        "type": "succession",
+        "tags": [
+          "government",
+          "dynasty"
+        ],
+        "weight": 88,
+        "label": "Supported Edward the Confessor's accession",
+        "labelCn": "支持忏悔者爱德华即位",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Edward_the_Confessor",
+        "note": "Godwin remained indispensable when Edward succeeded Harthacnut, beginning the political dominance of the Godwin family under Edward."
+      },
+      {
+        "year": 1045,
+        "month": 1,
+        "day": 23,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynasty"
+        ],
+        "weight": 90,
+        "label": "Daughter Edith married King Edward",
+        "labelCn": "女儿伊迪丝嫁给爱德华国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Edith_of_Wessex",
+        "note": "The marriage linked the royal house to the Godwin family, though it produced no children."
+      },
+      {
+        "year": 1051,
+        "type": "exile",
+        "tags": [
+          "political_crisis",
+          "exile"
+        ],
+        "weight": 91,
+        "label": "Exiled from England",
+        "labelCn": "被逐出英格兰",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Godwin,_Earl_of_Wessex",
+        "note": "After refusing Edward's order to punish Dover, Godwin and his family were outlawed and fled England."
+      },
+      {
+        "year": 1052,
+        "type": "succession",
+        "tags": [
+          "political_crisis",
+          "government"
+        ],
+        "weight": 95,
+        "label": "Returned and restored to power",
+        "labelCn": "返回并恢复权力",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Godwin,_Earl_of_Wessex",
+        "note": "Godwin returned with an armed fleet; Edward accepted a settlement and restored the family to its estates and offices."
+      },
+      {
+        "year": 1053,
+        "month": 4,
+        "day": 15,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 82,
+        "label": "Death of Godwin, Earl of Wessex",
+        "labelCn": "威塞克斯伯爵戈德温去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Godwin,_Earl_of_Wessex",
+        "note": "He died at Winchester after collapsing during a royal gathering; later stories vary, and the precise medical cause is unknown."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Godwin,_Earl_of_Wessex",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Godwin,_Earl_of_Wessex",
+    "sourceNote": "The date and place of Godwin's birth are uncertain; c. 990 and Sussex are conventional approximations. His political rise under Cnut and restoration in 1052 are well attested.",
+    "notes": "Father of Harold Godwinson. Gytha and the other Godwin children are not yet in the roster; the father-son UUID link is deliberately limited to the verified existing card.",
+    "createdDate": "260818",
+    "createdOrder": 1,
+    "deathCause": {
+      "kind": "uncertain",
+      "summary": "Collapsed and died; medical cause is not securely recorded",
+      "summaryCn": "昏倒后去世，确切病因无可靠记载",
+      "detail": "Godwin collapsed during a royal gathering at Winchester and died soon afterwards on 15 April 1053. Later accounts attach dramatic details to the episode, but no contemporary medical diagnosis survives.",
+      "detailCn": "1053年4月15日，戈德温在温彻斯特的一次王室集会上昏倒后不久去世。后世叙述增添了戏剧性细节，但没有可靠的当代医学记录。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Godwin,_Earl_of_Wessex"
+    }
+  },
+  {
+    "id": "131aba03-2d7b-4ae3-8d16-b7ebd660ce6c",
+    "firstName": "Harold",
+    "lastName": "Godwinson",
+    "displayName": "Harold II",
+    "fullName": "Harold II Godwinson",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Harold Godwinson",
+      "Harold of Wessex"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "哈罗德二世",
+    "fullNameCn": "哈罗德二世·戈德温森",
+    "birthYear": 1022,
+    "deathYear": 1066,
+    "birthPlace": "Wessex, England",
+    "deathPlace": "Battle of Hastings, England",
+    "birthPlaceCn": "英格兰威塞克斯",
+    "deathPlaceCn": "英格兰黑斯廷斯战场",
+    "gender": "male",
+    "dynasty": "House of Godwin",
+    "house": "House of Godwin",
+    "culture": "Anglo-Saxon",
+    "faith": "Catholic",
+    "primaryTitle": "King of the English",
+    "primaryTitleCn": "英格兰人的国王",
+    "titles": [
+      {
+        "title": "Earl of East Anglia",
+        "titleCn": "东盎格利亚伯爵",
+        "startYear": 1045,
+        "endYear": 1053
+      },
+      {
+        "title": "Earl of Wessex",
+        "titleCn": "威塞克斯伯爵",
+        "startYear": 1053,
+        "endYear": 1066
+      },
+      {
+        "title": "King of the English",
+        "titleCn": "英格兰人的国王",
+        "startYear": 1066,
+        "endYear": 1066
+      }
+    ],
+    "tags": [
+      "monarch",
+      "commander",
+      "noble"
+    ],
+    "rank": "king",
+    "importanceScore": 96,
+    "historicalRating": 10,
+    "relationships": {
+      "fatherId": "acb44ca3-5936-4d3b-875a-0d485f5bcc70",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1045,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "noble"
+        ],
+        "weight": 74,
+        "label": "Became Earl of East Anglia",
+        "labelCn": "成为东盎格利亚伯爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Harold_Godwinson",
+        "note": "Harold first appears as earl in the mid-1040s; the precise initial territorial allocation is reconstructed from later evidence."
+      },
+      {
+        "year": 1051,
+        "type": "exile",
+        "tags": [
+          "political_crisis",
+          "exile"
+        ],
+        "weight": 84,
+        "label": "Exiled with the Godwin family",
+        "labelCn": "随戈德温家族被逐出英格兰",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Harold_Godwinson",
+        "note": "Harold left England with his father after the crisis between Godwin and Edward the Confessor."
+      },
+      {
+        "year": 1052,
+        "type": "succession",
+        "tags": [
+          "political_crisis",
+          "government"
+        ],
+        "weight": 88,
+        "label": "Returned with Godwin and restored",
+        "labelCn": "随戈德温返回并恢复地位",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Harold_Godwinson",
+        "note": "The negotiated restoration of the Godwins returned Harold to political prominence."
+      },
+      {
+        "year": 1053,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "noble"
+        ],
+        "weight": 94,
+        "label": "Succeeded as Earl of Wessex",
+        "labelCn": "继任威塞克斯伯爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Harold_Godwinson",
+        "note": "After Godwin's death, Harold inherited Wessex and became the most powerful lay magnate in England."
+      },
+      {
+        "year": 1064,
+        "type": "diplomacy",
+        "tags": [
+          "diplomacy",
+          "uncertain"
+        ],
+        "weight": 80,
+        "label": "Shipwreck and oath in Normandy (traditional account)",
+        "labelCn": "在诺曼底遇难并宣誓（传统叙述）",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Harold_Godwinson",
+        "note": "Norman sources place Harold in Normandy and say he swore to support William's claim; the date, circumstances and legal meaning remain disputed."
+      },
+      {
+        "year": 1066,
+        "month": 1,
+        "day": 5,
+        "type": "death",
+        "tags": [
+          "death",
+          "dynasty"
+        ],
+        "weight": 96,
+        "label": "Death of Edward the Confessor",
+        "labelCn": "忏悔者爱德华去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Edward_the_Confessor",
+        "note": "Edward's death opened the succession crisis in which Harold, William of Normandy and Harald Hardrada all advanced claims."
+      },
+      {
+        "year": 1066,
+        "month": 1,
+        "day": 6,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "king"
+        ],
+        "weight": 100,
+        "label": "Crowned King of the English",
+        "labelCn": "加冕为英格兰人的国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Harold_Godwinson",
+        "note": "The English sources associate Harold's coronation with Westminster on the day after Edward's death."
+      },
+      {
+        "year": 1066,
+        "month": 9,
+        "day": 25,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "commander",
+          "campaign"
+        ],
+        "weight": 97,
+        "label": "Battle of Stamford Bridge",
+        "labelCn": "斯坦福桥战役",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Stamford_Bridge",
+        "note": "Harold defeated Harald Hardrada and his brother Tostig in Yorkshire, then marched south to meet William."
+      },
+      {
+        "year": 1066,
+        "month": 10,
+        "day": 14,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "commander",
+          "conquest"
+        ],
+        "weight": 100,
+        "label": "Battle of Hastings and death",
+        "labelCn": "黑斯廷斯战役与战死",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Hastings",
+        "note": "Harold was killed while commanding the English army, reportedly struck in the eye by an arrow. The battle ended his kingship and opened the Norman conquest.",
+        "noteCn": "哈罗德统率英格兰军队作战时阵亡；据说一箭射中其眼部。此战终结了他的王位，并开启诺曼征服。"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Harold_Godwinson",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Harold_Godwinson",
+    "sourceNote": "Harold's birth year and several details of his Norman voyage are uncertain. His accession, Stamford Bridge and death at Hastings are securely dated.",
+    "notes": "Son of Godwin, Earl of Wessex. Edward the Confessor is his predecessor in the title chain, not his parent; no false genealogical edge is created. His wives/partners and children are outside the current roster.",
+    "createdDate": "260818",
+    "createdOrder": 2,
+    "deathCause": {
+      "kind": "violent_uncertain",
+      "summary": "Killed in battle at Hastings",
+      "summaryCn": "在黑斯廷斯战役中战死",
+      "detail": "Harold died fighting William of Normandy's army on 14 October 1066, reportedly after an arrow struck his eye.",
+      "detailCn": "1066年10月14日，哈罗德在与诺曼底威廉军队作战时阵亡；据说一箭射中其眼部。",
+      "culprit": "Army of William, Duke of Normandy",
+      "culpritCn": "诺曼底公爵威廉的军队",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Hastings"
+    }
+  }
+]
