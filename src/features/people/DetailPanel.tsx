@@ -3,6 +3,7 @@ import { useFamilyStore } from "../../store";
 import type { PersonEvent } from "../../types";
 import { byImportance, copyFor, DeathCauseButton, eventAge, eventDateText, eventDateValue, eventLabelText, eventTagText, EventNote, genderMark, heraldryFor, initials, lifespan, shortEnglishName, tagText, textFor, years, type Language } from "../shared/presentation";
 import kingOfEnglandData from "../../data/titles/king-of-england.json";
+import kingOfFranceData from "../../data/titles/king-of-france.json";
 
 type DetailPanelProps = {
   personId?: string;
@@ -11,6 +12,7 @@ type DetailPanelProps = {
 };
 
 const kingOfEnglandHolderIds = new Set((kingOfEnglandData.holders as Array<{ personId: string }>).map(({ personId }) => personId));
+const kingOfFranceHolderIds = new Set((kingOfFranceData.holders as Array<{ personId: string }>).map(({ personId }) => personId));
 
 export function DetailPanel({ personId, onOpenHouse, onOpenTitleLineage }: DetailPanelProps = {}) {
   const people = useFamilyStore((state) => state.people);
@@ -22,10 +24,10 @@ export function DetailPanel({ personId, onOpenHouse, onOpenTitleLineage }: Detai
   const t = copyFor(language);
   const label = textFor(person, language);
   const heraldry = heraldryFor(person);
-  const hasTitleLineage = kingOfEnglandHolderIds.has(person.id);
+  const hasTitleLineage = kingOfEnglandHolderIds.has(person.id) || kingOfFranceHolderIds.has(person.id);
   const titleLineageNames = new Set([
-    kingOfEnglandData.canonicalName,
-    ...kingOfEnglandData.aliases,
+    kingOfEnglandData.canonicalName, ...kingOfEnglandData.aliases,
+    kingOfFranceData.canonicalName, ...kingOfFranceData.aliases,
   ]);
   const topEvents = byImportance(person.events).slice(0, 3).sort((a, b) => eventDateValue(a) - eventDateValue(b));
   const timelineEvents = [...person.events].sort((a, b) => eventDateValue(a) - eventDateValue(b));

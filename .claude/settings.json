@@ -1,0 +1,21 @@
+{
+  "hooks": {
+    "SessionStart": [
+      {
+        "hooks": [
+          { "type": "command", "command": "marker=\"/tmp/claude-hft-session-start-$(printf %s \"$PWD\" | shasum | cut -d' ' -f1)\"; touch \"$marker\"" }
+        ]
+      }
+    ],
+    "Stop": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "marker=\"/tmp/claude-hft-session-start-$(printf %s \"$PWD\" | shasum | cut -d' ' -f1)\"; changes=$(git status --porcelain --untracked-files=all | grep -v '^?? docs/CLAUDE.local.md$'); if [ -n \"$changes\" ] && [ -f docs/log.md ] && [ -f \"$marker\" ] && [ ! docs/log.md -nt \"$marker\" ]; then echo '{\"systemMessage\": \"提醒：本次会话有未记录的项目改动，请更新 docs/log.md（人物数据同步 people-entry-log.md）后再结束。\"}'; fi"
+          }
+        ]
+      }
+    ]
+  }
+}

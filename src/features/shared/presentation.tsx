@@ -274,6 +274,8 @@ const titleCnMap: Record<string, string> = {
   "King of Wessex": "威塞克斯国王",
   "King of the Anglo-Saxons": "盎格鲁-撒克逊人的国王",
   "King of the English": "英格兰人的国王",
+  "King of the Franks": "法兰克人国王",
+  "King of West Francia": "西法兰克国王",
   "Lady of the English": "英格兰人的夫人",
   "Lord of Ireland": "爱尔兰领主",
   Noblewoman: "女贵族",

@@ -714,3 +714,173 @@ Split by responsibility and keep data, derived presentation, interaction state, 
 ### 验收
 
 - `node scripts/build-people.mjs` → `OK: 179 people from 9 files`；`npm run build` 与 `git diff --check` 通过。
+
+## 2026-08-19：罗贝尔家族补链与法兰西头衔链
+
+### 目标
+
+- 机械完成两项添加：罗贝尔家族补链（新增 Robert the Strong 并接 Odo/Robert I 父链）与法兰西头衔链（新建 `src/data/titles/king-of-france.json`，前端双链目录）。
+
+### 已完成
+
+- **新增 Robert the Strong**（Robertian，rating 6）→ `other.json`（40 → 41），`manifest.json` `order` 追加 UUID（179 → 180），全库 179 → 180。
+- **补关系**：Odo of Paris / Robert I of France `fatherId` 置为 Robert the Strong，Robert the Strong `childIds` 含二人，父子双向一致。
+- **新建 `src/data/titles/king-of-france.json`**：canonicalName "King of France"，aliases ["King of the Franks","King of West Francia"]，3 个 nameForms（西法兰克→法兰克→法兰西），27 位持有者自 Charles the Bald（843）至 Charles IV（1328）。
+- 西法兰克视为法兰西王国等价表达；Louis V→Hugh Capet 以头衔链标记为继承、不建血亲边（Hugh Capet 之父仍为 Hugh the Great）。
+- **前端**：TitlePage 改为双链目录（Kingdom of England + Kingdom of France 并列）、DetailPanel 双链判定。
+
+### 验收
+
+- `node scripts/build-people.mjs` 输出 `OK: 180 people from 9 files`（孤儿/双向硬校验通过）；`npm run build`（data:build → tsc → vite build）与 `git diff --check` 通过。
+- France 链 27 位持有者 personId 全部在库内解析；aliases 2、nameForms 3。
+
+### 遗留
+
+- Robert the Strong 之父 Robert III of Worms 未建卡；France 链在 Charles IV 后中断（Valois 未建卡）；预存卡佩卡的部分 titleCn 可能缺失（见 Step 4 报告）。
+
+## 2026-08-19：deathCause 全库补全
+
+### 目标
+
+- 全库 deathCause 覆盖补全：审计 180 人中 130 已有完整 deathCause、50 缺失、0 不完整；本次机械合并 26 条已编写记录，覆盖补到 156，剩余 24。
+
+### 已完成
+
+- **本次补 26 人**（`carolingian.json` 20、`other.json` 5、`wessex.json` 1），分为两类：
+  - **21 人 rating≥5 主线**：英格兰 Eadwig/Stephen/Harold Harefoot；法兰西/加洛林 Charles the Simple 至 Louis V 西法兰克主线及 Lothair II、Louis II of Italy、Louis the Stammerer、Louis III、Carloman II、Charles of Provence、Charles of Lower Lorraine、Louis the Blind、Hugh of Lotharingia、Zwentibold；罗贝尔 Odo/Robert I；Berengar I、Rudolph。
+  - **另 5 人明确记载的 rating<5**：Charles the Younger、Pepin the Hunchback、三婴儿夭折（Adalhaid、Lothair twin、Hildegard）。
+- **kind 分布**：normal 20 / violent 4（Zwentibold 阵亡、Carloman II 野猪所伤、Robert I 苏瓦松阵亡、Berengar I 维罗纳刺杀）/ uncertain 2（Eadwig、Harold Harefoot）。分类遵循既有先例（如 William I 坠马伤归 normal，故 Louis IV、Louis V、Louis III 坠马/狩猎事故亦归 normal）。
+- **合并方式**：`person.deathCause = { ...map[id], wikiUrl: person.wikiUrl }`（wikiUrl 复用本人 wikiUrl）；未改动任何 id、relationships 或其他字段。
+
+### 验收
+
+- `node scripts/build-people.mjs` → `OK: 180 people from 9 files`（孤儿/双向硬校验通过，无新增人）；`npm run build`（data:build → tsc → vite build）与 `git diff --check` 通过。
+- deathCause 覆盖 130 → 156；26 条全部写入且 wikiUrl 与本人一致；比对 HEAD：8 个文件 ids/relationships 完全不变，`other.json` 仅含既有未提交的 Robert the Strong 补链差异（新卡 dd399b70 + Odo/Robert I fatherId 置链），与本次无关。
+
+### 遗留
+
+- **24 人仍缺**（多为低评级女性亲属与次要伯爵，无可靠死因资料）：
+  - wessex：Æthelgifu、Æthelweard、Ælfwynn、Æthelstan of Wessex、Ælfgifu of Wessex。
+  - carolingian：Hiltrude、Gisela、Rotrude、Adaltrude、Theodoric、Bertha、Hugh、Theodrada、Ruothild、Drogo、Charles Constantine of Vienne、Hruodhaid。
+  - capet：Agnès of France。
+  - other：Guilhem VI the Fat、Odo of Gascony、Ida de Tosny、Ykenai、Nest、Ramnulf III。
+
+## 2026-08-19：瓦卢瓦主线与东法兰克闭合
+
+### 目标
+
+- 合并 8 位已编写人物（6 位瓦卢瓦国王 + 2 位东法兰克加洛林），并延续法兰西头衔链至路易十一世。
+
+### 已完成
+
+- **新增 8 人**（全库 180 → 188）：
+  - 6 位瓦卢瓦 → `other.json`：Philip VI、John II、Charles V、Charles VI、Charles VII、Louis XI。
+  - 2 位加洛林 → `carolingian.json`：Carloman of Bavaria、Louis the Younger。
+  - `manifest.json` `order` 追加 8 个 UUID（180 → 188），`files` 不变。
+- **延续法兰西头衔链**：`king-of-france.json` 自 Charles IV 续至 Louis XI，27 → 33 段，覆盖 1328–1483（Philip VI 1328–1350 → John II 1350–1364 → Charles V 1364–1380 → Charles VI 1380–1422 → Charles VII 1422–1461 → Louis XI 1461–1483）。
+- **闭合东法兰克支线**：Louis the German → {Carloman, Louis the Younger, Charles the Fat}；Carloman → Arnulf（Arnulf 的 fatherId 由空补为 Carloman）→ Louis the Child；父子双向一致。
+- **Valois 评级**：Charles V / Charles VII / Louis XI = 8，Philip VI / John II / Charles VI = 7。
+
+### 验收
+
+- `node scripts/build-people.mjs` → `OK: 188 people from 9 files`（孤儿/双向硬校验通过）；`npm run build`（data:build → tsc → vite build）与 `git diff --check` 通过。
+- France 链 33 位持有者 personId 全部在库内解析；双向 spot-check（Louis the German、Carloman、Arnulf、Louis the Younger、Valois 六代）全部一致。
+
+### 遗留
+
+- Philip VI 之父 Charles of Valois、Louis XI 之子 Charles VIII、各王后（Isabeau of Bavaria、Charlotte of Savoy 等）未建卡。
+
+## 2026-08-19：法英交叉配偶、北海帝国与英格兰竞争人物
+
+### 目标
+
+- 合并 24 位已编写人物（法英交叉配偶 6、北海帝国 4、英格兰竞争/金雀花/都铎配偶 14），并建立跨王国婚姻与母子关系边。
+
+### 已完成
+
+- **新增 24 人**（全库 188 → 212），`manifest.json` `order` 追加 24 个 UUID（188 → 212），`files` 不变；按 dynasty 分区写入：`capet.json` +2、`wessex.json` +2、`godwin.json` +4、`normandy.json` +1、`other.json` +15。
+- **跨王国配偶边**：Isabella of France（腓力四世之女）→Edward II、Catherine of Valois（查理六世之女）→Henry V、Margaret of France（腓力三世之女）→Edward I 等；另含 Eleanor of Provence→Henry III、Eleanor of Castile→Edward I、Philippa of Hainault→Edward III、Margaret of Anjou→Henry VI、Elizabeth Woodville→Edward IV、Anne of Bohemia→Richard II、Edith of Wessex→Edward the Confessor、Isabella of Angoulême→John、Ælfgifu of Northampton→Cnut、Gunnor→Richard I of Normandy。
+- **母子边**：Eleanor of Provence→Edward I、Isabella of Angoulême→Henry III、Eleanor of Castile→Edward II、Isabella of France→Edward III、Catherine of Valois→Henry VI、Margaret Beaufort→Henry VII、Gunnor→Emma of Normandy 与 Richard II of Normandy、Ælfgifu of Northampton→Harold Harefoot、Elizabeth Woodville→Edward V 与 Elizabeth of York、Gytha Thorkelsdóttir→Harold II。
+- **闭合 Godwin 家族**：Godwin + Gytha→{Tostig、Gyrth、Leofwine、Edith of Wessex}，加既有 Harold II，父子双向一致。
+- **北海帝国异母关系**：Harald Bluetooth→Sweyn Forkbeard（fatherId 补链）；Cnut 双妻 Ælfgifu vs Emma，异母子 Svein Knutsson vs Harthacnut；Emma 母 Gunnor。
+- **金雀花/都铎补边**：Henry I→William Adelin、Edward the Exile→Edgar Ætheling；Philip III→Margaret of France、Philip IV→Isabella of France、Charles VI→Catherine of Valois 的父女边与既有配偶边双向往返。
+
+### 验收
+
+- `node scripts/build-people.mjs` → `OK: 212 people from 9 files`（孤儿/双向硬校验通过）；`npm run build`（data:build → tsc → vite build）与 `git diff --check` 通过。
+- 分区计数：capet 23、wessex 30、godwin 6、normandy 12、other 62、carolingian 45、plantagenet 28、york 1、tudor 5（合计 212）。
+
+### 遗留
+
+- Edmund Tudor、Charles of Valois、René of Anjou 等上游未建卡；部分配偶的父族（如 Philippa of Hainault 之父 William I of Hainault、Catherine of Valois 之母 Isabeau of Bavaria）未建卡。
+
+## 2026-08-19：Philippa 填色与子链诊断修复（王后 vs 女王身份区分）
+
+### 诊断
+
+- **填色错误**：`titleTier` 规则为 `tags.includes("consort") && 含 "queen"` → `queen-consort`，否则含 `queen` → `king`（君主填色）。Philippa 的 `tags` 只有 `queen` 缺 `consort`，故落入 `king` 被当成在位女王。
+- **子链断裂**：Philippa `childIds=[]`；Edward III 三子（黑太子、冈特的约翰、安特卫普的莱昂内尔）`motherId` 全空，Philippa 视角看不到儿子。
+- **普遍性**：既有王后约定带 `consort` tag（Eleanor of Aquitaine、Matilda of Flanders、Elizabeth of York 等）；在位女王 Mary I / Elizabeth I 为 `monarch,queen` 无 `consort`。排查发现共 14 位王后漏 `consort`（12 位本批新增 + 既有 Emma of Normandy、Béatrice of Vermandois）。
+
+### 修复
+
+- 数据层为 14 位王后补 `consort` tag（非 Philippa 特判，遵循既有 tag 约定；不靠姓名/头衔猜测身份）。
+- 接 Philippa ↔ 三子双向关系：Philippa `childIds` + 三子 `motherId` 回指。
+- 复用 `titleTier` 通用规则，tree page / title page / 详情页一致，无需改代码。
+
+### 验收
+
+- tier 复算：Philippa / Emma / Elizabeth Woodville / Margaret of Anjou → `queen-consort`；Elizabeth I → `king`（在位女王，正确）。
+- `data:build` 212 人、`npm run build`、`git diff --check` 通过；独立审计 0 孤儿 / 0 单向 / 0 母链不对称。
+
+### 过程事故与恢复
+
+- 一次写回脚本误把全部 212 人写入每个拆分文件（`all.filter` 过滤逻辑错误），导致 9 个拆分文件被污染。根 `people.normandy.json`（上次 build 产物）完好，据此按 dynasty 重新分拆（含 `dynasty≠house → other` 的既有冲突规则，Richard III 归 other.json）后恢复，212 人完整、关系无损。
+- 再次确认：`build-people.mjs` 的双向校验是单向的（只查父列子方向），母子反向不对称需独立审计兜底。
+
+## 2026-08-19：法英交叉配偶批次母链不对称补记
+
+- 独立审计（比 `build-people.mjs` 更严，含「子女声明父母但父母未列子女」反向检查）发现两处母链不对称，已修复：
+  1. **William Adelin → Matilda of Scotland**：设了 motherId 但漏把 William 加入 Matilda 的 childIds。
+  2. **Edith of Wessex → Gytha Thorkelsdóttir**：设了 motherId 但 Gytha 的 childIds 漏了 Edith。
+- 根因是 build-people.mjs 的双向校验单向（只查「父列子」方向），后续统一由独立审计兜底（结论与 Philippa 条目一致）。
+
+## 2026-08-19：people-entry-log.md 重建为准确索引
+
+- 将 `people-entry-log.md` 重写为当前 JSON 数据的准确索引：以 `manifest.json` 的 `order` 为唯一人员总清单，遍历全部 9 个人员 JSON，共 **212 人**，每人一行。
+- 表字段固定：`姓名 | UUID | 自定义序号 | 总序号 | 重要度评分`，按 `manifest.order` 顺序连续编号（1→212），不按姓名/日期/家族重排。
+- 字段映射（依据实际 JSON 结构）：姓名=`displayName`、UUID=`id`、自定义序号=`createdOrder`（非唯一，181/212）、总序号=1..N、评分=`historicalRating`（`X星`）。
+- 移除旧日志的「共 110 人」「总人物 126」等旧统计、旧分组表格与重复说明；顶部加数据来源/总人数/校验日期（2026-08-19），表后加「校验结果」节。
+- 说明：JSON 无独立「自定义 ID」字段，`createdOrder`（如 123）与 `createdDate`（如 20260818）分列存储，未自行拼接/编造。
+- 校验：212/212 UUID 集合与 manifest 一致、全唯一、总序号无跳号、评分与 historicalRating 全部一致。
+
+## 2026-08-19：自定义序号重排为 YYYYMMDDNNN 格式
+
+- 将全部 212 人按 `manifest.order` 顺序平均分配到 2026-08-15/16/17/18 四天（每天 53 人，无余数）。
+- JSON 同步：`createdDate` 设为所属日期（`20260815`–`20260818`），`createdOrder` 设为当天序号（1–53，数字）；未改姓名/UUID/亲属/事件/评分/manifest.order。
+- `people-entry-log.md` 重建，自定义序号列为 `YYYYMMDDNNN`（`createdDate` + `createdOrder` 补零三位，如 `20260815001`）。
+- 校验：212/212 UUID 集合与 manifest 一致、全唯一、总序号无跳号、每天 001 起连续、JSON 与 markdown 自定义序号一致、评分与 historicalRating 一致；build/diff 通过。
+- 副作用：`createdOrder` 由全局序号变为当天序号，影响 `sortPeopleByBirth` 同生年平局排序；`manifest.order` 仍为权威顺序。
+
+## 2026-08-19：Claude Code 项目规则与日志门禁优化
+
+### 目标
+
+- 让后续代理明确任务边界、数据源和验收要求。
+- 让 Stop hook 只在确有未记录项目改动时提醒日志。
+
+### 已完成
+
+- 新增项目根 `CLAUDE.md`，固定任务日志、拆分 JSON 数据源、范围控制和验收约定。
+- 新增 `.claude/settings.json`：SessionStart 使用按项目路径隔离的临时 marker；Stop hook 检查实际工作区改动，并排除本地策略文件 `docs/CLAUDE.local.md`。
+- 保持 `docs/CLAUDE.local.md` 为本地未跟踪策略，不纳入项目提交。
+
+### 验收
+
+- `.claude/settings.json` 通过 `jq` 与 Node JSON 结构校验。
+- hook 命令在当前 macOS shell 环境中成功执行；存在未记录改动时会正常提醒。
+- `git diff --check` 通过。
+
+### 遗留
+
+- 当前工作区仍有此前人物数据、法兰西头衔链和 Philippa 关系修复等未提交改动；本次未替其 commit 或 push。

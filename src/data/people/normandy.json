@@ -258,7 +258,7 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/William_the_Conqueror",
     "sourceNote": "",
     "notes": "Central figure for the Norman conquest family tree MVP. Birth year is approximate (c. 1028, Falaise); mother Herleva is not in the roster. Death often linked to a saddle injury sustained in the Mantes campaign.",
-    "createdDate": "260814",
+    "createdDate": "20260815",
     "createdOrder": 1,
     "deathCause": {
       "kind": "normal",
@@ -436,7 +436,7 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/Robert_I,_Duke_of_Normandy",
     "sourceNote": "",
     "notes": "Father of William the Conqueror. Born 22 June 1000. Succession in 1027 (some accounts 1028) after the death of his brother Richard III, with rumoured involvement. Died at Nicaea while returning from pilgrimage; medieval chroniclers (William of Malmesbury, Wace) reported poisoning, not generally accepted by modern historians.",
-    "createdDate": "260814",
+    "createdDate": "20260815",
     "createdOrder": 2,
     "deathCause": {
       "kind": "normal",
@@ -650,7 +650,7 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/Robert_Curthose",
     "sourceNote": "",
     "notes": "Eldest son of William the Conqueror. Birth year is approximate (c. 1051-1053). Inherited Normandy in 1087; mortgaged it to William II to fund the First Crusade, where he was an important commander. Lost Normandy at Tinchebray in 1106 and spent the rest of his life in captivity, dying at Cardiff Castle in 1134.",
-    "createdDate": "260814",
+    "createdDate": "20260815",
     "createdOrder": 4,
     "deathCause": {
       "kind": "normal",
@@ -834,7 +834,7 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/William_II_of_England",
     "sourceNote": "",
     "notes": "Third son of William the Conqueror. Birth year is approximate (c. 1056-1060). Accession 1087; killed in the New Forest on 2 August 1100. Per project convention (docs/log.md Phase 2) the death is treated as clearly non-natural ('violent'); intent (accident vs murder) remains disputed.",
-    "createdDate": "260814",
+    "createdDate": "20260815",
     "createdOrder": 5,
     "deathCause": {
       "kind": "violent",
@@ -903,7 +903,8 @@
         "de7af180-4027-4b64-a5c5-9c7c1ac271ae"
       ],
       "childIds": [
-        "f194f118-96af-4ad4-af2b-f8449720cff1"
+        "f194f118-96af-4ad4-af2b-f8449720cff1",
+        "df86835f-41c3-48f2-806b-2f9160eaff6e"
       ]
     },
     "events": [
@@ -1079,7 +1080,7 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/Henry_I_of_England",
     "sourceNote": "",
     "notes": "Youngest son of William the Conqueror. Birth year is approximate (c. 1068, possibly early 1069; born in or near Selby, Yorkshire). Second wife Adeliza of Louvain and son William Adelin are not in the roster. Partner link to Nest (ferch Rhys) added: she is recorded as his mistress and mother of Henry FitzRoy.",
-    "createdDate": "260814",
+    "createdDate": "20260815",
     "createdOrder": 6,
     "deathCause": {
       "kind": "normal",
@@ -1139,7 +1140,7 @@
     "historicalRating": 7,
     "relationships": {
       "fatherId": "f9226738-a160-482d-9fe8-dbf10b285845",
-      "motherId": "",
+      "motherId": "5f92a3cf-4044-4892-8f05-d8959a80451d",
       "spouseIds": [],
       "partnerIds": [],
       "childIds": [
@@ -1249,7 +1250,7 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/Richard_II,_Duke_of_Normandy",
     "sourceNote": "",
     "notes": "Called 'the Good' (Le Bon). Birth year debated: older scholarship suggested c. 963, modern accounts (Wikipedia) give c. 980; estimates range c. 963-980. Succeeded in 996 under the regency of his uncle Rodulf of Ivry. Commissioned Dudo of Saint-Quentin's history of the Norman dukes. His sister Emma's marriage to Aethelred II later underpinned William the Conqueror's claim to England.",
-    "createdDate": "260814",
+    "createdDate": "20260815",
     "createdOrder": 7,
     "deathCause": {
       "kind": "normal",
@@ -1490,7 +1491,7 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/Empress_Matilda",
     "sourceNote": "",
     "notes": "Daughter of Henry I and Matilda of Scotland; wife of Emperor Henry V and of Geoffroy V of Anjou; mother of Henry II. Never crowned queen of England: her planned coronation collapsed amid London opposition (April-June 1141). Oath dating: barons gathered at Westminster at Christmas 1126 and swore in January 1127 (some accounts say 1126).",
-    "createdDate": "260814",
+    "createdDate": "20260815",
     "createdOrder": 8,
     "deathCause": {
       "kind": "normal",
@@ -1656,8 +1657,8 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/Rollo",
     "sourceNote": "",
     "notes": "First ruler of Normandy, commonly styled Count of Rouen. Early dates are approximate. Origins debated: Dudo of Saint-Quentin claimed he was Danish, while Icelandic/Norwegian sagas identify him with Hrolfr of More, western Norway. Treaty dating: 911 per later tradition, earliest independent evidence a charter of 918. His rule passed to William Longsword by c. 927-928; he died between 928 and 933.",
-    "createdDate": "260815",
-    "createdOrder": 1,
+    "createdDate": "20260815",
+    "createdOrder": 49,
     "deathCause": {
       "kind": "uncertain",
       "summary": "Death details uncertain",
@@ -1822,8 +1823,8 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/William_Longsword",
     "sourceNote": "",
     "notes": "Second ruler of Normandy; contemporary sources called him Count of Rouen, and 'duke' only came into common usage in the 11th century. Son of Rollo and Poppa of Bayeux. Assassinated on 17 December 942 at Picquigny by followers of Arnulf I of Flanders; his son Richard I (aged about ten) succeeded him. Birth year approximate (c. 893), possibly in England.",
-    "createdDate": "260815",
-    "createdOrder": 2,
+    "createdDate": "20260815",
+    "createdOrder": 50,
     "deathCause": {
       "kind": "violent",
       "summary": "Assassinated at a peace conference",
@@ -1881,7 +1882,9 @@
     "relationships": {
       "fatherId": "88618620-6fc3-4058-8fa5-475bd0363c94",
       "motherId": "",
-      "spouseIds": [],
+      "spouseIds": [
+        "5f92a3cf-4044-4892-8f05-d8959a80451d"
+      ],
       "partnerIds": [],
       "childIds": [
         "0e597c77-dd0b-419c-9227-b56fb37e3b9d",
@@ -2005,8 +2008,8 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/Richard_I_of_Normandy",
     "sourceNote": "",
     "notes": "Ducal terminology for early Norman rulers varies by source; this card uses the conventional modern title. Born c. 932-933 (Wikipedia infobox gives 28 August 932 at Fécamp). Succeeded at about age ten after his father's murder. In his last 30 years he made Normandy the most cohesive and formidable principality in West Francia. Died of natural causes on 20 November 996; father of Richard II.",
-    "createdDate": "260815",
-    "createdOrder": 3,
+    "createdDate": "20260815",
+    "createdOrder": 51,
     "deathCause": {
       "kind": "normal",
       "summary": "Died of natural causes",
@@ -2060,14 +2063,15 @@
     "tags": [
       "queen",
       "noble",
-      "administrator"
+      "administrator",
+      "consort"
     ],
     "rank": "queen",
     "importanceScore": 91,
     "historicalRating": 9,
     "relationships": {
       "fatherId": "f9226738-a160-482d-9fe8-dbf10b285845",
-      "motherId": "",
+      "motherId": "5f92a3cf-4044-4892-8f05-d8959a80451d",
       "spouseIds": [
         "ed0b5627-f0d9-4c85-ac64-26c1c4c3e4b2",
         "0fb64530-ea06-47ec-9570-6166155b53ba"
@@ -2153,7 +2157,96 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/Emma_of_Normandy",
     "sourceNote": "Norman duchess who was queen to Æthelred II and then Cnut; mother of Edward the Confessor and Harthacnut.",
     "notes": "Full cross-dynastic anchor card. Her son Alfred Ætheling is outside the current roster.",
-    "createdDate": "260818",
-    "createdOrder": 149
+    "createdDate": "20260817",
+    "createdOrder": 43
+  },
+  {
+    "id": "df86835f-41c3-48f2-806b-2f9160eaff6e",
+    "firstName": "William",
+    "lastName": "",
+    "displayName": "William Adelin",
+    "fullName": "William Adelin",
+    "nickname": "",
+    "alsoKnownAs": [
+      "William Adelin",
+      "William Ætheling"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "威廉·阿德林",
+    "fullNameCn": "威廉·阿德林",
+    "birthYear": 1103,
+    "deathYear": 1120,
+    "birthPlace": "Winchester, England",
+    "birthPlaceCn": "英格兰温彻斯特",
+    "deathPlace": "off Barfleur, Normandy",
+    "deathPlaceCn": "诺曼底巴夫勒尔外海",
+    "gender": "male",
+    "dynasty": "House of Normandy",
+    "house": "House of Normandy",
+    "culture": "Norman",
+    "faith": "Catholic",
+    "primaryTitle": "Duke of Normandy",
+    "primaryTitleCn": "诺曼底公爵",
+    "titles": [
+      {
+        "title": "Duke of Normandy",
+        "startYear": 1120,
+        "endYear": 1120,
+        "titleCn": "诺曼底公爵"
+      }
+    ],
+    "tags": [
+      "noble"
+    ],
+    "rank": "noble",
+    "importanceScore": 52,
+    "relationships": {
+      "fatherId": "90840bac-1589-4ba4-abfe-9189e6046b36",
+      "motherId": "8c48b7d7-e2bb-42f8-8c68-ce449b147eb0",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/William_Adelin",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/William_Adelin",
+    "sourceNote": "Son of Henry I and Matilda of Scotland; his drowning left the succession to Empress Matilda, precipitating the Anarchy.",
+    "notes": "Only legitimate son of Henry I; drowned in the White Ship disaster, which threw the English succession into the Anarchy.",
+    "historicalRating": 5,
+    "createdDate": "20260818",
+    "createdOrder": 45,
+    "deathCause": {
+      "kind": "violent",
+      "summary": "Drowned in the White Ship",
+      "summaryCn": "白船沉没中溺亡",
+      "detail": "William Adelin drowned in 1120 when the White Ship sank off Barfleur, leaving his father without a male heir.",
+      "detailCn": "1120 年，威廉·阿德林乘坐的白船在巴夫勒尔外海沉没，溺亡，使其父失去男性继承人。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/William_Adelin"
+    },
+    "events": [
+      {
+        "year": 1103,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 60,
+        "label": "Born, son of Henry I",
+        "labelCn": "出生，亨利一世之子",
+        "wikiUrl": "https://en.wikipedia.org/wiki/William_Adelin"
+      },
+      {
+        "year": 1120,
+        "type": "death",
+        "tags": [
+          "death",
+          "violent"
+        ],
+        "weight": 92,
+        "label": "Drowned in the White Ship",
+        "labelCn": "白船沉没中溺亡",
+        "wikiUrl": "https://en.wikipedia.org/wiki/William_Adelin"
+      }
+    ]
   }
 ]

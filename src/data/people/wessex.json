@@ -243,8 +243,8 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/Alfred_the_Great",
     "sourceNote": "Birth year debated: Asser gives 849, but West Saxon genealogical evidence implies 847–848; 849 is used here as the mainstream figure. Traditional birthplace Wantage is not independently attested.",
     "notes": "Maternal ancestor of Empress Matilda through the royal House of Wessex. Reformer of law and defence: issued a law code, built the burh network, and sponsored a programme of learning (court school and translations).",
-    "createdDate": "260815",
-    "createdOrder": 4,
+    "createdDate": "20260815",
+    "createdOrder": 52,
     "deathCause": {
       "kind": "normal",
       "summary": "Died of illness in old age (specific illness not recorded)",
@@ -445,8 +445,8 @@
     ],
     "importanceScore": 84,
     "historicalRating": 8,
-    "createdDate": "260815",
-    "createdOrder": 5,
+    "createdDate": "20260815",
+    "createdOrder": 53,
     "displayNameCn": "长者爱德华",
     "fullNameCn": "长者爱德华"
   },
@@ -668,8 +668,8 @@
     ],
     "importanceScore": 88,
     "historicalRating": 9,
-    "createdDate": "260817",
-    "createdOrder": 88,
+    "createdDate": "20260816",
+    "createdOrder": 1,
     "displayNameCn": "埃塞尔斯坦",
     "fullNameCn": "英格兰人的国王埃塞尔斯坦"
   },
@@ -835,8 +835,8 @@
     ],
     "importanceScore": 72,
     "historicalRating": 7,
-    "createdDate": "260817",
-    "createdOrder": 89,
+    "createdDate": "20260816",
+    "createdOrder": 2,
     "displayNameCn": "埃德雷德",
     "fullNameCn": "英格兰人的国王埃德雷德"
   },
@@ -960,8 +960,8 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/Eadgifu_of_Wessex",
     "sourceNote": "Daughter of Edward the Elder and queen of West Francia. Birth year not recorded; died 'in or after 951' (record value 955); queen consort of West Francia 919–923.",
     "notes": "Daughter of Edward the Elder and his second wife Ælfflæd. Married Charles the Simple of West Francia (917–919); fled with her son Louis to England in 923 after Charles was deposed; Louis was raised at the court of her half-brother Æthelstan and became king of West Francia in 936. She retired to Laon and is last recorded in 951. Her husband Charles the Simple and son Louis IV are not in the roster. Note: this Eadgifu is the queen of West Francia — not Eadgifu of Kent, the mother of Edmund I. Birth year is not recorded (record value 902 is an approximation).",
-    "createdDate": "260817",
-    "createdOrder": 90,
+    "createdDate": "20260816",
+    "createdOrder": 3,
     "deathCause": {
       "kind": "normal",
       "summary": "Died in or after 951 (exact year unknown)",
@@ -1023,8 +1023,8 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/%C3%86lfgifu_(daughter_of_Edward_the_Elder)",
     "sourceNote": "Daughter of Edward the Elder; identity is distinct from other women of the same name.",
     "notes": "Basic card; event timeline intentionally left empty.",
-    "createdDate": "260817",
-    "createdOrder": 91,
+    "createdDate": "20260816",
+    "createdOrder": 4,
     "displayNameCn": "埃尔夫吉芙",
     "fullNameCn": "威塞克斯公主埃尔夫吉芙",
     "primaryTitleCn": "威塞克斯公主",
@@ -1149,8 +1149,8 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/Eadgyth",
     "sourceNote": "Daughter of Edward the Elder and queen of Germany. Married Otto in 930; died 26 January 946 at Magdeburg.",
     "notes": "Daughter of Edward the Elder and his second wife Ælfflæd; sister of Eadgifu of Wessex. Married Otto, later Emperor Otto I, in 930; queen of East Francia/Germany from 936, crowned separately from Otto. Mother of Liudolf, Duke of Swabia, and Liutgard. This is the Eadgyth who married Otto I — distinct from Edith of Polesworth and Edith of Wilton. Her husband Otto I and children are not in the roster.",
-    "createdDate": "260817",
-    "createdOrder": 92,
+    "createdDate": "20260816",
+    "createdOrder": 5,
     "deathCause": {
       "kind": "normal",
       "summary": "Died at Magdeburg on 26 January 946; cause not recorded",
@@ -1348,7 +1348,7 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/Edmund_I",
     "sourceNote": "Birth year 920/921 (record value 921); death 26 May 946 at Pucklechurch per the Anglo-Saxon Chronicle tradition as related by John of Worcester.",
     "notes": "Son of Edward the Elder and his third wife Eadgifu of Kent; elder brother of King Eadred. Also styled Edmund the Elder, Edmund the Just and Edmund the Magnificent (Edmundus Magnificus). Recovered the Five Boroughs (942), expelled the Viking kings of York (944) and ceded Strathclyde to Malcolm I of Scotland in 945 for a defensive alliance. His mother, his wives (Ælfgifu of Shaftesbury, Æthelflæd of Damerham) and his elder son Eadwig are not in the roster.",
-    "createdDate": "260815",
+    "createdDate": "20260816",
     "createdOrder": 6,
     "deathCause": {
       "kind": "violent",
@@ -1531,7 +1531,7 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/Edgar_the_Peaceful",
     "sourceNote": "Born 943 or 944 (record value 943; his mother died the year he was born); died 8 July 975. The Chester rowing story is a 12th-century tradition, not contemporary evidence.",
     "notes": "Son of Edmund I and his first wife Ælfgifu of Shaftesbury. Nicknamed the Peaceful/Peacemaker because his reign was free of serious external conflict; it was also the high point of the English Benedictine Reform. His consorts (Æthelflæd Eneda, Wulfthryth, Ælfthryth) and sons Edward the Martyr and Edmund (d. 971) are not in the roster.",
-    "createdDate": "260815",
+    "createdDate": "20260816",
     "createdOrder": 7,
     "deathCause": {
       "kind": "normal",
@@ -1748,7 +1748,7 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/%C3%86thelred_the_Unready",
     "sourceNote": "Birth c. 966–969 (record value 966); death 23 April 1016 in London. His byname 'Unready' renders Old English unræd, 'ill-advised'.",
     "notes": "Son of Edgar the Peaceful and Queen Ælfthryth (daughter of Ordgar, ealdorman of Devon) — a different Ælfthryth from the roster's Ælfthryth, Countess of Flanders, so no link is drawn. His byname 'Unready' (Old English unræd) is a pun meaning 'ill-advised' or 'no counsel', not 'unprepared'. His first wife Ælfgifu of York and second wife Emma of Normandy are not in the roster. Modern scholarship views his reign more sympathetically than the old condemnation: achievements in legislation, coinage and literature stand against the catastrophic end of his reign.",
-    "createdDate": "260815",
+    "createdDate": "20260816",
     "createdOrder": 8,
     "deathCause": {
       "kind": "normal",
@@ -1933,7 +1933,7 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/Edmund_Ironside",
     "sourceNote": "Birth c. 990–993 (record value 988, adjusted to 990 per mainstream scholarship); death 30 November 1016, cause unknown.",
     "notes": "Son of Æthelred the Unready and his first wife Ælfgifu of York. Birth year is uncertain: historians place it between 990 and 993; he was possibly born at Æthelingadene (Singleton, West Sussex) and raised by his grandmother Queen Ælfthryth. His byname 'Ironside' appears in sources from c. 1057 and reflects his warrior reputation. His wife Ealdgyth and younger son Edmund Ætheling are not in the roster.",
-    "createdDate": "260815",
+    "createdDate": "20260816",
     "createdOrder": 9,
     "deathCause": {
       "kind": "uncertain",
@@ -1987,7 +1987,8 @@
       "spouseIds": [],
       "partnerIds": [],
       "childIds": [
-        "73169d74-c7ee-4e7d-9711-74b9272ab00c"
+        "73169d74-c7ee-4e7d-9711-74b9272ab00c",
+        "62cf25cb-23b0-420f-8b3f-531fd6ba83fb"
       ]
     },
     "events": [
@@ -2090,7 +2091,7 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/Edward_the_Exile",
     "sourceNote": "Life is poorly documented: birth c. 1016; exile in Sweden, then (per most accounts) Hungary; recalled c. 1056; died 19 April 1057 days after arriving in England.",
     "notes": "Son of Edmund Ironside and Ealdgyth; his life between 1016 and 1057 is poorly documented and partly speculative. Sent to Sweden after Cnut's conquest, he was raised — per most accounts — at the court of King Stephen I of Hungary (some reconstructions say Kiev) and was recalled by Edward the Confessor as heir in 1056, only to die days after his return. His wife Agatha (origins disputed) and children Christina and Edgar the Ætheling are not in the roster.",
-    "createdDate": "260815",
+    "createdDate": "20260816",
     "createdOrder": 10,
     "deathCause": {
       "kind": "uncertain",
@@ -2283,7 +2284,7 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/Saint_Margaret_of_Scotland",
     "sourceNote": "Born c. 1045 in Hungary; married Malcolm III in 1070; died 16 November 1093 at Edinburgh Castle; canonised 1250.",
     "notes": "Daughter of Edward the Exile and Agatha; granddaughter of Edmund Ironside. Married Malcolm III of Scotland c. 1070; renowned for piety and church reform (Dunfermline, Iona) and canonised in 1250. Her piety is well documented in the biography by her confessor Turgot; hagiographic miracle stories are omitted here. Her husband Malcolm III and children other than Matilda of Scotland are not in the roster. The Scottish paternal line is intentionally not yet modeled.",
-    "createdDate": "260815",
+    "createdDate": "20260816",
     "createdOrder": 11,
     "deathCause": {
       "kind": "normal",
@@ -2496,8 +2497,8 @@
     ],
     "importanceScore": 82,
     "historicalRating": 8,
-    "createdDate": "260817",
-    "createdOrder": 76,
+    "createdDate": "20260816",
+    "createdOrder": 46,
     "displayNameCn": "埃塞尔伍尔夫",
     "fullNameCn": "威塞克斯国王埃塞尔伍尔夫"
   },
@@ -2687,8 +2688,8 @@
     ],
     "importanceScore": 80,
     "historicalRating": 8,
-    "createdDate": "260817",
-    "createdOrder": 77,
+    "createdDate": "20260816",
+    "createdOrder": 47,
     "displayNameCn": "埃格伯特",
     "fullNameCn": "威塞克斯国王埃格伯特"
   },
@@ -2796,8 +2797,8 @@
     ],
     "importanceScore": 58,
     "historicalRating": 6,
-    "createdDate": "260817",
-    "createdOrder": 78,
+    "createdDate": "20260816",
+    "createdOrder": 48,
     "displayNameCn": "埃尔蒙德",
     "fullNameCn": "肯特国王埃尔蒙德"
   },
@@ -2848,8 +2849,8 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/%C3%86thelwulf,_King_of_Wessex",
     "sourceNote": "Elder son of Æthelwulf; often identified as Alfred's eldest brother.",
     "notes": "Basic sibling card; event timeline intentionally left empty.",
-    "createdDate": "260817",
-    "createdOrder": 79,
+    "createdDate": "20260816",
+    "createdOrder": 49,
     "displayNameCn": "埃塞尔斯坦",
     "fullNameCn": "威塞克斯的埃塞尔斯坦",
     "primaryTitleCn": "威塞克斯王子",
@@ -2983,8 +2984,8 @@
     ],
     "importanceScore": 45,
     "historicalRating": 5,
-    "createdDate": "260817",
-    "createdOrder": 80,
+    "createdDate": "20260816",
+    "createdOrder": 50,
     "displayNameCn": "埃塞尔博尔德",
     "fullNameCn": "威塞克斯国王埃塞尔博尔德"
   },
@@ -3103,8 +3104,8 @@
     ],
     "importanceScore": 46,
     "historicalRating": 5,
-    "createdDate": "260817",
-    "createdOrder": 81,
+    "createdDate": "20260816",
+    "createdOrder": 51,
     "displayNameCn": "埃塞尔伯特",
     "fullNameCn": "威塞克斯国王埃塞尔伯特"
   },
@@ -3241,8 +3242,8 @@
     ],
     "importanceScore": 58,
     "historicalRating": 6,
-    "createdDate": "260817",
-    "createdOrder": 82,
+    "createdDate": "20260816",
+    "createdOrder": 52,
     "displayNameCn": "埃塞尔雷德一世",
     "fullNameCn": "威塞克斯国王埃塞尔雷德一世"
   },
@@ -3436,8 +3437,8 @@
     ],
     "importanceScore": 78,
     "historicalRating": 8,
-    "createdDate": "260817",
-    "createdOrder": 83,
+    "createdDate": "20260816",
+    "createdOrder": 53,
     "displayNameCn": "埃塞尔弗莱德",
     "fullNameCn": "麦西亚夫人埃塞尔弗莱德"
   },
@@ -3488,8 +3489,8 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/Æthelgifu",
     "sourceNote": "Daughter of Alfred the Great and abbess of Shaftesbury.",
     "notes": "Basic card; event timeline intentionally left empty.",
-    "createdDate": "260817",
-    "createdOrder": 84,
+    "createdDate": "20260817",
+    "createdOrder": 1,
     "displayNameCn": "埃塞尔吉夫",
     "fullNameCn": "沙夫茨伯里女修道院院长埃塞尔吉夫",
     "primaryTitleCn": "沙夫茨伯里女修道院院长",
@@ -3600,8 +3601,8 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/%C3%86lfthryth,_Countess_of_Flanders",
     "sourceNote": "Daughter of Alfred the Great and wife of Baldwin II of Flanders. Married c. 893–899; died 7 June 929; buried at St Peter's Abbey, Ghent.",
     "notes": "Youngest daughter of Alfred the Great and Ealhswith. Married Baldwin II, Count of Flanders (between 893 and 899); mother of Arnulf I of Flanders and Adalolf of Boulogne. IMPORTANT: this Ælfthryth is the Countess of Flanders, who died in 929 — she is NOT the Ælfthryth who married King Edgar (daughter of Ordgar, ealdorman of Devon, died c. 1000–1001). The two are different women, so no spousal link to Edgar is drawn. Her husband Baldwin II and children are not in the roster.",
-    "createdDate": "260817",
-    "createdOrder": 85,
+    "createdDate": "20260817",
+    "createdOrder": 2,
     "deathCause": {
       "kind": "normal",
       "summary": "Died 7 June 929; buried at St Peter's Abbey, Ghent",
@@ -3663,8 +3664,8 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/%C3%86thelweard_(son_of_Alfred)",
     "sourceNote": "Youngest known son of Alfred the Great.",
     "notes": "Basic card; event timeline intentionally left empty.",
-    "createdDate": "260817",
-    "createdOrder": 86,
+    "createdDate": "20260817",
+    "createdOrder": 3,
     "displayNameCn": "埃塞尔韦尔德",
     "fullNameCn": "威塞克斯的埃塞尔韦尔德",
     "primaryTitleCn": "威塞克斯王子",
@@ -3717,8 +3718,8 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/%C3%86lfwynn",
     "sourceNote": "Daughter of Æthelflæd and the last ruler of Mercia in her line.",
     "notes": "Basic card; event timeline intentionally left empty.",
-    "createdDate": "260817",
-    "createdOrder": 87,
+    "createdDate": "20260817",
+    "createdOrder": 4,
     "displayNameCn": "埃尔夫温",
     "fullNameCn": "麦西亚夫人埃尔夫温",
     "primaryTitleCn": "麦西亚夫人",
@@ -3774,7 +3775,9 @@
     "relationships": {
       "fatherId": "ed0b5627-f0d9-4c85-ac64-26c1c4c3e4b2",
       "motherId": "11999429-e764-4ed2-9c8c-cf95cfbbdecc",
-      "spouseIds": [],
+      "spouseIds": [
+        "69975f97-57a1-4493-8a8d-a678fa8ceff3"
+      ],
       "partnerIds": [],
       "childIds": []
     },
@@ -3922,8 +3925,8 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/Edward_the_Confessor",
     "sourceNote": "Edward's date and place of birth are generally given as c. 1003 at Islip, though early sources are limited. His reign and death dates are secure.",
     "notes": "Predecessor of Harold II in the English royal succession. The project does not assert a biological relationship between Edward and Harold; their adjacency belongs only to the title-holder chain. His parents, wife and wider Wessex family are not yet connected here because the necessary cards are absent or incomplete.",
-    "createdDate": "260818",
-    "createdOrder": 3,
+    "createdDate": "20260817",
+    "createdOrder": 37,
     "deathCause": {
       "kind": "normal",
       "summary": "Died after illness, likely natural causes",
@@ -3989,8 +3992,16 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/Eadwig",
     "sourceNote": "Son of Edmund I; ruled from 955 until his death in 959.",
     "notes": "Basic main-line card. His short reign was contested and England was divided in 957 between Eadwig in Wessex and his brother Edgar in Mercia.",
-    "createdDate": "260818",
-    "createdOrder": 145
+    "createdDate": "20260817",
+    "createdOrder": 39,
+    "deathCause": {
+      "kind": "uncertain",
+      "summary": "Died young, cause uncertain",
+      "summaryCn": "早逝，死因不明",
+      "detail": "Eadwig died in 959 at about nineteen; the cause of his death is not recorded, and some traditions suggest illness.",
+      "detailCn": "959 年，埃德维希约十九岁去世，死因未见记载，部分说法称系患病。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Eadwig"
+    }
   },
   {
     "id": "84ce52d6-91bf-47fb-afa1-5f869f20fbf6",
@@ -4055,7 +4066,175 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/Edward_the_Martyr",
     "sourceNote": "Elder son of Edgar the Peaceful; murdered in 978 and later venerated as a saint.",
     "notes": "Basic main-line card.",
-    "createdDate": "260818",
-    "createdOrder": 146
+    "createdDate": "20260817",
+    "createdOrder": 40
+  },
+  {
+    "id": "99e5d42d-54d8-44f7-b2e2-511ed93127a6",
+    "firstName": "Æthelwold",
+    "lastName": "",
+    "displayName": "Æthelwold Ætheling",
+    "fullName": "Æthelwold Ætheling",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Æthelwold Ætheling"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "埃塞尔沃尔德",
+    "fullNameCn": "埃塞尔沃尔德",
+    "birthYear": 880,
+    "deathYear": 902,
+    "birthPlace": "",
+    "deathPlace": "Holme, East Anglia",
+    "deathPlaceCn": "东盎格利亚霍尔姆",
+    "gender": "male",
+    "dynasty": "House of Wessex",
+    "house": "House of Wessex",
+    "culture": "Anglo-Saxon",
+    "faith": "Catholic",
+    "primaryTitle": "Ætheling",
+    "primaryTitleCn": "王室贵胄",
+    "titles": [],
+    "tags": [
+      "noble"
+    ],
+    "rank": "noble",
+    "importanceScore": 50,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/%C3%86thelwold_%C3%A6theling",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/%C3%86thelwold_%C3%A6theling",
+    "sourceNote": "Son of Æthelred I (Alfred the Great's brother), who is not yet in the roster. Birth year is uncertain.",
+    "notes": "Rival of Edward the Elder for the West Saxon throne after Alfred's death; he rebelled, allied with Vikings, and was killed at the Battle of the Holme.",
+    "historicalRating": 5,
+    "createdDate": "20260818",
+    "createdOrder": 40,
+    "deathCause": {
+      "kind": "violent",
+      "summary": "Killed at the Battle of the Holme",
+      "summaryCn": "霍尔姆之战阵亡",
+      "detail": "Æthelwold was killed in 902 at the Battle of the Holme while fighting alongside Danish allies against Edward the Elder.",
+      "detailCn": "902 年，埃塞尔沃尔德在霍尔姆之战中与丹麦盟友并肩对抗长者爱德华时阵亡。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/%C3%86thelwold_%C3%A6theling"
+    },
+    "events": [
+      {
+        "year": 899,
+        "type": "political_crisis",
+        "tags": [
+          "political_crisis",
+          "succession"
+        ],
+        "weight": 80,
+        "label": "Contested the throne with Edward the Elder",
+        "labelCn": "与长者爱德华争夺王位",
+        "wikiUrl": "https://en.wikipedia.org/wiki/%C3%86thelwold_%C3%A6theling"
+      },
+      {
+        "year": 902,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "defeat",
+          "death"
+        ],
+        "weight": 90,
+        "label": "Killed at the Battle of the Holme",
+        "labelCn": "霍尔姆之战阵亡",
+        "wikiUrl": "https://en.wikipedia.org/wiki/%C3%86thelwold_%C3%A6theling"
+      }
+    ]
+  },
+  {
+    "id": "62cf25cb-23b0-420f-8b3f-531fd6ba83fb",
+    "firstName": "Edgar",
+    "lastName": "",
+    "displayName": "Edgar Ætheling",
+    "fullName": "Edgar Ætheling",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Edgar Ætheling",
+      "Edgar the Ætheling"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "埃德加·埃塞林",
+    "fullNameCn": "埃德加·埃塞林",
+    "birthYear": 1051,
+    "deathYear": 1126,
+    "birthPlace": "Hungary",
+    "birthPlaceCn": "匈牙利",
+    "deathPlace": "",
+    "gender": "male",
+    "dynasty": "House of Wessex",
+    "house": "House of Wessex",
+    "culture": "Anglo-Saxon",
+    "faith": "Catholic",
+    "primaryTitle": "Ætheling",
+    "primaryTitleCn": "王室贵胄",
+    "titles": [],
+    "tags": [
+      "noble"
+    ],
+    "rank": "noble",
+    "importanceScore": 54,
+    "relationships": {
+      "fatherId": "f030fca1-dfca-4a37-ba90-5222605ea831",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Edgar_%C3%86theling",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Edgar_%C3%86theling",
+    "sourceNote": "Son of Edward the Exile and grandson of Edmund Ironside. Birth and death years are approximate.",
+    "notes": "Last heir of the House of Wessex; briefly proclaimed king after Harold II's death but never crowned, and submitted to William the Conqueror.",
+    "historicalRating": 6,
+    "createdDate": "20260818",
+    "createdOrder": 41,
+    "events": [
+      {
+        "year": 1051,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 60,
+        "label": "Born in Hungary",
+        "labelCn": "出生于匈牙利",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Edgar_%C3%86theling",
+        "note": "Birth year approximate."
+      },
+      {
+        "year": 1066,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "monarch"
+        ],
+        "weight": 84,
+        "label": "Briefly proclaimed king, never crowned",
+        "labelCn": "被短暂拥立为国王，但从未加冕",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Edgar_%C3%86theling"
+      },
+      {
+        "year": 1066,
+        "type": "political_crisis",
+        "tags": [
+          "political_crisis",
+          "defeat"
+        ],
+        "weight": 80,
+        "label": "Submitted to William the Conqueror",
+        "labelCn": "向征服者威廉臣服",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Edgar_%C3%86theling"
+      }
+    ]
   }
 ]

@@ -4,6 +4,7 @@ import { DetailPanel } from "../features/people/DetailPanel";
 import { copyFor, genderMark, initials, textFor, titleTier } from "../features/shared/presentation";
 import { PageTabs } from "../components/PageTabs";
 import kingOfEnglandData from "../data/titles/king-of-england.json";
+import kingOfFranceData from "../data/titles/king-of-france.json";
 
 type TitleHolder = {
   personId: string;
@@ -25,7 +26,19 @@ type TitleLineage = {
 };
 
 const kingOfEngland = kingOfEnglandData as unknown as TitleLineage;
-const williamIId = "21b5ec21-1812-4731-8b03-721988be302f";
+const kingOfFrance = kingOfFranceData as unknown as TitleLineage;
+
+type LineageEntry = {
+  lineage: TitleLineage;
+  name: string;
+  nameCn: string;
+  anchorId: string;
+};
+
+const LINEAGES: LineageEntry[] = [
+  { lineage: kingOfEngland, name: "Kingdom of England", nameCn: "英格兰王国", anchorId: "21b5ec21-1812-4731-8b03-721988be302f" },
+  { lineage: kingOfFrance, name: "Kingdom of France", nameCn: "法兰西王国", anchorId: "6f92645c-bd9a-414d-9402-749dce748343" },
+];
 
 export function TitlePage({
   onHome,
@@ -43,10 +56,13 @@ export function TitlePage({
   const setLanguage = useFamilyStore((state) => state.setLanguage);
   const t = copyFor(language);
   const byId = new Map(people.map((person) => [person.id, person]));
+  const initialEntry =
+    LINEAGES.find(({ lineage }) => lineage.holders.some(({ personId }) => personId === initialPersonId)) ?? LINEAGES[0];
+  const [activeEntry, setActiveEntry] = useState<LineageEntry>(initialEntry);
   const [detailPersonId, setDetailPersonId] = useState(
-    kingOfEngland.holders.some(({ personId }) => personId === initialPersonId)
+    initialEntry.lineage.holders.some(({ personId }) => personId === initialPersonId)
       ? initialPersonId ?? ""
-      : kingOfEngland.holders[0]?.personId ?? "",
+      : initialEntry.lineage.holders[0]?.personId ?? "",
   );
   const [detailHistory, setDetailHistory] = useState<string[]>([]);
   const [zoom, setZoom] = useState(1);
@@ -57,14 +73,14 @@ export function TitlePage({
   const isCn = language === "cn";
   const holderNote = (holder: TitleHolder) => (isCn ? holder.noteCn : holder.note);
   const titleQuery = titleSearch.trim().toLocaleLowerCase();
-  const isEnglandTitleVisible = !titleQuery || [
-    kingOfEngland.canonicalName,
-    kingOfEngland.canonicalNameCn,
-    ...kingOfEngland.aliases,
-  ].some((name) => name.toLocaleLowerCase().includes(titleQuery));
+  const isLineageVisible = ({ lineage, name, nameCn }: LineageEntry) =>
+    !titleQuery ||
+    [lineage.canonicalName, lineage.canonicalNameCn, ...lineage.aliases, name, nameCn]
+      .some((label) => label.toLocaleLowerCase().includes(titleQuery));
 
-  function openEnglandLineage() {
-    setDetailPersonId(williamIId);
+  function openLineage(entry: LineageEntry) {
+    setActiveEntry(entry);
+    setDetailPersonId(entry.anchorId);
     setDetailHistory([]);
     setZoom(1);
     setLineageOpen(true);
@@ -110,8 +126,8 @@ export function TitlePage({
           <h1>{t.titleLineage}</h1>
           <p className="eyebrow">{t.currentTitle}</p>
           <button type="button" className="title-entry-card" aria-pressed="true" onClick={() => setLineageOpen(false)}>
-            <span className="title-entry-name">Kingdom of England</span>
-            <span className="title-entry-name-cn">英格兰王国</span>
+            <span className="title-entry-name">{activeEntry.name}</span>
+            <span className="title-entry-name-cn">{activeEntry.nameCn}</span>
           </button>
         </header>
 
@@ -131,7 +147,7 @@ export function TitlePage({
             </div>
             <div className="title-tree-canvas" style={{ "--title-zoom": zoom } as React.CSSProperties}>
               <ol className="title-holder-chain">
-            {kingOfEngland.holders.map((holder, index) => {
+            {activeEntry.lineage.holders.map((holder, index) => {
               const person = byId.get(holder.personId);
               if (!person) {
                 return (
@@ -194,11 +210,13 @@ export function TitlePage({
             />
           </label>
           <div className="title-catalog-results">
-            {isEnglandTitleVisible ? (
-              <button type="button" className="title-entry-card" onClick={openEnglandLineage}>
-                <span className="title-entry-name">Kingdom of England</span>
-                <span className="title-entry-name-cn">英格兰王国</span>
-              </button>
+            {LINEAGES.filter(isLineageVisible).length > 0 ? (
+              LINEAGES.filter(isLineageVisible).map((entry) => (
+                <button key={entry.lineage.id} type="button" className="title-entry-card" onClick={() => openLineage(entry)}>
+                  <span className="title-entry-name">{entry.name}</span>
+                  <span className="title-entry-name-cn">{entry.nameCn}</span>
+                </button>
+              ))
             ) : <p className="title-search-empty">{t.noMatchingTitles}</p>}
           </div>
         </section>

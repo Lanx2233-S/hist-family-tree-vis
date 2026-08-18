@@ -1,0 +1,71 @@
+{
+  "id": "1fe3de8c-0fff-433f-a68c-5817be80b08d",
+  "canonicalName": "King of France",
+  "canonicalNameCn": "法兰西国王",
+  "form": "evolving",
+  "aliases": [
+    "King of the Franks",
+    "King of West Francia"
+  ],
+  "nameForms": [
+    {
+      "name": "King of West Francia",
+      "nameCn": "西法兰克国王",
+      "fromYear": "",
+      "untilYear": 987,
+      "note": "West Francia, the realm that became France (equivalent expression).",
+      "noteCn": "西法兰克，即法兰西王国的前身（等价表达）。"
+    },
+    {
+      "name": "King of the Franks",
+      "nameCn": "法兰克人国王",
+      "fromYear": 987,
+      "untilYear": 1190,
+      "note": "Style used from Hugh Capet through the early Capetians.",
+      "noteCn": "自于格·卡佩至早期卡佩诸王的称谓。"
+    },
+    {
+      "name": "King of France",
+      "nameCn": "法兰西国王",
+      "fromYear": 1190,
+      "untilYear": "",
+      "note": "Territorial style adopted from Philip II Augustus onward.",
+      "noteCn": "自腓力二世起采用的领土称谓。"
+    }
+  ],
+  "holders": [
+    { "personId": "da77a416-665f-4fe8-bf64-bc42e258e27f", "startYear": 843, "endYear": 877, "titleForm": "King of West Francia", "note": "First king of West Francia after the Treaty of Verdun.", "noteCn": "《凡尔登条约》后首任西法兰克国王。" },
+    { "personId": "160d3b66-92e1-482d-8611-dc03009fd5d2", "startYear": 877, "endYear": 879, "titleForm": "King of West Francia", "note": "Succeeded his father Charles the Bald.", "noteCn": "继承父亲秃头查理。" },
+    { "personId": "b65eb6b7-9618-4e9f-9510-e5bb7c17e723", "startYear": 879, "endYear": 882, "titleForm": "King of West Francia", "note": "Joint king with his brother Carloman II.", "noteCn": "与兄卡洛曼二世共治。" },
+    { "personId": "f284e83c-0009-4557-b225-fc428a357d12", "startYear": 879, "endYear": 884, "titleForm": "King of West Francia", "note": "Joint king with Louis III, then sole king.", "noteCn": "与路易三世共治，后为唯一国王。" },
+    { "personId": "fc980fe9-6d96-4750-9b7f-cbc58b65bfd8", "startYear": 885, "endYear": 887, "titleForm": "King of West Francia", "note": "After Carloman II's death, West Frankish nobles chose the emperor Charles the Fat while the heir Charles was still a child and Viking attacks continued.", "noteCn": "卡洛曼二世去世后，因继承人查理尚年幼且诺曼人入侵，西法兰克贵族拥立当时的皇帝胖子查理。" },
+    { "personId": "6bec1a5d-e19f-43eb-a2c6-b8f6d223a9a5", "startYear": 888, "endYear": 898, "titleForm": "King of West Francia", "note": "First non-Carolingian king, elected after Charles the Fat's deposition.", "noteCn": "胖子查理被废后当选的首位非加洛林国王。" },
+    { "personId": "d7809609-2a6a-47bf-819f-2af8d7c31365", "startYear": 898, "endYear": 922, "titleForm": "King of West Francia", "note": "Restored the Carolingians after Odo's death.", "noteCn": "厄德去世后恢复加洛林王系。" },
+    { "personId": "1894e7be-c18e-4182-9bca-927c9cbfa333", "startYear": 922, "endYear": 923, "titleForm": "King of West Francia", "note": "Elected in opposition to Charles the Simple.", "noteCn": "反对天真者查理而被拥立。" },
+    { "personId": "e51174bf-d6a5-4358-acf3-516bdcd2897b", "startYear": 923, "endYear": 936, "titleForm": "King of West Francia", "note": "Elected after Robert I's death.", "noteCn": "罗贝尔一世阵亡后被拥立。" },
+    { "personId": "b647d9d4-bdd3-40a9-9a54-240ff24540da", "startYear": 936, "endYear": 954, "titleForm": "King of West Francia", "note": "Recalled from England (d'Outremer).", "noteCn": "自英格兰归来（海外归来者）。" },
+    { "personId": "9455d227-ae13-44dc-9924-138ac5208ed6", "startYear": 954, "endYear": 986, "titleForm": "King of West Francia", "note": "Succeeded his father Louis IV.", "noteCn": "继承父亲路易四世。" },
+    { "personId": "653f343d-cd5f-4549-8e77-1f85c755a54a", "startYear": 986, "endYear": 987, "titleForm": "King of West Francia", "note": "Succeeded his father Lothair; last Carolingian king of West Francia.", "noteCn": "继承父亲洛泰尔，为西法兰克最后一位加洛林国王。" },
+    { "personId": "6f92645c-bd9a-414d-9402-749dce748343", "startYear": 987, "endYear": 996, "titleForm": "King of the Franks", "note": "Elected after Louis V died without heirs, founding the Capetian line.", "noteCn": "路易五世无嗣去世后被选为国王，开创卡佩世系。" },
+    { "personId": "fb8cf6a9-fad8-46e6-87aa-99dd01fe3ce9", "startYear": 996, "endYear": 1031, "titleForm": "King of the Franks", "note": "Succeeded his father Hugh Capet.", "noteCn": "继承父亲于格·卡佩。" },
+    { "personId": "067aff89-074c-4f6c-80e8-9bd741741f88", "startYear": 1031, "endYear": 1060, "titleForm": "King of the Franks", "note": "Succeeded his father Robert II.", "noteCn": "继承父亲罗贝尔二世。" },
+    { "personId": "2c6c9731-0d2d-466b-8310-7c9705d14891", "startYear": 1060, "endYear": 1108, "titleForm": "King of the Franks", "note": "Succeeded his father Henri I.", "noteCn": "继承父亲亨利一世。" },
+    { "personId": "d2dd406e-702b-425c-b3dc-2dcac8e8163d", "startYear": 1108, "endYear": 1137, "titleForm": "King of the Franks", "note": "Succeeded his father Philippe I.", "noteCn": "继承父亲腓力一世。" },
+    { "personId": "6ae9afe1-d639-482e-b9ea-13d27778f842", "startYear": 1137, "endYear": 1180, "titleForm": "King of the Franks", "note": "Succeeded his father Louis VI.", "noteCn": "继承父亲路易六世。" },
+    { "personId": "7cc009b6-08d8-459b-b40e-2921bf3e4580", "startYear": 1180, "endYear": 1223, "titleForm": "King of France", "note": "Succeeded his father Louis VII; first to style himself King of France.", "noteCn": "继承父亲路易七世，并首创“法兰西国王”称号。" },
+    { "personId": "96b01b93-0b97-494a-896e-2d7abb07e05c", "startYear": 1223, "endYear": 1226, "titleForm": "King of France", "note": "Succeeded his father Philippe II.", "noteCn": "继承父亲腓力二世。" },
+    { "personId": "91f35e74-2dd3-4393-9858-0fc6b5acc537", "startYear": 1226, "endYear": 1270, "titleForm": "King of France", "note": "Succeeded his father Louis VIII as a child.", "noteCn": "幼年继承父亲路易八世。" },
+    { "personId": "97ff73e2-e417-4fb3-8b15-90514584a442", "startYear": 1270, "endYear": 1285, "titleForm": "King of France", "note": "Succeeded his father Louis IX.", "noteCn": "继承父亲路易九世。" },
+    { "personId": "699ff54a-5291-422d-8621-d0a127c5d24c", "startYear": 1285, "endYear": 1314, "titleForm": "King of France", "note": "Succeeded his father Philippe III.", "noteCn": "继承父亲腓力三世。" },
+    { "personId": "f0d935d4-8efa-482c-bccb-ac105babc10d", "startYear": 1314, "endYear": 1316, "titleForm": "King of France", "note": "Succeeded his father Philippe IV.", "noteCn": "继承父亲腓力四世。" },
+    { "personId": "39979ed9-fafd-48f0-96d7-30f40e80f51b", "startYear": 1316, "endYear": 1316, "titleForm": "King of France", "note": "Reigned five days as a posthumous infant.", "noteCn": "遗腹子，在位仅五日。" },
+    { "personId": "f57da4e3-19a4-4087-8cf4-613a2ff0bc1f", "startYear": 1316, "endYear": 1322, "titleForm": "King of France", "note": "Succeeded his infant nephew John I.", "noteCn": "继承幼侄约翰一世。" },
+    { "personId": "da988cef-12ff-4b79-afad-70d0565b976e", "startYear": 1322, "endYear": 1328, "titleForm": "King of France", "note": "Last Capetian king of the direct line.", "noteCn": "直系卡佩最后一位国王。" },
+    { "personId": "c89b7f1b-b6d2-4681-9eba-4cd9ffffab47", "startYear": 1328, "endYear": 1350, "titleForm": "King of France", "note": "First Valois king; his claim was disputed by Edward III of England.", "noteCn": "首任瓦卢瓦国王，其王位主张遭英格兰爱德华三世质疑。" },
+    { "personId": "26ef769b-f149-4b30-b5b6-13efecbbf59b", "startYear": 1350, "endYear": 1364, "titleForm": "King of France", "note": "Succeeded his father Philip VI.", "noteCn": "继承父亲腓力六世。" },
+    { "personId": "04c2ad7c-d296-4338-af7c-05fd1d730cfe", "startYear": 1364, "endYear": 1380, "titleForm": "King of France", "note": "Succeeded his father John II.", "noteCn": "继承父亲约翰二世。" },
+    { "personId": "084fdbfa-b040-4629-98f4-5af678d317db", "startYear": 1380, "endYear": 1422, "titleForm": "King of France", "note": "Succeeded his father Charles V.", "noteCn": "继承父亲查理五世。" },
+    { "personId": "4482439c-eae6-4ec6-885a-ac48721ec552", "startYear": 1422, "endYear": 1461, "titleForm": "King of France", "note": "Succeeded his father Charles VI.", "noteCn": "继承父亲查理六世。" },
+    { "personId": "896ab071-dc40-43ec-b961-a1ca40574102", "startYear": 1461, "endYear": 1483, "titleForm": "King of France", "note": "Succeeded his father Charles VII.", "noteCn": "继承父亲查理七世。" }
+  ]
+}

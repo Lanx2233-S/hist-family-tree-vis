@@ -45,10 +45,16 @@
     "relationships": {
       "fatherId": "",
       "motherId": "",
-      "spouseIds": [],
+      "spouseIds": [
+        "bb5c0007-6a34-4f57-9c04-3083e7f4e55f"
+      ],
       "partnerIds": [],
       "childIds": [
-        "131aba03-2d7b-4ae3-8d16-b7ebd660ce6c"
+        "131aba03-2d7b-4ae3-8d16-b7ebd660ce6c",
+        "6d1dc880-66a3-482b-a778-8b7b806279e8",
+        "ba8b72c0-cdd9-4159-a55d-8024992f47e0",
+        "4facdf80-aaca-4a58-8f2d-e28f2e9b5d5c",
+        "69975f97-57a1-4493-8a8d-a678fa8ceff3"
       ]
     },
     "events": [
@@ -178,8 +184,8 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/Godwin,_Earl_of_Wessex",
     "sourceNote": "The date and place of Godwin's birth are uncertain; c. 990 and Sussex are conventional approximations. His political rise under Cnut and restoration in 1052 are well attested.",
     "notes": "Father of Harold Godwinson. Gytha and the other Godwin children are not yet in the roster; the father-son UUID link is deliberately limited to the verified existing card.",
-    "createdDate": "260818",
-    "createdOrder": 1,
+    "createdDate": "20260817",
+    "createdOrder": 35,
     "deathCause": {
       "kind": "uncertain",
       "summary": "Collapsed and died; medical cause is not securely recorded",
@@ -246,9 +252,11 @@
     "historicalRating": 10,
     "relationships": {
       "fatherId": "acb44ca3-5936-4d3b-875a-0d485f5bcc70",
-      "motherId": "",
+      "motherId": "bb5c0007-6a34-4f57-9c04-3083e7f4e55f",
       "spouseIds": [],
-      "partnerIds": [],
+      "partnerIds": [
+        "40e82515-a8a4-4a7a-bcf0-dff6322baef6"
+      ],
       "childIds": []
     },
     "events": [
@@ -386,8 +394,8 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/Harold_Godwinson",
     "sourceNote": "Harold's birth year and several details of his Norman voyage are uncertain. His accession, Stamford Bridge and death at Hastings are securely dated.",
     "notes": "Son of Godwin, Earl of Wessex. Edward the Confessor is his predecessor in the title chain, not his parent; no false genealogical edge is created. His wives/partners and children are outside the current roster.",
-    "createdDate": "260818",
-    "createdOrder": 2,
+    "createdDate": "20260817",
+    "createdOrder": 36,
     "deathCause": {
       "kind": "violent_uncertain",
       "summary": "Killed in battle at Hastings",
@@ -398,5 +406,386 @@
       "culpritCn": "诺曼底公爵威廉的军队",
       "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Hastings"
     }
+  },
+  {
+    "id": "6d1dc880-66a3-482b-a778-8b7b806279e8",
+    "firstName": "Tostig",
+    "lastName": "",
+    "displayName": "Tostig Godwinson",
+    "fullName": "Tostig Godwinson",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Tostig Godwinson"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "托斯蒂格·戈德温森",
+    "fullNameCn": "托斯蒂格·戈德温森",
+    "birthYear": 1026,
+    "deathYear": 1066,
+    "birthPlace": "",
+    "deathPlace": "Stamford Bridge, England",
+    "deathPlaceCn": "英格兰斯坦福桥",
+    "gender": "male",
+    "dynasty": "House of Godwin",
+    "house": "House of Godwin",
+    "culture": "Anglo-Saxon",
+    "faith": "Catholic",
+    "primaryTitle": "Earl of Northumbria",
+    "primaryTitleCn": "诺森布里亚伯爵",
+    "titles": [
+      {
+        "title": "Earl of Northumbria",
+        "startYear": 1055,
+        "endYear": 1065,
+        "titleCn": "诺森布里亚伯爵"
+      }
+    ],
+    "tags": [
+      "noble"
+    ],
+    "rank": "noble",
+    "importanceScore": 54,
+    "relationships": {
+      "fatherId": "acb44ca3-5936-4d3b-875a-0d485f5bcc70",
+      "motherId": "bb5c0007-6a34-4f57-9c04-3083e7f4e55f",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Tostig_Godwinson",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Tostig_Godwinson",
+    "sourceNote": "Brother of Harold II and son of Godwin and Gytha. Birth year is uncertain (traditionally c. 1026).",
+    "notes": "Earl of Northumbria and brother of Harold II; after his exile he allied with Harald Hardrada and was killed at Stamford Bridge.",
+    "historicalRating": 6,
+    "createdDate": "20260818",
+    "createdOrder": 42,
+    "deathCause": {
+      "kind": "violent",
+      "summary": "Killed at Stamford Bridge",
+      "summaryCn": "斯坦福桥之战阵亡",
+      "detail": "Tostig was killed in 1066 at the Battle of Stamford Bridge, fighting alongside Harald Hardrada against his brother Harold II.",
+      "detailCn": "1066 年，托斯蒂格在斯坦福桥之战中与哈拉尔德·哈德拉达并肩作战，死于其兄哈罗德二世一方之手。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Tostig_Godwinson"
+    },
+    "events": [
+      {
+        "year": 1055,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "noble"
+        ],
+        "weight": 72,
+        "label": "Became Earl of Northumbria",
+        "labelCn": "成为诺森布里亚伯爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Tostig_Godwinson"
+      },
+      {
+        "year": 1065,
+        "type": "political_crisis",
+        "tags": [
+          "political_crisis",
+          "rebellion"
+        ],
+        "weight": 76,
+        "label": "Exiled after the Northumbrian revolt",
+        "labelCn": "诺森布里亚叛乱后被流放",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Tostig_Godwinson"
+      },
+      {
+        "year": 1066,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "defeat",
+          "death"
+        ],
+        "weight": 90,
+        "label": "Killed at Stamford Bridge",
+        "labelCn": "斯坦福桥之战阵亡",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Tostig_Godwinson"
+      }
+    ]
+  },
+  {
+    "id": "ba8b72c0-cdd9-4159-a55d-8024992f47e0",
+    "firstName": "Gyrth",
+    "lastName": "",
+    "displayName": "Gyrth Godwinson",
+    "fullName": "Gyrth Godwinson",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Gyrth Godwinson"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "吉尔斯·戈德温森",
+    "fullNameCn": "吉尔斯·戈德温森",
+    "birthYear": 1032,
+    "deathYear": 1066,
+    "birthPlace": "",
+    "deathPlace": "Hastings, England",
+    "deathPlaceCn": "英格兰黑斯廷斯",
+    "gender": "male",
+    "dynasty": "House of Godwin",
+    "house": "House of Godwin",
+    "culture": "Anglo-Saxon",
+    "faith": "Catholic",
+    "primaryTitle": "Earl of East Anglia",
+    "primaryTitleCn": "东盎格利亚伯爵",
+    "titles": [
+      {
+        "title": "Earl of East Anglia",
+        "startYear": 1057,
+        "endYear": 1066,
+        "titleCn": "东盎格利亚伯爵"
+      }
+    ],
+    "tags": [
+      "noble"
+    ],
+    "rank": "noble",
+    "importanceScore": 44,
+    "relationships": {
+      "fatherId": "acb44ca3-5936-4d3b-875a-0d485f5bcc70",
+      "motherId": "bb5c0007-6a34-4f57-9c04-3083e7f4e55f",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Gyrth_Godwinson",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Gyrth_Godwinson",
+    "sourceNote": "Brother of Harold II. Birth year is uncertain (traditionally c. 1032).",
+    "notes": "Brother of Harold II and Earl of East Anglia, killed fighting beside Harold at the Battle of Hastings.",
+    "historicalRating": 4,
+    "createdDate": "20260818",
+    "createdOrder": 43,
+    "deathCause": {
+      "kind": "violent",
+      "summary": "Killed at Hastings",
+      "summaryCn": "黑斯廷斯之战阵亡",
+      "detail": "Gyrth was killed in 1066 at the Battle of Hastings, fighting beside his brother Harold II.",
+      "detailCn": "1066 年，吉尔斯在黑斯廷斯之战中与兄长哈罗德二世并肩作战时阵亡。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Gyrth_Godwinson"
+    },
+    "events": [
+      {
+        "year": 1057,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "noble"
+        ],
+        "weight": 70,
+        "label": "Became Earl of East Anglia",
+        "labelCn": "成为东盎格利亚伯爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Gyrth_Godwinson"
+      },
+      {
+        "year": 1066,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "defeat",
+          "death"
+        ],
+        "weight": 90,
+        "label": "Killed at Hastings",
+        "labelCn": "黑斯廷斯之战阵亡",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Gyrth_Godwinson"
+      }
+    ]
+  },
+  {
+    "id": "4facdf80-aaca-4a58-8f2d-e28f2e9b5d5c",
+    "firstName": "Leofwine",
+    "lastName": "",
+    "displayName": "Leofwine Godwinson",
+    "fullName": "Leofwine Godwinson",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Leofwine Godwinson"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "利奥夫温·戈德温森",
+    "fullNameCn": "利奥夫温·戈德温森",
+    "birthYear": 1035,
+    "deathYear": 1066,
+    "birthPlace": "",
+    "deathPlace": "Hastings, England",
+    "deathPlaceCn": "英格兰黑斯廷斯",
+    "gender": "male",
+    "dynasty": "House of Godwin",
+    "house": "House of Godwin",
+    "culture": "Anglo-Saxon",
+    "faith": "Catholic",
+    "primaryTitle": "Earl of Kent",
+    "primaryTitleCn": "肯特伯爵",
+    "titles": [
+      {
+        "title": "Earl of Kent",
+        "startYear": 1057,
+        "endYear": 1066,
+        "titleCn": "肯特伯爵"
+      }
+    ],
+    "tags": [
+      "noble"
+    ],
+    "rank": "noble",
+    "importanceScore": 44,
+    "relationships": {
+      "fatherId": "acb44ca3-5936-4d3b-875a-0d485f5bcc70",
+      "motherId": "bb5c0007-6a34-4f57-9c04-3083e7f4e55f",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Leofwine_Godwinson",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Leofwine_Godwinson",
+    "sourceNote": "Brother of Harold II. Birth year is uncertain (traditionally c. 1035).",
+    "notes": "Brother of Harold II and Earl of Kent, killed fighting beside Harold at the Battle of Hastings.",
+    "historicalRating": 4,
+    "createdDate": "20260818",
+    "createdOrder": 44,
+    "deathCause": {
+      "kind": "violent",
+      "summary": "Killed at Hastings",
+      "summaryCn": "黑斯廷斯之战阵亡",
+      "detail": "Leofwine was killed in 1066 at the Battle of Hastings, fighting beside his brother Harold II.",
+      "detailCn": "1066 年，利奥夫温在黑斯廷斯之战中与兄长哈罗德二世并肩作战时阵亡。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Leofwine_Godwinson"
+    },
+    "events": [
+      {
+        "year": 1057,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "noble"
+        ],
+        "weight": 70,
+        "label": "Became Earl of Kent",
+        "labelCn": "成为肯特伯爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Leofwine_Godwinson"
+      },
+      {
+        "year": 1066,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "defeat",
+          "death"
+        ],
+        "weight": 90,
+        "label": "Killed at Hastings",
+        "labelCn": "黑斯廷斯之战阵亡",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Leofwine_Godwinson"
+      }
+    ]
+  },
+  {
+    "id": "69975f97-57a1-4493-8a8d-a678fa8ceff3",
+    "firstName": "Edith",
+    "lastName": "",
+    "displayName": "Edith of Wessex",
+    "fullName": "Edith of Wessex, Queen of England",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Edith of Wessex",
+      "Eadgyth of Wessex"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "威塞克斯的伊迪丝",
+    "fullNameCn": "英格兰王后伊迪丝",
+    "birthYear": 1025,
+    "deathYear": 1075,
+    "birthPlace": "",
+    "deathPlace": "Winchester, England",
+    "deathPlaceCn": "英格兰温彻斯特",
+    "gender": "female",
+    "dynasty": "House of Godwin",
+    "house": "House of Godwin",
+    "culture": "Anglo-Saxon",
+    "faith": "Catholic",
+    "primaryTitle": "Queen consort of England",
+    "primaryTitleCn": "英格兰王后",
+    "titles": [
+      {
+        "title": "Queen consort of England",
+        "startYear": 1045,
+        "endYear": 1066,
+        "titleCn": "英格兰王后"
+      }
+    ],
+    "tags": [
+      "queen",
+      "consort"
+    ],
+    "rank": "queen",
+    "importanceScore": 56,
+    "relationships": {
+      "fatherId": "acb44ca3-5936-4d3b-875a-0d485f5bcc70",
+      "motherId": "bb5c0007-6a34-4f57-9c04-3083e7f4e55f",
+      "spouseIds": [
+        "a9d5b087-d9a5-4970-8f5c-6701fdb0463c"
+      ],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Edith_of_Wessex",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Edith_of_Wessex",
+    "sourceNote": "Daughter of Godwin and wife of Edward the Confessor. Distinct from Eadgyth of Wessex (9b63d20d), wife of Otto I. Birth year is uncertain.",
+    "notes": "Daughter of Earl Godwin and queen consort of Edward the Confessor; a major channel of Godwin family influence at court.",
+    "historicalRating": 6,
+    "createdDate": "20260818",
+    "createdOrder": 47,
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died at Winchester",
+      "summaryCn": "在温彻斯特去世",
+      "detail": "Edith of Wessex died in 1075 at Winchester, having survived her husband and brothers.",
+      "detailCn": "1075 年，威塞克斯的伊迪丝在温彻斯特去世，其夫与诸兄皆先于她离世。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Edith_of_Wessex"
+    },
+    "events": [
+      {
+        "year": 1045,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 80,
+        "label": "Married Edward the Confessor",
+        "labelCn": "嫁给忏悔者爱德华",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Edith_of_Wessex"
+      },
+      {
+        "year": 1066,
+        "type": "political_crisis",
+        "tags": [
+          "political_crisis"
+        ],
+        "weight": 72,
+        "label": "Survived the Norman Conquest",
+        "labelCn": "诺曼征服后幸存",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Edith_of_Wessex"
+      },
+      {
+        "year": 1075,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 88,
+        "label": "Died at Winchester",
+        "labelCn": "在温彻斯特去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Edith_of_Wessex"
+      }
+    ]
   }
 ]

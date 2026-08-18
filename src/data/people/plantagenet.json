@@ -183,8 +183,8 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/Geoffrey_Plantagenet,_Count_of_Anjou",
     "sourceNote": "Dates and facts from the English Wikipedia article 'Geoffrey Plantagenet, Count of Anjou' (text and infobox), fetched 2026-08-17.",
     "notes": "Count of Anjou and Maine; married Empress Matilda in 1128, founding the Angevin claim to England fulfilled by their son Henry II. Conquered Normandy between 1141 and 1144, assumed the ducal title in summer 1144 and ceded the duchy to Henry in 1149. Died of fever in 1151. The surname Plantagenêt derives from the sprig of broom (planta genista) he wore in his hat.",
-    "createdDate": "260814",
-    "createdOrder": 9,
+    "createdDate": "20260815",
+    "createdOrder": 10,
     "historicalRating": 7
   },
   {
@@ -199,7 +199,7 @@
     "portraitUrl": "",
     "sourceNote": "",
     "notes": "",
-    "createdDate": "260814",
+    "createdDate": "20260815",
     "events": [
       {
         "year": 1150,
@@ -369,7 +369,7 @@
     },
     "wikiUrl": "https://en.wikipedia.org/wiki/Henry_II_of_England",
     "sourceUrl": "https://en.wikipedia.org/wiki/Henry_II_of_England",
-    "createdOrder": 10,
+    "createdOrder": 11,
     "deathCause": {
       "kind": "normal",
       "summary": "Died from illness during military crisis",
@@ -442,8 +442,8 @@
     "portraitUrl": "",
     "historicalRating": 10,
     "importanceScore": 94,
-    "createdDate": "260814",
-    "createdOrder": 12,
+    "createdDate": "20260815",
+    "createdOrder": 13,
     "deathCause": {
       "kind": "violent",
       "summary": "Killed by infected crossbow wound",
@@ -701,7 +701,7 @@
     "portraitUrl": "",
     "sourceNote": "",
     "notes": "Nicknamed 'Lackland' as the youngest son of Henry II, expected to inherit no significant lands. Birth around Christmastide 1166/67 at Beaumont Palace, Oxford. Spouses Isabella of Gloucester and Isabella of Angouleme are not in the roster.",
-    "createdDate": "260814",
+    "createdDate": "20260815",
     "events": [
       {
         "year": 1177,
@@ -955,7 +955,9 @@
     "relationships": {
       "fatherId": "29e2abba-321e-4090-a35d-10f0bd6a420a",
       "motherId": "cbb11a70-0b0f-40ca-b9c6-95426b904bf6",
-      "spouseIds": [],
+      "spouseIds": [
+        "ae7c66de-7209-4aed-9d4d-75672ae5f3fa"
+      ],
       "partnerIds": [],
       "childIds": [
         "eaec18d2-b486-457f-9336-ab403f1586ca"
@@ -963,7 +965,7 @@
     },
     "wikiUrl": "https://en.wikipedia.org/wiki/John,_King_of_England",
     "sourceUrl": "https://en.wikipedia.org/wiki/John,_King_of_England",
-    "createdOrder": 13,
+    "createdOrder": 14,
     "deathCause": {
       "kind": "normal",
       "summary": "Died of dysentery during civil war",
@@ -1016,8 +1018,10 @@
     "importanceScore": 84,
     "relationships": {
       "fatherId": "6e154ae2-a354-40fc-bdc8-104ef378f743",
-      "motherId": "",
-      "spouseIds": [],
+      "motherId": "ae7c66de-7209-4aed-9d4d-75672ae5f3fa",
+      "spouseIds": [
+        "75962d8f-fcb5-4eb5-8b8c-46271504a66d"
+      ],
       "partnerIds": [],
       "childIds": [
         "f58b655d-8403-4f6d-9d5d-ecffaeaa0b0e"
@@ -1170,8 +1174,8 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/Henry_III_of_England",
     "sourceNote": "English Wikipedia biography (Henry III of England); dates verified against the article's chronology and infobox.",
     "notes": "Enriched Plantagenet king record. Henry III reigned 56 years (1216-1272), the longest Plantagenet reign. After a regency-led minority he ruled personally from 1227, rebuilt Westminster Abbey from 1245, and conceded the Provisions of Oxford (1258) under baronial pressure. The baronial revolt of Simon de Montfort saw him captured at Lewes (1264) and restored after Evesham (1265). He was succeeded by his son Edward I.",
-    "createdDate": "260814",
-    "createdOrder": 14,
+    "createdDate": "20260815",
+    "createdOrder": 15,
     "deathCause": {
       "kind": "normal",
       "summary": "Natural death at age 65",
@@ -1228,8 +1232,11 @@
     "importanceScore": 88,
     "relationships": {
       "fatherId": "eaec18d2-b486-457f-9336-ab403f1586ca",
-      "motherId": "",
-      "spouseIds": [],
+      "motherId": "75962d8f-fcb5-4eb5-8b8c-46271504a66d",
+      "spouseIds": [
+        "7c3aaa41-6a5a-4e5c-bd09-b1f282db95bd",
+        "5ec00674-3326-46d8-b0fb-11d3a319d440"
+      ],
       "partnerIds": [],
       "childIds": [
         "0e72c1bf-c16d-40c5-a62c-a1b84cdfb7a3"
@@ -1469,8 +1476,8 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/Edward_I_of_England",
     "sourceNote": "",
     "notes": "Born 17–18 June 1239 at Westminster Palace; unusually tall (c. 1.88 m), hence 'Longshanks'. Conquered Wales, asserted overlordship over Scotland, and legislated extensively through Parliament. On crusade (1270–72) when his father died.",
-    "createdDate": "260814",
-    "createdOrder": 15,
+    "createdDate": "20260815",
+    "createdOrder": 16,
     "deathCause": {
       "kind": "normal",
       "summary": "Died after illness during campaign",
@@ -1587,8 +1594,8 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/William_IX,_Count_of_Poitiers",
     "sourceNote": "Dates and facts from the English Wikipedia article 'William IX, Count of Poitiers' (text and infobox), fetched 2026-08-17.",
     "notes": "First son of Henry II and Eleanor of Aquitaine, styled Count of Poitiers from birth. Died in childhood in 1156, making his brother Henry the Young King the heir apparent. This is a deliberately small card: he died at about two and left no independent record.",
-    "createdDate": "260814",
-    "createdOrder": 18,
+    "createdDate": "20260815",
+    "createdOrder": 19,
     "historicalRating": 5
   },
   {
@@ -1767,8 +1774,8 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/Henry_the_Young_King",
     "sourceNote": "Dates and facts from the English Wikipedia article 'Henry the Young King' (text and infobox), fetched 2026-08-17.",
     "notes": "Eldest surviving son of Henry II and Eleanor of Aquitaine, crowned junior king in 1170 during his father's lifetime — the first such coronation in England. He never exercised real power, and his frustrations helped spark the Great Revolt of 1173-74. He died of dysentery in 1183 during a second revolt, leaving one son who died in infancy.",
-    "createdDate": "260814",
-    "createdOrder": 19,
+    "createdDate": "20260815",
+    "createdOrder": 20,
     "historicalRating": 7
   },
   {
@@ -1906,8 +1913,8 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/Matilda_of_England,_Duchess_of_Saxony",
     "sourceNote": "Dates and facts from the English Wikipedia article 'Matilda of England, Duchess of Saxony' (text and infobox), fetched 2026-08-17.",
     "notes": "Eldest daughter of Henry II and Eleanor of Aquitaine, married Henry the Lion, Duke of Saxony and Bavaria, at Minden in 1168. Followed her husband into exile in England after his deposition in 1180 and returned to Brunswick in 1185. Their children included Otto IV, later Holy Roman Emperor, and William of Winchester. Spouse and children are not in the roster, so relationship refs remain empty.",
-    "createdDate": "260814",
-    "createdOrder": 20,
+    "createdDate": "20260815",
+    "createdOrder": 21,
     "historicalRating": 6
   },
   {
@@ -2076,8 +2083,8 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/Geoffrey_II,_Duke_of_Brittany",
     "sourceNote": "Dates and facts from the English Wikipedia article 'Geoffrey II, Duke of Brittany' (text and infobox), fetched 2026-08-17.",
     "notes": "Second surviving son of Henry II and Eleanor of Aquitaine; married Constance of Brittany (betrothed 1166, married July 1181) and became Duke of Brittany jure uxoris. Joined the 1173-74 revolt at fifteen and fought against Richard in the 1183 revolt. Died at 27 in a Paris tournament; his son Arthur I of Brittany was born posthumously in 1187. Relationship refs to Constance/Arthur left empty as they are not in the roster.",
-    "createdDate": "260814",
-    "createdOrder": 21,
+    "createdDate": "20260815",
+    "createdOrder": 22,
     "historicalRating": 7
   },
   {
@@ -2215,8 +2222,8 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/Eleanor_of_England,_Queen_of_Castile",
     "sourceNote": "Dates and facts from the English Wikipedia article 'Eleanor of England, Queen of Castile' (text and infobox), fetched 2026-08-17.",
     "notes": "Daughter of Henry II and Eleanor of Aquitaine; married Alfonso VIII of Castile in Burgos in 1170 (not 1177 — the article text and infobox give 1170, so the previous title start year of 1177 was corrected to 1170) and was Queen of Castile for 44 years. Her daughters included Blanche of Castile, queen of France, and Berengaria, briefly queen of Castile. Founded Las Huelgas Abbey and died as regent in 1214.",
-    "createdDate": "260814",
-    "createdOrder": 22,
+    "createdDate": "20260815",
+    "createdOrder": 23,
     "historicalRating": 6
   },
   {
@@ -2375,8 +2382,8 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/Joan_of_England,_Queen_of_Sicily",
     "sourceNote": "Dates and facts from the English Wikipedia article 'Joan of England, Queen of Sicily' (text and infobox), fetched 2026-08-17.",
     "notes": "Seventh child of Henry II and Eleanor of Aquitaine. Queen of Sicily through her 1177 marriage to William II; held under house arrest by Tancred after William's death until freed by Richard I during the Third Crusade. Married Raymond VI of Toulouse in 1196 and died in childbirth in 1199. Spouses and children are not in the roster, so relationship refs remain empty.",
-    "createdDate": "260814",
-    "createdOrder": 23,
+    "createdDate": "20260815",
+    "createdOrder": 24,
     "historicalRating": 6
   },
   {
@@ -2417,8 +2424,10 @@
     "importanceScore": 80,
     "relationships": {
       "fatherId": "f58b655d-8403-4f6d-9d5d-ecffaeaa0b0e",
-      "motherId": "",
-      "spouseIds": [],
+      "motherId": "7c3aaa41-6a5a-4e5c-bd09-b1f282db95bd",
+      "spouseIds": [
+        "3a36ab7b-d46b-4f9d-878e-926cd9906eb2"
+      ],
       "partnerIds": [],
       "childIds": [
         "304dcda5-adf6-4a79-9147-ff8fd69301b5"
@@ -2548,8 +2557,8 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/Edward_II_of_England",
     "sourceNote": "English Wikipedia biography (Edward II of England); dates verified against the article's chronology and infobox.",
     "notes": "Enriched Plantagenet king record. Edward II's reign (1307-1327) was marked by the rise and fall of royal favourites (Piers Gaveston, the Despensers), the crushing defeat at Bannockburn (1314), and his deposition in January 1327 by Queen Isabella and Roger Mortimer. His death at Berkeley Castle in September 1327 is traditionally treated as murder by the new regime, though the exact manner remains uncertain (see deathCause).",
-    "createdDate": "260814",
-    "createdOrder": 27,
+    "createdDate": "20260815",
+    "createdOrder": 28,
     "deathCause": {
       "kind": "violent_uncertain",
       "summary": "Died violently; murder suspected",
@@ -2602,8 +2611,10 @@
     "importanceScore": 80,
     "relationships": {
       "fatherId": "0e72c1bf-c16d-40c5-a62c-a1b84cdfb7a3",
-      "motherId": "",
-      "spouseIds": [],
+      "motherId": "3a36ab7b-d46b-4f9d-878e-926cd9906eb2",
+      "spouseIds": [
+        "ecd24389-ba7c-40f0-a0a4-4635da2e4385"
+      ],
       "partnerIds": [],
       "childIds": [
         "dc177bb0-0adf-45da-937a-8bd55c29826e",
@@ -2776,8 +2787,8 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/Edward_III_of_England",
     "sourceNote": "English Wikipedia biography (Edward III of England); dates verified against the article's chronology and infobox.",
     "notes": "Enriched Plantagenet king record. Edward III reigned for fifty years (1327-1377). After seizing power from Mortimer in 1330 he launched the Hundred Years' War, winning at Sluys (1340) and Crécy (1346) and capturing Calais (1347). He founded the Order of the Garter (c. 1348). His later reign declined into the influence of Alice Perrers and he was succeeded by his grandson Richard II.",
-    "createdDate": "260814",
-    "createdOrder": 28,
+    "createdDate": "20260815",
+    "createdOrder": 29,
     "deathCause": {
       "kind": "normal",
       "summary": "Natural death, likely stroke",
@@ -2830,7 +2841,9 @@
     "relationships": {
       "fatherId": "dc177bb0-0adf-45da-937a-8bd55c29826e",
       "motherId": "",
-      "spouseIds": [],
+      "spouseIds": [
+        "d8867112-cd68-4100-91e2-f42de19d273c"
+      ],
       "partnerIds": [],
       "childIds": []
     },
@@ -2959,8 +2972,8 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/Richard_II_of_England",
     "sourceNote": "English Wikipedia biography (Richard II of England); dates verified against the article's chronology and infobox.",
     "notes": "Enriched Plantagenet king record. Richard II, son of the Black Prince, was the last Plantagenet king of the direct male line. His reign saw the Peasants' Revolt (1381), the rule of the Lords Appellant and the Merciless Parliament (1388), and his increasingly arbitrary 'tyranny' after 1397. Deposed by Henry Bolingbroke in 1399, he died in captivity at Pontefract Castle in February 1400, reportedly starved to death.",
-    "createdDate": "260814",
-    "createdOrder": 29,
+    "createdDate": "20260815",
+    "createdOrder": 30,
     "deathCause": {
       "kind": "violent_uncertain",
       "summary": "Died in captivity; likely starved to death",
@@ -3021,7 +3034,7 @@
     "importanceScore": 88,
     "relationships": {
       "fatherId": "304dcda5-adf6-4a79-9147-ff8fd69301b5",
-      "motherId": "",
+      "motherId": "ecd24389-ba7c-40f0-a0a4-4635da2e4385",
       "spouseIds": [],
       "partnerIds": [],
       "childIds": [
@@ -3174,8 +3187,8 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/Edward_the_Black_Prince",
     "sourceNote": "English Wikipedia biography (Edward the Black Prince); dates verified against the article's chronology and infobox.",
     "notes": "Enriched Plantagenet prince record. Edward of Woodstock was the greatest English field commander of the Hundred Years' War: he led the vanguard at Crécy (1346), won Poitiers (1356) and captured King John II of France, and triumphed at Nájera (1367) in Spain. Prince of Wales from 1343 and Prince of Aquitaine from 1362, he died of prolonged illness on 8 June 1376, before his father Edward III, so his son Richard II inherited the crown.",
-    "createdDate": "260814",
-    "createdOrder": 30,
+    "createdDate": "20260815",
+    "createdOrder": 31,
     "deathCause": {
       "kind": "normal",
       "summary": "Died after prolonged illness (dysentery)",
@@ -3237,7 +3250,7 @@
     "importanceScore": 82,
     "relationships": {
       "fatherId": "304dcda5-adf6-4a79-9147-ff8fd69301b5",
-      "motherId": "",
+      "motherId": "ecd24389-ba7c-40f0-a0a4-4635da2e4385",
       "spouseIds": [],
       "partnerIds": [],
       "childIds": [
@@ -3362,8 +3375,8 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/John_of_Gaunt",
     "sourceNote": "English Wikipedia biography (John of Gaunt); dates verified against the article's chronology and infobox.",
     "notes": "Enriched Plantagenet prince record. John of Gaunt, third surviving son of Edward III, was the effective ruler of England during his father's decline (c. 1374-1377) - de facto power, never a formal regency - and the founder of the Lancastrian dynasty through his son Henry IV. His second marriage gave him a claim to Castile, renounced in 1388. His children by Katherine Swynford, the Beauforts, were legitimised in 1397.",
-    "createdDate": "260814",
-    "createdOrder": 31,
+    "createdDate": "20260815",
+    "createdOrder": 32,
     "deathCause": {
       "kind": "normal",
       "summary": "Natural death after declining health",
@@ -3560,8 +3573,8 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/Henry_IV_of_England",
     "sourceNote": "English Wikipedia biography (Henry IV of England); dates verified against the article's chronology and infobox.",
     "notes": "Enriched Plantagenet king record. Henry IV was the first Lancastrian king, usurping the crown from Richard II in 1399. His reign was consumed by rebellions (the Percy rising and Owain Glyndŵr's Welsh revolt), by the first persecutions of the Lollards, and by his own declining health from 1405 until his death on 20 March 1413.",
-    "createdDate": "260814",
-    "createdOrder": 32,
+    "createdDate": "20260815",
+    "createdOrder": 33,
     "deathCause": {
       "kind": "normal",
       "summary": "Natural death after long illness",
@@ -3617,7 +3630,9 @@
     "relationships": {
       "fatherId": "2254ea97-3d35-4264-a60e-3b9e9f78eaab",
       "motherId": "",
-      "spouseIds": [],
+      "spouseIds": [
+        "13bf8c44-3cf2-45e5-9d97-47c1e912c094"
+      ],
       "partnerIds": [],
       "childIds": [
         "0a1a85b3-53e9-45fa-a90f-2b07d78191c4"
@@ -3825,8 +3840,8 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/Henry_V_of_England",
     "sourceNote": "Born 16 September 1386 at Monmouth Castle; the year 1386 is the mainstream date (a few sources suggest 1386/87).",
     "notes": "Soldier-king of the Hundred Years' War: won Agincourt (1415), conquered Normandy, and was made heir to France by the Treaty of Troyes (1420). Died of illness aged 35, leaving the dual crown to a nine-month-old son, Henry VI.",
-    "createdDate": "260814",
-    "createdOrder": 33,
+    "createdDate": "20260815",
+    "createdOrder": 34,
     "deathCause": {
       "kind": "normal",
       "summary": "Died of dysentery",
@@ -3882,8 +3897,10 @@
     "importanceScore": 84,
     "relationships": {
       "fatherId": "631cfa58-52bf-4273-b3b5-38ae2abed850",
-      "motherId": "",
-      "spouseIds": [],
+      "motherId": "13bf8c44-3cf2-45e5-9d97-47c1e912c094",
+      "spouseIds": [
+        "d2f6c728-92c2-49e8-98f0-8c9c78393a12"
+      ],
       "partnerIds": [],
       "childIds": []
     },
@@ -4015,8 +4032,8 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/Henry_VI_of_England",
     "sourceNote": "English Wikipedia biography (Henry VI of England); dates verified against the article's chronology and infobox.",
     "notes": "Enriched Plantagenet king record. Henry VI became king at nine months old in 1422, was crowned in both England (1429) and France (1431), and lost the English conquests in France during his minority and early reign. His mental collapse in 1453 and weak rule produced the Wars of the Roses: he was deposed in 1461, briefly restored in the readeption (1470-71), and died (probably murdered) in the Tower of London on 21 May 1471.",
-    "createdDate": "260814",
-    "createdOrder": 34,
+    "createdDate": "20260815",
+    "createdOrder": 35,
     "deathCause": {
       "kind": "violent_uncertain",
       "summary": "Died violently; circumstances disputed",
@@ -4077,7 +4094,7 @@
     "importanceScore": 74,
     "relationships": {
       "fatherId": "304dcda5-adf6-4a79-9147-ff8fd69301b5",
-      "motherId": "",
+      "motherId": "ecd24389-ba7c-40f0-a0a4-4635da2e4385",
       "spouseIds": [],
       "partnerIds": [],
       "childIds": [
@@ -4192,8 +4209,8 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/Lionel_of_Antwerp,_Duke_of_Clarence",
     "sourceNote": "English Wikipedia biography (Lionel of Antwerp, Duke of Clarence); dates verified against the article's chronology and infobox.",
     "notes": "Enriched Plantagenet prince record. Lionel, second surviving son of Edward III, was the first Duke of Clarence. As Lord Lieutenant of Ireland he enacted the Statutes of Kilkenny (1366). He died in Italy in 1368 soon after his second marriage. His only legitimate child, Philippa, married Edmund Mortimer, Earl of March, and through their line (Roger Mortimer - Anne Mortimer) the House of York derived its claim to the throne.",
-    "createdDate": "260814",
-    "createdOrder": 35,
+    "createdDate": "20260815",
+    "createdOrder": 36,
     "deathCause": {
       "kind": "normal",
       "summary": "Died of illness",
@@ -4326,8 +4343,8 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/Philippa,_5th_Countess_of_Ulster",
     "sourceNote": "English Wikipedia biography (Philippa, 5th Countess of Ulster); dates verified against the article's chronology and infobox.",
     "notes": "Enriched Plantagenet princess record. Philippa, only child of Lionel of Antwerp, married Edmund Mortimer, 3rd Earl of March (c. 1369). In the Wars of the Roses the Yorkist claim to the crown rested on descent from Edward III through her: her son Roger Mortimer, 4th Earl of March, was Richard II's heir presumptive, and her granddaughter Anne Mortimer married into the House of York, ancestors of Edward IV.",
-    "createdDate": "260814",
-    "createdOrder": 36,
+    "createdDate": "20260815",
+    "createdOrder": 37,
     "deathCause": {
       "kind": "normal",
       "summary": "Died young; exact date uncertain",
@@ -4566,8 +4583,8 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/Richard_of_York,_3rd_Duke_of_York",
     "sourceNote": "Dates and facts from the English Wikipedia article 'Richard of York, 3rd Duke of York' (text, infobox and offices list), fetched 2026-08-17.",
     "notes": "Son of Richard of Conisburgh and Anne Mortimer; became 3rd Duke of York on his uncle's death at Agincourt (1415) and inherited the Mortimer estates in 1425, making him England's most powerful magnate. Served as Lieutenant of France (1436-37, 1440-45) and of Ireland (1447). Twice Lord Protector during Henry VI's incapacity. Claimed the throne in October 1460 under the Act of Accord and was killed at Wakefield on 30 December 1460. His son Edward IV carried the claim to the crown.",
-    "createdDate": "260814",
-    "createdOrder": 39,
+    "createdDate": "20260815",
+    "createdOrder": 40,
     "historicalRating": 7
   },
   {
@@ -4608,7 +4625,9 @@
     "relationships": {
       "fatherId": "1299a0d9-153e-4a1d-a90f-27ae608c44ae",
       "motherId": "",
-      "spouseIds": [],
+      "spouseIds": [
+        "2b1f74cd-3853-48c0-b048-aa8c3dd1d59d"
+      ],
       "partnerIds": [],
       "childIds": [
         "738a5858-9506-4f77-b5ed-7539c01d7bbc",
@@ -4776,8 +4795,8 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/Edward_IV_of_England",
     "sourceNote": "English Wikipedia biography (Edward IV of England); dates verified against the article's chronology and infobox.",
     "notes": "Enriched Plantagenet king record. Edward IV won the English crown in the Wars of the Roses at Mortimer's Cross and Towton (1461), was briefly deposed by Warwick's readeption (1470-71), and recovered it at Barnet and Tewkesbury (1471). His sudden death on 9 April 1483 at age 40 left his 12-year-old son Edward V as king, enabling Richard III's usurpation.",
-    "createdDate": "260814",
-    "createdOrder": 40,
+    "createdDate": "20260815",
+    "createdOrder": 41,
     "deathCause": {
       "kind": "normal",
       "summary": "Natural death after a short illness; exact disease debated",
@@ -4827,7 +4846,7 @@
     "importanceScore": 82,
     "relationships": {
       "fatherId": "423d8a6a-a3f5-4502-abc7-5b6943dcfac6",
-      "motherId": "",
+      "motherId": "2b1f74cd-3853-48c0-b048-aa8c3dd1d59d",
       "spouseIds": [],
       "partnerIds": [],
       "childIds": []
@@ -4894,8 +4913,8 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/Edward_V_of_England",
     "sourceNote": "English Wikipedia biography (Edward V of England); dates verified against the article's chronology and infobox.",
     "notes": "Enriched Plantagenet king record. Edward V reigned for only 78 days (9 April - 25 June 1483) as a boy of 12. After Titulus Regius declared him illegitimate, his uncle Richard III took the throne. Edward and his younger brother Richard, Duke of York, disappeared in the Tower of London in the summer of 1483 and were presumably murdered on Richard's orders, though conclusive evidence is lacking; presumed remains were reburied in Westminster Abbey in 1678. The death year 1483 is retained as a convention: the precise date and manner of death are unknown.",
-    "createdDate": "260814",
-    "createdOrder": 41,
+    "createdDate": "20260815",
+    "createdOrder": 42,
     "deathCause": {
       "kind": "uncertain",
       "summary": "Death and fate uncertain",
@@ -5070,8 +5089,8 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/Geoffrey_(archbishop_of_York)",
     "sourceNote": "Dates and facts from the English Wikipedia article 'Geoffrey (archbishop of York)' (text and infobox), fetched 2026-08-17.",
     "notes": "Illegitimate son of Henry II and Ykenai, born c. 1152 before his father's marriage to Eleanor of Aquitaine. Elected Bishop of Lincoln in 1173 but never ordained; Chancellor of England 1181-89. Named Archbishop of York by Richard I in 1189 and consecrated in 1191 after clashes with William Longchamp. Repeated conflicts with Richard and John; died in exile in 1212.",
-    "createdDate": "260815",
-    "createdOrder": 45,
+    "createdDate": "20260815",
+    "createdOrder": 46,
     "historicalRating": 6
   },
   {
@@ -5252,8 +5271,8 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/William_Longesp%C3%A9e,_3rd_Earl_of_Salisbury",
     "sourceNote": "Dates and facts from the English Wikipedia article 'William Longespée, 3rd Earl of Salisbury' (text and infobox), fetched 2026-08-17.",
     "notes": "Acknowledged illegitimate son of Henry II and Ida de Tosny, recognised by his father in 1188 with the honour of Appleby. Married Ela of Salisbury (1196) and became Earl of Salisbury. Led the fleet at Damme (1213), commanded the right wing at Bouvines (1214), and stayed loyal to John in 1215 (not a Magna Carta surety). Died 1226. Birth year corrected to c. 1167 per Wikipedia ('in or before 1167'); some older references give c. 1176. Spouse and children are not in the roster, so relationship refs remain empty.",
-    "createdDate": "260815",
-    "createdOrder": 46,
+    "createdDate": "20260815",
+    "createdOrder": 47,
     "historicalRating": 7
   },
   {
@@ -5360,8 +5379,8 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/Morgan_(bishop)",
     "sourceNote": "Dates and facts from the English Wikipedia article 'Morgan (bishop)', fetched 2026-08-17. NOTE: the previous wikiUrl 'Morgan_(bishop-elect_of_Durham)' returns 404; corrected to the live article.",
     "notes": "Illegitimate son of Henry II and Nest (Nesta), daughter of Iorwerth ab Owain of Caerleon; raised by Nest's husband Ralph Bloet. Provost of Beverley (1212-1217), elected Bishop of Durham in 1215 but never consecrated — Pope Innocent III rejected him for illegitimacy, and Morgan refused to deny that Henry II was his father. Record is thin: birth date unknown (presumably late 1180s), death c. 1217. No evidence of the excommunication by John sometimes suggested.",
-    "createdDate": "260815",
-    "createdOrder": 47,
+    "createdDate": "20260815",
+    "createdOrder": 48,
     "historicalRating": 5
   }
 ]

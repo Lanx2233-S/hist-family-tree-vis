@@ -118,8 +118,8 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/Bernard_of_Italy",
     "sourceNote": "Son of Pepin of Italy and grandson of Charlemagne.",
     "notes": "His son Pepin founded the Vermandois branch. An illegitimate son of Pepin of Italy, born c. 797 in Vermandois. Death place is Aachen (Milan is his burial place). His 817 plot against Louis the Pious ended his life; the Carolingian male line descended through him to the counts of Vermandois.",
-    "createdDate": "260817",
-    "createdOrder": 71,
+    "createdDate": "20260816",
+    "createdOrder": 41,
     "displayNameCn": "意大利的伯纳德",
     "fullNameCn": "意大利国王伯纳德",
     "historicalRating": 7
@@ -284,8 +284,8 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/Pepin_of_Italy",
     "sourceNote": "Son of Charlemagne and father of Bernard of Italy.",
     "notes": "The direct Carolingian bridge into the Vermandois line. Born 777 (alternative c. 773); baptized in 781 and renamed Pepin from Carloman. His male-line descendants (counts of Vermandois) outlasted all other Carolingian male lines.",
-    "createdDate": "260817",
-    "createdOrder": 72,
+    "createdDate": "20260816",
+    "createdOrder": 42,
     "displayNameCn": "意大利的丕平",
     "fullNameCn": "意大利国王丕平",
     "historicalRating": 8
@@ -563,8 +563,8 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/Charlemagne",
     "sourceNote": "King of the Franks and emperor; father of Pepin of Italy.",
     "notes": "The Carolingian ancestor anchoring the Vermandois-to-Capetian line. Birth year disputed: 742 (traditional) vs 747/748 (preferred by current scholarship and the Wikipedia article); birth place traditionally Herstal but uncertain. Mother Bertrada of Laon and the wives Hildegard/Fastrada/Luitgard are not in the roster; the roster's 'Hildegard' entry is kept as a child (an infant daughter of that name existed, as did the queen of the same name).",
-    "createdDate": "260817",
-    "createdOrder": 73,
+    "createdDate": "20260816",
+    "createdOrder": 43,
     "deathCause": {
       "kind": "normal",
       "summary": "Died of illness in Aachen",
@@ -766,8 +766,8 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/Pepin_the_Short",
     "sourceNote": "Founder of the Carolingian royal line; father of Charlemagne.",
     "notes": "The direct predecessor of Charlemagne in the project chain. Birth year c. 714 is approximate; birthplace Jupille is traditional. He ended the Merovingian line and, with the papal alliance (754, 756), legitimated the Carolingian kingship.",
-    "createdDate": "260817",
-    "createdOrder": 74,
+    "createdDate": "20260816",
+    "createdOrder": 44,
     "displayNameCn": "矮子丕平",
     "fullNameCn": "法兰克国王矮子丕平",
     "nicknameCn": "矮子",
@@ -974,8 +974,8 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/Charles_Martel",
     "sourceNote": "Carolingian ruler and father of Pepin the Short; victor of the Battle of Tours.",
     "notes": "The requested upper endpoint of the early medieval chain. Birth year is usually given as c. 688 (other estimates 676-690). He wielded royal power as Mayor of the Palace and Duke and Prince of the Franks without taking the royal title.",
-    "createdDate": "260817",
-    "createdOrder": 75,
+    "createdDate": "20260816",
+    "createdOrder": 45,
     "displayNameCn": "查理·马特",
     "fullNameCn": "宫相查理·马特",
     "nicknameCn": "铁锤",
@@ -1022,8 +1022,16 @@
     "sourceNote": "Child of Charlemagne. illegitimate; mother traditionally identified as Himiltrude.",
     "notes": "Added in the Charlemagne children expansion; spouse and partner data intentionally omitted.",
     "createdDate": "20260817",
-    "createdOrder": 93,
-    "historicalRating": 4
+    "createdOrder": 5,
+    "historicalRating": 4,
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died in monastic confinement",
+      "summaryCn": "在修道院监禁中去世",
+      "detail": "Pepin the Hunchback, after his 792 rebellion, was confined to a monastery and died there in 811.",
+      "detailCn": "驼背丕平 792 年叛乱后遭幽禁于修道院，811 年死于院中。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Pepin_the_Hunchback"
+    }
   },
   {
     "id": "96a628a6-855a-4d4b-967b-a1ccc66f1d1d",
@@ -1066,8 +1074,16 @@
     "sourceNote": "Child of Charlemagne. son of Charlemagne; mother traditionally identified as Hildegard.",
     "notes": "Added in the Charlemagne children expansion; spouse and partner data intentionally omitted.",
     "createdDate": "20260817",
-    "createdOrder": 94,
-    "historicalRating": 4
+    "createdOrder": 6,
+    "historicalRating": 4,
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died of illness, possibly a stroke",
+      "summaryCn": "因病去世，或为中风",
+      "detail": "Charles the Younger, Charlemagne's designated heir, died in 811 of a sudden illness, sometimes described as a stroke.",
+      "detailCn": "查理曼的预定继承人小查理 811 年突发急病去世，有时被记为中风。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Charles_the_Younger"
+    }
   },
   {
     "id": "c18cc2d9-6f85-4234-8318-5eefe8c99444",
@@ -1110,8 +1126,16 @@
     "sourceNote": "Child of Charlemagne. attributed daughter; mother traditionally identified as Hildegard.",
     "notes": "Added in the Charlemagne children expansion; spouse and partner data intentionally omitted.",
     "createdDate": "20260817",
-    "createdOrder": 95,
-    "historicalRating": 0
+    "createdOrder": 7,
+    "historicalRating": 0,
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died in infancy",
+      "summaryCn": "婴儿期夭折",
+      "detail": "Adalhaid, a daughter of Charlemagne, died in infancy in 774.",
+      "detailCn": "查理曼之女阿达尔海德 774 年婴儿期夭折。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Adalhaid"
+    }
   },
   {
     "id": "16fd0d4e-072c-4dcd-98ed-e90ddafbbd17",
@@ -1154,7 +1178,7 @@
     "sourceNote": "Child of Charlemagne. daughter of Charlemagne; mother traditionally identified as Hildegard.",
     "notes": "Added in the Charlemagne children expansion; spouse and partner data intentionally omitted.",
     "createdDate": "20260817",
-    "createdOrder": 96,
+    "createdOrder": 8,
     "historicalRating": 4
   },
   {
@@ -1198,8 +1222,16 @@
     "sourceNote": "Child of Charlemagne. twin of Louis the Pious; died in infancy.",
     "notes": "Added in the Charlemagne children expansion; spouse and partner data intentionally omitted.",
     "createdDate": "20260817",
-    "createdOrder": 97,
-    "historicalRating": 0
+    "createdOrder": 9,
+    "historicalRating": 0,
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died in infancy",
+      "summaryCn": "婴儿期夭折",
+      "detail": "Lothair, twin of Louis the Pious, died in infancy in 778.",
+      "detailCn": "虔诚者路易的孪生兄弟洛泰尔 778 年婴儿期夭折。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Lothair"
+    }
   },
   {
     "id": "e624a729-296e-468b-935e-846725478572",
@@ -1242,7 +1274,7 @@
     "sourceNote": "Child of Charlemagne. daughter of Charlemagne; mother traditionally identified as Hildegard.",
     "notes": "Added in the Charlemagne children expansion; spouse and partner data intentionally omitted.",
     "createdDate": "20260817",
-    "createdOrder": 98,
+    "createdOrder": 10,
     "historicalRating": 4
   },
   {
@@ -1286,7 +1318,7 @@
     "sourceNote": "Child of Charlemagne. daughter of Charlemagne; mother traditionally identified as Hildegard.",
     "notes": "Added in the Charlemagne children expansion; spouse and partner data intentionally omitted.",
     "createdDate": "20260817",
-    "createdOrder": 99,
+    "createdOrder": 11,
     "historicalRating": 4
   },
   {
@@ -1330,8 +1362,16 @@
     "sourceNote": "Child of Charlemagne. daughter of Charlemagne; died young.",
     "notes": "Added in the Charlemagne children expansion; spouse and partner data intentionally omitted.",
     "createdDate": "20260817",
-    "createdOrder": 100,
-    "historicalRating": 0
+    "createdOrder": 12,
+    "historicalRating": 0,
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died in infancy",
+      "summaryCn": "婴儿期夭折",
+      "detail": "Hildegard, a daughter of Charlemagne, died in infancy in 783.",
+      "detailCn": "查理曼之女希尔德加德 783 年婴儿期夭折。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Hildegard"
+    }
   },
   {
     "id": "01570f60-d11f-4b97-988c-c6243c9b0a3e",
@@ -1374,7 +1414,7 @@
     "sourceNote": "Child of Charlemagne. daughter of Charlemagne; mother traditionally identified as Fastrada.",
     "notes": "Added in the Charlemagne children expansion; spouse and partner data intentionally omitted.",
     "createdDate": "20260817",
-    "createdOrder": 101,
+    "createdOrder": 13,
     "historicalRating": 4
   },
   {
@@ -1418,7 +1458,7 @@
     "sourceNote": "Child of Charlemagne. daughter of Charlemagne; mother traditionally identified as Fastrada.",
     "notes": "Added in the Charlemagne children expansion; spouse and partner data intentionally omitted.",
     "createdDate": "20260817",
-    "createdOrder": 102,
+    "createdOrder": 14,
     "historicalRating": 4
   },
   {
@@ -1462,7 +1502,7 @@
     "sourceNote": "Child of Charlemagne. daughter traditionally attributed to Gersuinda.",
     "notes": "Added in the Charlemagne children expansion; spouse and partner data intentionally omitted.",
     "createdDate": "20260817",
-    "createdOrder": 103,
+    "createdOrder": 15,
     "historicalRating": 4
   },
   {
@@ -1506,7 +1546,7 @@
     "sourceNote": "Charlemagne's daughter by Madelgard; Abbess of Faremoutiers; died 24 March 852. Also spelled Rothild / Hruothild.",
     "notes": "Daughter of Charlemagne and Madelgard; Abbess of Faremoutiers, died 24 March 852. Distinct from Hruodhaid, Charlemagne's illegitimate daughter of uncertain death date.",
     "createdDate": "20260817",
-    "createdOrder": 104,
+    "createdOrder": 16,
     "historicalRating": 4
   },
   {
@@ -1550,7 +1590,7 @@
     "sourceNote": "Child of Charlemagne. son traditionally attributed to Regina.",
     "notes": "Added in the Charlemagne children expansion; spouse and partner data intentionally omitted.",
     "createdDate": "20260817",
-    "createdOrder": 105,
+    "createdOrder": 17,
     "historicalRating": 4
   },
   {
@@ -1594,7 +1634,7 @@
     "sourceNote": "Child of Charlemagne. son traditionally attributed to Regina.",
     "notes": "Added in the Charlemagne children expansion; spouse and partner data intentionally omitted.",
     "createdDate": "20260817",
-    "createdOrder": 106,
+    "createdOrder": 18,
     "historicalRating": 4
   },
   {
@@ -1638,7 +1678,7 @@
     "sourceNote": "Child of Charlemagne. son traditionally attributed to Adallind.",
     "notes": "Added in the Charlemagne children expansion; spouse and partner data intentionally omitted.",
     "createdDate": "20260817",
-    "createdOrder": 107,
+    "createdOrder": 19,
     "historicalRating": 4
   },
   {
@@ -1682,7 +1722,7 @@
     "sourceNote": "Charlemagne's illegitimate daughter, born c. 787; mother not identified in Einhard's account. Death year unrecorded — sources note she was still alive after 800, possibly after 814.",
     "notes": "Illegitimate daughter of Charlemagne, born c. 787; death year unrecorded. Distinct from Ruothild, the Abbess of Faremoutiers who died 24 March 852.",
     "createdDate": "20260817",
-    "createdOrder": 108,
+    "createdOrder": 20,
     "historicalRating": 4
   },
   {
@@ -1758,8 +1798,8 @@
     "sourceNote": "Mother Hildegard of Vinzgouw is not yet in the roster. Twin of Lothair (778), who died in infancy. Spouses Ermengarde of Hesbaye and Judith of Bavaria, and his sons (Lothair I, Pepin I of Aquitaine, Louis the German, Charles the Bald), are not yet in the roster.",
     "notes": "Third son of Charlemagne and Hildegard; the only legitimate adult son to survive his father and succeed to the empire. Emperor of the Carolingian Empire and King of the Franks from 814 to 840.",
     "historicalRating": 9,
-    "createdDate": "20260818",
-    "createdOrder": 123,
+    "createdDate": "20260817",
+    "createdOrder": 38,
     "deathCause": {
       "kind": "normal",
       "summary": "Died at Ingelheim",
@@ -1966,8 +2006,8 @@
     "sourceNote": "Mother Ermengarde of Hesbaye is not yet in the roster. Sons Louis II of Italy, Lothair II, and Charles of Provence are added in this batch.",
     "notes": "Eldest son of Louis the Pious; co-emperor and later sole Emperor, who by the Treaty of Verdun (843) received Middle Francia. His own realm was divided among his three sons after his death.",
     "historicalRating": 7,
-    "createdDate": "20260818",
-    "createdOrder": 124,
+    "createdDate": "20260817",
+    "createdOrder": 49,
     "deathCause": {
       "kind": "normal",
       "summary": "Died at Prüm",
@@ -2132,7 +2172,9 @@
       "spouseIds": [],
       "partnerIds": [],
       "childIds": [
-        "fc980fe9-6d96-4750-9b7f-cbc58b65bfd8"
+        "fc980fe9-6d96-4750-9b7f-cbc58b65bfd8",
+        "ff4072e3-38b6-4d6f-8803-f1e744c1dbd0",
+        "70503c44-4af8-4101-9f2f-1a2d98eb1b55"
       ]
     },
     "wikiUrl": "https://en.wikipedia.org/wiki/Louis_the_German",
@@ -2141,8 +2183,8 @@
     "sourceNote": "Wife Hemma of Altdorf and sons Carloman of Bavaria and Louis the Younger are not yet in the roster. Birth year is uncertain (804 or 806).",
     "notes": "Third son of Louis the Pious; first king of East Francia from the Treaty of Verdun (843). His sons' inheritance laid the basis for the German stem duchies.",
     "historicalRating": 7,
-    "createdDate": "20260818",
-    "createdOrder": 125,
+    "createdDate": "20260817",
+    "createdOrder": 50,
     "deathCause": {
       "kind": "normal",
       "summary": "Died at Frankfurt",
@@ -2297,8 +2339,8 @@
     "sourceNote": "Mother Judith of Bavaria, wife Ermentrude, and son Louis the Stammerer are not yet in the roster.",
     "notes": "Youngest son of Louis the Pious by Judith of Bavaria; first king of West Francia from the Treaty of Verdun (843) and Emperor from 875. A notable patron of learning.",
     "historicalRating": 7,
-    "createdDate": "20260818",
-    "createdOrder": 126,
+    "createdDate": "20260817",
+    "createdOrder": 51,
     "deathCause": {
       "kind": "normal",
       "summary": "Died returning over the Alps",
@@ -2456,8 +2498,8 @@
     "sourceNote": "Mother Ermengarde of Tours and wife Engelberga are not yet in the roster.",
     "notes": "Eldest son of Lothair I; King of Italy and Emperor, whose reign was spent largely fighting Saracen raids in southern Italy.",
     "historicalRating": 6,
-    "createdDate": "20260818",
-    "createdOrder": 127,
+    "createdDate": "20260817",
+    "createdOrder": 52,
     "events": [
       {
         "year": 825,
@@ -2519,7 +2561,15 @@
         "labelCn": "在盖迪去世",
         "wikiUrl": "https://en.wikipedia.org/wiki/Louis_II_of_Italy"
       }
-    ]
+    ],
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died of illness at Ghedi",
+      "summaryCn": "在盖迪因病去世",
+      "detail": "Louis II of Italy died in 875 at Ghedi in northern Italy after a reign spent fighting Saracen raids.",
+      "detailCn": "875 年，意大利的路易二世在意大利北部盖迪去世，生前长期与萨拉森人作战。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Louis_II_of_Italy"
+    }
   },
   {
     "id": "af47aeab-39c3-44e1-b6c9-57f4f4a67c12",
@@ -2576,8 +2626,8 @@
     "sourceNote": "Wife Teutberga and partner Waldrada are not yet in the roster.",
     "notes": "Second son of Lothair I; king of Lotharingia. His attempt to divorce Teutberga and marry Waldrada became a famous marriage dispute involving Pope Nicholas I.",
     "historicalRating": 6,
-    "createdDate": "20260818",
-    "createdOrder": 128,
+    "createdDate": "20260817",
+    "createdOrder": 53,
     "events": [
       {
         "year": 835,
@@ -2627,7 +2677,15 @@
         "labelCn": "去世，洛塔林吉亚被瓜分",
         "wikiUrl": "https://en.wikipedia.org/wiki/Lothair_II"
       }
-    ]
+    ],
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died of fever at Piacenza",
+      "summaryCn": "在皮亚琴察死于热病",
+      "detail": "Lothair II died of fever at Piacenza in 869 while returning from Rome.",
+      "detailCn": "869 年，洛泰尔二世自罗马归途中在皮亚琴察死于热病。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Lothair_II"
+    }
   },
   {
     "id": "d154bf3c-6127-4586-af1b-952ed1841ba3",
@@ -2683,7 +2741,7 @@
     "notes": "Youngest son of Lothair I; king of Provence and Burgundy. Died young at eighteen, after which his realm was divided between his brothers.",
     "historicalRating": 5,
     "createdDate": "20260818",
-    "createdOrder": 129,
+    "createdOrder": 1,
     "events": [
       {
         "year": 845,
@@ -2719,7 +2777,15 @@
         "labelCn": "早逝于里昂",
         "wikiUrl": "https://en.wikipedia.org/wiki/Charles_of_Provence"
       }
-    ]
+    ],
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died young at Lyon",
+      "summaryCn": "早逝于里昂",
+      "detail": "Charles of Provence died in 863 at about eighteen; some sources attribute his death to illness.",
+      "detailCn": "863 年，普罗旺斯的查理约十八岁去世，部分史料称因病而亡。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Charles_of_Provence"
+    }
   },
   {
     "id": "fc980fe9-6d96-4750-9b7f-cbc58b65bfd8",
@@ -2796,7 +2862,7 @@
     "notes": "Son of Louis the German; the last Carolingian to reunite the Frankish realms (885–887) before his deposition. His reign is traditionally seen as one of decline and Viking pressure.",
     "historicalRating": 7,
     "createdDate": "20260818",
-    "createdOrder": 130,
+    "createdOrder": 2,
     "deathCause": {
       "kind": "normal",
       "summary": "Deposed and died soon after",
@@ -2928,7 +2994,7 @@
     "rank": "king",
     "importanceScore": 70,
     "relationships": {
-      "fatherId": "",
+      "fatherId": "ff4072e3-38b6-4d6f-8803-f1e744c1dbd0",
       "motherId": "",
       "spouseIds": [],
       "partnerIds": [],
@@ -2944,7 +3010,7 @@
     "notes": "Illegitimate son of Carloman of Bavaria; elected King of East Francia in 887 and crowned Emperor in 896. Remembered for his victory over the Vikings at Leuven (891).",
     "historicalRating": 7,
     "createdDate": "20260818",
-    "createdOrder": 131,
+    "createdOrder": 3,
     "deathCause": {
       "kind": "normal",
       "summary": "Died at Regensburg",
@@ -3085,7 +3151,7 @@
     "notes": "Son of Arnulf of Carinthia; the last Carolingian king of East Francia. Reigned under regents through a period of Magyar raids and died young, ending the East Frankish Carolingian line.",
     "historicalRating": 7,
     "createdDate": "20260818",
-    "createdOrder": 132,
+    "createdOrder": 4,
     "deathCause": {
       "kind": "normal",
       "summary": "Died young at Frankfurt",
@@ -3222,8 +3288,8 @@
     "sourceNote": "Mother Ermentrude of Orléans and wives Ansgarde and Adelaide of Paris are not yet in the roster.",
     "notes": "Eldest son of Charles the Bald; King of Aquitaine and then of West Francia. His short reign was weakened by ill health and magnate revolts.",
     "historicalRating": 6,
-    "createdDate": "20260819",
-    "createdOrder": 133,
+    "createdDate": "20260818",
+    "createdOrder": 5,
     "events": [
       {
         "year": 846,
@@ -3285,7 +3351,15 @@
         "labelCn": "在贡比涅去世",
         "wikiUrl": "https://en.wikipedia.org/wiki/Louis_the_Stammerer"
       }
-    ]
+    ],
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died of illness at Compiègne",
+      "summaryCn": "在贡比涅因病去世",
+      "detail": "Louis the Stammerer died in 879 at Compiègne after a reign marked by ill health.",
+      "detailCn": "879 年，口吃者路易在贡比涅去世，其统治期间一直体弱多病。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Louis_the_Stammerer"
+    }
   },
   {
     "id": "b65eb6b7-9618-4e9f-9510-e5bb7c17e723",
@@ -3340,8 +3414,8 @@
     "sourceNote": "Mother Ansgarde of Burgundy and brother Carloman II are partially recorded; birth year is uncertain (traditionally 863).",
     "notes": "Elder son of Louis the Stammerer; reigned jointly with his brother Carloman II. Celebrated in the Ludwigslied for his victory over the Vikings at Saucourt.",
     "historicalRating": 5,
-    "createdDate": "20260819",
-    "createdOrder": 134,
+    "createdDate": "20260818",
+    "createdOrder": 6,
     "events": [
       {
         "year": 863,
@@ -3391,7 +3465,15 @@
         "labelCn": "早逝于圣但尼",
         "wikiUrl": "https://en.wikipedia.org/wiki/Louis_III_of_France"
       }
-    ]
+    ],
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died young after a riding accident",
+      "summaryCn": "早逝，骑马事故",
+      "detail": "Louis III died in 882 at about nineteen, reportedly after striking his head while riding.",
+      "detailCn": "882 年，路易三世约十九岁去世，据称系骑马时撞伤头部。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Louis_III_of_France"
+    }
   },
   {
     "id": "f284e83c-0009-4557-b225-fc428a357d12",
@@ -3446,8 +3528,8 @@
     "sourceNote": "Birth year is uncertain (traditionally 867).",
     "notes": "Younger son of Louis the Stammerer; co-king with Louis III, then sole king after his brother's death. Died in a hunting accident.",
     "historicalRating": 5,
-    "createdDate": "20260819",
-    "createdOrder": 135,
+    "createdDate": "20260818",
+    "createdOrder": 7,
     "events": [
       {
         "year": 867,
@@ -3496,7 +3578,15 @@
         "labelCn": "死于狩猎事故",
         "wikiUrl": "https://en.wikipedia.org/wiki/Carloman_II"
       }
-    ]
+    ],
+    "deathCause": {
+      "kind": "violent",
+      "summary": "Killed in a hunting accident",
+      "summaryCn": "狩猎事故中身亡",
+      "detail": "Carloman II died in 884 after being wounded by a wild boar while hunting.",
+      "detailCn": "884 年，卡洛曼二世在狩猎时被野猪所伤身亡。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Carloman_II"
+    }
   },
   {
     "id": "d7809609-2a6a-47bf-819f-2af8d7c31365",
@@ -3555,8 +3645,8 @@
     "sourceNote": "Mother Adelaide of Paris and wife Eadgifu of Wessex are not yet in the roster.",
     "notes": "Posthumous son of Louis the Stammerer; king of West Francia. By the Treaty of Saint-Clair-sur-Epte he granted Normandy to Rollo. Deposed in 922 and died in captivity.",
     "historicalRating": 7,
-    "createdDate": "20260819",
-    "createdOrder": 136,
+    "createdDate": "20260818",
+    "createdOrder": 8,
     "events": [
       {
         "year": 879,
@@ -3631,7 +3721,15 @@
         "labelCn": "在佩罗讷囚禁中去世",
         "wikiUrl": "https://en.wikipedia.org/wiki/Charles_the_Simple"
       }
-    ]
+    ],
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died in captivity at Péronne",
+      "summaryCn": "在佩罗讷囚禁中去世",
+      "detail": "Charles the Simple was imprisoned by Herbert II of Vermandois after 923 and died in captivity at Péronne in 929.",
+      "detailCn": "天真者查理 923 年后遭韦芒杜瓦的赫贝尔二世囚禁，929 年死于佩罗讷。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Charles_the_Simple"
+    }
   },
   {
     "id": "b647d9d4-bdd3-40a9-9a54-240ff24540da",
@@ -3692,8 +3790,8 @@
     "sourceNote": "Mother Eadgifu of Wessex and wife Gerberga of Saxony are not yet in the roster. Birth year is uncertain (traditionally 920).",
     "notes": "Son of Charles the Simple, raised in England (hence d'Outremer). Recalled to Francia in 936 and crowned king; his reign was dominated by struggle with Hugh the Great.",
     "historicalRating": 7,
-    "createdDate": "20260819",
-    "createdOrder": 137,
+    "createdDate": "20260818",
+    "createdOrder": 9,
     "events": [
       {
         "year": 920,
@@ -3755,7 +3853,15 @@
         "labelCn": "坠马后去世",
         "wikiUrl": "https://en.wikipedia.org/wiki/Louis_IV_of_France"
       }
-    ]
+    ],
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died after a fall from his horse",
+      "summaryCn": "坠马后去世",
+      "detail": "Louis IV died in 954 after falling from his horse while riding near Reims.",
+      "detailCn": "954 年，路易四世在兰斯附近骑马时坠马，伤重去世。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Louis_IV_of_France"
+    }
   },
   {
     "id": "9455d227-ae13-44dc-9924-138ac5208ed6",
@@ -3813,8 +3919,8 @@
     "sourceNote": "Mother Gerberga of Saxony and wife Emma of Italy are not yet in the roster.",
     "notes": "Son of Louis IV; king of West Francia from 954, initially under the regency of Hugh the Great. Fought Emperor Otto II over Lotharingia before renouncing it in 980.",
     "historicalRating": 7,
-    "createdDate": "20260819",
-    "createdOrder": 138,
+    "createdDate": "20260818",
+    "createdOrder": 10,
     "events": [
       {
         "year": 941,
@@ -3874,7 +3980,15 @@
         "labelCn": "在拉昂去世",
         "wikiUrl": "https://en.wikipedia.org/wiki/Lothair_of_France"
       }
-    ]
+    ],
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died of illness at Laon",
+      "summaryCn": "在拉昂因病去世",
+      "detail": "Lothair died in 986 at Laon after a short illness.",
+      "detailCn": "986 年，洛泰尔在拉昂因一场急病去世。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Lothair_of_France"
+    }
   },
   {
     "id": "653f343d-cd5f-4549-8e77-1f85c755a54a",
@@ -3931,8 +4045,8 @@
     "sourceNote": "Mother Emma of Italy is not yet in the roster. Birth year is uncertain (traditionally 967).",
     "notes": "Son of Lothair of France; the last Carolingian king of West Francia. His brief reign ended the Carolingian line in the west, and he was succeeded by Hugh Capet.",
     "historicalRating": 7,
-    "createdDate": "20260819",
-    "createdOrder": 139,
+    "createdDate": "20260818",
+    "createdOrder": 11,
     "events": [
       {
         "year": 967,
@@ -3982,7 +4096,15 @@
         "wikiUrl": "https://en.wikipedia.org/wiki/Louis_V_of_France",
         "note": "Died childless in a hunting accident; Hugh Capet succeeded him."
       }
-    ]
+    ],
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died in a hunting accident",
+      "summaryCn": "狩猎事故中身亡",
+      "detail": "Louis V died in 987 at about twenty after a fall from his horse while hunting in the forest of Compiègne.",
+      "detailCn": "987 年，路易五世约二十岁时在贡比涅森林狩猎坠马身亡。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Louis_V_of_France"
+    }
   },
   {
     "id": "67e32965-5f50-47fa-ac78-2ecf8c7ebec8",
@@ -4038,8 +4160,8 @@
     "sourceNote": "Mother Gerberga of Saxony is not yet in the roster.",
     "notes": "Younger son of Louis IV and brother of Lothair; Duke of Lower Lorraine. After Louis V's death he claimed the throne against Hugh Capet, the last Carolingian contender.",
     "historicalRating": 6,
-    "createdDate": "20260819",
-    "createdOrder": 140,
+    "createdDate": "20260818",
+    "createdOrder": 12,
     "events": [
       {
         "year": 953,
@@ -4087,7 +4209,15 @@
         "labelCn": "被俘并死于狱中",
         "wikiUrl": "https://en.wikipedia.org/wiki/Charles,_Duke_of_Lower_Lorraine"
       }
-    ]
+    ],
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died in prison at Orléans",
+      "summaryCn": "在奥尔良狱中去世",
+      "detail": "After his claim to the throne failed, Charles of Lower Lorraine was imprisoned and died in custody at Orléans in 991.",
+      "detailCn": "争夺王位失败后，下洛林的查理被囚禁，991 年死于奥尔良狱中。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Charles,_Duke_of_Lower_Lorraine"
+    }
   },
   {
     "id": "fce46ecd-6593-4c8e-8719-c9ca6931d85f",
@@ -4142,8 +4272,8 @@
     "sourceNote": "Birth year is uncertain (traditionally c. 870).",
     "notes": "Illegitimate son of Arnulf of Carinthia, made king of Lotharingia in 895. Killed fighting rebellious Lotharingian nobles.",
     "historicalRating": 6,
-    "createdDate": "20260819",
-    "createdOrder": 141,
+    "createdDate": "20260818",
+    "createdOrder": 13,
     "events": [
       {
         "year": 870,
@@ -4181,7 +4311,15 @@
         "labelCn": "在与叛乱贵族作战中被杀",
         "wikiUrl": "https://en.wikipedia.org/wiki/Zwentibold"
       }
-    ]
+    ],
+    "deathCause": {
+      "kind": "violent",
+      "summary": "Killed fighting rebellious nobles",
+      "summaryCn": "在与叛乱贵族作战中被杀",
+      "detail": "Zwentibold was killed in battle in 900 while fighting rebellious Lotharingian nobles.",
+      "detailCn": "900 年，兹文蒂博尔德在与洛塔林吉亚叛乱贵族作战时被杀。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Zwentibold"
+    }
   },
   {
     "id": "98952527-7a55-4c13-aed2-2a61821696d5",
@@ -4236,8 +4374,8 @@
     "sourceNote": "Mother Waldrada is not yet in the roster; his parents' union was disputed and never fully recognized by the Church.",
     "notes": "Son of Lothair II by Waldrada, whose union was disputed by the Church. His claim to succeed in Lotharingia was contested and eventually set aside; he was later blinded and died as a monk.",
     "historicalRating": 5,
-    "createdDate": "20260819",
-    "createdOrder": 142,
+    "createdDate": "20260818",
+    "createdOrder": 14,
     "events": [
       {
         "year": 855,
@@ -4286,7 +4424,15 @@
         "labelCn": "在普吕姆修道院去世",
         "wikiUrl": "https://en.wikipedia.org/wiki/Hugh_of_Alsace"
       }
-    ]
+    ],
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died as a monk at Prüm",
+      "summaryCn": "在普吕姆修道院去世",
+      "detail": "Hugh of Lotharingia, blinded in 885, died as a monk at Prüm in 895.",
+      "detailCn": "洛塔林吉亚的于格 885 年被刺瞎后出家，895 年死于普吕姆修道院。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Hugh_of_Alsace"
+    }
   },
   {
     "id": "ec16ed59-6940-4fc5-ba99-091751fd176b",
@@ -4358,8 +4504,8 @@
     "sourceNote": "Bosonid by father (Boso of Provence, not in roster); Carolingian through mother Ermengard, daughter of Louis II of Italy (not in roster). Birth year is uncertain (traditionally c. 880).",
     "notes": "King of Provence, and briefly king of Italy and Emperor. Descended from the Carolingians through his mother; blinded by Berengar I in 905, after which he ruled Provence ineffectively.",
     "historicalRating": 5,
-    "createdDate": "20260819",
-    "createdOrder": 144,
+    "createdDate": "20260818",
+    "createdOrder": 16,
     "events": [
       {
         "year": 880,
@@ -4422,7 +4568,15 @@
         "labelCn": "在阿尔勒去世",
         "wikiUrl": "https://en.wikipedia.org/wiki/Louis_the_Blind"
       }
-    ]
+    ],
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died at Arles",
+      "summaryCn": "在阿尔勒去世",
+      "detail": "Louis the Blind, blinded by Berengar I in 905, died in 928 at Arles.",
+      "detailCn": "失明者路易 905 年被贝伦加尔一世刺瞎，928 年死于阿尔勒。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Louis_the_Blind"
+    }
   },
   {
     "id": "ac5110b0-f91e-4ecd-969d-23969a43edca",
@@ -4476,8 +4630,8 @@
     "sourceNote": "Birth and death years are approximate; limited reliable detail survives.",
     "notes": "Son of Louis the Blind; Count of Vienne. A late offshoot of the Carolingian line in the south.",
     "historicalRating": 4,
-    "createdDate": "20260819",
-    "createdOrder": 145,
+    "createdDate": "20260818",
+    "createdOrder": 17,
     "events": [
       {
         "year": 901,
@@ -4502,6 +4656,241 @@
         "labelCn": "在维埃纳去世",
         "wikiUrl": "https://en.wikipedia.org/wiki/Charles_Constantine,_Count_of_Vienne",
         "note": "Death year approximate."
+      }
+    ]
+  },
+  {
+    "id": "ff4072e3-38b6-4d6f-8803-f1e744c1dbd0",
+    "firstName": "Carloman",
+    "lastName": "",
+    "displayName": "Carloman of Bavaria",
+    "fullName": "Carloman of Bavaria",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Carloman of Bavaria",
+      "Karlmann"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "巴伐利亚的卡洛曼",
+    "fullNameCn": "巴伐利亚的卡洛曼",
+    "birthYear": 830,
+    "deathYear": 880,
+    "birthPlace": "",
+    "deathPlace": "Öttingen, East Francia",
+    "deathPlaceCn": "东法兰克厄廷根",
+    "gender": "male",
+    "dynasty": "Carolingian dynasty",
+    "house": "Carolingian dynasty",
+    "culture": "Frankish",
+    "faith": "Catholic",
+    "primaryTitle": "King of Bavaria",
+    "primaryTitleCn": "巴伐利亚国王",
+    "titles": [
+      {
+        "title": "King of Bavaria",
+        "startYear": 876,
+        "endYear": 880,
+        "titleCn": "巴伐利亚国王"
+      },
+      {
+        "title": "King of Italy",
+        "startYear": 877,
+        "endYear": 879,
+        "titleCn": "意大利国王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 60,
+    "relationships": {
+      "fatherId": "140ea34c-2546-4e55-bed6-fa8b7fbd9848",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "c31e84ad-65e3-40b3-90a7-9f860e5a9dca"
+      ]
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Carloman_of_Bavaria",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Carloman_of_Bavaria",
+    "sourceNote": "Birth year is uncertain (traditionally c. 830). Son Arnulf of Carinthia is in the roster.",
+    "notes": "Eldest son of Louis the German; king of Bavaria and briefly of Italy. Father of Arnulf of Carinthia, who succeeded to East Francia.",
+    "historicalRating": 6,
+    "createdDate": "20260818",
+    "createdOrder": 28,
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died after a stroke",
+      "summaryCn": "中风后去世",
+      "detail": "Carloman of Bavaria died in 880 after a stroke, and his realm passed to his brother Louis the Younger.",
+      "detailCn": "880 年，巴伐利亚的卡洛曼中风后去世，其领地由其弟青年路易继承。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Carloman_of_Bavaria"
+    },
+    "events": [
+      {
+        "year": 830,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 60,
+        "label": "Born, eldest son of Louis the German",
+        "labelCn": "出生，日耳曼路易的长子",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Carloman_of_Bavaria",
+        "note": "Birth year uncertain, traditionally c. 830."
+      },
+      {
+        "year": 876,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "monarch"
+        ],
+        "weight": 78,
+        "label": "Inherited Bavaria",
+        "labelCn": "继承巴伐利亚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Carloman_of_Bavaria"
+      },
+      {
+        "year": 877,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "king"
+        ],
+        "weight": 76,
+        "label": "Became King of Italy",
+        "labelCn": "成为意大利国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Carloman_of_Bavaria"
+      },
+      {
+        "year": 880,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 92,
+        "label": "Died after a stroke",
+        "labelCn": "中风后去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Carloman_of_Bavaria"
+      }
+    ]
+  },
+  {
+    "id": "70503c44-4af8-4101-9f2f-1a2d98eb1b55",
+    "firstName": "Louis",
+    "lastName": "",
+    "displayName": "Louis the Younger",
+    "fullName": "Louis the Younger",
+    "nickname": "the Younger",
+    "alsoKnownAs": [
+      "Louis III",
+      "Louis the Younger"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "青年路易",
+    "fullNameCn": "青年路易",
+    "nicknameCn": "青年",
+    "birthYear": 835,
+    "deathYear": 882,
+    "birthPlace": "",
+    "deathPlace": "Frankfurt, East Francia",
+    "deathPlaceCn": "东法兰克法兰克福",
+    "gender": "male",
+    "dynasty": "Carolingian dynasty",
+    "house": "Carolingian dynasty",
+    "culture": "Frankish",
+    "faith": "Catholic",
+    "primaryTitle": "King of East Francia",
+    "primaryTitleCn": "东法兰克国王",
+    "titles": [
+      {
+        "title": "King of East Francia",
+        "startYear": 876,
+        "endYear": 882,
+        "titleCn": "东法兰克国王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 60,
+    "relationships": {
+      "fatherId": "140ea34c-2546-4e55-bed6-fa8b7fbd9848",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Louis_the_Younger",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Louis_the_Younger",
+    "sourceNote": "Birth year is uncertain (traditionally c. 835).",
+    "notes": "Second son of Louis the German; king of Saxony, Franconia, and Bavaria, ruling East Francia after his brothers.",
+    "historicalRating": 6,
+    "createdDate": "20260818",
+    "createdOrder": 29,
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died of illness at Frankfurt",
+      "summaryCn": "在法兰克福因病去世",
+      "detail": "Louis the Younger died in 882 at Frankfurt, and the East Frankish realm passed to Charles the Fat.",
+      "detailCn": "882 年，青年路易在法兰克福去世，东法兰克由胖子查理继承。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Louis_the_Younger"
+    },
+    "events": [
+      {
+        "year": 835,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 60,
+        "label": "Born, second son of Louis the German",
+        "labelCn": "出生，日耳曼路易的次子",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Louis_the_Younger",
+        "note": "Birth year uncertain, traditionally c. 835."
+      },
+      {
+        "year": 876,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "monarch"
+        ],
+        "weight": 78,
+        "label": "Inherited Saxony and Franconia",
+        "labelCn": "继承萨克森与法兰克尼亚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Louis_the_Younger"
+      },
+      {
+        "year": 880,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "monarch"
+        ],
+        "weight": 76,
+        "label": "Inherited Bavaria after Carloman's death",
+        "labelCn": "卡洛曼去世后继承巴伐利亚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Louis_the_Younger"
+      },
+      {
+        "year": 882,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 92,
+        "label": "Died at Frankfurt",
+        "labelCn": "在法兰克福去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Louis_the_Younger"
       }
     ]
   }

@@ -248,7 +248,7 @@
         "wikiUrl": "https://en.wikipedia.org/wiki/Matilda_of_Flanders"
       }
     ],
-    "createdDate": "260814",
+    "createdDate": "20260815",
     "createdOrder": 3
   },
   {
@@ -427,8 +427,8 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/Henry_V,_Holy_Roman_Emperor",
     "sourceNote": "First husband of Empress Matilda; marriage ended after his death.",
     "notes": "Holy Roman Emperor and first husband of Empress Matilda. Birth date uncertain: probably 11 August 1081 or 1086 (sources disagree). German spelling 'Heinrich' is preserved per project convention.",
-    "createdDate": "260815",
-    "createdOrder": 18,
+    "createdDate": "20260815",
+    "createdOrder": 9,
     "displayNameCn": "海因里希五世",
     "fullNameCn": "神圣罗马帝国皇帝海因里希五世",
     "nicknameCn": "骄傲者",
@@ -449,7 +449,7 @@
     "portraitUrl": "",
     "sourceNote": "",
     "notes": "",
-    "createdDate": "260814",
+    "createdDate": "20260815",
     "events": [
       {
         "year": 1137,
@@ -829,7 +829,7 @@
     },
     "wikiUrl": "https://en.wikipedia.org/wiki/Eleanor_of_Aquitaine",
     "sourceUrl": "https://en.wikipedia.org/wiki/Eleanor_of_Aquitaine",
-    "createdOrder": 11,
+    "createdOrder": 12,
     "deathCause": {
       "kind": "normal",
       "summary": "Died at Fontevraud Abbey",
@@ -988,8 +988,8 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/William_X,_Duke_of_Aquitaine",
     "sourceNote": "Birth year varies: c. 1098 (EN infobox) vs 1099 (Chronicle of Saint-Maixent and this project's record); he was born in Toulouse during the brief period when his parents ruled it. Death: 9 April 1137 at Santiago de Compostela on pilgrimage; no cause recorded. The article itself carries citation-maintenance tags.",
     "notes": "Blank MVP card replaced with a full research-backed card; existing identity and the father/child links (to Guilhem IX and Eleanor of Aquitaine) preserved. His death left the 15-year-old Eleanor as heiress of Aquitaine; Louis VI took her under royal protection and her 1137 marriage to the future Louis VII brought Aquitaine into the French royal domain.",
-    "createdDate": "260814",
-    "createdOrder": 16,
+    "createdDate": "20260815",
+    "createdOrder": 17,
     "deathCause": {
       "kind": "normal",
       "summary": "Died on pilgrimage to Santiago de Compostela",
@@ -1166,8 +1166,8 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/William_IX,_Duke_of_Aquitaine",
     "sourceNote": "Death year is disputed: EN and FR Wikipedia article text give 10 February 1126, while their succession/category boxes and other references give 1127 (used here, matching the existing record). The traditional first marriage to Ermengarde of Anjou (1088) is doubtful. Birthplace not given by the sources.",
     "notes": "The earliest troubadour whose work survives (11 songs, one of dubious attribution); 'lo Trobador' was applied only in the nineteenth century, contemporaries sometimes calling him 'the Younger.' His affair with Dangereuse (Viscountess of Chatellerault) estranged him from his son, the future Guilhem X, whose own marriage in 1121 to Dangereuse's daughter Aenor healed the rift. Blank MVP card replaced with a full research-backed card; existing identity and father/child links preserved.",
-    "createdDate": "260814",
-    "createdOrder": 17,
+    "createdDate": "20260815",
+    "createdOrder": 18,
     "deathCause": {
       "kind": "normal",
       "summary": "Died after a short illness in Poitiers",
@@ -1356,8 +1356,8 @@
         "note": "Killed 20 July 1398 in County Carlow, Ireland; some sources give 15 August as the death date. Buried at Wigmore Abbey."
       }
     ],
-    "createdDate": "260814",
-    "createdOrder": 37
+    "createdDate": "20260815",
+    "createdOrder": 38
   },
   {
     "id": "38e14a5d-17a3-4c5a-8ee3-3d4d39d911af",
@@ -1501,8 +1501,8 @@
         "note": "Posthumous: her brother Edmund Mortimer, 5th Earl of March, died heirless in 1425, making her son Richard of York the Yorkist claimant to the throne."
       }
     ],
-    "createdDate": "260814",
-    "createdOrder": 38
+    "createdDate": "20260815",
+    "createdOrder": 39
   },
   {
     "id": "04bd4507-aadb-4108-9bb4-278c7e06ae53",
@@ -1546,8 +1546,8 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/Ida_de_Tosny",
     "sourceNote": "",
     "notes": "Blank MVP person card; non-marital partner of Henry II and mother of William Longespee.",
-    "createdDate": "260815",
-    "createdOrder": 42,
+    "createdDate": "20260815",
+    "createdOrder": 43,
     "displayNameCn": "伊达·德·托斯尼",
     "fullNameCn": "伊达·德·托斯尼",
     "primaryTitleCn": "亨利二世的伴侣",
@@ -1597,8 +1597,8 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/Geoffrey_(archbishop_of_York)",
     "sourceNote": "",
     "notes": "Blank MVP person card; named mother of Geoffrey, Archbishop of York, in Henry II illegitimate-child tradition.",
-    "createdDate": "260815",
-    "createdOrder": 43,
+    "createdDate": "20260815",
+    "createdOrder": 44,
     "displayNameCn": "伊肯奈",
     "fullNameCn": "伊肯奈",
     "primaryTitleCn": "亨利二世的伴侣",
@@ -1648,8 +1648,8 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/Morgan_(bishop-elect_of_Durham)",
     "sourceNote": "",
     "notes": "Blank MVP person card; probable mother of Morgan FitzRoy.",
-    "createdDate": "260815",
-    "createdOrder": 44,
+    "createdDate": "20260815",
+    "createdOrder": 45,
     "displayNameCn": "内丝特",
     "fullNameCn": "内丝特",
     "primaryTitleCn": "亨利二世的伴侣",
@@ -1722,7 +1722,8 @@
       ],
       "partnerIds": [],
       "childIds": [
-        "f194f118-96af-4ad4-af2b-f8449720cff1"
+        "f194f118-96af-4ad4-af2b-f8449720cff1",
+        "df86835f-41c3-48f2-806b-2f9160eaff6e"
       ]
     },
     "events": [
@@ -1827,7 +1828,7 @@
         "note": "Died at Westminster Palace; buried in Westminster Abbey near Edward the Confessor."
       }
     ],
-    "createdDate": "260815",
+    "createdDate": "20260816",
     "createdOrder": 12
   },
   {
@@ -1925,8 +1926,8 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/Ramnulfids",
     "sourceNote": "Early Ramnulfid genealogy and dates are partly uncertain: birth year 820 (FR infobox) or c. 825 (Settipani); the start of the countship is variously given as 835/840/854; the identities of his mother and wife (Adaltrude of Maine / Bilichilde) are uncertain. He was also a lay abbot of Saint-Hilaire (841-866).",
     "notes": "Founder of the House of Poitiers/Ramnulfids; son of Gerard, Count of Auvergne according to the cited genealogy. NOTE: the EN article is titled 'Ranulf I of Aquitaine' — the previously stored URL with the 'Ramnulf' spelling returns 404 and has been corrected.",
-    "createdDate": "260816",
-    "createdOrder": 48,
+    "createdDate": "20260816",
+    "createdOrder": 18,
     "deathCause": {
       "kind": "violent",
       "summary": "Died of wounds from the Battle of Brissarthe",
@@ -2046,8 +2047,8 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/Ramnulfids",
     "sourceNote": "The claim to be King of Aquitaine was short-lived and contested: it rests mainly on the Annales Fuldenses, and French Wikipedia describes only a self-styled ducal title (888-890). Count-of-Poitiers start date varies (866/877/886). He took custody of the child Charles (later Charles the Simple) after 888.",
     "notes": "Son of Ramnulf I; father of the genealogical Ramnulf III branch and of the illegitimate Ebalus Manzer. His wife Ermengarde is otherwise unrecorded and even the marriage is uncertain; the identity of his mother is debated (Bilichilde of Maine, a Guilhemide princess, or another wife of Ramnulf I).",
-    "createdDate": "260816",
-    "createdOrder": 49,
+    "createdDate": "20260816",
+    "createdOrder": 19,
     "deathCause": {
       "kind": "uncertain",
       "summary": "Possibly poisoned at Paris",
@@ -2111,8 +2112,8 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/Ramnulfids",
     "sourceNote": "Genealogical entry; dates and detailed biography are not securely established in the cited overview.",
     "notes": "Shown as a branch of Ramnulf II in the House of Poitiers genealogy, not as the direct father of Ebalus.",
-    "createdDate": "260816",
-    "createdOrder": 50,
+    "createdDate": "20260816",
+    "createdOrder": 20,
     "displayNameCn": "拉姆努尔夫三世",
     "fullNameCn": "阿基坦的拉姆努尔夫三世",
     "historicalRating": 2
@@ -2260,8 +2261,8 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/Ramnulfids",
     "sourceNote": "Wikipedia identifies Ebalus as the illegitimate son of Ranulf II; the exact maternal line is not supplied ('Manzer' is a Hebrew word meaning bastard). Birth c. 870, uncertain. Titles: Count of Poitou 890-892 and 902-934; Duke of Aquitaine 927/928-932. Death year 934/935.",
     "notes": "His line leads to the later House of Poitiers dukes and Eleanor of Aquitaine. NOTE on titles: the previous record dated his countship from 927; sources show he held Poitou continuously from 902 (after an earlier 890-892 tenure), so the entry was corrected, and the Duchy of Aquitaine (927-932) added.",
-    "createdDate": "260816",
-    "createdOrder": 51,
+    "createdDate": "20260816",
+    "createdOrder": 21,
     "deathCause": {
       "kind": "normal",
       "summary": "Died in 934/935; no cause recorded",
@@ -2421,8 +2422,8 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/Ramnulfids",
     "sourceNote": "Wikipedia notes that he was called Count of the Duchy of Aquitaine or Count Palatine, but not unambiguously Duke of Aquitaine. Uncertain: birth year 913 vs 915; start of the ducal title 959 vs 962; marriage date c. 936 tentative; the filiation of his (possible) daughter Adelaide is disputed.",
     "notes": "Occitanized display name; English and French forms remain in alsoKnownAs. 'Towhead' (Tete d'etoupe) refers to the flaxen colour of his hair, not to baldness; the Chinese nickname has been corrected from 'bald head' to 'flaxen-haired' accordingly.",
-    "createdDate": "260816",
-    "createdOrder": 52,
+    "createdDate": "20260816",
+    "createdOrder": 22,
     "deathCause": {
       "kind": "normal",
       "summary": "Died at Saint-Maixent-l'Ecole; no cause recorded",
@@ -2544,8 +2545,8 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/Ramnulfids",
     "sourceNote": "The numbering differs between the counts of Poitiers and dukes of Aquitaine. Death date disputed: 3 February 994 (EN and FR infoboxes) vs 5 February 995 (alternative). Birth year c. 937 (c. 935 per FR). The title's end year is variously given as 990 (retirement), 993 or 995 depending on the source.",
     "notes": "Occitanized display name; Fierabras means strong-armed/iron arm in the traditional epithet (the EN article glosses it as 'Proud Arm' from Fier-a-bras). His death year has been updated from 995 to 994 following the EN/FR Wikipedia infoboxes, with the 995 alternative flagged.",
-    "createdDate": "260816",
-    "createdOrder": 53,
+    "createdDate": "20260816",
+    "createdOrder": 23,
     "deathCause": {
       "kind": "normal",
       "summary": "Died in 994 (or 995); no cause recorded",
@@ -2715,8 +2716,8 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/Ramnulfids",
     "sourceNote": "The Ramnulfid overview identifies William V as the father of William VI, Odo, William VII and William VIII branches. Uncertain: death day (30 or 31 January 1030); the death place was corrected from Poitiers to Maillezais Abbey per the EN article; the first wife's name is given as Adalemode of Limoges (not 'Sancha').",
     "notes": "Important patron of learning and culture in Aquitaine; do not collapse his four sons into a single succession chain. He received ambassadors from Emperor Henry II, Alfonso V of Leon, Canute the Great and King Robert of France, and traveled widely, 'annually visiting Rome or Spain as a pilgrim.' NOTE: the Chinese nickname 'the Great' has been corrected from 'Grand Duke' to 'the Great one'.",
-    "createdDate": "260816",
-    "createdOrder": 54,
+    "createdDate": "20260816",
+    "createdOrder": 24,
     "deathCause": {
       "kind": "normal",
       "summary": "Died at Maillezais Abbey; no cause recorded",
@@ -2781,8 +2782,8 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/Ramnulfids",
     "sourceNote": "Dates are incomplete in the cited overview.",
     "notes": "Eldest son of William V; count of Poitiers from 1030 to 1038.",
-    "createdDate": "260816",
-    "createdOrder": 55,
+    "createdDate": "20260816",
+    "createdOrder": 25,
     "displayNameCn": "吉勒姆六世·肥胖者",
     "fullNameCn": "普瓦捷伯爵吉勒姆六世·肥胖者",
     "nicknameCn": "肥胖者",
@@ -2842,8 +2843,8 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/Ramnulfids",
     "sourceNote": "Half-brother of William VI according to the Ramnulfid genealogy.",
     "notes": "A collateral succession branch; not the father of William VII or William VIII.",
-    "createdDate": "260816",
-    "createdOrder": 56,
+    "createdDate": "20260816",
+    "createdOrder": 26,
     "displayNameCn": "加斯科涅的奥多",
     "fullNameCn": "普瓦捷伯爵加斯科涅的奥多",
     "primaryTitleCn": "加斯科涅伯爵",
@@ -2945,8 +2946,8 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/Ramnulfids",
     "sourceNote": "Also known as Peter William; half-brother of William VI and William VIII. His wife Ermesinde is of uncertain origins, and the two daughters attributed to the couple are only hypothesized. Death: autumn 1058, of dysentery at the siege of Saumur; no exact date.",
     "notes": "The direct dynastic line to Guilhem IX runs through his brother Guilhem VIII, not through Guilhem VII. Nicknamed 'the Eagle' (Aigret) or 'the Bold' (le Hardi).",
-    "createdDate": "260816",
-    "createdOrder": 57,
+    "createdDate": "20260816",
+    "createdOrder": 27,
     "deathCause": {
       "kind": "normal",
       "summary": "Died of dysentery at the siege of Saumur",
@@ -3126,8 +3127,8 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/Ramnulfids",
     "sourceNote": "Born Gui-Geoffroi; younger brother of William VII and father of William IX. Birth year c. 1025; divorce dates are precise (November 1058, May 1068); death 25 September 1086 at Chizé.",
     "notes": "Occitanized display name Guilhem VIII; the direct father link to existing Guilhem IX is now represented by UUID. His third wife Hildegarde of Burgundy was his cousin, which is why the children of that marriage initially needed papal recognition.",
-    "createdDate": "260816",
-    "createdOrder": 58,
+    "createdDate": "20260816",
+    "createdOrder": 28,
     "deathCause": {
       "kind": "normal",
       "summary": "Died at Chizé; no cause recorded",
@@ -3288,8 +3289,8 @@
         "note": "Died 4 June 1206 in Paris; buried at Pontigny Abbey."
       }
     ],
-    "createdDate": "260817",
-    "createdOrder": 65
+    "createdDate": "20260816",
+    "createdOrder": 35
   },
   {
     "id": "ea16a35b-9d3b-44c8-b8c3-72598e0e4362",
@@ -3487,8 +3488,8 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/Hugh_the_Great",
     "sourceNote": "Father of Hugh Capet; son of Robert I of France and Béatrice of Vermandois.",
     "notes": "The maternal link to Béatrice opens the documented Vermandois-Carolingian descent. Duke of the Franks and the most powerful magnate of West Francia; father of Hugh Capet, founder of the Capetian dynasty.",
-    "createdDate": "260817",
-    "createdOrder": 67,
+    "createdDate": "20260816",
+    "createdOrder": 37,
     "displayNameCn": "大于格",
     "fullNameCn": "法兰克公爵大于格",
     "nicknameCn": "大者",
@@ -3532,7 +3533,8 @@
     ],
     "tags": [
       "queen",
-      "noble"
+      "noble",
+      "consort"
     ],
     "importanceScore": 68,
     "historicalRating": 7,
@@ -3628,8 +3630,8 @@
         "note": "Last attested 26 March 931; died after that date, exact date unknown."
       }
     ],
-    "createdDate": "260817",
-    "createdOrder": 68
+    "createdDate": "20260816",
+    "createdOrder": 38
   },
   {
     "id": "61fe4e30-9ec1-4495-8c4c-caf8df47c913",
@@ -3751,8 +3753,8 @@
         "note": "Died 907; possibly assassinated on the orders of Baldwin II of Flanders (speculative)."
       }
     ],
-    "createdDate": "260817",
-    "createdOrder": 69
+    "createdDate": "20260816",
+    "createdOrder": 39
   },
   {
     "id": "f1f472eb-b141-42d4-9590-bc9700c40e6f",
@@ -3871,8 +3873,8 @@
         "note": "Died c. 850 (some sources: after 850); exact date unknown."
       }
     ],
-    "createdDate": "260817",
-    "createdOrder": 70
+    "createdDate": "20260816",
+    "createdOrder": 40
   },
   {
     "id": "244bb192-3eb6-4fa5-934c-30806c83ee5f",
@@ -3938,7 +3940,7 @@
     "notes": "First wife of Philippe II Augustus. Parents (Baldwin V of Hainaut and Margaret I of Flanders) are not yet in the roster.",
     "historicalRating": 7,
     "createdDate": "20260817",
-    "createdOrder": 110,
+    "createdOrder": 22,
     "deathCause": {
       "kind": "normal",
       "summary": "Died following childbirth",
@@ -4091,7 +4093,7 @@
     "notes": "Second wife of Philippe II Augustus. Married 1193, repudiated the same day; the annulment was never canonically granted, and after the interdict crisis she was restored and remained queen until Philippe's death. The estrangement is modelled in events, not as a former marriage.",
     "historicalRating": 7,
     "createdDate": "20260817",
-    "createdOrder": 111,
+    "createdOrder": 23,
     "deathCause": {
       "kind": "normal",
       "summary": "Died at the Priory of Saint-Jean-de-l'Île",
@@ -4266,7 +4268,7 @@
     "notes": "Third wife of Philippe II Augustus. The 1196 marriage was contracted while Ingeborg lived and was declared invalid in 1201; her children were legitimised in November 1201. She was treated as queen but never canonically queen consort. Modelled as a former marriage (broken line), following the Eleanor x Louis VII pattern.",
     "historicalRating": 6,
     "createdDate": "20260817",
-    "createdOrder": 112,
+    "createdOrder": 24,
     "deathCause": {
       "kind": "normal",
       "summary": "Died at Poissy",
@@ -4409,7 +4411,7 @@
     "importanceScore": 88,
     "historicalRating": 8,
     "relationships": {
-      "fatherId": "",
+      "fatherId": "ca7b3d35-0d29-4a9b-bf79-7d87046adaee",
       "motherId": "",
       "spouseIds": [],
       "partnerIds": [],
@@ -4482,8 +4484,8 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/Sweyn_Forkbeard",
     "sourceNote": "King of Denmark and briefly king of England; father of Cnut.",
     "notes": "North Sea imperial background card; basic family links are limited to the roster.",
-    "createdDate": "260818",
-    "createdOrder": 147
+    "createdDate": "20260817",
+    "createdOrder": 41
   },
   {
     "id": "0fb64530-ea06-47ec-9570-6166155b53ba",
@@ -4547,12 +4549,14 @@
       "fatherId": "01da1402-5d85-4186-859a-34f8cb06182d",
       "motherId": "",
       "spouseIds": [
-        "11999429-e764-4ed2-9c8c-cf95cfbbdecc"
+        "11999429-e764-4ed2-9c8c-cf95cfbbdecc",
+        "282ca949-3e4e-460c-b438-2c40887812e4"
       ],
       "partnerIds": [],
       "childIds": [
         "d539abe5-c27d-4b1a-a3b3-e16d93ce2344",
-        "0a5b30a1-051e-41ea-a10a-1c37ce523603"
+        "0a5b30a1-051e-41ea-a10a-1c37ce523603",
+        "5e955633-278a-4885-9d19-41012011016c"
       ]
     },
     "events": [
@@ -4648,8 +4652,8 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/Cnut_the_Great",
     "sourceNote": "Son of Sweyn Forkbeard; ruler of the North Sea Empire.",
     "notes": "Full North Sea Empire anchor card. Harold Harefoot and Harthacnut are represented in the roster; their mothers are intentionally not both modeled.",
-    "createdDate": "260818",
-    "createdOrder": 148
+    "createdDate": "20260817",
+    "createdOrder": 42
   },
   {
     "id": "d539abe5-c27d-4b1a-a3b3-e16d93ce2344",
@@ -4696,7 +4700,7 @@
     "historicalRating": 6,
     "relationships": {
       "fatherId": "0fb64530-ea06-47ec-9570-6166155b53ba",
-      "motherId": "",
+      "motherId": "282ca949-3e4e-460c-b438-2c40887812e4",
       "spouseIds": [],
       "partnerIds": [],
       "childIds": []
@@ -4707,8 +4711,16 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/Harold_Harefoot",
     "sourceNote": "Son of Cnut and Ælfgifu of Northampton; ruled England from 1037 to 1040.",
     "notes": "Basic North Sea Empire succession card; his mother is not yet in the roster.",
-    "createdDate": "260818",
-    "createdOrder": 150
+    "createdDate": "20260817",
+    "createdOrder": 44,
+    "deathCause": {
+      "kind": "uncertain",
+      "summary": "Died young, cause uncertain",
+      "summaryCn": "早逝，死因不明",
+      "detail": "Harold Harefoot died in 1040 at Oxford; the cause is uncertain, with illness and murder both suggested in the sources.",
+      "detailCn": "1040 年，野兔脚哈罗德在牛津去世，死因不明，史料中有病故与被害两种说法。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Harold_Harefoot"
+    }
   },
   {
     "id": "0a5b30a1-051e-41ea-a10a-1c37ce523603",
@@ -4779,8 +4791,8 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/Harthacnut",
     "sourceNote": "Son of Cnut and Emma; king of Denmark and England, succeeded in England by Edward the Confessor.",
     "notes": "Basic North Sea Empire succession card.",
-    "createdDate": "260818",
-    "createdOrder": 151
+    "createdDate": "20260817",
+    "createdOrder": 45
   },
   {
     "id": "8da6a92d-40c5-47c0-8c42-9858db5cf61d",
@@ -4837,8 +4849,16 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/Stephen,_King_of_England",
     "sourceNote": "King during the Anarchy; succeeded by Henry II under the Treaty of Wallingford.",
     "notes": "Basic main-line succession card. His parent generation is outside the current roster.",
-    "createdDate": "260818",
-    "createdOrder": 152
+    "createdDate": "20260817",
+    "createdOrder": 46,
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died of stomach illness at Dover",
+      "summaryCn": "在多佛尔因胃疾去世",
+      "detail": "Stephen died in 1154 at Dover, reportedly of a stomach complaint, and was succeeded by Henry II under the Treaty of Wallingford.",
+      "detailCn": "1154 年，斯蒂芬在多佛尔因胃疾去世，依《沃灵福德条约》由亨利二世继位。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Stephen,_King_of_England"
+    }
   },
   {
     "id": "62f8458b-9497-45fd-8ccc-7930f38c7ae8",
@@ -4903,8 +4923,8 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/Richard_III_of_England",
     "sourceNote": "Younger brother of Edward IV; last Plantagenet king of England.",
     "notes": "Basic main-line succession card.",
-    "createdDate": "260818",
-    "createdOrder": 153
+    "createdDate": "20260817",
+    "createdOrder": 47
   },
   {
     "id": "b9454199-88cf-4506-af5b-c5fa13282c19",
@@ -4966,8 +4986,8 @@
     "sourceNote": "Margrave of Friuli of the Unruoching dynasty; not a direct Carolingian. Birth year is uncertain (traditionally c. 845).",
     "notes": "Margrave of Friuli who became king of Italy after the deposition of Charles the Fat, and Emperor from 915. His reign was a long contest for Italy; he was assassinated in 924.",
     "historicalRating": 6,
-    "createdDate": "20260819",
-    "createdOrder": 143,
+    "createdDate": "20260818",
+    "createdOrder": 15,
     "events": [
       {
         "year": 845,
@@ -5018,7 +5038,17 @@
         "labelCn": "在维罗纳被刺杀",
         "wikiUrl": "https://en.wikipedia.org/wiki/Berengar_I_of_Italy"
       }
-    ]
+    ],
+    "deathCause": {
+      "kind": "violent",
+      "summary": "Assassinated at Verona",
+      "summaryCn": "在维罗纳被刺杀",
+      "detail": "Berengar I was murdered in 924 at Verona, reportedly by one of his own followers.",
+      "detailCn": "924 年，贝伦加尔一世在维罗纳被刺杀，据称凶手是其一名亲随。",
+      "culprit": "Flambert, one of his followers",
+      "culpritCn": "其亲随弗拉姆贝特",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Berengar_I_of_Italy"
+    }
   },
   {
     "id": "6bec1a5d-e19f-43eb-a2c6-b8f6d223a9a5",
@@ -5067,7 +5097,7 @@
     "rank": "king",
     "importanceScore": 62,
     "relationships": {
-      "fatherId": "",
+      "fatherId": "dd399b70-7bdf-4583-8c5d-a8db2b8b9bdc",
       "motherId": "",
       "spouseIds": [],
       "partnerIds": [],
@@ -5079,8 +5109,8 @@
     "sourceNote": "Robertian; son of Robert the Strong (not in roster) and elder brother of Robert I of France. Birth year is uncertain (traditionally c. 857).",
     "notes": "Count of Paris of the Robertian dynasty; celebrated for the defence of Paris against the Vikings, he was elected king of West Francia in 888 — the first non-Carolingian to hold it.",
     "historicalRating": 6,
-    "createdDate": "20260819",
-    "createdOrder": 146,
+    "createdDate": "20260818",
+    "createdOrder": 18,
     "events": [
       {
         "year": 857,
@@ -5130,7 +5160,15 @@
         "labelCn": "在拉费尔去世",
         "wikiUrl": "https://en.wikipedia.org/wiki/Odo_of_France"
       }
-    ]
+    ],
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died of illness at La Fère",
+      "summaryCn": "在拉费尔因病去世",
+      "detail": "Odo of Paris died in 898 at La Fère after a winter campaign; the cause is usually given as illness.",
+      "detailCn": "898 年，巴黎的厄德在一次冬季战事后于拉费尔去世，通常记为因病而亡。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Odo_of_France"
+    }
   },
   {
     "id": "1894e7be-c18e-4182-9bca-927c9cbfa333",
@@ -5179,7 +5217,7 @@
     "rank": "king",
     "importanceScore": 62,
     "relationships": {
-      "fatherId": "",
+      "fatherId": "dd399b70-7bdf-4583-8c5d-a8db2b8b9bdc",
       "motherId": "",
       "spouseIds": [],
       "partnerIds": [],
@@ -5193,8 +5231,8 @@
     "sourceNote": "Robertian; son of Robert the Strong (not in roster) and younger brother of Odo of Paris. Father of Hugh the Great (in roster). Birth year is uncertain (traditionally c. 866).",
     "notes": "Younger brother of Odo of Paris; elected king of West Francia in 922 in opposition to Charles the Simple, and killed the following year at Soissons. Father of Hugh the Great.",
     "historicalRating": 6,
-    "createdDate": "20260819",
-    "createdOrder": 147,
+    "createdDate": "20260818",
+    "createdOrder": 19,
     "events": [
       {
         "year": 866,
@@ -5233,7 +5271,17 @@
         "labelCn": "苏瓦松之战阵亡",
         "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Soissons_(923)"
       }
-    ]
+    ],
+    "deathCause": {
+      "kind": "violent",
+      "summary": "Killed at the Battle of Soissons",
+      "summaryCn": "苏瓦松之战阵亡",
+      "detail": "Robert I was killed in 923 at the Battle of Soissons, fighting against the forces of Charles the Simple.",
+      "detailCn": "923 年，罗贝尔一世在苏瓦松之战中与天真者查理的军队交战时阵亡。",
+      "culprit": "Forces of Charles the Simple",
+      "culpritCn": "天真者查理的军队",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Robert_I_of_France"
+    }
   },
   {
     "id": "e51174bf-d6a5-4358-acf3-516bdcd2897b",
@@ -5294,8 +5342,8 @@
     "sourceNote": "Bosonid (Bivinid) duke of Burgundy; married Emma, daughter of Robert I (neither in roster). Birth year is uncertain (traditionally c. 890).",
     "notes": "Duke of Burgundy of the Bosonid dynasty; elected king of West Francia in 923 after Robert I's death, reigning as a transitional figure between the Carolingians and the Capetians.",
     "historicalRating": 5,
-    "createdDate": "20260819",
-    "createdOrder": 148,
+    "createdDate": "20260818",
+    "createdOrder": 20,
     "events": [
       {
         "year": 890,
@@ -5331,6 +5379,2421 @@
         "label": "Died at Auxerre",
         "labelCn": "在欧塞尔去世",
         "wikiUrl": "https://en.wikipedia.org/wiki/Rudolph_of_France"
+      }
+    ],
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died of illness at Auxerre",
+      "summaryCn": "在欧塞尔因病去世",
+      "detail": "Rudolph of France died in 936 at Auxerre after falling ill during a campaign in Aquitaine.",
+      "detailCn": "936 年，法兰西的鲁道夫在阿基坦战事中染病，于欧塞尔去世。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Rudolph_of_France"
+    }
+  },
+  {
+    "id": "dd399b70-7bdf-4583-8c5d-a8db2b8b9bdc",
+    "firstName": "Robert",
+    "lastName": "",
+    "displayName": "Robert the Strong",
+    "fullName": "Robert the Strong",
+    "nickname": "the Strong",
+    "alsoKnownAs": [
+      "Robert the Strong",
+      "Robert le Fort"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "强者罗贝尔",
+    "fullNameCn": "强者罗贝尔",
+    "nicknameCn": "强者",
+    "birthYear": 830,
+    "deathYear": 866,
+    "birthPlace": "",
+    "deathPlace": "Brissarthe, West Francia",
+    "deathPlaceCn": "西法兰克布里萨尔泰",
+    "gender": "male",
+    "dynasty": "Robertian dynasty",
+    "house": "Robertian dynasty",
+    "culture": "Frankish",
+    "faith": "Catholic",
+    "primaryTitle": "Marquis of Neustria",
+    "primaryTitleCn": "纽斯特里亚侯爵",
+    "titles": [
+      {
+        "title": "Count of Anjou",
+        "startYear": 853,
+        "endYear": 866,
+        "titleCn": "安茹伯爵"
+      },
+      {
+        "title": "Marquis of Neustria",
+        "startYear": 861,
+        "endYear": 866,
+        "titleCn": "纽斯特里亚侯爵"
+      }
+    ],
+    "tags": [
+      "noble"
+    ],
+    "rank": "noble",
+    "importanceScore": 60,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "6bec1a5d-e19f-43eb-a2c6-b8f6d223a9a5",
+        "1894e7be-c18e-4182-9bca-927c9cbfa333"
+      ]
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Robert_the_Strong",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Robert_the_Strong",
+    "sourceNote": "Wife Adelaide of Tours and father Robert III of Worms are not yet in the roster. Birth year is uncertain (traditionally c. 830).",
+    "notes": "Founder of the Robertian line and Marquis of Neustria, the most powerful Frankish magnate of his day. Ancestor of the Capetian kings through his sons Odo and Robert I.",
+    "historicalRating": 6,
+    "createdDate": "20260818",
+    "createdOrder": 21,
+    "deathCause": {
+      "kind": "violent",
+      "summary": "Killed at Brissarthe",
+      "summaryCn": "在布里萨尔泰阵亡",
+      "detail": "Robert the Strong was killed on 15 September 866 at the Battle of Brissarthe while fighting a Viking raid.",
+      "detailCn": "866 年 9 月 15 日，强者罗贝尔在布里萨尔泰之战中抗击维京人时阵亡。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Robert_the_Strong"
+    },
+    "events": [
+      {
+        "year": 830,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 60,
+        "label": "Born, of the Robertian family",
+        "labelCn": "出生，罗贝尔家族",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Robert_the_Strong",
+        "note": "Birth year uncertain, traditionally c. 830."
+      },
+      {
+        "year": 861,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "noble"
+        ],
+        "weight": 74,
+        "label": "Made Marquis of Neustria",
+        "labelCn": "受封纽斯特里亚侯爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Robert_the_Strong"
+      },
+      {
+        "year": 866,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "defense",
+          "death"
+        ],
+        "weight": 90,
+        "label": "Killed at the Battle of Brissarthe",
+        "labelCn": "布里萨尔泰之战阵亡",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Robert_the_Strong"
+      }
+    ]
+  },
+  {
+    "id": "c89b7f1b-b6d2-4681-9eba-4cd9ffffab47",
+    "firstName": "Philip",
+    "lastName": "",
+    "displayName": "Philip VI",
+    "fullName": "Philip VI of France",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Philip VI",
+      "Philippe VI de Valois"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "腓力六世",
+    "fullNameCn": "腓力六世",
+    "birthYear": 1293,
+    "deathYear": 1350,
+    "birthPlace": "",
+    "deathPlace": "Nogent-le-Roi, France",
+    "deathPlaceCn": "法国诺让勒鲁瓦",
+    "gender": "male",
+    "dynasty": "House of Valois",
+    "house": "House of Valois",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "King of France",
+    "primaryTitleCn": "法兰西国王",
+    "titles": [
+      {
+        "title": "King of France",
+        "startYear": 1328,
+        "endYear": 1350,
+        "titleCn": "法兰西国王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 74,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "26ef769b-f149-4b30-b5b6-13efecbbf59b"
+      ]
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Philip_VI_of_France",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Philip_VI_of_France",
+    "sourceNote": "Father Charles, Count of Valois, is not yet in the roster.",
+    "notes": "First king of the House of Valois. His succession after the last direct Capetian was disputed by Edward III of England, beginning the Hundred Years' War.",
+    "historicalRating": 7,
+    "createdDate": "20260818",
+    "createdOrder": 22,
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died of illness",
+      "summaryCn": "因病去世",
+      "detail": "Philip VI died in 1350 at Nogent-le-Roi after a short illness.",
+      "detailCn": "1350 年，腓力六世在诺让勒鲁瓦因病去世。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Philip_VI_of_France"
+    },
+    "events": [
+      {
+        "year": 1293,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 60,
+        "label": "Born, son of Charles of Valois",
+        "labelCn": "出生，瓦卢瓦的查理之子",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Philip_VI_of_France"
+      },
+      {
+        "year": 1328,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "monarch"
+        ],
+        "weight": 86,
+        "label": "Became the first Valois king",
+        "labelCn": "成为首位瓦卢瓦国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Philip_VI_of_France",
+        "note": "Chosen after Charles IV died without a male heir."
+      },
+      {
+        "year": 1337,
+        "type": "political_crisis",
+        "tags": [
+          "political_crisis",
+          "succession"
+        ],
+        "weight": 84,
+        "label": "Hundred Years' War began",
+        "labelCn": "百年战争爆发",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Hundred_Years%27_War",
+        "note": "Edward III of England claimed the French throne."
+      },
+      {
+        "year": 1346,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "defeat"
+        ],
+        "weight": 82,
+        "label": "Battle of Crécy",
+        "labelCn": "克雷西之战",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Cr%C3%A9cy",
+        "note": "A crushing defeat by Edward III's army."
+      },
+      {
+        "year": 1350,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 95,
+        "label": "Died at Nogent-le-Roi",
+        "labelCn": "在诺让勒鲁瓦去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Philip_VI_of_France"
+      }
+    ]
+  },
+  {
+    "id": "26ef769b-f149-4b30-b5b6-13efecbbf59b",
+    "firstName": "John",
+    "lastName": "",
+    "displayName": "John II",
+    "fullName": "John II of France",
+    "nickname": "the Good",
+    "alsoKnownAs": [
+      "John II",
+      "Jean II le Bon"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "约翰二世",
+    "fullNameCn": "约翰二世",
+    "nicknameCn": "好人",
+    "birthYear": 1319,
+    "deathYear": 1364,
+    "birthPlace": "Le Mans, France",
+    "birthPlaceCn": "法国勒芒",
+    "deathPlace": "London, England",
+    "deathPlaceCn": "英格兰伦敦",
+    "gender": "male",
+    "dynasty": "House of Valois",
+    "house": "House of Valois",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "King of France",
+    "primaryTitleCn": "法兰西国王",
+    "titles": [
+      {
+        "title": "King of France",
+        "startYear": 1350,
+        "endYear": 1364,
+        "titleCn": "法兰西国王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 72,
+    "relationships": {
+      "fatherId": "c89b7f1b-b6d2-4681-9eba-4cd9ffffab47",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "04c2ad7c-d296-4338-af7c-05fd1d730cfe"
+      ]
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/John_II_of_France",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/John_II_of_France",
+    "sourceNote": "Wife Bonne of Bohemia is not yet in the roster.",
+    "notes": "King of France during the early Hundred Years' War; captured at Poitiers and ransomed by the Treaty of Brétigny. Returned to England as a hostage and died there.",
+    "historicalRating": 7,
+    "createdDate": "20260818",
+    "createdOrder": 23,
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died in captivity in London",
+      "summaryCn": "在伦敦囚禁中去世",
+      "detail": "John II returned to England as a hostage in 1364 and died in London that same year.",
+      "detailCn": "1364 年，约翰二世作为人质返回英格兰，同年死于伦敦。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/John_II_of_France"
+    },
+    "events": [
+      {
+        "year": 1319,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 60,
+        "label": "Born, son of Philip VI",
+        "labelCn": "出生，腓力六世之子",
+        "wikiUrl": "https://en.wikipedia.org/wiki/John_II_of_France"
+      },
+      {
+        "year": 1350,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Succeeded his father Philip VI",
+        "labelCn": "继承父亲腓力六世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/John_II_of_France"
+      },
+      {
+        "year": 1356,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "defeat",
+          "imprisonment"
+        ],
+        "weight": 86,
+        "label": "Captured at the Battle of Poitiers",
+        "labelCn": "普瓦捷之战被俘",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Poitiers",
+        "note": "Taken prisoner by the Black Prince."
+      },
+      {
+        "year": 1360,
+        "type": "treaty",
+        "tags": [
+          "treaty",
+          "territory"
+        ],
+        "weight": 78,
+        "label": "Ransomed by the Treaty of Brétigny",
+        "labelCn": "依《布雷蒂尼条约》获赎",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Treaty_of_Br%C3%A9tigny"
+      },
+      {
+        "year": 1364,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 95,
+        "label": "Died in London as a hostage",
+        "labelCn": "作为人质死于伦敦",
+        "wikiUrl": "https://en.wikipedia.org/wiki/John_II_of_France"
+      }
+    ]
+  },
+  {
+    "id": "04c2ad7c-d296-4338-af7c-05fd1d730cfe",
+    "firstName": "Charles",
+    "lastName": "",
+    "displayName": "Charles V",
+    "fullName": "Charles V of France",
+    "nickname": "the Wise",
+    "alsoKnownAs": [
+      "Charles V",
+      "Charles le Sage"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "查理五世",
+    "fullNameCn": "查理五世",
+    "nicknameCn": "贤明者",
+    "birthYear": 1338,
+    "deathYear": 1380,
+    "birthPlace": "Vincennes, France",
+    "birthPlaceCn": "法国万塞讷",
+    "deathPlace": "Beauté-sur-Marne, France",
+    "deathPlaceCn": "法国博泰叙马恩",
+    "gender": "male",
+    "dynasty": "House of Valois",
+    "house": "House of Valois",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "King of France",
+    "primaryTitleCn": "法兰西国王",
+    "titles": [
+      {
+        "title": "King of France",
+        "startYear": 1364,
+        "endYear": 1380,
+        "titleCn": "法兰西国王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 80,
+    "relationships": {
+      "fatherId": "26ef769b-f149-4b30-b5b6-13efecbbf59b",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "084fdbfa-b040-4629-98f4-5af678d317db"
+      ]
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Charles_V_of_France",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Charles_V_of_France",
+    "sourceNote": "Wife Jeanne de Bourbon is not yet in the roster.",
+    "notes": "Called the Wise; regent during his father's captivity, he recovered much French territory from the English under Bertrand du Guesclin and founded the royal library.",
+    "historicalRating": 8,
+    "createdDate": "20260818",
+    "createdOrder": 24,
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died of illness",
+      "summaryCn": "因病去世",
+      "detail": "Charles V died in 1380 at Beauté-sur-Marne after a long decline in health.",
+      "detailCn": "1380 年，查理五世在博泰叙马恩因长期病弱去世。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Charles_V_of_France"
+    },
+    "events": [
+      {
+        "year": 1338,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 60,
+        "label": "Born, son of John II",
+        "labelCn": "出生，约翰二世之子",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Charles_V_of_France"
+      },
+      {
+        "year": 1356,
+        "type": "government",
+        "tags": [
+          "government",
+          "regency"
+        ],
+        "weight": 78,
+        "label": "Regent during his father's captivity",
+        "labelCn": "父亲被俘期间摄政",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Charles_V_of_France"
+      },
+      {
+        "year": 1364,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "monarch"
+        ],
+        "weight": 82,
+        "label": "Succeeded his father John II",
+        "labelCn": "继承父亲约翰二世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Charles_V_of_France"
+      },
+      {
+        "year": 1369,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "territory"
+        ],
+        "weight": 84,
+        "label": "Recovered territory under du Guesclin",
+        "labelCn": "在盖克兰指挥下收复失地",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Charles_V_of_France"
+      },
+      {
+        "year": 1373,
+        "type": "government",
+        "tags": [
+          "government",
+          "law"
+        ],
+        "weight": 70,
+        "label": "Founded the royal library at the Louvre",
+        "labelCn": "在卢浮宫设立王室图书馆",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Charles_V_of_France"
+      },
+      {
+        "year": 1380,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 95,
+        "label": "Died at Beauté-sur-Marne",
+        "labelCn": "在博泰叙马恩去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Charles_V_of_France"
+      }
+    ]
+  },
+  {
+    "id": "084fdbfa-b040-4629-98f4-5af678d317db",
+    "firstName": "Charles",
+    "lastName": "",
+    "displayName": "Charles VI",
+    "fullName": "Charles VI of France",
+    "nickname": "the Mad",
+    "alsoKnownAs": [
+      "Charles VI",
+      "Charles le Fou"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "查理六世",
+    "fullNameCn": "查理六世",
+    "nicknameCn": "疯子",
+    "birthYear": 1368,
+    "deathYear": 1422,
+    "birthPlace": "Paris, France",
+    "birthPlaceCn": "法国巴黎",
+    "deathPlace": "Paris, France",
+    "deathPlaceCn": "法国巴黎",
+    "gender": "male",
+    "dynasty": "House of Valois",
+    "house": "House of Valois",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "King of France",
+    "primaryTitleCn": "法兰西国王",
+    "titles": [
+      {
+        "title": "King of France",
+        "startYear": 1380,
+        "endYear": 1422,
+        "titleCn": "法兰西国王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 74,
+    "relationships": {
+      "fatherId": "04c2ad7c-d296-4338-af7c-05fd1d730cfe",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "4482439c-eae6-4ec6-885a-ac48721ec552",
+        "13bf8c44-3cf2-45e5-9d97-47c1e912c094"
+      ]
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Charles_VI_of_France",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Charles_VI_of_France",
+    "sourceNote": "Wife Isabeau of Bavaria is not yet in the roster.",
+    "notes": "Called the Mad; his recurring insanity led to civil war between the Armagnacs and Burgundians, and to the Treaty of Troyes that disinherited his son.",
+    "historicalRating": 7,
+    "createdDate": "20260818",
+    "createdOrder": 25,
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died after a long reign of illness",
+      "summaryCn": "长期病弱后去世",
+      "detail": "Charles VI died in 1422 at Paris after years of recurring mental illness.",
+      "detailCn": "1422 年，查理六世在巴黎去世，此前多年饱受间歇性精神疾病困扰。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Charles_VI_of_France"
+    },
+    "events": [
+      {
+        "year": 1368,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 60,
+        "label": "Born, son of Charles V",
+        "labelCn": "出生，查理五世之子",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Charles_VI_of_France"
+      },
+      {
+        "year": 1380,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Succeeded his father Charles V",
+        "labelCn": "继承父亲查理五世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Charles_VI_of_France"
+      },
+      {
+        "year": 1392,
+        "type": "political_crisis",
+        "tags": [
+          "political_crisis"
+        ],
+        "weight": 80,
+        "label": "First onset of madness",
+        "labelCn": "首次发作精神失常",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Charles_VI_of_France"
+      },
+      {
+        "year": 1415,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "defeat"
+        ],
+        "weight": 84,
+        "label": "Battle of Agincourt",
+        "labelCn": "阿金库尔之战",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Agincourt",
+        "note": "A devastating defeat by Henry V of England."
+      },
+      {
+        "year": 1420,
+        "type": "treaty",
+        "tags": [
+          "treaty",
+          "succession"
+        ],
+        "weight": 82,
+        "label": "Treaty of Troyes — disinherited his son",
+        "labelCn": "《特鲁瓦条约》——废黜其子继承权",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Treaty_of_Troyes",
+        "note": "Recognized Henry V as heir to the French throne."
+      },
+      {
+        "year": 1422,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 95,
+        "label": "Died at Paris",
+        "labelCn": "在巴黎去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Charles_VI_of_France"
+      }
+    ]
+  },
+  {
+    "id": "4482439c-eae6-4ec6-885a-ac48721ec552",
+    "firstName": "Charles",
+    "lastName": "",
+    "displayName": "Charles VII",
+    "fullName": "Charles VII of France",
+    "nickname": "the Victorious",
+    "alsoKnownAs": [
+      "Charles VII",
+      "Charles le Victorieux"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "查理七世",
+    "fullNameCn": "查理七世",
+    "nicknameCn": "胜利者",
+    "birthYear": 1403,
+    "deathYear": 1461,
+    "birthPlace": "Paris, France",
+    "birthPlaceCn": "法国巴黎",
+    "deathPlace": "Mehun-sur-Yèvre, France",
+    "deathPlaceCn": "法国默安叙耶夫尔",
+    "gender": "male",
+    "dynasty": "House of Valois",
+    "house": "House of Valois",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "King of France",
+    "primaryTitleCn": "法兰西国王",
+    "titles": [
+      {
+        "title": "King of France",
+        "startYear": 1422,
+        "endYear": 1461,
+        "titleCn": "法兰西国王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 80,
+    "relationships": {
+      "fatherId": "084fdbfa-b040-4629-98f4-5af678d317db",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "896ab071-dc40-43ec-b961-a1ca40574102"
+      ]
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Charles_VII_of_France",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Charles_VII_of_France",
+    "sourceNote": "Wife Marie of Anjou is not yet in the roster.",
+    "notes": "Called the Victorious; with the help of Joan of Arc he was crowned at Reims and drove the English from France, ending the Hundred Years' War.",
+    "historicalRating": 8,
+    "createdDate": "20260818",
+    "createdOrder": 26,
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died at Mehun-sur-Yèvre",
+      "summaryCn": "在默安叙耶夫尔去世",
+      "detail": "Charles VII died in 1461 at Mehun-sur-Yèvre; tradition holds he refused food in his final illness for fear of poisoning.",
+      "detailCn": "1461 年，查理七世在默安叙耶夫尔去世；传说他临终因怕被下毒而拒食。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Charles_VII_of_France"
+    },
+    "events": [
+      {
+        "year": 1403,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 60,
+        "label": "Born, son of Charles VI",
+        "labelCn": "出生，查理六世之子",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Charles_VII_of_France"
+      },
+      {
+        "year": 1422,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "monarch"
+        ],
+        "weight": 82,
+        "label": "Claimed the throne after Charles VI's death",
+        "labelCn": "查理六世去世后继位",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Charles_VII_of_France"
+      },
+      {
+        "year": 1429,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "conquest"
+        ],
+        "weight": 86,
+        "label": "Relief of Orléans with Joan of Arc",
+        "labelCn": "在贞德相助下解奥尔良之围",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Siege_of_Orl%C3%A9ans"
+      },
+      {
+        "year": 1429,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch",
+          "church"
+        ],
+        "weight": 88,
+        "label": "Crowned at Reims",
+        "labelCn": "在兰斯加冕",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Charles_VII_of_France"
+      },
+      {
+        "year": 1453,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "territory"
+        ],
+        "weight": 86,
+        "label": "End of the Hundred Years' War",
+        "labelCn": "百年战争结束",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Hundred_Years%27_War"
+      },
+      {
+        "year": 1461,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 95,
+        "label": "Died at Mehun-sur-Yèvre",
+        "labelCn": "在默安叙耶夫尔去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Charles_VII_of_France"
+      }
+    ]
+  },
+  {
+    "id": "896ab071-dc40-43ec-b961-a1ca40574102",
+    "firstName": "Louis",
+    "lastName": "",
+    "displayName": "Louis XI",
+    "fullName": "Louis XI of France",
+    "nickname": "the Prudent",
+    "alsoKnownAs": [
+      "Louis XI",
+      "Louis the Prudent",
+      "the Universal Spider"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "路易十一世",
+    "fullNameCn": "路易十一世",
+    "nicknameCn": "谨慎者",
+    "birthYear": 1423,
+    "deathYear": 1483,
+    "birthPlace": "Bourges, France",
+    "birthPlaceCn": "法国布尔日",
+    "deathPlace": "Plessis-lès-Tours, France",
+    "deathPlaceCn": "法国普莱西莱图尔",
+    "gender": "male",
+    "dynasty": "House of Valois",
+    "house": "House of Valois",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "King of France",
+    "primaryTitleCn": "法兰西国王",
+    "titles": [
+      {
+        "title": "King of France",
+        "startYear": 1461,
+        "endYear": 1483,
+        "titleCn": "法兰西国王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 80,
+    "relationships": {
+      "fatherId": "4482439c-eae6-4ec6-885a-ac48721ec552",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Louis_XI",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Louis_XI",
+    "sourceNote": "Wife Charlotte of Savoy and son Charles VIII are not yet in the roster.",
+    "notes": "Called the Universal Spider for his web of diplomacy; he defeated Charles the Bold and annexed Burgundy, greatly strengthening the French crown.",
+    "historicalRating": 8,
+    "createdDate": "20260818",
+    "createdOrder": 27,
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died after a series of strokes",
+      "summaryCn": "数次中风后去世",
+      "detail": "Louis XI died in 1483 at Plessis-lès-Tours after a series of strokes.",
+      "detailCn": "1483 年，路易十一世在普莱西莱图尔数次中风后去世。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Louis_XI"
+    },
+    "events": [
+      {
+        "year": 1423,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 60,
+        "label": "Born, son of Charles VII",
+        "labelCn": "出生，查理七世之子",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Louis_XI"
+      },
+      {
+        "year": 1461,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "monarch"
+        ],
+        "weight": 82,
+        "label": "Succeeded his father Charles VII",
+        "labelCn": "继承父亲查理七世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Louis_XI"
+      },
+      {
+        "year": 1465,
+        "type": "political_crisis",
+        "tags": [
+          "political_crisis",
+          "rebellion"
+        ],
+        "weight": 78,
+        "label": "War of the Public Weal",
+        "labelCn": "公益同盟战争",
+        "wikiUrl": "https://en.wikipedia.org/wiki/War_of_the_Public_Weal",
+        "note": "Faced a league of nobles led by Charles the Bold."
+      },
+      {
+        "year": 1475,
+        "type": "treaty",
+        "tags": [
+          "treaty"
+        ],
+        "weight": 74,
+        "label": "Treaty of Picquigny",
+        "labelCn": "皮基尼条约",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Treaty_of_Picquigny",
+        "note": "Ended hostilities with Edward IV of England."
+      },
+      {
+        "year": 1477,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "conquest",
+          "territory"
+        ],
+        "weight": 84,
+        "label": "Annexed Burgundy after Charles the Bold's death",
+        "labelCn": "查理大胆死后吞并勃艮第",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Louis_XI"
+      },
+      {
+        "year": 1483,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 95,
+        "label": "Died at Plessis-lès-Tours",
+        "labelCn": "在普莱西莱图尔去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Louis_XI"
+      }
+    ]
+  },
+  {
+    "id": "75962d8f-fcb5-4eb5-8b8c-46271504a66d",
+    "firstName": "Eleanor",
+    "lastName": "",
+    "displayName": "Eleanor of Provence",
+    "fullName": "Eleanor of Provence",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Eleanor of Provence"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "普罗旺斯的埃莉诺",
+    "fullNameCn": "普罗旺斯的埃莉诺",
+    "birthYear": 1223,
+    "deathYear": 1291,
+    "birthPlace": "Aix-en-Provence, Provence",
+    "birthPlaceCn": "普罗旺斯艾克斯",
+    "deathPlace": "Amesbury, England",
+    "deathPlaceCn": "英格兰埃姆斯伯里",
+    "gender": "female",
+    "dynasty": "House of Barcelona",
+    "house": "House of Barcelona",
+    "culture": "Occitan",
+    "faith": "Catholic",
+    "primaryTitle": "Queen consort of England",
+    "primaryTitleCn": "英格兰王后",
+    "titles": [
+      {
+        "title": "Queen consort of England",
+        "startYear": 1236,
+        "endYear": 1272,
+        "titleCn": "英格兰王后"
+      }
+    ],
+    "tags": [
+      "queen",
+      "consort"
+    ],
+    "rank": "queen",
+    "importanceScore": 62,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "eaec18d2-b486-457f-9336-ab403f1586ca"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "f58b655d-8403-4f6d-9d5d-ecffaeaa0b0e"
+      ]
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Eleanor_of_Provence",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Eleanor_of_Provence",
+    "sourceNote": "Father Ramon Berenguer IV of Provence is not yet in the roster. Birth year is uncertain (traditionally 1223).",
+    "notes": "Queen consort of Henry III of England and mother of Edward I. Her Provençal and Savoyard relatives became influential at the English court.",
+    "historicalRating": 6,
+    "createdDate": "20260818",
+    "createdOrder": 30,
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died at Amesbury",
+      "summaryCn": "在埃姆斯伯里去世",
+      "detail": "Eleanor of Provence died in 1291 at Amesbury Priory, where she had retired.",
+      "detailCn": "1291 年，普罗旺斯的埃莉诺在隐退地埃姆斯伯里修道院去世。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Eleanor_of_Provence"
+    },
+    "events": [
+      {
+        "year": 1223,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 60,
+        "label": "Born in Provence",
+        "labelCn": "出生于普罗旺斯",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Eleanor_of_Provence",
+        "note": "Birth year uncertain, traditionally 1223."
+      },
+      {
+        "year": 1236,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 80,
+        "label": "Married Henry III of England",
+        "labelCn": "嫁给英格兰亨利三世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Eleanor_of_Provence"
+      },
+      {
+        "year": 1239,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 62,
+        "label": "Gave birth to the future Edward I",
+        "labelCn": "生下未来的爱德华一世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Eleanor_of_Provence"
+      },
+      {
+        "year": 1291,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 90,
+        "label": "Died at Amesbury",
+        "labelCn": "在埃姆斯伯里去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Eleanor_of_Provence"
+      }
+    ]
+  },
+  {
+    "id": "d2f6c728-92c2-49e8-98f0-8c9c78393a12",
+    "firstName": "Margaret",
+    "lastName": "",
+    "displayName": "Margaret of Anjou",
+    "fullName": "Margaret of Anjou",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Margaret of Anjou"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "安茹的玛格丽特",
+    "fullNameCn": "安茹的玛格丽特",
+    "birthYear": 1430,
+    "deathYear": 1482,
+    "birthPlace": "Pont-à-Mousson, Lorraine",
+    "birthPlaceCn": "洛林蓬塔穆松",
+    "deathPlace": "Dampierre-sur-Loire, France",
+    "deathPlaceCn": "法国当皮埃尔",
+    "gender": "female",
+    "dynasty": "House of Valois-Anjou",
+    "house": "House of Valois-Anjou",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Queen consort of England",
+    "primaryTitleCn": "英格兰王后",
+    "titles": [
+      {
+        "title": "Queen consort of England",
+        "startYear": 1445,
+        "endYear": 1471,
+        "titleCn": "英格兰王后"
+      }
+    ],
+    "tags": [
+      "queen",
+      "consort"
+    ],
+    "rank": "queen",
+    "importanceScore": 72,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "0a1a85b3-53e9-45fa-a90f-2b07d78191c4"
+      ],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Margaret_of_Anjou",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Margaret_of_Anjou",
+    "sourceNote": "Father René of Anjou and son Edward of Westminster are not yet in the roster.",
+    "notes": "Queen consort of Henry VI and a driving force of the Lancastrian cause in the Wars of the Roses. Her son Edward of Westminster died at Tewkesbury.",
+    "historicalRating": 7,
+    "createdDate": "20260818",
+    "createdOrder": 32,
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died in exile in France",
+      "summaryCn": "在法国流亡中去世",
+      "detail": "Margaret of Anjou died in 1482 at Dampierre-sur-Loire after years in exile following the Lancastrian defeat.",
+      "detailCn": "1482 年，兰开斯特败北后流亡多年的玛格丽特在当皮埃尔去世。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Margaret_of_Anjou"
+    },
+    "events": [
+      {
+        "year": 1430,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 60,
+        "label": "Born in Lorraine",
+        "labelCn": "出生于洛林",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Margaret_of_Anjou"
+      },
+      {
+        "year": 1445,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 80,
+        "label": "Married Henry VI of England",
+        "labelCn": "嫁给英格兰亨利六世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Margaret_of_Anjou"
+      },
+      {
+        "year": 1471,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "defeat"
+        ],
+        "weight": 82,
+        "label": "Lancastrian defeat at Tewkesbury",
+        "labelCn": "兰开斯特在蒂克斯伯里败北",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Tewkesbury",
+        "note": "Her son Edward of Westminster was killed."
+      },
+      {
+        "year": 1482,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 90,
+        "label": "Died in exile",
+        "labelCn": "流亡中去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Margaret_of_Anjou"
+      }
+    ]
+  },
+  {
+    "id": "13bf8c44-3cf2-45e5-9d97-47c1e912c094",
+    "firstName": "Catherine",
+    "lastName": "",
+    "displayName": "Catherine of Valois",
+    "fullName": "Catherine of Valois",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Catherine of Valois"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "瓦卢瓦的凯瑟琳",
+    "fullNameCn": "瓦卢瓦的凯瑟琳",
+    "birthYear": 1401,
+    "deathYear": 1437,
+    "birthPlace": "Paris, France",
+    "birthPlaceCn": "法国巴黎",
+    "deathPlace": "London, England",
+    "deathPlaceCn": "英格兰伦敦",
+    "gender": "female",
+    "dynasty": "House of Valois",
+    "house": "House of Valois",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Queen consort of England",
+    "primaryTitleCn": "英格兰王后",
+    "titles": [
+      {
+        "title": "Queen consort of England",
+        "startYear": 1420,
+        "endYear": 1422,
+        "titleCn": "英格兰王后"
+      }
+    ],
+    "tags": [
+      "queen",
+      "consort"
+    ],
+    "rank": "queen",
+    "importanceScore": 72,
+    "relationships": {
+      "fatherId": "084fdbfa-b040-4629-98f4-5af678d317db",
+      "motherId": "",
+      "spouseIds": [
+        "631cfa58-52bf-4273-b3b5-38ae2abed850"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "0a1a85b3-53e9-45fa-a90f-2b07d78191c4"
+      ]
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Catherine_of_Valois",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Catherine_of_Valois",
+    "sourceNote": "Father Charles VI of France is in the roster; second husband Owen Tudor is not.",
+    "notes": "Daughter of Charles VI and queen consort of Henry V, mother of Henry VI. After Henry V's death she married Owen Tudor, founding the Tudor dynasty's claim.",
+    "historicalRating": 7,
+    "createdDate": "20260818",
+    "createdOrder": 33,
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died at Bermondsey",
+      "summaryCn": "在伯蒙德西去世",
+      "detail": "Catherine of Valois died in 1437, shortly after childbirth, and was buried at Westminster Abbey.",
+      "detailCn": "1437 年，凯瑟琳产后不久去世，葬于威斯敏斯特教堂。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Catherine_of_Valois"
+    },
+    "events": [
+      {
+        "year": 1401,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 60,
+        "label": "Born, daughter of Charles VI",
+        "labelCn": "出生，查理六世之女",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Catherine_of_Valois"
+      },
+      {
+        "year": 1420,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance",
+          "treaty"
+        ],
+        "weight": 82,
+        "label": "Married Henry V after the Treaty of Troyes",
+        "labelCn": "依《特鲁瓦条约》嫁给亨利五世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Catherine_of_Valois"
+      },
+      {
+        "year": 1421,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 62,
+        "label": "Gave birth to the future Henry VI",
+        "labelCn": "生下未来的亨利六世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Catherine_of_Valois"
+      },
+      {
+        "year": 1437,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 90,
+        "label": "Died at Bermondsey",
+        "labelCn": "在伯蒙德西去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Catherine_of_Valois"
+      }
+    ]
+  },
+  {
+    "id": "ecd24389-ba7c-40f0-a0a4-4635da2e4385",
+    "firstName": "Philippa",
+    "lastName": "",
+    "displayName": "Philippa of Hainault",
+    "fullName": "Philippa of Hainault",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Philippa of Hainault"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "埃诺的菲利帕",
+    "fullNameCn": "埃诺的菲利帕",
+    "birthYear": 1310,
+    "deathYear": 1369,
+    "birthPlace": "Valenciennes, Hainault",
+    "birthPlaceCn": "埃诺瓦朗谢讷",
+    "deathPlace": "Windsor, England",
+    "deathPlaceCn": "英格兰温莎",
+    "gender": "female",
+    "dynasty": "House of Avesnes",
+    "house": "House of Avesnes",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Queen consort of England",
+    "primaryTitleCn": "英格兰王后",
+    "titles": [
+      {
+        "title": "Queen consort of England",
+        "startYear": 1328,
+        "endYear": 1369,
+        "titleCn": "英格兰王后"
+      }
+    ],
+    "tags": [
+      "queen",
+      "consort"
+    ],
+    "rank": "queen",
+    "importanceScore": 70,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "304dcda5-adf6-4a79-9147-ff8fd69301b5"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "dc177bb0-0adf-45da-937a-8bd55c29826e",
+        "99624b56-5c00-405f-83c3-d7ff73eb4bb9",
+        "638b81ae-0e2f-4ce8-b657-ca030206e668"
+      ]
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Philippa_of_Hainault",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Philippa_of_Hainault",
+    "sourceNote": "Father William I of Hainault is not yet in the roster; sons Edward the Black Prince and John of Gaunt are in the roster.",
+    "notes": "Queen consort of Edward III and mother of the Black Prince and John of Gaunt. Remembered for her gentleness and as a patron of the arts.",
+    "historicalRating": 7,
+    "createdDate": "20260818",
+    "createdOrder": 34,
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died at Windsor",
+      "summaryCn": "在温莎去世",
+      "detail": "Philippa of Hainault died in 1369 at Windsor Castle after a long illness.",
+      "detailCn": "1369 年，埃诺的菲利帕在温莎城堡久病后去世。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Philippa_of_Hainault"
+    },
+    "events": [
+      {
+        "year": 1310,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 60,
+        "label": "Born in Hainault",
+        "labelCn": "出生于埃诺",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Philippa_of_Hainault",
+        "note": "Birth year uncertain, traditionally 1310."
+      },
+      {
+        "year": 1328,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 80,
+        "label": "Married Edward III of England",
+        "labelCn": "嫁给英格兰爱德华三世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Philippa_of_Hainault"
+      },
+      {
+        "year": 1369,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 90,
+        "label": "Died at Windsor",
+        "labelCn": "在温莎去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Philippa_of_Hainault"
+      }
+    ]
+  },
+  {
+    "id": "ca7b3d35-0d29-4a9b-bf79-7d87046adaee",
+    "firstName": "Harald",
+    "lastName": "",
+    "displayName": "Harald Bluetooth",
+    "fullName": "Harald Bluetooth",
+    "nickname": "Bluetooth",
+    "alsoKnownAs": [
+      "Harald Bluetooth",
+      "Harald Gormsson"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "蓝牙哈拉尔",
+    "fullNameCn": "蓝牙哈拉尔",
+    "nicknameCn": "蓝牙",
+    "birthYear": 958,
+    "deathYear": 986,
+    "birthPlace": "Jelling, Denmark",
+    "birthPlaceCn": "丹麦耶灵",
+    "deathPlace": "Jomsborg, Denmark",
+    "deathPlaceCn": "丹麦约姆斯堡",
+    "gender": "male",
+    "dynasty": "House of Knýtlinga",
+    "house": "House of Knýtlinga",
+    "culture": "Danish",
+    "faith": "Catholic",
+    "primaryTitle": "King of Denmark",
+    "primaryTitleCn": "丹麦国王",
+    "titles": [
+      {
+        "title": "King of Denmark",
+        "startYear": 958,
+        "endYear": 986,
+        "titleCn": "丹麦国王"
+      },
+      {
+        "title": "King of Norway",
+        "startYear": 970,
+        "endYear": 986,
+        "titleCn": "挪威国王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 78,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "01da1402-5d85-4186-859a-34f8cb06182d"
+      ]
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Harald_Bluetooth",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Harald_Bluetooth",
+    "sourceNote": "Father Gorm the Old is not yet in the roster. Birth year is uncertain (traditionally c. 958).",
+    "notes": "King of Denmark and Norway who unified the Danes and converted them to Christianity, commemorated at the Jelling stones. Father of Sweyn Forkbeard.",
+    "historicalRating": 8,
+    "createdDate": "20260818",
+    "createdOrder": 36,
+    "deathCause": {
+      "kind": "violent",
+      "summary": "Killed in a rebellion",
+      "summaryCn": "在叛乱中被杀",
+      "detail": "Harald Bluetooth was killed in 986 during a rebellion, reportedly with the involvement of his son Sweyn Forkbeard.",
+      "detailCn": "986 年，蓝牙哈拉尔在一场叛乱中被杀，据称其子斯温八字胡亦有参与。",
+      "culprit": "reportedly Sweyn Forkbeard",
+      "culpritCn": "据称斯温八字胡",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Harald_Bluetooth"
+    },
+    "events": [
+      {
+        "year": 958,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 60,
+        "label": "Born, son of Gorm the Old",
+        "labelCn": "出生，老王高姆之子",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Harald_Bluetooth",
+        "note": "Birth year uncertain, traditionally c. 958."
+      },
+      {
+        "year": 965,
+        "type": "coronation",
+        "tags": [
+          "church",
+          "religion"
+        ],
+        "weight": 82,
+        "label": "Converted the Danes to Christianity",
+        "labelCn": "使丹麦人皈依基督教",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Harald_Bluetooth"
+      },
+      {
+        "year": 970,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "king"
+        ],
+        "weight": 78,
+        "label": "Became King of Norway",
+        "labelCn": "成为挪威国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Harald_Bluetooth"
+      },
+      {
+        "year": 986,
+        "type": "death",
+        "tags": [
+          "death",
+          "violent"
+        ],
+        "weight": 92,
+        "label": "Killed in a rebellion",
+        "labelCn": "在叛乱中被杀",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Harald_Bluetooth"
+      }
+    ]
+  },
+  {
+    "id": "282ca949-3e4e-460c-b438-2c40887812e4",
+    "firstName": "Ælfgifu",
+    "lastName": "",
+    "displayName": "Ælfgifu of Northampton",
+    "fullName": "Ælfgifu of Northampton",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Ælfgifu of Northampton",
+      "Ælfgifu"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "北安普顿的埃尔夫吉芙",
+    "fullNameCn": "北安普顿的埃尔夫吉芙",
+    "birthYear": 990,
+    "deathYear": 1040,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "female",
+    "dynasty": "",
+    "house": "",
+    "culture": "Anglo-Saxon",
+    "faith": "Catholic",
+    "primaryTitle": "Queen consort of England",
+    "primaryTitleCn": "英格兰王后",
+    "titles": [
+      {
+        "title": "Queen consort of England",
+        "startYear": 1016,
+        "endYear": 1035,
+        "titleCn": "英格兰王后"
+      }
+    ],
+    "tags": [
+      "queen",
+      "consort"
+    ],
+    "rank": "queen",
+    "importanceScore": 50,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "0fb64530-ea06-47ec-9570-6166155b53ba"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "5e955633-278a-4885-9d19-41012011016c",
+        "d539abe5-c27d-4b1a-a3b3-e16d93ce2344"
+      ]
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/%C3%86lfgifu_of_Northampton",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/%C3%86lfgifu_of_Northampton",
+    "sourceNote": "First wife of Cnut by Danish custom; mother of Harold Harefoot and Svein Knutsson. Birth and death years are uncertain.",
+    "notes": "First wife of Cnut the Great and mother of Harold Harefoot and Svein Knutsson. Distinguished from Emma of Normandy, Cnut's church-married second wife.",
+    "historicalRating": 5,
+    "createdDate": "20260818",
+    "createdOrder": 37,
+    "events": [
+      {
+        "year": 990,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 60,
+        "label": "Born in Northampton",
+        "labelCn": "出生于北安普顿",
+        "wikiUrl": "https://en.wikipedia.org/wiki/%C3%86lfgifu_of_Northampton",
+        "note": "Birth year uncertain."
+      },
+      {
+        "year": 1016,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 76,
+        "label": "Became Cnut's first wife",
+        "labelCn": "成为克努特的元配",
+        "wikiUrl": "https://en.wikipedia.org/wiki/%C3%86lfgifu_of_Northampton"
+      }
+    ]
+  },
+  {
+    "id": "5f92a3cf-4044-4892-8f05-d8959a80451d",
+    "firstName": "Gunnor",
+    "lastName": "",
+    "displayName": "Gunnor",
+    "fullName": "Gunnor, Duchess of Normandy",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Gunnor",
+      "Gunnora"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "贡诺尔",
+    "fullNameCn": "诺曼底公爵夫人贡诺尔",
+    "birthYear": 950,
+    "deathYear": 1031,
+    "birthPlace": "",
+    "deathPlace": "Normandy",
+    "deathPlaceCn": "诺曼底",
+    "gender": "female",
+    "dynasty": "",
+    "house": "",
+    "culture": "Norman",
+    "faith": "Catholic",
+    "primaryTitle": "Duchess of Normandy",
+    "primaryTitleCn": "诺曼底公爵夫人",
+    "titles": [
+      {
+        "title": "Duchess of Normandy",
+        "startYear": 989,
+        "endYear": 996,
+        "titleCn": "诺曼底公爵夫人"
+      }
+    ],
+    "tags": [
+      "duchess"
+    ],
+    "rank": "duchess",
+    "importanceScore": 48,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "f9226738-a160-482d-9fe8-dbf10b285845"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "0e597c77-dd0b-419c-9227-b56fb37e3b9d",
+        "11999429-e764-4ed2-9c8c-cf95cfbbdecc"
+      ]
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Gunnor",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Gunnor",
+    "sourceNote": "Wife of Richard I of Normandy and mother of Richard II and Emma of Normandy. Birth and death years are approximate.",
+    "notes": "Duchess consort of Normandy and mother of Richard II and of Emma, whose children included Edward the Confessor and Harthacnut.",
+    "historicalRating": 5,
+    "createdDate": "20260818",
+    "createdOrder": 38,
+    "events": [
+      {
+        "year": 989,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 72,
+        "label": "Married Richard I of Normandy",
+        "labelCn": "嫁给诺曼底的理查一世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Gunnor"
+      },
+      {
+        "year": 1031,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 88,
+        "label": "Died in Normandy",
+        "labelCn": "在诺曼底去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Gunnor",
+        "note": "Death year approximate."
+      }
+    ]
+  },
+  {
+    "id": "5e955633-278a-4885-9d19-41012011016c",
+    "firstName": "Svein",
+    "lastName": "",
+    "displayName": "Svein Knutsson",
+    "fullName": "Svein Knutsson",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Svein Knutsson",
+      "Sweyn Knutsson"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "斯韦恩·克努特松",
+    "fullNameCn": "斯韦恩·克努特松",
+    "birthYear": 1016,
+    "deathYear": 1035,
+    "birthPlace": "",
+    "deathPlace": "Denmark",
+    "deathPlaceCn": "丹麦",
+    "gender": "male",
+    "dynasty": "House of Knýtlinga",
+    "house": "House of Knýtlinga",
+    "culture": "Danish",
+    "faith": "Catholic",
+    "primaryTitle": "King of Norway",
+    "primaryTitleCn": "挪威国王",
+    "titles": [
+      {
+        "title": "King of Norway",
+        "startYear": 1030,
+        "endYear": 1035,
+        "titleCn": "挪威国王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 48,
+    "relationships": {
+      "fatherId": "0fb64530-ea06-47ec-9570-6166155b53ba",
+      "motherId": "282ca949-3e4e-460c-b438-2c40887812e4",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Sweyn_Knutsson",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Sweyn_Knutsson",
+    "sourceNote": "Son of Cnut the Great and Ælfgifu of Northampton, half-brother of Harold Harefoot and Harthacnut.",
+    "notes": "Son of Cnut by Ælfgifu of Northampton; king of Norway under his father's overlordship. Died young.",
+    "historicalRating": 5,
+    "createdDate": "20260818",
+    "createdOrder": 39,
+    "events": [
+      {
+        "year": 1016,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 60,
+        "label": "Born, son of Cnut and Ælfgifu",
+        "labelCn": "出生，克努特与埃尔夫吉芙之子",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Sweyn_Knutsson"
+      },
+      {
+        "year": 1030,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "king"
+        ],
+        "weight": 74,
+        "label": "Made King of Norway",
+        "labelCn": "受封挪威国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Sweyn_Knutsson"
+      },
+      {
+        "year": 1035,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 88,
+        "label": "Died young",
+        "labelCn": "早逝",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Sweyn_Knutsson"
+      }
+    ]
+  },
+  {
+    "id": "bb5c0007-6a34-4f57-9c04-3083e7f4e55f",
+    "firstName": "Gytha",
+    "lastName": "",
+    "displayName": "Gytha Thorkelsdóttir",
+    "fullName": "Gytha Thorkelsdóttir",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Gytha Thorkelsdóttir"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "吉萨·索凯尔斯多蒂尔",
+    "fullNameCn": "吉萨·索凯尔斯多蒂尔",
+    "birthYear": 1010,
+    "deathYear": 1069,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "female",
+    "dynasty": "",
+    "house": "",
+    "culture": "Danish",
+    "faith": "Catholic",
+    "primaryTitle": "Countess of Wessex",
+    "primaryTitleCn": "威塞克斯伯爵夫人",
+    "titles": [],
+    "tags": [
+      "noble"
+    ],
+    "rank": "noble",
+    "importanceScore": 46,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "acb44ca3-5936-4d3b-875a-0d485f5bcc70"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "131aba03-2d7b-4ae3-8d16-b7ebd660ce6c",
+        "6d1dc880-66a3-482b-a778-8b7b806279e8",
+        "ba8b72c0-cdd9-4159-a55d-8024992f47e0",
+        "4facdf80-aaca-4a58-8f2d-e28f2e9b5d5c",
+        "69975f97-57a1-4493-8a8d-a678fa8ceff3"
+      ]
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Gytha_Thorkelsd%C3%B3ttir",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Gytha_Thorkelsd%C3%B3ttir",
+    "sourceNote": "Wife of Godwin and mother of Harold II, Tostig, Gyrth, and Leofwine. Birth and death years are approximate.",
+    "notes": "Danish noblewoman, wife of Earl Godwin and mother of Harold II and his brothers; sister of Jarl Ulf of Denmark.",
+    "historicalRating": 5,
+    "createdDate": "20260818",
+    "createdOrder": 46,
+    "events": [
+      {
+        "year": 1020,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 72,
+        "label": "Married Earl Godwin",
+        "labelCn": "嫁给戈德温伯爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Gytha_Thorkelsd%C3%B3ttir",
+        "note": "Marriage year approximate."
+      }
+    ]
+  },
+  {
+    "id": "ae7c66de-7209-4aed-9d4d-75672ae5f3fa",
+    "firstName": "Isabella",
+    "lastName": "",
+    "displayName": "Isabella of Angoulême",
+    "fullName": "Isabella of Angoulême",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Isabella of Angoulême"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "昂古莱姆的伊莎贝尔",
+    "fullNameCn": "昂古莱姆的伊莎贝尔",
+    "birthYear": 1186,
+    "deathYear": 1246,
+    "birthPlace": "Angoulême, France",
+    "birthPlaceCn": "法国昂古莱姆",
+    "deathPlace": "Fontevraud, France",
+    "deathPlaceCn": "法国丰特夫罗",
+    "gender": "female",
+    "dynasty": "House of Taillefer",
+    "house": "House of Taillefer",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Queen consort of England",
+    "primaryTitleCn": "英格兰王后",
+    "titles": [
+      {
+        "title": "Queen consort of England",
+        "startYear": 1200,
+        "endYear": 1216,
+        "titleCn": "英格兰王后"
+      }
+    ],
+    "tags": [
+      "queen",
+      "consort"
+    ],
+    "rank": "queen",
+    "importanceScore": 58,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "6e154ae2-a354-40fc-bdc8-104ef378f743"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "eaec18d2-b486-457f-9336-ab403f1586ca"
+      ]
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Isabella_of_Angoul%C3%AAme",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Isabella_of_Angoul%C3%AAme",
+    "sourceNote": "Second husband Hugh X of Lusignan is not yet in the roster.",
+    "notes": "Queen consort of John and mother of Henry III. Her later marriage to Hugh X of Lusignan helped spark the Barons' Wars against her son.",
+    "historicalRating": 6,
+    "createdDate": "20260818",
+    "createdOrder": 48,
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died at Fontevraud",
+      "summaryCn": "在丰特夫罗去世",
+      "detail": "Isabella of Angoulême died in 1246 at Fontevraud Abbey.",
+      "detailCn": "1246 年，昂古莱姆的伊莎贝尔在丰特夫罗修道院去世。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Isabella_of_Angoul%C3%AAme"
+    },
+    "events": [
+      {
+        "year": 1200,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 80,
+        "label": "Married King John",
+        "labelCn": "嫁给约翰王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Isabella_of_Angoul%C3%AAme"
+      },
+      {
+        "year": 1207,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 62,
+        "label": "Gave birth to the future Henry III",
+        "labelCn": "生下未来的亨利三世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Isabella_of_Angoul%C3%AAme"
+      },
+      {
+        "year": 1246,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 88,
+        "label": "Died at Fontevraud",
+        "labelCn": "在丰特夫罗去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Isabella_of_Angoul%C3%AAme"
+      }
+    ]
+  },
+  {
+    "id": "7c3aaa41-6a5a-4e5c-bd09-b1f282db95bd",
+    "firstName": "Eleanor",
+    "lastName": "",
+    "displayName": "Eleanor of Castile",
+    "fullName": "Eleanor of Castile",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Eleanor of Castile"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "卡斯蒂利亚的埃莉诺",
+    "fullNameCn": "卡斯蒂利亚的埃莉诺",
+    "birthYear": 1241,
+    "deathYear": 1290,
+    "birthPlace": "Burgos, Castile",
+    "birthPlaceCn": "卡斯蒂利亚布尔戈斯",
+    "deathPlace": "Harby, England",
+    "deathPlaceCn": "英格兰哈比",
+    "gender": "female",
+    "dynasty": "House of Ivrea",
+    "house": "House of Ivrea",
+    "culture": "Castilian",
+    "faith": "Catholic",
+    "primaryTitle": "Queen consort of England",
+    "primaryTitleCn": "英格兰王后",
+    "titles": [
+      {
+        "title": "Queen consort of England",
+        "startYear": 1272,
+        "endYear": 1290,
+        "titleCn": "英格兰王后"
+      }
+    ],
+    "tags": [
+      "queen",
+      "consort"
+    ],
+    "rank": "queen",
+    "importanceScore": 66,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "f58b655d-8403-4f6d-9d5d-ecffaeaa0b0e"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "0e72c1bf-c16d-40c5-a62c-a1b84cdfb7a3"
+      ]
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Eleanor_of_Castile",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Eleanor_of_Castile",
+    "sourceNote": "First wife of Edward I and mother of Edward II.",
+    "notes": "First wife of Edward I and mother of Edward II. After her death, Edward raised the Eleanor crosses to mark her funeral procession.",
+    "historicalRating": 7,
+    "createdDate": "20260818",
+    "createdOrder": 49,
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died of illness at Harby",
+      "summaryCn": "在哈比因病去世",
+      "detail": "Eleanor of Castile died in 1290 at Harby, Nottinghamshire, and Edward I raised the Eleanor crosses in her memory.",
+      "detailCn": "1290 年，卡斯蒂利亚的埃莉诺在诺丁汉郡哈比去世，爱德华一世为其立埃莉诺十字架以纪念。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Eleanor_of_Castile"
+    },
+    "events": [
+      {
+        "year": 1254,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 80,
+        "label": "Married the future Edward I",
+        "labelCn": "嫁给未来的爱德华一世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Eleanor_of_Castile"
+      },
+      {
+        "year": 1284,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 62,
+        "label": "Gave birth to the future Edward II",
+        "labelCn": "生下未来的爱德华二世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Eleanor_of_Castile"
+      },
+      {
+        "year": 1290,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 90,
+        "label": "Died at Harby",
+        "labelCn": "在哈比去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Eleanor_of_Castile"
+      }
+    ]
+  },
+  {
+    "id": "2b1f74cd-3853-48c0-b048-aa8c3dd1d59d",
+    "firstName": "Elizabeth",
+    "lastName": "",
+    "displayName": "Elizabeth Woodville",
+    "fullName": "Elizabeth Woodville",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Elizabeth Woodville"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "伊丽莎白·伍德维尔",
+    "fullNameCn": "伊丽莎白·伍德维尔",
+    "birthYear": 1437,
+    "deathYear": 1492,
+    "birthPlace": "Grafton Regis, England",
+    "birthPlaceCn": "英格兰格拉夫顿里吉斯",
+    "deathPlace": "Bermondsey, England",
+    "deathPlaceCn": "英格兰伯蒙德西",
+    "gender": "female",
+    "dynasty": "House of Woodville",
+    "house": "House of Woodville",
+    "culture": "English",
+    "faith": "Catholic",
+    "primaryTitle": "Queen consort of England",
+    "primaryTitleCn": "英格兰王后",
+    "titles": [
+      {
+        "title": "Queen consort of England",
+        "startYear": 1464,
+        "endYear": 1483,
+        "titleCn": "英格兰王后"
+      }
+    ],
+    "tags": [
+      "queen",
+      "consort"
+    ],
+    "rank": "queen",
+    "importanceScore": 62,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "423d8a6a-a3f5-4502-abc7-5b6943dcfac6"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "738a5858-9506-4f77-b5ed-7539c01d7bbc",
+        "6c6619a1-067a-4f2b-a410-c882d6b794f7"
+      ]
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Elizabeth_Woodville",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Elizabeth_Woodville",
+    "sourceNote": "Wife of Edward IV and mother of Edward V and Elizabeth of York. Birth year is uncertain (traditionally c. 1437).",
+    "notes": "Queen consort of Edward IV and mother of the Princes in the Tower and of Elizabeth of York, wife of Henry VII.",
+    "historicalRating": 6,
+    "createdDate": "20260818",
+    "createdOrder": 50,
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died at Bermondsey",
+      "summaryCn": "在伯蒙德西去世",
+      "detail": "Elizabeth Woodville died in 1492 at Bermondsey Abbey.",
+      "detailCn": "1492 年，伊丽莎白·伍德维尔在伯蒙德西修道院去世。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Elizabeth_Woodville"
+    },
+    "events": [
+      {
+        "year": 1464,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 80,
+        "label": "Married Edward IV",
+        "labelCn": "嫁给爱德华四世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Elizabeth_Woodville"
+      },
+      {
+        "year": 1466,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 62,
+        "label": "Gave birth to Elizabeth of York",
+        "labelCn": "生下约克的伊丽莎白",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Elizabeth_Woodville"
+      },
+      {
+        "year": 1492,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 88,
+        "label": "Died at Bermondsey",
+        "labelCn": "在伯蒙德西去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Elizabeth_Woodville"
+      }
+    ]
+  },
+  {
+    "id": "332dde24-0bd6-4f15-8c52-66f483208e0b",
+    "firstName": "Margaret",
+    "lastName": "",
+    "displayName": "Margaret Beaufort",
+    "fullName": "Margaret Beaufort",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Margaret Beaufort"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "玛格丽特·博福特",
+    "fullNameCn": "玛格丽特·博福特",
+    "birthYear": 1443,
+    "deathYear": 1509,
+    "birthPlace": "Bletsoe, England",
+    "birthPlaceCn": "英格兰布莱索",
+    "deathPlace": "London, England",
+    "deathPlaceCn": "英格兰伦敦",
+    "gender": "female",
+    "dynasty": "House of Beaufort",
+    "house": "House of Beaufort",
+    "culture": "English",
+    "faith": "Catholic",
+    "primaryTitle": "Countess of Richmond and Derby",
+    "primaryTitleCn": "里士满与德比伯爵夫人",
+    "titles": [],
+    "tags": [
+      "noble"
+    ],
+    "rank": "noble",
+    "importanceScore": 68,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "7933ae03-5845-4972-927c-b1a3d648edda"
+      ]
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Margaret_Beaufort",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Margaret_Beaufort",
+    "sourceNote": "Mother of Henry VII by Edmund Tudor (not yet in the roster).",
+    "notes": "Mother of Henry VII and a key architect of the Tudor accession through her Lancastrian Beaufort descent.",
+    "historicalRating": 7,
+    "createdDate": "20260818",
+    "createdOrder": 51,
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died at London",
+      "summaryCn": "在伦敦去世",
+      "detail": "Margaret Beaufort died in 1509 at Westminster, shortly after her grandson Henry VIII's accession.",
+      "detailCn": "1509 年，玛格丽特·博福特在威斯敏斯特去世，时值其孙亨利八世即位后不久。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Margaret_Beaufort"
+    },
+    "events": [
+      {
+        "year": 1457,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 66,
+        "label": "Gave birth to the future Henry VII",
+        "labelCn": "生下未来的亨利七世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Margaret_Beaufort"
+      },
+      {
+        "year": 1485,
+        "type": "political_crisis",
+        "tags": [
+          "political_crisis",
+          "succession"
+        ],
+        "weight": 84,
+        "label": "Helped secure the Tudor accession",
+        "labelCn": "助力都铎王朝即位",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Margaret_Beaufort"
+      },
+      {
+        "year": 1509,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 90,
+        "label": "Died at Westminster",
+        "labelCn": "在威斯敏斯特去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Margaret_Beaufort"
+      }
+    ]
+  },
+  {
+    "id": "d8867112-cd68-4100-91e2-f42de19d273c",
+    "firstName": "Anne",
+    "lastName": "",
+    "displayName": "Anne of Bohemia",
+    "fullName": "Anne of Bohemia",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Anne of Bohemia"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "波希米亚的安妮",
+    "fullNameCn": "波希米亚的安妮",
+    "birthYear": 1366,
+    "deathYear": 1394,
+    "birthPlace": "Prague, Bohemia",
+    "birthPlaceCn": "波希米亚布拉格",
+    "deathPlace": "Sheen, England",
+    "deathPlaceCn": "英格兰希恩",
+    "gender": "female",
+    "dynasty": "House of Luxembourg",
+    "house": "House of Luxembourg",
+    "culture": "Bohemian",
+    "faith": "Catholic",
+    "primaryTitle": "Queen consort of England",
+    "primaryTitleCn": "英格兰王后",
+    "titles": [
+      {
+        "title": "Queen consort of England",
+        "startYear": 1382,
+        "endYear": 1394,
+        "titleCn": "英格兰王后"
+      }
+    ],
+    "tags": [
+      "queen",
+      "consort"
+    ],
+    "rank": "queen",
+    "importanceScore": 52,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "6e74e130-3247-425c-b2f2-2c97a5955b8f"
+      ],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Anne_of_Bohemia",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Anne_of_Bohemia",
+    "sourceNote": "First wife of Richard II.",
+    "notes": "First wife of Richard II; her death was deeply mourned and helped unsettle Richard's later reign.",
+    "historicalRating": 5,
+    "createdDate": "20260818",
+    "createdOrder": 52,
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died of plague at Sheen",
+      "summaryCn": "在希恩死于瘟疫",
+      "detail": "Anne of Bohemia died in 1394 at Sheen Palace, likely of plague.",
+      "detailCn": "1394 年，波希米亚的安妮在希恩宫去世，据信死于瘟疫。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Anne_of_Bohemia"
+    },
+    "events": [
+      {
+        "year": 1382,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 78,
+        "label": "Married Richard II",
+        "labelCn": "嫁给理查二世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Anne_of_Bohemia"
+      },
+      {
+        "year": 1394,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 90,
+        "label": "Died at Sheen",
+        "labelCn": "在希恩去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Anne_of_Bohemia"
+      }
+    ]
+  },
+  {
+    "id": "40e82515-a8a4-4a7a-bcf0-dff6322baef6",
+    "firstName": "Edith",
+    "lastName": "",
+    "displayName": "Edith Swannesha",
+    "fullName": "Edith Swannesha",
+    "nickname": "Swannesha",
+    "alsoKnownAs": [
+      "Edith Swannesha",
+      "Edith the Fair",
+      "Edith the Swan-neck"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "伊迪丝·斯万内莎",
+    "fullNameCn": "伊迪丝·斯万内莎",
+    "birthYear": 1025,
+    "deathYear": 1086,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "female",
+    "dynasty": "",
+    "house": "",
+    "culture": "Anglo-Saxon",
+    "faith": "Catholic",
+    "primaryTitle": "",
+    "primaryTitleCn": "",
+    "titles": [],
+    "tags": [],
+    "rank": "noble",
+    "importanceScore": 42,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [
+        "131aba03-2d7b-4ae3-8d16-b7ebd660ce6c"
+      ],
+      "childIds": []
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Edith_the_Fair",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Edith_the_Fair",
+    "sourceNote": "Common-law wife of Harold II. Birth and death years are approximate.",
+    "notes": "Common-law wife of Harold II, remembered as the Edith who identified his body after Hastings.",
+    "historicalRating": 4,
+    "createdDate": "20260818",
+    "createdOrder": 53,
+    "events": [
+      {
+        "year": 1066,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 80,
+        "label": "Traditionally identified Harold's body after Hastings",
+        "labelCn": "相传黑斯廷斯之战后辨认哈罗德遗体",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Edith_the_Fair"
       }
     ]
   }

@@ -48,7 +48,7 @@
     "portraitUrl": "",
     "historicalRating": 9,
     "importanceScore": 96,
-    "createdDate": "260815",
+    "createdDate": "20260816",
     "createdOrder": 14,
     "deathCause": {
       "kind": "normal",
@@ -60,7 +60,7 @@
     },
     "relationships": {
       "fatherId": "",
-      "motherId": "",
+      "motherId": "332dde24-0bd6-4f15-8c52-66f483208e0b",
       "spouseIds": [
         "6c6619a1-067a-4f2b-a410-c882d6b794f7"
       ],
@@ -305,7 +305,7 @@
     "portraitUrl": "",
     "historicalRating": 10,
     "importanceScore": 99,
-    "createdDate": "260815",
+    "createdDate": "20260816",
     "createdOrder": 15,
     "deathCause": {
       "kind": "normal",
@@ -806,7 +806,7 @@
         "labelCn": "失去加来"
       }
     ],
-    "createdDate": "260815",
+    "createdDate": "20260816",
     "createdOrder": 16
   },
   {
@@ -861,7 +861,7 @@
     "portraitUrl": "",
     "historicalRating": 10,
     "importanceScore": 99,
-    "createdDate": "260815",
+    "createdDate": "20260816",
     "createdOrder": 17,
     "deathCause": {
       "kind": "normal",
@@ -1156,7 +1156,7 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/Edward_VI",
     "sourceNote": "Only son of Henry VIII to survive infancy; succeeded by Mary I after the short Lady Jane Grey episode.",
     "notes": "Basic main-line succession card; mother Jane Seymour is outside the current roster.",
-    "createdDate": "260818",
-    "createdOrder": 154
+    "createdDate": "20260817",
+    "createdOrder": 48
   }
 ]

@@ -55,7 +55,7 @@
     },
     "relationships": {
       "fatherId": "423d8a6a-a3f5-4502-abc7-5b6943dcfac6",
-      "motherId": "",
+      "motherId": "2b1f74cd-3853-48c0-b048-aa8c3dd1d59d",
       "spouseIds": [
         "7933ae03-5845-4972-927c-b1a3d648edda"
       ],
@@ -180,7 +180,7 @@
         "wikiUrl": "https://en.wikipedia.org/wiki/Elizabeth_of_York"
       }
     ],
-    "createdDate": "260815",
+    "createdDate": "20260816",
     "createdOrder": 13
   }
 ]
