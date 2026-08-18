@@ -75,19 +75,20 @@ for (const id of byId.keys()) if (!orderSet.has(id)) fail(`UUID ${id} is missing
 const PARENT_KEYS = ["fatherId", "motherId"]; // string, "" allowed
 const LIST_KEYS = ["spouseIds", "partnerIds", "childIds"];
 for (const record of byId.values()) {
+  const rel = record.relationships ?? {};
   for (const key of PARENT_KEYS) {
-    const v = record[key];
-    if (typeof v === "string" && v !== "" && !byId.has(v)) fail(`${record.id} ${key}=${v} is an orphan reference`);
+    const v = rel[key];
+    if (typeof v === "string" && v !== "" && !byId.has(v)) fail(`${record.id} relationships.${key}=${v} is an orphan reference`);
   }
   for (const key of LIST_KEYS) {
-    const arr = record[key];
+    const arr = rel[key];
     if (arr == null) continue;
-    if (!Array.isArray(arr)) fail(`${record.id} ${key} is not an array`);
-    for (const v of arr) if (!byId.has(v)) fail(`${record.id} ${key} references missing UUID ${v}`);
+    if (!Array.isArray(arr)) fail(`${record.id} relationships.${key} is not an array`);
+    for (const v of arr) if (!byId.has(v)) fail(`${record.id} relationships.${key} references missing UUID ${v}`);
   }
-  for (const childId of record.childIds ?? []) {
+  for (const childId of rel.childIds ?? []) {
     const child = byId.get(childId);
-    if (!child || (child.fatherId !== record.id && child.motherId !== record.id))
+    if (!child || (child.relationships?.fatherId !== record.id && child.relationships?.motherId !== record.id))
       fail(`${record.id} lists child ${childId} but child does not reference it as parent`);
   }
 }

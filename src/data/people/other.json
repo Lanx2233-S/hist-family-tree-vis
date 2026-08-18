@@ -3337,7 +3337,7 @@
     "rank": "duke",
     "importanceScore": 76,
     "relationships": {
-      "fatherId": "",
+      "fatherId": "1894e7be-c18e-4182-9bca-927c9cbfa333",
       "motherId": "bda45606-c290-4f2a-8425-3c974a91ee60",
       "spouseIds": [],
       "partnerIds": [],
@@ -4905,5 +4905,433 @@
     "notes": "Basic main-line succession card.",
     "createdDate": "260818",
     "createdOrder": 153
+  },
+  {
+    "id": "b9454199-88cf-4506-af5b-c5fa13282c19",
+    "firstName": "Berengar",
+    "lastName": "",
+    "displayName": "Berengar I of Italy",
+    "fullName": "Berengar I of Italy",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Berengar I",
+      "Berengar of Friuli"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "意大利的贝伦加尔一世",
+    "fullNameCn": "意大利的贝伦加尔一世",
+    "birthYear": 845,
+    "deathYear": 924,
+    "birthPlace": "",
+    "deathPlace": "Verona, Italy",
+    "deathPlaceCn": "意大利维罗纳",
+    "gender": "male",
+    "dynasty": "Unruoching dynasty",
+    "house": "Unruoching dynasty",
+    "culture": "Frankish",
+    "faith": "Catholic",
+    "primaryTitle": "King of Italy",
+    "primaryTitleCn": "意大利国王",
+    "titles": [
+      {
+        "title": "King of Italy",
+        "startYear": 888,
+        "endYear": 924,
+        "titleCn": "意大利国王"
+      },
+      {
+        "title": "Holy Roman Emperor",
+        "startYear": 915,
+        "endYear": 924,
+        "titleCn": "神圣罗马帝国皇帝"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king",
+      "emperor"
+    ],
+    "rank": "king",
+    "importanceScore": 60,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Berengar_I_of_Italy",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Berengar_I_of_Italy",
+    "sourceNote": "Margrave of Friuli of the Unruoching dynasty; not a direct Carolingian. Birth year is uncertain (traditionally c. 845).",
+    "notes": "Margrave of Friuli who became king of Italy after the deposition of Charles the Fat, and Emperor from 915. His reign was a long contest for Italy; he was assassinated in 924.",
+    "historicalRating": 6,
+    "createdDate": "20260819",
+    "createdOrder": 143,
+    "events": [
+      {
+        "year": 845,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 60,
+        "label": "Born, of the Unruoching dynasty",
+        "labelCn": "出生，翁鲁奥兴家族",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Berengar_I_of_Italy",
+        "note": "Birth year uncertain, traditionally c. 845."
+      },
+      {
+        "year": 888,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "monarch"
+        ],
+        "weight": 78,
+        "label": "Became King of Italy",
+        "labelCn": "成为意大利国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Berengar_I_of_Italy"
+      },
+      {
+        "year": 915,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch",
+          "church"
+        ],
+        "weight": 80,
+        "label": "Crowned Emperor by Pope John X",
+        "labelCn": "由教宗若望十世加冕为皇帝",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Berengar_I_of_Italy"
+      },
+      {
+        "year": 924,
+        "type": "death",
+        "tags": [
+          "death",
+          "violent"
+        ],
+        "weight": 92,
+        "label": "Assassinated at Verona",
+        "labelCn": "在维罗纳被刺杀",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Berengar_I_of_Italy"
+      }
+    ]
+  },
+  {
+    "id": "6bec1a5d-e19f-43eb-a2c6-b8f6d223a9a5",
+    "firstName": "Odo",
+    "lastName": "",
+    "displayName": "Odo of Paris",
+    "fullName": "Odo of Paris",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Odo of Paris",
+      "Eudes of France"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "巴黎的厄德",
+    "fullNameCn": "巴黎的厄德",
+    "birthYear": 857,
+    "deathYear": 898,
+    "birthPlace": "",
+    "deathPlace": "La Fère, West Francia",
+    "deathPlaceCn": "西法兰克拉费尔",
+    "gender": "male",
+    "dynasty": "Robertian dynasty",
+    "house": "Robertian dynasty",
+    "culture": "Frankish",
+    "faith": "Catholic",
+    "primaryTitle": "King of West Francia",
+    "primaryTitleCn": "西法兰克国王",
+    "titles": [
+      {
+        "title": "Count of Paris",
+        "startYear": 882,
+        "endYear": 888,
+        "titleCn": "巴黎伯爵"
+      },
+      {
+        "title": "King of West Francia",
+        "startYear": 888,
+        "endYear": 898,
+        "titleCn": "西法兰克国王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 62,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Odo_of_France",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Odo_of_France",
+    "sourceNote": "Robertian; son of Robert the Strong (not in roster) and elder brother of Robert I of France. Birth year is uncertain (traditionally c. 857).",
+    "notes": "Count of Paris of the Robertian dynasty; celebrated for the defence of Paris against the Vikings, he was elected king of West Francia in 888 — the first non-Carolingian to hold it.",
+    "historicalRating": 6,
+    "createdDate": "20260819",
+    "createdOrder": 146,
+    "events": [
+      {
+        "year": 857,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 60,
+        "label": "Born, son of Robert the Strong",
+        "labelCn": "出生，强者罗贝尔之子",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Odo_of_France",
+        "note": "Birth year uncertain, traditionally c. 857."
+      },
+      {
+        "year": 885,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "defense",
+          "main_commander"
+        ],
+        "weight": 84,
+        "label": "Defence of Paris against the Vikings",
+        "labelCn": "保卫巴黎抵御维京人",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Siege_of_Paris_(885%E2%80%93886)"
+      },
+      {
+        "year": 888,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Elected King of West Francia",
+        "labelCn": "当选西法兰克国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Odo_of_France"
+      },
+      {
+        "year": 898,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 92,
+        "label": "Died at La Fère",
+        "labelCn": "在拉费尔去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Odo_of_France"
+      }
+    ]
+  },
+  {
+    "id": "1894e7be-c18e-4182-9bca-927c9cbfa333",
+    "firstName": "Robert",
+    "lastName": "",
+    "displayName": "Robert I of France",
+    "fullName": "Robert I of France",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Robert I",
+      "Robert I of France"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "法兰西的罗贝尔一世",
+    "fullNameCn": "法兰西的罗贝尔一世",
+    "birthYear": 866,
+    "deathYear": 923,
+    "birthPlace": "",
+    "deathPlace": "Soissons, West Francia",
+    "deathPlaceCn": "西法兰克苏瓦松",
+    "gender": "male",
+    "dynasty": "Robertian dynasty",
+    "house": "Robertian dynasty",
+    "culture": "Frankish",
+    "faith": "Catholic",
+    "primaryTitle": "King of West Francia",
+    "primaryTitleCn": "西法兰克国王",
+    "titles": [
+      {
+        "title": "Count of Paris",
+        "startYear": 898,
+        "endYear": 922,
+        "titleCn": "巴黎伯爵"
+      },
+      {
+        "title": "King of West Francia",
+        "startYear": 922,
+        "endYear": 923,
+        "titleCn": "西法兰克国王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 62,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "ea16a35b-9d3b-44c8-b8c3-72598e0e4362"
+      ]
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Robert_I_of_France",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Robert_I_of_France",
+    "sourceNote": "Robertian; son of Robert the Strong (not in roster) and younger brother of Odo of Paris. Father of Hugh the Great (in roster). Birth year is uncertain (traditionally c. 866).",
+    "notes": "Younger brother of Odo of Paris; elected king of West Francia in 922 in opposition to Charles the Simple, and killed the following year at Soissons. Father of Hugh the Great.",
+    "historicalRating": 6,
+    "createdDate": "20260819",
+    "createdOrder": 147,
+    "events": [
+      {
+        "year": 866,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 60,
+        "label": "Born, son of Robert the Strong",
+        "labelCn": "出生，强者罗贝尔之子",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Robert_I_of_France",
+        "note": "Birth year uncertain, traditionally c. 866."
+      },
+      {
+        "year": 922,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "monarch"
+        ],
+        "weight": 78,
+        "label": "Elected King of West Francia",
+        "labelCn": "当选西法兰克国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Robert_I_of_France"
+      },
+      {
+        "year": 923,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "defeat",
+          "death"
+        ],
+        "weight": 90,
+        "label": "Killed at the Battle of Soissons",
+        "labelCn": "苏瓦松之战阵亡",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Soissons_(923)"
+      }
+    ]
+  },
+  {
+    "id": "e51174bf-d6a5-4358-acf3-516bdcd2897b",
+    "firstName": "Rudolph",
+    "lastName": "",
+    "displayName": "Rudolph of France",
+    "fullName": "Rudolph of France",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Rudolph of France",
+      "Raoul of Burgundy"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "法兰西的鲁道夫",
+    "fullNameCn": "法兰西的鲁道夫",
+    "birthYear": 890,
+    "deathYear": 936,
+    "birthPlace": "",
+    "deathPlace": "Auxerre, West Francia",
+    "deathPlaceCn": "西法兰克欧塞尔",
+    "gender": "male",
+    "dynasty": "Bosonid dynasty",
+    "house": "Bosonid dynasty",
+    "culture": "Frankish",
+    "faith": "Catholic",
+    "primaryTitle": "King of West Francia",
+    "primaryTitleCn": "西法兰克国王",
+    "titles": [
+      {
+        "title": "Duke of Burgundy",
+        "startYear": 921,
+        "endYear": 936,
+        "titleCn": "勃艮第公爵"
+      },
+      {
+        "title": "King of West Francia",
+        "startYear": 923,
+        "endYear": 936,
+        "titleCn": "西法兰克国王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 54,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Rudolph_of_France",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Rudolph_of_France",
+    "sourceNote": "Bosonid (Bivinid) duke of Burgundy; married Emma, daughter of Robert I (neither in roster). Birth year is uncertain (traditionally c. 890).",
+    "notes": "Duke of Burgundy of the Bosonid dynasty; elected king of West Francia in 923 after Robert I's death, reigning as a transitional figure between the Carolingians and the Capetians.",
+    "historicalRating": 5,
+    "createdDate": "20260819",
+    "createdOrder": 148,
+    "events": [
+      {
+        "year": 890,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 60,
+        "label": "Born, of the Bosonid dynasty",
+        "labelCn": "出生，博索尼德家族",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Rudolph_of_France",
+        "note": "Birth year uncertain, traditionally c. 890."
+      },
+      {
+        "year": 923,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "monarch"
+        ],
+        "weight": 78,
+        "label": "Elected King of West Francia",
+        "labelCn": "当选西法兰克国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Rudolph_of_France"
+      },
+      {
+        "year": 936,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 90,
+        "label": "Died at Auxerre",
+        "labelCn": "在欧塞尔去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Rudolph_of_France"
+      }
+    ]
   }
 ]

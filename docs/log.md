@@ -658,3 +658,59 @@ Split by responsibility and keep data, derived presentation, interaction state, 
 
 - 旧数据写脚本（`apply-historical-ratings.mjs`、`add-charlemagne-children.mjs`、`recalibrate-historical-ratings.mjs`、`rename-holy-roman-henry-v.mjs`）仍会按各自格式直接写根 JSON，与生成器输出格式冲突——属后续步骤迁移/弃用范围，本轮未动。
 - 工作树中 `src/features/tree/FamilyTree.tsx` 的未提交修改与本次数据流改造无关（并行改动）。
+
+## 2026-08-18：加洛林主线（三分法兰克与东法兰克后续）9 人
+
+### 已完成
+
+- **机械合并 9 条已编写记录**：`/tmp/carolingian-additions.json` → `src/data/people/carolingian.json`（22 → 31 条），仅追加不修改既有记录；唯一双向链接修补为 Louis the Pious（`648b3003…`）`childIds` 置入其三子（Lothair I / Louis the German / Charles the Bald）。
+- **清单同步**：`manifest.json` `order` 追加 9 个 UUID（154 → 163），`files` 与 `index.ts` 均未改动。
+- **关系接线**：Louis the Pious→三子；Lothair I→三子（Louis II of Italy / Lothair II / Charles of Provence）；Louis the German→Charles the Fat；Arnulf→Louis the Child，全部父子双向一致；Arnulf 之父 Carloman of Bavaria 与 Louis the Younger 未建卡，父链暂留空待后续批次。
+
+### 验收
+
+- `node scripts/build-people.mjs` 输出 `OK: 163 people from 9 files`（孤儿/双向/重复/缺失硬校验通过）；`npm run build`（data:build → tsc → vite build）通过；`git diff --check` 干净。
+- 9 个 displayName 各恰好出现一次，与既有婴儿 Lothair（`48cc9996…`）不冲突（新 Lothair I 为独立 UUID `335ba716…`）；全库最高 historicalRating 仍为 10（Charlemagne），9 条新增最高 7。
+- `people-entry-log.md` 按现有格式追加 2026-08-18（加洛林主线）录入段。
+
+### 遗留
+
+- Carloman of Bavaria 与 Louis the Younger 待后续批次建卡；Lothair I 之母 Ermengarde 等配偶仍未入库。
+
+## 2026-08-19：加洛林第二/三批（西法兰克主线与王朝过渡）
+
+### 目标
+
+- 机械合并第 2/3 批 16 条已编写记录（西法兰克主线与王朝过渡），全库 163 → 179。
+
+### 已完成
+
+- **新增 16 人**：12 Carolingian → `carolingian.json`（31 → 43）；4 非加洛林 → `other.json`（36 → 40：Berengar I[Unruoching]、Odo/Robert I[Robertian]、Rudolph[Bosonid]）。
+- **补关系** Robert I→Hugh the Great（既有卡 `ea16a35b…` 补 fatherId，Robert I 占位 childId 解析为真实 UUID）；Charles the Bald→Louis the Stammerer、Louis the Stammerer→三子、Charles the Simple→Louis IV、Louis IV→{Lothair, Charles of Lower Lorraine}、Lothair→Louis V、Arnulf→Zwentibold、Lothair II→Hugh of Lotharingia、Louis the Blind→Charles Constantine，父子双向全部一致。
+- **清单同步**：`manifest.json` `order` 追加 16 个 UUID（163 → 179），`files` 与 `index.ts` 均未改动；新增最高 historicalRating 7。
+
+### 验收
+
+- `node scripts/build-people.mjs` 输出 `OK: 179 people from 9 files`；`npm run build`（data:build → tsc → vite build）与 `git diff --check` 通过。
+- 16 个 displayName 各恰好出现一次；全库最高 historicalRating 仍为 10（Charlemagne）。
+
+### 遗留
+
+- Robert the Strong 未建卡（Odo/Robert I 父链空）；Louis V→Hugh Capet 为头衔链、France 头衔数据未建（待后续）；Hugh the Great→Hugh Capet 既有父子未补（超出本轮范围）；Louis the Stammerer 等配偶/母亲多未入库。
+
+## 2026-08-19：build-people.mjs 关系校验修复（数据流收尾）
+
+### 问题
+
+- 收尾审计发现 `scripts/build-people.mjs` 的孤儿/父子双向校验读的是顶层 `record.fatherId`/`record.childIds`，而 Person 结构实际为 `record.relationships.fatherId` 等——三条关系校验（父/母孤儿、配偶/伴侣/子女孤儿、父子双向）自引入以来一直是**空转**（no-op），未真正执行。
+- 此前各条目「孤儿/双向硬校验通过」的表述因此不准确：数据本身始终正确（每次均由独立审计脚本核对），但生成器未在构建期强制。
+
+### 修复
+
+- 改为读取 `record.relationships.*`（`fatherId`/`motherId`/`spouseIds`/`partnerIds`/`childIds`），父/母与列表孤儿、父子双向三条校验恢复强制，失败即 exit 1。
+- 负向测试：向 `Charles the Bald` 注入假孤儿 UUID，`node scripts/build-people.mjs` 正确报错并 exit 1；移除后恢复 `OK: 179`。
+- 独立全库审计（179 人）：孤儿 0、单向父子 0、父链缺失 0，双向完全一致。
+
+### 验收
+
+- `node scripts/build-people.mjs` → `OK: 179 people from 9 files`；`npm run build` 与 `git diff --check` 通过。

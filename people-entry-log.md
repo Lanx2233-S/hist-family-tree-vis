@@ -422,3 +422,44 @@
 
 - 关系审计按父母／子女双向 UUID、年代合理性和主线连续性执行；王位继承与血缘是两层数据，不因前后任关系建立虚假亲属边。
 - 可确认者据史料补 male/female；真正不明、传说性、资料不足者保留 unknown 并注明原因，不为 UI 强行推断。本轮 16 人皆可由姓名/史料可靠确认，无遗留 unknown。
+
+## 2026-08-18（加洛林主线：三分法兰克与东法兰克后续）
+
+| 人物 | UUID | 评分 | 录入范围 |
+|---|---|---:|---|
+| Lothair I | `335ba716-59f9-40d7-9674-d1e8b5435bcb` | 7星 | 完整锚点卡 |
+| Louis the German | `140ea34c-2546-4e55-bed6-fa8b7fbd9848` | 7星 | 完整锚点卡 |
+| Charles the Bald | `da77a416-665f-4fe8-bf64-bc42e258e27f` | 7星 | 完整锚点卡 |
+| Louis II of Italy | `1b6cd964-c6f0-4d45-b075-356559632fc3` | 6星 | 基本主链卡 |
+| Lothair II | `af47aeab-39c3-44e1-b6c9-57f4f4a67c12` | 6星 | 基本主链卡 |
+| Charles of Provence | `d154bf3c-6127-4586-af1b-952ed1841ba3` | 5星 | 基本主链卡 |
+| Charles the Fat | `fc980fe9-6d96-4750-9b7f-cbc58b65bfd8` | 7星 | 完整锚点卡 |
+| Arnulf of Carinthia | `c31e84ad-65e3-40b3-90a7-9f860e5a9dca` | 7星 | 完整锚点卡 |
+| Louis the Child | `a67a7687-135d-4c5d-b061-c2fae4277b40` | 7星 | 完整锚点卡 |
+
+- 亲属关系已按可靠父子双向 UUID 建立（Louis the Pious→三子；Lothair I→三子；Louis the German→Charles the Fat；Arnulf→Louis the Child）。
+- Carloman of Bavaria 与 Louis the Younger 未建卡（父链暂留空、待后续批次）。
+- 王位继承链未当作血缘边。
+
+## 2026-08-19（加洛林第二/三批：西法兰克主线与王朝过渡）
+
+| 人物 | UUID | 评分 | 录入范围 |
+|---|---|---:|---|
+| Louis the Stammerer | `160d3b66-92e1-482d-8611-dc03009fd5d2` | 6星 | 基本主链卡 |
+| Louis III | `b65eb6b7-9618-4e9f-9510-e5bb7c17e723` | 5星 | 基本主链卡 |
+| Carloman II | `f284e83c-0009-4557-b225-fc428a357d12` | 5星 | 基本主链卡 |
+| Charles the Simple | `d7809609-2a6a-47bf-819f-2af8d7c31365` | 7星 | 完整锚点卡 |
+| Louis IV d'Outremer | `b647d9d4-bdd3-40a9-9a54-240ff24540da` | 7星 | 完整锚点卡 |
+| Lothair of France | `9455d227-ae13-44dc-9924-138ac5208ed6` | 7星 | 完整锚点卡 |
+| Louis V | `653f343d-cd5f-4549-8e77-1f85c755a54a` | 7星 | 完整锚点卡 |
+| Charles of Lower Lorraine | `67e32965-5f50-47fa-ac78-2ecf8c7ebec8` | 6星 | 基本主链卡 |
+| Zwentibold | `fce46ecd-6593-4c8e-8719-c9ca6931d85f` | 6星 | 基本主链卡 |
+| Hugh of Lotharingia | `98952527-7a55-4c13-aed2-2a61821696d5` | 5星 | 基本主链卡 |
+| Berengar I of Italy | `b9454199-88cf-4506-af5b-c5fa13282c19` | 6星 | 基本主链卡 |
+| Louis the Blind | `ec16ed59-6940-4fc5-ba99-091751fd176b` | 5星 | 基本主链卡 |
+| Charles Constantine of Vienne | `ac5110b0-f91e-4ecd-969d-23969a43edca` | 4星 | 基本资料卡 |
+| Odo of Paris | `6bec1a5d-e19f-43eb-a2c6-b8f6d223a9a5` | 6星 | 基本主链卡 |
+| Robert I of France | `1894e7be-c18e-4182-9bca-927c9cbfa333` | 6星 | 基本主链卡 |
+| Rudolph of France | `e51174bf-d6a5-4358-acf3-516bdcd2897b` | 5星 | 基本主链卡 |
+
+- 补关系 Robert I→Hugh the Great（Hugh the Great 已存在 other.json）；Charles the Bald→Louis the Stammerer、Louis the Stammerer→三子、Charles the Simple→Louis IV、Louis IV→{Lothair, Charles of Lower Lorraine}、Lothair→Louis V、Arnulf→Zwentibold、Lothair II→Hugh of Lotharingia、Louis the Blind→Charles Constantine 均为父子双向；Odo 与 Robert I 之父 Robert the Strong 未建卡、Louis V→Hugh Capet 为头衔链未建血缘（France 头衔链数据待后续）。
