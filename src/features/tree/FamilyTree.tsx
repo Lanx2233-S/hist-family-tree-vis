@@ -360,7 +360,12 @@ export function FamilyTree({
           if (event.key === "Enter" || event.key === " ") onSelectPerson(person.id);
         }}
       >
-        {isSelected && <rect className="selection-glow" width={card.width} height={card.height} rx="8" />}
+        {isSelected && (
+          <>
+            <rect className="selection-glow selection-gap" x="-7" y="-7" width={card.width + 14} height={card.height + 14} rx="15" />
+            <rect className="selection-glow" x="-10" y="-10" width={card.width + 20} height={card.height + 20} rx="18" />
+          </>
+        )}
         <rect width={card.width} height={card.height} rx="8" />
         <text className={`gender-mark ${person.gender}`} x={card.width - 15} y="20">{genderMark(person)}</text>
         <circle cx={centerX} cy="24" r="21" />
@@ -438,23 +443,25 @@ export function FamilyTree({
 
   return (
     <section ref={treeShellRef} className="tree-shell" aria-label={t.ariaTree} onWheel={handleTreeWheel}>
-      <div className="zoom-controls" aria-label={t.zoomControls}>
-        <button type="button" onClick={zoomOut} aria-label={t.zoomOut}>-</button>
-        <button type="button" onClick={resetZoom} aria-label={t.resetZoom}>{Math.round(zoom * 100)}%</button>
-        <button type="button" onClick={zoomIn} aria-label={t.zoomIn}>+</button>
-        <button
-          type="button"
-          className="tree-focus-button"
-          onClick={() => centerTree()}
-          aria-label={t.centerFocus}
-          title={t.centerFocus}
-        >
-          ◎
-        </button>
-      </div>
-      <div className="tree-nav-controls" aria-label={t.treeNavigation}>
-        <button type="button" onClick={onBack} disabled={!canBack}>{t.back}</button>
-        <button type="button" onClick={onHome}>{t.home}</button>
+      <div className="tree-fixed-controls">
+        <div className="zoom-controls" aria-label={t.zoomControls}>
+          <button type="button" onClick={zoomOut} aria-label={t.zoomOut}>-</button>
+          <button type="button" onClick={resetZoom} aria-label={t.resetZoom}>{Math.round(zoom * 100)}%</button>
+          <button type="button" onClick={zoomIn} aria-label={t.zoomIn}>+</button>
+          <button
+            type="button"
+            className="tree-focus-button"
+            onClick={() => centerTree()}
+            aria-label={t.centerFocus}
+            title={t.centerFocus}
+          >
+            ◎
+          </button>
+        </div>
+        <div className="tree-nav-controls" aria-label={t.treeNavigation}>
+          <button type="button" onClick={onBack} disabled={!canBack}>{t.back}</button>
+          <button type="button" onClick={onHome}>{t.home}</button>
+        </div>
       </div>
       <div className="tree-canvas" style={{ width: `${width * zoom}px`, height: `${height * zoom}px` }}>
         {heraldry && (

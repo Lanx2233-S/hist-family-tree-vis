@@ -471,3 +471,116 @@ Split by responsibility and keep data, derived presentation, interaction state, 
 - 10 位人物出生/死亡地因史料无记载保留为空（Geoffroy V、Guilhem IX、Louis VII、Morgan FitzRoy 等），已在条目日志标注缺口原因。
 - 配偶/子女不在人物库的婚姻只记事件、不建关系链接（亨利八世诸妻、Constance of Brittany 等），待人物库扩展后回填。
 - 本轮补全与 UUID 化、CSS 拆分等前序工作均未提交，建议分批提交并各附验收说明。
+
+## 2026-08-18：第三页「头衔谱系页」MVP 与标题统一
+
+### 目标
+
+- 新增第三页「Title Page / 头衔谱系页」，首条只实现 King of England 头衔链，仅连接 William I → William II → Henry I 三人，不扩展其他人物、王朝或头衔。
+- 头衔数据独立成文件，不硬编码进组件；在产品层把 King of the English 与 King of England 视为同一连续王位，数据层保留名称演变语义。
+- 统一项目名称文案为「Historical Family Tree / 历史人物家谱」。
+
+### 已完成
+
+- **头衔数据**：新增 `src/data/titles/king-of-england.json`，含 title UUID、canonicalName（EN/CN）、`form: "evolving"`、`aliases`、`nameForms`（King of the English 早期称谓 → King of England 领土称谓，各带起止与注释）与 `holders`（3 人，各含 personId/startYear/endYear/titleForm/note）。
+- **1066 继承危机扩展**：新建忏悔者爱德华、哈罗德二世·戈德温森、威塞克斯伯爵戈德温三张双语完整人物卡（基础资料、头衔、双语死因、事件时间线、来源与备注）。英格兰王位链补为爱德华（1042–1066）→ 哈罗德二世（1066）→ 征服者威廉（1066–1087）→ 威廉二世 → 亨利一世；戈德温—哈罗德使用双向父子 UUID，爱德华—哈罗德只作为前后任头衔关系，不误建血缘边。
+- **页面组件**：新增 `src/pages/TitlePage.tsx`，通过 `personId` 查 store 现有人物（不复制数据），personId 缺失时渲染虚线警告卡不崩溃；持有者卡在本页打开复用的详情面板，不跳转 Tree Page。
+- **导航**：`PageTabs` 的 `AppPage` 类型扩为 `"protagonists" | "tree" | "titles"`，新增第三个导航按钮（EN「Titles」/ CN「头衔谱系」）；`App.tsx` 加 titles 页状态分支，`ProtagonistPage` 透传 `onTitles`。
+- **文案**：`presentation.tsx` 新增 7 个 EN/CN 键（titlesPage、titleLineage、currentTitle、nameEvolution、titleHolders、reignYears、titlePersonMissing）。
+- **样式**：新增 `src/styles/title-page.css`，沿用现有边框 `#8b6b43`、8px 圆角、同系阴影与米色渐变，宽度 `min(100% - 2rem, 1180px)` 居中；持有者改为与家谱树一致的紧凑人物节点和纵向传承箭头；`main.css` 按顺序 import。
+- **人物节点统一**：启用原本预留的 `person-card.css`，抽取紧凑节点尺寸、圆角、边框和选中态令牌。Title Page 的金色双层外框（留白间隔 + 金色环）定为基准；Family Tree 的 SVG 选中层以等效外扩描边实现同一视觉层级，保留树专属的展开/收起控件。
+- **头衔链控件**：Title Page 左上角增加与树页一致的固定控件层：缩放（50%–150%）、百分比重置、居中和 Back/Home。缩放仅作用于头衔链；Back 在本页回退此前查看的持有者详情，Home 返回首页。
+- **详情页上下文入口**：DetailPanel 支持可选导航回调。Title Page 内点击王朝标签进入该人物为中心的家谱树；Tree Page 内点击已接入头衔链的主头衔进入对应 Title Page，并定位该人物。当前仅 `King of England / King of the English` 链启用，普通未建链头衔保持静态文字，避免虚假入口。
+- **直接访问引导**：Titles 直接访问改为头衔目录入口：仅展示 `Kingdom of England` 与头衔搜索，人物卡不预先渲染；进入该条目后从征服者威廉开始传承链。来自详情卡的头衔跳转仍可直接定位已选持有者。
+- **对称入口页**：Tree 的直接访问改为与 Titles 相同的目录层，不再在任意情形都展示威廉提示或立即渲染树。目录提供人物搜索和三项默认王朝入口：诺曼底→征服者威廉、金雀花→亨利二世、卡佩→腓力二世；点击才进入对应人物树。首页人物卡、详情 House 入口等已有上下文的操作仍直接进入人物树。
+- **标题统一**：`index.html` 静态 `<title>` 与 `documentTitle`、`historicalFamilyTree`（主页 eyebrow）三处统一为 Historical Family Tree / 历史人物家谱；历史正文中的 Normandy / House of Normandy / 1066 Norman Conquest 等一律未动。
+- **文案修正**：`divorced`（DIVORCED/离异）改为 `formerUnion`（FORMER UNION/前婚）——断裂婚线标签对教会婚姻无效（埃莉诺×路易七世、阿涅丝×腓力二世）不再误称 divorce。
+
+### 验收
+
+- `npm run build` 与 `git diff --check` 通过。
+- 三位持有者 UUID 均真实存在于 `people.normandy.json`，holders 无重复、无误加第四人，全部 personId 可解析。
+- Home / Tree / Titles 三页均可切换，EN/CN 文案齐全，无 TypeScript 错误。
+
+### 遗留
+
+- 当前仅一条头衔链、三位持有者；数据结构已按多 title、多 holders、evolving forms 设计，后续加 King of France 等只需加数据。
+- William I、Henry I 缺中文显示字段（displayNameCn 等为空），CN 模式名字回退英文——属人物数据缺口，非本页范围。
+- 头衔数据为前端静态 JSON（MVP 无后端 API）；API 模式只替换人物数组，不涉及头衔。
+- 持有者链当前为竖直 ol + 箭头，横向链布局留待后续 media query。
+
+## 2026-08-18：树页固定控件定位复盘
+
+### 问题与原因
+
+- 需求是树区域滚动或横向移动时，缩放、世代和 Back/Home 控件都保持在可视区域边缘。
+- 初始实现中，缩放与世代控件使用 `position: sticky`，但 Back/Home 使用 `position: absolute`。`absolute` 的定位参照是 `.tree-shell` 的内容坐标，而非其滚动后的可视区域，因此树画布滚动时会随内容离开视口。
+- 第一次修正只把 Back/Home 单独改为 `sticky`。这消除了部分滚动问题，但它仍是一个独立的文档流元素，和缩放控件不共享同一个固定锚点；视觉排列也不符合「同一左侧工具区」的意图。
+
+### 最终方案
+
+- 在 `FamilyTree.tsx` 中以 `.tree-fixed-controls` 包装 `.zoom-controls` 和 `.tree-nav-controls`。
+- 仅外层容器承担 `position: sticky; top: 12px; left: 12px`，子控件不再各自定位。
+- 容器采用纵向 flex 布局、左侧对齐：Zoom 在上，Back/Home 在下；它们共享同一定位参照和滚动生命周期。
+
+### 防回归原则
+
+- 对同一滚动容器内需固定在一起的 UI，应创建一个唯一的 sticky/fixed 父层；不要让相邻控件分别使用 absolute/sticky 混合定位。
+- 验收不仅检查初始位置，还须在树画布纵向滚动、横向滚动、缩放后确认控件仍位于树区域可视左上角。
+- `absolute` 只用于随树内容坐标移动的元素（例如右上角随画布出现的纹章）；不用于工具栏。
+
+## 2026-08-18：查理曼子女修正与全局性别审计
+
+### 目标
+
+- 修复查理曼子女数据：补齐缺失的性别标识，补入缺失的主线继承人 Louis the Pious。
+- 全局审计人物卡性别，可确认者据史料补 male/female，真正不明者保留 unknown。
+
+### 已完成
+
+- **性别补齐**：查理曼 17 名子女中除 Pepin of Italy 外 16 人 gender="unknown"，按英文维基百科逐一核实后全部补齐 male/female（男 6、女 10），全局 gender unknown 清零（female 32→42、male 95→101）。
+- **核心遗漏补救**：新建 Louis the Pious（虔诚者路易，Louis I）完整人物卡——male、778–840、Carolingian dynasty、Holy Roman Emperor、9 条事件、historicalRating 9；双向接入父子关系（Charlemagne.childIds + Louis.fatherId）。查理曼子女由 17 增至 18 人，直系继承链补齐。
+- **审计结论**：Person 类型 gender 为 string、schema.sql 默认 'unknown'、seed/API 均透传不覆盖，后端支持良好；本次仅数据层修正，未做无关架构改动。
+- **身份澄清**：Hruodhaid（非婚生女，约 787 年生，卒年不确）与 Ruothild（Madelgard 之女，Faremoutiers 院长，卒 852-03-24）是两人，非同一人；初版误判已更正，两张卡独立保留、身份与年代分离。
+
+### 验收
+
+- JSON 有效、144 人 UUID 全唯一、所有 parent/spouse/child 引用 0 孤儿。
+- 查理曼 18 名子女全部可解析，Louis the Pious 已在其中；子女生年 769–807 分布合理，双向父子关系正确。
+- `npm run build` 与 `git diff --check` 通过。
+
+### 经验与遗留
+
+- **关系 UUID 有效 ≠ 主线人物完整**：此前验收只查 UUID 断链，未查主线继承人完整性，导致 Louis the Pious 缺失漏检。今后数据验收需同时覆盖「关键人物是否在库」「子女/继承人链是否完整」。
+- 既有 Godwin 家族数据（Godwin、Harold II、Edward the Confessor）使用 `builder`、`exile` 两个未注册的 event tag（eventTagLabels 无对应文案，`tagText` 会回退英文原文），属本任务范围之外，已报告未改。
+
+## 2026-08-18：史实不确定表述与性别标识视觉统一
+
+### 已完成
+
+- 哈罗德二世的死因与黑斯廷斯战役备注改为更自然的双语表述：中文使用“据说一箭射中其眼部”，英文使用 “reportedly after an arrow struck his eye”，保留史实不确定性但避免过度收敛的说明口吻。
+- Title Page 人物节点的性别标识与 Family Tree 统一：男性使用蓝色斜体符号，女性使用粉色符号，并补齐描边与阴影以适配深色人物卡。
+- 头衔入口从详情页主头衔移至 Titles 列表中对应的 `King of England` 行，主头衔保持静态展示，入口位置与语义一致。
+- README 更新为当前项目范围、Home / Tree / Titles 三页结构，并加入不确定史实的表达原则。
+
+### 验收
+
+- `people.normandy.json` JSON 解析通过。
+- `npm run build` 通过。
+- 性别标识、头衔入口与哈罗德二世双语文案均为数据或展示层的局部修改，未改变既有关系模型。
+
+## 2026-08-18：英格兰王位主链与北海帝国补齐
+
+### 已完成
+
+- **既有人物关系修复**：补齐埃德蒙一世→伊德维格、埃德加→殉道者爱德华、埃塞尔雷德二世↔诺曼底的艾玛、埃塞尔雷德二世／艾玛→忏悔者爱德华、诺曼底理查一世→艾玛、理查·约克→理查三世、亨利八世→爱德华六世等双向 UUID；未用王位先后关系伪造血缘。
+- **北海帝国与诺曼连接**：新增斯温八字胡、克努特大帝、诺曼底的艾玛、野兔脚哈罗德、哈德克努特五张人物卡。斯温、克努特、艾玛含主要事件与双语资料；两位短期君主保留可靠基本资料和继承关系。
+- **威塞克斯与后续缺卡**：新增伊德维格、殉道者爱德华、斯蒂芬、理查三世、爱德华六世；除必要死因与关系外遵守“基本信息优先”的录入范围。
+- **头衔主链**：`King of England` 头衔数据由 5 位扩展为 40 个在位段，从埃塞尔斯坦（924）延伸至伊丽莎白一世（1603），包含斯温征服、埃塞尔雷德复位、北海帝国、1066、无政府时期与玫瑰战争中亨利六世／爱德华四世的复辟交替。
+- **女王入口**：`Queen of England` 作为英格兰王位链的别名接入，玛丽一世和伊丽莎白一世可从详情页的 Titles 行进入同一头衔谱系。
+
+### 验收
+
+- 人物数 144 → 154；王位链 40 段持有记录全部指向存在的人物卡。
+- 新增及修复关系的父母／子女双向引用逐项通过，所有关系 UUID 可解析，无孤儿引用。
+- `npm run build` 与 `git diff --check` 通过。

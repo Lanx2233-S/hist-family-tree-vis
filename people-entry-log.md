@@ -346,3 +346,79 @@
 - 关系接线：路易八世 `childIds` 补入路易九世；腓力四世挂三子（路易十世/腓力五世/查理四世）；路易十世挂约翰一世。全链父子双向校验，0 孤儿。
 - 史实标注：约翰一世在位 15–19 日（一说 13–18 日）；腓力五世生年 c. 1291；腓力四世生年 1268（月日无载）；查理四世生日 18/19 日两说；查理四世 1322 年与勃艮第的布朗什婚姻无效按 `annulment` 事件类型录入。
 - 私生子/侧枝及配偶（玛格丽特·德·普罗旺斯、让娜一世·德·纳瓦拉等）不在库，均按项目惯例只记事件不建链，notes 已注明。
+
+## 2026-08-18（1066 王位危机与戈德温家）
+
+| 序号 | 英文 / Latin spelling | 中文 | 自定义 ID | UUID | 评分 |
+|---:|---|---|---|---|---:|
+| 1 | Godwin, Earl of Wessex | 威塞克斯伯爵戈德温 | — | `acb44ca3-5936-4d3b-875a-0d485f5bcc70` | 8星 |
+| 2 | Harold II Godwinson | 哈罗德二世·戈德温森 | — | `131aba03-2d7b-4ae3-8d16-b7ebd660ce6c` | 10星 |
+| 3 | Edward the Confessor | 忏悔者爱德华 | — | `a9d5b087-d9a5-4970-8f5c-6701fdb0463c` | 10星 |
+
+- 戈德温—哈罗德建立双向父子 UUID；吉莎、伊迪丝及哈罗德的配偶/子女尚未入库，按规则不伪造关系。
+- 头衔链按真实继承顺序补为：忏悔者爱德华（1042–1066）→ 哈罗德二世（1066）→ 征服者威廉（1066–1087）→ 威廉二世 → 亨利一世。
+- 爱德华与哈罗德仅为王位前后任，不建立父子或配偶关系；哈罗德在黑斯廷斯的具体致命伤存疑，死亡卡标为 `violent_uncertain`。
+
+## 2026-08-18（查理曼子女性别补齐 + 虔诚者路易补入）
+
+### 遗漏原因
+
+- 此前「查理曼子女扩展」批次的 17 名子女中，除 Pepin of Italy 外全部 `gender="unknown"`；前端对 unknown 故意不显示 ♂/♀ 标记，导致子女卡整体缺失性别标识。
+- 主线继承人 **Louis the Pious（虔诚者路易，778–840）** 未录入、也未接入 `Charlemagne.childIds`——查理曼的直系皇位继承链因此断裂，属核心遗漏（关系 UUID 有效 ≠ 主线人物完整）。
+
+### 补救
+
+- 按英文维基百科核实全部子女性别，16 名 unknown 全部补齐 male/female（男性 6、女性 10），无遗留 unknown。
+- 新建 **Louis the Pious** 完整人物卡：UUID `648b3003-e95f-4d08-b36d-cb115b14c7c9`，male，778–840，Carolingian dynasty，主头衔 Holy Roman Emperor，9 条事件，`historicalRating 9`。
+- 双向建立父子关系：`Charlemagne.childIds` 增加 Louis；`Louis.fatherId = Charlemagne`。
+
+### 查理曼子女最终清单（18 人，按生年）
+
+| 子女 | 性别 | 生–卒 | 母亲/婚生 |
+|---|---|---:|---|
+| Pepin the Hunchback | male | 769–811 | Himiltrude，私生 |
+| Charles the Younger | male | 772–811 | Hildegard |
+| Adalhaid | female | 774–774 | Hildegard，早夭 |
+| Rotrude | female | 775–810 | Hildegard |
+| Pepin of Italy | male | 777–810 | Hildegard（原名 Carloman） |
+| Lothair | male | 778–778 | Hildegard，早夭（路易双胞胎） |
+| **Louis I (the Pious)** | male | 778–840 | Hildegard |
+| Bertha | female | 779–823 | Hildegard |
+| Gisela | female | 781–808 | Hildegard |
+| Hildegard | female | 782–783 | Hildegard，早夭 |
+| Theodrada | female | 785–844 | Fastrada |
+| Hiltrude | female | 787–800 | Fastrada |
+| Hruodhaid | female | 787–? | 非婚生女，母亲未明，卒年不确 |
+| Adaltrude | female | 790–814 | Gersuinda |
+| Ruothild | female | 790–852 | Madelgard，Faremoutiers 院长 |
+| Drogo | male | 801–855 | Regina，私生 |
+| Hugh | male | 802–844 | Regina，私生 |
+| Theodoric | male | 807–818 | Adallinda，私生 |
+
+### 身份澄清（两张卡独立，非同一人）
+
+- **Hruodhaid**（`b77e26cb…`）：查理曼的一位非婚生女，约生于 787 年，母亲未明（Einhard 未记），卒年不确（资料作 800 年后、可能 814 年后仍在世）。
+- **Ruothild**（`009f1f5c…`）：查理曼与 Madelgard 之女，Faremoutiers 女修道院院长，卒于 852-03-24；不同来源亦拼作 Rothild / Hruothild，但与前者并非同一人。
+- 初版曾误将二者判为同一人；已按史料拆分为两张独立卡，身份与年代分离。
+
+### 性别审计规则
+
+- 全局扫描 gender 缺失/unknown：原 16 条，全为查理曼子女，现已清零。
+
+## 2026-08-18（英格兰王位主链与北海帝国）
+
+| 人物 | UUID | 评分 | 录入范围 |
+|---|---|---:|---|
+| Eadwig | `40c3aefb-37eb-48eb-8e56-e22733674533` | 6星 | 基本主链卡 |
+| Edward the Martyr | `84ce52d6-91bf-47fb-afa1-5f869f20fbf6` | 7星 | 基本主链卡 |
+| Sweyn Forkbeard | `01da1402-5d85-4186-859a-34f8cb06182d` | 8星 | 完整锚点卡 |
+| Cnut the Great | `0fb64530-ea06-47ec-9570-6166155b53ba` | 9星 | 完整锚点卡 |
+| Emma of Normandy | `11999429-e764-4ed2-9c8c-cf95cfbbdecc` | 9星 | 完整锚点卡 |
+| Harold Harefoot | `d539abe5-c27d-4b1a-a3b3-e16d93ce2344` | 6星 | 基本主链卡 |
+| Harthacnut | `0a5b30a1-051e-41ea-a10a-1c37ce523603` | 7星 | 基本主链卡 |
+| Stephen | `8da6a92d-40c5-47c0-8c42-9858db5cf61d` | 7星 | 基本主链卡 |
+| Richard III | `62f8458b-9497-45fd-8ccc-7930f38c7ae8` | 8星 | 基本主链卡 |
+| Edward VI | `358dd39b-2742-4ae8-8c50-897bd98cf897` | 8星 | 基本主链卡 |
+
+- 关系审计按父母／子女双向 UUID、年代合理性和主线连续性执行；王位继承与血缘是两层数据，不因前后任关系建立虚假亲属边。
+- 可确认者据史料补 male/female；真正不明、传说性、资料不足者保留 unknown 并注明原因，不为 UI 强行推断。本轮 16 人皆可由姓名/史料可靠确认，无遗留 unknown。

@@ -2,16 +2,31 @@
 import { useFamilyStore } from "../../store";
 import type { PersonEvent } from "../../types";
 import { byImportance, copyFor, DeathCauseButton, eventAge, eventDateText, eventDateValue, eventLabelText, eventTagText, EventNote, genderMark, heraldryFor, initials, lifespan, shortEnglishName, tagText, textFor, years, type Language } from "../shared/presentation";
-export function DetailPanel() {
+import kingOfEnglandData from "../../data/titles/king-of-england.json";
+
+type DetailPanelProps = {
+  personId?: string;
+  onOpenHouse?: (personId: string) => void;
+  onOpenTitleLineage?: (personId: string) => void;
+};
+
+const kingOfEnglandHolderIds = new Set((kingOfEnglandData.holders as Array<{ personId: string }>).map(({ personId }) => personId));
+
+export function DetailPanel({ personId, onOpenHouse, onOpenTitleLineage }: DetailPanelProps = {}) {
   const people = useFamilyStore((state) => state.people);
   const selectedId = useFamilyStore((state) => state.selectedId);
   const language = useFamilyStore((state) => state.language);
   const [isTimelineOpen, setTimelineOpen] = useState(false);
   const [eventTag, setEventTag] = useState("all");
-  const person = people.find((item) => item.id === selectedId) ?? people[0];
+  const person = people.find((item) => item.id === (personId ?? selectedId)) ?? people[0];
   const t = copyFor(language);
   const label = textFor(person, language);
   const heraldry = heraldryFor(person);
+  const hasTitleLineage = kingOfEnglandHolderIds.has(person.id);
+  const titleLineageNames = new Set([
+    kingOfEnglandData.canonicalName,
+    ...kingOfEnglandData.aliases,
+  ]);
   const topEvents = byImportance(person.events).slice(0, 3).sort((a, b) => eventDateValue(a) - eventDateValue(b));
   const timelineEvents = [...person.events].sort((a, b) => eventDateValue(a) - eventDateValue(b));
   const eventTags = Array.from(new Set(person.events.flatMap((event) => event.tags ?? [event.type])));
@@ -26,7 +41,11 @@ export function DetailPanel() {
       {heraldry && (
         <img className="detail-heraldry" src={heraldry.src} alt={heraldry.alt} />
       )}
-      <p className="eyebrow">{label.dynasty}</p>
+      {onOpenHouse ? (
+        <button type="button" className="detail-context-link eyebrow" onClick={() => onOpenHouse(person.id)}>
+          {label.dynasty}
+        </button>
+      ) : <p className="eyebrow">{label.dynasty}</p>}
       <h2>{label.fullName}</h2>
       <div className="subtitle">
         <span className="primary-title">{label.primaryTitle}</span>
@@ -42,7 +61,19 @@ export function DetailPanel() {
       </dl>
       <h3>{t.titles}</h3>
       <ul className="compact-list">
-        {person.titles.map((title) => <li key={`${title.title}-${title.startYear}`}><strong>{label.title(title)}</strong><span>{title.startYear || "?"}-{title.endYear || "?"}</span></li>)}
+        {person.titles.map((title) => {
+          const opensLineage = hasTitleLineage && onOpenTitleLineage && titleLineageNames.has(title.title);
+          return (
+            <li key={`${title.title}-${title.startYear}`}>
+              {opensLineage ? (
+                <button type="button" className="detail-context-link title-lineage-link" onClick={() => onOpenTitleLineage(person.id)}>
+                  {label.title(title)}
+                </button>
+              ) : <strong>{label.title(title)}</strong>}
+              <span>{title.startYear || "?"}-{title.endYear || "?"}</span>
+            </li>
+          );
+        })}
       </ul>
       <div className="section-heading">
         <h3>{t.topEvents}</h3>

@@ -1,10 +1,21 @@
 # hist-family-tree-vis
 
-`hist-family-tree-vis` is a historical family-tree project inspired by Crusader Kings III (CK3). It integrates historical-person records and presents family relationships, titles, events, and other context through an interactive visualization.
+`hist-family-tree-vis` is an interactive historical genealogy project inspired by the readable relationship views of Crusader Kings III (CK3). It presents people, family relationships, title succession, events, and historical context as navigable visual records.
 
-The project begins with medieval England, using the Norman period as its first source area. The current dataset contains 65 people and is stored in `people.normandy.json`; PostgreSQL is supported for durable records and future expansion.
+The project began with medieval England and the Norman period, and now extends across Wessex, Normandy, Carolingian, Capetian, Plantagenet, Poitevin, and related lines. The current local dataset contains 144 people and is stored in `people.normandy.json`; PostgreSQL is supported for durable records and future expansion.
 
-The app uses React for exploration and PostgreSQL for durable person records. The existing JSON remains the local demo fallback until a database is configured and seeded.
+The app uses React for exploration and PostgreSQL for durable person records. The JSON remains the local demo fallback until a database is configured and seeded.
+
+## Current experience
+
+- **Home** — featured historical entry points grouped by realm and dynasty.
+- **Tree** — an interactive family tree with search, relationship navigation, zoom, generations, bilingual labels, and person details.
+- **Titles** — title succession as a dedicated lineage, with evolving name forms such as *King of the English* and *King of England*.
+- **Data-first records** — people, titles, events, relationships, sources, and bilingual display fields remain separate from presentation code.
+
+## Historical wording
+
+When a detail is uncertain, describe it naturally with terms such as “reportedly” or “so-called”; preserve the uncertainty without flattening the historical voice into overly cautious AI-style prose.
 
 ## Local development
 

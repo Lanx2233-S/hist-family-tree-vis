@@ -63,14 +63,24 @@
   display: block;
 }
 
-.zoom-controls {
+.tree-fixed-controls,
+.title-fixed-controls {
   position: sticky;
   z-index: 5;
   top: 12px;
   left: 12px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  width: max-content;
+  gap: 8px;
+  margin: 12px 0 0 12px;
+}
+
+.zoom-controls,
+.tree-nav-controls {
   display: inline-flex;
   overflow: hidden;
-  margin: 12px 0 0 12px;
   border: 1px solid #8b6b43;
   border-radius: 8px;
   background: #fff8e8;
@@ -78,17 +88,6 @@
 }
 
 .tree-nav-controls {
-  position: absolute;
-  z-index: 5;
-  top: 58px;
-  left: 12px;
-  display: inline-flex;
-  overflow: hidden;
-  margin: 8px 0 0 12px;
-  border: 1px solid #8b6b43;
-  border-radius: 8px;
-  background: #fff8e8;
-  box-shadow: 0 8px 24px rgba(55, 35, 20, 0.14);
 }
 
 .tree-nav-controls button {
@@ -337,13 +336,16 @@
   fill: #c45a9c;
 }
 
+.person-node .selection-gap {
+  fill: var(--person-node-selected-gap);
+  stroke: none;
+}
+
 .person-node .selection-glow {
-  fill: rgba(255, 252, 231, 0.42);
-  stroke: rgba(255, 247, 190, 0.98);
-  stroke-width: 10;
-  filter: drop-shadow(0 0 12px rgba(255, 244, 194, 0.95))
-    drop-shadow(0 0 22px rgba(255, 232, 150, 0.62))
-    drop-shadow(0 10px 16px rgba(72, 45, 20, 0.3));
+  fill: none;
+  stroke: var(--person-node-selected-ring);
+  stroke-width: 5;
+  filter: drop-shadow(0 7px 12px rgba(72, 45, 20, 0.24));
 }
 
 .person-node.selected rect:not(.selection-glow) {

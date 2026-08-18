@@ -9,6 +9,8 @@ import { DetailPanel } from "./features/people/DetailPanel";
 import { FamilyTree } from "./features/tree/FamilyTree";
 import { copyFor, dynastyCn, tagText, textFor, years } from "./features/shared/presentation";
 import { ProtagonistPage } from "./pages/ProtagonistPage";
+import { TitlePage } from "./pages/TitlePage";
+import { TreeCatalogPage } from "./pages/TreeCatalogPage";
 function Toolbar({ onSelectPerson, onAddPerson }: { onSelectPerson: (id: string) => void; onAddPerson: () => void }) {
   const people = useFamilyStore((state) => state.people);
   const selectedId = useFamilyStore((state) => state.selectedId);
@@ -127,6 +129,8 @@ function Toolbar({ onSelectPerson, onAddPerson }: { onSelectPerson: (id: string)
 export default function App() {
   const [page, setPage] = useState<AppPage>("protagonists");
   const [centerHistory, setCenterHistory] = useState<string[]>([]);
+  const [titleFocusId, setTitleFocusId] = useState("");
+  const [treeFocusId, setTreeFocusId] = useState("");
   const [treeVisitKey, setTreeVisitKey] = useState(0);
   const [isPersonFormOpen, setPersonFormOpen] = useState(false);
   const selectedId = useFamilyStore((state) => state.selectedId);
@@ -168,29 +172,64 @@ export default function App() {
     });
   }
 
+  function openHouse(personId: string) {
+    openTree(personId);
+  }
+
+  function openTitleLineage(personId: string) {
+    setTitleFocusId(personId);
+    setPage("titles");
+  }
+
+  function openTree(personId: string) {
+    setSelectedId(personId);
+    setTreeFocusId(personId);
+    setCenterHistory([]);
+    setTreeVisitKey((key) => key + 1);
+    setPage("tree");
+  }
+
+  function openTreeCatalog() {
+    setTreeFocusId("");
+    setPage("tree");
+  }
+
   if (page === "protagonists") {
     return (
       <ProtagonistPage
         onTree={() => {
-          setTreeVisitKey((key) => key + 1);
-          setPage("tree");
+          openTreeCatalog();
         }}
+        onTitles={() => { setTitleFocusId(""); setPage("titles"); }}
         onEnter={(id) => {
-          setSelectedId(id);
-          setCenterHistory([]);
-          setTreeVisitKey((key) => key + 1);
-          setPage("tree");
+          openTree(id);
         }}
       />
     );
   }
 
+  if (page === "titles") {
+    return (
+      <TitlePage
+        onHome={() => setPage("protagonists")}
+        onTree={() => {
+          openTreeCatalog();
+        }}
+        onOpenHouse={openHouse}
+        initialPersonId={titleFocusId}
+      />
+    );
+  }
+
+  if (!treeFocusId) {
+    return <TreeCatalogPage onHome={() => setPage("protagonists")} onTitles={() => { setTitleFocusId(""); setPage("titles"); }} onEnter={openTree} />;
+  }
+
   return (
     <main>
       <PageTabs page="tree" onHome={() => setPage("protagonists")} onTree={() => {
-        setTreeVisitKey((key) => key + 1);
-        setPage("tree");
-      }} />
+        openTreeCatalog();
+      }} onTitles={() => { setTitleFocusId(""); setPage("titles"); }} />
       <Toolbar onSelectPerson={selectCenter} onAddPerson={() => setPersonFormOpen(true)} />
       <div className="workspace">
         <FamilyTree
@@ -200,7 +239,7 @@ export default function App() {
           onSelectPerson={selectCenter}
           treeVisitKey={treeVisitKey}
         />
-        <DetailPanel />
+        <DetailPanel onOpenTitleLineage={openTitleLineage} />
       </div>
       {isPersonFormOpen && (
         <PersonFormModal
@@ -215,5 +254,3 @@ export default function App() {
     </main>
   );
 }
-
-

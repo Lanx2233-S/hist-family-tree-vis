@@ -321,7 +321,7 @@
   "importanceScore": 78,
   "historicalRating": 8,
   "relationships": {
-    "fatherId": "",
+    "fatherId": "0e597c77-dd0b-419c-9227-b56fb37e3b9d",
     "motherId": "",
     "spouseIds": [],
     "partnerIds": [],
@@ -7886,7 +7886,8 @@
     "spouseIds": [],
     "partnerIds": [],
     "childIds": [
-      "423d8a6a-a3f5-4502-abc7-5b6943dcfac6"
+      "423d8a6a-a3f5-4502-abc7-5b6943dcfac6",
+      "62f8458b-9497-45fd-8ccc-7930f38c7ae8"
     ]
   },
   "events": [
@@ -8427,8 +8428,8 @@
     "rank": "untitled",
     "importanceScore": 38,
     "relationships": {
-      "fatherId": "",
-      "motherId": "",
+    "fatherId": "",
+    "motherId": "",
       "spouseIds": [],
       "partnerIds": [
         "29e2abba-321e-4090-a35d-10f0bd6a420a"
@@ -9390,7 +9391,8 @@
     "spouseIds": [],
     "partnerIds": [],
     "childIds": [
-      "0e597c77-dd0b-419c-9227-b56fb37e3b9d"
+      "0e597c77-dd0b-419c-9227-b56fb37e3b9d",
+      "11999429-e764-4ed2-9c8c-cf95cfbbdecc"
     ]
   },
   "events": [
@@ -10734,7 +10736,8 @@
     "spouseIds": [],
     "partnerIds": [],
     "childIds": [
-      "eceed220-7a02-42dd-99cb-3420f16e2cf6"
+      "eceed220-7a02-42dd-99cb-3420f16e2cf6",
+      "40c3aefb-37eb-48eb-8e56-e22733674533"
     ]
   },
   "events": [
@@ -10930,7 +10933,8 @@
     "spouseIds": [],
     "partnerIds": [],
     "childIds": [
-      "ed0b5627-f0d9-4c85-ac64-26c1c4c3e4b2"
+      "ed0b5627-f0d9-4c85-ac64-26c1c4c3e4b2",
+      "84ce52d6-91bf-47fb-afa1-5f869f20fbf6"
     ]
   },
   "events": [
@@ -11108,10 +11112,13 @@
   "relationships": {
     "fatherId": "eceed220-7a02-42dd-99cb-3420f16e2cf6",
     "motherId": "",
-    "spouseIds": [],
+    "spouseIds": [
+      "11999429-e764-4ed2-9c8c-cf95cfbbdecc"
+    ],
     "partnerIds": [],
     "childIds": [
-      "84d16e93-3a36-46a7-b7b9-b237dc38dfc6"
+      "84d16e93-3a36-46a7-b7b9-b237dc38dfc6",
+      "a9d5b087-d9a5-4970-8f5c-6701fdb0463c"
     ]
   },
   "events": [
@@ -12498,7 +12505,8 @@
     "partnerIds": [],
     "childIds": [
       "0387c1d8-633c-4fa8-9c48-47e4644704da",
-      "035085c7-f1bd-483a-a2c9-fc9f348170ac"
+      "035085c7-f1bd-483a-a2c9-fc9f348170ac",
+      "358dd39b-2742-4ae8-8c50-897bd98cf897"
     ]
   },
   "events": [
@@ -16961,7 +16969,8 @@
       "d261acd7-c00c-4b88-b28b-7a72f05f4585",
       "82ed3493-a386-4781-9883-ea84e730515a",
       "b669888a-cb9a-49c4-b23f-b10d7da21d05",
-      "b77e26cb-04a5-4d36-8fe6-dc747960349c"
+      "b77e26cb-04a5-4d36-8fe6-dc747960349c",
+      "648b3003-e95f-4d08-b36d-cb115b14c7c9"
     ]
   },
   "events": [
@@ -19025,7 +19034,7 @@
     "deathYear": 811,
     "birthPlace": "",
     "deathPlace": "",
-    "gender": "unknown",
+    "gender": "male",
     "dynasty": "Carolingian dynasty",
     "house": "Carolingian dynasty",
     "culture": "Frankish",
@@ -19069,7 +19078,7 @@
     "deathYear": 811,
     "birthPlace": "",
     "deathPlace": "",
-    "gender": "unknown",
+    "gender": "male",
     "dynasty": "Carolingian dynasty",
     "house": "Carolingian dynasty",
     "culture": "Frankish",
@@ -19113,7 +19122,7 @@
     "deathYear": 774,
     "birthPlace": "",
     "deathPlace": "",
-    "gender": "unknown",
+    "gender": "female",
     "dynasty": "Carolingian dynasty",
     "house": "Carolingian dynasty",
     "culture": "Frankish",
@@ -19157,7 +19166,7 @@
     "deathYear": 810,
     "birthPlace": "",
     "deathPlace": "",
-    "gender": "unknown",
+    "gender": "female",
     "dynasty": "Carolingian dynasty",
     "house": "Carolingian dynasty",
     "culture": "Frankish",
@@ -19201,7 +19210,7 @@
     "deathYear": 778,
     "birthPlace": "",
     "deathPlace": "",
-    "gender": "unknown",
+    "gender": "male",
     "dynasty": "Carolingian dynasty",
     "house": "Carolingian dynasty",
     "culture": "Frankish",
@@ -19245,7 +19254,7 @@
     "deathYear": 823,
     "birthPlace": "",
     "deathPlace": "",
-    "gender": "unknown",
+    "gender": "female",
     "dynasty": "Carolingian dynasty",
     "house": "Carolingian dynasty",
     "culture": "Frankish",
@@ -19289,7 +19298,7 @@
     "deathYear": 808,
     "birthPlace": "",
     "deathPlace": "",
-    "gender": "unknown",
+    "gender": "female",
     "dynasty": "Carolingian dynasty",
     "house": "Carolingian dynasty",
     "culture": "Frankish",
@@ -19333,7 +19342,7 @@
     "deathYear": 783,
     "birthPlace": "",
     "deathPlace": "",
-    "gender": "unknown",
+    "gender": "female",
     "dynasty": "Carolingian dynasty",
     "house": "Carolingian dynasty",
     "culture": "Frankish",
@@ -19377,7 +19386,7 @@
     "deathYear": 844,
     "birthPlace": "",
     "deathPlace": "",
-    "gender": "unknown",
+    "gender": "female",
     "dynasty": "Carolingian dynasty",
     "house": "Carolingian dynasty",
     "culture": "Frankish",
@@ -19421,7 +19430,7 @@
     "deathYear": 800,
     "birthPlace": "",
     "deathPlace": "",
-    "gender": "unknown",
+    "gender": "female",
     "dynasty": "Carolingian dynasty",
     "house": "Carolingian dynasty",
     "culture": "Frankish",
@@ -19465,7 +19474,7 @@
     "deathYear": 814,
     "birthPlace": "",
     "deathPlace": "",
-    "gender": "unknown",
+    "gender": "female",
     "dynasty": "Carolingian dynasty",
     "house": "Carolingian dynasty",
     "culture": "Frankish",
@@ -19509,7 +19518,7 @@
     "deathYear": 852,
     "birthPlace": "",
     "deathPlace": "",
-    "gender": "unknown",
+    "gender": "female",
     "dynasty": "Carolingian dynasty",
     "house": "Carolingian dynasty",
     "culture": "Frankish",
@@ -19529,11 +19538,11 @@
       "childIds": []
     },
     "events": [],
-    "wikiUrl": "https://en.wikipedia.org/wiki/Ruothild",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Ruothild_(daughter_of_Charlemagne)",
     "portraitUrl": "",
-    "sourceUrl": "https://en.wikipedia.org/wiki/Ruothild",
-    "sourceNote": "Child of Charlemagne. daughter traditionally attributed to Madelgard.",
-    "notes": "Added in the Charlemagne children expansion; spouse and partner data intentionally omitted.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Ruothild_(daughter_of_Charlemagne)",
+    "sourceNote": "Charlemagne's daughter by Madelgard; Abbess of Faremoutiers; died 24 March 852. Also spelled Rothild / Hruothild.",
+    "notes": "Daughter of Charlemagne and Madelgard; Abbess of Faremoutiers, died 24 March 852. Distinct from Hruodhaid, Charlemagne's illegitimate daughter of uncertain death date.",
     "createdDate": "20260817",
     "createdOrder": 104,
     "historicalRating": 4
@@ -19553,7 +19562,7 @@
     "deathYear": 855,
     "birthPlace": "",
     "deathPlace": "",
-    "gender": "unknown",
+    "gender": "male",
     "dynasty": "Carolingian dynasty",
     "house": "Carolingian dynasty",
     "culture": "Frankish",
@@ -19597,7 +19606,7 @@
     "deathYear": 844,
     "birthPlace": "",
     "deathPlace": "",
-    "gender": "unknown",
+    "gender": "male",
     "dynasty": "Carolingian dynasty",
     "house": "Carolingian dynasty",
     "culture": "Frankish",
@@ -19641,7 +19650,7 @@
     "deathYear": 818,
     "birthPlace": "",
     "deathPlace": "",
-    "gender": "unknown",
+    "gender": "male",
     "dynasty": "Carolingian dynasty",
     "house": "Carolingian dynasty",
     "culture": "Frankish",
@@ -19682,10 +19691,10 @@
     "displayNameCn": "赫鲁奥德海德",
     "fullNameCn": "赫鲁奥德海德",
     "birthYear": 787,
-    "deathYear": 852,
+    "deathYear": "",
     "birthPlace": "",
     "deathPlace": "",
-    "gender": "unknown",
+    "gender": "female",
     "dynasty": "Carolingian dynasty",
     "house": "Carolingian dynasty",
     "culture": "Frankish",
@@ -19708,8 +19717,8 @@
     "wikiUrl": "https://en.wikipedia.org/wiki/Hruodhaid",
     "portraitUrl": "",
     "sourceUrl": "https://en.wikipedia.org/wiki/Hruodhaid",
-    "sourceNote": "Child of Charlemagne. daughter; mother not identified in Einhard's account.",
-    "notes": "Added in the Charlemagne children expansion; spouse and partner data intentionally omitted.",
+    "sourceNote": "Charlemagne's illegitimate daughter, born c. 787; mother not identified in Einhard's account. Death year unrecorded — sources note she was still alive after 800, possibly after 814.",
+    "notes": "Illegitimate daughter of Charlemagne, born c. 787; death year unrecorded. Distinct from Ruothild, the Abbess of Faremoutiers who died 24 March 852.",
     "createdDate": "20260817",
     "createdOrder": 108,
     "historicalRating": 4
@@ -22031,5 +22040,443 @@
         "note": "His death ended the direct Capetian line; the rival claims of Philippe of Valois and Edward III of England led to the Hundred Years' War."
       }
     ]
+  },
+  {
+    "id": "acb44ca3-5936-4d3b-875a-0d485f5bcc70",
+    "firstName": "Godwin",
+    "lastName": "Wessex",
+    "displayName": "Godwin",
+    "fullName": "Godwin, Earl of Wessex",
+    "nickname": "",
+    "alsoKnownAs": ["Godwine", "Godwin of Wessex"],
+    "nicknameTags": [],
+    "displayNameCn": "戈德温",
+    "fullNameCn": "威塞克斯伯爵戈德温",
+    "birthYear": 990,
+    "deathYear": 1053,
+    "birthPlace": "Sussex, England",
+    "deathPlace": "Winchester, England",
+    "birthPlaceCn": "英格兰苏塞克斯",
+    "deathPlaceCn": "英格兰温彻斯特",
+    "gender": "male",
+    "dynasty": "House of Godwin",
+    "house": "House of Godwin",
+    "culture": "Anglo-Saxon",
+    "faith": "Catholic",
+    "primaryTitle": "Earl of Wessex",
+    "primaryTitleCn": "威塞克斯伯爵",
+    "titles": [
+      { "title": "Earl of Wessex", "titleCn": "威塞克斯伯爵", "startYear": 1019, "endYear": 1053 }
+    ],
+    "tags": ["noble", "commander", "statesman"],
+    "rank": "earl",
+    "importanceScore": 87,
+    "historicalRating": 8,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": ["131aba03-2d7b-4ae3-8d16-b7ebd660ce6c"]
+    },
+    "events": [
+      { "year": 1019, "type": "title_acquired", "tags": ["title", "noble"], "weight": 86, "label": "Became Earl of Wessex", "labelCn": "成为威塞克斯伯爵", "wikiUrl": "https://en.wikipedia.org/wiki/Godwin,_Earl_of_Wessex", "note": "Cnut elevated Godwin to the earldom of Wessex, making him one of the most powerful magnates in England." },
+      { "year": 1022, "type": "marriage", "tags": ["marriage", "dynasty"], "weight": 72, "label": "Marriage to Gytha Thorkelsdóttir", "labelCn": "与吉莎·索凯尔斯多蒂尔结婚", "wikiUrl": "https://en.wikipedia.org/wiki/Godwin,_Earl_of_Wessex", "note": "The marriage date is uncertain; Gytha was of Danish aristocratic descent and became mother of Harold Godwinson and his siblings." },
+      { "year": 1035, "type": "regency", "tags": ["government", "dynasty"], "weight": 76, "label": "Supported Harthacnut's claim after Cnut's death", "labelCn": "克努特去世后支持哈德克努特的继承权", "wikiUrl": "https://en.wikipedia.org/wiki/Godwin,_Earl_of_Wessex", "note": "Godwin was central to the contest between Harthacnut and Harold Harefoot after Cnut died." },
+      { "year": 1040, "type": "succession", "tags": ["government", "dynasty"], "weight": 78, "label": "Backed Harthacnut's accession", "labelCn": "支持哈德克努特即位", "wikiUrl": "https://en.wikipedia.org/wiki/Harthacnut", "note": "Godwin helped secure Harthacnut's return and accession as king of England." },
+      { "year": 1042, "type": "succession", "tags": ["government", "dynasty"], "weight": 88, "label": "Supported Edward the Confessor's accession", "labelCn": "支持忏悔者爱德华即位", "wikiUrl": "https://en.wikipedia.org/wiki/Edward_the_Confessor", "note": "Godwin remained indispensable when Edward succeeded Harthacnut, beginning the political dominance of the Godwin family under Edward." },
+      { "year": 1045, "month": 1, "day": 23, "type": "marriage", "tags": ["marriage", "dynasty"], "weight": 90, "label": "Daughter Edith married King Edward", "labelCn": "女儿伊迪丝嫁给爱德华国王", "wikiUrl": "https://en.wikipedia.org/wiki/Edith_of_Wessex", "note": "The marriage linked the royal house to the Godwin family, though it produced no children." },
+      { "year": 1051, "type": "exile", "tags": ["political_crisis", "exile"], "weight": 91, "label": "Exiled from England", "labelCn": "被逐出英格兰", "wikiUrl": "https://en.wikipedia.org/wiki/Godwin,_Earl_of_Wessex", "note": "After refusing Edward's order to punish Dover, Godwin and his family were outlawed and fled England." },
+      { "year": 1052, "type": "succession", "tags": ["political_crisis", "government"], "weight": 95, "label": "Returned and restored to power", "labelCn": "返回并恢复权力", "wikiUrl": "https://en.wikipedia.org/wiki/Godwin,_Earl_of_Wessex", "note": "Godwin returned with an armed fleet; Edward accepted a settlement and restored the family to its estates and offices." },
+      { "year": 1053, "month": 4, "day": 15, "type": "death", "tags": ["death"], "weight": 82, "label": "Death of Godwin, Earl of Wessex", "labelCn": "威塞克斯伯爵戈德温去世", "wikiUrl": "https://en.wikipedia.org/wiki/Godwin,_Earl_of_Wessex", "note": "He died at Winchester after collapsing during a royal gathering; later stories vary, and the precise medical cause is unknown." }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Godwin,_Earl_of_Wessex",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Godwin,_Earl_of_Wessex",
+    "sourceNote": "The date and place of Godwin's birth are uncertain; c. 990 and Sussex are conventional approximations. His political rise under Cnut and restoration in 1052 are well attested.",
+    "notes": "Father of Harold Godwinson. Gytha and the other Godwin children are not yet in the roster; the father-son UUID link is deliberately limited to the verified existing card.",
+    "createdDate": "260818",
+    "createdOrder": 1,
+    "deathCause": {
+      "kind": "uncertain",
+      "summary": "Collapsed and died; medical cause is not securely recorded",
+      "summaryCn": "昏倒后去世，确切病因无可靠记载",
+      "detail": "Godwin collapsed during a royal gathering at Winchester and died soon afterwards on 15 April 1053. Later accounts attach dramatic details to the episode, but no contemporary medical diagnosis survives.",
+      "detailCn": "1053年4月15日，戈德温在温彻斯特的一次王室集会上昏倒后不久去世。后世叙述增添了戏剧性细节，但没有可靠的当代医学记录。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Godwin,_Earl_of_Wessex"
+    }
+  },
+  {
+    "id": "131aba03-2d7b-4ae3-8d16-b7ebd660ce6c",
+    "firstName": "Harold",
+    "lastName": "Godwinson",
+    "displayName": "Harold II",
+    "fullName": "Harold II Godwinson",
+    "nickname": "",
+    "alsoKnownAs": ["Harold Godwinson", "Harold of Wessex"],
+    "nicknameTags": [],
+    "displayNameCn": "哈罗德二世",
+    "fullNameCn": "哈罗德二世·戈德温森",
+    "birthYear": 1022,
+    "deathYear": 1066,
+    "birthPlace": "Wessex, England",
+    "deathPlace": "Battle of Hastings, England",
+    "birthPlaceCn": "英格兰威塞克斯",
+    "deathPlaceCn": "英格兰黑斯廷斯战场",
+    "gender": "male",
+    "dynasty": "House of Godwin",
+    "house": "House of Godwin",
+    "culture": "Anglo-Saxon",
+    "faith": "Catholic",
+    "primaryTitle": "King of the English",
+    "primaryTitleCn": "英格兰人的国王",
+    "titles": [
+      { "title": "Earl of East Anglia", "titleCn": "东盎格利亚伯爵", "startYear": 1045, "endYear": 1053 },
+      { "title": "Earl of Wessex", "titleCn": "威塞克斯伯爵", "startYear": 1053, "endYear": 1066 },
+      { "title": "King of the English", "titleCn": "英格兰人的国王", "startYear": 1066, "endYear": 1066 }
+    ],
+    "tags": ["monarch", "commander", "noble"],
+    "rank": "king",
+    "importanceScore": 96,
+    "historicalRating": 10,
+    "relationships": {
+      "fatherId": "acb44ca3-5936-4d3b-875a-0d485f5bcc70",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      { "year": 1045, "type": "title_acquired", "tags": ["title", "noble"], "weight": 74, "label": "Became Earl of East Anglia", "labelCn": "成为东盎格利亚伯爵", "wikiUrl": "https://en.wikipedia.org/wiki/Harold_Godwinson", "note": "Harold first appears as earl in the mid-1040s; the precise initial territorial allocation is reconstructed from later evidence." },
+      { "year": 1051, "type": "exile", "tags": ["political_crisis", "exile"], "weight": 84, "label": "Exiled with the Godwin family", "labelCn": "随戈德温家族被逐出英格兰", "wikiUrl": "https://en.wikipedia.org/wiki/Harold_Godwinson", "note": "Harold left England with his father after the crisis between Godwin and Edward the Confessor." },
+      { "year": 1052, "type": "succession", "tags": ["political_crisis", "government"], "weight": 88, "label": "Returned with Godwin and restored", "labelCn": "随戈德温返回并恢复地位", "wikiUrl": "https://en.wikipedia.org/wiki/Harold_Godwinson", "note": "The negotiated restoration of the Godwins returned Harold to political prominence." },
+      { "year": 1053, "type": "title_acquired", "tags": ["title", "noble"], "weight": 94, "label": "Succeeded as Earl of Wessex", "labelCn": "继任威塞克斯伯爵", "wikiUrl": "https://en.wikipedia.org/wiki/Harold_Godwinson", "note": "After Godwin's death, Harold inherited Wessex and became the most powerful lay magnate in England." },
+      { "year": 1064, "type": "diplomacy", "tags": ["diplomacy", "uncertain"], "weight": 80, "label": "Shipwreck and oath in Normandy (traditional account)", "labelCn": "在诺曼底遇难并宣誓（传统叙述）", "wikiUrl": "https://en.wikipedia.org/wiki/Harold_Godwinson", "note": "Norman sources place Harold in Normandy and say he swore to support William's claim; the date, circumstances and legal meaning remain disputed." },
+      { "year": 1066, "month": 1, "day": 5, "type": "death", "tags": ["death", "dynasty"], "weight": 96, "label": "Death of Edward the Confessor", "labelCn": "忏悔者爱德华去世", "wikiUrl": "https://en.wikipedia.org/wiki/Edward_the_Confessor", "note": "Edward's death opened the succession crisis in which Harold, William of Normandy and Harald Hardrada all advanced claims." },
+      { "year": 1066, "month": 1, "day": 6, "type": "coronation", "tags": ["coronation", "king"], "weight": 100, "label": "Crowned King of the English", "labelCn": "加冕为英格兰人的国王", "wikiUrl": "https://en.wikipedia.org/wiki/Harold_Godwinson", "note": "The English sources associate Harold's coronation with Westminster on the day after Edward's death." },
+      { "year": 1066, "month": 9, "day": 25, "type": "battle", "tags": ["battle", "commander", "campaign"], "weight": 97, "label": "Battle of Stamford Bridge", "labelCn": "斯坦福桥战役", "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Stamford_Bridge", "note": "Harold defeated Harald Hardrada and his brother Tostig in Yorkshire, then marched south to meet William." },
+      { "year": 1066, "month": 10, "day": 14, "type": "battle", "tags": ["battle", "commander", "conquest"], "weight": 100, "label": "Battle of Hastings and death", "labelCn": "黑斯廷斯战役与战死", "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Hastings", "note": "Harold was killed while commanding the English army, reportedly struck in the eye by an arrow. The battle ended his kingship and opened the Norman conquest.", "noteCn": "哈罗德统率英格兰军队作战时阵亡；据说一箭射中其眼部。此战终结了他的王位，并开启诺曼征服。" }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Harold_Godwinson",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Harold_Godwinson",
+    "sourceNote": "Harold's birth year and several details of his Norman voyage are uncertain. His accession, Stamford Bridge and death at Hastings are securely dated.",
+    "notes": "Son of Godwin, Earl of Wessex. Edward the Confessor is his predecessor in the title chain, not his parent; no false genealogical edge is created. His wives/partners and children are outside the current roster.",
+    "createdDate": "260818",
+    "createdOrder": 2,
+    "deathCause": {
+      "kind": "violent_uncertain",
+      "summary": "Killed in battle at Hastings",
+      "summaryCn": "在黑斯廷斯战役中战死",
+      "detail": "Harold died fighting William of Normandy's army on 14 October 1066, reportedly after an arrow struck his eye.",
+      "detailCn": "1066年10月14日，哈罗德在与诺曼底威廉军队作战时阵亡；据说一箭射中其眼部。",
+      "culprit": "Army of William, Duke of Normandy",
+      "culpritCn": "诺曼底公爵威廉的军队",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Hastings"
+    }
+  },
+  {
+    "id": "a9d5b087-d9a5-4970-8f5c-6701fdb0463c",
+    "firstName": "Edward",
+    "lastName": "Wessex",
+    "displayName": "Edward the Confessor",
+    "fullName": "Edward the Confessor",
+    "nickname": "the Confessor",
+    "alsoKnownAs": ["Saint Edward the Confessor", "Edward III of England (pre-Conquest numbering)"],
+    "nicknameTags": ["saint", "confessor"],
+    "displayNameCn": "忏悔者爱德华",
+    "fullNameCn": "忏悔者爱德华",
+    "nicknameCn": "忏悔者",
+    "birthYear": 1003,
+    "deathYear": 1066,
+    "birthPlace": "Islip, Oxfordshire, England",
+    "deathPlace": "Westminster Palace, England",
+    "birthPlaceCn": "英格兰牛津郡艾斯利普",
+    "deathPlaceCn": "英格兰威斯敏斯特宫",
+    "gender": "male",
+    "dynasty": "House of Wessex",
+    "house": "House of Wessex",
+    "culture": "Anglo-Saxon",
+    "faith": "Catholic",
+    "primaryTitle": "King of the English",
+    "primaryTitleCn": "英格兰人的国王",
+    "titles": [
+      { "title": "King of the English", "titleCn": "英格兰人的国王", "startYear": 1042, "endYear": 1066 }
+    ],
+    "tags": ["monarch", "saint", "builder"],
+    "rank": "king",
+    "importanceScore": 95,
+    "historicalRating": 10,
+    "relationships": {
+      "fatherId": "ed0b5627-f0d9-4c85-ac64-26c1c4c3e4b2",
+      "motherId": "11999429-e764-4ed2-9c8c-cf95cfbbdecc",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      { "year": 1013, "type": "exile", "tags": ["exile", "dynasty"], "weight": 82, "label": "Fled to Normandy during the Danish conquest", "labelCn": "丹麦征服期间逃往诺曼底", "wikiUrl": "https://en.wikipedia.org/wiki/Edward_the_Confessor", "note": "Edward spent much of his youth in Normandy after Sweyn Forkbeard's invasion drove the royal family from England." },
+      { "year": 1041, "type": "succession", "tags": ["dynasty", "government"], "weight": 86, "label": "Returned to England under Harthacnut", "labelCn": "在哈德克努特统治下返回英格兰", "wikiUrl": "https://en.wikipedia.org/wiki/Edward_the_Confessor", "note": "Edward returned from Normandy and was associated with the childless Harthacnut's succession." },
+      { "year": 1042, "month": 6, "day": 8, "type": "title_acquired", "tags": ["title", "king"], "weight": 100, "label": "Became King of the English", "labelCn": "成为英格兰人的国王", "wikiUrl": "https://en.wikipedia.org/wiki/Edward_the_Confessor", "note": "Edward succeeded Harthacnut after the latter's sudden death, restoring the House of Wessex to the English throne." },
+      { "year": 1043, "month": 4, "day": 3, "type": "coronation", "tags": ["coronation", "king"], "weight": 90, "label": "Coronation at Winchester", "labelCn": "在温彻斯特加冕", "wikiUrl": "https://en.wikipedia.org/wiki/Edward_the_Confessor" },
+      { "year": 1045, "month": 1, "day": 23, "type": "marriage", "tags": ["marriage", "dynasty"], "weight": 84, "label": "Marriage to Edith of Wessex", "labelCn": "与威塞克斯的伊迪丝结婚", "wikiUrl": "https://en.wikipedia.org/wiki/Edith_of_Wessex", "note": "Edward married Godwin's daughter Edith; the marriage had no recorded children." },
+      { "year": 1051, "type": "political_crisis", "tags": ["government", "rebellion"], "weight": 88, "label": "Exile of the Godwin family", "labelCn": "放逐戈德温家族", "wikiUrl": "https://en.wikipedia.org/wiki/Godwin,_Earl_of_Wessex", "note": "Edward's conflict with Earl Godwin temporarily expelled the most powerful English family from the kingdom." },
+      { "year": 1052, "type": "political_crisis", "tags": ["government", "diplomacy"], "weight": 90, "label": "Restored the Godwin family after their return", "labelCn": "戈德温家族归来后恢复其地位", "wikiUrl": "https://en.wikipedia.org/wiki/Edward_the_Confessor", "note": "Godwin's armed return forced a settlement; Edward restored the family, including Harold, to power." },
+      { "year": 1057, "type": "succession", "tags": ["succession", "dynasty"], "weight": 86, "label": "Recalled Edward the Exile as heir", "labelCn": "召回流亡者爱德华作为继承人", "wikiUrl": "https://en.wikipedia.org/wiki/Edward_the_Exile", "note": "The returned ætheling died within days, leaving Edward's succession unsettled." },
+      { "year": 1065, "type": "government", "tags": ["religion", "builder"], "weight": 88, "label": "Westminster Abbey church consecrated", "labelCn": "威斯敏斯特修道院教堂祝圣", "wikiUrl": "https://en.wikipedia.org/wiki/Westminster_Abbey", "note": "Edward's rebuilt abbey church was consecrated shortly before his death and became the focus of his posthumous cult." },
+      { "year": 1066, "month": 1, "day": 5, "type": "death", "tags": ["death", "succession"], "weight": 100, "label": "Death of Edward the Confessor", "labelCn": "忏悔者爱德华去世", "wikiUrl": "https://en.wikipedia.org/wiki/Edward_the_Confessor", "note": "Edward died childless, immediately precipitating the English succession crisis of 1066." }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Edward_the_Confessor",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Edward_the_Confessor",
+    "sourceNote": "Edward's date and place of birth are generally given as c. 1003 at Islip, though early sources are limited. His reign and death dates are secure.",
+    "notes": "Predecessor of Harold II in the English royal succession. The project does not assert a biological relationship between Edward and Harold; their adjacency belongs only to the title-holder chain. His parents, wife and wider Wessex family are not yet connected here because the necessary cards are absent or incomplete.",
+    "createdDate": "260818",
+    "createdOrder": 3,
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died after illness, likely natural causes",
+      "summaryCn": "病后自然去世",
+      "detail": "Edward fell ill late in 1065 and died at Westminster Palace on 5 January 1066. Sources do not identify a more specific diagnosis, but his death is treated as natural rather than violent.",
+      "detailCn": "爱德华在1065年末患病，1066年1月5日于威斯敏斯特宫去世。史料未给出更具体的诊断，通常视为自然死亡而非暴力致死。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Edward_the_Confessor"
+    }
+  },
+  {
+    "id": "648b3003-e95f-4d08-b36d-cb115b14c7c9",
+    "firstName": "Louis",
+    "lastName": "",
+    "displayName": "Louis I",
+    "fullName": "Louis the Pious",
+    "nickname": "the Pious",
+    "alsoKnownAs": [
+      "Louis the Pious",
+      "Louis le Pieux",
+      "Louis the Debonaire"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "虔诚者路易",
+    "fullNameCn": "虔诚者路易",
+    "nicknameCn": "虔诚者",
+    "birthYear": 778,
+    "deathYear": 840,
+    "birthPlace": "Chasseneuil-du-Poitou, Francia",
+    "deathPlace": "Ingelheim, Francia",
+    "birthPlaceCn": "法兰克沙瑟讷伊",
+    "deathPlaceCn": "法兰克英格尔海姆",
+    "gender": "male",
+    "dynasty": "Carolingian dynasty",
+    "house": "Carolingian dynasty",
+    "culture": "Frankish",
+    "faith": "Catholic",
+    "primaryTitle": "Holy Roman Emperor",
+    "primaryTitleCn": "神圣罗马帝国皇帝",
+    "titles": [
+      {
+        "title": "King of Aquitaine",
+        "startYear": 781,
+        "endYear": 814,
+        "titleCn": "阿基坦国王"
+      },
+      {
+        "title": "Holy Roman Emperor",
+        "startYear": 814,
+        "endYear": 840,
+        "titleCn": "神圣罗马帝国皇帝"
+      },
+      {
+        "title": "King of the Franks",
+        "startYear": 814,
+        "endYear": 840,
+        "titleCn": "法兰克国王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "emperor",
+      "king"
+    ],
+    "rank": "emperor",
+    "importanceScore": 88,
+    "relationships": {
+      "fatherId": "02b8c87d-6e49-4027-a6fa-a92431160a38",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Louis_the_Pious",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Louis_the_Pious",
+    "sourceNote": "Mother Hildegard of Vinzgouw is not yet in the roster. Twin of Lothair (778), who died in infancy. Spouses Ermengarde of Hesbaye and Judith of Bavaria, and his sons (Lothair I, Pepin I of Aquitaine, Louis the German, Charles the Bald), are not yet in the roster.",
+    "notes": "Third son of Charlemagne and Hildegard; the only legitimate adult son to survive his father and succeed to the empire. Emperor of the Carolingian Empire and King of the Franks from 814 to 840.",
+    "historicalRating": 9,
+    "createdDate": "20260818",
+    "createdOrder": 123,
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died at Ingelheim",
+      "summaryCn": "在英格尔海姆去世",
+      "detail": "Louis the Pious died on 20 June 840 at Ingelheim, near Mainz, after the final partition of the empire among his sons.",
+      "detailCn": "840 年 6 月 20 日，虔诚者路易在最终将帝国分封诸子之后，于美因茨附近的英格尔海姆去世。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Louis_the_Pious"
+    },
+    "events": [
+      {
+        "year": 778,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 60,
+        "label": "Born at Chasseneuil, twin of Lothair",
+        "labelCn": "出生于沙瑟讷伊，洛泰尔的双胞胎兄弟",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Louis_the_Pious"
+      },
+      {
+        "year": 781,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "king"
+        ],
+        "weight": 84,
+        "label": "Crowned King of Aquitaine",
+        "labelCn": "加冕为阿基坦国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Louis_the_Pious",
+        "note": "Crowned king of Aquitaine as a young child under Charlemagne's authority."
+      },
+      {
+        "year": 801,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "conquest",
+          "territory"
+        ],
+        "weight": 72,
+        "label": "Conquest of Barcelona",
+        "labelCn": "征服巴塞罗那",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Louis_the_Pious",
+        "note": "Captured Barcelona from the Emirate of Córdoba."
+      },
+      {
+        "year": 813,
+        "month": 9,
+        "day": 11,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 90,
+        "label": "Crowned co-emperor at Aachen",
+        "labelCn": "在亚琛加冕为共治皇帝",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Louis_the_Pious"
+      },
+      {
+        "year": 814,
+        "month": 1,
+        "day": 28,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "monarch"
+        ],
+        "weight": 96,
+        "label": "Became sole emperor and King of the Franks",
+        "labelCn": "成为唯一皇帝与法兰克人国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Louis_the_Pious"
+      },
+      {
+        "year": 816,
+        "month": 10,
+        "day": 5,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch",
+          "church"
+        ],
+        "weight": 82,
+        "label": "Papal coronation at Reims",
+        "labelCn": "兰斯教宗加冕",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Louis_the_Pious",
+        "note": "Crowned by Pope Stephen IV at Reims."
+      },
+      {
+        "year": 817,
+        "type": "government",
+        "tags": [
+          "government",
+          "law",
+          "succession"
+        ],
+        "weight": 88,
+        "label": "Ordinatio Imperii",
+        "labelCn": "颁布〈帝国条例〉",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ordinatio_Imperii",
+        "note": "Planned the division of the empire among his sons while preserving imperial unity."
+      },
+      {
+        "year": 833,
+        "month": 11,
+        "day": 13,
+        "type": "political_crisis",
+        "tags": [
+          "political_crisis",
+          "rebellion"
+        ],
+        "weight": 86,
+        "label": "Deposed at the Field of Lies",
+        "labelCn": "在「谎言之地」被废黜",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Louis_the_Pious",
+        "note": "Deposed by his rebellious sons at the Field of Lies; restored on 1 March 834."
+      },
+      {
+        "year": 840,
+        "month": 6,
+        "day": 20,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 95,
+        "label": "Died at Ingelheim",
+        "labelCn": "在英格尔海姆去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Louis_the_Pious",
+        "note": "His death led to the Treaty of Verdun (843), which divided the Carolingian Empire."
+      }
+    ]
+  },
+  {
+    "id": "40c3aefb-37eb-48eb-8e56-e22733674533", "firstName": "Eadwig", "lastName": "Wessex", "displayName": "Eadwig", "fullName": "Eadwig, King of the English", "displayNameCn": "伊德维格", "fullNameCn": "英格兰人的国王伊德维格", "nickname": "the Fair", "nicknameCn": "俊美者", "alsoKnownAs": ["Edwy"], "nicknameTags": ["fair"], "birthYear": 941, "deathYear": 959, "birthPlace": "England", "deathPlace": "Gloucester, England", "birthPlaceCn": "英格兰", "deathPlaceCn": "英格兰格洛斯特", "gender": "male", "dynasty": "House of Wessex", "house": "House of Wessex", "culture": "Anglo-Saxon", "faith": "Catholic", "primaryTitle": "King of the English", "primaryTitleCn": "英格兰人的国王", "titles": [{"title":"King of the English","titleCn":"英格兰人的国王","startYear":955,"endYear":959}], "tags": ["monarch"], "rank": "king", "importanceScore": 70, "historicalRating": 6, "relationships": {"fatherId":"6a820f17-48e1-4927-b3f6-3471625acd47","motherId":"","spouseIds":[],"partnerIds":[],"childIds":[]}, "events": [], "wikiUrl":"https://en.wikipedia.org/wiki/Eadwig", "portraitUrl":"", "sourceUrl":"https://en.wikipedia.org/wiki/Eadwig", "sourceNote":"Son of Edmund I; ruled from 955 until his death in 959.", "notes":"Basic main-line card. His short reign was contested and England was divided in 957 between Eadwig in Wessex and his brother Edgar in Mercia.", "createdDate":"260818", "createdOrder":145
+  },
+  {
+    "id": "84ce52d6-91bf-47fb-afa1-5f869f20fbf6", "firstName": "Edward", "lastName": "Wessex", "displayName": "Edward the Martyr", "fullName": "Edward the Martyr", "displayNameCn": "殉道者爱德华", "fullNameCn": "殉道者爱德华", "nickname": "the Martyr", "nicknameCn": "殉道者", "alsoKnownAs": [], "nicknameTags": ["martyr"], "birthYear": 962, "deathYear": 978, "birthPlace": "England", "deathPlace": "Corfe Castle, England", "birthPlaceCn": "英格兰", "deathPlaceCn": "英格兰科夫城堡", "gender": "male", "dynasty": "House of Wessex", "house": "House of Wessex", "culture": "Anglo-Saxon", "faith": "Catholic", "primaryTitle": "King of the English", "primaryTitleCn": "英格兰人的国王", "titles": [{"title":"King of the English","titleCn":"英格兰人的国王","startYear":975,"endYear":978}], "tags": ["monarch","saint"], "rank":"king", "importanceScore":76, "historicalRating":7, "relationships":{"fatherId":"eceed220-7a02-42dd-99cb-3420f16e2cf6","motherId":"","spouseIds":[],"partnerIds":[],"childIds":[]}, "events":[], "deathCause":{"kind":"violent","summary":"Murdered at Corfe Castle","summaryCn":"在科夫城堡遇害","detail":"Edward was killed at Corfe Castle on 18 March 978; the circumstances and instigators remain uncertain.","detailCn":"978年3月18日，爱德华在科夫城堡遇害；具体经过与主使者仍不明确。","wikiUrl":"https://en.wikipedia.org/wiki/Edward_the_Martyr"}, "wikiUrl":"https://en.wikipedia.org/wiki/Edward_the_Martyr", "portraitUrl":"", "sourceUrl":"https://en.wikipedia.org/wiki/Edward_the_Martyr", "sourceNote":"Elder son of Edgar the Peaceful; murdered in 978 and later venerated as a saint.", "notes":"Basic main-line card.", "createdDate":"260818", "createdOrder":146
+  },
+  {
+    "id":"01da1402-5d85-4186-859a-34f8cb06182d", "firstName":"Sweyn", "lastName":"Denmark", "displayName":"Sweyn Forkbeard", "fullName":"Sweyn Forkbeard", "displayNameCn":"斯温八字胡", "fullNameCn":"八字胡斯温", "nickname":"Forkbeard", "nicknameCn":"八字胡", "alsoKnownAs":["Svend Tveskæg","Sweyn I of Denmark"], "nicknameTags":["forkbeard"], "birthYear":960, "deathYear":1014, "birthPlace":"Denmark", "deathPlace":"Gainsborough, England", "birthPlaceCn":"丹麦", "deathPlaceCn":"英格兰盖恩斯伯勒", "gender":"male", "dynasty":"House of Knýtlinga", "house":"House of Knýtlinga", "culture":"Danish", "faith":"Catholic", "primaryTitle":"King of Denmark", "primaryTitleCn":"丹麦国王", "titles":[{"title":"King of Denmark","titleCn":"丹麦国王","startYear":986,"endYear":1014},{"title":"King of England","titleCn":"英格兰国王","startYear":1013,"endYear":1014}], "tags":["monarch","commander","conqueror"], "rank":"king", "importanceScore":88, "historicalRating":8, "relationships":{"fatherId":"","motherId":"","spouseIds":[],"partnerIds":[],"childIds":["0fb64530-ea06-47ec-9570-6166155b53ba"]}, "events":[{"year":986,"type":"succession","tags":["succession","monarch"],"weight":86,"label":"Became King of Denmark","labelCn":"成为丹麦国王","wikiUrl":"https://en.wikipedia.org/wiki/Sweyn_Forkbeard"},{"year":1003,"type":"campaign","tags":["campaign","conquest"],"weight":88,"label":"Renewed Danish invasion of England","labelCn":"重启对英格兰的丹麦入侵","wikiUrl":"https://en.wikipedia.org/wiki/Sweyn_Forkbeard"},{"year":1013,"type":"conquest","tags":["conquest","monarch"],"weight":99,"label":"Conquered England","labelCn":"征服英格兰","wikiUrl":"https://en.wikipedia.org/wiki/Sweyn_Forkbeard","note":"Æthelred fled to Normandy and Sweyn was acknowledged as king late in 1013."},{"year":1014,"month":2,"day":3,"type":"death","tags":["death"],"weight":92,"label":"Died at Gainsborough","labelCn":"在盖恩斯伯勒去世","wikiUrl":"https://en.wikipedia.org/wiki/Sweyn_Forkbeard"}], "deathCause":{"kind":"uncertain","summary":"Died suddenly after conquering England","summaryCn":"征服英格兰后突然去世","detail":"Sweyn died at Gainsborough on 3 February 1014; the cause is not securely recorded.","detailCn":"1014年2月3日，斯温在盖恩斯伯勒去世；确切死因无可靠记载。","wikiUrl":"https://en.wikipedia.org/wiki/Sweyn_Forkbeard"}, "wikiUrl":"https://en.wikipedia.org/wiki/Sweyn_Forkbeard", "portraitUrl":"", "sourceUrl":"https://en.wikipedia.org/wiki/Sweyn_Forkbeard", "sourceNote":"King of Denmark and briefly king of England; father of Cnut.", "notes":"North Sea imperial background card; basic family links are limited to the roster.", "createdDate":"260818", "createdOrder":147
+  },
+  {
+    "id":"0fb64530-ea06-47ec-9570-6166155b53ba", "firstName":"Cnut", "lastName":"Denmark", "displayName":"Cnut the Great", "fullName":"Cnut the Great", "displayNameCn":"克努特大帝", "fullNameCn":"克努特大帝", "nickname":"the Great", "nicknameCn":"大帝", "alsoKnownAs":["Canute the Great","Cnut I of England"], "nicknameTags":["great"], "birthYear":990, "deathYear":1035, "birthPlace":"Denmark", "deathPlace":"Shaftesbury, England", "birthPlaceCn":"丹麦", "deathPlaceCn":"英格兰沙夫茨伯里", "gender":"male", "dynasty":"House of Knýtlinga", "house":"House of Knýtlinga", "culture":"Danish", "faith":"Catholic", "primaryTitle":"King of England", "primaryTitleCn":"英格兰国王", "titles":[{"title":"King of England","titleCn":"英格兰国王","startYear":1016,"endYear":1035},{"title":"King of Denmark","titleCn":"丹麦国王","startYear":1018,"endYear":1035},{"title":"King of Norway","titleCn":"挪威国王","startYear":1028,"endYear":1035}], "tags":["monarch","commander","conqueror"], "rank":"king", "importanceScore":94, "historicalRating":9, "relationships":{"fatherId":"01da1402-5d85-4186-859a-34f8cb06182d","motherId":"","spouseIds":["11999429-e764-4ed2-9c8c-cf95cfbbdecc"],"partnerIds":[],"childIds":["d539abe5-c27d-4b1a-a3b3-e16d93ce2344","0a5b30a1-051e-41ea-a10a-1c37ce523603"]}, "events":[{"year":1016,"month":10,"day":18,"type":"battle","tags":["battle","conquest","commander"],"weight":98,"label":"Battle of Assandun","labelCn":"阿桑顿战役","wikiUrl":"https://en.wikipedia.org/wiki/Battle_of_Assandun"},{"year":1016,"month":11,"day":30,"type":"succession","tags":["succession","monarch"],"weight":99,"label":"Became sole king of England","labelCn":"成为唯一的英格兰国王","wikiUrl":"https://en.wikipedia.org/wiki/Cnut_the_Great"},{"year":1017,"type":"marriage","tags":["marriage","dynasty"],"weight":91,"label":"Marriage to Emma of Normandy","labelCn":"与诺曼底的埃玛结婚","wikiUrl":"https://en.wikipedia.org/wiki/Emma_of_Normandy"},{"year":1018,"type":"succession","tags":["succession","monarch"],"weight":88,"label":"Became King of Denmark","labelCn":"成为丹麦国王","wikiUrl":"https://en.wikipedia.org/wiki/Cnut_the_Great"},{"year":1028,"type":"conquest","tags":["conquest","monarch"],"weight":88,"label":"Became King of Norway","labelCn":"成为挪威国王","wikiUrl":"https://en.wikipedia.org/wiki/Cnut_the_Great"},{"year":1035,"month":11,"day":12,"type":"death","tags":["death"],"weight":94,"label":"Died at Shaftesbury","labelCn":"在沙夫茨伯里去世","wikiUrl":"https://en.wikipedia.org/wiki/Cnut_the_Great"}], "deathCause":{"kind":"normal","summary":"Died at Shaftesbury","summaryCn":"在沙夫茨伯里去世","detail":"Cnut died at Shaftesbury on 12 November 1035 after ruling England, Denmark and Norway.","detailCn":"1035年11月12日，克努特在统治英格兰、丹麦与挪威期间去世。","wikiUrl":"https://en.wikipedia.org/wiki/Cnut_the_Great"}, "wikiUrl":"https://en.wikipedia.org/wiki/Cnut_the_Great", "portraitUrl":"", "sourceUrl":"https://en.wikipedia.org/wiki/Cnut_the_Great", "sourceNote":"Son of Sweyn Forkbeard; ruler of the North Sea Empire.", "notes":"Full North Sea Empire anchor card. Harold Harefoot and Harthacnut are represented in the roster; their mothers are intentionally not both modeled.", "createdDate":"260818", "createdOrder":148
+  },
+  {
+    "id":"11999429-e764-4ed2-9c8c-cf95cfbbdecc", "firstName":"Emma", "lastName":"Normandy", "displayName":"Emma of Normandy", "fullName":"Emma of Normandy", "displayNameCn":"诺曼底的艾玛", "fullNameCn":"诺曼底的艾玛", "nickname":"", "nicknameCn":"", "alsoKnownAs":["Ælfgifu"], "nicknameTags":[], "birthYear":984, "deathYear":1052, "birthPlace":"Normandy", "deathPlace":"Winchester, England", "birthPlaceCn":"诺曼底", "deathPlaceCn":"英格兰温彻斯特", "gender":"female", "dynasty":"House of Normandy", "house":"House of Normandy", "culture":"Norman", "faith":"Catholic", "primaryTitle":"Queen of England", "primaryTitleCn":"英格兰王后", "titles":[{"title":"Queen of England","titleCn":"英格兰王后","startYear":1002,"endYear":1016},{"title":"Queen of England","titleCn":"英格兰王后","startYear":1017,"endYear":1035}], "tags":["queen","noble","administrator"], "rank":"queen", "importanceScore":91, "historicalRating":9, "relationships":{"fatherId":"f9226738-a160-482d-9fe8-dbf10b285845","motherId":"","spouseIds":["ed0b5627-f0d9-4c85-ac64-26c1c4c3e4b2","0fb64530-ea06-47ec-9570-6166155b53ba"],"partnerIds":[],"childIds":["a9d5b087-d9a5-4970-8f5c-6701fdb0463c","0a5b30a1-051e-41ea-a10a-1c37ce523603"]}, "events":[{"year":1002,"type":"marriage","tags":["marriage","dynasty"],"weight":90,"label":"Marriage to Æthelred II","labelCn":"与埃塞尔雷德二世结婚","wikiUrl":"https://en.wikipedia.org/wiki/Emma_of_Normandy"},{"year":1013,"type":"exile","tags":["exile","dynasty"],"weight":82,"label":"Fled to Normandy during Sweyn's conquest","labelCn":"斯温征服时逃往诺曼底","wikiUrl":"https://en.wikipedia.org/wiki/Emma_of_Normandy"},{"year":1017,"type":"marriage","tags":["marriage","dynasty"],"weight":94,"label":"Marriage to Cnut","labelCn":"与克努特结婚","wikiUrl":"https://en.wikipedia.org/wiki/Emma_of_Normandy"},{"year":1035,"type":"regency","tags":["government","dynasty"],"weight":86,"label":"Acted for Harthacnut's claim","labelCn":"为哈德克努特的继承权主持政局","wikiUrl":"https://en.wikipedia.org/wiki/Emma_of_Normandy"},{"year":1042,"type":"succession","tags":["succession","dynasty"],"weight":84,"label":"Edward the Confessor became king","labelCn":"忏悔者爱德华成为国王","wikiUrl":"https://en.wikipedia.org/wiki/Emma_of_Normandy"}], "deathCause":{"kind":"normal","summary":"Died at Winchester","summaryCn":"在温彻斯特去世","detail":"Emma died in 1052 and was buried in the Old Minster at Winchester.","detailCn":"艾玛于1052年去世，葬于温彻斯特旧教堂。","wikiUrl":"https://en.wikipedia.org/wiki/Emma_of_Normandy"}, "wikiUrl":"https://en.wikipedia.org/wiki/Emma_of_Normandy", "portraitUrl":"", "sourceUrl":"https://en.wikipedia.org/wiki/Emma_of_Normandy", "sourceNote":"Norman duchess who was queen to Æthelred II and then Cnut; mother of Edward the Confessor and Harthacnut.", "notes":"Full cross-dynastic anchor card. Her son Alfred Ætheling is outside the current roster.", "createdDate":"260818", "createdOrder":149
+  },
+  {
+    "id":"d539abe5-c27d-4b1a-a3b3-e16d93ce2344", "firstName":"Harold", "lastName":"Denmark", "displayName":"Harold Harefoot", "fullName":"Harold Harefoot", "displayNameCn":"野兔脚哈罗德", "fullNameCn":"野兔脚哈罗德", "nickname":"Harefoot", "nicknameCn":"野兔脚", "alsoKnownAs":["Harold I"], "nicknameTags":["harefoot"], "birthYear":1015, "deathYear":1040, "birthPlace":"England", "deathPlace":"Oxford, England", "birthPlaceCn":"英格兰", "deathPlaceCn":"英格兰牛津", "gender":"male", "dynasty":"House of Knýtlinga", "house":"House of Knýtlinga", "culture":"Danish", "faith":"Catholic", "primaryTitle":"King of England", "primaryTitleCn":"英格兰国王", "titles":[{"title":"King of England","titleCn":"英格兰国王","startYear":1037,"endYear":1040}], "tags":["monarch"], "rank":"king", "importanceScore":72, "historicalRating":6, "relationships":{"fatherId":"0fb64530-ea06-47ec-9570-6166155b53ba","motherId":"","spouseIds":[],"partnerIds":[],"childIds":[]}, "events":[], "wikiUrl":"https://en.wikipedia.org/wiki/Harold_Harefoot", "portraitUrl":"", "sourceUrl":"https://en.wikipedia.org/wiki/Harold_Harefoot", "sourceNote":"Son of Cnut and Ælfgifu of Northampton; ruled England from 1037 to 1040.", "notes":"Basic North Sea Empire succession card; his mother is not yet in the roster.", "createdDate":"260818", "createdOrder":150
+  },
+  {
+    "id":"0a5b30a1-051e-41ea-a10a-1c37ce523603", "firstName":"Harthacnut", "lastName":"Denmark", "displayName":"Harthacnut", "fullName":"Harthacnut, King of England", "displayNameCn":"哈德克努特", "fullNameCn":"英格兰国王哈德克努特", "nickname":"", "nicknameCn":"", "alsoKnownAs":["Harthacanute","Cnut III of Denmark"], "nicknameTags":[], "birthYear":1018, "deathYear":1042, "birthPlace":"England", "deathPlace":"Lambeth, England", "birthPlaceCn":"英格兰", "deathPlaceCn":"英格兰兰贝斯", "gender":"male", "dynasty":"House of Knýtlinga", "house":"House of Knýtlinga", "culture":"Danish", "faith":"Catholic", "primaryTitle":"King of England", "primaryTitleCn":"英格兰国王", "titles":[{"title":"King of Denmark","titleCn":"丹麦国王","startYear":1035,"endYear":1042},{"title":"King of England","titleCn":"英格兰国王","startYear":1040,"endYear":1042}], "tags":["monarch"], "rank":"king", "importanceScore":75, "historicalRating":7, "relationships":{"fatherId":"0fb64530-ea06-47ec-9570-6166155b53ba","motherId":"11999429-e764-4ed2-9c8c-cf95cfbbdecc","spouseIds":[],"partnerIds":[],"childIds":[]}, "events":[], "deathCause":{"kind":"normal","summary":"Died suddenly at Lambeth","summaryCn":"在兰贝斯突然去世","detail":"Harthacnut died suddenly at a wedding feast in Lambeth on 8 June 1042.","detailCn":"1042年6月8日，哈德克努特在兰贝斯的一场婚宴上突然去世。","wikiUrl":"https://en.wikipedia.org/wiki/Harthacnut"}, "wikiUrl":"https://en.wikipedia.org/wiki/Harthacnut", "portraitUrl":"", "sourceUrl":"https://en.wikipedia.org/wiki/Harthacnut", "sourceNote":"Son of Cnut and Emma; king of Denmark and England, succeeded in England by Edward the Confessor.", "notes":"Basic North Sea Empire succession card.", "createdDate":"260818", "createdOrder":151
+  },
+  {
+    "id":"8da6a92d-40c5-47c0-8c42-9858db5cf61d", "firstName":"Stephen", "lastName":"Blois", "displayName":"Stephen", "fullName":"Stephen, King of England", "displayNameCn":"斯蒂芬", "fullNameCn":"英格兰国王斯蒂芬", "nickname":"", "nicknameCn":"", "alsoKnownAs":["Stephen of Blois"], "nicknameTags":[], "birthYear":1092, "deathYear":1154, "birthPlace":"Blois, France", "deathPlace":"Dover, England", "birthPlaceCn":"法国布卢瓦", "deathPlaceCn":"英格兰多佛", "gender":"male", "dynasty":"House of Blois", "house":"House of Blois", "culture":"French", "faith":"Catholic", "primaryTitle":"King of England", "primaryTitleCn":"英格兰国王", "titles":[{"title":"King of England","titleCn":"英格兰国王","startYear":1135,"endYear":1154}], "tags":["monarch","noble"], "rank":"king", "importanceScore":78, "historicalRating":7, "relationships":{"fatherId":"","motherId":"","spouseIds":[],"partnerIds":[],"childIds":[]}, "events":[], "wikiUrl":"https://en.wikipedia.org/wiki/Stephen,_King_of_England", "portraitUrl":"", "sourceUrl":"https://en.wikipedia.org/wiki/Stephen,_King_of_England", "sourceNote":"King during the Anarchy; succeeded by Henry II under the Treaty of Wallingford.", "notes":"Basic main-line succession card. His parent generation is outside the current roster.", "createdDate":"260818", "createdOrder":152
+  },
+  {
+    "id":"62f8458b-9497-45fd-8ccc-7930f38c7ae8", "firstName":"Richard", "lastName":"York", "displayName":"Richard III", "fullName":"Richard III of England", "displayNameCn":"理查三世", "fullNameCn":"英格兰国王理查三世", "nickname":"", "nicknameCn":"", "alsoKnownAs":["Richard of Gloucester"], "nicknameTags":[], "birthYear":1452, "deathYear":1485, "birthPlace":"Fotheringhay Castle, England", "deathPlace":"Bosworth Field, England", "birthPlaceCn":"英格兰福瑟林盖城堡", "deathPlaceCn":"英格兰博斯沃思原野", "gender":"male", "dynasty":"House of Plantagenet", "house":"House of York", "culture":"English", "faith":"Catholic", "primaryTitle":"King of England", "primaryTitleCn":"英格兰国王", "titles":[{"title":"King of England","titleCn":"英格兰国王","startYear":1483,"endYear":1485}], "tags":["monarch","commander"], "rank":"king", "importanceScore":84, "historicalRating":8, "relationships":{"fatherId":"1299a0d9-153e-4a1d-a90f-27ae608c44ae","motherId":"","spouseIds":[],"partnerIds":[],"childIds":[]}, "events":[], "deathCause":{"kind":"violent","summary":"Killed at the Battle of Bosworth Field","summaryCn":"在博斯沃思原野战役中阵亡","detail":"Richard III was killed in battle on 22 August 1485.","detailCn":"1485年8月22日，理查三世在战斗中阵亡。","wikiUrl":"https://en.wikipedia.org/wiki/Richard_III_of_England"}, "wikiUrl":"https://en.wikipedia.org/wiki/Richard_III_of_England", "portraitUrl":"", "sourceUrl":"https://en.wikipedia.org/wiki/Richard_III_of_England", "sourceNote":"Younger brother of Edward IV; last Plantagenet king of England.", "notes":"Basic main-line succession card.", "createdDate":"260818", "createdOrder":153
+  },
+  {
+    "id":"358dd39b-2742-4ae8-8c50-897bd98cf897", "firstName":"Edward", "lastName":"Tudor", "displayName":"Edward VI", "fullName":"Edward VI of England", "displayNameCn":"爱德华六世", "fullNameCn":"英格兰国王爱德华六世", "nickname":"", "nicknameCn":"", "alsoKnownAs":[], "nicknameTags":[], "birthYear":1537, "deathYear":1553, "birthPlace":"Hampton Court Palace, England", "deathPlace":"Greenwich Palace, England", "birthPlaceCn":"英格兰汉普顿宫", "deathPlaceCn":"英格兰格林尼治宫", "gender":"male", "dynasty":"House of Tudor", "house":"House of Tudor", "culture":"English", "faith":"Protestant", "primaryTitle":"King of England", "primaryTitleCn":"英格兰国王", "titles":[{"title":"King of England","titleCn":"英格兰国王","startYear":1547,"endYear":1553}], "tags":["monarch"], "rank":"king", "importanceScore":82, "historicalRating":8, "relationships":{"fatherId":"56f44ca5-9a53-45b7-943d-619335ae6179","motherId":"","spouseIds":[],"partnerIds":[],"childIds":[]}, "events":[], "deathCause":{"kind":"normal","summary":"Died after a prolonged illness","summaryCn":"久病后去世","detail":"Edward VI died at Greenwich Palace on 6 July 1553 after a long illness, probably tuberculosis.","detailCn":"1553年7月6日，爱德华六世在长期患病后于格林尼治宫去世，可能死于肺结核。","wikiUrl":"https://en.wikipedia.org/wiki/Edward_VI"}, "wikiUrl":"https://en.wikipedia.org/wiki/Edward_VI", "portraitUrl":"", "sourceUrl":"https://en.wikipedia.org/wiki/Edward_VI", "sourceNote":"Only son of Henry VIII to survive infancy; succeeded by Mary I after the short Lady Jane Grey episode.", "notes":"Basic main-line succession card; mother Jane Seymour is outside the current roster.", "createdDate":"260818", "createdOrder":154
   }
 ]

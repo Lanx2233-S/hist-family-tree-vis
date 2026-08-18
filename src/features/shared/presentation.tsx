@@ -55,7 +55,7 @@ export const copy = {
   noMatchingPeople: { en: "No matching people", cn: "无匹配人物" },
   addPerson: { en: "+ Person", cn: "+ 人物" },
   familyTree: { en: "Family Tree", cn: "家族树" },
-  documentTitle: { en: "Norman Family Tree", cn: "诺曼家族树" },
+  documentTitle: { en: "Historical Family Tree", cn: "历史人物家谱" },
   tagsPlaceholder: { en: "monarch, commander, noble", cn: "如 monarch, commander, noble" },
   // Detail panel
   culture: { en: "Culture", cn: "文化" },
@@ -95,8 +95,21 @@ export const copy = {
   pages: { en: "Pages", cn: "页面" },
   homePage: { en: "Home Page", cn: "首页" },
   treePage: { en: "Tree Page", cn: "家谱页" },
+  titlesPage: { en: "Titles", cn: "头衔谱系" },
+  // Title lineage page
+  titleLineage: { en: "Title Lineage", cn: "头衔谱系" },
+  currentTitle: { en: "Current Title", cn: "当前头衔" },
+  nameEvolution: { en: "Name Evolution", cn: "名称演变" },
+  titleHolders: { en: "Holders", cn: "持有者" },
+  reignYears: { en: "Reign", cn: "在位" },
+  titlePersonMissing: { en: "Person record not found", cn: "未找到人物记录" },
+  treeIntro: { en: "Start with William I, or search for any historical figure.", cn: "从征服者威廉开始，或搜索任意历史人物。" },
+  treeCatalogIntro: { en: "Choose a house, or search for any historical figure.", cn: "选择一个家族入口，或搜索任意历史人物。" },
+  titleIntro: { en: "Start with a title, then follow how it passed between rulers.", cn: "从一项头衔开始，追踪它如何在统治者之间传承。" },
+  searchTitles: { en: "Search titles", cn: "搜索头衔" },
+  noMatchingTitles: { en: "No matching titles", cn: "没有匹配的头衔" },
   // Protagonist page
-  historicalFamilyTree: { en: "Historical Family Tree", cn: "历史家族树" },
+  historicalFamilyTree: { en: "Historical Family Tree", cn: "历史人物家谱" },
   selectHighlightedProtagonist: { en: "Select Highlighted Protagonist", cn: "选择主角人物" },
   chooseYourHistoricalFocus: { en: "Choose Your Historical Focus", cn: "选择你的历史焦点" },
   startFromFeaturedRuler: { en: "Start from a featured ruler or queen, then enter the family tree with that character centered.", cn: "从一位知名统治者或王后开始，随后以该人物为中心进入家谱。" },
@@ -377,7 +390,22 @@ export function initials(person: Person, language?: Language) {
   return `${person.firstName[0] ?? ""}${person.displayName.match(/\b[IVX]+\b/)?.[0] ?? ""}`;
 }
 export function nodeNameLines(name: string) { if (name.length <= 16) return [name]; const words = name.split(" "); const midpoint = Math.ceil(words.length / 2); return words.length < 2 ? [name] : [words.slice(0, midpoint).join(" "), words.slice(midpoint).join(" ")]; }
-export function titleTier(person: Person) { const combined = `${person.rank} ${person.primaryTitle} ${person.titles.map((item) => item.title).join(" ")}`.toLowerCase(); if (combined.includes("empress")) return "empress"; if (combined.includes("emperor")) return "emperor"; if (person.tags.includes("consort") && combined.includes("queen")) return "queen-consort"; if (combined.includes("king of france")) return "supreme-king"; if (combined.includes("queen of france")) return "france-queen"; if (combined.includes("grand duke") || combined.includes("grand duchess")) return "king"; if (combined.includes("king") || combined.includes("queen")) return "king"; if (combined.includes("duke") || combined.includes("duchess")) return "duke"; if (combined.includes("count") || combined.includes("countess") || combined.includes("earl")) return "count"; return "untitled"; }
+export function titleTier(person: Person) {
+  // Henry VI's French claim is retained as historical data, but does not
+  // control card styling in the current English-focused lineage.
+  if (person.id === "0a1a85b3-53e9-45fa-a90f-2b07d78191c4") return "king";
+  const combined = `${person.rank} ${person.primaryTitle} ${person.titles.map((item) => item.title).join(" ")}`.toLowerCase();
+  if (combined.includes("empress")) return "empress";
+  if (combined.includes("emperor")) return "emperor";
+  if (person.tags.includes("consort") && combined.includes("queen")) return "queen-consort";
+  if (combined.includes("king of france")) return "supreme-king";
+  if (combined.includes("queen of france")) return "france-queen";
+  if (combined.includes("grand duke") || combined.includes("grand duchess")) return "king";
+  if (combined.includes("king") || combined.includes("queen")) return "king";
+  if (combined.includes("duke") || combined.includes("duchess")) return "duke";
+  if (combined.includes("count") || combined.includes("countess") || combined.includes("earl")) return "count";
+  return "untitled";
+}
 export function eventDateValue(event: PersonEvent) { return Number(event.year || 0) * 10000 + Number(event.month || 1) * 100 + Number(event.day || 1); }
 export function byImportance(events: PersonEvent[]) { return [...events].sort((a, b) => (b.weight ?? 0) - (a.weight ?? 0) || eventDateValue(a) - eventDateValue(b)); }
 export function eventTagText(tag: string, language: Locale) { return eventTagLabels[tag]?.[language] ?? tag; }

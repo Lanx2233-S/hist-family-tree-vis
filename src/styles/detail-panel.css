@@ -80,6 +80,31 @@
   font-weight: 800;
 }
 
+.detail-context-link {
+  border: 0;
+  padding: 0;
+  background: transparent;
+  color: inherit;
+  cursor: pointer;
+  font: inherit;
+  text-align: left;
+}
+
+.detail-context-link:hover,
+.detail-context-link:focus-visible {
+  color: #7a321f;
+  text-decoration: underline;
+  text-decoration-color: #b78b43;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 4px;
+}
+
+.title-lineage-link {
+  color: inherit;
+  font: inherit;
+  font-weight: 800;
+}
+
 .life-row {
   display: flex;
   align-items: baseline;

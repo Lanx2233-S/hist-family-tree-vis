@@ -1,10 +1,11 @@
-/* person-card.css
-   The original stylesheet has no generic person-card layer that is shared
-   across pages, so this file intentionally contains no rules:
-   - .protagonist-card and its tier variants (HTML cards on the home page)
-     live in protagonist.css
-   - .person-node, .gender-mark, .avatar-text and the legitimacy markers
-     (SVG tree nodes) live in family-tree.css
-   - .portrait / .portrait-gender (DetailPanel avatar) live in
-     detail-panel.css
-   The file is kept so the main.css @import list stays stable. */
+/* Shared visual contract for compact person nodes. SVG and HTML renderers
+   keep their own markup, while sharing dimensions and selected-state tokens. */
+:root {
+  --person-node-width: 178px;
+  --person-node-height: 108px;
+  --person-node-radius: 9px;
+  --person-node-border: #241510;
+  --person-node-selected-gap: #fff8e8;
+  --person-node-selected-ring: #b78b43;
+  --person-node-selected-shadow: 0 12px 28px rgba(55, 35, 20, 0.28);
+}

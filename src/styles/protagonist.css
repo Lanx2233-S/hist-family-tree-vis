@@ -27,7 +27,8 @@
   z-index: 1;
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  justify-content: flex-start;
+  gap: 24px;
   width: min(100% - 2rem, 1400px);
   margin: 0 auto;
 }
@@ -36,6 +37,10 @@
   display: flex;
   align-items: center;
   gap: 10px;
+}
+
+.protagonist-topbar .topbar-actions {
+  order: -1;
 }
 
 .protagonist-hero {

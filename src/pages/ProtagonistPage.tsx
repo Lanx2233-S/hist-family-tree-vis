@@ -4,7 +4,7 @@ import { genderMark, initials, titleTier, years } from "../lib/personPresentatio
 import { copyFor, heraldryFor, textFor } from "../features/shared/presentation";
 import { PageTabs } from "../components/PageTabs";
 
-export function ProtagonistPage({ onEnter, onTree }: { onEnter: (id: string) => void; onTree: () => void }) {
+export function ProtagonistPage({ onEnter, onTree, onTitles }: { onEnter: (id: string) => void; onTree: () => void; onTitles: () => void }) {
   const people = useFamilyStore((state) => state.people);
   const setLanguage = useFamilyStore((state) => state.setLanguage);
   const language = useFamilyStore((state) => state.language);
@@ -33,7 +33,7 @@ export function ProtagonistPage({ onEnter, onTree }: { onEnter: (id: string) => 
       <div className="protagonist-topbar">
         <p className="eyebrow">{t.historicalFamilyTree}</p>
         <div className="topbar-actions">
-          <PageTabs page="protagonists" onHome={() => undefined} onTree={onTree} />
+          <PageTabs page="protagonists" onHome={() => undefined} onTree={onTree} onTitles={onTitles} />
           <div className="language-toggle" aria-label={t.language}>
             <button type="button" className={language === "en" ? "active" : ""} onClick={() => setLanguage("en")}>EN</button>
             <button type="button" className={language === "cn" ? "active" : ""} onClick={() => setLanguage("cn")}>CN</button>
