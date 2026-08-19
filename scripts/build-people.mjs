@@ -42,7 +42,7 @@ try {
   } catch (err) {
     fail(`cannot read src/data/people/index.ts: ${err.message}`);
   }
-  const imported = [...indexSrc.matchAll(/import \w+ from "\.\/(\w+)\.json"/g)]
+  const imported = [...indexSrc.matchAll(/import \w+ from "\.\/([\w-]+)\.json"/g)]
     .map((m) => m[1])
     .filter((name) => name !== "manifest") // manifest.json is the order file, not a data file
     .sort();

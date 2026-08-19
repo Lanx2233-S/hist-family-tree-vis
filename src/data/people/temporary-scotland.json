@@ -1,0 +1,1625 @@
+[
+  {
+    "id": "d579ab42-fae4-4a29-9066-326b4e343746",
+    "firstName": "Robert",
+    "lastName": "Bruce",
+    "displayName": "Robert the Bruce",
+    "fullName": "Robert the Bruce",
+    "nickname": "the Bruce",
+    "alsoKnownAs": [
+      "Robert I",
+      "Robert I of Scotland",
+      "Robert de Brus"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "罗伯特·布鲁斯",
+    "fullNameCn": "罗伯特·布鲁斯",
+    "nicknameCn": "布鲁斯",
+    "birthYear": 1274,
+    "deathYear": 1329,
+    "birthPlace": "Turnberry, Scotland",
+    "birthPlaceCn": "苏格兰特恩贝里",
+    "deathPlace": "Cardross, Scotland",
+    "deathPlaceCn": "苏格兰卡德罗斯",
+    "gender": "male",
+    "dynasty": "House of Bruce",
+    "house": "House of Bruce",
+    "culture": "Scottish",
+    "faith": "Catholic",
+    "primaryTitle": "King of Scots",
+    "primaryTitleCn": "苏格兰人之王",
+    "titles": [
+      {
+        "title": "King of Scots",
+        "startYear": 1306,
+        "endYear": 1329,
+        "titleCn": "苏格兰人之王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 80,
+    "historicalRating": 8,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "161a5ed8-c32a-400e-accc-37a34b094d7e"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "933eb844-ee1f-4499-8d24-8c332e058ed9"
+      ]
+    },
+    "events": [
+      {
+        "year": 1274,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 60,
+        "label": "Born, heir to the Bruce claim",
+        "labelCn": "出生，布鲁斯家族的继承权主张者",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Robert_the_Bruce"
+      },
+      {
+        "year": 1306,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 90,
+        "label": "Crowned King of Scots at Scone",
+        "labelCn": "在斯昆加冕为苏格兰国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Robert_the_Bruce"
+      },
+      {
+        "year": 1314,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "defense",
+          "main_commander"
+        ],
+        "weight": 92,
+        "label": "Battle of Bannockburn",
+        "labelCn": "班诺克本之战",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Bannockburn",
+        "note": "Decisive victory over Edward II, securing Scottish independence."
+      },
+      {
+        "year": 1320,
+        "type": "government",
+        "tags": [
+          "government",
+          "law"
+        ],
+        "weight": 82,
+        "label": "Declaration of Arbroath",
+        "labelCn": "阿布罗斯宣言",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Declaration_of_Arbroath"
+      },
+      {
+        "year": 1328,
+        "type": "treaty",
+        "tags": [
+          "treaty",
+          "territory"
+        ],
+        "weight": 86,
+        "label": "Treaty of Edinburgh–Northampton",
+        "labelCn": "爱丁堡—北安普顿条约",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Treaty_of_Edinburgh%E2%80%93Northampton",
+        "note": "England recognised Scottish independence."
+      },
+      {
+        "year": 1329,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 95,
+        "label": "Died at Cardross",
+        "labelCn": "在卡德罗斯去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Robert_the_Bruce"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Robert_the_Bruce",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Robert_the_Bruce",
+    "sourceNote": "Father Robert de Brus, 6th Lord of Annandale, is not yet in the roster. Son David II and wives are in later batches.",
+    "notes": "King of Scots who led Scotland to independence; victor of Bannockburn and secured recognition in the Treaty of Edinburgh–Northampton.",
+    "createdDate": "20260819",
+    "createdOrder": 32
+  },
+  {
+    "id": "933eb844-ee1f-4499-8d24-8c332e058ed9",
+    "firstName": "David",
+    "lastName": "Bruce",
+    "displayName": "David II",
+    "fullName": "David II of Scotland",
+    "nickname": "",
+    "alsoKnownAs": [
+      "David II of Scotland"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "大卫二世",
+    "fullNameCn": "大卫二世",
+    "birthYear": 1324,
+    "deathYear": 1371,
+    "birthPlace": "Dunfermline, Scotland",
+    "birthPlaceCn": "苏格兰邓弗姆林",
+    "deathPlace": "Edinburgh, Scotland",
+    "deathPlaceCn": "苏格兰爱丁堡",
+    "gender": "male",
+    "dynasty": "House of Bruce",
+    "house": "House of Bruce",
+    "culture": "Scottish",
+    "faith": "Catholic",
+    "primaryTitle": "King of Scots",
+    "primaryTitleCn": "苏格兰人之王",
+    "titles": [
+      {
+        "title": "King of Scots",
+        "startYear": 1329,
+        "endYear": 1371,
+        "titleCn": "苏格兰人之王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 60,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "d579ab42-fae4-4a29-9066-326b4e343746",
+      "motherId": "161a5ed8-c32a-400e-accc-37a34b094d7e",
+      "spouseIds": [
+        "a11ba133-a2dc-4ed2-b995-95445837cf47"
+      ],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1324,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 60,
+        "label": "Born, son of Robert the Bruce",
+        "labelCn": "出生，罗伯特·布鲁斯之子",
+        "wikiUrl": "https://en.wikipedia.org/wiki/David_II_of_Scotland"
+      },
+      {
+        "year": 1329,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "monarch"
+        ],
+        "weight": 82,
+        "label": "Became king as a child",
+        "labelCn": "幼年继位",
+        "wikiUrl": "https://en.wikipedia.org/wiki/David_II_of_Scotland"
+      },
+      {
+        "year": 1346,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "defeat",
+          "imprisonment"
+        ],
+        "weight": 84,
+        "label": "Battle of Neville's Cross — captured",
+        "labelCn": "内维尔十字之战被俘",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Neville%27s_Cross"
+      },
+      {
+        "year": 1357,
+        "type": "treaty",
+        "tags": [
+          "treaty"
+        ],
+        "weight": 78,
+        "label": "Ransomed and released",
+        "labelCn": "被赎回释放",
+        "wikiUrl": "https://en.wikipedia.org/wiki/David_II_of_Scotland"
+      },
+      {
+        "year": 1371,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 92,
+        "label": "Died childless",
+        "labelCn": "无嗣去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/David_II_of_Scotland"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/David_II_of_Scotland",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/David_II_of_Scotland",
+    "sourceNote": "Son of Robert the Bruce; died childless, ending the main Bruce line.",
+    "notes": "Son of Robert the Bruce; king from childhood, held captive in England for eleven years before being ransomed.",
+    "createdDate": "20260819",
+    "createdOrder": 33
+  },
+  {
+    "id": "ddb68158-583c-4e4d-84ca-5b04befd2261",
+    "firstName": "Robert",
+    "lastName": "Stewart",
+    "displayName": "Robert II",
+    "fullName": "Robert II of Scotland",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Robert II of Scotland",
+      "Robert Stewart"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "罗贝尔二世",
+    "fullNameCn": "罗贝尔二世",
+    "birthYear": 1316,
+    "deathYear": 1390,
+    "birthPlace": "Paisley, Scotland",
+    "birthPlaceCn": "苏格兰佩斯利",
+    "deathPlace": "Dundonald, Scotland",
+    "deathPlaceCn": "苏格兰邓唐纳德",
+    "gender": "male",
+    "dynasty": "House of Stewart",
+    "house": "House of Stewart",
+    "culture": "Scottish",
+    "faith": "Catholic",
+    "primaryTitle": "King of Scots",
+    "primaryTitleCn": "苏格兰人之王",
+    "titles": [
+      {
+        "title": "King of Scots",
+        "startYear": 1371,
+        "endYear": 1390,
+        "titleCn": "苏格兰人之王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 60,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "cdae6d46-09e0-416c-bfed-e2bdc534c316"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "84eb5f03-22b3-4efe-a5ab-566148c2b283"
+      ]
+    },
+    "events": [
+      {
+        "year": 1316,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 60,
+        "label": "Born, grandson of Robert the Bruce",
+        "labelCn": "出生，罗伯特·布鲁斯的外孙",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Robert_II_of_Scotland"
+      },
+      {
+        "year": 1371,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "monarch"
+        ],
+        "weight": 84,
+        "label": "First Stewart king",
+        "labelCn": "首任斯图亚特国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Robert_II_of_Scotland"
+      },
+      {
+        "year": 1390,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 90,
+        "label": "Died at Dundonald",
+        "labelCn": "在邓唐纳德去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Robert_II_of_Scotland"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Robert_II_of_Scotland",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Robert_II_of_Scotland",
+    "sourceNote": "Grandson of Robert the Bruce through his mother Marjorie; father Walter Stewart is not yet in the roster.",
+    "notes": "First Stewart king, succeeding his maternal uncle David II and founding the Stewart dynasty.",
+    "createdDate": "20260819",
+    "createdOrder": 34
+  },
+  {
+    "id": "84eb5f03-22b3-4efe-a5ab-566148c2b283",
+    "firstName": "Robert",
+    "lastName": "Stewart",
+    "displayName": "Robert III",
+    "fullName": "Robert III of Scotland",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Robert III of Scotland",
+      "John Stewart"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "罗贝尔三世",
+    "fullNameCn": "罗贝尔三世",
+    "birthYear": 1337,
+    "deathYear": 1406,
+    "birthPlace": "",
+    "deathPlace": "Rothesay, Scotland",
+    "deathPlaceCn": "苏格兰罗思塞",
+    "gender": "male",
+    "dynasty": "House of Stewart",
+    "house": "House of Stewart",
+    "culture": "Scottish",
+    "faith": "Catholic",
+    "primaryTitle": "King of Scots",
+    "primaryTitleCn": "苏格兰人之王",
+    "titles": [
+      {
+        "title": "King of Scots",
+        "startYear": 1390,
+        "endYear": 1406,
+        "titleCn": "苏格兰人之王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "ddb68158-583c-4e4d-84ca-5b04befd2261",
+      "motherId": "cdae6d46-09e0-416c-bfed-e2bdc534c316",
+      "spouseIds": [
+        "02ff9afd-875a-42ad-868f-d3ac32fb8741"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "c6a85386-8891-481a-b7ca-63696a75c4b9"
+      ]
+    },
+    "events": [
+      {
+        "year": 1337,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 60,
+        "label": "Born, son of Robert II",
+        "labelCn": "出生，罗贝尔二世之子",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Robert_III_of_Scotland",
+        "note": "Birth year uncertain, traditionally c. 1337."
+      },
+      {
+        "year": 1390,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Succeeded his father Robert II",
+        "labelCn": "继承其父罗贝尔二世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Robert_III_of_Scotland"
+      },
+      {
+        "year": 1406,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 90,
+        "label": "Died at Rothesay",
+        "labelCn": "在罗思塞去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Robert_III_of_Scotland"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Robert_III_of_Scotland",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Robert_III_of_Scotland",
+    "sourceNote": "Born John Stewart, took the name Robert on succession; power largely held by his brother Albany.",
+    "notes": "King of Scots during a period of weak royal authority; power was exercised by his brother the Duke of Albany.",
+    "createdDate": "20260819",
+    "createdOrder": 35
+  },
+  {
+    "id": "c6a85386-8891-481a-b7ca-63696a75c4b9",
+    "firstName": "James",
+    "lastName": "Stewart",
+    "displayName": "James I",
+    "fullName": "James I of Scotland",
+    "nickname": "",
+    "alsoKnownAs": [
+      "James I of Scotland"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "詹姆斯一世",
+    "fullNameCn": "詹姆斯一世",
+    "birthYear": 1394,
+    "deathYear": 1437,
+    "birthPlace": "Dunfermline, Scotland",
+    "birthPlaceCn": "苏格兰邓弗姆林",
+    "deathPlace": "Perth, Scotland",
+    "deathPlaceCn": "苏格兰珀斯",
+    "gender": "male",
+    "dynasty": "House of Stewart",
+    "house": "House of Stewart",
+    "culture": "Scottish",
+    "faith": "Catholic",
+    "primaryTitle": "King of Scots",
+    "primaryTitleCn": "苏格兰人之王",
+    "titles": [
+      {
+        "title": "King of Scots",
+        "startYear": 1406,
+        "endYear": 1437,
+        "titleCn": "苏格兰人之王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 70,
+    "historicalRating": 7,
+    "relationships": {
+      "fatherId": "84eb5f03-22b3-4efe-a5ab-566148c2b283",
+      "motherId": "02ff9afd-875a-42ad-868f-d3ac32fb8741",
+      "spouseIds": [
+        "e8cb8c18-f166-498e-b567-e111c0cb8970"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "307b6e6f-00f4-4a74-ba48-6868626c8f0f"
+      ]
+    },
+    "events": [
+      {
+        "year": 1394,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 60,
+        "label": "Born, son of Robert III",
+        "labelCn": "出生，罗贝尔三世之子",
+        "wikiUrl": "https://en.wikipedia.org/wiki/James_I_of_Scotland"
+      },
+      {
+        "year": 1406,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "imprisonment"
+        ],
+        "weight": 82,
+        "label": "Became king, captured by the English",
+        "labelCn": "继位后被英格兰人俘获",
+        "wikiUrl": "https://en.wikipedia.org/wiki/James_I_of_Scotland"
+      },
+      {
+        "year": 1424,
+        "type": "government",
+        "tags": [
+          "government",
+          "law"
+        ],
+        "weight": 84,
+        "label": "Returned from captivity and reasserted royal authority",
+        "labelCn": "自囚禁归来并重振王权",
+        "wikiUrl": "https://en.wikipedia.org/wiki/James_I_of_Scotland"
+      },
+      {
+        "year": 1437,
+        "type": "death",
+        "tags": [
+          "death",
+          "violent"
+        ],
+        "weight": 92,
+        "label": "Murdered at Perth",
+        "labelCn": "在珀斯被谋杀",
+        "wikiUrl": "https://en.wikipedia.org/wiki/James_I_of_Scotland"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/James_I_of_Scotland",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/James_I_of_Scotland",
+    "sourceNote": "Held captive in England 1406–1424; author of The Kingis Quair.",
+    "notes": "Strong king held captive in England for eighteen years before his ransom; later murdered by conspirators.",
+    "createdDate": "20260819",
+    "createdOrder": 36
+  },
+  {
+    "id": "307b6e6f-00f4-4a74-ba48-6868626c8f0f",
+    "firstName": "James",
+    "lastName": "Stewart",
+    "displayName": "James II",
+    "fullName": "James II of Scotland",
+    "nickname": "",
+    "alsoKnownAs": [
+      "James II of Scotland"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "詹姆斯二世",
+    "fullNameCn": "詹姆斯二世",
+    "birthYear": 1430,
+    "deathYear": 1460,
+    "birthPlace": "Holyrood, Scotland",
+    "birthPlaceCn": "苏格兰霍利鲁德",
+    "deathPlace": "Roxburgh, Scotland",
+    "deathPlaceCn": "苏格兰罗克斯堡",
+    "gender": "male",
+    "dynasty": "House of Stewart",
+    "house": "House of Stewart",
+    "culture": "Scottish",
+    "faith": "Catholic",
+    "primaryTitle": "King of Scots",
+    "primaryTitleCn": "苏格兰人之王",
+    "titles": [
+      {
+        "title": "King of Scots",
+        "startYear": 1437,
+        "endYear": 1460,
+        "titleCn": "苏格兰人之王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 60,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "c6a85386-8891-481a-b7ca-63696a75c4b9",
+      "motherId": "e8cb8c18-f166-498e-b567-e111c0cb8970",
+      "spouseIds": [
+        "619c6c80-d85a-47e6-a1f3-cd3dd4769a51"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "896125f6-36ae-4969-a767-7f9e4863373b"
+      ]
+    },
+    "events": [
+      {
+        "year": 1430,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 60,
+        "label": "Born, son of James I",
+        "labelCn": "出生，詹姆斯一世之子",
+        "wikiUrl": "https://en.wikipedia.org/wiki/James_II_of_Scotland"
+      },
+      {
+        "year": 1437,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Became king as a child",
+        "labelCn": "幼年继位",
+        "wikiUrl": "https://en.wikipedia.org/wiki/James_II_of_Scotland"
+      },
+      {
+        "year": 1460,
+        "type": "death",
+        "tags": [
+          "death",
+          "violent"
+        ],
+        "weight": 92,
+        "label": "Killed by an exploding cannon at Roxburgh",
+        "labelCn": "在罗克斯堡被炸膛的火炮炸死",
+        "wikiUrl": "https://en.wikipedia.org/wiki/James_II_of_Scotland"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/James_II_of_Scotland",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/James_II_of_Scotland",
+    "sourceNote": "Killed at the siege of Roxburgh when a cannon burst.",
+    "notes": "King of Scots who curbed the Black Douglases and died at the siege of Roxburgh.",
+    "createdDate": "20260819",
+    "createdOrder": 37
+  },
+  {
+    "id": "896125f6-36ae-4969-a767-7f9e4863373b",
+    "firstName": "James",
+    "lastName": "Stewart",
+    "displayName": "James III",
+    "fullName": "James III of Scotland",
+    "nickname": "",
+    "alsoKnownAs": [
+      "James III of Scotland"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "詹姆斯三世",
+    "fullNameCn": "詹姆斯三世",
+    "birthYear": 1451,
+    "deathYear": 1488,
+    "birthPlace": "Stirling, Scotland",
+    "birthPlaceCn": "苏格兰斯特灵",
+    "deathPlace": "Sauchieburn, Scotland",
+    "deathPlaceCn": "苏格兰索奇伯恩",
+    "gender": "male",
+    "dynasty": "House of Stewart",
+    "house": "House of Stewart",
+    "culture": "Scottish",
+    "faith": "Catholic",
+    "primaryTitle": "King of Scots",
+    "primaryTitleCn": "苏格兰人之王",
+    "titles": [
+      {
+        "title": "King of Scots",
+        "startYear": 1460,
+        "endYear": 1488,
+        "titleCn": "苏格兰人之王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "307b6e6f-00f4-4a74-ba48-6868626c8f0f",
+      "motherId": "619c6c80-d85a-47e6-a1f3-cd3dd4769a51",
+      "spouseIds": [
+        "31b9d25c-7816-49a5-a0d2-41dd07ba5b47"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "0f7eebb4-756f-4120-a042-47ca23805d8e"
+      ]
+    },
+    "events": [
+      {
+        "year": 1451,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 60,
+        "label": "Born, son of James II",
+        "labelCn": "出生，詹姆斯二世之子",
+        "wikiUrl": "https://en.wikipedia.org/wiki/James_III_of_Scotland",
+        "note": "Birth year uncertain, traditionally 1451."
+      },
+      {
+        "year": 1460,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Became king as a child",
+        "labelCn": "幼年继位",
+        "wikiUrl": "https://en.wikipedia.org/wiki/James_III_of_Scotland"
+      },
+      {
+        "year": 1488,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "defeat",
+          "death",
+          "violent"
+        ],
+        "weight": 92,
+        "label": "Killed at the Battle of Sauchieburn",
+        "labelCn": "索奇伯恩之战被杀",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Sauchieburn"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/James_III_of_Scotland",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/James_III_of_Scotland",
+    "sourceNote": "Killed at Sauchieburn fighting rebels led by his son, the future James IV.",
+    "notes": "Unpopular king who was killed at Sauchieburn fighting rebels backing his own son.",
+    "createdDate": "20260819",
+    "createdOrder": 38
+  },
+  {
+    "id": "0f7eebb4-756f-4120-a042-47ca23805d8e",
+    "firstName": "James",
+    "lastName": "Stewart",
+    "displayName": "James IV",
+    "fullName": "James IV of Scotland",
+    "nickname": "",
+    "alsoKnownAs": [
+      "James IV of Scotland"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "詹姆斯四世",
+    "fullNameCn": "詹姆斯四世",
+    "birthYear": 1473,
+    "deathYear": 1513,
+    "birthPlace": "Stirling, Scotland",
+    "birthPlaceCn": "苏格兰斯特灵",
+    "deathPlace": "Flodden, England",
+    "deathPlaceCn": "英格兰弗洛登",
+    "gender": "male",
+    "dynasty": "House of Stewart",
+    "house": "House of Stewart",
+    "culture": "Scottish",
+    "faith": "Catholic",
+    "primaryTitle": "King of Scots",
+    "primaryTitleCn": "苏格兰人之王",
+    "titles": [
+      {
+        "title": "King of Scots",
+        "startYear": 1488,
+        "endYear": 1513,
+        "titleCn": "苏格兰人之王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 70,
+    "historicalRating": 7,
+    "relationships": {
+      "fatherId": "896125f6-36ae-4969-a767-7f9e4863373b",
+      "motherId": "31b9d25c-7816-49a5-a0d2-41dd07ba5b47",
+      "spouseIds": [
+        "d68e6d12-f78b-45c9-ab9d-27faba1b1e11"
+      ],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1473,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 60,
+        "label": "Born, son of James III",
+        "labelCn": "出生，詹姆斯三世之子",
+        "wikiUrl": "https://en.wikipedia.org/wiki/James_IV_of_Scotland"
+      },
+      {
+        "year": 1488,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "monarch"
+        ],
+        "weight": 82,
+        "label": "Became king after Sauchieburn",
+        "labelCn": "索奇伯恩之战后继位",
+        "wikiUrl": "https://en.wikipedia.org/wiki/James_IV_of_Scotland"
+      },
+      {
+        "year": 1493,
+        "type": "government",
+        "tags": [
+          "government",
+          "conquest"
+        ],
+        "weight": 80,
+        "label": "Brought the Lords of the Isles under royal control",
+        "labelCn": "将群岛领主纳入王权",
+        "wikiUrl": "https://en.wikipedia.org/wiki/James_IV_of_Scotland"
+      },
+      {
+        "year": 1503,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 78,
+        "label": "Married Margaret Tudor",
+        "labelCn": "迎娶玛格丽特·都铎",
+        "wikiUrl": "https://en.wikipedia.org/wiki/James_IV_of_Scotland",
+        "note": "The dynastic union that later led to the Union of the Crowns."
+      },
+      {
+        "year": 1513,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "defeat",
+          "death",
+          "violent"
+        ],
+        "weight": 94,
+        "label": "Killed at the Battle of Flodden",
+        "labelCn": "弗洛登之战阵亡",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Flodden"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/James_IV_of_Scotland",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/James_IV_of_Scotland",
+    "sourceNote": "Killed at Flodden, the last British monarch to die in battle; his marriage to Margaret Tudor later united the crowns.",
+    "notes": "Renaissance king killed at Flodden; his marriage to Margaret Tudor laid the ground for the Union of the Crowns.",
+    "createdDate": "20260819",
+    "createdOrder": 39
+  },
+  {
+    "id": "161a5ed8-c32a-400e-accc-37a34b094d7e",
+    "firstName": "Elizabeth",
+    "lastName": "de Burgh",
+    "displayName": "Elizabeth de Burgh",
+    "fullName": "Elizabeth de Burgh",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Elizabeth de Burgh"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "伊丽莎白·德·伯格",
+    "fullNameCn": "伊丽莎白·德·伯格",
+    "birthYear": 1289,
+    "deathYear": 1327,
+    "birthPlace": "",
+    "deathPlace": "Cullen, Scotland",
+    "deathPlaceCn": "苏格兰卡伦",
+    "gender": "female",
+    "dynasty": "House of Burgh",
+    "house": "House of Burgh",
+    "culture": "Anglo-Irish",
+    "faith": "Catholic",
+    "primaryTitle": "Queen consort of Scotland",
+    "primaryTitleCn": "苏格兰王后",
+    "titles": [
+      {
+        "title": "Queen consort of Scotland",
+        "startYear": 1306,
+        "endYear": 1327,
+        "titleCn": "苏格兰王后"
+      }
+    ],
+    "tags": [
+      "queen",
+      "consort"
+    ],
+    "rank": "queen",
+    "importanceScore": 52,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "d579ab42-fae4-4a29-9066-326b4e343746"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "933eb844-ee1f-4499-8d24-8c332e058ed9"
+      ]
+    },
+    "events": [
+      {
+        "year": 1289,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 60,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Elizabeth_de_Burgh"
+      },
+      {
+        "year": 1302,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 78,
+        "label": "Married Robert the Bruce",
+        "labelCn": "嫁给罗伯特·布鲁斯",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Elizabeth_de_Burgh"
+      },
+      {
+        "year": 1327,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 88,
+        "label": "Died",
+        "labelCn": "去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Elizabeth_de_Burgh"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Elizabeth_de_Burgh",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Elizabeth_de_Burgh",
+    "sourceNote": "Second wife of Robert the Bruce and mother of David II.",
+    "notes": "Queen consort of Robert the Bruce and mother of David II; captured by the English in 1306.",
+    "createdDate": "20260819",
+    "createdOrder": 40
+  },
+  {
+    "id": "a11ba133-a2dc-4ed2-b995-95445837cf47",
+    "firstName": "Joan",
+    "lastName": "",
+    "displayName": "Joan of the Tower",
+    "fullName": "Joan of England",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Joan of the Tower",
+      "Joan of England"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "英格兰的琼",
+    "fullNameCn": "英格兰的琼",
+    "birthYear": 1321,
+    "deathYear": 1362,
+    "birthPlace": "London, England",
+    "birthPlaceCn": "英格兰伦敦",
+    "deathPlace": "Hertford, England",
+    "deathPlaceCn": "英格兰赫特福德",
+    "gender": "female",
+    "dynasty": "House of Plantagenet",
+    "house": "House of Plantagenet",
+    "culture": "English",
+    "faith": "Catholic",
+    "primaryTitle": "Queen consort of Scotland",
+    "primaryTitleCn": "苏格兰王后",
+    "titles": [
+      {
+        "title": "Queen consort of Scotland",
+        "startYear": 1329,
+        "endYear": 1362,
+        "titleCn": "苏格兰王后"
+      }
+    ],
+    "tags": [
+      "queen",
+      "consort"
+    ],
+    "rank": "queen",
+    "importanceScore": 52,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "933eb844-ee1f-4499-8d24-8c332e058ed9"
+      ],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1321,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 60,
+        "label": "Born, daughter of Edward II",
+        "labelCn": "出生，爱德华二世之女",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Joan_of_the_Tower"
+      },
+      {
+        "year": 1328,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 80,
+        "label": "Married David II of Scotland",
+        "labelCn": "嫁给苏格兰大卫二世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Joan_of_the_Tower"
+      },
+      {
+        "year": 1362,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 88,
+        "label": "Died childless",
+        "labelCn": "无嗣去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Joan_of_the_Tower"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Joan_of_the_Tower",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Joan_of_the_Tower",
+    "sourceNote": "Daughter of Edward II of England (in roster); father link deferred to avoid modifying house.json this phase. Marriage to David II was childless.",
+    "notes": "Daughter of Edward II and queen consort of David II; their marriage was childless.",
+    "createdDate": "20260819",
+    "createdOrder": 41
+  },
+  {
+    "id": "cdae6d46-09e0-416c-bfed-e2bdc534c316",
+    "firstName": "Elizabeth",
+    "lastName": "Mure",
+    "displayName": "Elizabeth Mure",
+    "fullName": "Elizabeth Mure",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Elizabeth Mure"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "伊丽莎白·缪尔",
+    "fullNameCn": "伊丽莎白·缪尔",
+    "birthYear": 1320,
+    "deathYear": 1355,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "female",
+    "dynasty": "House of Mure",
+    "house": "House of Mure",
+    "culture": "Scottish",
+    "faith": "Catholic",
+    "primaryTitle": "Countess of Strathearn",
+    "primaryTitleCn": "斯特拉森伯爵夫人",
+    "titles": [],
+    "tags": [
+      "noble"
+    ],
+    "rank": "noble",
+    "importanceScore": 44,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "ddb68158-583c-4e4d-84ca-5b04befd2261"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "84eb5f03-22b3-4efe-a5ab-566148c2b283"
+      ]
+    },
+    "events": [
+      {
+        "year": 1347,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 74,
+        "label": "Marriage to Robert Stewart legitimized",
+        "labelCn": "与罗伯特·斯图亚特的婚姻获承认",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Elizabeth_Mure"
+      },
+      {
+        "year": 1355,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 86,
+        "label": "Died before Robert II's accession",
+        "labelCn": "在罗贝尔二世即位前去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Elizabeth_Mure"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Elizabeth_Mure",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Elizabeth_Mure",
+    "sourceNote": "First wife of Robert II (before his accession) and mother of Robert III; never queen consort as she died in 1355.",
+    "notes": "First wife of Robert Stewart (later Robert II) and mother of Robert III; her marriage was legitimized in 1347.",
+    "createdDate": "20260819",
+    "createdOrder": 42
+  },
+  {
+    "id": "02ff9afd-875a-42ad-868f-d3ac32fb8741",
+    "firstName": "Annabella",
+    "lastName": "Drummond",
+    "displayName": "Annabella Drummond",
+    "fullName": "Annabella Drummond",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Annabella Drummond"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "安娜贝拉·德拉蒙德",
+    "fullNameCn": "安娜贝拉·德拉蒙德",
+    "birthYear": 1350,
+    "deathYear": 1401,
+    "birthPlace": "",
+    "deathPlace": "Scone, Scotland",
+    "deathPlaceCn": "苏格兰斯昆",
+    "gender": "female",
+    "dynasty": "House of Drummond",
+    "house": "House of Drummond",
+    "culture": "Scottish",
+    "faith": "Catholic",
+    "primaryTitle": "Queen consort of Scotland",
+    "primaryTitleCn": "苏格兰王后",
+    "titles": [
+      {
+        "title": "Queen consort of Scotland",
+        "startYear": 1390,
+        "endYear": 1401,
+        "titleCn": "苏格兰王后"
+      }
+    ],
+    "tags": [
+      "queen",
+      "consort"
+    ],
+    "rank": "queen",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "84eb5f03-22b3-4efe-a5ab-566148c2b283"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "c6a85386-8891-481a-b7ca-63696a75c4b9"
+      ]
+    },
+    "events": [
+      {
+        "year": 1350,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 60,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Annabella_Drummond",
+        "note": "Birth year approximate."
+      },
+      {
+        "year": 1367,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 76,
+        "label": "Married Robert III",
+        "labelCn": "嫁给罗贝尔三世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Annabella_Drummond"
+      },
+      {
+        "year": 1401,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 88,
+        "label": "Died",
+        "labelCn": "去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Annabella_Drummond"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Annabella_Drummond",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Annabella_Drummond",
+    "sourceNote": "Wife of Robert III and mother of James I.",
+    "notes": "Queen consort of Robert III and mother of James I.",
+    "createdDate": "20260819",
+    "createdOrder": 43
+  },
+  {
+    "id": "e8cb8c18-f166-498e-b567-e111c0cb8970",
+    "firstName": "Joan",
+    "lastName": "Beaufort",
+    "displayName": "Joan Beaufort",
+    "fullName": "Joan Beaufort",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Joan Beaufort"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "琼·博福特",
+    "fullNameCn": "琼·博福特",
+    "birthYear": 1404,
+    "deathYear": 1445,
+    "birthPlace": "",
+    "deathPlace": "Dunbar, Scotland",
+    "deathPlaceCn": "苏格兰邓巴",
+    "gender": "female",
+    "dynasty": "House of Beaufort",
+    "house": "House of Beaufort",
+    "culture": "English",
+    "faith": "Catholic",
+    "primaryTitle": "Queen consort of Scotland",
+    "primaryTitleCn": "苏格兰王后",
+    "titles": [
+      {
+        "title": "Queen consort of Scotland",
+        "startYear": 1424,
+        "endYear": 1437,
+        "titleCn": "苏格兰王后"
+      }
+    ],
+    "tags": [
+      "queen",
+      "consort"
+    ],
+    "rank": "queen",
+    "importanceScore": 54,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "c6a85386-8891-481a-b7ca-63696a75c4b9"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "307b6e6f-00f4-4a74-ba48-6868626c8f0f"
+      ]
+    },
+    "events": [
+      {
+        "year": 1404,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 60,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Joan_Beaufort",
+        "note": "Birth year approximate."
+      },
+      {
+        "year": 1424,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 78,
+        "label": "Married James I after his ransom",
+        "labelCn": "詹姆斯一世获赎后与其成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Joan_Beaufort"
+      },
+      {
+        "year": 1445,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 88,
+        "label": "Died",
+        "labelCn": "去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Joan_Beaufort"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Joan_Beaufort",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Joan_Beaufort",
+    "sourceNote": "Wife of James I and mother of James II.",
+    "notes": "Queen consort of James I and mother of James II; a granddaughter of John of Gaunt.",
+    "createdDate": "20260819",
+    "createdOrder": 44
+  },
+  {
+    "id": "619c6c80-d85a-47e6-a1f3-cd3dd4769a51",
+    "firstName": "Mary",
+    "lastName": "of Guelders",
+    "displayName": "Mary of Guelders",
+    "fullName": "Mary of Guelders",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Mary of Guelders"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "海尔德的玛丽",
+    "fullNameCn": "海尔德的玛丽",
+    "birthYear": 1434,
+    "deathYear": 1463,
+    "birthPlace": "Grave, Guelders",
+    "birthPlaceCn": "海尔德赫拉弗",
+    "deathPlace": "Roxburgh, Scotland",
+    "deathPlaceCn": "苏格兰罗克斯堡",
+    "gender": "female",
+    "dynasty": "House of Egmond",
+    "house": "House of Egmond",
+    "culture": "Dutch",
+    "faith": "Catholic",
+    "primaryTitle": "Queen consort of Scotland",
+    "primaryTitleCn": "苏格兰王后",
+    "titles": [
+      {
+        "title": "Queen consort of Scotland",
+        "startYear": 1449,
+        "endYear": 1460,
+        "titleCn": "苏格兰王后"
+      }
+    ],
+    "tags": [
+      "queen",
+      "consort"
+    ],
+    "rank": "queen",
+    "importanceScore": 52,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "307b6e6f-00f4-4a74-ba48-6868626c8f0f"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "896125f6-36ae-4969-a767-7f9e4863373b"
+      ]
+    },
+    "events": [
+      {
+        "year": 1434,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 60,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Mary_of_Guelders",
+        "note": "Birth year approximate."
+      },
+      {
+        "year": 1449,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 76,
+        "label": "Married James II",
+        "labelCn": "嫁给詹姆斯二世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Mary_of_Guelders"
+      },
+      {
+        "year": 1463,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 88,
+        "label": "Died",
+        "labelCn": "去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Mary_of_Guelders"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Mary_of_Guelders",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Mary_of_Guelders",
+    "sourceNote": "Wife of James II and mother of James III; served as regent after James II's death.",
+    "notes": "Queen consort of James II and mother of James III; acted as regent for her son.",
+    "createdDate": "20260819",
+    "createdOrder": 45
+  },
+  {
+    "id": "31b9d25c-7816-49a5-a0d2-41dd07ba5b47",
+    "firstName": "Margaret",
+    "lastName": "of Denmark",
+    "displayName": "Margaret of Denmark",
+    "fullName": "Margaret of Denmark",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Margaret of Denmark"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "丹麦的玛格丽特",
+    "fullNameCn": "丹麦的玛格丽特",
+    "birthYear": 1456,
+    "deathYear": 1486,
+    "birthPlace": "Copenhagen, Denmark",
+    "birthPlaceCn": "丹麦哥本哈根",
+    "deathPlace": "Stirling, Scotland",
+    "deathPlaceCn": "苏格兰斯特灵",
+    "gender": "female",
+    "dynasty": "House of Oldenburg",
+    "house": "House of Oldenburg",
+    "culture": "Danish",
+    "faith": "Catholic",
+    "primaryTitle": "Queen consort of Scotland",
+    "primaryTitleCn": "苏格兰王后",
+    "titles": [
+      {
+        "title": "Queen consort of Scotland",
+        "startYear": 1469,
+        "endYear": 1486,
+        "titleCn": "苏格兰王后"
+      }
+    ],
+    "tags": [
+      "queen",
+      "consort"
+    ],
+    "rank": "queen",
+    "importanceScore": 52,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "896125f6-36ae-4969-a767-7f9e4863373b"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "0f7eebb4-756f-4120-a042-47ca23805d8e"
+      ]
+    },
+    "events": [
+      {
+        "year": 1456,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 60,
+        "label": "Born, daughter of Christian I",
+        "labelCn": "出生，克里斯蒂安一世之女",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Margaret_of_Denmark,_Queen_of_Scotland"
+      },
+      {
+        "year": 1469,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 76,
+        "label": "Married James III",
+        "labelCn": "嫁给詹姆斯三世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Margaret_of_Denmark,_Queen_of_Scotland"
+      },
+      {
+        "year": 1486,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 88,
+        "label": "Died",
+        "labelCn": "去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Margaret_of_Denmark,_Queen_of_Scotland"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Margaret_of_Denmark,_Queen_of_Scotland",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Margaret_of_Denmark,_Queen_of_Scotland",
+    "sourceNote": "Wife of James III and mother of James IV.",
+    "notes": "Queen consort of James III and mother of James IV.",
+    "createdDate": "20260819",
+    "createdOrder": 46
+  },
+  {
+    "id": "d68e6d12-f78b-45c9-ab9d-27faba1b1e11",
+    "firstName": "Margaret",
+    "lastName": "Tudor",
+    "displayName": "Margaret Tudor",
+    "fullName": "Margaret Tudor",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Margaret Tudor"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "玛格丽特·都铎",
+    "fullNameCn": "玛格丽特·都铎",
+    "birthYear": 1489,
+    "deathYear": 1541,
+    "birthPlace": "Westminster, England",
+    "birthPlaceCn": "英格兰威斯敏斯特",
+    "deathPlace": "Methven, Scotland",
+    "deathPlaceCn": "苏格兰梅斯文",
+    "gender": "female",
+    "dynasty": "House of Tudor",
+    "house": "House of Tudor",
+    "culture": "English",
+    "faith": "Catholic",
+    "primaryTitle": "Queen consort of Scotland",
+    "primaryTitleCn": "苏格兰王后",
+    "titles": [
+      {
+        "title": "Queen consort of Scotland",
+        "startYear": 1503,
+        "endYear": 1513,
+        "titleCn": "苏格兰王后"
+      }
+    ],
+    "tags": [
+      "queen",
+      "consort"
+    ],
+    "rank": "queen",
+    "importanceScore": 62,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "0f7eebb4-756f-4120-a042-47ca23805d8e"
+      ],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1489,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 60,
+        "label": "Born, daughter of Henry VII",
+        "labelCn": "出生，亨利七世之女",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Margaret_Tudor"
+      },
+      {
+        "year": 1503,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 86,
+        "label": "Married James IV",
+        "labelCn": "嫁给詹姆斯四世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Margaret_Tudor",
+        "note": "The dynastic union that later led to the Union of the Crowns."
+      },
+      {
+        "year": 1541,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 88,
+        "label": "Died",
+        "labelCn": "去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Margaret_Tudor"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Margaret_Tudor",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Margaret_Tudor",
+    "sourceNote": "Daughter of Henry VII of England (in roster); father link deferred to avoid modifying house.json this phase. Mother of James V.",
+    "notes": "Daughter of Henry VII and queen consort of James IV; her marriage laid the ground for the Union of the Crowns.",
+    "createdDate": "20260819",
+    "createdOrder": 47
+  }
+]

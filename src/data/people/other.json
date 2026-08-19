@@ -7796,5 +7796,1753 @@
         "wikiUrl": "https://en.wikipedia.org/wiki/Edith_the_Fair"
       }
     ]
+  },
+  {
+    "id": "086c99e5-0a45-493c-aee1-4dc08057197f",
+    "firstName": "Kenneth",
+    "lastName": "",
+    "displayName": "Kenneth I",
+    "fullName": "Kenneth MacAlpin",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Cináed mac Ailpin",
+      "Kenneth MacAlpin"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "肯尼思一世",
+    "fullNameCn": "肯尼思一世",
+    "birthYear": 810,
+    "deathYear": 858,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "male",
+    "dynasty": "House of Alpin",
+    "house": "House of Alpin",
+    "culture": "Scottish",
+    "faith": "Catholic",
+    "primaryTitle": "King of Alba",
+    "primaryTitleCn": "阿尔巴国王",
+    "titles": [
+      {
+        "title": "King of Alba",
+        "startYear": 843,
+        "endYear": 858,
+        "titleCn": "阿尔巴国王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 70,
+    "historicalRating": 7,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "6f901b6f-62b2-4ebc-b631-fa960cb6cc4a",
+        "4ac06665-f420-4756-8fab-38316e1ce5a1"
+      ]
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Kenneth_MacAlpin",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Kenneth_MacAlpin",
+    "sourceNote": "",
+    "notes": "",
+    "createdDate": "20260819",
+    "createdOrder": 1
+  },
+  {
+    "id": "fb77aa5c-25b0-4680-9104-746abb34d649",
+    "firstName": "Donald",
+    "lastName": "",
+    "displayName": "Donald I",
+    "fullName": "Donald I of Scotland",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Domnall mac Ailpin"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "唐纳德一世",
+    "fullNameCn": "唐纳德一世",
+    "birthYear": 812,
+    "deathYear": 862,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "male",
+    "dynasty": "House of Alpin",
+    "house": "House of Alpin",
+    "culture": "Scottish",
+    "faith": "Catholic",
+    "primaryTitle": "King of Alba",
+    "primaryTitleCn": "阿尔巴国王",
+    "titles": [
+      {
+        "title": "King of Alba",
+        "startYear": 858,
+        "endYear": 862,
+        "titleCn": "阿尔巴国王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Donald_I_of_Scotland",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Donald_I_of_Scotland",
+    "sourceNote": "",
+    "notes": "",
+    "createdDate": "20260819",
+    "createdOrder": 2
+  },
+  {
+    "id": "6f901b6f-62b2-4ebc-b631-fa960cb6cc4a",
+    "firstName": "Constantine",
+    "lastName": "",
+    "displayName": "Constantine I",
+    "fullName": "Constantine I of Scotland",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Causantín mac Cináeda"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "康斯坦丁一世",
+    "fullNameCn": "康斯坦丁一世",
+    "birthYear": 836,
+    "deathYear": 877,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "male",
+    "dynasty": "House of Alpin",
+    "house": "House of Alpin",
+    "culture": "Scottish",
+    "faith": "Catholic",
+    "primaryTitle": "King of Alba",
+    "primaryTitleCn": "阿尔巴国王",
+    "titles": [
+      {
+        "title": "King of Alba",
+        "startYear": 862,
+        "endYear": 877,
+        "titleCn": "阿尔巴国王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "086c99e5-0a45-493c-aee1-4dc08057197f",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "ce525dab-f6d2-48eb-809c-ee7ec1aced1e"
+      ]
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Constantine_I_of_Scotland",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Constantine_I_of_Scotland",
+    "sourceNote": "",
+    "notes": "",
+    "createdDate": "20260819",
+    "createdOrder": 3
+  },
+  {
+    "id": "4ac06665-f420-4756-8fab-38316e1ce5a1",
+    "firstName": "Áed",
+    "lastName": "",
+    "displayName": "Áed",
+    "fullName": "Áed mac Cináeda",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Áed mac Cináeda"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "艾德",
+    "fullNameCn": "艾德",
+    "birthYear": 840,
+    "deathYear": 878,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "male",
+    "dynasty": "House of Alpin",
+    "house": "House of Alpin",
+    "culture": "Scottish",
+    "faith": "Catholic",
+    "primaryTitle": "King of Alba",
+    "primaryTitleCn": "阿尔巴国王",
+    "titles": [
+      {
+        "title": "King of Alba",
+        "startYear": 877,
+        "endYear": 878,
+        "titleCn": "阿尔巴国王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "086c99e5-0a45-493c-aee1-4dc08057197f",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "16cfffe8-e175-4120-ac96-44103215ac0d"
+      ]
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Áed_mac_Cináeda",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Áed_mac_Cináeda",
+    "sourceNote": "",
+    "notes": "",
+    "createdDate": "20260819",
+    "createdOrder": 4
+  },
+  {
+    "id": "95b17056-2bb8-4de5-aa7f-3ed8440d4c98",
+    "firstName": "Giric",
+    "lastName": "",
+    "displayName": "Giric",
+    "fullName": "Giric mac Dúngail",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Giric mac Dúngail"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "吉里克",
+    "fullNameCn": "吉里克",
+    "birthYear": 832,
+    "deathYear": 889,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "male",
+    "dynasty": "House of Alpin",
+    "house": "House of Alpin",
+    "culture": "Scottish",
+    "faith": "Catholic",
+    "primaryTitle": "King of Alba",
+    "primaryTitleCn": "阿尔巴国王",
+    "titles": [
+      {
+        "title": "King of Alba",
+        "startYear": 878,
+        "endYear": 889,
+        "titleCn": "阿尔巴国王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 40,
+    "historicalRating": 4,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Giric",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Giric",
+    "sourceNote": "",
+    "notes": "",
+    "createdDate": "20260819",
+    "createdOrder": 5
+  },
+  {
+    "id": "5b06faf9-39cb-4f79-b398-1f02f10425ee",
+    "firstName": "Eochaid",
+    "lastName": "",
+    "displayName": "Eochaid",
+    "fullName": "Eochaid mac Run",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Eochaid mac Run"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "埃奥凯德",
+    "fullNameCn": "埃奥凯德",
+    "birthYear": 858,
+    "deathYear": 889,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "male",
+    "dynasty": "House of Alpin",
+    "house": "House of Alpin",
+    "culture": "Scottish",
+    "faith": "Catholic",
+    "primaryTitle": "King of Alba",
+    "primaryTitleCn": "阿尔巴国王",
+    "titles": [
+      {
+        "title": "King of Alba",
+        "startYear": 878,
+        "endYear": 889,
+        "titleCn": "阿尔巴国王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 40,
+    "historicalRating": 4,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Eochaid",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Eochaid",
+    "sourceNote": "",
+    "notes": "",
+    "createdDate": "20260819",
+    "createdOrder": 6
+  },
+  {
+    "id": "ce525dab-f6d2-48eb-809c-ee7ec1aced1e",
+    "firstName": "Donald",
+    "lastName": "",
+    "displayName": "Donald II",
+    "fullName": "Donald II of Scotland",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Domnall mac Causantín"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "唐纳德二世",
+    "fullNameCn": "唐纳德二世",
+    "birthYear": 860,
+    "deathYear": 900,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "male",
+    "dynasty": "House of Alpin",
+    "house": "House of Alpin",
+    "culture": "Scottish",
+    "faith": "Catholic",
+    "primaryTitle": "King of Alba",
+    "primaryTitleCn": "阿尔巴国王",
+    "titles": [
+      {
+        "title": "King of Alba",
+        "startYear": 889,
+        "endYear": 900,
+        "titleCn": "阿尔巴国王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "6f901b6f-62b2-4ebc-b631-fa960cb6cc4a",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "1171990b-b5c9-440a-975e-48a5986674a8"
+      ]
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Donald_II_of_Scotland",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Donald_II_of_Scotland",
+    "sourceNote": "",
+    "notes": "",
+    "createdDate": "20260819",
+    "createdOrder": 7
+  },
+  {
+    "id": "16cfffe8-e175-4120-ac96-44103215ac0d",
+    "firstName": "Constantine",
+    "lastName": "",
+    "displayName": "Constantine II",
+    "fullName": "Constantine II of Scotland",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Causantín mac Áeda"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "康斯坦丁二世",
+    "fullNameCn": "康斯坦丁二世",
+    "birthYear": 879,
+    "deathYear": 952,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "male",
+    "dynasty": "House of Alpin",
+    "house": "House of Alpin",
+    "culture": "Scottish",
+    "faith": "Catholic",
+    "primaryTitle": "King of Alba",
+    "primaryTitleCn": "阿尔巴国王",
+    "titles": [
+      {
+        "title": "King of Alba",
+        "startYear": 900,
+        "endYear": 943,
+        "titleCn": "阿尔巴国王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 60,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "4ac06665-f420-4756-8fab-38316e1ce5a1",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "b75eaf1f-d1a7-40aa-93c4-d48ad828bf02"
+      ]
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Constantine_II_of_Scotland",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Constantine_II_of_Scotland",
+    "sourceNote": "",
+    "notes": "",
+    "createdDate": "20260819",
+    "createdOrder": 8
+  },
+  {
+    "id": "1171990b-b5c9-440a-975e-48a5986674a8",
+    "firstName": "Malcolm",
+    "lastName": "",
+    "displayName": "Malcolm I",
+    "fullName": "Malcolm I of Scotland",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Máel Coluim mac Domnaill"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "马尔科姆一世",
+    "fullNameCn": "马尔科姆一世",
+    "birthYear": 897,
+    "deathYear": 954,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "male",
+    "dynasty": "House of Alpin",
+    "house": "House of Alpin",
+    "culture": "Scottish",
+    "faith": "Catholic",
+    "primaryTitle": "King of Alba",
+    "primaryTitleCn": "阿尔巴国王",
+    "titles": [
+      {
+        "title": "King of Alba",
+        "startYear": 943,
+        "endYear": 954,
+        "titleCn": "阿尔巴国王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "ce525dab-f6d2-48eb-809c-ee7ec1aced1e",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "73d8a154-9a8a-49b6-8413-566e25840f8e",
+        "5ad2dad2-489f-4434-9d17-890dbeb45376"
+      ]
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Malcolm_I_of_Scotland",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Malcolm_I_of_Scotland",
+    "sourceNote": "",
+    "notes": "",
+    "createdDate": "20260819",
+    "createdOrder": 9
+  },
+  {
+    "id": "b75eaf1f-d1a7-40aa-93c4-d48ad828bf02",
+    "firstName": "Indulf",
+    "lastName": "",
+    "displayName": "Indulf",
+    "fullName": "Indulf of Scotland",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Ildulb mac Causantín"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "因达尔夫",
+    "fullNameCn": "因达尔夫",
+    "birthYear": 927,
+    "deathYear": 962,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "male",
+    "dynasty": "House of Alpin",
+    "house": "House of Alpin",
+    "culture": "Scottish",
+    "faith": "Catholic",
+    "primaryTitle": "King of Alba",
+    "primaryTitleCn": "阿尔巴国王",
+    "titles": [
+      {
+        "title": "King of Alba",
+        "startYear": 954,
+        "endYear": 962,
+        "titleCn": "阿尔巴国王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "16cfffe8-e175-4120-ac96-44103215ac0d",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "0dafd036-b43a-4bed-a232-a27881ecbc01",
+        "5f31a043-e9fb-461f-b596-8db96e101d83"
+      ]
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Indulf",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Indulf",
+    "sourceNote": "",
+    "notes": "",
+    "createdDate": "20260819",
+    "createdOrder": 10
+  },
+  {
+    "id": "73d8a154-9a8a-49b6-8413-566e25840f8e",
+    "firstName": "Dub",
+    "lastName": "",
+    "displayName": "Dub",
+    "fullName": "Dub, King of Scotland",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Dub mac Maíl Coluim"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "杜布",
+    "fullNameCn": "杜布",
+    "birthYear": 928,
+    "deathYear": 967,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "male",
+    "dynasty": "House of Alpin",
+    "house": "House of Alpin",
+    "culture": "Scottish",
+    "faith": "Catholic",
+    "primaryTitle": "King of Alba",
+    "primaryTitleCn": "阿尔巴国王",
+    "titles": [
+      {
+        "title": "King of Alba",
+        "startYear": 962,
+        "endYear": 967,
+        "titleCn": "阿尔巴国王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "1171990b-b5c9-440a-975e-48a5986674a8",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "3b7a20ad-bef6-40f7-8ae1-0f1f6cf16840"
+      ]
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Dub,_King_of_Scotland",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Dub,_King_of_Scotland",
+    "sourceNote": "",
+    "notes": "",
+    "createdDate": "20260819",
+    "createdOrder": 11
+  },
+  {
+    "id": "0dafd036-b43a-4bed-a232-a27881ecbc01",
+    "firstName": "Cuilén",
+    "lastName": "",
+    "displayName": "Cuilén",
+    "fullName": "Cuilén of Scotland",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Cuilén mac Ilduilb"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "库伦",
+    "fullNameCn": "库伦",
+    "birthYear": 954,
+    "deathYear": 971,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "male",
+    "dynasty": "House of Alpin",
+    "house": "House of Alpin",
+    "culture": "Scottish",
+    "faith": "Catholic",
+    "primaryTitle": "King of Alba",
+    "primaryTitleCn": "阿尔巴国王",
+    "titles": [
+      {
+        "title": "King of Alba",
+        "startYear": 967,
+        "endYear": 971,
+        "titleCn": "阿尔巴国王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "b75eaf1f-d1a7-40aa-93c4-d48ad828bf02",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "6988263e-1a43-44a5-a1c6-bcbb3be4de9b"
+      ]
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Cuilén",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Cuilén",
+    "sourceNote": "",
+    "notes": "",
+    "createdDate": "20260819",
+    "createdOrder": 12
+  },
+  {
+    "id": "5f31a043-e9fb-461f-b596-8db96e101d83",
+    "firstName": "Amlaíb",
+    "lastName": "",
+    "displayName": "Amlaíb",
+    "fullName": "Amlaíb of Scotland",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Amlaíb mac Ilduilb"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "阿姆莱布",
+    "fullNameCn": "阿姆莱布",
+    "birthYear": 957,
+    "deathYear": 977,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "male",
+    "dynasty": "House of Alpin",
+    "house": "House of Alpin",
+    "culture": "Scottish",
+    "faith": "Catholic",
+    "primaryTitle": "King of Alba",
+    "primaryTitleCn": "阿尔巴国王",
+    "titles": [
+      {
+        "title": "King of Alba",
+        "startYear": 973,
+        "endYear": 977,
+        "titleCn": "阿尔巴国王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 40,
+    "historicalRating": 4,
+    "relationships": {
+      "fatherId": "b75eaf1f-d1a7-40aa-93c4-d48ad828bf02",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Amlaíb,_King_of_Scotland",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Amlaíb,_King_of_Scotland",
+    "sourceNote": "",
+    "notes": "",
+    "createdDate": "20260819",
+    "createdOrder": 13
+  },
+  {
+    "id": "5ad2dad2-489f-4434-9d17-890dbeb45376",
+    "firstName": "Kenneth",
+    "lastName": "",
+    "displayName": "Kenneth II",
+    "fullName": "Kenneth II of Scotland",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Cináed mac Maíl Coluim"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "肯尼思二世",
+    "fullNameCn": "肯尼思二世",
+    "birthYear": 932,
+    "deathYear": 995,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "male",
+    "dynasty": "House of Alpin",
+    "house": "House of Alpin",
+    "culture": "Scottish",
+    "faith": "Catholic",
+    "primaryTitle": "King of Alba",
+    "primaryTitleCn": "阿尔巴国王",
+    "titles": [
+      {
+        "title": "King of Alba",
+        "startYear": 971,
+        "endYear": 995,
+        "titleCn": "阿尔巴国王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 60,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "1171990b-b5c9-440a-975e-48a5986674a8",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "1643ee9c-fcc6-48fb-b25f-085d3f239e85"
+      ]
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Kenneth_II_of_Scotland",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Kenneth_II_of_Scotland",
+    "sourceNote": "",
+    "notes": "",
+    "createdDate": "20260819",
+    "createdOrder": 14
+  },
+  {
+    "id": "6988263e-1a43-44a5-a1c6-bcbb3be4de9b",
+    "firstName": "Constantine",
+    "lastName": "",
+    "displayName": "Constantine III",
+    "fullName": "Constantine III of Scotland",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Causantín mac Cuiléin"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "康斯坦丁三世",
+    "fullNameCn": "康斯坦丁三世",
+    "birthYear": 970,
+    "deathYear": 997,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "male",
+    "dynasty": "House of Alpin",
+    "house": "House of Alpin",
+    "culture": "Scottish",
+    "faith": "Catholic",
+    "primaryTitle": "King of Alba",
+    "primaryTitleCn": "阿尔巴国王",
+    "titles": [
+      {
+        "title": "King of Alba",
+        "startYear": 995,
+        "endYear": 997,
+        "titleCn": "阿尔巴国王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "0dafd036-b43a-4bed-a232-a27881ecbc01",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Constantine_III_of_Scotland",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Constantine_III_of_Scotland",
+    "sourceNote": "",
+    "notes": "",
+    "createdDate": "20260819",
+    "createdOrder": 15
+  },
+  {
+    "id": "3b7a20ad-bef6-40f7-8ae1-0f1f6cf16840",
+    "firstName": "Kenneth",
+    "lastName": "",
+    "displayName": "Kenneth III",
+    "fullName": "Kenneth III of Scotland",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Cináed mac Duib"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "肯尼思三世",
+    "fullNameCn": "肯尼思三世",
+    "birthYear": 966,
+    "deathYear": 1005,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "male",
+    "dynasty": "House of Alpin",
+    "house": "House of Alpin",
+    "culture": "Scottish",
+    "faith": "Catholic",
+    "primaryTitle": "King of Alba",
+    "primaryTitleCn": "阿尔巴国王",
+    "titles": [
+      {
+        "title": "King of Alba",
+        "startYear": 997,
+        "endYear": 1005,
+        "titleCn": "阿尔巴国王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "73d8a154-9a8a-49b6-8413-566e25840f8e",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Kenneth_III_of_Scotland",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Kenneth_III_of_Scotland",
+    "sourceNote": "",
+    "notes": "",
+    "createdDate": "20260819",
+    "createdOrder": 16
+  },
+  {
+    "id": "1643ee9c-fcc6-48fb-b25f-085d3f239e85",
+    "firstName": "Malcolm",
+    "lastName": "",
+    "displayName": "Malcolm II",
+    "fullName": "Malcolm II of Scotland",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Máel Coluim mac Cináeda"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "马尔科姆二世",
+    "fullNameCn": "马尔科姆二世",
+    "birthYear": 954,
+    "deathYear": 1034,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "male",
+    "dynasty": "House of Alpin",
+    "house": "House of Alpin",
+    "culture": "Scottish",
+    "faith": "Catholic",
+    "primaryTitle": "King of Alba",
+    "primaryTitleCn": "阿尔巴国王",
+    "titles": [
+      {
+        "title": "King of Alba",
+        "startYear": 1005,
+        "endYear": 1034,
+        "titleCn": "阿尔巴国王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 60,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "5ad2dad2-489f-4434-9d17-890dbeb45376",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Malcolm_II_of_Scotland",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Malcolm_II_of_Scotland",
+    "sourceNote": "",
+    "notes": "",
+    "createdDate": "20260819",
+    "createdOrder": 17
+  },
+  {
+    "id": "b4b4f793-05ad-4880-8e78-8df9e6d9e783",
+    "firstName": "Duncan",
+    "lastName": "",
+    "displayName": "Duncan I",
+    "fullName": "Duncan I of Scotland",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Donnchad mac Crínáin"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "邓肯一世",
+    "fullNameCn": "邓肯一世",
+    "birthYear": 1001,
+    "deathYear": 1040,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "male",
+    "dynasty": "House of Dunkeld",
+    "house": "House of Dunkeld",
+    "culture": "Scottish",
+    "faith": "Catholic",
+    "primaryTitle": "King of Scots",
+    "primaryTitleCn": "苏格兰人之王",
+    "titles": [
+      {
+        "title": "King of Scots",
+        "startYear": 1034,
+        "endYear": 1040,
+        "titleCn": "苏格兰人之王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 60,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "80870fc2-6623-46a3-b8f9-30e9d755b4d6",
+        "c4c3c469-927d-47b2-b135-9519593c8f03"
+      ]
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Duncan_I_of_Scotland",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Duncan_I_of_Scotland",
+    "sourceNote": "",
+    "notes": "",
+    "createdDate": "20260819",
+    "createdOrder": 18
+  },
+  {
+    "id": "1c66693e-8541-4672-8d61-799cb5178064",
+    "firstName": "Macbeth",
+    "lastName": "",
+    "displayName": "Macbeth",
+    "fullName": "Macbeth, King of Scotland",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Mac Bethad mac Findlaích"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "麦克白",
+    "fullNameCn": "麦克白",
+    "birthYear": 1005,
+    "deathYear": 1057,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "male",
+    "dynasty": "House of Moray",
+    "house": "House of Moray",
+    "culture": "Scottish",
+    "faith": "Catholic",
+    "primaryTitle": "King of Scots",
+    "primaryTitleCn": "苏格兰人之王",
+    "titles": [
+      {
+        "title": "King of Scots",
+        "startYear": 1040,
+        "endYear": 1057,
+        "titleCn": "苏格兰人之王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 60,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Macbeth,_King_of_Scotland",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Macbeth,_King_of_Scotland",
+    "sourceNote": "",
+    "notes": "",
+    "createdDate": "20260819",
+    "createdOrder": 19
+  },
+  {
+    "id": "d65301db-6012-4bb9-afdd-6298a6199e43",
+    "firstName": "Lulach",
+    "lastName": "",
+    "displayName": "Lulach",
+    "fullName": "Lulach of Scotland",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Lulach mac Gille Coemgáin"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "卢拉赫",
+    "fullNameCn": "卢拉赫",
+    "birthYear": 1033,
+    "deathYear": 1058,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "male",
+    "dynasty": "House of Moray",
+    "house": "House of Moray",
+    "culture": "Scottish",
+    "faith": "Catholic",
+    "primaryTitle": "King of Scots",
+    "primaryTitleCn": "苏格兰人之王",
+    "titles": [
+      {
+        "title": "King of Scots",
+        "startYear": 1057,
+        "endYear": 1058,
+        "titleCn": "苏格兰人之王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 40,
+    "historicalRating": 4,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Lulach",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Lulach",
+    "sourceNote": "",
+    "notes": "",
+    "createdDate": "20260819",
+    "createdOrder": 20
+  },
+  {
+    "id": "80870fc2-6623-46a3-b8f9-30e9d755b4d6",
+    "firstName": "Malcolm",
+    "lastName": "",
+    "displayName": "Malcolm III",
+    "fullName": "Malcolm III of Scotland",
+    "nickname": "Canmore",
+    "alsoKnownAs": [
+      "Máel Coluim mac Donnchada",
+      "Malcolm Canmore"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "马尔科姆三世",
+    "fullNameCn": "马尔科姆三世",
+    "nicknameCn": "坎莫尔",
+    "birthYear": 1031,
+    "deathYear": 1093,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "male",
+    "dynasty": "House of Dunkeld",
+    "house": "House of Dunkeld",
+    "culture": "Scottish",
+    "faith": "Catholic",
+    "primaryTitle": "King of Scots",
+    "primaryTitleCn": "苏格兰人之王",
+    "titles": [
+      {
+        "title": "King of Scots",
+        "startYear": 1058,
+        "endYear": 1093,
+        "titleCn": "苏格兰人之王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 70,
+    "historicalRating": 7,
+    "relationships": {
+      "fatherId": "b4b4f793-05ad-4880-8e78-8df9e6d9e783",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "20a0a9c9-6463-4ca4-8329-1b05ca4bb117",
+        "fa144969-5d6f-4385-9efc-d8080c4a14e9",
+        "b27e90d0-868c-48d6-9411-b551fe9f3cc4",
+        "07fcdfc1-05c4-4285-b024-e1583c6c59e2"
+      ]
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Malcolm_III_of_Scotland",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Malcolm_III_of_Scotland",
+    "sourceNote": "",
+    "notes": "",
+    "createdDate": "20260819",
+    "createdOrder": 21
+  },
+  {
+    "id": "c4c3c469-927d-47b2-b135-9519593c8f03",
+    "firstName": "Donald",
+    "lastName": "",
+    "displayName": "Donald III",
+    "fullName": "Donald III of Scotland",
+    "nickname": "Bane",
+    "alsoKnownAs": [
+      "Domnall mac Donnchada",
+      "Donald Bane"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "唐纳德三世",
+    "fullNameCn": "唐纳德三世",
+    "nicknameCn": "班恩",
+    "birthYear": 1033,
+    "deathYear": 1099,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "male",
+    "dynasty": "House of Dunkeld",
+    "house": "House of Dunkeld",
+    "culture": "Scottish",
+    "faith": "Catholic",
+    "primaryTitle": "King of Scots",
+    "primaryTitleCn": "苏格兰人之王",
+    "titles": [
+      {
+        "title": "King of Scots",
+        "startYear": 1093,
+        "endYear": 1097,
+        "titleCn": "苏格兰人之王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "b4b4f793-05ad-4880-8e78-8df9e6d9e783",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Donald_III_of_Scotland",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Donald_III_of_Scotland",
+    "sourceNote": "",
+    "notes": "",
+    "createdDate": "20260819",
+    "createdOrder": 22
+  },
+  {
+    "id": "20a0a9c9-6463-4ca4-8329-1b05ca4bb117",
+    "firstName": "Duncan",
+    "lastName": "",
+    "displayName": "Duncan II",
+    "fullName": "Duncan II of Scotland",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Donnchad mac Máel Coluim"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "邓肯二世",
+    "fullNameCn": "邓肯二世",
+    "birthYear": 1060,
+    "deathYear": 1094,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "male",
+    "dynasty": "House of Dunkeld",
+    "house": "House of Dunkeld",
+    "culture": "Scottish",
+    "faith": "Catholic",
+    "primaryTitle": "King of Scots",
+    "primaryTitleCn": "苏格兰人之王",
+    "titles": [
+      {
+        "title": "King of Scots",
+        "startYear": 1094,
+        "endYear": 1094,
+        "titleCn": "苏格兰人之王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "80870fc2-6623-46a3-b8f9-30e9d755b4d6",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Duncan_II_of_Scotland",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Duncan_II_of_Scotland",
+    "sourceNote": "",
+    "notes": "",
+    "createdDate": "20260819",
+    "createdOrder": 23
+  },
+  {
+    "id": "fa144969-5d6f-4385-9efc-d8080c4a14e9",
+    "firstName": "Edgar",
+    "lastName": "",
+    "displayName": "Edgar",
+    "fullName": "Edgar, King of Scotland",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Edgar of Scotland"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "埃德加",
+    "fullNameCn": "埃德加",
+    "birthYear": 1074,
+    "deathYear": 1107,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "male",
+    "dynasty": "House of Dunkeld",
+    "house": "House of Dunkeld",
+    "culture": "Scottish",
+    "faith": "Catholic",
+    "primaryTitle": "King of Scots",
+    "primaryTitleCn": "苏格兰人之王",
+    "titles": [
+      {
+        "title": "King of Scots",
+        "startYear": 1097,
+        "endYear": 1107,
+        "titleCn": "苏格兰人之王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "80870fc2-6623-46a3-b8f9-30e9d755b4d6",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Edgar,_King_of_Scotland",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Edgar,_King_of_Scotland",
+    "sourceNote": "",
+    "notes": "",
+    "createdDate": "20260819",
+    "createdOrder": 24
+  },
+  {
+    "id": "b27e90d0-868c-48d6-9411-b551fe9f3cc4",
+    "firstName": "Alexander",
+    "lastName": "",
+    "displayName": "Alexander I",
+    "fullName": "Alexander I of Scotland",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Alexander I of Scotland"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "亚历山大一世",
+    "fullNameCn": "亚历山大一世",
+    "birthYear": 1078,
+    "deathYear": 1124,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "male",
+    "dynasty": "House of Dunkeld",
+    "house": "House of Dunkeld",
+    "culture": "Scottish",
+    "faith": "Catholic",
+    "primaryTitle": "King of Scots",
+    "primaryTitleCn": "苏格兰人之王",
+    "titles": [
+      {
+        "title": "King of Scots",
+        "startYear": 1107,
+        "endYear": 1124,
+        "titleCn": "苏格兰人之王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "80870fc2-6623-46a3-b8f9-30e9d755b4d6",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Alexander_I_of_Scotland",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Alexander_I_of_Scotland",
+    "sourceNote": "",
+    "notes": "",
+    "createdDate": "20260819",
+    "createdOrder": 25
+  },
+  {
+    "id": "07fcdfc1-05c4-4285-b024-e1583c6c59e2",
+    "firstName": "David",
+    "lastName": "",
+    "displayName": "David I",
+    "fullName": "David I of Scotland",
+    "nickname": "",
+    "alsoKnownAs": [
+      "David I of Scotland"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "大卫一世",
+    "fullNameCn": "大卫一世",
+    "birthYear": 1084,
+    "deathYear": 1153,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "male",
+    "dynasty": "House of Dunkeld",
+    "house": "House of Dunkeld",
+    "culture": "Scottish",
+    "faith": "Catholic",
+    "primaryTitle": "King of Scots",
+    "primaryTitleCn": "苏格兰人之王",
+    "titles": [
+      {
+        "title": "King of Scots",
+        "startYear": 1124,
+        "endYear": 1153,
+        "titleCn": "苏格兰人之王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 70,
+    "historicalRating": 7,
+    "relationships": {
+      "fatherId": "80870fc2-6623-46a3-b8f9-30e9d755b4d6",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/David_I_of_Scotland",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/David_I_of_Scotland",
+    "sourceNote": "",
+    "notes": "",
+    "createdDate": "20260819",
+    "createdOrder": 26
+  },
+  {
+    "id": "5111b9f9-6656-4dec-984c-405a1ea4a278",
+    "firstName": "Malcolm",
+    "lastName": "",
+    "displayName": "Malcolm IV",
+    "fullName": "Malcolm IV of Scotland",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Malcolm IV of Scotland"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "马尔科姆四世",
+    "fullNameCn": "马尔科姆四世",
+    "birthYear": 1141,
+    "deathYear": 1165,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "male",
+    "dynasty": "House of Dunkeld",
+    "house": "House of Dunkeld",
+    "culture": "Scottish",
+    "faith": "Catholic",
+    "primaryTitle": "King of Scots",
+    "primaryTitleCn": "苏格兰人之王",
+    "titles": [
+      {
+        "title": "King of Scots",
+        "startYear": 1153,
+        "endYear": 1165,
+        "titleCn": "苏格兰人之王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Malcolm_IV_of_Scotland",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Malcolm_IV_of_Scotland",
+    "sourceNote": "",
+    "notes": "",
+    "createdDate": "20260819",
+    "createdOrder": 27
+  },
+  {
+    "id": "9cac54ff-21b3-4385-8faf-ce6e0f93122d",
+    "firstName": "William",
+    "lastName": "",
+    "displayName": "William I",
+    "fullName": "William the Lion",
+    "nickname": "the Lion",
+    "alsoKnownAs": [
+      "William the Lion",
+      "Uilliam mac Eanric"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "威廉一世",
+    "fullNameCn": "狮子威廉",
+    "nicknameCn": "狮子",
+    "birthYear": 1142,
+    "deathYear": 1214,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "male",
+    "dynasty": "House of Dunkeld",
+    "house": "House of Dunkeld",
+    "culture": "Scottish",
+    "faith": "Catholic",
+    "primaryTitle": "King of Scots",
+    "primaryTitleCn": "苏格兰人之王",
+    "titles": [
+      {
+        "title": "King of Scots",
+        "startYear": 1165,
+        "endYear": 1214,
+        "titleCn": "苏格兰人之王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 60,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "02bdc923-e724-4009-9087-4578d2bf3f18"
+      ]
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/William_the_Lion",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/William_the_Lion",
+    "sourceNote": "",
+    "notes": "",
+    "createdDate": "20260819",
+    "createdOrder": 28
+  },
+  {
+    "id": "02bdc923-e724-4009-9087-4578d2bf3f18",
+    "firstName": "Alexander",
+    "lastName": "",
+    "displayName": "Alexander II",
+    "fullName": "Alexander II of Scotland",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Alexander II of Scotland"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "亚历山大二世",
+    "fullNameCn": "亚历山大二世",
+    "birthYear": 1198,
+    "deathYear": 1249,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "male",
+    "dynasty": "House of Dunkeld",
+    "house": "House of Dunkeld",
+    "culture": "Scottish",
+    "faith": "Catholic",
+    "primaryTitle": "King of Scots",
+    "primaryTitleCn": "苏格兰人之王",
+    "titles": [
+      {
+        "title": "King of Scots",
+        "startYear": 1214,
+        "endYear": 1249,
+        "titleCn": "苏格兰人之王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 60,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "9cac54ff-21b3-4385-8faf-ce6e0f93122d",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "13b7ded6-7649-4661-8044-e5c1ee518dbf"
+      ]
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Alexander_II_of_Scotland",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Alexander_II_of_Scotland",
+    "sourceNote": "",
+    "notes": "",
+    "createdDate": "20260819",
+    "createdOrder": 29
+  },
+  {
+    "id": "13b7ded6-7649-4661-8044-e5c1ee518dbf",
+    "firstName": "Alexander",
+    "lastName": "",
+    "displayName": "Alexander III",
+    "fullName": "Alexander III of Scotland",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Alexander III of Scotland"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "亚历山大三世",
+    "fullNameCn": "亚历山大三世",
+    "birthYear": 1241,
+    "deathYear": 1286,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "male",
+    "dynasty": "House of Dunkeld",
+    "house": "House of Dunkeld",
+    "culture": "Scottish",
+    "faith": "Catholic",
+    "primaryTitle": "King of Scots",
+    "primaryTitleCn": "苏格兰人之王",
+    "titles": [
+      {
+        "title": "King of Scots",
+        "startYear": 1249,
+        "endYear": 1286,
+        "titleCn": "苏格兰人之王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 60,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "02bdc923-e724-4009-9087-4578d2bf3f18",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Alexander_III_of_Scotland",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Alexander_III_of_Scotland",
+    "sourceNote": "",
+    "notes": "",
+    "createdDate": "20260819",
+    "createdOrder": 30
+  },
+  {
+    "id": "a954e43d-2b25-41e4-bbab-c73e0463c486",
+    "firstName": "John",
+    "lastName": "Balliol",
+    "displayName": "John Balliol",
+    "fullName": "John de Balliol",
+    "nickname": "",
+    "alsoKnownAs": [
+      "John Balliol",
+      "John de Balliol"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "约翰·巴里奥",
+    "fullNameCn": "约翰·巴里奥",
+    "birthYear": 1249,
+    "deathYear": 1314,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "male",
+    "dynasty": "House of Balliol",
+    "house": "House of Balliol",
+    "culture": "Scottish",
+    "faith": "Catholic",
+    "primaryTitle": "King of Scots",
+    "primaryTitleCn": "苏格兰人之王",
+    "titles": [
+      {
+        "title": "King of Scots",
+        "startYear": 1292,
+        "endYear": 1296,
+        "titleCn": "苏格兰人之王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/John_Balliol",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/John_Balliol",
+    "sourceNote": "",
+    "notes": "",
+    "createdDate": "20260819",
+    "createdOrder": 31
   }
 ]

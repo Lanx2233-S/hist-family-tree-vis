@@ -516,6 +516,46 @@
 .title-node-name { margin-top: 4px; font-weight: 800; }
 .title-node-title, .title-node-years { font-size: 0.72rem; font-weight: 700; }
 
+/* House/dynasty line beside each person card. */
+.title-holder-row {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 14px;
+  width: 100%;
+}
+.title-holder-house {
+  max-width: 150px;
+  color: #6f5a3c;
+  font-size: 0.76rem;
+  font-weight: 700;
+  line-height: 1.25;
+  text-align: right;
+}
+@media (max-width: 480px) {
+  .title-holder-row { flex-direction: column; gap: 6px; }
+  .title-holder-house { max-width: none; text-align: center; }
+}
+
+/* Succession-interregnum placeholder — same box as a person node but
+   transparent with a dashed brown border and muted text, not clickable. */
+.title-gap-node {
+  display: grid;
+  justify-items: center;
+  align-content: center;
+  gap: 3px;
+  width: var(--person-node-width);
+  min-height: var(--person-node-height);
+  border: 2px dashed var(--person-node-border);
+  border-radius: var(--person-node-radius);
+  padding: 11px 16px 9px;
+  background: transparent;
+  color: rgba(34, 23, 15, 0.62);
+  text-align: center;
+  cursor: default;
+}
+
 .title-workspace .detail-panel {
   min-width: 0;
 }

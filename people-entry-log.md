@@ -1,10 +1,9 @@
 # 人物录入索引（People Entry Log）
 
-> 当前总人数：212
-> 分配日期：2026-08-15 至 2026-08-18（每日 53 人）
-> 每日人数：2026-08-15 = 53；2026-08-16 = 53；2026-08-17 = 53；2026-08-18 = 53
+> 当前总人数：259
+> 分配日期：20260815 = 53 人；20260816 = 53 人；20260817 = 53 人；20260818 = 53 人；20260819 = 47 人
 > 数据来源：`src/data/people/manifest.json` 及其引用的全部人员 JSON 文件
-> 字段说明：姓名 = `displayName`；UUID = `id`；自定义序号 = `YYYYMMDDNNN`（= `createdDate` + `createdOrder` 补零三位）；总序号 = `manifest.order` 顺序；重要度评分 = `historicalRating`
+> 字段说明：姓名 = `displayName`；UUID = `id`；自定义序号 = `YYYYMMDDNNN`（`createdDate` + `createdOrder` 补零三位）；总序号 = `manifest.order` 顺序；重要度评分 = `historicalRating`
 
 | 姓名 | UUID | 自定义序号 | 总序号 | 重要度评分 |
 |---|---|---:|---:|---:|
@@ -220,11 +219,58 @@
 | Margaret Beaufort | `332dde24-0bd6-4f15-8c52-66f483208e0b` | 20260818051 | 210 | 7星 |
 | Anne of Bohemia | `d8867112-cd68-4100-91e2-f42de19d273c` | 20260818052 | 211 | 5星 |
 | Edith Swannesha | `40e82515-a8a4-4a7a-bcf0-dff6322baef6` | 20260818053 | 212 | 4星 |
+| Kenneth I | `086c99e5-0a45-493c-aee1-4dc08057197f` | 20260819001 | 213 | 7星 |
+| Donald I | `fb77aa5c-25b0-4680-9104-746abb34d649` | 20260819002 | 214 | 5星 |
+| Constantine I | `6f901b6f-62b2-4ebc-b631-fa960cb6cc4a` | 20260819003 | 215 | 5星 |
+| Áed | `4ac06665-f420-4756-8fab-38316e1ce5a1` | 20260819004 | 216 | 5星 |
+| Giric | `95b17056-2bb8-4de5-aa7f-3ed8440d4c98` | 20260819005 | 217 | 4星 |
+| Eochaid | `5b06faf9-39cb-4f79-b398-1f02f10425ee` | 20260819006 | 218 | 4星 |
+| Donald II | `ce525dab-f6d2-48eb-809c-ee7ec1aced1e` | 20260819007 | 219 | 5星 |
+| Constantine II | `16cfffe8-e175-4120-ac96-44103215ac0d` | 20260819008 | 220 | 6星 |
+| Malcolm I | `1171990b-b5c9-440a-975e-48a5986674a8` | 20260819009 | 221 | 5星 |
+| Indulf | `b75eaf1f-d1a7-40aa-93c4-d48ad828bf02` | 20260819010 | 222 | 5星 |
+| Dub | `73d8a154-9a8a-49b6-8413-566e25840f8e` | 20260819011 | 223 | 5星 |
+| Cuilén | `0dafd036-b43a-4bed-a232-a27881ecbc01` | 20260819012 | 224 | 5星 |
+| Amlaíb | `5f31a043-e9fb-461f-b596-8db96e101d83` | 20260819013 | 225 | 4星 |
+| Kenneth II | `5ad2dad2-489f-4434-9d17-890dbeb45376` | 20260819014 | 226 | 6星 |
+| Constantine III | `6988263e-1a43-44a5-a1c6-bcbb3be4de9b` | 20260819015 | 227 | 5星 |
+| Kenneth III | `3b7a20ad-bef6-40f7-8ae1-0f1f6cf16840` | 20260819016 | 228 | 5星 |
+| Malcolm II | `1643ee9c-fcc6-48fb-b25f-085d3f239e85` | 20260819017 | 229 | 6星 |
+| Duncan I | `b4b4f793-05ad-4880-8e78-8df9e6d9e783` | 20260819018 | 230 | 6星 |
+| Macbeth | `1c66693e-8541-4672-8d61-799cb5178064` | 20260819019 | 231 | 6星 |
+| Lulach | `d65301db-6012-4bb9-afdd-6298a6199e43` | 20260819020 | 232 | 4星 |
+| Malcolm III | `80870fc2-6623-46a3-b8f9-30e9d755b4d6` | 20260819021 | 233 | 7星 |
+| Donald III | `c4c3c469-927d-47b2-b135-9519593c8f03` | 20260819022 | 234 | 5星 |
+| Duncan II | `20a0a9c9-6463-4ca4-8329-1b05ca4bb117` | 20260819023 | 235 | 5星 |
+| Edgar | `fa144969-5d6f-4385-9efc-d8080c4a14e9` | 20260819024 | 236 | 5星 |
+| Alexander I | `b27e90d0-868c-48d6-9411-b551fe9f3cc4` | 20260819025 | 237 | 5星 |
+| David I | `07fcdfc1-05c4-4285-b024-e1583c6c59e2` | 20260819026 | 238 | 7星 |
+| Malcolm IV | `5111b9f9-6656-4dec-984c-405a1ea4a278` | 20260819027 | 239 | 5星 |
+| William I | `9cac54ff-21b3-4385-8faf-ce6e0f93122d` | 20260819028 | 240 | 6星 |
+| Alexander II | `02bdc923-e724-4009-9087-4578d2bf3f18` | 20260819029 | 241 | 6星 |
+| Alexander III | `13b7ded6-7649-4661-8044-e5c1ee518dbf` | 20260819030 | 242 | 6星 |
+| John Balliol | `a954e43d-2b25-41e4-bbab-c73e0463c486` | 20260819031 | 243 | 5星 |
+| Robert the Bruce | `d579ab42-fae4-4a29-9066-326b4e343746` | 20260819032 | 244 | 8星 |
+| David II | `933eb844-ee1f-4499-8d24-8c332e058ed9` | 20260819033 | 245 | 6星 |
+| Robert II | `ddb68158-583c-4e4d-84ca-5b04befd2261` | 20260819034 | 246 | 6星 |
+| Robert III | `84eb5f03-22b3-4efe-a5ab-566148c2b283` | 20260819035 | 247 | 5星 |
+| James I | `c6a85386-8891-481a-b7ca-63696a75c4b9` | 20260819036 | 248 | 7星 |
+| James II | `307b6e6f-00f4-4a74-ba48-6868626c8f0f` | 20260819037 | 249 | 6星 |
+| James III | `896125f6-36ae-4969-a767-7f9e4863373b` | 20260819038 | 250 | 5星 |
+| James IV | `0f7eebb4-756f-4120-a042-47ca23805d8e` | 20260819039 | 251 | 7星 |
+| Elizabeth de Burgh | `161a5ed8-c32a-400e-accc-37a34b094d7e` | 20260819040 | 252 | 5星 |
+| Joan of the Tower | `a11ba133-a2dc-4ed2-b995-95445837cf47` | 20260819041 | 253 | 5星 |
+| Elizabeth Mure | `cdae6d46-09e0-416c-bfed-e2bdc534c316` | 20260819042 | 254 | 5星 |
+| Annabella Drummond | `02ff9afd-875a-42ad-868f-d3ac32fb8741` | 20260819043 | 255 | 5星 |
+| Joan Beaufort | `e8cb8c18-f166-498e-b567-e111c0cb8970` | 20260819044 | 256 | 5星 |
+| Mary of Guelders | `619c6c80-d85a-47e6-a1f3-cd3dd4769a51` | 20260819045 | 257 | 5星 |
+| Margaret of Denmark | `31b9d25c-7816-49a5-a0d2-41dd07ba5b47` | 20260819046 | 258 | 5星 |
+| Margaret Tudor | `d68e6d12-f78b-45c9-ab9d-27faba1b1e11` | 20260819047 | 259 | 6星 |
 
 ## 校验结果
 
-- manifest.json 中人员数：212
-- log 中人员数：212
+- manifest.json 中人员数：259
+- log 中人员数：259
 - UUID 全部唯一：是
-- 每日人数：53 / 53 / 53 / 53
+- 缺卡：0；缺自定义序号：0；缺评分：0
 - 自定义序号格式：YYYYMMDDNNN，每日从 001 起连续

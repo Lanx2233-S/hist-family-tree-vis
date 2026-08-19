@@ -1,19 +1,15 @@
 import { useRef, useState } from "react";
 import { useFamilyStore } from "../store";
 import { DetailPanel } from "../features/people/DetailPanel";
-import { copyFor, genderMark, initials, textFor, titleTier } from "../features/shared/presentation";
+import { copyFor, dynastyCn, genderMark, initials, textFor, titleTier } from "../features/shared/presentation";
 import { PageTabs } from "../components/PageTabs";
 import kingOfEnglandData from "../data/titles/king-of-england.json";
 import kingOfFranceData from "../data/titles/king-of-france.json";
+import kingOfScotlandData from "../data/titles/kingdom-of-scotland.json";
 
-type TitleHolder = {
-  personId: string;
-  startYear: number | "";
-  endYear: number | "";
-  titleForm: string;
-  note: string;
-  noteCn: string;
-};
+type TitleHolder =
+  | { kind?: "person"; personId: string; startYear: number | ""; endYear: number | ""; titleForm: string; note: string; noteCn: string; }
+  | { kind: "gap"; personId: null; startYear: number | ""; endYear: number | ""; titleForm: string; titleFormCn: string; note: string; noteCn: string; };
 
 type TitleLineage = {
   id: string;
@@ -23,21 +19,25 @@ type TitleLineage = {
   aliases: string[];
   nameForms: Array<{ name: string; nameCn: string; fromYear: number | ""; untilYear: number | ""; note: string; noteCn: string }>;
   holders: TitleHolder[];
+  houseOverrides?: Record<string, { en: string; cn: string }>;
 };
 
 const kingOfEngland = kingOfEnglandData as unknown as TitleLineage;
 const kingOfFrance = kingOfFranceData as unknown as TitleLineage;
+const kingOfScotland = kingOfScotlandData as unknown as TitleLineage;
 
 type LineageEntry = {
   lineage: TitleLineage;
   name: string;
   nameCn: string;
   anchorId: string;
+  isDefault: boolean;
 };
 
 const LINEAGES: LineageEntry[] = [
-  { lineage: kingOfEngland, name: "Kingdom of England", nameCn: "英格兰王国", anchorId: "21b5ec21-1812-4731-8b03-721988be302f" },
-  { lineage: kingOfFrance, name: "Kingdom of France", nameCn: "法兰西王国", anchorId: "6f92645c-bd9a-414d-9402-749dce748343" },
+  { lineage: kingOfEngland, name: "Kingdom of England", nameCn: "英格兰王国", anchorId: "21b5ec21-1812-4731-8b03-721988be302f", isDefault: true },
+  { lineage: kingOfFrance, name: "Kingdom of France", nameCn: "法兰西王国", anchorId: "6f92645c-bd9a-414d-9402-749dce748343", isDefault: true },
+  { lineage: kingOfScotland, name: "Kingdom of Scotland", nameCn: "苏格兰王国", anchorId: "086c99e5-0a45-493c-aee1-4dc08057197f", isDefault: false },
 ];
 
 export function TitlePage({
@@ -77,6 +77,8 @@ export function TitlePage({
     !titleQuery ||
     [lineage.canonicalName, lineage.canonicalNameCn, ...lineage.aliases, name, nameCn]
       .some((label) => label.toLocaleLowerCase().includes(titleQuery));
+
+  const visibleLineages = LINEAGES.filter((entry) => (titleQuery ? isLineageVisible(entry) : entry.isDefault));
 
   function openLineage(entry: LineageEntry) {
     setActiveEntry(entry);
@@ -148,6 +150,22 @@ export function TitlePage({
             <div className="title-tree-canvas" style={{ "--title-zoom": zoom } as React.CSSProperties}>
               <ol className="title-holder-chain">
             {activeEntry.lineage.holders.map((holder, index) => {
+              if (holder.kind === "gap") {
+                return (
+                <li key={`gap-${holder.startYear}`} className="title-holder">
+                    {index > 0 && (
+                      <span className="title-holder-arrow" aria-label={holderNote(holder)}>
+                        <span className="title-arrow-line" aria-hidden="true" />
+                        <span className="title-arrow-note">{holderNote(holder)}</span>
+                      </span>
+                    )}
+                    <div className="title-gap-node">
+                      <span className="title-node-title">{isCn ? holder.titleFormCn : holder.titleForm}</span>
+                      <span className="title-node-years">{holder.startYear || "?"}–{holder.endYear || "?"}</span>
+                    </div>
+                  </li>
+                );
+              }
               const person = byId.get(holder.personId);
               if (!person) {
                 return (
@@ -160,6 +178,9 @@ export function TitlePage({
                 );
               }
               const label = textFor(person, language);
+              const house = person.house || person.dynasty;
+              const houseOverride = activeEntry.lineage.houseOverrides?.[person.id];
+              const houseText = houseOverride ? (isCn ? houseOverride.cn : houseOverride.en) : (house ? (isCn ? dynastyCn(house) : house) : "");
               return (
                 <li key={`${holder.personId}-${holder.startYear}`} className="title-holder">
                   {index > 0 && (
@@ -168,18 +189,21 @@ export function TitlePage({
                       <span className="title-arrow-note">{holderNote(holder)}</span>
                     </span>
                   )}
-                  <button
-                    type="button"
-                    className={`title-person-node tier-${titleTier(person)} ${person.tags.includes("illegitimate") ? "illegitimate" : ""} ${detailPersonId === person.id ? "selected" : ""}`}
-                    onClick={() => selectHolder(person.id)}
-                    aria-label={`${t.select} ${label.fullName}`}
-                  >
-                    <span className={`title-node-gender ${person.gender}`}>{genderMark(person)}</span>
-                    <span className="title-node-avatar">{initials(person, language)}</span>
-                    <span className="title-node-name">{label.displayName}</span>
-                    <span className="title-node-title">{holder.titleForm}</span>
-                    <span className="title-node-years">{holder.startYear || "?"}–{holder.endYear || "?"}</span>
-                  </button>
+                  <div className="title-holder-row">
+                    <button
+                      type="button"
+                      className={`title-person-node tier-${titleTier(person)} ${person.tags.includes("illegitimate") ? "illegitimate" : ""} ${detailPersonId === person.id ? "selected" : ""}`}
+                      onClick={() => selectHolder(person.id)}
+                      aria-label={`${t.select} ${label.fullName}`}
+                    >
+                      <span className={`title-node-gender ${person.gender}`}>{genderMark(person)}</span>
+                      <span className="title-node-avatar">{initials(person, language)}</span>
+                      <span className="title-node-name">{label.displayName}</span>
+                      <span className="title-node-title">{holder.titleForm}</span>
+                      <span className="title-node-years">{holder.startYear || "?"}–{holder.endYear || "?"}</span>
+                    </button>
+                    {houseText ? <span className="title-holder-house">{houseText}</span> : null}
+                  </div>
                 </li>
               );
             })}
@@ -210,8 +234,8 @@ export function TitlePage({
             />
           </label>
           <div className="title-catalog-results">
-            {LINEAGES.filter(isLineageVisible).length > 0 ? (
-              LINEAGES.filter(isLineageVisible).map((entry) => (
+            {visibleLineages.length > 0 ? (
+              visibleLineages.map((entry) => (
                 <button key={entry.lineage.id} type="button" className="title-entry-card" onClick={() => openLineage(entry)}>
                   <span className="title-entry-name">{entry.name}</span>
                   <span className="title-entry-name-cn">{entry.nameCn}</span>

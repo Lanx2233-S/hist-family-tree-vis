@@ -1,0 +1,410 @@
+{
+  "id": "ae3e5371-574f-4daf-a7aa-0e66510155ec",
+  "canonicalName": "King of Scotland",
+  "canonicalNameCn": "苏格兰国王",
+  "form": "evolving",
+  "aliases": [
+    "King of Scots",
+    "King of Alba"
+  ],
+  "nameForms": [
+    {
+      "name": "King of Alba",
+      "nameCn": "阿尔巴国王",
+      "fromYear": "",
+      "untilYear": 1034,
+      "note": "Early Gaelic kingdom of the Picts and Scots.",
+      "noteCn": "皮克特人与苏格兰人的早期盖尔王国。"
+    },
+    {
+      "name": "King of Scots",
+      "nameCn": "苏格兰人之王",
+      "fromYear": 1034,
+      "untilYear": "",
+      "note": "Style that became fixed in the later kingdom.",
+      "noteCn": "后期逐渐固定的称谓。"
+    }
+  ],
+  "holders": [
+    {
+      "personId": "086c99e5-0a45-493c-aee1-4dc08057197f",
+      "startYear": 843,
+      "endYear": 858,
+      "titleForm": "King of Alba",
+      "note": "Became king as the Alpin dynasty established control over Alba.",
+      "noteCn": "阿尔平王朝确立对阿尔巴的统治后即位。",
+      "kind": "person"
+    },
+    {
+      "personId": "fb77aa5c-25b0-4680-9104-746abb34d649",
+      "startYear": 858,
+      "endYear": 862,
+      "titleForm": "King of Alba",
+      "note": "Succeeded his brother Kenneth I.",
+      "noteCn": "继承其兄肯尼思一世。",
+      "kind": "person"
+    },
+    {
+      "personId": "6f901b6f-62b2-4ebc-b631-fa960cb6cc4a",
+      "startYear": 862,
+      "endYear": 877,
+      "titleForm": "King of Alba",
+      "note": "Succeeded his uncle Donald I.",
+      "noteCn": "继承其叔唐纳德一世。",
+      "kind": "person"
+    },
+    {
+      "personId": "4ac06665-f420-4756-8fab-38316e1ce5a1",
+      "startYear": 877,
+      "endYear": 878,
+      "titleForm": "King of Alba",
+      "note": "Succeeded his brother Constantine I.",
+      "noteCn": "继承其兄康斯坦丁一世。",
+      "kind": "person"
+    },
+    {
+      "personId": "95b17056-2bb8-4de5-aa7f-3ed8440d4c98",
+      "startYear": 878,
+      "endYear": 889,
+      "titleForm": "King of Alba",
+      "note": "Held the kingship jointly with Giric amid a disputed succession.",
+      "noteCn": "在继承争议中与吉里克共同掌握王权。",
+      "kind": "person"
+    },
+    {
+      "personId": "5b06faf9-39cb-4f79-b398-1f02f10425ee",
+      "startYear": 878,
+      "endYear": 889,
+      "titleForm": "King of Alba",
+      "note": "Claimed the kingship alongside Eochaid amid a disputed succession.",
+      "noteCn": "在继承争议中与埃奥凯德并立为王。",
+      "kind": "person"
+    },
+    {
+      "personId": "ce525dab-f6d2-48eb-809c-ee7ec1aced1e",
+      "startYear": 889,
+      "endYear": 900,
+      "titleForm": "King of Alba",
+      "note": "Succeeded Giric.",
+      "noteCn": "继承吉里克。",
+      "kind": "person"
+    },
+    {
+      "personId": "16cfffe8-e175-4120-ac96-44103215ac0d",
+      "startYear": 900,
+      "endYear": 943,
+      "titleForm": "King of Alba",
+      "note": "Succeeded his cousin Donald II.",
+      "noteCn": "继承其堂兄弟唐纳德二世。",
+      "kind": "person"
+    },
+    {
+      "personId": "1171990b-b5c9-440a-975e-48a5986674a8",
+      "startYear": 943,
+      "endYear": 954,
+      "titleForm": "King of Alba",
+      "note": "Succeeded Constantine II.",
+      "noteCn": "继承康斯坦丁二世。",
+      "kind": "person"
+    },
+    {
+      "personId": "b75eaf1f-d1a7-40aa-93c4-d48ad828bf02",
+      "startYear": 954,
+      "endYear": 962,
+      "titleForm": "King of Alba",
+      "note": "Succeeded Malcolm I.",
+      "noteCn": "继承马尔科姆一世。",
+      "kind": "person"
+    },
+    {
+      "personId": "73d8a154-9a8a-49b6-8413-566e25840f8e",
+      "startYear": 962,
+      "endYear": 967,
+      "titleForm": "King of Alba",
+      "note": "Succeeded Indulf.",
+      "noteCn": "继承因达尔夫。",
+      "kind": "person"
+    },
+    {
+      "personId": "0dafd036-b43a-4bed-a232-a27881ecbc01",
+      "startYear": 967,
+      "endYear": 971,
+      "titleForm": "King of Alba",
+      "note": "Succeeded Dub.",
+      "noteCn": "继承杜布。",
+      "kind": "person"
+    },
+    {
+      "personId": "5ad2dad2-489f-4434-9d17-890dbeb45376",
+      "startYear": 971,
+      "endYear": 995,
+      "titleForm": "King of Alba",
+      "note": "Claimed the kingship amid a succession dispute with Amlaíb.",
+      "noteCn": "在与阿姆莱布的继承争议中主张王位。",
+      "kind": "person"
+    },
+    {
+      "personId": "5f31a043-e9fb-461f-b596-8db96e101d83",
+      "startYear": 973,
+      "endYear": 977,
+      "titleForm": "King of Alba",
+      "note": "Claimed the kingship alongside Kenneth II amid a succession dispute.",
+      "noteCn": "在继承争议中与肯尼思二世并立为王。",
+      "kind": "person"
+    },
+    {
+      "personId": "6988263e-1a43-44a5-a1c6-bcbb3be4de9b",
+      "startYear": 995,
+      "endYear": 997,
+      "titleForm": "King of Alba",
+      "note": "Succeeded Kenneth II.",
+      "noteCn": "继承肯尼思二世。",
+      "kind": "person"
+    },
+    {
+      "personId": "3b7a20ad-bef6-40f7-8ae1-0f1f6cf16840",
+      "startYear": 997,
+      "endYear": 1005,
+      "titleForm": "King of Alba",
+      "note": "Succeeded Constantine III.",
+      "noteCn": "继承康斯坦丁三世。",
+      "kind": "person"
+    },
+    {
+      "personId": "1643ee9c-fcc6-48fb-b25f-085d3f239e85",
+      "startYear": 1005,
+      "endYear": 1034,
+      "titleForm": "King of Alba",
+      "note": "Succeeded his father Kenneth III.",
+      "noteCn": "继承父亲肯尼思三世。",
+      "kind": "person"
+    },
+    {
+      "personId": "b4b4f793-05ad-4880-8e78-8df9e6d9e783",
+      "startYear": 1034,
+      "endYear": 1040,
+      "titleForm": "King of Scots",
+      "note": "Succeeded his grandfather Malcolm II.",
+      "noteCn": "继承外祖父马尔科姆二世。",
+      "kind": "person"
+    },
+    {
+      "personId": "1c66693e-8541-4672-8d61-799cb5178064",
+      "startYear": 1040,
+      "endYear": 1057,
+      "titleForm": "King of Scots",
+      "note": "Seized the throne after killing Duncan I.",
+      "noteCn": "杀死邓肯一世后夺取王位。",
+      "kind": "person"
+    },
+    {
+      "personId": "d65301db-6012-4bb9-afdd-6298a6199e43",
+      "startYear": 1057,
+      "endYear": 1058,
+      "titleForm": "King of Scots",
+      "note": "Succeeded his stepfather Macbeth amid a struggle for the throne.",
+      "noteCn": "在王位争夺中继承继父麦克白。",
+      "kind": "person"
+    },
+    {
+      "personId": "80870fc2-6623-46a3-b8f9-30e9d755b4d6",
+      "startYear": 1058,
+      "endYear": 1093,
+      "titleForm": "King of Scots",
+      "note": "Claimed the throne after defeating Lulach and restored the Dunkeld line.",
+      "noteCn": "击败卢拉赫后夺取王位，恢复邓凯尔德世系。",
+      "kind": "person"
+    },
+    {
+      "personId": "c4c3c469-927d-47b2-b135-9519593c8f03",
+      "startYear": 1093,
+      "endYear": 1094,
+      "titleForm": "King of Scots",
+      "note": "Succeeded Malcolm III amid a succession dispute.",
+      "noteCn": "在继承争议中继承马尔科姆三世。",
+      "kind": "person"
+    },
+    {
+      "personId": "20a0a9c9-6463-4ca4-8329-1b05ca4bb117",
+      "startYear": 1094,
+      "endYear": 1094,
+      "titleForm": "King of Scots",
+      "note": "Claimed the throne against Donald III with English support.",
+      "noteCn": "在英格兰支持下对抗唐纳德三世，主张王位。",
+      "kind": "person"
+    },
+    {
+      "personId": "c4c3c469-927d-47b2-b135-9519593c8f03",
+      "startYear": 1094,
+      "endYear": 1097,
+      "titleForm": "King of Scots",
+      "note": "Returned to the throne after Duncan II's death.",
+      "noteCn": "邓肯二世去世后复位。",
+      "kind": "person"
+    },
+    {
+      "personId": "fa144969-5d6f-4385-9efc-d8080c4a14e9",
+      "startYear": 1097,
+      "endYear": 1107,
+      "titleForm": "King of Scots",
+      "note": "Succeeded Donald III with English support.",
+      "noteCn": "在英格兰支持下继承唐纳德三世。",
+      "kind": "person"
+    },
+    {
+      "personId": "b27e90d0-868c-48d6-9411-b551fe9f3cc4",
+      "startYear": 1107,
+      "endYear": 1124,
+      "titleForm": "King of Scots",
+      "note": "Succeeded his brother Edgar.",
+      "noteCn": "继承其兄埃德加。",
+      "kind": "person"
+    },
+    {
+      "personId": "07fcdfc1-05c4-4285-b024-e1583c6c59e2",
+      "startYear": 1124,
+      "endYear": 1153,
+      "titleForm": "King of Scots",
+      "note": "Succeeded his brother Alexander I.",
+      "noteCn": "继承其兄亚历山大一世。",
+      "kind": "person"
+    },
+    {
+      "personId": "5111b9f9-6656-4dec-984c-405a1ea4a278",
+      "startYear": 1153,
+      "endYear": 1165,
+      "titleForm": "King of Scots",
+      "note": "Succeeded his grandfather David I as a child.",
+      "noteCn": "幼年继承其祖父大卫一世。",
+      "kind": "person"
+    },
+    {
+      "personId": "9cac54ff-21b3-4385-8faf-ce6e0f93122d",
+      "startYear": 1165,
+      "endYear": 1214,
+      "titleForm": "King of Scots",
+      "note": "Succeeded his brother Malcolm IV.",
+      "noteCn": "继承其兄马尔科姆四世。",
+      "kind": "person"
+    },
+    {
+      "personId": "02bdc923-e724-4009-9087-4578d2bf3f18",
+      "startYear": 1214,
+      "endYear": 1249,
+      "titleForm": "King of Scots",
+      "note": "Succeeded his father William I.",
+      "noteCn": "继承其父威廉一世。",
+      "kind": "person"
+    },
+    {
+      "personId": "13b7ded6-7649-4661-8044-e5c1ee518dbf",
+      "startYear": 1249,
+      "endYear": 1286,
+      "titleForm": "King of Scots",
+      "note": "Succeeded his father Alexander II.",
+      "noteCn": "继承其父亚历山大二世。",
+      "kind": "person"
+    },
+    {
+      "kind": "gap",
+      "personId": null,
+      "startYear": 1286,
+      "endYear": 1292,
+      "titleForm": "Succession interregnum",
+      "titleFormCn": "王位继承空窗",
+      "note": "After Alexander III's death, competing claims left the Scottish throne unsettled until the Great Cause.",
+      "noteCn": "亚历山大三世去世后，多方争位，苏格兰王位直到大诉讼前一直悬而未决。"
+    },
+    {
+      "kind": "person",
+      "personId": "a954e43d-2b25-41e4-bbab-c73e0463c486",
+      "startYear": 1292,
+      "endYear": 1296,
+      "titleForm": "King of Scots",
+      "note": "Chosen in the Great Cause under Edward I.",
+      "noteCn": "在英王爱德华一世主持的大诉讼中被选为国王。"
+    },
+    {
+      "kind": "gap",
+      "personId": null,
+      "startYear": 1296,
+      "endYear": 1306,
+      "titleForm": "Second Interregnum",
+      "titleFormCn": "第二空位期",
+      "note": "After John Balliol's deposition, Scotland was governed under Edward I's overlordship until Robert the Bruce claimed the throne.",
+      "noteCn": "约翰·巴里奥被废后，苏格兰在爱德华一世宗主权下由守护者治理，直到罗伯特·布鲁斯登基。"
+    },
+    {
+      "kind": "person",
+      "personId": "d579ab42-fae4-4a29-9066-326b4e343746",
+      "startYear": 1306,
+      "endYear": 1329,
+      "titleForm": "King of Scots",
+      "note": "Crowned at Scone and led the fight for independence.",
+      "noteCn": "在斯昆加冕并领导独立斗争。"
+    },
+    {
+      "kind": "person",
+      "personId": "933eb844-ee1f-4499-8d24-8c332e058ed9",
+      "startYear": 1329,
+      "endYear": 1371,
+      "titleForm": "King of Scots",
+      "note": "Succeeded his father Robert the Bruce as a child.",
+      "noteCn": "幼年继承其父罗伯特·布鲁斯。"
+    },
+    {
+      "kind": "person",
+      "personId": "ddb68158-583c-4e4d-84ca-5b04befd2261",
+      "startYear": 1371,
+      "endYear": 1390,
+      "titleForm": "King of Scots",
+      "note": "First Stewart king, succeeding his uncle David II.",
+      "noteCn": "首任斯图亚特国王，继承其舅大卫二世。"
+    },
+    {
+      "kind": "person",
+      "personId": "84eb5f03-22b3-4efe-a5ab-566148c2b283",
+      "startYear": 1390,
+      "endYear": 1406,
+      "titleForm": "King of Scots",
+      "note": "Succeeded his father Robert II.",
+      "noteCn": "继承其父罗贝尔二世。"
+    },
+    {
+      "kind": "person",
+      "personId": "c6a85386-8891-481a-b7ca-63696a75c4b9",
+      "startYear": 1406,
+      "endYear": 1437,
+      "titleForm": "King of Scots",
+      "note": "Succeeded his father Robert III; long captive in England.",
+      "noteCn": "继承其父罗贝尔三世，长期被囚于英格兰。"
+    },
+    {
+      "kind": "person",
+      "personId": "307b6e6f-00f4-4a74-ba48-6868626c8f0f",
+      "startYear": 1437,
+      "endYear": 1460,
+      "titleForm": "King of Scots",
+      "note": "Succeeded his father James I as a child.",
+      "noteCn": "幼年继承其父詹姆斯一世。"
+    },
+    {
+      "kind": "person",
+      "personId": "896125f6-36ae-4969-a767-7f9e4863373b",
+      "startYear": 1460,
+      "endYear": 1488,
+      "titleForm": "King of Scots",
+      "note": "Succeeded his father James II as a child.",
+      "noteCn": "幼年继承其父詹姆斯二世。"
+    },
+    {
+      "kind": "person",
+      "personId": "0f7eebb4-756f-4120-a042-47ca23805d8e",
+      "startYear": 1488,
+      "endYear": 1513,
+      "titleForm": "King of Scots",
+      "note": "Succeeded his father James III after Sauchieburn.",
+      "noteCn": "索奇伯恩之战后继承其父詹姆斯三世。"
+    }
+  ]
+}

@@ -8,12 +8,13 @@ import plantagenet from "./plantagenet.json";
 import york from "./york.json";
 import tudor from "./tudor.json";
 import other from "./other.json";
+import temporaryScotland from "./temporary-scotland.json";
 
 /** Original array order of the people dataset (captured at split time 2026-08-18), shared with scripts/build-people.mjs via manifest.json — keeps UI order unchanged. */
 import manifest from "./manifest.json";
 const ORIGINAL_ORDER: string[] = manifest.order;
 
-const all = [...normandy, ...wessex, ...godwin, ...carolingian, ...capet, ...plantagenet, ...york, ...tudor, ...other];
+const all = [...normandy, ...wessex, ...godwin, ...carolingian, ...capet, ...plantagenet, ...york, ...tudor, ...other, ...temporaryScotland];
 const byId = new Map<string, Person>();
 for (const record of all) byId.set(record.id, record as Person);
 

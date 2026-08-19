@@ -26,45 +26,347 @@
     }
   ],
   "holders": [
-    { "personId":"02155361-a928-4fb6-990e-a3ac713e56c2", "startYear":924, "endYear":939, "titleForm":"King of the English", "note":"Succeeded his father, Edward the Elder.", "noteCn":"继承父亲长者爱德华。" },
-    { "personId":"6a820f17-48e1-4927-b3f6-3471625acd47", "startYear":939, "endYear":946, "titleForm":"King of the English", "note":"Succeeded his half-brother Æthelstan.", "noteCn":"继承同父异母兄埃塞尔斯坦。" },
-    { "personId":"5e4fb7fc-d6a4-488d-ba0e-c10a3ee41f4f", "startYear":946, "endYear":955, "titleForm":"King of the English", "note":"Succeeded his brother Edmund.", "noteCn":"继承兄长埃德蒙。" },
-    { "personId":"40c3aefb-37eb-48eb-8e56-e22733674533", "startYear":955, "endYear":959, "titleForm":"King of the English", "note":"Succeeded his uncle Eadred.", "noteCn":"继承叔父伊德雷德。" },
-    { "personId":"eceed220-7a02-42dd-99cb-3420f16e2cf6", "startYear":959, "endYear":975, "titleForm":"King of the English", "note":"Succeeded his brother Eadwig.", "noteCn":"继承兄长伊德维格。" },
-    { "personId":"84ce52d6-91bf-47fb-afa1-5f869f20fbf6", "startYear":975, "endYear":978, "titleForm":"King of the English", "note":"Succeeded his father Edgar.", "noteCn":"继承父亲埃德加。" },
-    { "personId":"ed0b5627-f0d9-4c85-ac64-26c1c4c3e4b2", "startYear":978, "endYear":1013, "titleForm":"King of England", "note":"Succeeded after Edward the Martyr's death.", "noteCn":"殉道者爱德华去世后继位。" },
-    { "personId":"01da1402-5d85-4186-859a-34f8cb06182d", "startYear":1013, "endYear":1014, "titleForm":"King of England", "note":"Danish conquest forced Æthelred into exile.", "noteCn":"丹麦征服迫使埃塞尔雷德流亡。" },
-    { "personId":"ed0b5627-f0d9-4c85-ac64-26c1c4c3e4b2", "startYear":1014, "endYear":1016, "titleForm":"King of England", "note":"Restored after Sweyn's death.", "noteCn":"斯温去世后复位。" },
-    { "personId":"84d16e93-3a36-46a7-b7b9-b237dc38dfc6", "startYear":1016, "endYear":1016, "titleForm":"King of England", "note":"Chosen during Cnut's invasion.", "noteCn":"克努特入侵期间被拥立。" },
-    { "personId":"0fb64530-ea06-47ec-9570-6166155b53ba", "startYear":1016, "endYear":1035, "titleForm":"King of England", "note":"Won the crown after Assandun and Edmund's death.", "noteCn":"阿桑顿战役及埃德蒙去世后取得王位。" },
-    { "personId":"d539abe5-c27d-4b1a-a3b3-e16d93ce2344", "startYear":1035, "endYear":1040, "titleForm":"King of England", "note":"First regent, then accepted as king.", "noteCn":"先任摄政，后被承认为国王。" },
-    { "personId":"0a5b30a1-051e-41ea-a10a-1c37ce523603", "startYear":1040, "endYear":1042, "titleForm":"King of England", "note":"Returned from Denmark after Harold's death.", "noteCn":"哈罗德去世后自丹麦归来即位。" },
-    { "personId":"a9d5b087-d9a5-4970-8f5c-6701fdb0463c", "startYear":1042, "endYear":1066, "titleForm":"King of the English", "note":"Chosen after Harthacnut's death, restoring the House of Wessex.", "noteCn":"哈德克努特去世后被拥立，复兴威塞克斯王室。" },
-    { "personId":"131aba03-2d7b-4ae3-8d16-b7ebd660ce6c", "startYear":1066, "endYear":1066, "titleForm":"King of the English", "note":"Chosen by the Witan after Edward's death.", "noteCn":"爱德华去世后由贤人会议推举。" },
-    { "personId":"21b5ec21-1812-4731-8b03-721988be302f", "startYear":1066, "endYear":1087, "titleForm":"King of England", "note":"Won the crown after the Battle of Hastings.", "noteCn":"在黑斯廷斯战役后赢得王冠。" },
-    { "personId":"576ee669-b638-4013-91cf-71f637200b83", "startYear":1087, "endYear":1100, "titleForm":"King of England", "note":"Succeeded his father through a dynastic claim.", "noteCn":"凭王朝继承权继承父亲。" },
-    { "personId":"90840bac-1589-4ba4-abfe-9189e6046b36", "startYear":1100, "endYear":1135, "titleForm":"King of England", "note":"Seized the throne after William II's death, before Robert Curthose could return.", "noteCn":"威廉二世死后，在罗贝尔·柯索斯归国前夺取王位。" },
-    { "personId":"8da6a92d-40c5-47c0-8c42-9858db5cf61d", "startYear":1135, "endYear":1154, "titleForm":"King of England", "note":"Seized the crown despite Henry I's designation of Matilda, beginning the Anarchy.", "noteCn":"不顾亨利一世指定玛蒂尔达继承，夺取王位并引发无政府时期。" },
-    { "personId":"29e2abba-321e-4090-a35d-10f0bd6a420a", "startYear":1154, "endYear":1189, "titleForm":"King of England", "note":"Succeeded under the Treaty of Wallingford.", "noteCn":"依《沃灵福德条约》继位。" },
-    { "personId":"b8d3addb-be4b-43ca-9ebc-f70c1864685b", "startYear":1189, "endYear":1199, "titleForm":"King of England", "note":"Succeeded his father Henry II.", "noteCn":"继承父亲亨利二世。" },
-    { "personId":"6e154ae2-a354-40fc-bdc8-104ef378f743", "startYear":1199, "endYear":1216, "titleForm":"King of England", "note":"Succeeded his brother Richard I.", "noteCn":"继承兄长理查一世。" },
-    { "personId":"eaec18d2-b486-457f-9336-ab403f1586ca", "startYear":1216, "endYear":1272, "titleForm":"King of England", "note":"Succeeded his father John as a child.", "noteCn":"幼年继承父亲约翰。" },
-    { "personId":"f58b655d-8403-4f6d-9d5d-ecffaeaa0b0e", "startYear":1272, "endYear":1307, "titleForm":"King of England", "note":"Succeeded his father Henry III.", "noteCn":"继承父亲亨利三世。" },
-    { "personId":"0e72c1bf-c16d-40c5-a62c-a1b84cdfb7a3", "startYear":1307, "endYear":1327, "titleForm":"King of England", "note":"Succeeded his father Edward I.", "noteCn":"继承父亲爱德华一世。" },
-    { "personId":"304dcda5-adf6-4a79-9147-ff8fd69301b5", "startYear":1327, "endYear":1377, "titleForm":"King of England", "note":"Succeeded after his father's deposition.", "noteCn":"父亲被废后继位。" },
-    { "personId":"6e74e130-3247-425c-b2f2-2c97a5955b8f", "startYear":1377, "endYear":1399, "titleForm":"King of England", "note":"Succeeded his grandfather Edward III.", "noteCn":"继承祖父爱德华三世。" },
-    { "personId":"2254ea97-3d35-4264-a60e-3b9e9f78eaab", "startYear":1399, "endYear":1413, "titleForm":"King of England", "note":"Seized the crown from Richard II.", "noteCn":"从理查二世手中夺取王位。" },
-    { "personId":"631cfa58-52bf-4273-b3b5-38ae2abed850", "startYear":1413, "endYear":1422, "titleForm":"King of England", "note":"Succeeded his father Henry IV.", "noteCn":"继承父亲亨利四世。" },
-    { "personId":"0a1a85b3-53e9-45fa-a90f-2b07d78191c4", "startYear":1422, "endYear":1461, "titleForm":"King of England", "note":"Succeeded as an infant.", "noteCn":"幼年继位。" },
-    { "personId":"423d8a6a-a3f5-4502-abc7-5b6943dcfac6", "startYear":1461, "endYear":1470, "titleForm":"King of England", "note":"Yorkist victory brought Edward IV to the throne.", "noteCn":"约克派胜利使爱德华四世登基。" },
-    { "personId":"0a1a85b3-53e9-45fa-a90f-2b07d78191c4", "startYear":1470, "endYear":1471, "titleForm":"King of England", "note":"Restored during the Readeption.", "noteCn":"在复辟时期重登王位。" },
-    { "personId":"423d8a6a-a3f5-4502-abc7-5b6943dcfac6", "startYear":1471, "endYear":1483, "titleForm":"King of England", "note":"Recovered the crown after Barnet and Tewkesbury.", "noteCn":"巴尼特与蒂克斯伯里战役后复位。" },
-    { "personId":"738a5858-9506-4f77-b5ed-7539c01d7bbc", "startYear":1483, "endYear":1483, "titleForm":"King of England", "note":"Proclaimed king but never crowned.", "noteCn":"被宣布为国王，但从未加冕。" },
-    { "personId":"62f8458b-9497-45fd-8ccc-7930f38c7ae8", "startYear":1483, "endYear":1485, "titleForm":"King of England", "note":"Took the crown after Edward V's deposition.", "noteCn":"爱德华五世被废后取得王位。" },
-    { "personId":"7933ae03-5845-4972-927c-b1a3d648edda", "startYear":1485, "endYear":1509, "titleForm":"King of England", "note":"Won the crown at Bosworth Field.", "noteCn":"在博斯沃思原野赢得王位。" },
-    { "personId":"56f44ca5-9a53-45b7-943d-619335ae6179", "startYear":1509, "endYear":1547, "titleForm":"King of England", "note":"Succeeded his father Henry VII.", "noteCn":"继承父亲亨利七世。" },
-    { "personId":"358dd39b-2742-4ae8-8c50-897bd98cf897", "startYear":1547, "endYear":1553, "titleForm":"King of England", "note":"Succeeded his father Henry VIII.", "noteCn":"继承父亲亨利八世。" },
-    { "personId":"0387c1d8-633c-4fa8-9c48-47e4644704da", "startYear":1553, "endYear":1558, "titleForm":"Queen of England", "note":"Succeeded after Edward VI's death.", "noteCn":"爱德华六世去世后继位。" },
-    { "personId":"035085c7-f1bd-483a-a2c9-fc9f348170ac", "startYear":1558, "endYear":1603, "titleForm":"Queen of England", "note":"Succeeded her half-sister Mary I.", "noteCn":"继承同父异母姐玛丽一世。" }
-  ]
+    {
+      "personId": "02155361-a928-4fb6-990e-a3ac713e56c2",
+      "startYear": 924,
+      "endYear": 939,
+      "titleForm": "King of the English",
+      "note": "Succeeded his father, Edward the Elder.",
+      "noteCn": "继承父亲长者爱德华。"
+    },
+    {
+      "personId": "6a820f17-48e1-4927-b3f6-3471625acd47",
+      "startYear": 939,
+      "endYear": 946,
+      "titleForm": "King of the English",
+      "note": "Succeeded his half-brother Æthelstan.",
+      "noteCn": "继承同父异母兄埃塞尔斯坦。"
+    },
+    {
+      "personId": "5e4fb7fc-d6a4-488d-ba0e-c10a3ee41f4f",
+      "startYear": 946,
+      "endYear": 955,
+      "titleForm": "King of the English",
+      "note": "Succeeded his brother Edmund.",
+      "noteCn": "继承兄长埃德蒙。"
+    },
+    {
+      "personId": "40c3aefb-37eb-48eb-8e56-e22733674533",
+      "startYear": 955,
+      "endYear": 959,
+      "titleForm": "King of the English",
+      "note": "Succeeded his uncle Eadred.",
+      "noteCn": "继承叔父伊德雷德。"
+    },
+    {
+      "personId": "eceed220-7a02-42dd-99cb-3420f16e2cf6",
+      "startYear": 959,
+      "endYear": 975,
+      "titleForm": "King of the English",
+      "note": "Succeeded his brother Eadwig.",
+      "noteCn": "继承兄长伊德维格。"
+    },
+    {
+      "personId": "84ce52d6-91bf-47fb-afa1-5f869f20fbf6",
+      "startYear": 975,
+      "endYear": 978,
+      "titleForm": "King of the English",
+      "note": "Succeeded his father Edgar.",
+      "noteCn": "继承父亲埃德加。"
+    },
+    {
+      "personId": "ed0b5627-f0d9-4c85-ac64-26c1c4c3e4b2",
+      "startYear": 978,
+      "endYear": 1013,
+      "titleForm": "King of England",
+      "note": "Succeeded after Edward the Martyr's death.",
+      "noteCn": "殉道者爱德华去世后继位。"
+    },
+    {
+      "personId": "01da1402-5d85-4186-859a-34f8cb06182d",
+      "startYear": 1013,
+      "endYear": 1014,
+      "titleForm": "King of England",
+      "note": "Danish conquest forced Æthelred into exile.",
+      "noteCn": "丹麦征服迫使埃塞尔雷德流亡。"
+    },
+    {
+      "personId": "ed0b5627-f0d9-4c85-ac64-26c1c4c3e4b2",
+      "startYear": 1014,
+      "endYear": 1016,
+      "titleForm": "King of England",
+      "note": "Restored after Sweyn's death.",
+      "noteCn": "斯温去世后复位。"
+    },
+    {
+      "personId": "84d16e93-3a36-46a7-b7b9-b237dc38dfc6",
+      "startYear": 1016,
+      "endYear": 1016,
+      "titleForm": "King of England",
+      "note": "Chosen during Cnut's invasion.",
+      "noteCn": "克努特入侵期间被拥立。"
+    },
+    {
+      "personId": "0fb64530-ea06-47ec-9570-6166155b53ba",
+      "startYear": 1016,
+      "endYear": 1035,
+      "titleForm": "King of England",
+      "note": "Won the crown after Assandun and Edmund's death.",
+      "noteCn": "阿桑顿战役及埃德蒙去世后取得王位。"
+    },
+    {
+      "personId": "d539abe5-c27d-4b1a-a3b3-e16d93ce2344",
+      "startYear": 1035,
+      "endYear": 1040,
+      "titleForm": "King of England",
+      "note": "First regent, then accepted as king.",
+      "noteCn": "先任摄政，后被承认为国王。"
+    },
+    {
+      "personId": "0a5b30a1-051e-41ea-a10a-1c37ce523603",
+      "startYear": 1040,
+      "endYear": 1042,
+      "titleForm": "King of England",
+      "note": "Returned from Denmark after Harold's death.",
+      "noteCn": "哈罗德去世后自丹麦归来即位。"
+    },
+    {
+      "personId": "a9d5b087-d9a5-4970-8f5c-6701fdb0463c",
+      "startYear": 1042,
+      "endYear": 1066,
+      "titleForm": "King of the English",
+      "note": "Chosen after Harthacnut's death, restoring the House of Wessex.",
+      "noteCn": "哈德克努特去世后被拥立，复兴威塞克斯王室。"
+    },
+    {
+      "personId": "131aba03-2d7b-4ae3-8d16-b7ebd660ce6c",
+      "startYear": 1066,
+      "endYear": 1066,
+      "titleForm": "King of the English",
+      "note": "Chosen by the Witan after Edward's death.",
+      "noteCn": "爱德华去世后由贤人会议推举。"
+    },
+    {
+      "personId": "21b5ec21-1812-4731-8b03-721988be302f",
+      "startYear": 1066,
+      "endYear": 1087,
+      "titleForm": "King of England",
+      "note": "Won the crown after the Battle of Hastings.",
+      "noteCn": "在黑斯廷斯战役后赢得王冠。"
+    },
+    {
+      "personId": "576ee669-b638-4013-91cf-71f637200b83",
+      "startYear": 1087,
+      "endYear": 1100,
+      "titleForm": "King of England",
+      "note": "Succeeded his father through a dynastic claim.",
+      "noteCn": "凭王朝继承权继承父亲。"
+    },
+    {
+      "personId": "90840bac-1589-4ba4-abfe-9189e6046b36",
+      "startYear": 1100,
+      "endYear": 1135,
+      "titleForm": "King of England",
+      "note": "Seized the throne after William II's death, before Robert Curthose could return.",
+      "noteCn": "威廉二世死后，在罗贝尔·柯索斯归国前夺取王位。"
+    },
+    {
+      "personId": "8da6a92d-40c5-47c0-8c42-9858db5cf61d",
+      "startYear": 1135,
+      "endYear": 1154,
+      "titleForm": "King of England",
+      "note": "Seized the crown despite Henry I's designation of Matilda, beginning the Anarchy.",
+      "noteCn": "不顾亨利一世指定玛蒂尔达继承，夺取王位并引发无政府时期。"
+    },
+    {
+      "personId": "29e2abba-321e-4090-a35d-10f0bd6a420a",
+      "startYear": 1154,
+      "endYear": 1189,
+      "titleForm": "King of England",
+      "note": "Succeeded under the Treaty of Wallingford.",
+      "noteCn": "依《沃灵福德条约》继位。"
+    },
+    {
+      "personId": "b8d3addb-be4b-43ca-9ebc-f70c1864685b",
+      "startYear": 1189,
+      "endYear": 1199,
+      "titleForm": "King of England",
+      "note": "Succeeded his father Henry II.",
+      "noteCn": "继承父亲亨利二世。"
+    },
+    {
+      "personId": "6e154ae2-a354-40fc-bdc8-104ef378f743",
+      "startYear": 1199,
+      "endYear": 1216,
+      "titleForm": "King of England",
+      "note": "Succeeded his brother Richard I.",
+      "noteCn": "继承兄长理查一世。"
+    },
+    {
+      "personId": "eaec18d2-b486-457f-9336-ab403f1586ca",
+      "startYear": 1216,
+      "endYear": 1272,
+      "titleForm": "King of England",
+      "note": "Succeeded his father John as a child.",
+      "noteCn": "幼年继承父亲约翰。"
+    },
+    {
+      "personId": "f58b655d-8403-4f6d-9d5d-ecffaeaa0b0e",
+      "startYear": 1272,
+      "endYear": 1307,
+      "titleForm": "King of England",
+      "note": "Succeeded his father Henry III.",
+      "noteCn": "继承父亲亨利三世。"
+    },
+    {
+      "personId": "0e72c1bf-c16d-40c5-a62c-a1b84cdfb7a3",
+      "startYear": 1307,
+      "endYear": 1327,
+      "titleForm": "King of England",
+      "note": "Succeeded his father Edward I.",
+      "noteCn": "继承父亲爱德华一世。"
+    },
+    {
+      "personId": "304dcda5-adf6-4a79-9147-ff8fd69301b5",
+      "startYear": 1327,
+      "endYear": 1377,
+      "titleForm": "King of England",
+      "note": "Succeeded after his father's deposition.",
+      "noteCn": "父亲被废后继位。"
+    },
+    {
+      "personId": "6e74e130-3247-425c-b2f2-2c97a5955b8f",
+      "startYear": 1377,
+      "endYear": 1399,
+      "titleForm": "King of England",
+      "note": "Succeeded his grandfather Edward III.",
+      "noteCn": "继承祖父爱德华三世。"
+    },
+    {
+      "personId": "2254ea97-3d35-4264-a60e-3b9e9f78eaab",
+      "startYear": 1399,
+      "endYear": 1413,
+      "titleForm": "King of England",
+      "note": "Seized the crown from Richard II.",
+      "noteCn": "从理查二世手中夺取王位。"
+    },
+    {
+      "personId": "631cfa58-52bf-4273-b3b5-38ae2abed850",
+      "startYear": 1413,
+      "endYear": 1422,
+      "titleForm": "King of England",
+      "note": "Succeeded his father Henry IV.",
+      "noteCn": "继承父亲亨利四世。"
+    },
+    {
+      "personId": "0a1a85b3-53e9-45fa-a90f-2b07d78191c4",
+      "startYear": 1422,
+      "endYear": 1461,
+      "titleForm": "King of England",
+      "note": "Succeeded as an infant.",
+      "noteCn": "幼年继位。"
+    },
+    {
+      "personId": "423d8a6a-a3f5-4502-abc7-5b6943dcfac6",
+      "startYear": 1461,
+      "endYear": 1470,
+      "titleForm": "King of England",
+      "note": "Yorkist victory brought Edward IV to the throne.",
+      "noteCn": "约克派胜利使爱德华四世登基。"
+    },
+    {
+      "personId": "0a1a85b3-53e9-45fa-a90f-2b07d78191c4",
+      "startYear": 1470,
+      "endYear": 1471,
+      "titleForm": "King of England",
+      "note": "Restored during the Readeption.",
+      "noteCn": "在复辟时期重登王位。"
+    },
+    {
+      "personId": "423d8a6a-a3f5-4502-abc7-5b6943dcfac6",
+      "startYear": 1471,
+      "endYear": 1483,
+      "titleForm": "King of England",
+      "note": "Recovered the crown after Barnet and Tewkesbury.",
+      "noteCn": "巴尼特与蒂克斯伯里战役后复位。"
+    },
+    {
+      "personId": "738a5858-9506-4f77-b5ed-7539c01d7bbc",
+      "startYear": 1483,
+      "endYear": 1483,
+      "titleForm": "King of England",
+      "note": "Proclaimed king but never crowned.",
+      "noteCn": "被宣布为国王，但从未加冕。"
+    },
+    {
+      "personId": "62f8458b-9497-45fd-8ccc-7930f38c7ae8",
+      "startYear": 1483,
+      "endYear": 1485,
+      "titleForm": "King of England",
+      "note": "Took the crown after Edward V's deposition.",
+      "noteCn": "爱德华五世被废后取得王位。"
+    },
+    {
+      "personId": "7933ae03-5845-4972-927c-b1a3d648edda",
+      "startYear": 1485,
+      "endYear": 1509,
+      "titleForm": "King of England",
+      "note": "Won the crown at Bosworth Field.",
+      "noteCn": "在博斯沃思原野赢得王位。"
+    },
+    {
+      "personId": "56f44ca5-9a53-45b7-943d-619335ae6179",
+      "startYear": 1509,
+      "endYear": 1547,
+      "titleForm": "King of England",
+      "note": "Succeeded his father Henry VII.",
+      "noteCn": "继承父亲亨利七世。"
+    },
+    {
+      "personId": "358dd39b-2742-4ae8-8c50-897bd98cf897",
+      "startYear": 1547,
+      "endYear": 1553,
+      "titleForm": "King of England",
+      "note": "Succeeded his father Henry VIII.",
+      "noteCn": "继承父亲亨利八世。"
+    },
+    {
+      "personId": "0387c1d8-633c-4fa8-9c48-47e4644704da",
+      "startYear": 1553,
+      "endYear": 1558,
+      "titleForm": "Queen of England",
+      "note": "Succeeded after Edward VI's death.",
+      "noteCn": "爱德华六世去世后继位。"
+    },
+    {
+      "personId": "035085c7-f1bd-483a-a2c9-fc9f348170ac",
+      "startYear": 1558,
+      "endYear": 1603,
+      "titleForm": "Queen of England",
+      "note": "Succeeded her half-sister Mary I.",
+      "noteCn": "继承同父异母姐玛丽一世。"
+    }
+  ],
+  "houseOverrides": {
+    "2254ea97-3d35-4264-a60e-3b9e9f78eaab": {
+      "en": "House of Lancaster",
+      "cn": "兰开斯特王朝"
+    },
+    "631cfa58-52bf-4273-b3b5-38ae2abed850": {
+      "en": "House of Lancaster",
+      "cn": "兰开斯特王朝"
+    },
+    "0a1a85b3-53e9-45fa-a90f-2b07d78191c4": {
+      "en": "House of Lancaster",
+      "cn": "兰开斯特王朝"
+    },
+    "423d8a6a-a3f5-4502-abc7-5b6943dcfac6": {
+      "en": "House of York",
+      "cn": "约克家族"
+    },
+    "738a5858-9506-4f77-b5ed-7539c01d7bbc": {
+      "en": "House of York",
+      "cn": "约克家族"
+    }
+  }
 }

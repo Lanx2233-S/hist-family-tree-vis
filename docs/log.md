@@ -862,6 +862,33 @@ Split by responsibility and keep data, derived presentation, interaction state, 
 - 校验：212/212 UUID 集合与 manifest 一致、全唯一、总序号无跳号、每天 001 起连续、JSON 与 markdown 自定义序号一致、评分与 historicalRating 一致；build/diff 通过。
 - 副作用：`createdOrder` 由全局序号变为当天序号，影响 `sortPeopleByBirth` 同生年平局排序；`manifest.order` 仍为权威顺序。
 
+## 2026-08-19：苏格兰王国头衔链备注收敛
+
+### 已完成
+
+- 审查 `src/data/titles/kingdom-of-scotland.json` 全部 holder 备注。
+- 正常继承统一为一句话；争位、共治、复位和外部支持等特殊情况只保留最多两句上台原因。
+- 删除“后来被杀、被废、刺瞎、逊位、王朝末代、改革成果”等不属于交接原因的后续结果。
+- 中英文备注同步调整。
+
+### 验收
+
+- 未改人物卡、UUID、年份和 title chain 顺序。
+- 苏格兰链备注保持与英格兰、法兰西链相同的简洁表达规则。
+
+## 2026-08-19：Title Page house 信息位置微调
+
+### 已完成
+
+- 将 Title Page holder 卡片的 house/dynasty 信息保持在人物方框右侧。
+- 将窄屏回落断点调整为 480px，避免中小屏幕仍被迫显示在卡片下方。
+- 480px 以下自动纵向排列并居中，防止横向溢出。
+
+### 验收
+
+- `npm run build` 通过（数据构建、TypeScript、Vite）。
+- `git diff --check` 通过。
+
 ## 2026-08-19：Claude Code 项目规则与日志门禁优化
 
 ### 目标
@@ -884,3 +911,70 @@ Split by responsibility and keep data, derived presentation, interaction state, 
 ### 遗留
 
 - 当前工作区仍有此前人物数据、法兰西头衔链和 Philippa 关系修复等未提交改动；本次未替其 commit 或 push。
+
+
+## 2026-08-19：苏格兰王国头衔链（Kenneth I → Alexander III）
+
+- 审计英格兰/法兰西两链无问题（无缺卡、无空档、无 titleForm 错配、无头衔误写血缘）。
+- 新增 30 张苏格兰国王基础卡（House of Alpin 17 人、House of Dunkeld 11 人、House of Moray 2 人：Macbeth/Lulach），全库 212→242；评级 4–7（Kenneth I/Malcolm III/David I = 7）。
+- 新建 `kingdom-of-scotland.json`（31 段，843–1286），处理兄弟继承、幼年继位、篡位（Macbeth）、争位（Giric/Eochaid 共治、Amlaíb/Kenneth II 并立）、王朝转换（Alpin→Dunkeld，Macbeth/Lulach 属 Moray）。
+- TitlePage 三链并列（英格兰/法兰西/苏格兰），DetailPanel 三链判定。
+- 基础卡无 events、无 deathCause（按「只扩展单链数据与基础人物卡」范围）。
+
+## 2026-08-19：苏格兰链核实与 Title Page 搜索接入（非默认入口）
+
+- 核实苏格兰主链 31 段持有者（30 位国王，Donald III 两次在位）全部有卡，`personId` 31/31 可解析、0 缺失；本轮未新增人物。
+- TitlePage 行为调整：`LineageEntry` 增加 `isDefault`，苏格兰 `isDefault: false`；目录默认只显示英格兰/法兰西，苏格兰入口在搜索 `Scotland` / `Kingdom of Scotland` / `苏格兰` / `苏格兰王国` 时出现，搜索为空时隐藏。
+- 点击苏格兰入口仍在 Title Page 内打开单链与详情（复用既有 holder/card/detail 逻辑），不跳 Tree Page；英格兰/法兰西默认入口与搜索行为不变。
+- 验收：`npm run build` 与 `git diff --check` 通过。
+
+## 2026-08-19：people-entry-log.md 合并苏格兰 30 人并修正总数
+
+- 将苏格兰 30 位国王纳入主索引（标准格式「姓名/UUID/自定义序号/总序号/评分」），总序号 213–242、自定义序号 20260819001–20260819030；删除尾部独立的简化表格与重复「校验结果」后的旧节。
+- 修正总数：实际 242 人（212 + 苏格兰 30 位国王）。此前任务口径「31 人/243」系误算——头衔链有 31 段（Donald III 两次在位），且既有的 Matilda of Scotland 同为 Dunkeld 王朝但非国王。
+- 顶部统计：2026-08-15 至 18 每天 53 人、2026-08-19 为 30 人；校验结果与 manifest/JSON 完全一致（人数/UUID/姓名/评分/自定义序号）。
+
+## 2026-08-19：苏格兰链继承空窗 + John Balliol
+
+- `kingdom-of-scotland.json` 的 holders 改为 discriminated union：`kind:"person"`（含 personId）与 `kind:"gap"`（personId:null）。Alexander III 后接 1286–1292 继承空窗段（Succession interregnum / 王位继承空窗），再接 John Balliol 1292–1296（大诉讼选出）。
+- 不录 Margaret, Maid of Norway 独立人物卡（未形成有效统治，简化为空窗）；空窗不建任何血缘关系，不因头衔顺序建父子。
+- 新增 John Balliol 基础卡（House of Balliol，rating 5，events 空、无 deathCause），全库 242→243。
+- TitlePage gap 占位：透明背景 + 2px dashed 棕色边框 + 弱化文字 + 与人物卡同尺寸圆角，不可点击、不打开 DetailPanel；Family Tree 不新增空窗节点。
+- 验收：`data:build` 243、`npm run build`、`git diff --check` 通过；people-entry-log.md 同步至 243。
+
+## 2026-08-19：Title Page holder 卡增加家族（house）行
+
+- 每个可解析人物的 holder 卡右侧新增一行家族信息：优先 `house`，回退 `dynasty`；CN 用 `dynastyCn()` 回退机制。gap 占位段不显示。
+- 新增 10 条 house CN 映射（Godwin/Knýtlinga/Blois/Carolingian/Robertian/Bosonid/Valois/Alpin/Moray/Balliol），补齐三链所有 holder 家族的中文。
+- 布局：桌面端卡片右侧右对齐、垂直居中；≤640px 窄屏换到卡片下方居中，避免横向溢出。
+- 不把 titleForm 当 house、不从姓名猜家族；卡片尺寸/颜色/性别标识/选中光晕/箭头不变；点击与详情逻辑不变；英格兰/法兰西/苏格兰三链统一生效。
+- 验收：三链 105 个 person holder 的 house 全部非空、均有映射；`npm run build` 与 `git diff --check` 通过。
+
+## 2026-08-19：英格兰 holder 卡 house 细分显示
+
+- 英格兰链新增 `houseOverrides` 显示映射（不改人物 dynasty/house，仅展示层）：Henry IV/V/VI → House of Lancaster / 兰开斯特王朝；Edward IV/V → House of York / 约克家族。
+- Richard II 保持 House of Plantagenet（house 字段本就正确）、Richard III 已为 House of York（house 字段）、Henry VII–Elizabeth I 已为 House of Tudor——均无需覆盖。
+- TitlePage 读取顺序：`houseOverrides[personId]` → `house` → `dynasty`（CN 走 dynastyCn 回退）；按 personId 覆盖，Henry VI / Edward IV 的重复段自动一致。gap 不显示。EN/CN 同步、窄屏换行不变。
+- 验收：`npm run build` 与 `git diff --check` 通过。
+
+## 2026-08-19：苏格兰主线改临时文件录入（第二空位期 → Robert the Bruce）
+
+- 新录入策略：苏格兰主线后续君主写入临时文件 `src/data/people/temporary-scotland.json`，暂不归入任何 house.json；`manifest.files` 增至 10，`build-people.mjs` 的 guard 正则改为 `[\w-]+` 以支持连字符文件名。
+- 本批新增：第二空位期 gap（1296–1306）与 **Robert the Bruce**（1306–1329，House of Bruce，rating 8，6 条核心事件），全库 243→244；kingdom-of-scotland 链 33→35 段。
+- Robert the Bruce 基础卡：无 deathCause、关系留空（父 Robert de Brus 与子 David II 属后续批次）；people-entry-log.md 同步（总序号 244、自定义序号 20260819032）。
+- 验收：`data:build` 244（10 文件）、`npm run build`、`git diff --check` 通过。
+
+## 2026-08-19：布鲁斯→斯图亚特主线补全（David II → James IV）
+
+- 新增 7 位君主（全部写入 temporary-scotland.json）：David II（House of Bruce，rating 6）、Robert II（首任 Stewart，rating 6）、Robert III（5）、James I（7）、James II（6）、James III（5）、James IV（7），全库 244→251。
+- 父子双向链：Bruce→David II；Robert II→Robert III→James I→James II→James III→James IV。Robert II 为 Bruce 外孙（母 Marjorie），故其 fatherId 留空、不误接 Bruce。
+- kingdom-of-scotland 链 35→42 段，主链连续至 James IV（1488–1513）。
+- 验收：`data:build` 251、`npm run build`、`git diff --check` 通过；独立审计 0 孤儿/0 单向/0 母链不对称；people-entry-log.md 同步至 251。
+
+## 2026-08-19：苏格兰王后补全（Robert I → James IV 配偶）
+
+- 新增 8 位王后（写入 temporary-scotland.json）：Elizabeth de Burgh、Joan of the Tower、Elizabeth Mure、Annabella Drummond、Joan Beaufort、Mary of Guelders、Margaret of Denmark、Margaret Tudor；全库 251→259。
+- 配偶边双向（王后 spouseIds ↔ 国王 spouseIds），母子边双向（7 位王后为下任君主之母：Elizabeth de Burgh→David II、Elizabeth Mure→Robert III、Annabella→James I、Joan Beaufort→James II、Mary→James III、Margaret of Denmark→James IV；Joan of the Tower 与 Margaret Tudor 无嗣在库）。
+- 跨王朝父链暂缓：Joan of the Tower（Edward II 之女）与 Margaret Tudor（Henry VII 之女）的 fatherId 留空，避免本阶段修改 house.json（sourceNote 已说明）。
+- Elizabeth Mure 早于 Robert II 即位去世，故 primaryTitle 用 Countess of Strathearn 而非 Queen consort。
+- 验收：`data:build` 259、`npm run build`、`git diff --check` 通过；独立审计 0 孤儿/0 单向/0 母链不对称/0 配偶不对称；people-entry-log.md 同步至 259。

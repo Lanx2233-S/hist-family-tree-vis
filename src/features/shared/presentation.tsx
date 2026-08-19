@@ -320,6 +320,16 @@ const dynastyCnMap: Record<string, string> = {
   "House of Dunkeld": "邓凯尔德王朝",
   "House of York": "约克家族",
   "House of Tudor": "都铎王朝",
+  "House of Godwin": "戈德温家族",
+  "House of Knýtlinga": "克尼特林加王朝",
+  "House of Blois": "布卢瓦家族",
+  "Carolingian dynasty": "加洛林王朝",
+  "Robertian dynasty": "罗贝尔王朝",
+  "Bosonid dynasty": "博索尼德王朝",
+  "House of Valois": "瓦卢瓦王朝",
+  "House of Alpin": "阿尔平王朝",
+  "House of Moray": "莫里王朝",
+  "House of Balliol": "巴里奥家族",
 };
 
 export function titleCn(title: string) {
