@@ -889,6 +889,42 @@ Split by responsibility and keep data, derived presentation, interaction state, 
 - `npm run build` 通过（数据构建、TypeScript、Vite）。
 - `git diff --check` 通过。
 
+## 2026-08-19：法兰西头衔链首发人物调整
+
+- 法兰西 Title Page 默认首发人物由 Hugh Capet 改为 Philippe II Augustus。
+- 仅修改 `TitlePage.tsx` 的 lineage `anchorId`，人物数据与头衔链不变。
+- `npm run build` 与 `git diff --check` 已通过。
+
+## 2026-08-20：补充腓特烈二世昵称
+
+- 为 Frederick II 补充人物卡昵称 `Stupor Mundi`，中文为“世界奇迹”。
+- 保留原有 `alsoKnownAs`、事件、关系和头衔数据不变。
+
+## 2026-08-19：空窗段侧边说明框
+
+### 已完成
+
+- 将神圣罗马帝国空窗段的长说明从箭头备注移入虚线占位框右侧的低强调说明框。
+- 箭头只保留“胖子查理被废后进入空位期”的简短原因。
+- 新增 `sideNote/sideNoteCn` 与 `arrowNote/arrowNoteCn`，其他空窗段保持兼容；窄屏自动纵向排列。
+
+### 验收
+
+- `npm run build` 通过。
+- `git diff --check` 通过。
+
+## 2026-08-19：Title Page 箭头中心修复
+
+### 已完成
+
+- 修复 holder 卡片增加右侧 house 后，箭头仍按整行中心定位造成的水平偏移。
+- house 改为绝对定位，不再参与人物卡与箭头的中心计算；窄屏仍恢复普通流式排列。
+
+### 验收
+
+- `npm run build` 通过。
+- `git diff --check` 通过。
+
 ## 2026-08-19：Claude Code 项目规则与日志门禁优化
 
 ### 目标
@@ -978,3 +1014,91 @@ Split by responsibility and keep data, derived presentation, interaction state, 
 - 跨王朝父链暂缓：Joan of the Tower（Edward II 之女）与 Margaret Tudor（Henry VII 之女）的 fatherId 留空，避免本阶段修改 house.json（sourceNote 已说明）。
 - Elizabeth Mure 早于 Robert II 即位去世，故 primaryTitle 用 Countess of Strathearn 而非 Queen consort。
 - 验收：`data:build` 259、`npm run build`、`git diff --check` 通过；独立审计 0 孤儿/0 单向/0 母链不对称/0 配偶不对称；people-entry-log.md 同步至 259。
+
+## 2026-08-19：神圣罗马帝国皇帝链（加洛林 → 空位 → 奥托王朝）
+
+- 新建 `holy-roman-emperor.json`：加洛林皇帝 800–888（Charlemagne→Louis I→Lothair I→Louis II→Charles the Bald→Charles the Fat，全用已有卡）→ gap 888–962「帝位空位」（note 说明意大利军阀皇帝名不副实）→ 奥托王朝 962–1024（Otto I/II/III、Henry II）。
+- 新增 4 位奥托皇帝空人物卡（Ottonian dynasty，events 空、无 deathCause，评级 Otto I=9、其余=7），全库 259→263；父子链 Otto I→Otto II→Otto III，Henry II 为 Otto III 堂兄弟（fatherId 留空）。
+- TitlePage/DetailPanel 接入为搜索入口（isDefault:false），不占默认大入口；gap 用苏格兰同款虚线方框。
+- 验收：`data:build` 263、`npm run build`、`git diff --check` 通过；people-entry-log.md 同步至 263。
+
+## 2026-08-20：神圣罗马帝国皇帝链续萨利安王朝
+
+- 新增 3 位萨利安皇帝空人物卡（Salian dynasty）：Conrad II（7）、Heinrich III（7）、Heinrich IV（8）；Heinrich V 已有卡，补其 fatherId=Heinrich IV。全库 263→266。
+- 父子链：Conrad II→Heinrich III→Heinrich IV→Heinrich V（双向）。
+- holy-roman-emperor 链 11→15 段（Conrad II 1027–1039、Heinrich III 1046–1056、Heinrich IV 1084–1105、Heinrich V 1111–1125）。
+- TitlePage：神圣罗马帝国改为默认入口（isDefault:true），锚点人物卡为 Heinrich IV（海因里希四世）。
+- 验收：`data:build` 266、`npm run build`、`git diff --check` 通过；独立审计 0 孤儿/0 单向/0 母链不对称；people-entry-log.md 同步至 266（自定义序号 20260820001–003）。
+
+## 2026-08-20：奥托皇帝 Henry II 改德语拼写 Heinrich II
+
+- 神圣罗马帝国皇帝 Henry II（末代奥托）改按德语拼写为 Heinrich II（displayName/fullName/中文「海因里希二世」），与萨利安 Heinrich III/IV/V 命名一致；英格兰的 Henry II（金雀花）不受影响。
+- `data:build` 266、`npm run build`、`git diff --check` 通过；people-entry-log.md 同步。
+
+## 2026-08-20：东法兰克王国链（843–962，与 HRE 分开）
+
+- 新建 `king-of-east-francia.json`（9 段）：加洛林 Louis the German→Carloman/Louis the Younger→Charles the Fat→Arnulf→Louis the Child（全用已有卡）→ Conrad I（康拉丁）→ Henry the Fowler → Otto I（末代东法兰克王，962 转皇帝）。
+- 新增 2 张空人物卡：Conrad I（Conradine dynasty，6）、Henry the Fowler（Ottonian dynasty，7，首任奥托）；补 Otto I 的 fatherId=Henry the Fowler。全库 266→268。
+- 设定东法兰克（王位）≠ HRE（帝位），Otto I 兼领两者（936 东法兰克王、962 皇帝），为两条链的枢纽。
+- TitlePage 接入为搜索入口（isDefault:false）。验收：`data:build` 268、`npm run build`、`git diff --check` 通过；0 孤儿/0 单向/0 母链不对称；people-entry-log.md 同步 268（自定义序号 20260820004–005）。
+
+## 2026-08-20：神圣罗马帝国主链续霍亨斯陶芬 + 大空位
+
+- 新增 8 张空人物卡（Lothair III[Supplinburger]；Conrad III/Frederick I Barbarossa/Heinrich VI/Philip of Swabia/Frederick II/Conrad IV[Hohenstaufen]；Otto IV[Welf]），全库 268→276。
+- 未加冕的「罗马人的国王」（Conrad III、Philip、Conrad IV）primaryTitle 用 King of the Romans，titleTier 新增规则 → `supreme-king`（蓝填充），但仍属 HRE 主链；已加冕者仍 emperor。
+- holy-roman-emperor 链 15→24 段：Lothair III(1125–1137)→Conrad III(1138–1152)→Frederick I(1152–1190)→Heinrich VI(1190–1197)→Philip(1198–1208)→Otto IV(1209–1215)→Frederick II(1212–1250)→Conrad IV(1250–1254)→大空位 gap(1254–1273)。
+- 父子链：Frederick I→Heinrich VI/Philip；Heinrich VI→Frederick II；Frederick II→Conrad IV（双向）。
+- 验收：`data:build` 276、`npm run build`、`git diff --check` 通过；0 孤儿/0 单向/0 母链不对称；people-entry-log.md 同步 276（20260820006–013）。
+
+## 2026-08-20：Home 页加 Germany 接口 + 大空位备注
+
+- Home 页（ProtagonistPage）新增第三个 realm 入口「Germany / 德意志」，主角入口 3 张：Heinrich IV（萨利安叙任权之争）、Frederick I Barbarossa（霍亨斯陶芬帝国）、Frederick II（Stupor Mundi）。
+- presentation.tsx 新增 copy 键 germany/germanyLines 与 tone 键 pickToneSalian/pickToneHohenstaufen。
+- holy-roman-emperor.json 的 Great Interregnum（1254–1273）gap 新增 sideNote 备注：「竞争候选者使王位空悬，直至 1273 年哈布斯堡当选」。
+- 验收：`npm run build`、`git diff --check` 通过；3 张德国主角卡均可解析。
+
+## 2026-08-20：修正腓特烈二世昵称字段
+
+- 问题：先前按空 `nickname` 的宽泛匹配误命中阿基坦的埃莉诺，腓特烈二世记录仍为空，因此详情面板没有可显示的绰号。
+- 修复：恢复阿基坦的埃莉诺与佛兰德的玛蒂尔达原有的空昵称字段；在 Frederick II（`ea19e505-86fe-4cb7-8e55-c42e9f0ebfd3`）写入 `Stupor Mundi / 世界奇迹`。
+- 验收：生成的 `people.normandy.json` 已含双语昵称；`npm run build`、`git diff --check` 通过。
+
+## 2026-08-20：海因里希五世头衔术语统一
+
+- 将其 1099–1125 的 `King of Germany / 德意志国王` 改为史实和 HRE 链口径更准确的 `King of the Romans / 罗马人的国王`；1111–1125 的神圣罗马帝国皇帝任期不变。
+
+## 2026-08-20：Claude 成本策略调整
+
+- 更新未跟踪的 `docs/CLAUDE.local.md`：常规探索、机械编辑、数据录入、文档、测试、构建与重复验收默认优先使用 `deepseek-v4-flash`；接受更慢执行，仅在架构、复杂调试、历史判断、集成冲突或最终审查确有必要时使用更强模型。
+
+## 2026-08-20：修正霍亨斯陶芬人物卡头衔年份
+
+- Heinrich VI：`King of the Romans` 改为 1169–1197，`Holy Roman Emperor` 保持 1191–1197。
+- Conrad IV：`King of the Romans` 改为 1237–1254；确认其从未加冕为皇帝，因此不新增皇帝头衔。HRE 主链的实际统治区间 1250–1254 保持不变。
+
+## 2026-08-20：东法兰克国王改德语主拼写
+
+- Henry the Fowler 人物卡主显示改为 `Heinrich I`，中文改为「海因里希一世」；保留 `Henry the Fowler`、`Heinrich der Vogler` 等作为别名，UUID、关系和头衔任期不变。
+
+## 2026-08-20：法国入口新增三位主角
+
+- France 入口新增 Louis IX（第四位，主题「The Perfect Monster / 完美怪物」）、Charles V（第五位）与 Charles VII（第六位）；沿用现有每页四张的分页逻辑。
+
+## 2026-08-20：德国入口新增鲁道夫一世与卡尔四世
+
+- Germany 入口新增 Rudolf I（第四位，第一页）与 Karl IV（第五位，第二页第一位）；沿用现有四卡分页逻辑，未改人物数据与关系。
+- 新增对应的 Habsburg election、Luxembourg imperial revival 双语入口文案。
+
+## 2026-08-20：HRE 链改国王年份连续 + 人物卡双头衔
+
+- 撤回「皇帝从加冕起算」的改法。HRE 主链改为按「罗马人的国王」年份连续衔接（Otto I 936 起连续，有罗马人的国王即可连主链），皇帝加冕年份写入备注。
+- 人物卡同时体现两个头衔不同年份：King of the Romans（国王当选年→加冕年）+ Holy Roman Emperor（加冕年→末年）；未加冕者（Conrad III/Philip/Conrad IV）仅 King of the Romans。
+- 链 titleForm 仍区分：已加冕 Holy Roman Emperor / 未加冕 King of the Romans（后者 supreme-king 蓝填充）。
+- 验收：`data:build` 276、`npm run build`、`git diff --check` 通过。
+
+## 2026-08-20：HRE 链续哈布斯堡/卢森堡（鲁道夫一世 → 卡尔四世）
+
+- 新增 6 张空人物卡：Rudolf I、Albert I（House of Habsburg）、Adolf（House of Nassau）、Heinrich VII、Karl IV（House of Luxembourg）、Ludwig IV（House of Wittelsbach），全库 276→282。
+- 链 24→30 段：Rudolf I(1273–1291)→Adolf(1292–1298)→Albert I(1298–1308)→Heinrich VII(1308–1313)→Ludwig IV(1314–1347)→Karl IV(1346–1378)；未加冕者（Rudolf I/Adolf/Albert I）King of the Romans。
+- 大空位 gap 备注更新，提名对立国王与时间段：康沃尔的理查（1257–1272）与卡斯蒂利亚的阿方索十世（1257–1275），不单列 holder。
+- 父子链 Rudolf I→Albert I 双向。验收：`data:build` 282、`npm run build`、`git diff --check` 通过；0 孤儿/0 单向/0 母链不对称；people-entry-log.md 同步 282。

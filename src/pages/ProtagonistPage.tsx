@@ -8,7 +8,7 @@ export function ProtagonistPage({ onEnter, onTree, onTitles }: { onEnter: (id: s
   const people = useFamilyStore((state) => state.people);
   const setLanguage = useFamilyStore((state) => state.setLanguage);
   const language = useFamilyStore((state) => state.language);
-  const [realm, setRealm] = useState<"england" | "france" | null>(null);
+  const [realm, setRealm] = useState<"england" | "france" | "germany" | null>(null);
   const [page, setPage] = useState(0);
   const t = copyFor(language);
   const picks = [
@@ -23,8 +23,18 @@ export function ProtagonistPage({ onEnter, onTree, onTitles }: { onEnter: (id: s
     { id: "02b8c87d-6e49-4027-a6fa-a92431160a38", phase: "I", hook: "The Carolingian Empire", hookCn: "加洛林帝国", toneKey: "pickToneCharlemagne" as const },
     { id: "d2dd406e-702b-425c-b3dc-2dcac8e8163d", phase: "II", hook: "Capetian Consolidation", hookCn: "卡佩王朝巩固", toneKey: "pickToneFrenchLouis" as const },
     { id: "7cc009b6-08d8-459b-b40e-2921bf3e4580", phase: "III", hook: "The Augustan Crown", hookCn: "奥古斯都王冠", toneKey: "pickToneFrenchPhilip" as const },
+    { id: "91f35e74-2dd3-4393-9858-0fc6b5acc537", phase: "IV", hook: "The Perfect Monster", hookCn: "完美怪物", toneKey: "pickToneFrenchLouis" as const },
+    { id: "04c2ad7c-d296-4338-af7c-05fd1d730cfe", phase: "V", hook: "The Wise Crown", hookCn: "智者王冠", toneKey: "pickToneFrenchPhilip" as const },
+    { id: "4482439c-eae6-4ec6-885a-ac48721ec552", phase: "VI", hook: "The Victorious King", hookCn: "胜利之王", toneKey: "pickToneFrenchPhilip" as const },
   ];
-  const activePicks = realm === "france" ? francePicks : picks;
+  const germanyPicks = [
+    { id: "3dd7dc1c-7473-495d-aac7-0c145d147ed9", phase: "I", hook: "Salian Investiture", hookCn: "萨利安叙任权之争", toneKey: "pickToneSalian" as const },
+    { id: "727f5266-97af-45ee-8a21-c986aaf039dd", phase: "II", hook: "Hohenstaufen Empire", hookCn: "霍亨斯陶芬帝国", toneKey: "pickToneHohenstaufen" as const },
+    { id: "ea19e505-86fe-4cb7-8e55-c42e9f0ebfd3", phase: "III", hook: "Stupor Mundi", hookCn: "世界的惊奇", toneKey: "pickToneHohenstaufen" as const },
+    { id: "268c6586-a041-4aa7-9d66-92a7af3c4ac6", phase: "IV", hook: "Habsburg election", hookCn: "哈布斯堡当选", toneKey: "pickToneHabsburg" as const },
+    { id: "80b3801a-ffca-4136-ba92-293b6b976e85", phase: "V", hook: "Luxembourg imperial revival", hookCn: "卢森堡王朝复兴", toneKey: "pickToneLuxembourg" as const },
+  ];
+  const activePicks = realm === "france" ? francePicks : realm === "germany" ? germanyPicks : picks;
   const visiblePicks = activePicks.slice(page * 4, page * 4 + 4);
   const pageCount = Math.ceil(activePicks.length / 4);
 
@@ -56,11 +66,16 @@ export function ProtagonistPage({ onEnter, onTree, onTitles }: { onEnter: (id: s
               <strong>{t.france}</strong>
               <span>{t.frenchLines}</span>
             </button>
+            <button type="button" aria-expanded={realm === "germany"} className={`realm-entry ${realm === "germany" ? "active" : ""}`} onClick={() => { setRealm(realm === "germany" ? null : "germany"); setPage(0); }}>
+              <span className="realm-entry-kicker">{t.realm} III</span>
+              <strong>{t.germany}</strong>
+              <span>{t.germanyLines}</span>
+            </button>
           </div>
         </div>
         {realm && <div className="protagonist-selection">
           {<>
-            <div className="realm-heading"><span>{realm === "france" ? t.france : t.england}</span><small>{page + 1} / {pageCount}</small></div>
+            <div className="realm-heading"><span>{realm === "france" ? t.france : realm === "germany" ? t.germany : t.england}</span><small>{page + 1} / {pageCount}</small></div>
             <div className="protagonist-grid">
           {visiblePicks.map((pick) => {
             const person = people.find((item) => item.id === pick.id);

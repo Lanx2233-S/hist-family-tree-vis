@@ -1,0 +1,308 @@
+{
+  "id": "a8a9b64a-3dce-4301-948f-bae1e0bf6e75",
+  "canonicalName": "Holy Roman Emperor",
+  "canonicalNameCn": "神圣罗马帝国皇帝",
+  "form": "evolving",
+  "aliases": [
+    "Emperor of the Romans",
+    "Emperor"
+  ],
+  "nameForms": [
+    {
+      "name": "Emperor of the Romans",
+      "nameCn": "罗马人的皇帝",
+      "fromYear": "",
+      "untilYear": 962,
+      "note": "Early imperial style of the Carolingians.",
+      "noteCn": "加洛林早期的皇帝称谓。"
+    },
+    {
+      "name": "Holy Roman Emperor",
+      "nameCn": "神圣罗马帝国皇帝",
+      "fromYear": 962,
+      "untilYear": "",
+      "note": "Style fixed from the Ottonian revival onward.",
+      "noteCn": "自奥托王朝复兴后固定的称谓。"
+    }
+  ],
+  "holders": [
+    {
+      "kind": "person",
+      "personId": "02b8c87d-6e49-4027-a6fa-a92431160a38",
+      "startYear": 800,
+      "endYear": 814,
+      "titleForm": "Holy Roman Emperor",
+      "note": "Crowned Emperor by Pope Leo III.",
+      "noteCn": "由教宗利奥三世加冕。"
+    },
+    {
+      "kind": "person",
+      "personId": "648b3003-e95f-4d08-b36d-cb115b14c7c9",
+      "startYear": 814,
+      "endYear": 840,
+      "titleForm": "Holy Roman Emperor",
+      "note": "Succeeded his father Charlemagne.",
+      "noteCn": "继承其父查理曼。"
+    },
+    {
+      "kind": "person",
+      "personId": "335ba716-59f9-40d7-9674-d1e8b5435bcb",
+      "startYear": 817,
+      "endYear": 855,
+      "titleForm": "Holy Roman Emperor",
+      "note": "Co-emperor under the Ordinatio Imperii.",
+      "noteCn": "依〈帝国条例〉为共治皇帝。"
+    },
+    {
+      "kind": "person",
+      "personId": "1b6cd964-c6f0-4d45-b075-356559632fc3",
+      "startYear": 850,
+      "endYear": 875,
+      "titleForm": "Holy Roman Emperor",
+      "note": "Succeeded his father Lothair I.",
+      "noteCn": "继承其父洛泰尔一世。"
+    },
+    {
+      "kind": "person",
+      "personId": "da77a416-665f-4fe8-bf64-bc42e258e27f",
+      "startYear": 875,
+      "endYear": 877,
+      "titleForm": "Holy Roman Emperor",
+      "note": "Crowned by Pope John VIII.",
+      "noteCn": "由教宗若望八世加冕。"
+    },
+    {
+      "kind": "person",
+      "personId": "fc980fe9-6d96-4750-9b7f-cbc58b65bfd8",
+      "startYear": 881,
+      "endYear": 888,
+      "titleForm": "Holy Roman Emperor",
+      "note": "Last Carolingian to hold the reunited empire.",
+      "noteCn": "最后一位短暂统一帝国的加洛林皇帝。"
+    },
+    {
+      "kind": "gap",
+      "personId": null,
+      "startYear": 888,
+      "endYear": 962,
+      "titleForm": "Interregnum",
+      "titleFormCn": "帝位空位",
+      "note": "After Charles the Fat's deposition, the empire fragmented and the imperial title entered an interregnum.",
+      "noteCn": "胖子查理被废后帝国分裂，帝位进入空位期。",
+      "sideNote": "Italian claimants briefly held the imperial title, but their authority was largely limited to northern Italy before the title fell vacant after 924.",
+      "sideNoteCn": "意大利的几位争位者一度持有帝号，但实际权力主要局限于北意大利；924 年后帝号正式空缺。",
+      "arrowNote": "Charles the Fat's deposition opened the interregnum.",
+      "arrowNoteCn": "胖子查理被废，帝位进入空位期。"
+    },
+    {
+      "kind": "person",
+      "personId": "71af1f0a-5840-4a9c-817f-12fef6beadf8",
+      "startYear": 936,
+      "endYear": 973,
+      "titleForm": "Holy Roman Emperor",
+      "note": "King of the Romans from 936, crowned Emperor 962.",
+      "noteCn": "936 年为罗马人的国王，962 年加冕皇帝。"
+    },
+    {
+      "kind": "person",
+      "personId": "1f2ffcc9-06a9-4bea-8be0-96255c8b3d20",
+      "startYear": 973,
+      "endYear": 983,
+      "titleForm": "Holy Roman Emperor",
+      "note": "King of the Romans from 973, crowned Emperor 973.",
+      "noteCn": "973 年为罗马人的国王，973 年加冕皇帝。"
+    },
+    {
+      "kind": "person",
+      "personId": "a9229a63-1732-42dc-b814-9b3a3fbe0cf8",
+      "startYear": 983,
+      "endYear": 1002,
+      "titleForm": "Holy Roman Emperor",
+      "note": "King of the Romans from 983, crowned Emperor 996.",
+      "noteCn": "983 年为罗马人的国王，996 年加冕皇帝。"
+    },
+    {
+      "kind": "person",
+      "personId": "e767d216-846b-41d1-8f38-8b2a300dc290",
+      "startYear": 1002,
+      "endYear": 1024,
+      "titleForm": "Holy Roman Emperor",
+      "note": "King of the Romans from 1002, crowned Emperor 1014.",
+      "noteCn": "1002 年为罗马人的国王，1014 年加冕皇帝。"
+    },
+    {
+      "kind": "person",
+      "personId": "f1675c1f-68d7-43cb-b465-842711cbc175",
+      "startYear": 1024,
+      "endYear": 1039,
+      "titleForm": "Holy Roman Emperor",
+      "note": "King of the Romans from 1024, crowned Emperor 1027.",
+      "noteCn": "1024 年为罗马人的国王，1027 年加冕皇帝。"
+    },
+    {
+      "kind": "person",
+      "personId": "3067525b-9ffb-43a7-bb87-0a582c20a7fa",
+      "startYear": 1039,
+      "endYear": 1056,
+      "titleForm": "Holy Roman Emperor",
+      "note": "King of the Romans from 1039, crowned Emperor 1046.",
+      "noteCn": "1039 年为罗马人的国王，1046 年加冕皇帝。"
+    },
+    {
+      "kind": "person",
+      "personId": "3dd7dc1c-7473-495d-aac7-0c145d147ed9",
+      "startYear": 1056,
+      "endYear": 1105,
+      "titleForm": "Holy Roman Emperor",
+      "note": "King of the Romans from 1056, crowned Emperor 1084.",
+      "noteCn": "1056 年为罗马人的国王，1084 年加冕皇帝。"
+    },
+    {
+      "kind": "person",
+      "personId": "9fd77e98-145c-4153-b806-768ff1d76ba6",
+      "startYear": 1106,
+      "endYear": 1125,
+      "titleForm": "Holy Roman Emperor",
+      "note": "King of the Romans from 1106, crowned Emperor 1111.",
+      "noteCn": "1106 年为罗马人的国王，1111 年加冕皇帝。"
+    },
+    {
+      "kind": "person",
+      "personId": "d177d56f-bfee-4ad1-8aa4-bd1b09df2a8a",
+      "startYear": 1125,
+      "endYear": 1137,
+      "titleForm": "Holy Roman Emperor",
+      "note": "King of the Romans from 1125, crowned Emperor 1133.",
+      "noteCn": "1125 年为罗马人的国王，1133 年加冕皇帝。"
+    },
+    {
+      "kind": "person",
+      "personId": "b9252f8f-d6cd-48eb-8a6a-8072d819d78e",
+      "startYear": 1138,
+      "endYear": 1152,
+      "titleForm": "King of the Romans",
+      "note": "King of the Romans; never crowned Emperor.",
+      "noteCn": "罗马人的国王，从未加冕皇帝。"
+    },
+    {
+      "kind": "person",
+      "personId": "727f5266-97af-45ee-8a21-c986aaf039dd",
+      "startYear": 1152,
+      "endYear": 1190,
+      "titleForm": "Holy Roman Emperor",
+      "note": "King of the Romans from 1152, crowned Emperor 1155.",
+      "noteCn": "1152 年为罗马人的国王，1155 年加冕皇帝。"
+    },
+    {
+      "kind": "person",
+      "personId": "0ab7ebf5-061d-4668-8554-ba7b6fbd01f7",
+      "startYear": 1190,
+      "endYear": 1197,
+      "titleForm": "Holy Roman Emperor",
+      "note": "King of the Romans from 1190, crowned Emperor 1191.",
+      "noteCn": "1190 年为罗马人的国王，1191 年加冕皇帝。"
+    },
+    {
+      "kind": "person",
+      "personId": "186da770-6a93-4236-b48f-6fd705cdbcf4",
+      "startYear": 1198,
+      "endYear": 1208,
+      "titleForm": "King of the Romans",
+      "note": "King of the Romans; never crowned Emperor.",
+      "noteCn": "罗马人的国王，从未加冕皇帝。"
+    },
+    {
+      "kind": "person",
+      "personId": "0b708330-7b13-45ad-88a9-22e8e6e79fe8",
+      "startYear": 1198,
+      "endYear": 1215,
+      "titleForm": "Holy Roman Emperor",
+      "note": "King of the Romans from 1198, crowned Emperor 1209.",
+      "noteCn": "1198 年为罗马人的国王，1209 年加冕皇帝。"
+    },
+    {
+      "kind": "person",
+      "personId": "ea19e505-86fe-4cb7-8e55-c42e9f0ebfd3",
+      "startYear": 1212,
+      "endYear": 1250,
+      "titleForm": "Holy Roman Emperor",
+      "note": "King of the Romans from 1212, crowned Emperor 1220.",
+      "noteCn": "1212 年为罗马人的国王，1220 年加冕皇帝。"
+    },
+    {
+      "kind": "person",
+      "personId": "4c68ef70-d950-4e5d-8106-80c28800a522",
+      "startYear": 1250,
+      "endYear": 1254,
+      "titleForm": "King of the Romans",
+      "note": "King of the Romans; never crowned Emperor.",
+      "noteCn": "罗马人的国王，从未加冕皇帝。"
+    },
+    {
+      "kind": "gap",
+      "personId": null,
+      "startYear": 1254,
+      "endYear": 1273,
+      "titleForm": "Great Interregnum",
+      "titleFormCn": "大空位时代",
+      "note": "After Conrad IV's death, rival claimants — Richard of Cornwall (1257–1272) and Alfonso X of Castile (1257–1275) — held the title without effective rule until Rudolf I.",
+      "noteCn": "康拉德四世去世后，对立国王康沃尔的理查（1257–1272）与卡斯蒂利亚的阿方索十世（1257–1275）空有头衔而无实治，直至鲁道夫一世。",
+      "sideNote": "Rival claimants left the crown vacant until the Habsburg election of 1273.",
+      "sideNoteCn": "竞争候选者使王位空悬，直至 1273 年哈布斯堡当选。"
+    },
+    {
+      "kind": "person",
+      "personId": "268c6586-a041-4aa7-9d66-92a7af3c4ac6",
+      "startYear": 1273,
+      "endYear": 1291,
+      "titleForm": "King of the Romans",
+      "note": "First Habsburg king; never crowned Emperor.",
+      "noteCn": "首任哈布斯堡国王，从未加冕皇帝。"
+    },
+    {
+      "kind": "person",
+      "personId": "0f0e4af2-bb30-4f4b-9487-f3cd1770da56",
+      "startYear": 1292,
+      "endYear": 1298,
+      "titleForm": "King of the Romans",
+      "note": "King of the Romans; deposed and never crowned.",
+      "noteCn": "罗马人的国王，被废黜且从未加冕。"
+    },
+    {
+      "kind": "person",
+      "personId": "6ca48b05-8d0d-4206-8812-31e49f7b5d35",
+      "startYear": 1298,
+      "endYear": 1308,
+      "titleForm": "King of the Romans",
+      "note": "Son of Rudolf I; never crowned Emperor.",
+      "noteCn": "鲁道夫一世之子，从未加冕皇帝。"
+    },
+    {
+      "kind": "person",
+      "personId": "ec618819-cd33-44bb-b8f8-fb50e97cbdb9",
+      "startYear": 1308,
+      "endYear": 1313,
+      "titleForm": "Holy Roman Emperor",
+      "note": "King of the Romans 1308, crowned Emperor 1312.",
+      "noteCn": "1308 年为罗马人的国王，1312 年加冕皇帝。"
+    },
+    {
+      "kind": "person",
+      "personId": "02a7f7ff-44ee-4cf7-b770-fe1ea9a59893",
+      "startYear": 1314,
+      "endYear": 1347,
+      "titleForm": "Holy Roman Emperor",
+      "note": "King of the Romans 1314, crowned Emperor 1328.",
+      "noteCn": "1314 年为罗马人的国王，1328 年加冕皇帝。"
+    },
+    {
+      "kind": "person",
+      "personId": "80b3801a-ffca-4136-ba92-293b6b976e85",
+      "startYear": 1346,
+      "endYear": 1378,
+      "titleForm": "Holy Roman Emperor",
+      "note": "King of the Romans 1346, crowned Emperor 1355.",
+      "noteCn": "1346 年为罗马人的国王，1355 年加冕皇帝。"
+    }
+  ]
+}

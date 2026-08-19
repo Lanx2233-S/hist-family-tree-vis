@@ -117,8 +117,10 @@ export const copy = {
   realm: { en: "Realm", cn: "王国" },
   england: { en: "England", cn: "英格兰" },
   france: { en: "France", cn: "法兰西" },
+  germany: { en: "Germany", cn: "德意志" },
   englandLines: { en: "Norman, Plantagenet, Yorkist, and Tudor lines", cn: "诺曼、金雀花、约克与都铎世系" },
   frenchLines: { en: "Capetian, Valois, and Bourbon lines", cn: "卡佩、瓦卢瓦与波旁世系" },
+  germanyLines: { en: "Salian, Hohenstaufen, and Welf lines", cn: "萨利安、霍亨斯陶芬与韦尔夫世系" },
   collectionOpeningSoon: { en: "Collection opening soon", cn: "即将开放" },
   featuredFigures: { en: "Featured figures", cn: "精选人物" },
   previousEnglandProtagonists: { en: "Previous England protagonists", cn: "上一组英格兰主角" },
@@ -138,6 +140,10 @@ export const copy = {
   pickToneFrenchLouis: { en: "The Capetian crown takes root around Paris and the royal domain begins to consolidate.", cn: "卡佩王冠在巴黎周边扎根，王室领地开始逐步巩固。" },
   pickToneFrenchPhilip: { en: "Philip Augustus turns the Capetian monarchy into a dominant French power.", cn: "腓力·奥古斯都将卡佩王权塑造成法兰西的主导力量。" },
   pickToneCharlemagne: { en: "The Frankish kingdom becomes a Carolingian empire spanning western Europe.", cn: "法兰克王国扩展为横跨西欧的加洛林帝国。" },
+  pickToneSalian: { en: "The Salian emperors and the Investiture Controversy.", cn: "萨利安皇帝与叙任权之争。" },
+  pickToneHohenstaufen: { en: "The Hohenstaufen emperors at the height of imperial power.", cn: "霍亨斯陶芬皇帝与帝国权力的巅峰。" },
+  pickToneHabsburg: { en: "The Habsburgs secure the German crown after the Great Interregnum.", cn: "大空位时代后，哈布斯堡家族取得德意志王冠。" },
+  pickToneLuxembourg: { en: "The Luxembourg dynasty reshapes the empire from Prague.", cn: "卢森堡王朝以布拉格为中心重塑帝国。" },
   // Person form
   databaseEntry: { en: "DATABASE ENTRY", cn: "数据库条目" },
   addPersonTitle: { en: "Add person", cn: "添加人物" },
@@ -411,6 +417,7 @@ export function titleTier(person: Person) {
   if (combined.includes("emperor")) return "emperor";
   if (person.tags.includes("consort") && combined.includes("queen")) return "queen-consort";
   if (combined.includes("king of france")) return "supreme-king";
+  if (combined.includes("king of the romans")) return "supreme-king";
   if (combined.includes("queen of france")) return "france-queen";
   if (combined.includes("grand duke") || combined.includes("grand duchess")) return "king";
   if (combined.includes("king") || combined.includes("queen")) return "king";

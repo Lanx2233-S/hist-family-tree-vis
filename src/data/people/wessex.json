@@ -667,7 +667,7 @@
       }
     ],
     "importanceScore": 88,
-    "historicalRating": 9,
+    "historicalRating": 8,
     "createdDate": "20260816",
     "createdOrder": 1,
     "displayNameCn": "埃塞尔斯坦",
@@ -1362,7 +1362,7 @@
     "fullNameCn": "英格兰人的国王埃德蒙一世",
     "nicknameCn": "威严者",
     "primaryTitleCn": "英格兰人的国王",
-    "historicalRating": 8
+    "historicalRating": 7
   },
   {
     "id": "eceed220-7a02-42dd-99cb-3420f16e2cf6",
@@ -1947,7 +1947,7 @@
     "fullNameCn": "铁骨埃德蒙二世",
     "nicknameCn": "铁骨",
     "primaryTitleCn": "英格兰国王",
-    "historicalRating": 8
+    "historicalRating": 7
   },
   {
     "id": "f030fca1-dfca-4a37-ba90-5222605ea831",
@@ -2105,7 +2105,7 @@
     "fullNameCn": "流亡者爱德华",
     "nicknameCn": "流亡者",
     "primaryTitleCn": "英格兰王子",
-    "historicalRating": 8
+    "historicalRating": 7
   },
   {
     "id": "73169d74-c7ee-4e7d-9711-74b9272ab00c",
@@ -2496,7 +2496,7 @@
       }
     ],
     "importanceScore": 82,
-    "historicalRating": 8,
+    "historicalRating": 7,
     "createdDate": "20260816",
     "createdOrder": 46,
     "displayNameCn": "埃塞尔伍尔夫",
@@ -2687,7 +2687,7 @@
       }
     ],
     "importanceScore": 80,
-    "historicalRating": 8,
+    "historicalRating": 7,
     "createdDate": "20260816",
     "createdOrder": 47,
     "displayNameCn": "埃格伯特",
@@ -3771,7 +3771,7 @@
     ],
     "rank": "king",
     "importanceScore": 95,
-    "historicalRating": 10,
+    "historicalRating": 9,
     "relationships": {
       "fatherId": "ed0b5627-f0d9-4c85-ac64-26c1c4c3e4b2",
       "motherId": "11999429-e764-4ed2-9c8c-cf95cfbbdecc",

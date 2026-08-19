@@ -6,10 +6,12 @@ import { PageTabs } from "../components/PageTabs";
 import kingOfEnglandData from "../data/titles/king-of-england.json";
 import kingOfFranceData from "../data/titles/king-of-france.json";
 import kingOfScotlandData from "../data/titles/kingdom-of-scotland.json";
+import holyRomanEmperorData from "../data/titles/holy-roman-emperor.json";
+import kingOfEastFranciaData from "../data/titles/king-of-east-francia.json";
 
 type TitleHolder =
   | { kind?: "person"; personId: string; startYear: number | ""; endYear: number | ""; titleForm: string; note: string; noteCn: string; }
-  | { kind: "gap"; personId: null; startYear: number | ""; endYear: number | ""; titleForm: string; titleFormCn: string; note: string; noteCn: string; };
+  | { kind: "gap"; personId: null; startYear: number | ""; endYear: number | ""; titleForm: string; titleFormCn: string; note: string; noteCn: string; arrowNote?: string; arrowNoteCn?: string; sideNote?: string; sideNoteCn?: string; };
 
 type TitleLineage = {
   id: string;
@@ -25,6 +27,8 @@ type TitleLineage = {
 const kingOfEngland = kingOfEnglandData as unknown as TitleLineage;
 const kingOfFrance = kingOfFranceData as unknown as TitleLineage;
 const kingOfScotland = kingOfScotlandData as unknown as TitleLineage;
+const holyRomanEmperor = holyRomanEmperorData as unknown as TitleLineage;
+const kingOfEastFrancia = kingOfEastFranciaData as unknown as TitleLineage;
 
 type LineageEntry = {
   lineage: TitleLineage;
@@ -36,8 +40,10 @@ type LineageEntry = {
 
 const LINEAGES: LineageEntry[] = [
   { lineage: kingOfEngland, name: "Kingdom of England", nameCn: "英格兰王国", anchorId: "21b5ec21-1812-4731-8b03-721988be302f", isDefault: true },
-  { lineage: kingOfFrance, name: "Kingdom of France", nameCn: "法兰西王国", anchorId: "6f92645c-bd9a-414d-9402-749dce748343", isDefault: true },
+  { lineage: kingOfFrance, name: "Kingdom of France", nameCn: "法兰西王国", anchorId: "7cc009b6-08d8-459b-b40e-2921bf3e4580", isDefault: true },
   { lineage: kingOfScotland, name: "Kingdom of Scotland", nameCn: "苏格兰王国", anchorId: "086c99e5-0a45-493c-aee1-4dc08057197f", isDefault: false },
+  { lineage: holyRomanEmperor, name: "Holy Roman Empire", nameCn: "神圣罗马帝国", anchorId: "3dd7dc1c-7473-495d-aac7-0c145d147ed9", isDefault: true },
+  { lineage: kingOfEastFrancia, name: "East Francia", nameCn: "东法兰克", anchorId: "140ea34c-2546-4e55-bed6-fa8b7fbd9848", isDefault: false },
 ];
 
 export function TitlePage({
@@ -151,17 +157,22 @@ export function TitlePage({
               <ol className="title-holder-chain">
             {activeEntry.lineage.holders.map((holder, index) => {
               if (holder.kind === "gap") {
+                const gapNote = isCn ? holder.sideNoteCn : holder.sideNote;
+                const arrowNote = isCn ? holder.arrowNoteCn : holder.arrowNote;
                 return (
                 <li key={`gap-${holder.startYear}`} className="title-holder">
                     {index > 0 && (
-                      <span className="title-holder-arrow" aria-label={holderNote(holder)}>
+                      <span className="title-holder-arrow" aria-label={arrowNote || holderNote(holder)}>
                         <span className="title-arrow-line" aria-hidden="true" />
-                        <span className="title-arrow-note">{holderNote(holder)}</span>
+                        {arrowNote ? <span className="title-arrow-note">{arrowNote}</span> : null}
                       </span>
                     )}
-                    <div className="title-gap-node">
-                      <span className="title-node-title">{isCn ? holder.titleFormCn : holder.titleForm}</span>
-                      <span className="title-node-years">{holder.startYear || "?"}–{holder.endYear || "?"}</span>
+                    <div className="title-gap-row">
+                      <div className="title-gap-node">
+                        <span className="title-node-title">{isCn ? holder.titleFormCn : holder.titleForm}</span>
+                        <span className="title-node-years">{holder.startYear || "?"}–{holder.endYear || "?"}</span>
+                      </div>
+                      {gapNote ? <span className="title-gap-note">{gapNote}</span> : null}
                     </div>
                   </li>
                 );

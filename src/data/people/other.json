@@ -277,10 +277,10 @@
     "primaryTitleCn": "神圣罗马帝国皇帝",
     "titles": [
       {
-        "title": "King of Germany",
+        "title": "King of the Romans",
         "startYear": 1099,
         "endYear": 1125,
-        "titleCn": "德意志国王"
+        "titleCn": "罗马人的国王"
       },
       {
         "title": "Holy Roman Emperor",
@@ -297,7 +297,7 @@
     "rank": "emperor",
     "importanceScore": 78,
     "relationships": {
-      "fatherId": "",
+      "fatherId": "3dd7dc1c-7473-495d-aac7-0c145d147ed9",
       "motherId": "",
       "spouseIds": [
         "f194f118-96af-4ad4-af2b-f8449720cff1"
@@ -432,7 +432,7 @@
     "displayNameCn": "海因里希五世",
     "fullNameCn": "神圣罗马帝国皇帝海因里希五世",
     "nicknameCn": "骄傲者",
-    "historicalRating": 8
+    "historicalRating": 7
   },
   {
     "lastName": "Aquitaine",
@@ -3493,7 +3493,7 @@
     "displayNameCn": "大于格",
     "fullNameCn": "法兰克公爵大于格",
     "nicknameCn": "大者",
-    "historicalRating": 8
+    "historicalRating": 7
   },
   {
     "id": "bda45606-c290-4f2a-8425-3c974a91ee60",
@@ -6841,7 +6841,7 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/Harald_Bluetooth",
     "sourceNote": "Father Gorm the Old is not yet in the roster. Birth year is uncertain (traditionally c. 958).",
     "notes": "King of Denmark and Norway who unified the Danes and converted them to Christianity, commemorated at the Jelling stones. Father of Sweyn Forkbeard.",
-    "historicalRating": 8,
+    "historicalRating": 7,
     "createdDate": "20260818",
     "createdOrder": 36,
     "deathCause": {
@@ -9544,5 +9544,1454 @@
     "notes": "",
     "createdDate": "20260819",
     "createdOrder": 31
+  },
+  {
+    "id": "71af1f0a-5840-4a9c-817f-12fef6beadf8",
+    "firstName": "Otto",
+    "lastName": "",
+    "displayName": "Otto I",
+    "fullName": "Otto the Great",
+    "nickname": "the Great",
+    "alsoKnownAs": [
+      "Otto I",
+      "Otto the Great"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "奥托一世",
+    "fullNameCn": "奥托大帝",
+    "nicknameCn": "大帝",
+    "birthYear": 912,
+    "deathYear": 973,
+    "birthPlace": "",
+    "deathPlace": "Memleben, Germany",
+    "deathPlaceCn": "德意志梅姆莱本",
+    "gender": "male",
+    "dynasty": "Ottonian dynasty",
+    "house": "Ottonian dynasty",
+    "culture": "German",
+    "faith": "Catholic",
+    "primaryTitle": "Holy Roman Emperor",
+    "primaryTitleCn": "神圣罗马帝国皇帝",
+    "titles": [
+      {
+        "title": "King of the Romans",
+        "startYear": 936,
+        "endYear": 962,
+        "titleCn": "罗马人的国王"
+      },
+      {
+        "title": "Holy Roman Emperor",
+        "startYear": 962,
+        "endYear": 973,
+        "titleCn": "神圣罗马帝国皇帝"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "emperor",
+      "king"
+    ],
+    "rank": "emperor",
+    "importanceScore": 88,
+    "historicalRating": 9,
+    "relationships": {
+      "fatherId": "30214525-d401-49d6-bdb6-2eb0788c1bf1",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "1f2ffcc9-06a9-4bea-8be0-96255c8b3d20"
+      ]
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Otto_the_Great",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Otto_the_Great",
+    "sourceNote": "Son of Henry the Fowler; re-established the Holy Roman Empire in 962.",
+    "notes": "King of Germany from 936 and Holy Roman Emperor from 962; re-established the empire and defeated the Magyars at Lechfeld.",
+    "createdDate": "20260819",
+    "createdOrder": 48
+  },
+  {
+    "id": "1f2ffcc9-06a9-4bea-8be0-96255c8b3d20",
+    "firstName": "Otto",
+    "lastName": "",
+    "displayName": "Otto II",
+    "fullName": "Otto II, Holy Roman Emperor",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Otto II"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "奥托二世",
+    "fullNameCn": "奥托二世",
+    "birthYear": 955,
+    "deathYear": 983,
+    "birthPlace": "",
+    "deathPlace": "Rome, Italy",
+    "deathPlaceCn": "意大利罗马",
+    "gender": "male",
+    "dynasty": "Ottonian dynasty",
+    "house": "Ottonian dynasty",
+    "culture": "German",
+    "faith": "Catholic",
+    "primaryTitle": "Holy Roman Emperor",
+    "primaryTitleCn": "神圣罗马帝国皇帝",
+    "titles": [
+      {
+        "title": "King of the Romans",
+        "startYear": 973,
+        "endYear": 973,
+        "titleCn": "罗马人的国王"
+      },
+      {
+        "title": "Holy Roman Emperor",
+        "startYear": 973,
+        "endYear": 983,
+        "titleCn": "神圣罗马帝国皇帝"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "emperor",
+      "king"
+    ],
+    "rank": "emperor",
+    "importanceScore": 70,
+    "historicalRating": 7,
+    "relationships": {
+      "fatherId": "71af1f0a-5840-4a9c-817f-12fef6beadf8",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "a9229a63-1732-42dc-b814-9b3a3fbe0cf8"
+      ]
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Otto_II,_Holy_Roman_Emperor",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Otto_II,_Holy_Roman_Emperor",
+    "sourceNote": "Son of Otto the Great.",
+    "notes": "Holy Roman Emperor who died young after a defeat by the Saracens in southern Italy.",
+    "createdDate": "20260819",
+    "createdOrder": 49
+  },
+  {
+    "id": "a9229a63-1732-42dc-b814-9b3a3fbe0cf8",
+    "firstName": "Otto",
+    "lastName": "",
+    "displayName": "Otto III",
+    "fullName": "Otto III, Holy Roman Emperor",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Otto III"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "奥托三世",
+    "fullNameCn": "奥托三世",
+    "birthYear": 980,
+    "deathYear": 1002,
+    "birthPlace": "",
+    "deathPlace": "Paterno, Italy",
+    "deathPlaceCn": "意大利帕泰尔诺",
+    "gender": "male",
+    "dynasty": "Ottonian dynasty",
+    "house": "Ottonian dynasty",
+    "culture": "German",
+    "faith": "Catholic",
+    "primaryTitle": "Holy Roman Emperor",
+    "primaryTitleCn": "神圣罗马帝国皇帝",
+    "titles": [
+      {
+        "title": "King of the Romans",
+        "startYear": 983,
+        "endYear": 996,
+        "titleCn": "罗马人的国王"
+      },
+      {
+        "title": "Holy Roman Emperor",
+        "startYear": 996,
+        "endYear": 1002,
+        "titleCn": "神圣罗马帝国皇帝"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "emperor",
+      "king"
+    ],
+    "rank": "emperor",
+    "importanceScore": 70,
+    "historicalRating": 7,
+    "relationships": {
+      "fatherId": "1f2ffcc9-06a9-4bea-8be0-96255c8b3d20",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Otto_III,_Holy_Roman_Emperor",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Otto_III,_Holy_Roman_Emperor",
+    "sourceNote": "Son of Otto II; died young and childless.",
+    "notes": "Holy Roman Emperor whose dreams of a restored Roman empire died with him; he was succeeded by his cousin Henry II.",
+    "createdDate": "20260819",
+    "createdOrder": 50
+  },
+  {
+    "id": "e767d216-846b-41d1-8f38-8b2a300dc290",
+    "firstName": "Heinrich",
+    "lastName": "",
+    "displayName": "Heinrich II",
+    "fullName": "Heinrich II, Holy Roman Emperor",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Heinrich II",
+      "Saint Henry"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "海因里希二世",
+    "fullNameCn": "海因里希二世",
+    "birthYear": 973,
+    "deathYear": 1024,
+    "birthPlace": "",
+    "deathPlace": "Göttingen, Germany",
+    "deathPlaceCn": "德意志哥廷根",
+    "gender": "male",
+    "dynasty": "Ottonian dynasty",
+    "house": "Ottonian dynasty",
+    "culture": "German",
+    "faith": "Catholic",
+    "primaryTitle": "Holy Roman Emperor",
+    "primaryTitleCn": "神圣罗马帝国皇帝",
+    "titles": [
+      {
+        "title": "King of the Romans",
+        "startYear": 1002,
+        "endYear": 1014,
+        "titleCn": "罗马人的国王"
+      },
+      {
+        "title": "Holy Roman Emperor",
+        "startYear": 1014,
+        "endYear": 1024,
+        "titleCn": "神圣罗马帝国皇帝"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "emperor",
+      "king"
+    ],
+    "rank": "emperor",
+    "importanceScore": 70,
+    "historicalRating": 7,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Henry_II,_Holy_Roman_Emperor",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Henry_II,_Holy_Roman_Emperor",
+    "sourceNote": "Cousin of Otto III, the last of the Ottonian line; later canonized.",
+    "notes": "Last Ottonian emperor, later canonized as a saint; his death ended the Ottonian dynasty and led to the Salians.",
+    "createdDate": "20260819",
+    "createdOrder": 51
+  },
+  {
+    "id": "f1675c1f-68d7-43cb-b465-842711cbc175",
+    "firstName": "Conrad",
+    "lastName": "",
+    "displayName": "Conrad II",
+    "fullName": "Conrad II, Holy Roman Emperor",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Conrad II",
+      "Konrad II"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "康拉德二世",
+    "fullNameCn": "康拉德二世",
+    "birthYear": 990,
+    "deathYear": 1039,
+    "birthPlace": "",
+    "deathPlace": "Utrecht, Germany",
+    "deathPlaceCn": "德意志乌得勒支",
+    "gender": "male",
+    "dynasty": "Salian dynasty",
+    "house": "Salian dynasty",
+    "culture": "German",
+    "faith": "Catholic",
+    "primaryTitle": "Holy Roman Emperor",
+    "primaryTitleCn": "神圣罗马帝国皇帝",
+    "titles": [
+      {
+        "title": "King of the Romans",
+        "startYear": 1024,
+        "endYear": 1027,
+        "titleCn": "罗马人的国王"
+      },
+      {
+        "title": "Holy Roman Emperor",
+        "startYear": 1027,
+        "endYear": 1039,
+        "titleCn": "神圣罗马帝国皇帝"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "emperor",
+      "king"
+    ],
+    "rank": "emperor",
+    "importanceScore": 72,
+    "historicalRating": 7,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "3067525b-9ffb-43a7-bb87-0a582c20a7fa"
+      ]
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Conrad_II,_Holy_Roman_Emperor",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Conrad_II,_Holy_Roman_Emperor",
+    "sourceNote": "First Salian emperor; King of Germany from 1024, crowned Emperor in 1027.",
+    "notes": "Founder of the Salian dynasty; king of Germany from 1024 and Holy Roman Emperor from 1027.",
+    "createdDate": "20260820",
+    "createdOrder": 1
+  },
+  {
+    "id": "3067525b-9ffb-43a7-bb87-0a582c20a7fa",
+    "firstName": "Heinrich",
+    "lastName": "",
+    "displayName": "Heinrich III",
+    "fullName": "Heinrich III, Holy Roman Emperor",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Heinrich III",
+      "Henry III"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "海因里希三世",
+    "fullNameCn": "海因里希三世",
+    "birthYear": 1016,
+    "deathYear": 1056,
+    "birthPlace": "",
+    "deathPlace": "Bodfeld, Germany",
+    "deathPlaceCn": "德意志博德费尔德",
+    "gender": "male",
+    "dynasty": "Salian dynasty",
+    "house": "Salian dynasty",
+    "culture": "German",
+    "faith": "Catholic",
+    "primaryTitle": "Holy Roman Emperor",
+    "primaryTitleCn": "神圣罗马帝国皇帝",
+    "titles": [
+      {
+        "title": "King of the Romans",
+        "startYear": 1039,
+        "endYear": 1046,
+        "titleCn": "罗马人的国王"
+      },
+      {
+        "title": "Holy Roman Emperor",
+        "startYear": 1046,
+        "endYear": 1056,
+        "titleCn": "神圣罗马帝国皇帝"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "emperor",
+      "king"
+    ],
+    "rank": "emperor",
+    "importanceScore": 72,
+    "historicalRating": 7,
+    "relationships": {
+      "fatherId": "f1675c1f-68d7-43cb-b465-842711cbc175",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "3dd7dc1c-7473-495d-aac7-0c145d147ed9"
+      ]
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Henry_III,_Holy_Roman_Emperor",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Henry_III,_Holy_Roman_Emperor",
+    "sourceNote": "Son of Conrad II; King of Germany from 1039, crowned Emperor in 1046.",
+    "notes": "King of Germany from 1039 and Holy Roman Emperor from 1046; the empire's power reached its height under him.",
+    "createdDate": "20260820",
+    "createdOrder": 2
+  },
+  {
+    "id": "3dd7dc1c-7473-495d-aac7-0c145d147ed9",
+    "firstName": "Heinrich",
+    "lastName": "",
+    "displayName": "Heinrich IV",
+    "fullName": "Heinrich IV, Holy Roman Emperor",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Heinrich IV",
+      "Henry IV"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "海因里希四世",
+    "fullNameCn": "海因里希四世",
+    "birthYear": 1050,
+    "deathYear": 1106,
+    "birthPlace": "Goslar, Germany",
+    "birthPlaceCn": "德意志戈斯拉尔",
+    "deathPlace": "Liège, Germany",
+    "deathPlaceCn": "德意志列日",
+    "gender": "male",
+    "dynasty": "Salian dynasty",
+    "house": "Salian dynasty",
+    "culture": "German",
+    "faith": "Catholic",
+    "primaryTitle": "Holy Roman Emperor",
+    "primaryTitleCn": "神圣罗马帝国皇帝",
+    "titles": [
+      {
+        "title": "King of the Romans",
+        "startYear": 1056,
+        "endYear": 1084,
+        "titleCn": "罗马人的国王"
+      },
+      {
+        "title": "Holy Roman Emperor",
+        "startYear": 1084,
+        "endYear": 1105,
+        "titleCn": "神圣罗马帝国皇帝"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "emperor",
+      "king"
+    ],
+    "rank": "emperor",
+    "importanceScore": 80,
+    "historicalRating": 8,
+    "relationships": {
+      "fatherId": "3067525b-9ffb-43a7-bb87-0a582c20a7fa",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "9fd77e98-145c-4153-b806-768ff1d76ba6"
+      ]
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Henry_IV,_Holy_Roman_Emperor",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Henry_IV,_Holy_Roman_Emperor",
+    "sourceNote": "Son of Heinrich III; King of Germany from 1056, Emperor from 1084. Central figure of the Investiture Controversy and the Walk to Canossa.",
+    "notes": "Holy Roman Emperor remembered for the Investiture Controversy and his penance at Canossa; deposed by his son Heinrich V.",
+    "createdDate": "20260820",
+    "createdOrder": 3
+  },
+  {
+    "id": "c1691953-df47-4261-81cc-8e8e4bb54373",
+    "firstName": "Conrad",
+    "lastName": "",
+    "displayName": "Conrad I",
+    "fullName": "Conrad I of East Francia",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Conrad I",
+      "Conrad the Younger",
+      "Konrad I"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "康拉德一世",
+    "fullNameCn": "康拉德一世",
+    "birthYear": 881,
+    "deathYear": 918,
+    "birthPlace": "",
+    "deathPlace": "Weilburg, Germany",
+    "deathPlaceCn": "德意志魏尔堡",
+    "gender": "male",
+    "dynasty": "Conradine dynasty",
+    "house": "Conradine dynasty",
+    "culture": "German",
+    "faith": "Catholic",
+    "primaryTitle": "King of East Francia",
+    "primaryTitleCn": "东法兰克国王",
+    "titles": [
+      {
+        "title": "King of East Francia",
+        "startYear": 911,
+        "endYear": 918,
+        "titleCn": "东法兰克国王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 58,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Conrad_I_of_Germany",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Conrad_I_of_Germany",
+    "sourceNote": "First non-Carolingian king of East Francia; on his deathbed he recommended Henry the Fowler as his successor.",
+    "notes": "King of East Francia after the last Carolingian; he advised the nobles to elect Henry the Fowler as his successor.",
+    "createdDate": "20260820",
+    "createdOrder": 4
+  },
+  {
+    "id": "30214525-d401-49d6-bdb6-2eb0788c1bf1",
+    "firstName": "Heinrich",
+    "lastName": "",
+    "displayName": "Heinrich I",
+    "fullName": "Heinrich I, King of East Francia",
+    "nickname": "the Fowler",
+    "alsoKnownAs": [
+      "Heinrich I",
+      "Henry the Fowler",
+      "Heinrich der Vogler",
+      "Henry I of Germany"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "海因里希一世",
+    "fullNameCn": "东法兰克国王海因里希一世",
+    "nicknameCn": "捕鸟者",
+    "birthYear": 876,
+    "deathYear": 936,
+    "birthPlace": "",
+    "deathPlace": "Memleben, Germany",
+    "deathPlaceCn": "德意志梅姆莱本",
+    "gender": "male",
+    "dynasty": "Ottonian dynasty",
+    "house": "Ottonian dynasty",
+    "culture": "German",
+    "faith": "Catholic",
+    "primaryTitle": "King of East Francia",
+    "primaryTitleCn": "东法兰克国王",
+    "titles": [
+      {
+        "title": "King of East Francia",
+        "startYear": 919,
+        "endYear": 936,
+        "titleCn": "东法兰克国王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 70,
+    "historicalRating": 7,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "71af1f0a-5840-4a9c-817f-12fef6beadf8"
+      ]
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Henry_the_Fowler",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Henry_the_Fowler",
+    "sourceNote": "First Ottonian king; father of Otto I.",
+    "notes": "First Ottonian king of East Francia; his son Otto I succeeded him and later became Holy Roman Emperor.",
+    "createdDate": "20260820",
+    "createdOrder": 5
+  },
+  {
+    "id": "d177d56f-bfee-4ad1-8aa4-bd1b09df2a8a",
+    "firstName": "Lothair",
+    "lastName": "",
+    "displayName": "Lothair III",
+    "fullName": "Lothair III, Holy Roman Emperor",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Lothair III",
+      "Lothair of Supplinburg"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "洛泰尔三世",
+    "fullNameCn": "洛泰尔三世",
+    "birthYear": 1075,
+    "deathYear": 1137,
+    "birthPlace": "",
+    "deathPlace": "Breitenwang, Germany",
+    "deathPlaceCn": "德意志布赖滕旺",
+    "gender": "male",
+    "dynasty": "Supplinburger dynasty",
+    "house": "Supplinburger dynasty",
+    "culture": "German",
+    "faith": "Catholic",
+    "primaryTitle": "Holy Roman Emperor",
+    "primaryTitleCn": "神圣罗马帝国皇帝",
+    "titles": [
+      {
+        "title": "King of the Romans",
+        "startYear": 1125,
+        "endYear": 1133,
+        "titleCn": "罗马人的国王"
+      },
+      {
+        "title": "Holy Roman Emperor",
+        "startYear": 1133,
+        "endYear": 1137,
+        "titleCn": "神圣罗马帝国皇帝"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "emperor",
+      "king"
+    ],
+    "rank": "emperor",
+    "importanceScore": 64,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Lothair_III,_Holy_Roman_Emperor",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Lothair_III,_Holy_Roman_Emperor",
+    "sourceNote": "King of the Romans from 1125, crowned Emperor in 1133.",
+    "notes": "Holy Roman Emperor between the Salians and the Hohenstaufen; died childless.",
+    "createdDate": "20260820",
+    "createdOrder": 6
+  },
+  {
+    "id": "b9252f8f-d6cd-48eb-8a6a-8072d819d78e",
+    "firstName": "Conrad",
+    "lastName": "",
+    "displayName": "Conrad III",
+    "fullName": "Conrad III of Germany",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Conrad III",
+      "Konrad III"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "康拉德三世",
+    "fullNameCn": "康拉德三世",
+    "birthYear": 1093,
+    "deathYear": 1152,
+    "birthPlace": "",
+    "deathPlace": "Bamberg, Germany",
+    "deathPlaceCn": "德意志班贝格",
+    "gender": "male",
+    "dynasty": "Hohenstaufen dynasty",
+    "house": "Hohenstaufen dynasty",
+    "culture": "German",
+    "faith": "Catholic",
+    "primaryTitle": "King of the Romans",
+    "primaryTitleCn": "罗马人的国王",
+    "titles": [
+      {
+        "title": "King of the Romans",
+        "startYear": 1138,
+        "endYear": 1152,
+        "titleCn": "罗马人的国王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 62,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Conrad_III_of_Germany",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Conrad_III_of_Germany",
+    "sourceNote": "First Hohenstaufen king; never crowned Emperor.",
+    "notes": "First Hohenstaufen king of the Romans; never crowned Emperor, and died during the Second Crusade.",
+    "createdDate": "20260820",
+    "createdOrder": 7
+  },
+  {
+    "id": "727f5266-97af-45ee-8a21-c986aaf039dd",
+    "firstName": "Frederick",
+    "lastName": "",
+    "displayName": "Frederick I Barbarossa",
+    "fullName": "Frederick I, Holy Roman Emperor",
+    "nickname": "Barbarossa",
+    "alsoKnownAs": [
+      "Frederick I",
+      "Frederick Barbarossa"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "腓特烈一世",
+    "fullNameCn": "腓特烈一世",
+    "nicknameCn": "红胡子",
+    "birthYear": 1122,
+    "deathYear": 1190,
+    "birthPlace": "",
+    "deathPlace": "Saleph River, Anatolia",
+    "deathPlaceCn": "安纳托利亚萨莱夫河",
+    "gender": "male",
+    "dynasty": "Hohenstaufen dynasty",
+    "house": "Hohenstaufen dynasty",
+    "culture": "German",
+    "faith": "Catholic",
+    "primaryTitle": "Holy Roman Emperor",
+    "primaryTitleCn": "神圣罗马帝国皇帝",
+    "titles": [
+      {
+        "title": "King of the Romans",
+        "startYear": 1152,
+        "endYear": 1155,
+        "titleCn": "罗马人的国王"
+      },
+      {
+        "title": "Holy Roman Emperor",
+        "startYear": 1155,
+        "endYear": 1190,
+        "titleCn": "神圣罗马帝国皇帝"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "emperor",
+      "king"
+    ],
+    "rank": "emperor",
+    "importanceScore": 84,
+    "historicalRating": 8,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "0ab7ebf5-061d-4668-8554-ba7b6fbd01f7",
+        "186da770-6a93-4236-b48f-6fd705cdbcf4"
+      ]
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Frederick_Barbarossa",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Frederick_Barbarossa",
+    "sourceNote": "King of the Romans from 1152, crowned Emperor in 1155; drowned on the Third Crusade.",
+    "notes": "Holy Roman Emperor who fought the Lombard League and the papacy; drowned in Anatolia on the Third Crusade.",
+    "createdDate": "20260820",
+    "createdOrder": 8
+  },
+  {
+    "id": "0ab7ebf5-061d-4668-8554-ba7b6fbd01f7",
+    "firstName": "Heinrich",
+    "lastName": "",
+    "displayName": "Heinrich VI",
+    "fullName": "Heinrich VI, Holy Roman Emperor",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Heinrich VI",
+      "Henry VI"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "海因里希六世",
+    "fullNameCn": "海因里希六世",
+    "birthYear": 1165,
+    "deathYear": 1197,
+    "birthPlace": "Nijmegen, Germany",
+    "birthPlaceCn": "德意志奈梅亨",
+    "deathPlace": "Messina, Sicily",
+    "deathPlaceCn": "西西里墨西拿",
+    "gender": "male",
+    "dynasty": "Hohenstaufen dynasty",
+    "house": "Hohenstaufen dynasty",
+    "culture": "German",
+    "faith": "Catholic",
+    "primaryTitle": "Holy Roman Emperor",
+    "primaryTitleCn": "神圣罗马帝国皇帝",
+    "titles": [
+      {
+        "title": "King of the Romans",
+        "startYear": 1169,
+        "endYear": 1197,
+        "titleCn": "罗马人的国王"
+      },
+      {
+        "title": "Holy Roman Emperor",
+        "startYear": 1191,
+        "endYear": 1197,
+        "titleCn": "神圣罗马帝国皇帝"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "emperor",
+      "king"
+    ],
+    "rank": "emperor",
+    "importanceScore": 74,
+    "historicalRating": 7,
+    "relationships": {
+      "fatherId": "727f5266-97af-45ee-8a21-c986aaf039dd",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "ea19e505-86fe-4cb7-8e55-c42e9f0ebfd3"
+      ]
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Henry_VI,_Holy_Roman_Emperor",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Henry_VI,_Holy_Roman_Emperor",
+    "sourceNote": "Son of Frederick I Barbarossa; King of the Romans from 1190, crowned Emperor in 1191.",
+    "notes": "Holy Roman Emperor who also ruled Sicily through his wife Constance; father of Frederick II.",
+    "createdDate": "20260820",
+    "createdOrder": 9
+  },
+  {
+    "id": "186da770-6a93-4236-b48f-6fd705cdbcf4",
+    "firstName": "Philip",
+    "lastName": "",
+    "displayName": "Philip of Swabia",
+    "fullName": "Philip of Swabia",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Philip of Swabia",
+      "Philipp von Schwaben"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "施瓦本的菲利普",
+    "fullNameCn": "施瓦本的菲利普",
+    "birthYear": 1177,
+    "deathYear": 1208,
+    "birthPlace": "",
+    "deathPlace": "Bamberg, Germany",
+    "deathPlaceCn": "德意志班贝格",
+    "gender": "male",
+    "dynasty": "Hohenstaufen dynasty",
+    "house": "Hohenstaufen dynasty",
+    "culture": "German",
+    "faith": "Catholic",
+    "primaryTitle": "King of the Romans",
+    "primaryTitleCn": "罗马人的国王",
+    "titles": [
+      {
+        "title": "King of the Romans",
+        "startYear": 1198,
+        "endYear": 1208,
+        "titleCn": "罗马人的国王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 60,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "727f5266-97af-45ee-8a21-c986aaf039dd",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Philip_of_Swabia",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Philip_of_Swabia",
+    "sourceNote": "Son of Frederick I Barbarossa; contested the crown with Otto IV and was never crowned Emperor.",
+    "notes": "Hohenstaufen king of the Romans who contested the throne with the Welf Otto IV; assassinated in 1208.",
+    "createdDate": "20260820",
+    "createdOrder": 10
+  },
+  {
+    "id": "0b708330-7b13-45ad-88a9-22e8e6e79fe8",
+    "firstName": "Otto",
+    "lastName": "",
+    "displayName": "Otto IV",
+    "fullName": "Otto IV, Holy Roman Emperor",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Otto IV",
+      "Otto of Brunswick"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "奥托四世",
+    "fullNameCn": "奥托四世",
+    "birthYear": 1175,
+    "deathYear": 1218,
+    "birthPlace": "",
+    "deathPlace": "Harzburg, Germany",
+    "deathPlaceCn": "德意志哈尔茨堡",
+    "gender": "male",
+    "dynasty": "House of Welf",
+    "house": "House of Welf",
+    "culture": "German",
+    "faith": "Catholic",
+    "primaryTitle": "Holy Roman Emperor",
+    "primaryTitleCn": "神圣罗马帝国皇帝",
+    "titles": [
+      {
+        "title": "King of the Romans",
+        "startYear": 1198,
+        "endYear": 1209,
+        "titleCn": "罗马人的国王"
+      },
+      {
+        "title": "Holy Roman Emperor",
+        "startYear": 1209,
+        "endYear": 1215,
+        "titleCn": "神圣罗马帝国皇帝"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "emperor",
+      "king"
+    ],
+    "rank": "emperor",
+    "importanceScore": 62,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Otto_IV,_Holy_Roman_Emperor",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Otto_IV,_Holy_Roman_Emperor",
+    "sourceNote": "Welf rival of the Hohenstaufen; crowned Emperor in 1209 but deposed in 1215.",
+    "notes": "The only Welf Holy Roman Emperor, rival of Philip of Swabia and Frederick II.",
+    "createdDate": "20260820",
+    "createdOrder": 11
+  },
+  {
+    "id": "ea19e505-86fe-4cb7-8e55-c42e9f0ebfd3",
+    "firstName": "Frederick",
+    "lastName": "",
+    "displayName": "Frederick II",
+    "fullName": "Frederick II, Holy Roman Emperor",
+    "nickname": "Stupor Mundi",
+    "nicknameCn": "世界奇迹",
+    "alsoKnownAs": [
+      "Frederick II",
+      "Stupor Mundi"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "腓特烈二世",
+    "fullNameCn": "腓特烈二世",
+    "birthYear": 1194,
+    "deathYear": 1250,
+    "birthPlace": "Jesi, Italy",
+    "birthPlaceCn": "意大利耶西",
+    "deathPlace": "Fiorentino, Italy",
+    "deathPlaceCn": "意大利菲奥伦蒂诺",
+    "gender": "male",
+    "dynasty": "Hohenstaufen dynasty",
+    "house": "Hohenstaufen dynasty",
+    "culture": "German",
+    "faith": "Catholic",
+    "primaryTitle": "Holy Roman Emperor",
+    "primaryTitleCn": "神圣罗马帝国皇帝",
+    "titles": [
+      {
+        "title": "King of the Romans",
+        "startYear": 1212,
+        "endYear": 1220,
+        "titleCn": "罗马人的国王"
+      },
+      {
+        "title": "Holy Roman Emperor",
+        "startYear": 1220,
+        "endYear": 1250,
+        "titleCn": "神圣罗马帝国皇帝"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "emperor",
+      "king"
+    ],
+    "rank": "emperor",
+    "importanceScore": 84,
+    "historicalRating": 8,
+    "relationships": {
+      "fatherId": "0ab7ebf5-061d-4668-8554-ba7b6fbd01f7",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "4c68ef70-d950-4e5d-8106-80c28800a522"
+      ]
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Frederick_II,_Holy_Roman_Emperor",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Frederick_II,_Holy_Roman_Emperor",
+    "sourceNote": "Son of Heinrich VI; King of Sicily and Holy Roman Emperor, called Stupor Mundi.",
+    "notes": "Holy Roman Emperor and King of Sicily, called Stupor Mundi for his court and learning; fought repeatedly with the papacy.",
+    "createdDate": "20260820",
+    "createdOrder": 12
+  },
+  {
+    "id": "4c68ef70-d950-4e5d-8106-80c28800a522",
+    "firstName": "Conrad",
+    "lastName": "",
+    "displayName": "Conrad IV",
+    "fullName": "Conrad IV of Germany",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Conrad IV",
+      "Konrad IV"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "康拉德四世",
+    "fullNameCn": "康拉德四世",
+    "birthYear": 1228,
+    "deathYear": 1254,
+    "birthPlace": "",
+    "deathPlace": "Lavello, Italy",
+    "deathPlaceCn": "意大利拉韦洛",
+    "gender": "male",
+    "dynasty": "Hohenstaufen dynasty",
+    "house": "Hohenstaufen dynasty",
+    "culture": "German",
+    "faith": "Catholic",
+    "primaryTitle": "King of the Romans",
+    "primaryTitleCn": "罗马人的国王",
+    "titles": [
+      {
+        "title": "King of the Romans",
+        "startYear": 1237,
+        "endYear": 1254,
+        "titleCn": "罗马人的国王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 60,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "ea19e505-86fe-4cb7-8e55-c42e9f0ebfd3",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Conrad_IV_of_Germany",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Conrad_IV_of_Germany",
+    "sourceNote": "Son of Frederick II; king of the Romans but never crowned Emperor.",
+    "notes": "Last Hohenstaufen king of the Romans; his death led to the Great Interregnum.",
+    "createdDate": "20260820",
+    "createdOrder": 13
+  },
+  {
+    "id": "268c6586-a041-4aa7-9d66-92a7af3c4ac6",
+    "firstName": "Rudolf",
+    "lastName": "",
+    "displayName": "Rudolf I",
+    "fullName": "Rudolf I of Germany",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Rudolf I",
+      "Rudolf of Habsburg"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "鲁道夫一世",
+    "fullNameCn": "鲁道夫一世",
+    "birthYear": 1218,
+    "deathYear": 1291,
+    "birthPlace": "",
+    "deathPlace": "Speyer, Germany",
+    "deathPlaceCn": "德意志施派尔",
+    "gender": "male",
+    "dynasty": "House of Habsburg",
+    "house": "House of Habsburg",
+    "culture": "German",
+    "faith": "Catholic",
+    "primaryTitle": "King of the Romans",
+    "primaryTitleCn": "罗马人的国王",
+    "titles": [
+      {
+        "title": "King of the Romans",
+        "startYear": 1273,
+        "endYear": 1291,
+        "titleCn": "罗马人的国王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 70,
+    "historicalRating": 7,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "6ca48b05-8d0d-4206-8812-31e49f7b5d35"
+      ]
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Rudolf_I_of_Germany",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Rudolf_I_of_Germany",
+    "sourceNote": "First Habsburg king of the Romans; never crowned Emperor.",
+    "notes": "First Habsburg king of the Romans; re-established order after the Great Interregnum and founded the Habsburg rise.",
+    "createdDate": "20260820",
+    "createdOrder": 14
+  },
+  {
+    "id": "0f0e4af2-bb30-4f4b-9487-f3cd1770da56",
+    "firstName": "Adolf",
+    "lastName": "",
+    "displayName": "Adolf",
+    "fullName": "Adolf of Nassau",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Adolf of Nassau",
+      "Adolf von Nassau"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "拿骚的阿道夫",
+    "fullNameCn": "拿骚的阿道夫",
+    "birthYear": 1255,
+    "deathYear": 1298,
+    "birthPlace": "",
+    "deathPlace": "Göllheim, Germany",
+    "deathPlaceCn": "德意志格尔海姆",
+    "gender": "male",
+    "dynasty": "House of Nassau",
+    "house": "House of Nassau",
+    "culture": "German",
+    "faith": "Catholic",
+    "primaryTitle": "King of the Romans",
+    "primaryTitleCn": "罗马人的国王",
+    "titles": [
+      {
+        "title": "King of the Romans",
+        "startYear": 1292,
+        "endYear": 1298,
+        "titleCn": "罗马人的国王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 58,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Adolf,_King_of_the_Romans",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Adolf,_King_of_the_Romans",
+    "sourceNote": "King of the Romans deposed in 1298; never crowned Emperor.",
+    "notes": "King of the Romans who was deposed and killed at Göllheim by Albert of Habsburg.",
+    "createdDate": "20260820",
+    "createdOrder": 15
+  },
+  {
+    "id": "6ca48b05-8d0d-4206-8812-31e49f7b5d35",
+    "firstName": "Albert",
+    "lastName": "",
+    "displayName": "Albert I",
+    "fullName": "Albert I of Germany",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Albert I",
+      "Albrecht I"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "阿尔布雷希特一世",
+    "fullNameCn": "阿尔布雷希特一世",
+    "birthYear": 1255,
+    "deathYear": 1308,
+    "birthPlace": "",
+    "deathPlace": "Windisch, Switzerland",
+    "deathPlaceCn": "瑞士温迪施",
+    "gender": "male",
+    "dynasty": "House of Habsburg",
+    "house": "House of Habsburg",
+    "culture": "German",
+    "faith": "Catholic",
+    "primaryTitle": "King of the Romans",
+    "primaryTitleCn": "罗马人的国王",
+    "titles": [
+      {
+        "title": "King of the Romans",
+        "startYear": 1298,
+        "endYear": 1308,
+        "titleCn": "罗马人的国王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 62,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "268c6586-a041-4aa7-9d66-92a7af3c4ac6",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Albert_I_of_Germany",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Albert_I_of_Germany",
+    "sourceNote": "Son of Rudolf I; never crowned Emperor; murdered by his nephew.",
+    "notes": "Habsburg king of the Romans who defeated Adolf of Nassau and was murdered by his nephew in 1308.",
+    "createdDate": "20260820",
+    "createdOrder": 16
+  },
+  {
+    "id": "ec618819-cd33-44bb-b8f8-fb50e97cbdb9",
+    "firstName": "Heinrich",
+    "lastName": "",
+    "displayName": "Heinrich VII",
+    "fullName": "Heinrich VII, Holy Roman Emperor",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Heinrich VII",
+      "Henry VII of Luxembourg"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "海因里希七世",
+    "fullNameCn": "海因里希七世",
+    "birthYear": 1275,
+    "deathYear": 1313,
+    "birthPlace": "Valenciennes, Hainaut",
+    "birthPlaceCn": "埃诺瓦朗谢讷",
+    "deathPlace": "Buonconvento, Italy",
+    "deathPlaceCn": "意大利布翁孔文托",
+    "gender": "male",
+    "dynasty": "House of Luxembourg",
+    "house": "House of Luxembourg",
+    "culture": "German",
+    "faith": "Catholic",
+    "primaryTitle": "Holy Roman Emperor",
+    "primaryTitleCn": "神圣罗马帝国皇帝",
+    "titles": [
+      {
+        "title": "King of the Romans",
+        "startYear": 1308,
+        "endYear": 1312,
+        "titleCn": "罗马人的国王"
+      },
+      {
+        "title": "Holy Roman Emperor",
+        "startYear": 1312,
+        "endYear": 1313,
+        "titleCn": "神圣罗马帝国皇帝"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "emperor",
+      "king"
+    ],
+    "rank": "emperor",
+    "importanceScore": 70,
+    "historicalRating": 7,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Henry_VII,_Holy_Roman_Emperor",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Henry_VII,_Holy_Roman_Emperor",
+    "sourceNote": "First Luxembourg emperor; crowned in 1312 and died in Italy a year later.",
+    "notes": "First Luxembourg Holy Roman Emperor; died in Italy shortly after his coronation.",
+    "createdDate": "20260820",
+    "createdOrder": 17
+  },
+  {
+    "id": "02a7f7ff-44ee-4cf7-b770-fe1ea9a59893",
+    "firstName": "Ludwig",
+    "lastName": "",
+    "displayName": "Ludwig IV",
+    "fullName": "Ludwig IV, Holy Roman Emperor",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Ludwig IV",
+      "Louis IV",
+      "Ludwig the Bavarian"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "路德维希四世",
+    "fullNameCn": "路德维希四世",
+    "birthYear": 1282,
+    "deathYear": 1347,
+    "birthPlace": "Munich, Germany",
+    "birthPlaceCn": "德意志慕尼黑",
+    "deathPlace": "Fürstenfeldbruck, Germany",
+    "deathPlaceCn": "德意志菲尔斯滕费尔德布鲁克",
+    "gender": "male",
+    "dynasty": "House of Wittelsbach",
+    "house": "House of Wittelsbach",
+    "culture": "German",
+    "faith": "Catholic",
+    "primaryTitle": "Holy Roman Emperor",
+    "primaryTitleCn": "神圣罗马帝国皇帝",
+    "titles": [
+      {
+        "title": "King of the Romans",
+        "startYear": 1314,
+        "endYear": 1328,
+        "titleCn": "罗马人的国王"
+      },
+      {
+        "title": "Holy Roman Emperor",
+        "startYear": 1328,
+        "endYear": 1347,
+        "titleCn": "神圣罗马帝国皇帝"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "emperor",
+      "king"
+    ],
+    "rank": "emperor",
+    "importanceScore": 72,
+    "historicalRating": 7,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Louis_IV,_Holy_Roman_Emperor",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Louis_IV,_Holy_Roman_Emperor",
+    "sourceNote": "Wittelsbach emperor; fought the papacy and the rival Frederick the Fair.",
+    "notes": "Wittelsbach Holy Roman Emperor who fought Pope John XXII and his Habsburg rival Frederick the Fair.",
+    "createdDate": "20260820",
+    "createdOrder": 18
+  },
+  {
+    "id": "80b3801a-ffca-4136-ba92-293b6b976e85",
+    "firstName": "Karl",
+    "lastName": "",
+    "displayName": "Karl IV",
+    "fullName": "Karl IV, Holy Roman Emperor",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Karl IV",
+      "Charles IV"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "卡尔四世",
+    "fullNameCn": "卡尔四世",
+    "birthYear": 1316,
+    "deathYear": 1378,
+    "birthPlace": "Prague, Bohemia",
+    "birthPlaceCn": "波希米亚布拉格",
+    "deathPlace": "Prague, Bohemia",
+    "deathPlaceCn": "波希米亚布拉格",
+    "gender": "male",
+    "dynasty": "House of Luxembourg",
+    "house": "House of Luxembourg",
+    "culture": "German",
+    "faith": "Catholic",
+    "primaryTitle": "Holy Roman Emperor",
+    "primaryTitleCn": "神圣罗马帝国皇帝",
+    "titles": [
+      {
+        "title": "King of the Romans",
+        "startYear": 1346,
+        "endYear": 1355,
+        "titleCn": "罗马人的国王"
+      },
+      {
+        "title": "Holy Roman Emperor",
+        "startYear": 1355,
+        "endYear": 1378,
+        "titleCn": "神圣罗马帝国皇帝"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "emperor",
+      "king"
+    ],
+    "rank": "emperor",
+    "importanceScore": 80,
+    "historicalRating": 8,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Charles_IV,_Holy_Roman_Emperor",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Charles_IV,_Holy_Roman_Emperor",
+    "sourceNote": "Luxembourg emperor who issued the Golden Bull of 1356.",
+    "notes": "Luxembourg Holy Roman Emperor who issued the Golden Bull of 1356 and made Prague the imperial capital.",
+    "createdDate": "20260820",
+    "createdOrder": 19
   }
 ]

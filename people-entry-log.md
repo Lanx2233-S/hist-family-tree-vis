@@ -1,7 +1,7 @@
 # 人物录入索引（People Entry Log）
 
-> 当前总人数：259
-> 分配日期：20260815 = 53 人；20260816 = 53 人；20260817 = 53 人；20260818 = 53 人；20260819 = 47 人
+> 当前总人数：282
+> 分配日期：20260815 = 53 人；20260816 = 53 人；20260817 = 53 人；20260818 = 53 人；20260819 = 51 人；20260820 = 19 人
 > 数据来源：`src/data/people/manifest.json` 及其引用的全部人员 JSON 文件
 > 字段说明：姓名 = `displayName`；UUID = `id`；自定义序号 = `YYYYMMDDNNN`（`createdDate` + `createdOrder` 补零三位）；总序号 = `manifest.order` 顺序；重要度评分 = `historicalRating`
 
@@ -10,19 +10,19 @@
 | William I | `21b5ec21-1812-4731-8b03-721988be302f` | 20260815001 | 1 | 10星 |
 | Robert I | `da51f613-00e2-42ff-9027-a052fac5fc07` | 20260815002 | 2 | 8星 |
 | Matilda of Flanders | `2a19d3aa-7968-4c0b-9870-fe3db9c9b575` | 20260815003 | 3 | 8星 |
-| Robert Curthose | `bea83a88-2399-4eb7-a496-9cfcee8599a6` | 20260815004 | 4 | 8星 |
-| William II | `576ee669-b638-4013-91cf-71f637200b83` | 20260815005 | 5 | 8星 |
+| Robert Curthose | `bea83a88-2399-4eb7-a496-9cfcee8599a6` | 20260815004 | 4 | 7星 |
+| William II | `576ee669-b638-4013-91cf-71f637200b83` | 20260815005 | 5 | 7星 |
 | Henry I | `90840bac-1589-4ba4-abfe-9189e6046b36` | 20260815006 | 6 | 8星 |
 | Richard II | `0e597c77-dd0b-419c-9227-b56fb37e3b9d` | 20260815007 | 7 | 7星 |
 | Empress Matilda | `f194f118-96af-4ad4-af2b-f8449720cff1` | 20260815008 | 8 | 8星 |
-| Heinrich V | `9fd77e98-145c-4153-b806-768ff1d76ba6` | 20260815009 | 9 | 8星 |
+| Heinrich V | `9fd77e98-145c-4153-b806-768ff1d76ba6` | 20260815009 | 9 | 7星 |
 | Geoffroy V | `cc0cb400-e684-4bdb-b477-9a8fb578f4f5` | 20260815010 | 10 | 7星 |
 | Henry II | `29e2abba-321e-4090-a35d-10f0bd6a420a` | 20260815011 | 11 | 8星 |
 | Eleanor of Aquitaine | `cbb11a70-0b0f-40ca-b9c6-95426b904bf6` | 20260815012 | 12 | 9星 |
 | Richard I | `b8d3addb-be4b-43ca-9ebc-f70c1864685b` | 20260815013 | 13 | 10星 |
 | John | `6e154ae2-a354-40fc-bdc8-104ef378f743` | 20260815014 | 14 | 8星 |
-| Henry III | `eaec18d2-b486-457f-9336-ab403f1586ca` | 20260815015 | 15 | 8星 |
-| Edward I | `f58b655d-8403-4f6d-9d5d-ecffaeaa0b0e` | 20260815016 | 16 | 9星 |
+| Henry III | `eaec18d2-b486-457f-9336-ab403f1586ca` | 20260815015 | 15 | 7星 |
+| Edward I | `f58b655d-8403-4f6d-9d5d-ecffaeaa0b0e` | 20260815016 | 16 | 10星 |
 | Guilhem X | `391d79fe-1ce8-47ac-8eea-781b3a14f7bd` | 20260815017 | 17 | 7星 |
 | Guilhem IX | `07e299dc-0bb7-4219-ac2f-1d94d0475ecb` | 20260815018 | 18 | 7星 |
 | William IX | `9dd8500b-98c5-469e-b70f-cc517f862d0d` | 20260815019 | 19 | 5星 |
@@ -48,28 +48,28 @@
 | Anne Mortimer | `38e14a5d-17a3-4c5a-8ee3-3d4d39d911af` | 20260815039 | 39 | 7星 |
 | Richard of York | `1299a0d9-153e-4a1d-a90f-27ae608c44ae` | 20260815040 | 40 | 7星 |
 | Edward IV | `423d8a6a-a3f5-4502-abc7-5b6943dcfac6` | 20260815041 | 41 | 8星 |
-| Edward V | `738a5858-9506-4f77-b5ed-7539c01d7bbc` | 20260815042 | 42 | 8星 |
+| Edward V | `738a5858-9506-4f77-b5ed-7539c01d7bbc` | 20260815042 | 42 | 7星 |
 | Ida de Tosny | `04bd4507-aadb-4108-9bb4-278c7e06ae53` | 20260815043 | 43 | 4星 |
 | Ykenai | `a7f4c320-5137-4cfd-b522-52e951026caf` | 20260815044 | 44 | 4星 |
 | Nest | `de7af180-4027-4b64-a5c5-9c7c1ac271ae` | 20260815045 | 45 | 3星 |
 | Geoffrey of York | `8a4656fa-331c-4054-ab20-c1deefbd5844` | 20260815046 | 46 | 6星 |
 | William Longespee | `b9d986e1-2e99-4889-a02d-d72391b216cd` | 20260815047 | 47 | 7星 |
 | Morgan FitzRoy | `d3b4b5d0-b6ac-4319-831a-d186be9e3bc3` | 20260815048 | 48 | 5星 |
-| Rollo | `97cf6de4-4f41-4ebe-8034-85fc0f1bf90e` | 20260815049 | 49 | 8星 |
-| Guillaume Longue-Épée | `88618620-6fc3-4058-8fa5-475bd0363c94` | 20260815050 | 50 | 8星 |
-| Richard I of Normandy | `f9226738-a160-482d-9fe8-dbf10b285845` | 20260815051 | 51 | 8星 |
+| Rollo | `97cf6de4-4f41-4ebe-8034-85fc0f1bf90e` | 20260815049 | 49 | 7星 |
+| Guillaume Longue-Épée | `88618620-6fc3-4058-8fa5-475bd0363c94` | 20260815050 | 50 | 7星 |
+| Richard I of Normandy | `f9226738-a160-482d-9fe8-dbf10b285845` | 20260815051 | 51 | 7星 |
 | Alfred the Great | `aed34407-7ca3-4fcc-9255-ce1b908f9b72` | 20260815052 | 52 | 9星 |
 | Edward the Elder | `9e63e9bd-e794-4cf3-9c41-5aff3c81c29f` | 20260815053 | 53 | 8星 |
-| Æthelstan | `02155361-a928-4fb6-990e-a3ac713e56c2` | 20260816001 | 54 | 9星 |
+| Æthelstan | `02155361-a928-4fb6-990e-a3ac713e56c2` | 20260816001 | 54 | 8星 |
 | Eadred | `5e4fb7fc-d6a4-488d-ba0e-c10a3ee41f4f` | 20260816002 | 55 | 7星 |
 | Eadgifu of Wessex | `73149398-824b-4a24-958e-812f8db08c68` | 20260816003 | 56 | 5星 |
 | Ælfgifu of Wessex | `97d321e2-bdc2-4089-9354-d990153212ff` | 20260816004 | 57 | 3星 |
 | Eadgyth of Wessex | `9b63d20d-6b16-4569-b2cf-86a9a180a715` | 20260816005 | 58 | 5星 |
-| Edmund I | `6a820f17-48e1-4927-b3f6-3471625acd47` | 20260816006 | 59 | 8星 |
+| Edmund I | `6a820f17-48e1-4927-b3f6-3471625acd47` | 20260816006 | 59 | 7星 |
 | Edgar the Peaceful | `eceed220-7a02-42dd-99cb-3420f16e2cf6` | 20260816007 | 60 | 8星 |
 | Aethelred II | `ed0b5627-f0d9-4c85-ac64-26c1c4c3e4b2` | 20260816008 | 61 | 8星 |
-| Edmund II | `84d16e93-3a36-46a7-b7b9-b237dc38dfc6` | 20260816009 | 62 | 8星 |
-| Edward the Exile | `f030fca1-dfca-4a37-ba90-5222605ea831` | 20260816010 | 63 | 8星 |
+| Edmund II | `84d16e93-3a36-46a7-b7b9-b237dc38dfc6` | 20260816009 | 62 | 7星 |
+| Edward the Exile | `f030fca1-dfca-4a37-ba90-5222605ea831` | 20260816010 | 63 | 7星 |
 | Saint Margaret of Scotland | `73169d74-c7ee-4e7d-9711-74b9272ab00c` | 20260816011 | 64 | 8星 |
 | Matilda of Scotland | `8c48b7d7-e2bb-42f8-8c68-ce449b147eb0` | 20260816012 | 65 | 8星 |
 | Elizabeth of York | `6c6619a1-067a-4f2b-a410-c882d6b794f7` | 20260816013 | 66 | 8星 |
@@ -96,17 +96,17 @@
 | Philippe II Augustus | `7cc009b6-08d8-459b-b40e-2921bf3e4580` | 20260816034 | 87 | 9星 |
 | Adèle of Champagne | `c029f7d9-d6a1-4c57-b2f7-d847392cdbd7` | 20260816035 | 88 | 6星 |
 | Agnès of France | `608bccd6-7be9-4a60-9dbd-7187e866df83` | 20260816036 | 89 | 4星 |
-| Hugh the Great | `ea16a35b-9d3b-44c8-b8c3-72598e0e4362` | 20260816037 | 90 | 8星 |
+| Hugh the Great | `ea16a35b-9d3b-44c8-b8c3-72598e0e4362` | 20260816037 | 90 | 7星 |
 | Béatrice of Vermandois | `bda45606-c290-4f2a-8425-3c974a91ee60` | 20260816038 | 91 | 7星 |
 | Herbert I of Vermandois | `61fe4e30-9ec1-4495-8c4c-caf8df47c913` | 20260816039 | 92 | 6星 |
 | Pepin of Vermandois | `f1f472eb-b141-42d4-9590-bc9700c40e6f` | 20260816040 | 93 | 6星 |
 | Bernard of Italy | `ca47aef7-9566-469b-acb4-098529825888` | 20260816041 | 94 | 7星 |
-| Pepin of Italy | `ed8b06b2-bcbf-46ba-b032-6ef61d9bdd2a` | 20260816042 | 95 | 8星 |
+| Pepin of Italy | `ed8b06b2-bcbf-46ba-b032-6ef61d9bdd2a` | 20260816042 | 95 | 7星 |
 | Charlemagne | `02b8c87d-6e49-4027-a6fa-a92431160a38` | 20260816043 | 96 | 10星 |
 | Pepin the Short | `cb48dbe9-8595-447c-a44d-a7d26a024c20` | 20260816044 | 97 | 8星 |
 | Charles Martel | `ba95e60e-88bf-4cbb-9efa-f8a4769d13db` | 20260816045 | 98 | 8星 |
-| Æthelwulf | `019f2067-839d-4480-b345-744fb9af428b` | 20260816046 | 99 | 8星 |
-| Ecgberht | `a82fd20d-3b23-44dd-9009-4f0184844ced` | 20260816047 | 100 | 8星 |
+| Æthelwulf | `019f2067-839d-4480-b345-744fb9af428b` | 20260816046 | 99 | 7星 |
+| Ecgberht | `a82fd20d-3b23-44dd-9009-4f0184844ced` | 20260816047 | 100 | 7星 |
 | Ealhmund of Kent | `39188f42-f280-495b-804b-747314aca718` | 20260816048 | 101 | 6星 |
 | Æthelstan of Wessex | `d1e0d029-8a32-4592-a4ad-7d0743d7b792` | 20260816049 | 102 | 3星 |
 | Æthelbald of Wessex | `c19deaa7-e7ab-4a50-8fe1-a2d24dfa80bf` | 20260816050 | 103 | 5星 |
@@ -140,22 +140,22 @@
 | Marie of France | `3daa50c7-45fe-447c-8ba1-4852a562bc32` | 20260817025 | 131 | 5星 |
 | Philippe Hurepel | `0d0f0049-4607-44b9-ab23-ff16f500f9f0` | 20260817026 | 132 | 6星 |
 | Pierre Charlot | `2ecb4f64-5c5b-4628-9440-52ec01c88965` | 20260817027 | 133 | 5星 |
-| Louis IX | `91f35e74-2dd3-4393-9858-0fc6b5acc537` | 20260817028 | 134 | 10星 |
+| Louis IX | `91f35e74-2dd3-4393-9858-0fc6b5acc537` | 20260817028 | 134 | 9星 |
 | Philippe III | `97ff73e2-e417-4fb3-8b15-90514584a442` | 20260817029 | 135 | 7星 |
-| Philippe IV | `699ff54a-5291-422d-8621-d0a127c5d24c` | 20260817030 | 136 | 9星 |
+| Philippe IV | `699ff54a-5291-422d-8621-d0a127c5d24c` | 20260817030 | 136 | 8星 |
 | Louis X | `f0d935d4-8efa-482c-bccb-ac105babc10d` | 20260817031 | 137 | 7星 |
 | John I | `39979ed9-fafd-48f0-96d7-30f40e80f51b` | 20260817032 | 138 | 5星 |
 | Philippe V | `f57da4e3-19a4-4087-8cf4-613a2ff0bc1f` | 20260817033 | 139 | 7星 |
-| Charles IV | `da988cef-12ff-4b79-afad-70d0565b976e` | 20260817034 | 140 | 8星 |
-| Godwin | `acb44ca3-5936-4d3b-875a-0d485f5bcc70` | 20260817035 | 141 | 8星 |
-| Harold II | `131aba03-2d7b-4ae3-8d16-b7ebd660ce6c` | 20260817036 | 142 | 10星 |
-| Edward the Confessor | `a9d5b087-d9a5-4970-8f5c-6701fdb0463c` | 20260817037 | 143 | 10星 |
-| Louis I | `648b3003-e95f-4d08-b36d-cb115b14c7c9` | 20260817038 | 144 | 9星 |
+| Charles IV | `da988cef-12ff-4b79-afad-70d0565b976e` | 20260817034 | 140 | 7星 |
+| Godwin | `acb44ca3-5936-4d3b-875a-0d485f5bcc70` | 20260817035 | 141 | 7星 |
+| Harold II | `131aba03-2d7b-4ae3-8d16-b7ebd660ce6c` | 20260817036 | 142 | 9星 |
+| Edward the Confessor | `a9d5b087-d9a5-4970-8f5c-6701fdb0463c` | 20260817037 | 143 | 9星 |
+| Louis I | `648b3003-e95f-4d08-b36d-cb115b14c7c9` | 20260817038 | 144 | 8星 |
 | Eadwig | `40c3aefb-37eb-48eb-8e56-e22733674533` | 20260817039 | 145 | 6星 |
 | Edward the Martyr | `84ce52d6-91bf-47fb-afa1-5f869f20fbf6` | 20260817040 | 146 | 7星 |
 | Sweyn Forkbeard | `01da1402-5d85-4186-859a-34f8cb06182d` | 20260817041 | 147 | 8星 |
 | Cnut the Great | `0fb64530-ea06-47ec-9570-6166155b53ba` | 20260817042 | 148 | 9星 |
-| Emma of Normandy | `11999429-e764-4ed2-9c8c-cf95cfbbdecc` | 20260817043 | 149 | 9星 |
+| Emma of Normandy | `11999429-e764-4ed2-9c8c-cf95cfbbdecc` | 20260817043 | 149 | 8星 |
 | Harold Harefoot | `d539abe5-c27d-4b1a-a3b3-e16d93ce2344` | 20260817044 | 150 | 6星 |
 | Harthacnut | `0a5b30a1-051e-41ea-a10a-1c37ce523603` | 20260817045 | 151 | 7星 |
 | Stephen | `8da6a92d-40c5-47c0-8c42-9858db5cf61d` | 20260817046 | 152 | 7星 |
@@ -201,7 +201,7 @@
 | Catherine of Valois | `13bf8c44-3cf2-45e5-9d97-47c1e912c094` | 20260818033 | 192 | 7星 |
 | Philippa of Hainault | `ecd24389-ba7c-40f0-a0a4-4635da2e4385` | 20260818034 | 193 | 7星 |
 | Margaret of France | `5ec00674-3326-46d8-b0fb-11d3a319d440` | 20260818035 | 194 | 6星 |
-| Harald Bluetooth | `ca7b3d35-0d29-4a9b-bf79-7d87046adaee` | 20260818036 | 195 | 8星 |
+| Harald Bluetooth | `ca7b3d35-0d29-4a9b-bf79-7d87046adaee` | 20260818036 | 195 | 7星 |
 | Ælfgifu of Northampton | `282ca949-3e4e-460c-b438-2c40887812e4` | 20260818037 | 196 | 5星 |
 | Gunnor | `5f92a3cf-4044-4892-8f05-d8959a80451d` | 20260818038 | 197 | 5星 |
 | Svein Knutsson | `5e955633-278a-4885-9d19-41012011016c` | 20260818039 | 198 | 5星 |
@@ -266,11 +266,34 @@
 | Mary of Guelders | `619c6c80-d85a-47e6-a1f3-cd3dd4769a51` | 20260819045 | 257 | 5星 |
 | Margaret of Denmark | `31b9d25c-7816-49a5-a0d2-41dd07ba5b47` | 20260819046 | 258 | 5星 |
 | Margaret Tudor | `d68e6d12-f78b-45c9-ab9d-27faba1b1e11` | 20260819047 | 259 | 6星 |
+| Otto I | `71af1f0a-5840-4a9c-817f-12fef6beadf8` | 20260819048 | 260 | 9星 |
+| Otto II | `1f2ffcc9-06a9-4bea-8be0-96255c8b3d20` | 20260819049 | 261 | 7星 |
+| Otto III | `a9229a63-1732-42dc-b814-9b3a3fbe0cf8` | 20260819050 | 262 | 7星 |
+| Heinrich II | `e767d216-846b-41d1-8f38-8b2a300dc290` | 20260819051 | 263 | 7星 |
+| Conrad II | `f1675c1f-68d7-43cb-b465-842711cbc175` | 20260820001 | 264 | 7星 |
+| Heinrich III | `3067525b-9ffb-43a7-bb87-0a582c20a7fa` | 20260820002 | 265 | 7星 |
+| Heinrich IV | `3dd7dc1c-7473-495d-aac7-0c145d147ed9` | 20260820003 | 266 | 8星 |
+| Conrad I | `c1691953-df47-4261-81cc-8e8e4bb54373` | 20260820004 | 267 | 6星 |
+| Henry the Fowler | `30214525-d401-49d6-bdb6-2eb0788c1bf1` | 20260820005 | 268 | 7星 |
+| Lothair III | `d177d56f-bfee-4ad1-8aa4-bd1b09df2a8a` | 20260820006 | 269 | 6星 |
+| Conrad III | `b9252f8f-d6cd-48eb-8a6a-8072d819d78e` | 20260820007 | 270 | 6星 |
+| Frederick I Barbarossa | `727f5266-97af-45ee-8a21-c986aaf039dd` | 20260820008 | 271 | 8星 |
+| Heinrich VI | `0ab7ebf5-061d-4668-8554-ba7b6fbd01f7` | 20260820009 | 272 | 7星 |
+| Philip of Swabia | `186da770-6a93-4236-b48f-6fd705cdbcf4` | 20260820010 | 273 | 6星 |
+| Otto IV | `0b708330-7b13-45ad-88a9-22e8e6e79fe8` | 20260820011 | 274 | 6星 |
+| Frederick II | `ea19e505-86fe-4cb7-8e55-c42e9f0ebfd3` | 20260820012 | 275 | 8星 |
+| Conrad IV | `4c68ef70-d950-4e5d-8106-80c28800a522` | 20260820013 | 276 | 6星 |
+| Rudolf I | `268c6586-a041-4aa7-9d66-92a7af3c4ac6` | 20260820014 | 277 | 7星 |
+| Adolf | `0f0e4af2-bb30-4f4b-9487-f3cd1770da56` | 20260820015 | 278 | 6星 |
+| Albert I | `6ca48b05-8d0d-4206-8812-31e49f7b5d35` | 20260820016 | 279 | 6星 |
+| Heinrich VII | `ec618819-cd33-44bb-b8f8-fb50e97cbdb9` | 20260820017 | 280 | 7星 |
+| Ludwig IV | `02a7f7ff-44ee-4cf7-b770-fe1ea9a59893` | 20260820018 | 281 | 7星 |
+| Karl IV | `80b3801a-ffca-4136-ba92-293b6b976e85` | 20260820019 | 282 | 8星 |
 
 ## 校验结果
 
-- manifest.json 中人员数：259
-- log 中人员数：259
+- manifest.json 中人员数：282
+- log 中人员数：282
 - UUID 全部唯一：是
 - 缺卡：0；缺自定义序号：0；缺评分：0
 - 自定义序号格式：YYYYMMDDNNN，每日从 001 起连续

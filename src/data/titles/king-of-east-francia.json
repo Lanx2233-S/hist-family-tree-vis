@@ -1,0 +1,100 @@
+{
+  "id": "babe48fc-6f3b-4cad-bfdb-765ecfe381ba",
+  "canonicalName": "King of East Francia",
+  "canonicalNameCn": "东法兰克国王",
+  "form": "evolving",
+  "aliases": [],
+  "nameForms": [
+    {
+      "name": "King of East Francia",
+      "nameCn": "东法兰克国王",
+      "fromYear": "",
+      "untilYear": 962,
+      "note": "East Francia, the realm that became the Kingdom of Germany and the Holy Roman Empire.",
+      "noteCn": "东法兰克，其后演变为德意志王国与神圣罗马帝国。"
+    }
+  ],
+  "holders": [
+    {
+      "kind": "person",
+      "personId": "140ea34c-2546-4e55-bed6-fa8b7fbd9848",
+      "startYear": 843,
+      "endYear": 876,
+      "titleForm": "King of East Francia",
+      "note": "First king of East Francia after the Treaty of Verdun.",
+      "noteCn": "《凡尔登条约》后首任东法兰克国王。"
+    },
+    {
+      "kind": "person",
+      "personId": "ff4072e3-38b6-4d6f-8803-f1e744c1dbd0",
+      "startYear": 876,
+      "endYear": 880,
+      "titleForm": "King of East Francia",
+      "note": "Co-king in Bavaria.",
+      "noteCn": "巴伐利亚共治国王。"
+    },
+    {
+      "kind": "person",
+      "personId": "70503c44-4af8-4101-9f2f-1a2d98eb1b55",
+      "startYear": 876,
+      "endYear": 882,
+      "titleForm": "King of East Francia",
+      "note": "Co-king in Saxony and Franconia, then sole king.",
+      "noteCn": "萨克森与法兰克尼亚共治，后为唯一国王。"
+    },
+    {
+      "kind": "person",
+      "personId": "fc980fe9-6d96-4750-9b7f-cbc58b65bfd8",
+      "startYear": 882,
+      "endYear": 887,
+      "titleForm": "King of East Francia",
+      "note": "Reunited East Francia.",
+      "noteCn": "重新统一东法兰克。"
+    },
+    {
+      "kind": "person",
+      "personId": "c31e84ad-65e3-40b3-90a7-9f860e5a9dca",
+      "startYear": 887,
+      "endYear": 899,
+      "titleForm": "King of East Francia",
+      "note": "Deposed Charles the Fat.",
+      "noteCn": "废黜胖子查理。"
+    },
+    {
+      "kind": "person",
+      "personId": "a67a7687-135d-4c5d-b061-c2fae4277b40",
+      "startYear": 899,
+      "endYear": 911,
+      "titleForm": "King of East Francia",
+      "note": "Last Carolingian king of East Francia.",
+      "noteCn": "东法兰克末代加洛林国王。"
+    },
+    {
+      "kind": "person",
+      "personId": "c1691953-df47-4261-81cc-8e8e4bb54373",
+      "startYear": 911,
+      "endYear": 918,
+      "titleForm": "King of East Francia",
+      "note": "First non-Carolingian king.",
+      "noteCn": "首位非加洛林国王。"
+    },
+    {
+      "kind": "person",
+      "personId": "30214525-d401-49d6-bdb6-2eb0788c1bf1",
+      "startYear": 919,
+      "endYear": 936,
+      "titleForm": "King of East Francia",
+      "note": "First Ottonian king.",
+      "noteCn": "首任奥托王朝国王。"
+    },
+    {
+      "kind": "person",
+      "personId": "71af1f0a-5840-4a9c-817f-12fef6beadf8",
+      "startYear": 936,
+      "endYear": 962,
+      "titleForm": "King of East Francia",
+      "note": "Last king of East Francia; became Holy Roman Emperor in 962.",
+      "noteCn": "末代东法兰克国王，962 年成为神圣罗马帝国皇帝。"
+    }
+  ]
+}
