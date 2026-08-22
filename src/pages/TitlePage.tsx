@@ -8,9 +8,17 @@ import kingOfFranceData from "../data/titles/king-of-france.json";
 import kingOfScotlandData from "../data/titles/kingdom-of-scotland.json";
 import holyRomanEmperorData from "../data/titles/holy-roman-emperor.json";
 import kingOfEastFranciaData from "../data/titles/king-of-east-francia.json";
+import kingdomOfSicilyData from "../data/titles/kingdom-of-sicily.json";
+import duchyOfBurgundyData from "../data/titles/duchy-of-burgundy.json";
+import duchyOfNormandyData from "../data/titles/duchy-of-normandy.json";
+import countyOfChampagneData from "../data/titles/county-of-champagne.json";
+import kingOfNavarreData from "../data/titles/king-of-navarre.json";
+import duchyOfAquitaineData from "../data/titles/duchy-of-aquitaine.json";
+import countyOfToulouseData from "../data/titles/county-of-toulouse.json";
+import countyOfAnjouData from "../data/titles/county-of-anjou.json";
 
 type TitleHolder =
-  | { kind?: "person"; personId: string; startYear: number | ""; endYear: number | ""; titleForm: string; note: string; noteCn: string; }
+  | { kind?: "person"; personId: string; startYear: number | ""; endYear: number | ""; titleForm: string; note: string; noteCn: string; tierOverride?: string; }
   | { kind: "gap"; personId: null; startYear: number | ""; endYear: number | ""; titleForm: string; titleFormCn: string; note: string; noteCn: string; arrowNote?: string; arrowNoteCn?: string; sideNote?: string; sideNoteCn?: string; };
 
 type TitleLineage = {
@@ -29,6 +37,14 @@ const kingOfFrance = kingOfFranceData as unknown as TitleLineage;
 const kingOfScotland = kingOfScotlandData as unknown as TitleLineage;
 const holyRomanEmperor = holyRomanEmperorData as unknown as TitleLineage;
 const kingOfEastFrancia = kingOfEastFranciaData as unknown as TitleLineage;
+const kingdomOfSicily = kingdomOfSicilyData as unknown as TitleLineage;
+const duchyOfBurgundy = duchyOfBurgundyData as unknown as TitleLineage;
+const duchyOfNormandy = duchyOfNormandyData as unknown as TitleLineage;
+const countyOfChampagne = countyOfChampagneData as unknown as TitleLineage;
+const kingOfNavarre = kingOfNavarreData as unknown as TitleLineage;
+const duchyOfAquitaine = duchyOfAquitaineData as unknown as TitleLineage;
+const countyOfToulouse = countyOfToulouseData as unknown as TitleLineage;
+const countyOfAnjou = countyOfAnjouData as unknown as TitleLineage;
 
 type LineageEntry = {
   lineage: TitleLineage;
@@ -36,14 +52,23 @@ type LineageEntry = {
   nameCn: string;
   anchorId: string;
   isDefault: boolean;
+  directoryGroup: "kingdom" | "fief";
 };
 
 const LINEAGES: LineageEntry[] = [
-  { lineage: kingOfEngland, name: "Kingdom of England", nameCn: "英格兰王国", anchorId: "21b5ec21-1812-4731-8b03-721988be302f", isDefault: true },
-  { lineage: kingOfFrance, name: "Kingdom of France", nameCn: "法兰西王国", anchorId: "7cc009b6-08d8-459b-b40e-2921bf3e4580", isDefault: true },
-  { lineage: kingOfScotland, name: "Kingdom of Scotland", nameCn: "苏格兰王国", anchorId: "086c99e5-0a45-493c-aee1-4dc08057197f", isDefault: false },
-  { lineage: holyRomanEmperor, name: "Holy Roman Empire", nameCn: "神圣罗马帝国", anchorId: "3dd7dc1c-7473-495d-aac7-0c145d147ed9", isDefault: true },
-  { lineage: kingOfEastFrancia, name: "East Francia", nameCn: "东法兰克", anchorId: "140ea34c-2546-4e55-bed6-fa8b7fbd9848", isDefault: false },
+  { lineage: kingOfEngland, name: "Kingdom of England", nameCn: "英格兰王国", anchorId: "21b5ec21-1812-4731-8b03-721988be302f", isDefault: true, directoryGroup: "kingdom" },
+  { lineage: kingOfFrance, name: "Kingdom of France", nameCn: "法兰西王国", anchorId: "7cc009b6-08d8-459b-b40e-2921bf3e4580", isDefault: true, directoryGroup: "kingdom" },
+  { lineage: kingOfScotland, name: "Kingdom of Scotland", nameCn: "苏格兰王国", anchorId: "086c99e5-0a45-493c-aee1-4dc08057197f", isDefault: false, directoryGroup: "kingdom" },
+  { lineage: holyRomanEmperor, name: "Holy Roman Empire", nameCn: "神圣罗马帝国", anchorId: "3dd7dc1c-7473-495d-aac7-0c145d147ed9", isDefault: true, directoryGroup: "kingdom" },
+  { lineage: kingOfEastFrancia, name: "East Francia", nameCn: "东法兰克", anchorId: "140ea34c-2546-4e55-bed6-fa8b7fbd9848", isDefault: false, directoryGroup: "kingdom" },
+  { lineage: kingdomOfSicily, name: "Kingdom of Sicily", nameCn: "西西里王国", anchorId: "5b57dd7c-5717-4f3a-8a6c-e8c26a2bbaef", isDefault: false, directoryGroup: "kingdom" },
+  { lineage: duchyOfBurgundy, name: "Duchy of Burgundy", nameCn: "勃艮第公国", anchorId: duchyOfBurgundy.holders[0].personId ?? "", isDefault: false, directoryGroup: "fief" },
+  { lineage: duchyOfNormandy, name: "Duchy of Normandy", nameCn: "诺曼底公国", anchorId: duchyOfNormandy.holders[0].personId ?? "", isDefault: false, directoryGroup: "fief" },
+  { lineage: countyOfChampagne, name: "County of Champagne", nameCn: "香槟伯国", anchorId: "c7080000-0000-4000-8000-000000000008", isDefault: false, directoryGroup: "fief" },
+  { lineage: kingOfNavarre, name: "Kingdom of Navarre", nameCn: "纳瓦拉王国", anchorId: kingOfNavarre.holders[0].personId ?? "", isDefault: false, directoryGroup: "kingdom" },
+  { lineage: duchyOfAquitaine, name: "Duchy of Aquitaine", nameCn: "阿基坦公国", anchorId: duchyOfAquitaine.holders[0].personId ?? "", isDefault: false, directoryGroup: "fief" },
+  { lineage: countyOfToulouse, name: "County of Toulouse", nameCn: "图卢兹伯国", anchorId: "c9040000-0000-4000-8000-000000000004", isDefault: false, directoryGroup: "fief" },
+  { lineage: countyOfAnjou, name: "County of Anjou", nameCn: "安茹伯国", anchorId: "cc0cb400-e684-4bdb-b477-9a8fb578f4f5", isDefault: false, directoryGroup: "fief" },
 ];
 
 export function TitlePage({
@@ -73,6 +98,7 @@ export function TitlePage({
   const [detailHistory, setDetailHistory] = useState<string[]>([]);
   const [zoom, setZoom] = useState(1);
   const [isLineageOpen, setLineageOpen] = useState(Boolean(initialPersonId));
+  const [isDirectoryOpen, setDirectoryOpen] = useState(false);
   const [titleSearch, setTitleSearch] = useState("");
   const titleShellRef = useRef<HTMLDivElement | null>(null);
 
@@ -85,12 +111,17 @@ export function TitlePage({
       .some((label) => label.toLocaleLowerCase().includes(titleQuery));
 
   const visibleLineages = LINEAGES.filter((entry) => (titleQuery ? isLineageVisible(entry) : entry.isDefault));
+  const lineageStartYear = (lineage: TitleLineage) => Number(lineage.nameForms[0]?.fromYear || lineage.holders[0]?.startYear || Infinity);
+  const directoryLineages = (group: LineageEntry["directoryGroup"]) => LINEAGES
+    .filter((entry) => !entry.isDefault && entry.directoryGroup === group)
+    .sort((a, b) => lineageStartYear(a.lineage) - lineageStartYear(b.lineage));
 
   function openLineage(entry: LineageEntry) {
     setActiveEntry(entry);
     setDetailPersonId(entry.anchorId);
     setDetailHistory([]);
     setZoom(1);
+    setDirectoryOpen(false);
     setLineageOpen(true);
   }
 
@@ -118,7 +149,6 @@ export function TitlePage({
   return (
     <main className="title-page">
       <div className="title-page-topbar">
-        <p className="eyebrow">{t.titleLineage}</p>
         <div className="topbar-actions">
           <PageTabs page="titles" onHome={onHome} onTree={onTree} onTitles={() => { setLineageOpen(false); setTitleSearch(""); }} />
           <div className="language-toggle" aria-label={t.language}>
@@ -203,7 +233,7 @@ export function TitlePage({
                   <div className="title-holder-row">
                     <button
                       type="button"
-                      className={`title-person-node tier-${titleTier(person)} ${person.tags.includes("illegitimate") ? "illegitimate" : ""} ${detailPersonId === person.id ? "selected" : ""}`}
+                      className={`title-person-node tier-${holder.tierOverride ?? titleTier(person)} ${person.tags.includes("illegitimate") ? "illegitimate" : ""} ${detailPersonId === person.id ? "selected" : ""}`}
                       onClick={() => selectHolder(person.id)}
                       aria-label={`${t.select} ${label.fullName}`}
                     >
@@ -235,15 +265,20 @@ export function TitlePage({
             <h1>{t.titleLineage}</h1>
             <p className="title-intro">{t.titleIntro}</p>
           </header>
-          <label className="title-search-field">
-            <span aria-hidden="true">⌕</span>
-            <input
-              value={titleSearch}
-              onChange={(event) => setTitleSearch(event.target.value)}
-              placeholder={t.searchTitles}
-              aria-label={t.searchTitles}
-            />
-          </label>
+          <div className="title-catalog-search-row">
+            <label className="title-search-field">
+              <span aria-hidden="true">⌕</span>
+              <input
+                value={titleSearch}
+                onChange={(event) => setTitleSearch(event.target.value)}
+                placeholder={t.searchTitles}
+                aria-label={t.searchTitles}
+              />
+            </label>
+            <button type="button" className="title-directory-button" onClick={() => setDirectoryOpen(true)} aria-haspopup="dialog">
+              <span aria-hidden="true">☷</span>{t.titleDirectory}
+            </button>
+          </div>
           <div className="title-catalog-results">
             {visibleLineages.length > 0 ? (
               visibleLineages.map((entry) => (
@@ -254,6 +289,34 @@ export function TitlePage({
               ))
             ) : <p className="title-search-empty">{t.noMatchingTitles}</p>}
           </div>
+          {isDirectoryOpen && (
+            <div className="modal-backdrop title-directory-backdrop" role="presentation" onClick={() => setDirectoryOpen(false)}>
+              <section className="timeline-modal title-directory-modal" role="dialog" aria-modal="true" aria-label={t.titleDirectory} onClick={(event) => event.stopPropagation()}>
+                <header className="modal-header">
+                  <div>
+                    <p className="eyebrow">{t.titleLineage}</p>
+                    <h3>{t.titleDirectory}</h3>
+                  </div>
+                  <button type="button" onClick={() => setDirectoryOpen(false)}>{t.close}</button>
+                </header>
+                <p className="title-directory-hint">{t.titleDirectoryHint}</p>
+                {(["kingdom", "fief"] as const).map((group) => {
+                  const entries = directoryLineages(group);
+                  return <section key={group} className="title-directory-group">
+                    <h4>{group === "kingdom" ? t.titleDirectoryKingdoms : t.titleDirectoryFiefs}</h4>
+                    <div className="title-directory-list">
+                      {entries.length > 0 ? entries.map((entry) => (
+                        <button key={entry.lineage.id} type="button" className="title-directory-entry" onClick={() => openLineage(entry)}>
+                          <span>{entry.name}</span>
+                          <small>{entry.nameCn} · {lineageStartYear(entry.lineage)} · {entry.lineage.form}</small>
+                        </button>
+                      )) : <p className="title-search-empty">{t.noAdditionalTitles}</p>}
+                    </div>
+                  </section>;
+                })}
+              </section>
+            </div>
+          )}
         </section>
       )}
     </main>

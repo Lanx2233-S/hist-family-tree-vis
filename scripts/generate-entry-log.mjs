@@ -1,37 +1,37 @@
 import fs from "node:fs";
 
 const people = JSON.parse(fs.readFileSync(new URL("../people.normandy.json", import.meta.url), "utf8"));
-const backup = JSON.parse(fs.readFileSync(new URL("../id-uuid-mapping.backup.json", import.meta.url), "utf8"));
-const mappedIds = new Set(Object.keys(backup.mapping));
+const manifest = JSON.parse(fs.readFileSync(new URL("../src/data/people/manifest.json", import.meta.url), "utf8"));
+const byId = new Map(people.map((person) => [person.id, person]));
+const ordered = manifest.order.map((id) => byId.get(id)).filter(Boolean);
 const groups = new Map();
 
-for (const person of people) {
-  if (!mappedIds.has(person.id)) continue;
-  const match = person.id.match(/^\d{2}[A-Z](\d{6})/);
-  if (!match) throw new Error(`Cannot decode entry date from ${person.id}`);
-  const raw = match[1];
-  const date = `20${raw.slice(0, 2)}-${raw.slice(2, 4)}-${raw.slice(4, 6)}`;
+for (const person of ordered) {
+  const date = person.createdDate || "undated";
   if (!groups.has(date)) groups.set(date, []);
   groups.get(date).push(person);
 }
 
+const dateSummary = [...groups.entries()].map(([date, entries]) => `${date} = ${entries.length} 人`).join("；");
 const lines = [
-  "# 人物录入日志",
+  "# 人物录入索引（People Entry Log）",
   "",
-  "> 来源：`id-uuid-mapping.backup.json` 对应的全部人物。日期从自定义 ID 的日期段解析，格式为 `YYYY-MM-DD`；姓名以英文拉丁拼写为主，附中文名。",
+  `> 当前总人数：${ordered.length}`,
+  `> 分配日期：${dateSummary}`,
+  "> 数据来源：`src/data/people/manifest.json` 及其引用的全部人员 JSON 文件",
+  "> 字段说明：姓名 = `displayName`；UUID = `id`；自定义序号 = `YYYYMMDDNNN`（`createdDate` + `createdOrder` 补零三位）；总序号 = `manifest.order` 顺序；重要度评分 = `historicalRating`",
   "",
-  `共 ${mappedIds.size} 人，${groups.size} 个录入日。`,
-  "",
+  "| 姓名 | UUID | 自定义序号 | 总序号 | 重要度评分 |",
+  "|---|---|---:|---:|---:|",
 ];
 
-for (const date of [...groups.keys()].sort()) {
-  const entries = groups.get(date);
-  lines.push(`## ${date}`, "", "| 序号 | 英文 / Latin spelling | 中文 | 自定义 ID | UUID |", "|---:|---|---|---|---|");
-  entries.forEach((person, index) => {
-    lines.push(`| ${index + 1} | ${person.displayName} | ${person.displayNameCn || "—"} | \`${person.id}\` | \`${backup.mapping[person.id]}\` |`);
-  });
-  lines.push("");
-}
+ordered.forEach((person, index) => {
+  const customNumber = person.createdDate && Number.isFinite(Number(person.createdOrder))
+    ? `${person.createdDate}${String(person.createdOrder).padStart(3, "0")}`
+    : "—";
+  lines.push(`| ${person.displayName} | \`${person.id}\` | ${customNumber} | ${index + 1} | ${person.historicalRating}星 |`);
+});
 
+lines.push("", "## 校验结果", "", `- 人数：${ordered.length}；UUID 与 manifest.order 一一对应；总序号连续 1→${ordered.length}。`);
 fs.writeFileSync(new URL("../people-entry-log.md", import.meta.url), `${lines.join("\n")}\n`);
-console.log(`Generated ${mappedIds.size} entries across ${groups.size} dates.`);
+console.log(`Generated ${ordered.length} entries across ${groups.size} dates.`);

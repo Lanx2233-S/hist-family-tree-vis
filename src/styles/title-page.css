@@ -6,12 +6,14 @@
   overflow-x: hidden;
   padding: clamp(16px, 2.5vw, 28px);
   background:
-    radial-gradient(circle at 24% 24%, rgba(183, 139, 67, 0.24), transparent 28%),
-    radial-gradient(circle at 78% 18%, rgba(126, 34, 34, 0.18), transparent 30%),
-    linear-gradient(160deg, #fdf7ea 0%, #efe4d0 100%);
+    radial-gradient(circle at 24% 24%, var(--page-glow-one), transparent 28%),
+    radial-gradient(circle at 78% 18%, var(--page-glow-two), transparent 30%),
+    linear-gradient(160deg, color-mix(in srgb, var(--page-base) 60%, white) 0%, var(--page-base) 100%);
 }
 
 .title-page-topbar {
+  position: relative;
+  z-index: 70;
   display: flex;
   align-items: center;
   justify-content: flex-start;
@@ -82,6 +84,89 @@
 
 .title-search-field input::placeholder {
   color: #9d917f;
+}
+
+.title-catalog-search-row {
+  display: flex;
+  align-items: stretch;
+  gap: 10px;
+  width: min(100%, 660px);
+}
+
+.title-catalog-search-row .title-search-field {
+  flex: 1 1 360px;
+}
+
+.title-directory-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 7px;
+  border: 1px solid #6f2026;
+  border-radius: 8px;
+  padding: 10px 14px;
+  background: #6f2026;
+  color: #fff8e8;
+  cursor: pointer;
+  font: inherit;
+  font-weight: 800;
+  white-space: nowrap;
+  box-shadow: 0 8px 24px rgba(55, 35, 20, 0.12);
+}
+
+.title-directory-button:hover { background: #8b312d; }
+
+.title-directory-modal { width: min(620px, 100%); }
+
+.title-directory-hint {
+  margin: 0 0 16px;
+  color: #6f5a3c;
+  font-weight: 600;
+}
+
+.title-directory-list {
+  display: grid;
+  gap: 9px;
+}
+
+.title-directory-group {
+  display: grid;
+  gap: 8px;
+}
+
+.title-directory-group + .title-directory-group { margin-top: 18px; }
+
+.title-directory-group h4 {
+  margin: 0;
+  color: #6f2026;
+  font-size: 0.82rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.title-directory-entry {
+  display: grid;
+  gap: 3px;
+  border: 1px solid rgba(139, 107, 67, 0.58);
+  border-radius: 8px;
+  padding: 12px 14px;
+  background: rgba(255, 248, 232, 0.68);
+  color: #332115;
+  cursor: pointer;
+  font: inherit;
+  font-weight: 800;
+  text-align: left;
+}
+
+.title-directory-entry:hover {
+  border-color: #6f2026;
+  background: #fff8e8;
+}
+
+.title-directory-entry small {
+  color: #6f5a3c;
+  font-size: 0.8rem;
+  font-weight: 700;
 }
 
 .title-catalog-results {
@@ -453,6 +538,7 @@
 .title-person-node.tier-supreme-king:not(.illegitimate) { background: #283b72; color: #fff; }
 .title-person-node.tier-france-queen:not(.illegitimate) { background: #aab8d6; color: #26324f; }
 .title-person-node.tier-queen-consort:not(.illegitimate) { background: #c98288; color: #4f2027; }
+.title-person-node.tier-queen-regnant:not(.illegitimate) { background: #bd6d73; color: #fff; }
 .title-person-node.tier-king:not(.illegitimate),
 .title-person-node.tier-grand-duke:not(.illegitimate) { background: #6f2026; color: #fff; }
 .title-person-node.tier-duke:not(.illegitimate) { background: #9cc4d6; color: #22170f; }
@@ -545,6 +631,8 @@
     text-align: center;
     transform: none;
   }
+  .title-catalog-search-row { flex-direction: column; }
+  .title-directory-button { width: 100%; }
 }
 
 /* Succession-interregnum placeholder — same box as a person node but

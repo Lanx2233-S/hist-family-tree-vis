@@ -1,0 +1,113 @@
+{
+  "id": "b4d6b5c0-d1ea-4d4c-af7a-1c903a3b315d",
+  "canonicalName": "County of Anjou",
+  "canonicalNameCn": "安茹伯国",
+  "form": "hereditary county",
+  "aliases": [
+    "Count of Anjou",
+    "Anjou",
+    "Comté d'Anjou"
+  ],
+  "nameForms": [
+    {
+      "name": "County of Anjou",
+      "nameCn": "安茹伯国",
+      "fromYear": 929,
+      "untilYear": 1189,
+      "note": "The first Angevin house, from Foulques I to Henry II.",
+      "noteCn": "第一安茹家族，自富尔克一世至亨利二世。"
+    }
+  ],
+  "holders": [
+    {
+      "kind": "person",
+      "personId": "c9220000-0000-4000-8000-000000000018",
+      "startYear": 929,
+      "endYear": 942,
+      "titleForm": "Count of Anjou",
+      "note": "Succeeded as Count of Anjou.",
+      "noteCn": "继任安茹伯爵。"
+    },
+    {
+      "kind": "person",
+      "personId": "c9230000-0000-4000-8000-000000000019",
+      "startYear": 942,
+      "endYear": 960,
+      "titleForm": "Count of Anjou",
+      "note": "Succeeded as Count of Anjou.",
+      "noteCn": "继任安茹伯爵。"
+    },
+    {
+      "kind": "person",
+      "personId": "c9240000-0000-4000-8000-000000000020",
+      "startYear": 960,
+      "endYear": 987,
+      "titleForm": "Count of Anjou",
+      "note": "Succeeded as Count of Anjou.",
+      "noteCn": "继任安茹伯爵。"
+    },
+    {
+      "kind": "person",
+      "personId": "c9250000-0000-4000-8000-000000000021",
+      "startYear": 987,
+      "endYear": 1040,
+      "titleForm": "Count of Anjou",
+      "note": "Succeeded as Count of Anjou.",
+      "noteCn": "继任安茹伯爵。"
+    },
+    {
+      "kind": "person",
+      "personId": "c9260000-0000-4000-8000-000000000022",
+      "startYear": 1040,
+      "endYear": 1060,
+      "titleForm": "Count of Anjou",
+      "note": "Succeeded as Count of Anjou.",
+      "noteCn": "继任安茹伯爵。"
+    },
+    {
+      "kind": "person",
+      "personId": "c9280000-0000-4000-8000-000000000024",
+      "startYear": 1060,
+      "endYear": 1068,
+      "titleForm": "Count of Anjou",
+      "note": "Succeeded as Count of Anjou.",
+      "noteCn": "继任安茹伯爵。"
+    },
+    {
+      "kind": "person",
+      "personId": "c9290000-0000-4000-8000-000000000025",
+      "startYear": 1068,
+      "endYear": 1109,
+      "titleForm": "Count of Anjou",
+      "note": "Succeeded as Count of Anjou.",
+      "noteCn": "继任安茹伯爵。"
+    },
+    {
+      "kind": "person",
+      "personId": "c9300000-0000-4000-8000-000000000026",
+      "startYear": 1109,
+      "endYear": 1129,
+      "titleForm": "Count of Anjou",
+      "note": "Succeeded as Count of Anjou.",
+      "noteCn": "继任安茹伯爵。"
+    },
+    {
+      "kind": "person",
+      "personId": "cc0cb400-e684-4bdb-b477-9a8fb578f4f5",
+      "startYear": 1129,
+      "endYear": 1151,
+      "titleForm": "Count of Anjou",
+      "note": "Succeeded Foulques V before uniting Anjou with Normandy through his marriage to Matilda.",
+      "noteCn": "继承富尔克五世；后通过与玛蒂尔达的婚姻将安茹与诺曼底结合。"
+    },
+    {
+      "kind": "person",
+      "personId": "29e2abba-321e-4090-a35d-10f0bd6a420a",
+      "startYear": 1151,
+      "endYear": 1189,
+      "titleForm": "Count of Anjou",
+      "note": "Succeeded his father Geoffrey V; became King of England in 1154.",
+      "noteCn": "继承父亲若弗鲁瓦五世；1154 年成为英格兰国王。"
+    }
+  ]
+}

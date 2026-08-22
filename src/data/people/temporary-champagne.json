@@ -1,0 +1,1140 @@
+[
+  {
+    "id": "c7010000-0000-4000-8000-000000000001",
+    "firstName": "Stephen I of Troyes",
+    "lastName": "Champagne",
+    "displayName": "Stephen I of Troyes",
+    "fullName": "Stephen I, Count of Troyes",
+    "displayNameCn": "斯蒂芬一世（特鲁瓦）",
+    "fullNameCn": "Stephen I, Count of Troyes",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 970,
+    "deathYear": 1022,
+    "birthPlace": "County of Champagne",
+    "birthPlaceCn": "香槟伯国",
+    "deathPlace": "France",
+    "deathPlaceCn": "法兰西",
+    "gender": "male",
+    "dynasty": "House of Blois",
+    "house": "House of Blois",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Troyes",
+    "primaryTitleCn": "Count of Troyes",
+    "titles": [
+      {
+        "title": "Count of Troyes",
+        "titleCn": "Count of Troyes",
+        "startYear": 995,
+        "endYear": 1022
+      }
+    ],
+    "tags": [
+      "count",
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 70,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 995,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 72,
+        "label": "Succeeded as Count of Troyes",
+        "labelCn": "继承Count of Troyes",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Champagne"
+      },
+      {
+        "year": 1022,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 60,
+        "label": "Died",
+        "labelCn": "去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Champagne"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Champagne",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Count_of_Champagne",
+    "sourceNote": "Basic lineage card for the Champagne succession.",
+    "notes": "Added for the searchable Champagne lineage; family links will be refined with the title chain.",
+    "createdDate": "20260821",
+    "createdOrder": 2
+  },
+  {
+    "id": "c7020000-0000-4000-8000-000000000002",
+    "firstName": "Odo I of Meaux",
+    "lastName": "Champagne",
+    "displayName": "Odo I of Meaux",
+    "fullName": "Odo I, Count of Meaux and Troyes",
+    "displayNameCn": "厄德一世（莫城与特鲁瓦）",
+    "fullNameCn": "Odo I, Count of Meaux and Troyes",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 997,
+    "deathYear": 1037,
+    "birthPlace": "County of Champagne",
+    "birthPlaceCn": "香槟伯国",
+    "deathPlace": "France",
+    "deathPlaceCn": "法兰西",
+    "gender": "male",
+    "dynasty": "House of Blois",
+    "house": "House of Blois",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Meaux and Troyes",
+    "primaryTitleCn": "Count of Meaux and Troyes",
+    "titles": [
+      {
+        "title": "Count of Meaux and Troyes",
+        "titleCn": "Count of Meaux and Troyes",
+        "startYear": 1022,
+        "endYear": 1037
+      }
+    ],
+    "tags": [
+      "count",
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 70,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1022,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 72,
+        "label": "Succeeded as Count of Meaux and Troyes",
+        "labelCn": "继承Count of Meaux and Troyes",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Champagne"
+      },
+      {
+        "year": 1037,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 60,
+        "label": "Died",
+        "labelCn": "去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Champagne"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Champagne",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Count_of_Champagne",
+    "sourceNote": "Basic lineage card for the Champagne succession.",
+    "notes": "Added for the searchable Champagne lineage; family links will be refined with the title chain.",
+    "createdDate": "20260821",
+    "createdOrder": 3
+  },
+  {
+    "id": "c7030000-0000-4000-8000-000000000003",
+    "firstName": "Stephen II of Meaux",
+    "lastName": "Champagne",
+    "displayName": "Stephen II of Meaux",
+    "fullName": "Stephen II, Count of Meaux",
+    "displayNameCn": "斯蒂芬二世（莫城）",
+    "fullNameCn": "Stephen II, Count of Meaux",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1012,
+    "deathYear": 1048,
+    "birthPlace": "County of Champagne",
+    "birthPlaceCn": "香槟伯国",
+    "deathPlace": "France",
+    "deathPlaceCn": "法兰西",
+    "gender": "male",
+    "dynasty": "House of Blois",
+    "house": "House of Blois",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Meaux",
+    "primaryTitleCn": "Count of Meaux",
+    "titles": [
+      {
+        "title": "Count of Meaux",
+        "titleCn": "Count of Meaux",
+        "startYear": 1037,
+        "endYear": 1048
+      }
+    ],
+    "tags": [
+      "count",
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 70,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1037,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 72,
+        "label": "Succeeded as Count of Meaux",
+        "labelCn": "继承Count of Meaux",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Champagne"
+      },
+      {
+        "year": 1048,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 60,
+        "label": "Died",
+        "labelCn": "去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Champagne"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Champagne",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Count_of_Champagne",
+    "sourceNote": "Basic lineage card for the Champagne succession.",
+    "notes": "Added for the searchable Champagne lineage; family links will be refined with the title chain.",
+    "createdDate": "20260821",
+    "createdOrder": 4
+  },
+  {
+    "id": "c7040000-0000-4000-8000-000000000004",
+    "firstName": "Odo II of Troyes",
+    "lastName": "Champagne",
+    "displayName": "Odo II of Troyes",
+    "fullName": "Odo II, Count of Troyes",
+    "displayNameCn": "厄德二世（特鲁瓦）",
+    "fullNameCn": "Odo II, Count of Troyes",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1023,
+    "deathYear": 1066,
+    "birthPlace": "County of Champagne",
+    "birthPlaceCn": "香槟伯国",
+    "deathPlace": "France",
+    "deathPlaceCn": "法兰西",
+    "gender": "male",
+    "dynasty": "House of Blois",
+    "house": "House of Blois",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Troyes",
+    "primaryTitleCn": "Count of Troyes",
+    "titles": [
+      {
+        "title": "Count of Troyes",
+        "titleCn": "Count of Troyes",
+        "startYear": 1048,
+        "endYear": 1066
+      }
+    ],
+    "tags": [
+      "count",
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 70,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1048,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 72,
+        "label": "Succeeded as Count of Troyes",
+        "labelCn": "继承Count of Troyes",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Champagne"
+      },
+      {
+        "year": 1066,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 60,
+        "label": "Died",
+        "labelCn": "去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Champagne"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Champagne",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Count_of_Champagne",
+    "sourceNote": "Basic lineage card for the Champagne succession.",
+    "notes": "Added for the searchable Champagne lineage; family links will be refined with the title chain.",
+    "createdDate": "20260821",
+    "createdOrder": 5
+  },
+  {
+    "id": "c7050000-0000-4000-8000-000000000005",
+    "firstName": "Theobald I of Champagne",
+    "lastName": "Champagne",
+    "displayName": "Theobald I of Champagne",
+    "fullName": "Theobald I, Count of Champagne",
+    "displayNameCn": "蒂博一世（香槟）",
+    "fullNameCn": "Theobald I, Count of Champagne",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1041,
+    "deathYear": 1089,
+    "birthPlace": "County of Champagne",
+    "birthPlaceCn": "香槟伯国",
+    "deathPlace": "France",
+    "deathPlaceCn": "法兰西",
+    "gender": "male",
+    "dynasty": "House of Blois",
+    "house": "House of Blois",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Champagne",
+    "primaryTitleCn": "Count of Champagne",
+    "titles": [
+      {
+        "title": "Count of Champagne",
+        "titleCn": "Count of Champagne",
+        "startYear": 1066,
+        "endYear": 1089
+      }
+    ],
+    "tags": [
+      "count",
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 70,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1066,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 72,
+        "label": "Succeeded as Count of Champagne",
+        "labelCn": "继承Count of Champagne",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Champagne"
+      },
+      {
+        "year": 1089,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 60,
+        "label": "Died",
+        "labelCn": "去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Champagne"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Champagne",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Count_of_Champagne",
+    "sourceNote": "Basic lineage card for the Champagne succession.",
+    "notes": "Added for the searchable Champagne lineage; family links will be refined with the title chain.",
+    "createdDate": "20260821",
+    "createdOrder": 6
+  },
+  {
+    "id": "c7060000-0000-4000-8000-000000000006",
+    "firstName": "Stephen-Henry of Blois",
+    "lastName": "Champagne",
+    "displayName": "Stephen-Henry of Blois",
+    "fullName": "Stephen-Henry, Count of Blois and Chartres",
+    "displayNameCn": "斯蒂芬·亨利（布卢瓦）",
+    "fullNameCn": "Stephen-Henry, Count of Blois and Chartres",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1064,
+    "deathYear": 1102,
+    "birthPlace": "County of Champagne",
+    "birthPlaceCn": "香槟伯国",
+    "deathPlace": "France",
+    "deathPlaceCn": "法兰西",
+    "gender": "male",
+    "dynasty": "House of Blois",
+    "house": "House of Blois",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Blois and Chartres",
+    "primaryTitleCn": "Count of Blois and Chartres",
+    "titles": [
+      {
+        "title": "Count of Blois and Chartres",
+        "titleCn": "Count of Blois and Chartres",
+        "startYear": 1089,
+        "endYear": 1102
+      }
+    ],
+    "tags": [
+      "count",
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 70,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1089,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 72,
+        "label": "Succeeded as Count of Blois and Chartres",
+        "labelCn": "继承Count of Blois and Chartres",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Champagne"
+      },
+      {
+        "year": 1102,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 60,
+        "label": "Died",
+        "labelCn": "去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Champagne"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Champagne",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Count_of_Champagne",
+    "sourceNote": "Basic lineage card for the Champagne succession.",
+    "notes": "Added for the searchable Champagne lineage; family links will be refined with the title chain.",
+    "createdDate": "20260821",
+    "createdOrder": 7
+  },
+  {
+    "id": "c7070000-0000-4000-8000-000000000007",
+    "firstName": "Hugh of Champagne",
+    "lastName": "Champagne",
+    "displayName": "Hugh of Champagne",
+    "fullName": "Hugh, Count of Troyes",
+    "displayNameCn": "于格（特鲁瓦）",
+    "fullNameCn": "Hugh, Count of Troyes",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1077,
+    "deathYear": 1125,
+    "birthPlace": "County of Champagne",
+    "birthPlaceCn": "香槟伯国",
+    "deathPlace": "France",
+    "deathPlaceCn": "法兰西",
+    "gender": "male",
+    "dynasty": "House of Blois",
+    "house": "House of Blois",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Troyes",
+    "primaryTitleCn": "Count of Troyes",
+    "titles": [
+      {
+        "title": "Count of Troyes",
+        "titleCn": "Count of Troyes",
+        "startYear": 1102,
+        "endYear": 1125
+      }
+    ],
+    "tags": [
+      "count",
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 70,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1102,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 72,
+        "label": "Succeeded as Count of Troyes",
+        "labelCn": "继承Count of Troyes",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Champagne"
+      },
+      {
+        "year": 1125,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 60,
+        "label": "Died",
+        "labelCn": "去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Champagne"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Champagne",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Count_of_Champagne",
+    "sourceNote": "Basic lineage card for the Champagne succession.",
+    "notes": "Added for the searchable Champagne lineage; family links will be refined with the title chain.",
+    "createdDate": "20260821",
+    "createdOrder": 8
+  },
+  {
+    "id": "c7080000-0000-4000-8000-000000000008",
+    "firstName": "Theobald II of Champagne",
+    "lastName": "Champagne",
+    "displayName": "Theobald II of Champagne",
+    "fullName": "Theobald II, Count of Champagne",
+    "displayNameCn": "蒂博二世（香槟）",
+    "fullNameCn": "Theobald II, Count of Champagne",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1100,
+    "deathYear": 1152,
+    "birthPlace": "County of Champagne",
+    "birthPlaceCn": "香槟伯国",
+    "deathPlace": "France",
+    "deathPlaceCn": "法兰西",
+    "gender": "male",
+    "dynasty": "House of Blois-Champagne",
+    "house": "House of Blois-Champagne",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Champagne",
+    "primaryTitleCn": "Count of Champagne",
+    "titles": [
+      {
+        "title": "Count of Champagne",
+        "titleCn": "Count of Champagne",
+        "startYear": 1125,
+        "endYear": 1152
+      }
+    ],
+    "tags": [
+      "count",
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 70,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1125,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 72,
+        "label": "Succeeded as Count of Champagne",
+        "labelCn": "继承Count of Champagne",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Champagne"
+      },
+      {
+        "year": 1152,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 60,
+        "label": "Died",
+        "labelCn": "去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Champagne"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Champagne",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Count_of_Champagne",
+    "sourceNote": "Basic lineage card for the Champagne succession.",
+    "notes": "Added for the searchable Champagne lineage; family links will be refined with the title chain.",
+    "createdDate": "20260821",
+    "createdOrder": 9
+  },
+  {
+    "id": "c7090000-0000-4000-8000-000000000009",
+    "firstName": "Henry I of Champagne",
+    "lastName": "Champagne",
+    "displayName": "Henry I of Champagne",
+    "fullName": "Henry I, Count of Champagne",
+    "displayNameCn": "亨利一世（香槟）",
+    "fullNameCn": "Henry I, Count of Champagne",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1127,
+    "deathYear": 1181,
+    "birthPlace": "County of Champagne",
+    "birthPlaceCn": "香槟伯国",
+    "deathPlace": "France",
+    "deathPlaceCn": "法兰西",
+    "gender": "male",
+    "dynasty": "House of Blois-Champagne",
+    "house": "House of Blois-Champagne",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Champagne",
+    "primaryTitleCn": "Count of Champagne",
+    "titles": [
+      {
+        "title": "Count of Champagne",
+        "titleCn": "Count of Champagne",
+        "startYear": 1152,
+        "endYear": 1181
+      }
+    ],
+    "tags": [
+      "count",
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 70,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1152,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 72,
+        "label": "Succeeded as Count of Champagne",
+        "labelCn": "继承Count of Champagne",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Champagne"
+      },
+      {
+        "year": 1181,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 60,
+        "label": "Died",
+        "labelCn": "去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Champagne"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Champagne",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Count_of_Champagne",
+    "sourceNote": "Basic lineage card for the Champagne succession.",
+    "notes": "Added for the searchable Champagne lineage; family links will be refined with the title chain.",
+    "createdDate": "20260821",
+    "createdOrder": 10
+  },
+  {
+    "id": "c7100000-0000-4000-8000-000000000010",
+    "firstName": "Henry II of Champagne",
+    "lastName": "Champagne",
+    "displayName": "Henry II of Champagne",
+    "fullName": "Henry II, Count of Champagne",
+    "displayNameCn": "亨利二世（香槟）",
+    "fullNameCn": "Henry II, Count of Champagne",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1156,
+    "deathYear": 1197,
+    "birthPlace": "County of Champagne",
+    "birthPlaceCn": "香槟伯国",
+    "deathPlace": "France",
+    "deathPlaceCn": "法兰西",
+    "gender": "male",
+    "dynasty": "House of Blois-Champagne",
+    "house": "House of Blois-Champagne",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Champagne",
+    "primaryTitleCn": "Count of Champagne",
+    "titles": [
+      {
+        "title": "Count of Champagne",
+        "titleCn": "Count of Champagne",
+        "startYear": 1181,
+        "endYear": 1197
+      }
+    ],
+    "tags": [
+      "count",
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 70,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1181,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 72,
+        "label": "Succeeded as Count of Champagne",
+        "labelCn": "继承Count of Champagne",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Champagne"
+      },
+      {
+        "year": 1197,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 60,
+        "label": "Died",
+        "labelCn": "去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Champagne"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Champagne",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Count_of_Champagne",
+    "sourceNote": "Basic lineage card for the Champagne succession.",
+    "notes": "Added for the searchable Champagne lineage; family links will be refined with the title chain.",
+    "createdDate": "20260821",
+    "createdOrder": 11
+  },
+  {
+    "id": "c7110000-0000-4000-8000-000000000011",
+    "firstName": "Theobald III of Champagne",
+    "lastName": "Champagne",
+    "displayName": "Theobald III of Champagne",
+    "fullName": "Theobald III, Count of Champagne",
+    "displayNameCn": "蒂博三世（香槟）",
+    "fullNameCn": "Theobald III, Count of Champagne",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1172,
+    "deathYear": 1201,
+    "birthPlace": "County of Champagne",
+    "birthPlaceCn": "香槟伯国",
+    "deathPlace": "France",
+    "deathPlaceCn": "法兰西",
+    "gender": "male",
+    "dynasty": "House of Blois-Champagne",
+    "house": "House of Blois-Champagne",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Champagne",
+    "primaryTitleCn": "Count of Champagne",
+    "titles": [
+      {
+        "title": "Count of Champagne",
+        "titleCn": "Count of Champagne",
+        "startYear": 1197,
+        "endYear": 1201
+      }
+    ],
+    "tags": [
+      "count",
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 70,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1197,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 72,
+        "label": "Succeeded as Count of Champagne",
+        "labelCn": "继承Count of Champagne",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Champagne"
+      },
+      {
+        "year": 1201,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 60,
+        "label": "Died",
+        "labelCn": "去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Champagne"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Champagne",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Count_of_Champagne",
+    "sourceNote": "Basic lineage card for the Champagne succession.",
+    "notes": "Added for the searchable Champagne lineage; family links will be refined with the title chain.",
+    "createdDate": "20260821",
+    "createdOrder": 12
+  },
+  {
+    "id": "c7120000-0000-4000-8000-000000000012",
+    "firstName": "Theobald I of Navarre",
+    "lastName": "Champagne",
+    "displayName": "Theobald I of Navarre",
+    "fullName": "Theobald I, King of Navarre and Count of Champagne",
+    "displayNameCn": "蒂博一世（纳瓦拉）",
+    "fullNameCn": "Theobald I, King of Navarre and Count of Champagne",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1176,
+    "deathYear": 1253,
+    "birthPlace": "County of Champagne",
+    "birthPlaceCn": "香槟伯国",
+    "deathPlace": "France",
+    "deathPlaceCn": "法兰西",
+    "gender": "male",
+    "dynasty": "House of Blois-Champagne",
+    "house": "House of Blois-Champagne",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "King of Navarre",
+    "primaryTitleCn": "纳瓦拉国王",
+    "titles": [
+      {
+        "title": "Count of Champagne",
+        "titleCn": "香槟伯爵",
+        "startYear": 1201,
+        "endYear": 1253
+      },
+      {
+        "title": "King of Navarre",
+        "titleCn": "纳瓦拉国王",
+        "startYear": 1234,
+        "endYear": 1253
+      }
+    ],
+    "tags": [
+      "count",
+      "noble"
+    ],
+    "rank": "king",
+    "importanceScore": 70,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1201,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 72,
+        "label": "Succeeded as King of Navarre / Count of Champagne",
+        "labelCn": "继承King of Navarre / Count of Champagne",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Champagne"
+      },
+      {
+        "year": 1253,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 60,
+        "label": "Died",
+        "labelCn": "去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Champagne"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Champagne",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Count_of_Champagne",
+    "sourceNote": "Basic lineage card for the Champagne succession.",
+    "notes": "Added for the searchable Champagne lineage; family links will be refined with the title chain.",
+    "createdDate": "20260821",
+    "createdOrder": 13
+  },
+  {
+    "id": "c7130000-0000-4000-8000-000000000013",
+    "firstName": "Theobald II of Navarre",
+    "lastName": "Champagne",
+    "displayName": "Theobald II of Navarre",
+    "fullName": "Theobald II, King of Navarre and Count of Champagne",
+    "displayNameCn": "蒂博二世（纳瓦拉）",
+    "fullNameCn": "Theobald II, King of Navarre and Count of Champagne",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1228,
+    "deathYear": 1270,
+    "birthPlace": "County of Champagne",
+    "birthPlaceCn": "香槟伯国",
+    "deathPlace": "France",
+    "deathPlaceCn": "法兰西",
+    "gender": "male",
+    "dynasty": "House of Blois-Champagne",
+    "house": "House of Blois-Champagne",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "King of Navarre",
+    "primaryTitleCn": "纳瓦拉国王",
+    "titles": [
+      {
+        "title": "Count of Champagne",
+        "titleCn": "香槟伯爵",
+        "startYear": 1253,
+        "endYear": 1270
+      },
+      {
+        "title": "King of Navarre",
+        "titleCn": "纳瓦拉国王",
+        "startYear": 1253,
+        "endYear": 1270
+      }
+    ],
+    "tags": [
+      "count",
+      "noble"
+    ],
+    "rank": "king",
+    "importanceScore": 70,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1253,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 72,
+        "label": "Succeeded as King of Navarre / Count of Champagne",
+        "labelCn": "继承King of Navarre / Count of Champagne",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Champagne"
+      },
+      {
+        "year": 1270,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 60,
+        "label": "Died",
+        "labelCn": "去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Champagne"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Champagne",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Count_of_Champagne",
+    "sourceNote": "Basic lineage card for the Champagne succession.",
+    "notes": "Added for the searchable Champagne lineage; family links will be refined with the title chain.",
+    "createdDate": "20260821",
+    "createdOrder": 14
+  },
+  {
+    "id": "c7140000-0000-4000-8000-000000000014",
+    "firstName": "Henry I of Navarre",
+    "lastName": "Champagne",
+    "displayName": "Henry I of Navarre",
+    "fullName": "Henry I, King of Navarre and Count of Champagne",
+    "displayNameCn": "亨利一世（纳瓦拉）",
+    "fullNameCn": "Henry I, King of Navarre and Count of Champagne",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1245,
+    "deathYear": 1274,
+    "birthPlace": "County of Champagne",
+    "birthPlaceCn": "香槟伯国",
+    "deathPlace": "France",
+    "deathPlaceCn": "法兰西",
+    "gender": "male",
+    "dynasty": "House of Blois-Champagne",
+    "house": "House of Blois-Champagne",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "King of Navarre",
+    "primaryTitleCn": "纳瓦拉国王",
+    "titles": [
+      {
+        "title": "Count of Champagne",
+        "titleCn": "香槟伯爵",
+        "startYear": 1270,
+        "endYear": 1274
+      },
+      {
+        "title": "King of Navarre",
+        "titleCn": "纳瓦拉国王",
+        "startYear": 1270,
+        "endYear": 1274
+      }
+    ],
+    "tags": [
+      "count",
+      "noble"
+    ],
+    "rank": "king",
+    "importanceScore": 70,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1270,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 72,
+        "label": "Succeeded as King of Navarre / Count of Champagne",
+        "labelCn": "继承King of Navarre / Count of Champagne",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Champagne"
+      },
+      {
+        "year": 1274,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 60,
+        "label": "Died",
+        "labelCn": "去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Champagne"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Champagne",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Count_of_Champagne",
+    "sourceNote": "Basic lineage card for the Champagne succession.",
+    "notes": "Added for the searchable Champagne lineage; family links will be refined with the title chain.",
+    "createdDate": "20260821",
+    "createdOrder": 15
+  }
+]

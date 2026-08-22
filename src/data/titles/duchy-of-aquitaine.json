@@ -1,0 +1,23 @@
+{
+  "id": "a3f6c3d1-3f51-4a5e-b7bc-9c0b2e8e4f11",
+  "canonicalName": "Duchy of Aquitaine",
+  "canonicalNameCn": "阿基坦公国",
+  "form": "hereditary duchy",
+  "aliases": ["Duke of Aquitaine", "Duchess of Aquitaine", "Aquitaine", "Duchy of Guyenne"],
+  "nameForms": [
+    {"name":"Duchy of Aquitaine","nameCn":"阿基坦公国","fromYear":990,"untilYear":1204,"note":"The Poitiers line held Aquitaine alongside the county of Poitiers; the title later passed through the Angevin and English royal house.","noteCn":"普瓦捷家族与普瓦捷伯国并持阿基坦；后来该头衔经安茹和英格兰王室传承。"}
+  ],
+  "holders": [
+    {"kind":"person","personId":"7c8abb64-bed3-454b-9fb3-b4c16b6ccf9c","startYear":990,"endYear":1030,"titleForm":"Duke of Aquitaine","note":"Succeeded Guilhem IV Fierabras.","noteCn":"继承吉耶姆四世。","tierOverride":"duke"},
+    {"kind":"person","personId":"fcad4d48-4b44-49df-b2da-9cdfc0daa708","startYear":1030,"endYear":1038,"titleForm":"Duke of Aquitaine","note":"Succeeded Guilhem V.","noteCn":"继承吉耶姆五世。","tierOverride":"duke"},
+    {"kind":"person","personId":"5a4206df-24a9-4d12-a44d-770c0e803ba8","startYear":1038,"endYear":1039,"titleForm":"Duke of Aquitaine","note":"Succeeded Guilhem VI.","noteCn":"继承吉耶姆六世。","tierOverride":"duke"},
+    {"kind":"person","personId":"e3b35bf6-5798-4c8a-8eca-f541d2d7d12f","startYear":1039,"endYear":1058,"titleForm":"Duke of Aquitaine","note":"Succeeded Odo of Gascony.","noteCn":"继承加斯科涅的厄德。","tierOverride":"duke"},
+    {"kind":"person","personId":"b2bd4758-f667-458b-953b-8d3785b8b387","startYear":1058,"endYear":1086,"titleForm":"Duke of Aquitaine","note":"Succeeded Guilhem VII.","noteCn":"继承吉耶姆七世。","tierOverride":"duke"},
+    {"kind":"person","personId":"07e299dc-0bb7-4219-ac2f-1d94d0475ecb","startYear":1086,"endYear":1127,"titleForm":"Duke of Aquitaine","note":"Succeeded Guilhem VIII; father of Guilhem X.","noteCn":"继承吉耶姆八世；为吉耶姆十世之父。","tierOverride":"duke"},
+    {"kind":"person","personId":"391d79fe-1ce8-47ac-8eea-781b3a14f7bd","startYear":1126,"endYear":1137,"titleForm":"Duke of Aquitaine","note":"Succeeded Guilhem IX.","noteCn":"继承吉耶姆九世。","tierOverride":"duke"},
+    {"kind":"person","personId":"cbb11a70-0b0f-40ca-b9c6-95426b904bf6","startYear":1137,"endYear":1204,"titleForm":"Duchess of Aquitaine","note":"Succeeded Guilhem X; mother of Richard I and John.","noteCn":"继承吉耶姆十世；为理查一世与约翰之母。","tierOverride":"queen-regnant"},
+    {"kind":"person","personId":"29e2abba-321e-4090-a35d-10f0bd6a420a","startYear":1152,"endYear":1189,"titleForm":"Duke of Aquitaine","note":"Held Aquitaine through his marriage to Eleanor.","noteCn":"通过与埃莉诺的婚姻持有阿基坦。","tierOverride":"duke"},
+    {"kind":"person","personId":"b8d3addb-be4b-43ca-9ebc-f70c1864685b","startYear":1172,"endYear":1199,"titleForm":"Duke of Aquitaine","note":"Succeeded Henry II as duke in his mother's lifetime.","noteCn":"在母亲仍在世时继承亨利二世成为公爵。","tierOverride":"duke"},
+    {"kind":"person","personId":"6e154ae2-a354-40fc-bdc8-104ef378f743","startYear":1199,"endYear":1204,"titleForm":"Duke of Aquitaine","note":"Succeeded Richard I; retained the English-held lands in Aquitaine after the loss of Normandy.","noteCn":"继承理查一世；诺曼底失守后仍持有英格兰在阿基坦的领地。","tierOverride":"duke"}
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "7d7cc5c1-8d22-4de6-9a3a-2d3f0b3e7f42",
+  "canonicalName": "Duchy of Normandy",
+  "canonicalNameCn": "诺曼底公国",
+  "form": "hereditary duchy",
+  "aliases": ["Duke of Normandy", "Duchy of Normandy", "Normandy"],
+  "nameForms": [
+    {
+      "name": "Duchy of Normandy",
+      "nameCn": "诺曼底公国",
+      "fromYear": 911,
+      "untilYear": 1204,
+      "note": "The Norman principality, conventionally dated from Rollo's settlement in 911 until Philip II's conquest of mainland Normandy.",
+      "noteCn": "诺曼底的诺曼公国，通常自罗洛于 911 年受封定居起，至腓力二世征服诺曼底大陆止。"
+    }
+  ],
+  "holders": [
+    {"kind":"person","personId":"97cf6de4-4f41-4ebe-8034-85fc0f1bf90e","startYear":911,"endYear":927,"titleForm":"Count of Rouen / Duke of Normandy","note":"Rollo, founder of the Norman principality.","noteCn":"罗洛，诺曼公国的奠基者。"},
+    {"kind":"person","personId":"88618620-6fc3-4058-8fa5-475bd0363c94","startYear":927,"endYear":942,"titleForm":"Count of Rouen / Duke of Normandy","note":"Succeeded Rollo.","noteCn":"继承罗洛。"},
+    {"kind":"person","personId":"f9226738-a160-482d-9fe8-dbf10b285845","startYear":942,"endYear":996,"titleForm":"Duke of Normandy","note":"Richard I the Fearless consolidated the duchy.","noteCn":"无畏者理查一世巩固了诺曼底公国。"},
+    {"kind":"person","personId":"0e597c77-dd0b-419c-9227-b56fb37e3b9d","startYear":996,"endYear":1026,"titleForm":"Duke of Normandy","note":"Succeeded Richard I.","noteCn":"继承理查一世。"},
+    {"kind":"person","personId":"1bb582c5-37e0-41ac-a945-513056827219","startYear":1026,"endYear":1027,"titleForm":"Duke of Normandy","note":"Succeeded Richard II; his reign was brief.","noteCn":"继承理查二世；在位时间很短。"},
+    {"kind":"person","personId":"da51f613-00e2-42ff-9027-a052fac5fc07","startYear":1027,"endYear":1035,"titleForm":"Duke of Normandy","note":"Succeeded his brother Richard III.","noteCn":"继承其兄理查三世。"},
+    {"kind":"person","personId":"21b5ec21-1812-4731-8b03-721988be302f","startYear":1035,"endYear":1087,"titleForm":"Duke of Normandy","note":"William the Conqueror.","noteCn":"征服者威廉。"},
+    {"kind":"person","personId":"bea83a88-2399-4eb7-a496-9cfcee8599a6","startYear":1087,"endYear":1106,"titleForm":"Duke of Normandy","note":"Robert Curthose, displaced after the Battle of Tinchebray.","noteCn":"罗贝尔·柯索斯，廷什布赖战役后失去公国。"},
+    {"kind":"person","personId":"576ee669-b638-4013-91cf-71f637200b83","startYear":1087,"endYear":1100,"titleForm":"Duke of Normandy","note":"Succeeded William the Conqueror.","noteCn":"继承征服者威廉。"},
+    {"kind":"person","personId":"90840bac-1589-4ba4-abfe-9189e6046b36","startYear":1100,"endYear":1135,"titleForm":"Duke of Normandy","note":"Seized Normandy from his brother Robert Curthose in 1106.","noteCn":"1106 年从其兄罗贝尔·柯索斯手中取得诺曼底。"},
+    {"kind":"person","personId":"8da6a92d-40c5-47c0-8c42-9858db5cf61d","startYear":1135,"endYear":1144,"titleForm":"Duke of Normandy","note":"Stephen held Normandy during the first phase of the Anarchy, until Rouen fell to Geoffrey V.","noteCn":"内战初期斯蒂芬控制诺曼底，直至鲁昂落入杰弗里五世之手。"},
+    {"kind":"person","personId":"cc0cb400-e684-4bdb-b477-9a8fb578f4f5","startYear":1144,"endYear":1150,"titleForm":"Duke of Normandy","note":"Geoffrey V conquered Normandy and ceded it to his son Henry.","noteCn":"杰弗里五世征服诺曼底，后将其让与儿子亨利。"},
+    {"kind":"person","personId":"29e2abba-321e-4090-a35d-10f0bd6a420a","startYear":1150,"endYear":1189,"titleForm":"Duke of Normandy","note":"Henry II held Normandy before becoming king of England.","noteCn":"亨利二世在成为英格兰国王前即持有诺曼底。"},
+    {"kind":"person","personId":"b8d3addb-be4b-43ca-9ebc-f70c1864685b","startYear":1189,"endYear":1199,"titleForm":"Duke of Normandy","note":"Succeeded Henry II.","noteCn":"继承亨利二世。"},
+    {"kind":"person","personId":"6e154ae2-a354-40fc-bdc8-104ef378f743","startYear":1199,"endYear":1204,"titleForm":"Duke of Normandy","note":"John was the last Plantagenet duke before Philip II's conquest of mainland Normandy.","noteCn":"约翰是腓力二世征服诺曼底大陆前最后一位金雀花王朝诺曼底公爵。"},
+    {"kind":"gap","personId":null,"startYear":1204,"endYear":"","titleForm":"Royal domain of France","titleFormCn":"法国王室领地","note":"Mainland Normandy was incorporated into the French royal domain; no autonomous duke followed.","noteCn":"诺曼底大陆并入法国王室领地，此后不再有自治公爵。"}
+  ]
+}

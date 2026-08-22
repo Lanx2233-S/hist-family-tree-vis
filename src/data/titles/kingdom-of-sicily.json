@@ -1,0 +1,84 @@
+{
+  "id": "f83595d1-2a99-4aa5-a20b-a1b2e892f0df",
+  "canonicalName": "King of Sicily",
+  "canonicalNameCn": "西西里国王",
+  "form": "evolving",
+  "aliases": [
+    "Queen of Sicily"
+  ],
+  "nameForms": [
+    {
+      "name": "King of Sicily",
+      "nameCn": "西西里国王",
+      "fromYear": 1130,
+      "untilYear": "",
+      "note": "Royal title created for Roger II in 1130.",
+      "noteCn": "1130 年为罗杰二世创设的王号。"
+    }
+  ],
+  "holders": [
+    {
+      "kind": "person",
+      "personId": "5b57dd7c-5717-4f3a-8a6c-e8c26a2bbaef",
+      "startYear": 1130,
+      "endYear": 1154,
+      "titleForm": "King of Sicily",
+      "note": "First king of Sicily.",
+      "noteCn": "首位西西里国王。"
+    },
+    {
+      "kind": "person",
+      "personId": "b066f7a9-db23-482c-8e80-22c5b2089b67",
+      "startYear": 1154,
+      "endYear": 1166,
+      "titleForm": "King of Sicily",
+      "note": "Succeeded Roger II.",
+      "noteCn": "继承罗杰二世。"
+    },
+    {
+      "kind": "person",
+      "personId": "55d06847-0466-4a44-87d6-8485201df97e",
+      "startYear": 1166,
+      "endYear": 1189,
+      "titleForm": "King of Sicily",
+      "note": "Succeeded William I.",
+      "noteCn": "继承威廉一世。"
+    },
+    {
+      "kind": "person",
+      "personId": "56a5b960-452f-44c5-a35e-7ec76203986b",
+      "startYear": 1189,
+      "endYear": 1194,
+      "titleForm": "King of Sicily",
+      "note": "Claimed the crown after William II died childless.",
+      "noteCn": "威廉二世无嗣去世后取得王位。"
+    },
+    {
+      "kind": "person",
+      "personId": "0f23644c-5c99-4db1-a275-c38ce809e088",
+      "startYear": 1194,
+      "endYear": 1194,
+      "titleForm": "King of Sicily",
+      "note": "Child king displaced by Henry VI and Constance.",
+      "noteCn": "幼年国王，后被海因里希六世和康斯坦丝取代。"
+    },
+    {
+      "kind": "person",
+      "personId": "6181b0ca-27a6-4f18-bd23-673f55652e23",
+      "startYear": 1194,
+      "endYear": 1198,
+      "titleForm": "Queen of Sicily",
+      "note": "Hauteville heiress and queen regnant.",
+      "noteCn": "欧特维尔继承人和在位女王。"
+    },
+    {
+      "kind": "person",
+      "personId": "ea19e505-86fe-4cb7-8e55-c42e9f0ebfd3",
+      "startYear": 1198,
+      "endYear": 1250,
+      "titleForm": "King of Sicily",
+      "note": "Succeeded his mother Constance.",
+      "noteCn": "继承母亲康斯坦丝。"
+    }
+  ]
+}

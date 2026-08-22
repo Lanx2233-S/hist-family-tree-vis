@@ -1,0 +1,972 @@
+[
+  {
+    "id": "31740822-29db-49b9-b121-a3fbcfbcf1b9",
+    "firstName": "Robert",
+    "lastName": "",
+    "displayName": "Robert I, Duke of Burgundy",
+    "fullName": "Robert I, Duke of Burgundy",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "Robert I, Duke of Burgundy",
+    "fullNameCn": "Robert I, Duke of Burgundy",
+    "nicknameCn": "",
+    "birthYear": 1011,
+    "deathYear": 1076,
+    "birthPlace": "Duchy of Burgundy",
+    "birthPlaceCn": "勃艮第公国",
+    "deathPlace": "Duchy of Burgundy",
+    "deathPlaceCn": "勃艮第公国",
+    "gender": "male",
+    "dynasty": "Elder House of Burgundy",
+    "house": "Elder House of Burgundy",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Duke of Burgundy",
+    "primaryTitleCn": "勃艮第公爵",
+    "titles": [
+      {
+        "title": "Duke of Burgundy",
+        "startYear": 1032,
+        "endYear": 1076,
+        "titleCn": "勃艮第公爵"
+      }
+    ],
+    "tags": [
+      "noble",
+      "duke"
+    ],
+    "rank": "duke",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "dababbbe-0820-4ae1-8b1a-344e45ac780d"
+      ]
+    },
+    "events": [
+      {
+        "year": 1011,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 50,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Robert_I,_Duke_of_Burgundy"
+      },
+      {
+        "year": 1076,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 65,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Robert_I,_Duke_of_Burgundy"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Robert_I,_Duke_of_Burgundy",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Robert_I,_Duke_of_Burgundy",
+    "sourceNote": "Basic titled card for the Elder House of Burgundy, 1032–1361.",
+    "notes": "Duke in the Capetian elder line of Burgundy.",
+    "createdDate": "20260820",
+    "createdOrder": 60
+  },
+  {
+    "id": "dababbbe-0820-4ae1-8b1a-344e45ac780d",
+    "firstName": "Hugh",
+    "lastName": "",
+    "displayName": "Hugh I, Duke of Burgundy",
+    "fullName": "Hugh I, Duke of Burgundy",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "Hugh I, Duke of Burgundy",
+    "fullNameCn": "Hugh I, Duke of Burgundy",
+    "nicknameCn": "",
+    "birthYear": 1057,
+    "deathYear": 1093,
+    "birthPlace": "Duchy of Burgundy",
+    "birthPlaceCn": "勃艮第公国",
+    "deathPlace": "Duchy of Burgundy",
+    "deathPlaceCn": "勃艮第公国",
+    "gender": "male",
+    "dynasty": "Elder House of Burgundy",
+    "house": "Elder House of Burgundy",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Duke of Burgundy",
+    "primaryTitleCn": "勃艮第公爵",
+    "titles": [
+      {
+        "title": "Duke of Burgundy",
+        "startYear": 1076,
+        "endYear": 1093,
+        "titleCn": "勃艮第公爵"
+      }
+    ],
+    "tags": [
+      "noble",
+      "duke"
+    ],
+    "rank": "duke",
+    "importanceScore": 40,
+    "historicalRating": 4,
+    "relationships": {
+      "fatherId": "31740822-29db-49b9-b121-a3fbcfbcf1b9",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "ae056255-47d3-4fd0-b259-fb30ec0da483"
+      ]
+    },
+    "events": [
+      {
+        "year": 1057,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 50,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Hugh_I,_Duke_of_Burgundy"
+      },
+      {
+        "year": 1093,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 65,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Hugh_I,_Duke_of_Burgundy"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Hugh_I,_Duke_of_Burgundy",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Hugh_I,_Duke_of_Burgundy",
+    "sourceNote": "Basic titled card for the Elder House of Burgundy, 1032–1361.",
+    "notes": "Duke in the Capetian elder line of Burgundy.",
+    "createdDate": "20260820",
+    "createdOrder": 61
+  },
+  {
+    "id": "ae056255-47d3-4fd0-b259-fb30ec0da483",
+    "firstName": "Odo",
+    "lastName": "",
+    "displayName": "Odo I, Duke of Burgundy",
+    "fullName": "Odo I, Duke of Burgundy",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "Odo I, Duke of Burgundy",
+    "fullNameCn": "Odo I, Duke of Burgundy",
+    "nicknameCn": "",
+    "birthYear": 1058,
+    "deathYear": 1102,
+    "birthPlace": "Duchy of Burgundy",
+    "birthPlaceCn": "勃艮第公国",
+    "deathPlace": "Duchy of Burgundy",
+    "deathPlaceCn": "勃艮第公国",
+    "gender": "male",
+    "dynasty": "Elder House of Burgundy",
+    "house": "Elder House of Burgundy",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Duke of Burgundy",
+    "primaryTitleCn": "勃艮第公爵",
+    "titles": [
+      {
+        "title": "Duke of Burgundy",
+        "startYear": 1093,
+        "endYear": 1102,
+        "titleCn": "勃艮第公爵"
+      }
+    ],
+    "tags": [
+      "noble",
+      "duke"
+    ],
+    "rank": "duke",
+    "importanceScore": 40,
+    "historicalRating": 4,
+    "relationships": {
+      "fatherId": "dababbbe-0820-4ae1-8b1a-344e45ac780d",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "2c48abbc-3f15-4af3-92ff-a0f747d9c6c8"
+      ]
+    },
+    "events": [
+      {
+        "year": 1058,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 50,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Odo_I,_Duke_of_Burgundy"
+      },
+      {
+        "year": 1102,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 65,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Odo_I,_Duke_of_Burgundy"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Odo_I,_Duke_of_Burgundy",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Odo_I,_Duke_of_Burgundy",
+    "sourceNote": "Basic titled card for the Elder House of Burgundy, 1032–1361.",
+    "notes": "Duke in the Capetian elder line of Burgundy.",
+    "createdDate": "20260820",
+    "createdOrder": 62
+  },
+  {
+    "id": "2c48abbc-3f15-4af3-92ff-a0f747d9c6c8",
+    "firstName": "Hugh",
+    "lastName": "",
+    "displayName": "Hugh II, Duke of Burgundy",
+    "fullName": "Hugh II, Duke of Burgundy",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "Hugh II, Duke of Burgundy",
+    "fullNameCn": "Hugh II, Duke of Burgundy",
+    "nicknameCn": "",
+    "birthYear": 1084,
+    "deathYear": 1143,
+    "birthPlace": "Duchy of Burgundy",
+    "birthPlaceCn": "勃艮第公国",
+    "deathPlace": "Duchy of Burgundy",
+    "deathPlaceCn": "勃艮第公国",
+    "gender": "male",
+    "dynasty": "Elder House of Burgundy",
+    "house": "Elder House of Burgundy",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Duke of Burgundy",
+    "primaryTitleCn": "勃艮第公爵",
+    "titles": [
+      {
+        "title": "Duke of Burgundy",
+        "startYear": 1102,
+        "endYear": 1143,
+        "titleCn": "勃艮第公爵"
+      }
+    ],
+    "tags": [
+      "noble",
+      "duke"
+    ],
+    "rank": "duke",
+    "importanceScore": 40,
+    "historicalRating": 4,
+    "relationships": {
+      "fatherId": "ae056255-47d3-4fd0-b259-fb30ec0da483",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "9df72ba4-11f5-4b7a-aa39-ae79f22dbaa6"
+      ]
+    },
+    "events": [
+      {
+        "year": 1084,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 50,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Hugh_II,_Duke_of_Burgundy"
+      },
+      {
+        "year": 1143,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 65,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Hugh_II,_Duke_of_Burgundy"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Hugh_II,_Duke_of_Burgundy",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Hugh_II,_Duke_of_Burgundy",
+    "sourceNote": "Basic titled card for the Elder House of Burgundy, 1032–1361.",
+    "notes": "Duke in the Capetian elder line of Burgundy.",
+    "createdDate": "20260820",
+    "createdOrder": 63
+  },
+  {
+    "id": "9df72ba4-11f5-4b7a-aa39-ae79f22dbaa6",
+    "firstName": "Odo",
+    "lastName": "",
+    "displayName": "Odo II, Duke of Burgundy",
+    "fullName": "Odo II, Duke of Burgundy",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "Odo II, Duke of Burgundy",
+    "fullNameCn": "Odo II, Duke of Burgundy",
+    "nicknameCn": "",
+    "birthYear": 1118,
+    "deathYear": 1162,
+    "birthPlace": "Duchy of Burgundy",
+    "birthPlaceCn": "勃艮第公国",
+    "deathPlace": "Duchy of Burgundy",
+    "deathPlaceCn": "勃艮第公国",
+    "gender": "male",
+    "dynasty": "Elder House of Burgundy",
+    "house": "Elder House of Burgundy",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Duke of Burgundy",
+    "primaryTitleCn": "勃艮第公爵",
+    "titles": [
+      {
+        "title": "Duke of Burgundy",
+        "startYear": 1143,
+        "endYear": 1162,
+        "titleCn": "勃艮第公爵"
+      }
+    ],
+    "tags": [
+      "noble",
+      "duke"
+    ],
+    "rank": "duke",
+    "importanceScore": 40,
+    "historicalRating": 4,
+    "relationships": {
+      "fatherId": "2c48abbc-3f15-4af3-92ff-a0f747d9c6c8",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "9f1b2277-395f-4b6b-99d7-79a2b208e05d"
+      ]
+    },
+    "events": [
+      {
+        "year": 1118,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 50,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Odo_II,_Duke_of_Burgundy"
+      },
+      {
+        "year": 1162,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 65,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Odo_II,_Duke_of_Burgundy"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Odo_II,_Duke_of_Burgundy",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Odo_II,_Duke_of_Burgundy",
+    "sourceNote": "Basic titled card for the Elder House of Burgundy, 1032–1361.",
+    "notes": "Duke in the Capetian elder line of Burgundy.",
+    "createdDate": "20260820",
+    "createdOrder": 64
+  },
+  {
+    "id": "9f1b2277-395f-4b6b-99d7-79a2b208e05d",
+    "firstName": "Hugh",
+    "lastName": "",
+    "displayName": "Hugh III, Duke of Burgundy",
+    "fullName": "Hugh III, Duke of Burgundy",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "Hugh III, Duke of Burgundy",
+    "fullNameCn": "Hugh III, Duke of Burgundy",
+    "nicknameCn": "",
+    "birthYear": 1142,
+    "deathYear": 1192,
+    "birthPlace": "Duchy of Burgundy",
+    "birthPlaceCn": "勃艮第公国",
+    "deathPlace": "Duchy of Burgundy",
+    "deathPlaceCn": "勃艮第公国",
+    "gender": "male",
+    "dynasty": "Elder House of Burgundy",
+    "house": "Elder House of Burgundy",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Duke of Burgundy",
+    "primaryTitleCn": "勃艮第公爵",
+    "titles": [
+      {
+        "title": "Duke of Burgundy",
+        "startYear": 1162,
+        "endYear": 1192,
+        "titleCn": "勃艮第公爵"
+      }
+    ],
+    "tags": [
+      "noble",
+      "duke"
+    ],
+    "rank": "duke",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "9df72ba4-11f5-4b7a-aa39-ae79f22dbaa6",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "a62660c8-4051-4ed1-9cad-0fa3510d19bb"
+      ]
+    },
+    "events": [
+      {
+        "year": 1142,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 50,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Hugh_III,_Duke_of_Burgundy"
+      },
+      {
+        "year": 1192,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 65,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Hugh_III,_Duke_of_Burgundy"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Hugh_III,_Duke_of_Burgundy",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Hugh_III,_Duke_of_Burgundy",
+    "sourceNote": "Basic titled card for the Elder House of Burgundy, 1032–1361.",
+    "notes": "Duke in the Capetian elder line of Burgundy.",
+    "createdDate": "20260820",
+    "createdOrder": 65
+  },
+  {
+    "id": "a62660c8-4051-4ed1-9cad-0fa3510d19bb",
+    "firstName": "Odo",
+    "lastName": "",
+    "displayName": "Odo III, Duke of Burgundy",
+    "fullName": "Odo III, Duke of Burgundy",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "Odo III, Duke of Burgundy",
+    "fullNameCn": "Odo III, Duke of Burgundy",
+    "nicknameCn": "",
+    "birthYear": 1166,
+    "deathYear": 1218,
+    "birthPlace": "Duchy of Burgundy",
+    "birthPlaceCn": "勃艮第公国",
+    "deathPlace": "Duchy of Burgundy",
+    "deathPlaceCn": "勃艮第公国",
+    "gender": "male",
+    "dynasty": "Elder House of Burgundy",
+    "house": "Elder House of Burgundy",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Duke of Burgundy",
+    "primaryTitleCn": "勃艮第公爵",
+    "titles": [
+      {
+        "title": "Duke of Burgundy",
+        "startYear": 1192,
+        "endYear": 1218,
+        "titleCn": "勃艮第公爵"
+      }
+    ],
+    "tags": [
+      "noble",
+      "duke"
+    ],
+    "rank": "duke",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "9f1b2277-395f-4b6b-99d7-79a2b208e05d",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "6d8776a2-b5ff-47b4-bb19-8b33ec746b4e"
+      ]
+    },
+    "events": [
+      {
+        "year": 1166,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 50,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Odo_III,_Duke_of_Burgundy"
+      },
+      {
+        "year": 1218,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 65,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Odo_III,_Duke_of_Burgundy"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Odo_III,_Duke_of_Burgundy",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Odo_III,_Duke_of_Burgundy",
+    "sourceNote": "Basic titled card for the Elder House of Burgundy, 1032–1361.",
+    "notes": "Duke in the Capetian elder line of Burgundy.",
+    "createdDate": "20260820",
+    "createdOrder": 66
+  },
+  {
+    "id": "6d8776a2-b5ff-47b4-bb19-8b33ec746b4e",
+    "firstName": "Hugh",
+    "lastName": "",
+    "displayName": "Hugh IV, Duke of Burgundy",
+    "fullName": "Hugh IV, Duke of Burgundy",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "Hugh IV, Duke of Burgundy",
+    "fullNameCn": "Hugh IV, Duke of Burgundy",
+    "nicknameCn": "",
+    "birthYear": 1213,
+    "deathYear": 1272,
+    "birthPlace": "Duchy of Burgundy",
+    "birthPlaceCn": "勃艮第公国",
+    "deathPlace": "Duchy of Burgundy",
+    "deathPlaceCn": "勃艮第公国",
+    "gender": "male",
+    "dynasty": "Elder House of Burgundy",
+    "house": "Elder House of Burgundy",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Duke of Burgundy",
+    "primaryTitleCn": "勃艮第公爵",
+    "titles": [
+      {
+        "title": "Duke of Burgundy",
+        "startYear": 1218,
+        "endYear": 1272,
+        "titleCn": "勃艮第公爵"
+      }
+    ],
+    "tags": [
+      "noble",
+      "duke"
+    ],
+    "rank": "duke",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "a62660c8-4051-4ed1-9cad-0fa3510d19bb",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "7e9a9333-d5d8-44a8-a9b2-a80606502cbd"
+      ]
+    },
+    "events": [
+      {
+        "year": 1213,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 50,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Hugh_IV,_Duke_of_Burgundy"
+      },
+      {
+        "year": 1272,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 65,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Hugh_IV,_Duke_of_Burgundy"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Hugh_IV,_Duke_of_Burgundy",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Hugh_IV,_Duke_of_Burgundy",
+    "sourceNote": "Basic titled card for the Elder House of Burgundy, 1032–1361.",
+    "notes": "Duke in the Capetian elder line of Burgundy.",
+    "createdDate": "20260820",
+    "createdOrder": 67
+  },
+  {
+    "id": "7e9a9333-d5d8-44a8-a9b2-a80606502cbd",
+    "firstName": "Robert",
+    "lastName": "",
+    "displayName": "Robert II, Duke of Burgundy",
+    "fullName": "Robert II, Duke of Burgundy",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "Robert II, Duke of Burgundy",
+    "fullNameCn": "Robert II, Duke of Burgundy",
+    "nicknameCn": "",
+    "birthYear": 1248,
+    "deathYear": 1306,
+    "birthPlace": "Duchy of Burgundy",
+    "birthPlaceCn": "勃艮第公国",
+    "deathPlace": "Duchy of Burgundy",
+    "deathPlaceCn": "勃艮第公国",
+    "gender": "male",
+    "dynasty": "Elder House of Burgundy",
+    "house": "Elder House of Burgundy",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Duke of Burgundy",
+    "primaryTitleCn": "勃艮第公爵",
+    "titles": [
+      {
+        "title": "Duke of Burgundy",
+        "startYear": 1272,
+        "endYear": 1306,
+        "titleCn": "勃艮第公爵"
+      }
+    ],
+    "tags": [
+      "noble",
+      "duke"
+    ],
+    "rank": "duke",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "6d8776a2-b5ff-47b4-bb19-8b33ec746b4e",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "17f519b7-6969-40fd-85a4-bdd7304930ba"
+      ]
+    },
+    "events": [
+      {
+        "year": 1248,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 50,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Robert_II,_Duke_of_Burgundy"
+      },
+      {
+        "year": 1306,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 65,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Robert_II,_Duke_of_Burgundy"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Robert_II,_Duke_of_Burgundy",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Robert_II,_Duke_of_Burgundy",
+    "sourceNote": "Basic titled card for the Elder House of Burgundy, 1032–1361.",
+    "notes": "Duke in the Capetian elder line of Burgundy.",
+    "createdDate": "20260820",
+    "createdOrder": 68
+  },
+  {
+    "id": "17f519b7-6969-40fd-85a4-bdd7304930ba",
+    "firstName": "Hugh",
+    "lastName": "",
+    "displayName": "Hugh V, Duke of Burgundy",
+    "fullName": "Hugh V, Duke of Burgundy",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "Hugh V, Duke of Burgundy",
+    "fullNameCn": "Hugh V, Duke of Burgundy",
+    "nicknameCn": "",
+    "birthYear": 1294,
+    "deathYear": 1315,
+    "birthPlace": "Duchy of Burgundy",
+    "birthPlaceCn": "勃艮第公国",
+    "deathPlace": "Duchy of Burgundy",
+    "deathPlaceCn": "勃艮第公国",
+    "gender": "male",
+    "dynasty": "Elder House of Burgundy",
+    "house": "Elder House of Burgundy",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Duke of Burgundy",
+    "primaryTitleCn": "勃艮第公爵",
+    "titles": [
+      {
+        "title": "Duke of Burgundy",
+        "startYear": 1306,
+        "endYear": 1315,
+        "titleCn": "勃艮第公爵"
+      }
+    ],
+    "tags": [
+      "noble",
+      "duke"
+    ],
+    "rank": "duke",
+    "importanceScore": 40,
+    "historicalRating": 4,
+    "relationships": {
+      "fatherId": "7e9a9333-d5d8-44a8-a9b2-a80606502cbd",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "f9226d09-7349-4b3d-8555-804c17c52412"
+      ]
+    },
+    "events": [
+      {
+        "year": 1294,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 50,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Hugh_V,_Duke_of_Burgundy"
+      },
+      {
+        "year": 1315,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 65,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Hugh_V,_Duke_of_Burgundy"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Hugh_V,_Duke_of_Burgundy",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Hugh_V,_Duke_of_Burgundy",
+    "sourceNote": "Basic titled card for the Elder House of Burgundy, 1032–1361.",
+    "notes": "Duke in the Capetian elder line of Burgundy.",
+    "createdDate": "20260820",
+    "createdOrder": 69
+  },
+  {
+    "id": "f9226d09-7349-4b3d-8555-804c17c52412",
+    "firstName": "Odo",
+    "lastName": "",
+    "displayName": "Odo IV, Duke of Burgundy",
+    "fullName": "Odo IV, Duke of Burgundy",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "Odo IV, Duke of Burgundy",
+    "fullNameCn": "Odo IV, Duke of Burgundy",
+    "nicknameCn": "",
+    "birthYear": 1295,
+    "deathYear": 1350,
+    "birthPlace": "Duchy of Burgundy",
+    "birthPlaceCn": "勃艮第公国",
+    "deathPlace": "Duchy of Burgundy",
+    "deathPlaceCn": "勃艮第公国",
+    "gender": "male",
+    "dynasty": "Elder House of Burgundy",
+    "house": "Elder House of Burgundy",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Duke of Burgundy",
+    "primaryTitleCn": "勃艮第公爵",
+    "titles": [
+      {
+        "title": "Duke of Burgundy",
+        "startYear": 1315,
+        "endYear": 1350,
+        "titleCn": "勃艮第公爵"
+      }
+    ],
+    "tags": [
+      "noble",
+      "duke"
+    ],
+    "rank": "duke",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "17f519b7-6969-40fd-85a4-bdd7304930ba",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "1236c6b8-6d98-4be6-870e-1e7812a4fd72"
+      ]
+    },
+    "events": [
+      {
+        "year": 1295,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 50,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Odo_IV,_Duke_of_Burgundy"
+      },
+      {
+        "year": 1350,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 65,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Odo_IV,_Duke_of_Burgundy"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Odo_IV,_Duke_of_Burgundy",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Odo_IV,_Duke_of_Burgundy",
+    "sourceNote": "Basic titled card for the Elder House of Burgundy, 1032–1361.",
+    "notes": "Duke in the Capetian elder line of Burgundy.",
+    "createdDate": "20260820",
+    "createdOrder": 70
+  },
+  {
+    "id": "1236c6b8-6d98-4be6-870e-1e7812a4fd72",
+    "firstName": "Philip",
+    "lastName": "",
+    "displayName": "Philip I of Rouvres",
+    "fullName": "Philip I of Rouvres",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "Philip I of Rouvres",
+    "fullNameCn": "Philip I of Rouvres",
+    "nicknameCn": "",
+    "birthYear": 1346,
+    "deathYear": 1361,
+    "birthPlace": "Duchy of Burgundy",
+    "birthPlaceCn": "勃艮第公国",
+    "deathPlace": "Duchy of Burgundy",
+    "deathPlaceCn": "勃艮第公国",
+    "gender": "male",
+    "dynasty": "Elder House of Burgundy",
+    "house": "Elder House of Burgundy",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Duke of Burgundy",
+    "primaryTitleCn": "勃艮第公爵",
+    "titles": [
+      {
+        "title": "Duke of Burgundy",
+        "startYear": 1350,
+        "endYear": 1361,
+        "titleCn": "勃艮第公爵"
+      }
+    ],
+    "tags": [
+      "noble",
+      "duke"
+    ],
+    "rank": "duke",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "f9226d09-7349-4b3d-8555-804c17c52412",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1346,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 50,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Philip_I_of_Rouvres"
+      },
+      {
+        "year": 1361,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 65,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Philip_I_of_Rouvres"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Philip_I_of_Rouvres",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Philip_I_of_Rouvres",
+    "sourceNote": "Basic titled card for the Elder House of Burgundy, 1032–1361.",
+    "notes": "Duke in the Capetian elder line of Burgundy.",
+    "createdDate": "20260820",
+    "createdOrder": 71
+  }
+]

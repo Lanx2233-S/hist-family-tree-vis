@@ -1,5 +1,14 @@
 :root {
+  --page-base: #efe4d0;
+  --page-grid: rgba(40, 69, 70, 0.08);
+  --page-glow-one: rgba(183, 139, 67, 0.24);
+  --page-glow-two: rgba(126, 34, 34, 0.18);
   color: #22170f;
-  background: #efe4d0;
+  background: var(--page-base);
   font-family: Inter, ui-sans-serif, system-ui, sans-serif;
 }
+
+:root[data-theme="mist-blue"] { --page-base: #e8f2f6; --page-grid: rgba(55, 104, 126, 0.13); --page-glow-one: rgba(111, 170, 204, 0.26); --page-glow-two: rgba(100, 129, 181, 0.16); }
+:root[data-theme="rose"] { --page-base: #f7eaeb; --page-grid: rgba(144, 73, 83, 0.12); --page-glow-one: rgba(215, 135, 145, 0.28); --page-glow-two: rgba(166, 78, 103, 0.16); }
+:root[data-theme="sage"] { --page-base: #eaf1e8; --page-grid: rgba(80, 116, 86, 0.12); --page-glow-one: rgba(133, 174, 130, 0.28); --page-glow-two: rgba(94, 137, 116, 0.16); }
+:root[data-theme="lilac"] { --page-base: #f0ebf6; --page-grid: rgba(105, 82, 138, 0.12); --page-glow-one: rgba(166, 137, 203, 0.28); --page-glow-two: rgba(129, 95, 166, 0.16); }

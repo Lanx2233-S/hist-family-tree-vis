@@ -1,0 +1,1537 @@
+[
+  {
+    "id": "0736f259-d8fa-4263-9a07-73475f48bfd3",
+    "firstName": "Blanche",
+    "lastName": "",
+    "displayName": "Blanche of Castile",
+    "fullName": "Blanche of Castile",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "卡斯蒂利亚的布朗什",
+    "fullNameCn": "卡斯蒂利亚的布朗什",
+    "nicknameCn": "",
+    "birthYear": 1188,
+    "deathYear": 1252,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "female",
+    "dynasty": "Capetian France",
+    "house": "",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Queen of France",
+    "primaryTitleCn": "法兰西王后",
+    "titles": [
+      {
+        "title": "Countess of Champagne",
+        "startYear": 1274,
+        "endYear": 1305,
+        "titleCn": "香槟女伯爵"
+      },
+      {
+        "title": "Queen of Navarre",
+        "startYear": 1274,
+        "endYear": 1305,
+        "titleCn": "纳瓦拉女王"
+      },
+      {
+        "title": "Queen of France",
+        "startYear": "",
+        "endYear": 1252,
+        "titleCn": "法兰西王后"
+      }
+    ],
+    "tags": [
+      "queen",
+      "consort"
+    ],
+    "rank": "queen",
+    "importanceScore": 60,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "96b01b93-0b97-494a-896e-2d7abb07e05c"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "91f35e74-2dd3-4393-9858-0fc6b5acc537"
+      ]
+    },
+    "events": [
+      {
+        "year": 1188,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Blanche_of_Castile"
+      },
+      {
+        "year": 1252,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Blanche_of_Castile"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Blanche_of_Castile",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Blanche_of_Castile",
+    "sourceNote": "Basic queen-consort card; relationship links synchronized with the French royal line.",
+    "notes": "Queen consort in the French royal succession.",
+    "createdDate": "20260820",
+    "createdOrder": 41
+  },
+  {
+    "id": "5927afa9-324c-4528-a78b-cd60518f5437",
+    "firstName": "Margaret",
+    "lastName": "",
+    "displayName": "Margaret of Provence",
+    "fullName": "Margaret of Provence",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "普罗旺斯的玛格丽特",
+    "fullNameCn": "普罗旺斯的玛格丽特",
+    "nicknameCn": "",
+    "birthYear": 1221,
+    "deathYear": 1295,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "female",
+    "dynasty": "Capetian France",
+    "house": "",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Queen of France",
+    "primaryTitleCn": "法兰西王后",
+    "titles": [
+      {
+        "title": "Queen of France",
+        "startYear": "",
+        "endYear": 1295,
+        "titleCn": "法兰西王后"
+      }
+    ],
+    "tags": [
+      "queen",
+      "consort"
+    ],
+    "rank": "queen",
+    "importanceScore": 60,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "91f35e74-2dd3-4393-9858-0fc6b5acc537"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "97ff73e2-e417-4fb3-8b15-90514584a442"
+      ]
+    },
+    "events": [
+      {
+        "year": 1221,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Margaret_of_Provence"
+      },
+      {
+        "year": 1295,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Margaret_of_Provence"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Margaret_of_Provence",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Margaret_of_Provence",
+    "sourceNote": "Basic queen-consort card; relationship links synchronized with the French royal line.",
+    "notes": "Queen consort in the French royal succession.",
+    "createdDate": "20260820",
+    "createdOrder": 42
+  },
+  {
+    "id": "78567b44-2170-4e3d-b85a-be845be240d2",
+    "firstName": "Isabella",
+    "lastName": "",
+    "displayName": "Isabella of Aragon",
+    "fullName": "Isabella of Aragon",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "阿拉贡的伊莎贝拉",
+    "fullNameCn": "阿拉贡的伊莎贝拉",
+    "nicknameCn": "",
+    "birthYear": 1247,
+    "deathYear": 1271,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "female",
+    "dynasty": "Capetian France",
+    "house": "",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Queen of France",
+    "primaryTitleCn": "法兰西王后",
+    "titles": [
+      {
+        "title": "Queen of France",
+        "startYear": "",
+        "endYear": 1271,
+        "titleCn": "法兰西王后"
+      }
+    ],
+    "tags": [
+      "queen",
+      "consort"
+    ],
+    "rank": "queen",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "97ff73e2-e417-4fb3-8b15-90514584a442"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "699ff54a-5291-422d-8621-d0a127c5d24c"
+      ]
+    },
+    "events": [
+      {
+        "year": 1247,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Isabella_of_Aragon"
+      },
+      {
+        "year": 1271,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Isabella_of_Aragon"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Isabella_of_Aragon",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Isabella_of_Aragon",
+    "sourceNote": "Basic queen-consort card; relationship links synchronized with the French royal line.",
+    "notes": "Queen consort in the French royal succession.",
+    "createdDate": "20260820",
+    "createdOrder": 43
+  },
+  {
+    "id": "a31d480e-283a-44e9-85aa-0739c1083991",
+    "firstName": "Marie",
+    "lastName": "",
+    "displayName": "Marie of Brabant",
+    "fullName": "Marie of Brabant",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "布拉班特的玛丽",
+    "fullNameCn": "布拉班特的玛丽",
+    "nicknameCn": "",
+    "birthYear": 1254,
+    "deathYear": 1321,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "female",
+    "dynasty": "Capetian France",
+    "house": "",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Queen of France",
+    "primaryTitleCn": "法兰西王后",
+    "titles": [
+      {
+        "title": "Queen of France",
+        "startYear": "",
+        "endYear": 1321,
+        "titleCn": "法兰西王后"
+      }
+    ],
+    "tags": [
+      "queen",
+      "consort"
+    ],
+    "rank": "queen",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "97ff73e2-e417-4fb3-8b15-90514584a442"
+      ],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1254,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Marie_of_Brabant"
+      },
+      {
+        "year": 1321,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Marie_of_Brabant"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Marie_of_Brabant",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Marie_of_Brabant",
+    "sourceNote": "Basic queen-consort card; relationship links synchronized with the French royal line.",
+    "notes": "Queen consort in the French royal succession.",
+    "createdDate": "20260820",
+    "createdOrder": 44
+  },
+  {
+    "id": "27376224-deaa-4e09-9598-ed3599d8f9b2",
+    "firstName": "Joan",
+    "lastName": "",
+    "displayName": "Joan I of Navarre",
+    "fullName": "Joan I of Navarre",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "纳瓦拉的琼一世",
+    "fullNameCn": "纳瓦拉的琼一世",
+    "nicknameCn": "",
+    "birthYear": 1273,
+    "deathYear": 1305,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "female",
+    "dynasty": "Capetian France",
+    "house": "",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Queen of France",
+    "primaryTitleCn": "法兰西王后",
+    "titles": [
+      {
+        "title": "Queen of France",
+        "startYear": "",
+        "endYear": 1305,
+        "titleCn": "法兰西王后"
+      }
+    ],
+    "tags": [
+      "queen",
+      "consort"
+    ],
+    "rank": "queen",
+    "importanceScore": 60,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "699ff54a-5291-422d-8621-d0a127c5d24c"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "f0d935d4-8efa-482c-bccb-ac105babc10d",
+        "f57da4e3-19a4-4087-8cf4-613a2ff0bc1f",
+        "da988cef-12ff-4b79-afad-70d0565b976e"
+      ]
+    },
+    "events": [
+      {
+        "year": 1273,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Joan_I_of_Navarre"
+      },
+      {
+        "year": 1305,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Joan_I_of_Navarre"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Joan_I_of_Navarre",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Joan_I_of_Navarre",
+    "sourceNote": "Basic queen-consort card; relationship links synchronized with the French royal line.",
+    "notes": "Queen consort in the French royal succession.",
+    "createdDate": "20260820",
+    "createdOrder": 45
+  },
+  {
+    "id": "716b8ebd-b9c6-4654-8b0a-87c1ef575170",
+    "firstName": "Margaret",
+    "lastName": "",
+    "displayName": "Margaret of Burgundy",
+    "fullName": "Margaret of Burgundy",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "勃艮第的玛格丽特",
+    "fullNameCn": "勃艮第的玛格丽特",
+    "nicknameCn": "",
+    "birthYear": 1290,
+    "deathYear": 1315,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "female",
+    "dynasty": "Capetian France",
+    "house": "",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Queen of France",
+    "primaryTitleCn": "法兰西王后",
+    "titles": [
+      {
+        "title": "Queen of France",
+        "startYear": "",
+        "endYear": 1315,
+        "titleCn": "法兰西王后"
+      }
+    ],
+    "tags": [
+      "queen",
+      "consort"
+    ],
+    "rank": "queen",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "f0d935d4-8efa-482c-bccb-ac105babc10d"
+      ],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1290,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Margaret_of_Burgundy"
+      },
+      {
+        "year": 1315,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Margaret_of_Burgundy"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Margaret_of_Burgundy",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Margaret_of_Burgundy",
+    "sourceNote": "Basic queen-consort card; relationship links synchronized with the French royal line.",
+    "notes": "Queen consort in the French royal succession.",
+    "createdDate": "20260820",
+    "createdOrder": 46
+  },
+  {
+    "id": "b311455b-ff52-423e-bd27-5c513759778e",
+    "firstName": "Clementia",
+    "lastName": "",
+    "displayName": "Clementia of Hungary",
+    "fullName": "Clementia of Hungary",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "匈牙利的克莱芒丝",
+    "fullNameCn": "匈牙利的克莱芒丝",
+    "nicknameCn": "",
+    "birthYear": 1293,
+    "deathYear": 1328,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "female",
+    "dynasty": "Capetian France",
+    "house": "",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Queen of France",
+    "primaryTitleCn": "法兰西王后",
+    "titles": [
+      {
+        "title": "Queen of France",
+        "startYear": "",
+        "endYear": 1328,
+        "titleCn": "法兰西王后"
+      }
+    ],
+    "tags": [
+      "queen",
+      "consort"
+    ],
+    "rank": "queen",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "f0d935d4-8efa-482c-bccb-ac105babc10d"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "39979ed9-fafd-48f0-96d7-30f40e80f51b"
+      ]
+    },
+    "events": [
+      {
+        "year": 1293,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Clementia_of_Hungary"
+      },
+      {
+        "year": 1328,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Clementia_of_Hungary"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Clementia_of_Hungary",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Clementia_of_Hungary",
+    "sourceNote": "Basic queen-consort card; relationship links synchronized with the French royal line.",
+    "notes": "Queen consort in the French royal succession.",
+    "createdDate": "20260820",
+    "createdOrder": 47
+  },
+  {
+    "id": "906246fe-bb15-48a1-b69f-ff5cc0fecbb0",
+    "firstName": "Joan",
+    "lastName": "",
+    "displayName": "Joan II of Burgundy",
+    "fullName": "Joan II of Burgundy",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "勃艮第的琼二世",
+    "fullNameCn": "勃艮第的琼二世",
+    "nicknameCn": "",
+    "birthYear": 1291,
+    "deathYear": 1330,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "female",
+    "dynasty": "Capetian France",
+    "house": "",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Queen of France",
+    "primaryTitleCn": "法兰西王后",
+    "titles": [
+      {
+        "title": "Queen of France",
+        "startYear": "",
+        "endYear": 1330,
+        "titleCn": "法兰西王后"
+      }
+    ],
+    "tags": [
+      "queen",
+      "consort"
+    ],
+    "rank": "queen",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "f57da4e3-19a4-4087-8cf4-613a2ff0bc1f"
+      ],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1291,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Joan_II_of_Burgundy"
+      },
+      {
+        "year": 1330,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Joan_II_of_Burgundy"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Joan_II_of_Burgundy",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Joan_II_of_Burgundy",
+    "sourceNote": "Basic queen-consort card; relationship links synchronized with the French royal line.",
+    "notes": "Queen consort in the French royal succession.",
+    "createdDate": "20260820",
+    "createdOrder": 48
+  },
+  {
+    "id": "e01b2392-3487-43ac-80f6-cb640d051d06",
+    "firstName": "Blanche",
+    "lastName": "",
+    "displayName": "Blanche of Burgundy",
+    "fullName": "Blanche of Burgundy",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "勃艮第的布朗什",
+    "fullNameCn": "勃艮第的布朗什",
+    "nicknameCn": "",
+    "birthYear": 1296,
+    "deathYear": 1326,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "female",
+    "dynasty": "Capetian France",
+    "house": "",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Queen of France",
+    "primaryTitleCn": "法兰西王后",
+    "titles": [
+      {
+        "title": "Queen of France",
+        "startYear": "",
+        "endYear": 1326,
+        "titleCn": "法兰西王后"
+      }
+    ],
+    "tags": [
+      "queen",
+      "consort"
+    ],
+    "rank": "queen",
+    "importanceScore": 40,
+    "historicalRating": 4,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "da988cef-12ff-4b79-afad-70d0565b976e"
+      ],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1296,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Blanche_of_Burgundy"
+      },
+      {
+        "year": 1326,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Blanche_of_Burgundy"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Blanche_of_Burgundy",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Blanche_of_Burgundy",
+    "sourceNote": "Basic queen-consort card; relationship links synchronized with the French royal line.",
+    "notes": "Queen consort in the French royal succession.",
+    "createdDate": "20260820",
+    "createdOrder": 49
+  },
+  {
+    "id": "16fce723-eb78-47ff-955b-7ce3e266dd3c",
+    "firstName": "Marie",
+    "lastName": "",
+    "displayName": "Marie of Luxembourg",
+    "fullName": "Marie of Luxembourg",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "卢森堡的玛丽",
+    "fullNameCn": "卢森堡的玛丽",
+    "nicknameCn": "",
+    "birthYear": 1304,
+    "deathYear": 1324,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "female",
+    "dynasty": "Capetian France",
+    "house": "",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Queen of France",
+    "primaryTitleCn": "法兰西王后",
+    "titles": [
+      {
+        "title": "Queen of France",
+        "startYear": "",
+        "endYear": 1324,
+        "titleCn": "法兰西王后"
+      }
+    ],
+    "tags": [
+      "queen",
+      "consort"
+    ],
+    "rank": "queen",
+    "importanceScore": 40,
+    "historicalRating": 4,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "da988cef-12ff-4b79-afad-70d0565b976e"
+      ],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1304,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Marie_of_Luxembourg"
+      },
+      {
+        "year": 1324,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Marie_of_Luxembourg"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Marie_of_Luxembourg",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Marie_of_Luxembourg",
+    "sourceNote": "Basic queen-consort card; relationship links synchronized with the French royal line.",
+    "notes": "Queen consort in the French royal succession.",
+    "createdDate": "20260820",
+    "createdOrder": 50
+  },
+  {
+    "id": "c52abfa0-d8c2-4b49-852b-c9f25688277a",
+    "firstName": "Joan",
+    "lastName": "",
+    "displayName": "Joan of Évreux",
+    "fullName": "Joan of Évreux",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "埃夫勒的琼",
+    "fullNameCn": "埃夫勒的琼",
+    "nicknameCn": "",
+    "birthYear": 1310,
+    "deathYear": 1371,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "female",
+    "dynasty": "Capetian France",
+    "house": "",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Queen of France",
+    "primaryTitleCn": "法兰西王后",
+    "titles": [
+      {
+        "title": "Queen of France",
+        "startYear": "",
+        "endYear": 1371,
+        "titleCn": "法兰西王后"
+      }
+    ],
+    "tags": [
+      "queen",
+      "consort"
+    ],
+    "rank": "queen",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "da988cef-12ff-4b79-afad-70d0565b976e"
+      ],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1310,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Joan_of_Évreux"
+      },
+      {
+        "year": 1371,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Joan_of_Évreux"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Joan_of_Évreux",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Joan_of_Évreux",
+    "sourceNote": "Basic queen-consort card; relationship links synchronized with the French royal line.",
+    "notes": "Queen consort in the French royal succession.",
+    "createdDate": "20260820",
+    "createdOrder": 51
+  },
+  {
+    "id": "3401be01-ecb6-4d4c-b64b-777bf04937ef",
+    "firstName": "Joan",
+    "lastName": "",
+    "displayName": "Joan of Burgundy",
+    "fullName": "Joan of Burgundy",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "勃艮第的琼",
+    "fullNameCn": "勃艮第的琼",
+    "nicknameCn": "",
+    "birthYear": 1293,
+    "deathYear": 1349,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "female",
+    "dynasty": "Capetian France",
+    "house": "",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Queen of France",
+    "primaryTitleCn": "法兰西王后",
+    "titles": [
+      {
+        "title": "Queen of France",
+        "startYear": "",
+        "endYear": 1349,
+        "titleCn": "法兰西王后"
+      }
+    ],
+    "tags": [
+      "queen",
+      "consort"
+    ],
+    "rank": "queen",
+    "importanceScore": 60,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "c89b7f1b-b6d2-4681-9eba-4cd9ffffab47"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "26ef769b-f149-4b30-b5b6-13efecbbf59b"
+      ]
+    },
+    "events": [
+      {
+        "year": 1293,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Joan_of_Burgundy"
+      },
+      {
+        "year": 1349,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Joan_of_Burgundy"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Joan_of_Burgundy",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Joan_of_Burgundy",
+    "sourceNote": "Basic queen-consort card; relationship links synchronized with the French royal line.",
+    "notes": "Queen consort in the French royal succession.",
+    "createdDate": "20260820",
+    "createdOrder": 52
+  },
+  {
+    "id": "0181c695-5273-4c44-a052-88b55ef19d68",
+    "firstName": "Blanche",
+    "lastName": "",
+    "displayName": "Blanche of Navarre",
+    "fullName": "Blanche of Navarre",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "纳瓦拉的布朗什",
+    "fullNameCn": "纳瓦拉的布朗什",
+    "nicknameCn": "",
+    "birthYear": 1331,
+    "deathYear": 1398,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "female",
+    "dynasty": "Capetian France",
+    "house": "",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Queen of France",
+    "primaryTitleCn": "法兰西王后",
+    "titles": [
+      {
+        "title": "Queen of France",
+        "startYear": "",
+        "endYear": 1398,
+        "titleCn": "法兰西王后"
+      }
+    ],
+    "tags": [
+      "queen",
+      "consort"
+    ],
+    "rank": "queen",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "c89b7f1b-b6d2-4681-9eba-4cd9ffffab47"
+      ],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1331,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Blanche_of_Navarre"
+      },
+      {
+        "year": 1398,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Blanche_of_Navarre"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Blanche_of_Navarre",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Blanche_of_Navarre",
+    "sourceNote": "Basic queen-consort card; relationship links synchronized with the French royal line.",
+    "notes": "Queen consort in the French royal succession.",
+    "createdDate": "20260820",
+    "createdOrder": 53
+  },
+  {
+    "id": "c5cb5a6d-e9f7-4899-bb5c-7f5734fe92ed",
+    "firstName": "Bonne",
+    "lastName": "",
+    "displayName": "Bonne of Bohemia",
+    "fullName": "Bonne of Bohemia",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "波希米亚的邦娜",
+    "fullNameCn": "波希米亚的邦娜",
+    "nicknameCn": "",
+    "birthYear": 1315,
+    "deathYear": 1349,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "female",
+    "dynasty": "Capetian France",
+    "house": "",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Queen of France",
+    "primaryTitleCn": "法兰西王后",
+    "titles": [
+      {
+        "title": "Queen of France",
+        "startYear": "",
+        "endYear": 1349,
+        "titleCn": "法兰西王后"
+      }
+    ],
+    "tags": [
+      "queen",
+      "consort"
+    ],
+    "rank": "queen",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "26ef769b-f149-4b30-b5b6-13efecbbf59b"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "04c2ad7c-d296-4338-af7c-05fd1d730cfe"
+      ]
+    },
+    "events": [
+      {
+        "year": 1315,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Bonne_of_Bohemia"
+      },
+      {
+        "year": 1349,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Bonne_of_Bohemia"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Bonne_of_Bohemia",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Bonne_of_Bohemia",
+    "sourceNote": "Basic queen-consort card; relationship links synchronized with the French royal line.",
+    "notes": "Queen consort in the French royal succession.",
+    "createdDate": "20260820",
+    "createdOrder": 54
+  },
+  {
+    "id": "570fe380-a70d-430d-a43f-0501e6aa3c86",
+    "firstName": "Joan",
+    "lastName": "",
+    "displayName": "Joan I of Auvergne",
+    "fullName": "Joan I of Auvergne",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "奥弗涅的琼一世",
+    "fullNameCn": "奥弗涅的琼一世",
+    "nicknameCn": "",
+    "birthYear": 1326,
+    "deathYear": 1360,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "female",
+    "dynasty": "Capetian France",
+    "house": "",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Queen of France",
+    "primaryTitleCn": "法兰西王后",
+    "titles": [
+      {
+        "title": "Queen of France",
+        "startYear": "",
+        "endYear": 1360,
+        "titleCn": "法兰西王后"
+      }
+    ],
+    "tags": [
+      "queen",
+      "consort"
+    ],
+    "rank": "queen",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "26ef769b-f149-4b30-b5b6-13efecbbf59b"
+      ],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1326,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Joan_I_of_Auvergne"
+      },
+      {
+        "year": 1360,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Joan_I_of_Auvergne"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Joan_I_of_Auvergne",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Joan_I_of_Auvergne",
+    "sourceNote": "Basic queen-consort card; relationship links synchronized with the French royal line.",
+    "notes": "Queen consort in the French royal succession.",
+    "createdDate": "20260820",
+    "createdOrder": 55
+  },
+  {
+    "id": "0a4d4bdc-13c6-4f01-81bf-8e049c4bddca",
+    "firstName": "Joanna",
+    "lastName": "",
+    "displayName": "Joanna of Bourbon",
+    "fullName": "Joanna of Bourbon",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "波旁的让娜",
+    "fullNameCn": "波旁的让娜",
+    "nicknameCn": "",
+    "birthYear": 1338,
+    "deathYear": 1378,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "female",
+    "dynasty": "Capetian France",
+    "house": "",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Queen of France",
+    "primaryTitleCn": "法兰西王后",
+    "titles": [
+      {
+        "title": "Queen of France",
+        "startYear": "",
+        "endYear": 1378,
+        "titleCn": "法兰西王后"
+      }
+    ],
+    "tags": [
+      "queen",
+      "consort"
+    ],
+    "rank": "queen",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "04c2ad7c-d296-4338-af7c-05fd1d730cfe"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "084fdbfa-b040-4629-98f4-5af678d317db"
+      ]
+    },
+    "events": [
+      {
+        "year": 1338,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Joanna_of_Bourbon"
+      },
+      {
+        "year": 1378,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Joanna_of_Bourbon"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Joanna_of_Bourbon",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Joanna_of_Bourbon",
+    "sourceNote": "Basic queen-consort card; relationship links synchronized with the French royal line.",
+    "notes": "Queen consort in the French royal succession.",
+    "createdDate": "20260820",
+    "createdOrder": 56
+  },
+  {
+    "id": "904d5881-253a-44ab-adbb-f0c9a786de58",
+    "firstName": "Isabeau",
+    "lastName": "",
+    "displayName": "Isabeau of Bavaria",
+    "fullName": "Isabeau of Bavaria",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "巴伐利亚的伊莎博",
+    "fullNameCn": "巴伐利亚的伊莎博",
+    "nicknameCn": "",
+    "birthYear": 1370,
+    "deathYear": 1435,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "female",
+    "dynasty": "Capetian France",
+    "house": "",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Queen of France",
+    "primaryTitleCn": "法兰西王后",
+    "titles": [
+      {
+        "title": "Queen of France",
+        "startYear": "",
+        "endYear": 1435,
+        "titleCn": "法兰西王后"
+      }
+    ],
+    "tags": [
+      "queen",
+      "consort"
+    ],
+    "rank": "queen",
+    "importanceScore": 60,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "084fdbfa-b040-4629-98f4-5af678d317db"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "4482439c-eae6-4ec6-885a-ac48721ec552"
+      ]
+    },
+    "events": [
+      {
+        "year": 1370,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Isabeau_of_Bavaria"
+      },
+      {
+        "year": 1435,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Isabeau_of_Bavaria"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Isabeau_of_Bavaria",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Isabeau_of_Bavaria",
+    "sourceNote": "Basic queen-consort card; relationship links synchronized with the French royal line.",
+    "notes": "Queen consort in the French royal succession.",
+    "createdDate": "20260820",
+    "createdOrder": 57
+  },
+  {
+    "id": "6f145993-e643-4673-b39f-80e8a3430f97",
+    "firstName": "Marie",
+    "lastName": "",
+    "displayName": "Marie of Anjou",
+    "fullName": "Marie of Anjou",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "安茹的玛丽",
+    "fullNameCn": "安茹的玛丽",
+    "nicknameCn": "",
+    "birthYear": 1404,
+    "deathYear": 1463,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "female",
+    "dynasty": "Capetian France",
+    "house": "",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Queen of France",
+    "primaryTitleCn": "法兰西王后",
+    "titles": [
+      {
+        "title": "Queen of France",
+        "startYear": "",
+        "endYear": 1463,
+        "titleCn": "法兰西王后"
+      }
+    ],
+    "tags": [
+      "queen",
+      "consort"
+    ],
+    "rank": "queen",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "4482439c-eae6-4ec6-885a-ac48721ec552"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "896ab071-dc40-43ec-b961-a1ca40574102"
+      ]
+    },
+    "events": [
+      {
+        "year": 1404,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Marie_of_Anjou"
+      },
+      {
+        "year": 1463,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Marie_of_Anjou"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Marie_of_Anjou",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Marie_of_Anjou",
+    "sourceNote": "Basic queen-consort card; relationship links synchronized with the French royal line.",
+    "notes": "Queen consort in the French royal succession.",
+    "createdDate": "20260820",
+    "createdOrder": 58
+  },
+  {
+    "id": "1aceb9f3-41a0-410e-aa94-f1142f0eda1e",
+    "firstName": "Charlotte",
+    "lastName": "",
+    "displayName": "Charlotte of Savoy",
+    "fullName": "Charlotte of Savoy",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "萨伏依的夏洛特",
+    "fullNameCn": "萨伏依的夏洛特",
+    "nicknameCn": "",
+    "birthYear": 1441,
+    "deathYear": 1483,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "female",
+    "dynasty": "Capetian France",
+    "house": "",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Queen of France",
+    "primaryTitleCn": "法兰西王后",
+    "titles": [
+      {
+        "title": "Queen of France",
+        "startYear": "",
+        "endYear": 1483,
+        "titleCn": "法兰西王后"
+      }
+    ],
+    "tags": [
+      "queen",
+      "consort"
+    ],
+    "rank": "queen",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "896ab071-dc40-43ec-b961-a1ca40574102"
+      ],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1441,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Charlotte_of_Savoy"
+      },
+      {
+        "year": 1483,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Charlotte_of_Savoy"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Charlotte_of_Savoy",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Charlotte_of_Savoy",
+    "sourceNote": "Basic queen-consort card; relationship links synchronized with the French royal line.",
+    "notes": "Queen consort in the French royal succession.",
+    "createdDate": "20260820",
+    "createdOrder": 59
+  }
+]

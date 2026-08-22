@@ -1,0 +1,1659 @@
+[
+  {
+    "id": "c9220000-0000-4000-8000-000000000018",
+    "firstName": "Foulques",
+    "lastName": "d'Anjou",
+    "displayName": "Foulques I le Roux",
+    "fullName": "Foulques I the Red, Count of Anjou",
+    "displayNameCn": "安茹的富尔克一世（红发）",
+    "fullNameCn": "Foulques I the Red, Count of Anjou",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 870,
+    "deathYear": 942,
+    "birthPlace": "County of Anjou",
+    "birthPlaceCn": "安茹伯国",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "House of Anjou",
+    "house": "House of Anjou",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Anjou",
+    "primaryTitleCn": "安茹伯爵",
+    "titles": [
+      {
+        "title": "Count of Anjou",
+        "titleCn": "安茹伯爵",
+        "startYear": 929,
+        "endYear": 942
+      }
+    ],
+    "tags": [
+      "count",
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 60,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "c9230000-0000-4000-8000-000000000019"
+      ]
+    },
+    "events": [],
+    "wikiUrl": "https://www.larousse.fr/encyclopedie/groupe-personnage/Plantagen%C3%AAt/138392",
+    "portraitUrl": "",
+    "sourceUrl": "https://www.larousse.fr/encyclopedie/groupe-personnage/Plantagen%C3%AAt/138392",
+    "sourceNote": "Basic card for the Angevin paternal line and the County of Anjou succession.",
+    "notes": "Added for Henry II's Angevin paternal ancestry.",
+    "createdDate": "20260822",
+    "createdOrder": 30
+  },
+  {
+    "id": "c9230000-0000-4000-8000-000000000019",
+    "firstName": "Foulques",
+    "lastName": "d'Anjou",
+    "displayName": "Foulques II le Bon",
+    "fullName": "Foulques II the Good, Count of Anjou",
+    "displayNameCn": "安茹的富尔克二世（善人）",
+    "fullNameCn": "Foulques II the Good, Count of Anjou",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 910,
+    "deathYear": 960,
+    "birthPlace": "County of Anjou",
+    "birthPlaceCn": "安茹伯国",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "House of Anjou",
+    "house": "House of Anjou",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Anjou",
+    "primaryTitleCn": "安茹伯爵",
+    "titles": [
+      {
+        "title": "Count of Anjou",
+        "titleCn": "安茹伯爵",
+        "startYear": 942,
+        "endYear": 960
+      }
+    ],
+    "tags": [
+      "count",
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 60,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "c9220000-0000-4000-8000-000000000018",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "c9240000-0000-4000-8000-000000000020"
+      ]
+    },
+    "events": [],
+    "wikiUrl": "https://www.larousse.fr/encyclopedie/groupe-personnage/Plantagen%C3%AAt/138392",
+    "portraitUrl": "",
+    "sourceUrl": "https://www.larousse.fr/encyclopedie/groupe-personnage/Plantagen%C3%AAt/138392",
+    "sourceNote": "Basic card for the Angevin paternal line and the County of Anjou succession.",
+    "notes": "Added for Henry II's Angevin paternal ancestry.",
+    "createdDate": "20260822",
+    "createdOrder": 31
+  },
+  {
+    "id": "c9240000-0000-4000-8000-000000000020",
+    "firstName": "Geoffroy",
+    "lastName": "d'Anjou",
+    "displayName": "Geoffroy I Grisegonelle",
+    "fullName": "Geoffroy I Grisegonelle, Count of Anjou",
+    "displayNameCn": "安茹的若弗鲁瓦一世（灰斗篷）",
+    "fullNameCn": "Geoffroy I Grisegonelle, Count of Anjou",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 940,
+    "deathYear": 987,
+    "birthPlace": "County of Anjou",
+    "birthPlaceCn": "安茹伯国",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "House of Anjou",
+    "house": "House of Anjou",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Anjou",
+    "primaryTitleCn": "安茹伯爵",
+    "titles": [
+      {
+        "title": "Count of Anjou",
+        "titleCn": "安茹伯爵",
+        "startYear": 960,
+        "endYear": 987
+      }
+    ],
+    "tags": [
+      "count",
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 70,
+    "historicalRating": 7,
+    "relationships": {
+      "fatherId": "c9230000-0000-4000-8000-000000000019",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "c9250000-0000-4000-8000-000000000021"
+      ]
+    },
+    "events": [],
+    "wikiUrl": "https://www.larousse.fr/encyclopedie/groupe-personnage/Plantagen%C3%AAt/138392",
+    "portraitUrl": "",
+    "sourceUrl": "https://www.larousse.fr/encyclopedie/groupe-personnage/Plantagen%C3%AAt/138392",
+    "sourceNote": "Basic card for the Angevin paternal line and the County of Anjou succession.",
+    "notes": "Added for Henry II's Angevin paternal ancestry.",
+    "createdDate": "20260822",
+    "createdOrder": 32
+  },
+  {
+    "id": "c9250000-0000-4000-8000-000000000021",
+    "firstName": "Foulques",
+    "lastName": "d'Anjou",
+    "displayName": "Foulques III Nerra",
+    "fullName": "Foulques III Nerra, Count of Anjou",
+    "displayNameCn": "安茹的富尔克三世（内拉）",
+    "fullNameCn": "Foulques III Nerra, Count of Anjou",
+    "nickname": "Nerra",
+    "nicknameCn": "黑者",
+    "alsoKnownAs": [],
+    "nicknameTags": [
+      "the Black",
+      "castle builder"
+    ],
+    "birthYear": 972,
+    "deathYear": 1040,
+    "birthPlace": "County of Anjou",
+    "birthPlaceCn": "安茹伯国",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "House of Anjou",
+    "house": "House of Anjou",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Anjou",
+    "primaryTitleCn": "安茹伯爵",
+    "titles": [
+      {
+        "title": "Count of Anjou",
+        "titleCn": "安茹伯爵",
+        "startYear": 987,
+        "endYear": 1040
+      }
+    ],
+    "tags": [
+      "count",
+      "noble",
+      "commander"
+    ],
+    "rank": "count",
+    "importanceScore": 86,
+    "historicalRating": 8,
+    "relationships": {
+      "fatherId": "c9240000-0000-4000-8000-000000000020",
+      "motherId": "",
+      "spouseIds": [
+        "c9310000-0000-4000-8000-000000000027",
+        "c9330000-0000-4000-8000-000000000029"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "c9320000-0000-4000-8000-000000000028",
+        "c9260000-0000-4000-8000-000000000022",
+        "c9340000-0000-4000-8000-000000000030"
+      ]
+    },
+    "events": [
+      {
+        "year": 987,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 92,
+        "label": "Succeeded as Count of Anjou",
+        "labelCn": "继承安茹伯爵",
+        "wikiUrl": "https://www.larousse.fr/archives/histoire_de_france/page/479"
+      },
+      {
+        "year": 992,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "commander"
+        ],
+        "weight": 94,
+        "label": "Victory at Conquereuil",
+        "labelCn": "孔克勒伊战役获胜",
+        "wikiUrl": "https://www.larousse.fr/encyclopedie/groupe-homonymes/Foulques/120030"
+      },
+      {
+        "year": 994,
+        "type": "government",
+        "tags": [
+          "administration",
+          "castle"
+        ],
+        "weight": 86,
+        "label": "Fortified the Angevin frontier",
+        "labelCn": "强化安茹边境要塞体系",
+        "wikiUrl": "https://www.larousse.fr/archives/histoire_de_france/page/479"
+      },
+      {
+        "year": 1001,
+        "type": "conquest",
+        "tags": [
+          "conquest",
+          "commander"
+        ],
+        "weight": 88,
+        "label": "Expanded Angevin control toward Vendôme and Gâtinais",
+        "labelCn": "向旺多姆与加蒂奈扩张安茹势力",
+        "wikiUrl": "https://www.larousse.fr/archives/histoire_de_france/page/479"
+      },
+      {
+        "year": 1002,
+        "type": "crusade",
+        "tags": [
+          "pilgrimage",
+          "faith"
+        ],
+        "weight": 72,
+        "label": "First pilgrimage to Jerusalem",
+        "labelCn": "首次耶路撒冷朝圣",
+        "wikiUrl": "https://www.larousse.fr/archives/histoire_de_france/page/479"
+      },
+      {
+        "year": 1040,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 76,
+        "label": "Died at Metz",
+        "labelCn": "卒于梅斯",
+        "wikiUrl": "https://www.larousse.fr/archives/histoire_de_france/page/479"
+      }
+    ],
+    "wikiUrl": "https://www.larousse.fr/encyclopedie/groupe-personnage/Plantagen%C3%AAt/138392",
+    "portraitUrl": "",
+    "sourceUrl": "https://www.larousse.fr/encyclopedie/groupe-personnage/Plantagen%C3%AAt/138392",
+    "sourceNote": "Detailed card: military founder of Angevin territorial power, castle builder, and four-time pilgrim to Jerusalem.",
+    "notes": "Foulques III Nerra forged Angevin territorial power through warfare, fortification and lordship over neighbouring lands. The dramatic accounts surrounding his first wife Elisabeth are contested; they are not recorded as a definite death cause.",
+    "createdDate": "20260822",
+    "createdOrder": 33
+  },
+  {
+    "id": "c9260000-0000-4000-8000-000000000022",
+    "firstName": "Geoffroy",
+    "lastName": "d'Anjou",
+    "displayName": "Geoffroy II Martel",
+    "fullName": "Geoffroy II Martel, Count of Anjou",
+    "displayNameCn": "安茹的若弗鲁瓦二世（铁锤）",
+    "fullNameCn": "Geoffroy II Martel, Count of Anjou",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1006,
+    "deathYear": 1060,
+    "birthPlace": "County of Anjou",
+    "birthPlaceCn": "安茹伯国",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "House of Anjou",
+    "house": "House of Anjou",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Anjou",
+    "primaryTitleCn": "安茹伯爵",
+    "titles": [
+      {
+        "title": "Count of Anjou",
+        "titleCn": "安茹伯爵",
+        "startYear": 1040,
+        "endYear": 1060
+      }
+    ],
+    "tags": [
+      "count",
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 70,
+    "historicalRating": 7,
+    "relationships": {
+      "fatherId": "c9250000-0000-4000-8000-000000000021",
+      "motherId": "c9330000-0000-4000-8000-000000000029",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [],
+    "wikiUrl": "https://www.larousse.fr/encyclopedie/groupe-personnage/Plantagen%C3%AAt/138392",
+    "portraitUrl": "",
+    "sourceUrl": "https://www.larousse.fr/encyclopedie/groupe-personnage/Plantagen%C3%AAt/138392",
+    "sourceNote": "Basic card for the Angevin paternal line and the County of Anjou succession.",
+    "notes": "Added for Henry II's Angevin paternal ancestry.",
+    "createdDate": "20260822",
+    "createdOrder": 34
+  },
+  {
+    "id": "c9270000-0000-4000-8000-000000000023",
+    "firstName": "Geoffroy",
+    "lastName": "d'Anjou",
+    "displayName": "Geoffroy de Gâtinais",
+    "fullName": "Geoffroy de Gâtinais, Count of Gâtinais",
+    "displayNameCn": "加蒂奈的若弗鲁瓦",
+    "fullNameCn": "Geoffroy de Gâtinais, Count of Gâtinais",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1000,
+    "deathYear": 1043,
+    "birthPlace": "County of Anjou",
+    "birthPlaceCn": "安茹伯国",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "House of Anjou",
+    "house": "House of Anjou",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Gâtinais",
+    "primaryTitleCn": "加蒂奈伯爵",
+    "titles": [
+      {
+        "title": "Count of Gâtinais",
+        "titleCn": "加蒂奈伯爵",
+        "startYear": 1020,
+        "endYear": 1043
+      }
+    ],
+    "tags": [
+      "count",
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 60,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "c9340000-0000-4000-8000-000000000030"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "c9280000-0000-4000-8000-000000000024",
+        "c9290000-0000-4000-8000-000000000025"
+      ]
+    },
+    "events": [],
+    "wikiUrl": "https://www.larousse.fr/encyclopedie/groupe-personnage/Plantagen%C3%AAt/138392",
+    "portraitUrl": "",
+    "sourceUrl": "https://www.larousse.fr/encyclopedie/groupe-personnage/Plantagen%C3%AAt/138392",
+    "sourceNote": "Basic card for the Angevin paternal line and the County of Anjou succession.",
+    "notes": "Added for Henry II's Angevin paternal ancestry.",
+    "createdDate": "20260822",
+    "createdOrder": 35
+  },
+  {
+    "id": "c9280000-0000-4000-8000-000000000024",
+    "firstName": "Geoffroy",
+    "lastName": "d'Anjou",
+    "displayName": "Geoffroy III le Barbu",
+    "fullName": "Geoffroy III the Bearded, Count of Anjou",
+    "displayNameCn": "安茹的若弗鲁瓦三世（大胡子）",
+    "fullNameCn": "Geoffroy III the Bearded, Count of Anjou",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1040,
+    "deathYear": 1096,
+    "birthPlace": "County of Anjou",
+    "birthPlaceCn": "安茹伯国",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "House of Anjou",
+    "house": "House of Anjou",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Anjou",
+    "primaryTitleCn": "安茹伯爵",
+    "titles": [
+      {
+        "title": "Count of Anjou",
+        "titleCn": "安茹伯爵",
+        "startYear": 1060,
+        "endYear": 1068
+      }
+    ],
+    "tags": [
+      "count",
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "c9270000-0000-4000-8000-000000000023",
+      "motherId": "c9340000-0000-4000-8000-000000000030",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [],
+    "wikiUrl": "https://www.larousse.fr/encyclopedie/groupe-personnage/Plantagen%C3%AAt/138392",
+    "portraitUrl": "",
+    "sourceUrl": "https://www.larousse.fr/encyclopedie/groupe-personnage/Plantagen%C3%AAt/138392",
+    "sourceNote": "Basic card for the Angevin paternal line and the County of Anjou succession.",
+    "notes": "Added for Henry II's Angevin paternal ancestry.",
+    "createdDate": "20260822",
+    "createdOrder": 36
+  },
+  {
+    "id": "c9290000-0000-4000-8000-000000000025",
+    "firstName": "Foulques",
+    "lastName": "d'Anjou",
+    "displayName": "Foulques IV le Réchin",
+    "fullName": "Foulques IV le Réchin, Count of Anjou",
+    "displayNameCn": "安茹的富尔克四世（争执者）",
+    "fullNameCn": "Foulques IV le Réchin, Count of Anjou",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1043,
+    "deathYear": 1109,
+    "birthPlace": "County of Anjou",
+    "birthPlaceCn": "安茹伯国",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "House of Anjou",
+    "house": "House of Anjou",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Anjou",
+    "primaryTitleCn": "安茹伯爵",
+    "titles": [
+      {
+        "title": "Count of Anjou",
+        "titleCn": "安茹伯爵",
+        "startYear": 1068,
+        "endYear": 1109
+      }
+    ],
+    "tags": [
+      "count",
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 60,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "c9270000-0000-4000-8000-000000000023",
+      "motherId": "c9340000-0000-4000-8000-000000000030",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "c9300000-0000-4000-8000-000000000026"
+      ]
+    },
+    "events": [],
+    "wikiUrl": "https://www.larousse.fr/encyclopedie/groupe-personnage/Plantagen%C3%AAt/138392",
+    "portraitUrl": "",
+    "sourceUrl": "https://www.larousse.fr/encyclopedie/groupe-personnage/Plantagen%C3%AAt/138392",
+    "sourceNote": "Basic card for the Angevin paternal line and the County of Anjou succession.",
+    "notes": "Added for Henry II's Angevin paternal ancestry.",
+    "createdDate": "20260822",
+    "createdOrder": 37
+  },
+  {
+    "id": "c9300000-0000-4000-8000-000000000026",
+    "firstName": "Foulques",
+    "lastName": "d'Anjou",
+    "displayName": "Foulques V le Jeune",
+    "fullName": "Foulques V the Young, Count of Anjou",
+    "displayNameCn": "安茹的富尔克五世（青年）",
+    "fullNameCn": "Foulques V the Young, Count of Anjou",
+    "nickname": "the Young",
+    "nicknameCn": "青年",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1092,
+    "deathYear": 1143,
+    "birthPlace": "County of Anjou",
+    "birthPlaceCn": "安茹伯国",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "House of Anjou",
+    "house": "House of Anjou",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Anjou",
+    "primaryTitleCn": "安茹伯爵",
+    "titles": [
+      {
+        "title": "Count of Anjou",
+        "titleCn": "安茹伯爵",
+        "startYear": 1109,
+        "endYear": 1129
+      }
+    ],
+    "tags": [
+      "count",
+      "noble",
+      "commander",
+      "monarch"
+    ],
+    "rank": "count",
+    "importanceScore": 80,
+    "historicalRating": 8,
+    "relationships": {
+      "fatherId": "c9290000-0000-4000-8000-000000000025",
+      "motherId": "",
+      "spouseIds": [
+        "c9350000-0000-4000-8000-000000000031",
+        "c9390000-0000-4000-8000-000000000035"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "cc0cb400-e684-4bdb-b477-9a8fb578f4f5",
+        "c9360000-0000-4000-8000-000000000032",
+        "c9370000-0000-4000-8000-000000000033",
+        "c9380000-0000-4000-8000-000000000034",
+        "c9400000-0000-4000-8000-000000000036",
+        "c9410000-0000-4000-8000-000000000037"
+      ]
+    },
+    "events": [
+      {
+        "year": 1109,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 84,
+        "label": "Succeeded as Count of Anjou",
+        "labelCn": "继承安茹伯爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Fulk_V,_Count_of_Anjou"
+      },
+      {
+        "year": 1110,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 78,
+        "label": "Married Ermengarde of Maine",
+        "labelCn": "与曼恩的埃芒加德成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Fulk_V,_Count_of_Anjou"
+      },
+      {
+        "year": 1129,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 90,
+        "label": "Married Melisende of Jerusalem",
+        "labelCn": "与耶路撒冷的梅丽桑德成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Fulk_V,_Count_of_Anjou"
+      },
+      {
+        "year": 1131,
+        "type": "coronation",
+        "tags": [
+          "title",
+          "monarch"
+        ],
+        "weight": 88,
+        "label": "Crowned King of Jerusalem",
+        "labelCn": "加冕为耶路撒冷国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Fulk_V,_Count_of_Anjou"
+      },
+      {
+        "year": 1143,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 76,
+        "label": "Died in the Kingdom of Jerusalem",
+        "labelCn": "卒于耶路撒冷王国",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Fulk_V,_Count_of_Anjou"
+      }
+    ],
+    "wikiUrl": "https://www.larousse.fr/encyclopedie/groupe-personnage/Plantagen%C3%AAt/138392",
+    "portraitUrl": "",
+    "sourceUrl": "https://www.larousse.fr/encyclopedie/groupe-personnage/Plantagen%C3%AAt/138392",
+    "sourceNote": "Detailed card: Count of Anjou and King of Jerusalem; father of Geoffrey V and of the Jerusalem kings Baldwin III and Amalric I.",
+    "notes": "Transferred the Angevin county to his son Geoffrey V before becoming king of Jerusalem through his marriage to Melisende. His Jerusalem sons Baldwin III and Amalric I continued the royal line.",
+    "createdDate": "20260822",
+    "createdOrder": 38
+  },
+  {
+    "id": "c9310000-0000-4000-8000-000000000027",
+    "displayName": "Élisabeth de Vendôme",
+    "fullName": "Élisabeth de Vendôme, Countess of Anjou",
+    "displayNameCn": "旺多姆的伊丽莎白",
+    "birthYear": 970,
+    "deathYear": 1000,
+    "title": "Countess of Anjou",
+    "titleCn": "安茹伯爵夫人",
+    "rating": 5,
+    "spouseIds": [
+      "c9250000-0000-4000-8000-000000000021"
+    ],
+    "childIds": [
+      "c9320000-0000-4000-8000-000000000028"
+    ],
+    "firstName": "Élisabeth",
+    "lastName": "d'Anjou",
+    "fullNameCn": "Élisabeth de Vendôme, Countess of Anjou",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthPlace": "County of Anjou",
+    "birthPlaceCn": "安茹伯国",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "female",
+    "dynasty": "House of Anjou",
+    "house": "House of Anjou",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Countess of Anjou",
+    "primaryTitleCn": "安茹伯爵夫人",
+    "titles": [
+      {
+        "title": "Countess of Anjou",
+        "titleCn": "安茹伯爵夫人",
+        "startYear": "",
+        "endYear": 1000
+      }
+    ],
+    "tags": [
+      "count",
+      "consort",
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "c9250000-0000-4000-8000-000000000021"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "c9320000-0000-4000-8000-000000000028"
+      ]
+    },
+    "events": [],
+    "wikiUrl": "https://www.larousse.fr/archives/histoire_de_france/page/479",
+    "portraitUrl": "",
+    "sourceUrl": "https://www.larousse.fr/archives/histoire_de_france/page/479",
+    "sourceNote": "Basic family card for Foulques III Nerra's documented wives and children.",
+    "notes": "Added while completing Foulques III Nerra's family.",
+    "createdDate": "20260822",
+    "createdOrder": 39
+  },
+  {
+    "id": "c9320000-0000-4000-8000-000000000028",
+    "displayName": "Adèle de Vendôme-Anjou",
+    "fullName": "Adèle de Vendôme-Anjou, Countess of Vendôme",
+    "displayNameCn": "旺多姆—安茹的阿黛勒",
+    "birthYear": 990,
+    "deathYear": 1020,
+    "title": "Countess of Vendôme",
+    "titleCn": "旺多姆女伯爵",
+    "rating": 5,
+    "fatherId": "c9250000-0000-4000-8000-000000000021",
+    "motherId": "c9310000-0000-4000-8000-000000000027",
+    "firstName": "Adèle",
+    "lastName": "d'Anjou",
+    "fullNameCn": "Adèle de Vendôme-Anjou, Countess of Vendôme",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthPlace": "County of Anjou",
+    "birthPlaceCn": "安茹伯国",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "female",
+    "dynasty": "House of Anjou",
+    "house": "House of Anjou",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Countess of Vendôme",
+    "primaryTitleCn": "旺多姆女伯爵",
+    "titles": [
+      {
+        "title": "Countess of Vendôme",
+        "titleCn": "旺多姆女伯爵",
+        "startYear": "",
+        "endYear": 1020
+      }
+    ],
+    "tags": [
+      "count",
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "c9250000-0000-4000-8000-000000000021",
+      "motherId": "c9310000-0000-4000-8000-000000000027",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [],
+    "wikiUrl": "https://www.larousse.fr/archives/histoire_de_france/page/479",
+    "portraitUrl": "",
+    "sourceUrl": "https://www.larousse.fr/archives/histoire_de_france/page/479",
+    "sourceNote": "Basic family card for Foulques III Nerra's documented wives and children.",
+    "notes": "Added while completing Foulques III Nerra's family.",
+    "createdDate": "20260822",
+    "createdOrder": 40
+  },
+  {
+    "id": "c9330000-0000-4000-8000-000000000029",
+    "displayName": "Hildegarde de Sundgau",
+    "fullName": "Hildegarde de Sundgau, Countess of Anjou",
+    "displayNameCn": "松特高的希尔德加德",
+    "birthYear": 980,
+    "deathYear": 1046,
+    "title": "Countess of Anjou",
+    "titleCn": "安茹伯爵夫人",
+    "rating": 6,
+    "spouseIds": [
+      "c9250000-0000-4000-8000-000000000021"
+    ],
+    "childIds": [
+      "c9260000-0000-4000-8000-000000000022",
+      "c9340000-0000-4000-8000-000000000030"
+    ],
+    "firstName": "Hildegarde",
+    "lastName": "d'Anjou",
+    "fullNameCn": "Hildegarde de Sundgau, Countess of Anjou",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthPlace": "County of Anjou",
+    "birthPlaceCn": "安茹伯国",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "female",
+    "dynasty": "House of Anjou",
+    "house": "House of Anjou",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Countess of Anjou",
+    "primaryTitleCn": "安茹伯爵夫人",
+    "titles": [
+      {
+        "title": "Countess of Anjou",
+        "titleCn": "安茹伯爵夫人",
+        "startYear": "",
+        "endYear": 1046
+      }
+    ],
+    "tags": [
+      "count",
+      "consort",
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 60,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "c9250000-0000-4000-8000-000000000021"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "c9260000-0000-4000-8000-000000000022",
+        "c9340000-0000-4000-8000-000000000030"
+      ]
+    },
+    "events": [],
+    "wikiUrl": "https://www.larousse.fr/archives/histoire_de_france/page/479",
+    "portraitUrl": "",
+    "sourceUrl": "https://www.larousse.fr/archives/histoire_de_france/page/479",
+    "sourceNote": "Basic family card for Foulques III Nerra's documented wives and children.",
+    "notes": "Added while completing Foulques III Nerra's family.",
+    "createdDate": "20260822",
+    "createdOrder": 41
+  },
+  {
+    "id": "c9340000-0000-4000-8000-000000000030",
+    "displayName": "Ermengarde-Blanche d'Anjou",
+    "fullName": "Ermengarde-Blanche of Anjou",
+    "displayNameCn": "安茹的埃芒加德-布朗什",
+    "birthYear": 1018,
+    "deathYear": 1076,
+    "title": "Countess of Gâtinais",
+    "titleCn": "加蒂奈伯爵夫人",
+    "rating": 6,
+    "fatherId": "c9250000-0000-4000-8000-000000000021",
+    "motherId": "c9330000-0000-4000-8000-000000000029",
+    "spouseIds": [
+      "c9270000-0000-4000-8000-000000000023"
+    ],
+    "childIds": [
+      "c9280000-0000-4000-8000-000000000024",
+      "c9290000-0000-4000-8000-000000000025"
+    ],
+    "firstName": "Ermengarde-Blanche",
+    "lastName": "d'Anjou",
+    "fullNameCn": "Ermengarde-Blanche of Anjou",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthPlace": "County of Anjou",
+    "birthPlaceCn": "安茹伯国",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "female",
+    "dynasty": "House of Anjou",
+    "house": "House of Anjou",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Countess of Gâtinais",
+    "primaryTitleCn": "加蒂奈伯爵夫人",
+    "titles": [
+      {
+        "title": "Countess of Gâtinais",
+        "titleCn": "加蒂奈伯爵夫人",
+        "startYear": "",
+        "endYear": 1076
+      }
+    ],
+    "tags": [
+      "count",
+      "consort",
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 60,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "c9250000-0000-4000-8000-000000000021",
+      "motherId": "c9330000-0000-4000-8000-000000000029",
+      "spouseIds": [
+        "c9270000-0000-4000-8000-000000000023"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "c9280000-0000-4000-8000-000000000024",
+        "c9290000-0000-4000-8000-000000000025"
+      ]
+    },
+    "events": [],
+    "wikiUrl": "https://www.larousse.fr/archives/histoire_de_france/page/479",
+    "portraitUrl": "",
+    "sourceUrl": "https://www.larousse.fr/archives/histoire_de_france/page/479",
+    "sourceNote": "Basic family card for Foulques III Nerra's documented wives and children.",
+    "notes": "Added while completing Foulques III Nerra's family.",
+    "createdDate": "20260822",
+    "createdOrder": 42
+  },
+  {
+    "id": "c9350000-0000-4000-8000-000000000031",
+    "firstName": "Ermengarde",
+    "lastName": "of Jerusalem",
+    "displayName": "Ermengarde of Maine",
+    "fullName": "Ermengarde of Maine, Countess of Anjou",
+    "displayNameCn": "曼恩的埃芒加德",
+    "fullNameCn": "Ermengarde of Maine, Countess of Anjou",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1096,
+    "deathYear": 1126,
+    "birthPlace": "Latin East",
+    "birthPlaceCn": "拉丁东方",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "female",
+    "dynasty": "House of Anjou",
+    "house": "House of Anjou",
+    "culture": "Frankish",
+    "faith": "Catholic",
+    "primaryTitle": "Countess of Anjou",
+    "primaryTitleCn": "安茹伯爵夫人",
+    "titles": [
+      {
+        "title": "Countess of Anjou",
+        "titleCn": "安茹伯爵夫人",
+        "startYear": "",
+        "endYear": 1126
+      }
+    ],
+    "tags": [
+      "count",
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "c9300000-0000-4000-8000-000000000026"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "cc0cb400-e684-4bdb-b477-9a8fb578f4f5",
+        "c9360000-0000-4000-8000-000000000032",
+        "c9370000-0000-4000-8000-000000000033",
+        "c9380000-0000-4000-8000-000000000034"
+      ]
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Fulk_V,_Count_of_Anjou",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Fulk_V,_Count_of_Anjou",
+    "sourceNote": "Basic family card for the Angevin and Jerusalem succession.",
+    "notes": "Added to connect Foulques V of Anjou with the Jerusalem royal family.",
+    "createdDate": "20260822",
+    "createdOrder": 43
+  },
+  {
+    "id": "c9360000-0000-4000-8000-000000000032",
+    "firstName": "Matilda",
+    "lastName": "of Jerusalem",
+    "displayName": "Matilda of Anjou",
+    "fullName": "Matilda of Anjou, Countess of Flanders",
+    "displayNameCn": "安茹的玛蒂尔达",
+    "fullNameCn": "Matilda of Anjou, Countess of Flanders",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1102,
+    "deathYear": 1154,
+    "birthPlace": "Latin East",
+    "birthPlaceCn": "拉丁东方",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "female",
+    "dynasty": "House of Anjou",
+    "house": "House of Anjou",
+    "culture": "Frankish",
+    "faith": "Catholic",
+    "primaryTitle": "Countess of Flanders",
+    "primaryTitleCn": "佛兰德女伯爵",
+    "titles": [
+      {
+        "title": "Countess of Flanders",
+        "titleCn": "佛兰德女伯爵",
+        "startYear": "",
+        "endYear": 1154
+      }
+    ],
+    "tags": [
+      "count",
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 60,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "c9300000-0000-4000-8000-000000000026",
+      "motherId": "c9350000-0000-4000-8000-000000000031",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Fulk_V,_Count_of_Anjou",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Fulk_V,_Count_of_Anjou",
+    "sourceNote": "Basic family card for the Angevin and Jerusalem succession.",
+    "notes": "Added to connect Foulques V of Anjou with the Jerusalem royal family.",
+    "createdDate": "20260822",
+    "createdOrder": 44
+  },
+  {
+    "id": "c9370000-0000-4000-8000-000000000033",
+    "firstName": "Sibylla",
+    "lastName": "of Jerusalem",
+    "displayName": "Sibylla of Anjou",
+    "fullName": "Sibylla of Anjou, Countess of Flanders",
+    "displayNameCn": "安茹的西比拉",
+    "fullNameCn": "Sibylla of Anjou, Countess of Flanders",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1112,
+    "deathYear": 1165,
+    "birthPlace": "Latin East",
+    "birthPlaceCn": "拉丁东方",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "female",
+    "dynasty": "House of Anjou",
+    "house": "House of Anjou",
+    "culture": "Frankish",
+    "faith": "Catholic",
+    "primaryTitle": "Countess of Flanders",
+    "primaryTitleCn": "佛兰德女伯爵",
+    "titles": [
+      {
+        "title": "Countess of Flanders",
+        "titleCn": "佛兰德女伯爵",
+        "startYear": "",
+        "endYear": 1165
+      }
+    ],
+    "tags": [
+      "count",
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 60,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "c9300000-0000-4000-8000-000000000026",
+      "motherId": "c9350000-0000-4000-8000-000000000031",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Fulk_V,_Count_of_Anjou",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Fulk_V,_Count_of_Anjou",
+    "sourceNote": "Basic family card for the Angevin and Jerusalem succession.",
+    "notes": "Added to connect Foulques V of Anjou with the Jerusalem royal family.",
+    "createdDate": "20260822",
+    "createdOrder": 45
+  },
+  {
+    "id": "c9380000-0000-4000-8000-000000000034",
+    "firstName": "Elias",
+    "lastName": "of Jerusalem",
+    "displayName": "Elias II of Maine",
+    "fullName": "Elias II, Count of Maine",
+    "displayNameCn": "曼恩的埃利亚斯二世",
+    "fullNameCn": "Elias II, Count of Maine",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1113,
+    "deathYear": 1151,
+    "birthPlace": "Latin East",
+    "birthPlaceCn": "拉丁东方",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "female",
+    "dynasty": "House of Anjou",
+    "house": "House of Anjou",
+    "culture": "Frankish",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Maine",
+    "primaryTitleCn": "曼恩伯爵",
+    "titles": [
+      {
+        "title": "Count of Maine",
+        "titleCn": "曼恩伯爵",
+        "startYear": "",
+        "endYear": 1151
+      }
+    ],
+    "tags": [
+      "count",
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "c9300000-0000-4000-8000-000000000026",
+      "motherId": "c9350000-0000-4000-8000-000000000031",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Fulk_V,_Count_of_Anjou",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Fulk_V,_Count_of_Anjou",
+    "sourceNote": "Basic family card for the Angevin and Jerusalem succession.",
+    "notes": "Added to connect Foulques V of Anjou with the Jerusalem royal family.",
+    "createdDate": "20260822",
+    "createdOrder": 46
+  },
+  {
+    "id": "c9390000-0000-4000-8000-000000000035",
+    "firstName": "Melisende",
+    "lastName": "of Jerusalem",
+    "displayName": "Melisende of Jerusalem",
+    "fullName": "Melisende, Queen of Jerusalem",
+    "displayNameCn": "耶路撒冷的梅丽桑德",
+    "fullNameCn": "Melisende, Queen of Jerusalem",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1105,
+    "deathYear": 1161,
+    "birthPlace": "Latin East",
+    "birthPlaceCn": "拉丁东方",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "female",
+    "dynasty": "House of Anjou",
+    "house": "House of Anjou",
+    "culture": "Frankish",
+    "faith": "Catholic",
+    "primaryTitle": "Queen of Jerusalem",
+    "primaryTitleCn": "耶路撒冷女王",
+    "titles": [
+      {
+        "title": "Queen of Jerusalem",
+        "titleCn": "耶路撒冷女王",
+        "startYear": "",
+        "endYear": 1161
+      }
+    ],
+    "tags": [
+      "queen",
+      "consort",
+      "noble"
+    ],
+    "rank": "queen",
+    "importanceScore": 80,
+    "historicalRating": 8,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "c9300000-0000-4000-8000-000000000026"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "c9400000-0000-4000-8000-000000000036",
+        "c9410000-0000-4000-8000-000000000037"
+      ]
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Fulk_V,_Count_of_Anjou",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Fulk_V,_Count_of_Anjou",
+    "sourceNote": "Basic family card for the Angevin and Jerusalem succession.",
+    "notes": "Added to connect Foulques V of Anjou with the Jerusalem royal family.",
+    "createdDate": "20260822",
+    "createdOrder": 47
+  },
+  {
+    "id": "c9400000-0000-4000-8000-000000000036",
+    "firstName": "Baldwin",
+    "lastName": "of Jerusalem",
+    "displayName": "Baldwin III of Jerusalem",
+    "fullName": "Baldwin III, King of Jerusalem",
+    "displayNameCn": "耶路撒冷的博杜安三世",
+    "fullNameCn": "Baldwin III, King of Jerusalem",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1130,
+    "deathYear": 1163,
+    "birthPlace": "Latin East",
+    "birthPlaceCn": "拉丁东方",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "House of Anjou",
+    "house": "House of Anjou",
+    "culture": "Frankish",
+    "faith": "Catholic",
+    "primaryTitle": "King of Jerusalem",
+    "primaryTitleCn": "耶路撒冷国王",
+    "titles": [
+      {
+        "title": "King of Jerusalem",
+        "titleCn": "耶路撒冷国王",
+        "startYear": "",
+        "endYear": 1163
+      }
+    ],
+    "tags": [
+      "king",
+      "monarch",
+      "noble"
+    ],
+    "rank": "king",
+    "importanceScore": 80,
+    "historicalRating": 8,
+    "relationships": {
+      "fatherId": "c9300000-0000-4000-8000-000000000026",
+      "motherId": "c9390000-0000-4000-8000-000000000035",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Fulk_V,_Count_of_Anjou",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Fulk_V,_Count_of_Anjou",
+    "sourceNote": "Basic family card for the Angevin and Jerusalem succession.",
+    "notes": "Added to connect Foulques V of Anjou with the Jerusalem royal family.",
+    "createdDate": "20260822",
+    "createdOrder": 48
+  },
+  {
+    "id": "c9410000-0000-4000-8000-000000000037",
+    "firstName": "Amalric",
+    "lastName": "of Jerusalem",
+    "displayName": "Amalric I of Jerusalem",
+    "fullName": "Amalric I, King of Jerusalem",
+    "displayNameCn": "耶路撒冷的阿马尔里克一世",
+    "fullNameCn": "Amalric I, King of Jerusalem",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1136,
+    "deathYear": 1174,
+    "birthPlace": "Latin East",
+    "birthPlaceCn": "拉丁东方",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "House of Anjou",
+    "house": "House of Anjou",
+    "culture": "Frankish",
+    "faith": "Catholic",
+    "primaryTitle": "King of Jerusalem",
+    "primaryTitleCn": "耶路撒冷国王",
+    "titles": [
+      {
+        "title": "King of Jerusalem",
+        "titleCn": "耶路撒冷国王",
+        "startYear": "",
+        "endYear": 1174
+      }
+    ],
+    "tags": [
+      "king",
+      "monarch",
+      "noble"
+    ],
+    "rank": "king",
+    "importanceScore": 80,
+    "historicalRating": 8,
+    "relationships": {
+      "fatherId": "c9300000-0000-4000-8000-000000000026",
+      "motherId": "c9390000-0000-4000-8000-000000000035",
+      "spouseIds": [
+        "c9420000-0000-4000-8000-000000000038",
+        "c9430000-0000-4000-8000-000000000039"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "c9440000-0000-4000-8000-000000000040",
+        "c9450000-0000-4000-8000-000000000041",
+        "c9460000-0000-4000-8000-000000000042"
+      ]
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Fulk_V,_Count_of_Anjou",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Fulk_V,_Count_of_Anjou",
+    "sourceNote": "Basic family card for the Angevin and Jerusalem succession.",
+    "notes": "Added to connect Foulques V of Anjou with the Jerusalem royal family.",
+    "createdDate": "20260822",
+    "createdOrder": 49
+  },
+  {
+    "id": "c9420000-0000-4000-8000-000000000038",
+    "firstName": "Agnes",
+    "lastName": "of Jerusalem",
+    "displayName": "Agnes of Courtenay",
+    "fullName": "Agnes of Courtenay, Queen of Jerusalem",
+    "displayNameCn": "库特奈的艾格尼丝",
+    "fullNameCn": "Agnes of Courtenay, Queen of Jerusalem",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1136,
+    "deathYear": 1184,
+    "birthPlace": "Latin East",
+    "birthPlaceCn": "拉丁东方",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "female",
+    "dynasty": "House of Anjou",
+    "house": "House of Anjou",
+    "culture": "Frankish",
+    "faith": "Catholic",
+    "primaryTitle": "Queen of Jerusalem",
+    "primaryTitleCn": "耶路撒冷王后",
+    "titles": [
+      {
+        "title": "Queen of Jerusalem",
+        "titleCn": "耶路撒冷王后",
+        "startYear": "",
+        "endYear": 1184
+      }
+    ],
+    "tags": [
+      "queen",
+      "consort",
+      "noble"
+    ],
+    "rank": "queen",
+    "importanceScore": 70,
+    "historicalRating": 7,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "c9410000-0000-4000-8000-000000000037"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "c9440000-0000-4000-8000-000000000040",
+        "c9450000-0000-4000-8000-000000000041"
+      ]
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Fulk_V,_Count_of_Anjou",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Fulk_V,_Count_of_Anjou",
+    "sourceNote": "Basic family card for the Angevin and Jerusalem succession.",
+    "notes": "Added to connect Foulques V of Anjou with the Jerusalem royal family.",
+    "createdDate": "20260822",
+    "createdOrder": 50
+  },
+  {
+    "id": "c9430000-0000-4000-8000-000000000039",
+    "firstName": "Maria",
+    "lastName": "of Jerusalem",
+    "displayName": "Maria Komnene",
+    "fullName": "Maria Komnene, Queen of Jerusalem",
+    "displayNameCn": "科穆宁的玛丽亚",
+    "fullNameCn": "Maria Komnene, Queen of Jerusalem",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1152,
+    "deathYear": 1182,
+    "birthPlace": "Latin East",
+    "birthPlaceCn": "拉丁东方",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "female",
+    "dynasty": "House of Anjou",
+    "house": "House of Anjou",
+    "culture": "Frankish",
+    "faith": "Catholic",
+    "primaryTitle": "Queen of Jerusalem",
+    "primaryTitleCn": "耶路撒冷王后",
+    "titles": [
+      {
+        "title": "Queen of Jerusalem",
+        "titleCn": "耶路撒冷王后",
+        "startYear": "",
+        "endYear": 1182
+      }
+    ],
+    "tags": [
+      "queen",
+      "consort",
+      "noble"
+    ],
+    "rank": "queen",
+    "importanceScore": 70,
+    "historicalRating": 7,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "c9410000-0000-4000-8000-000000000037"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "c9460000-0000-4000-8000-000000000042"
+      ]
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Fulk_V,_Count_of_Anjou",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Fulk_V,_Count_of_Anjou",
+    "sourceNote": "Basic family card for the Angevin and Jerusalem succession.",
+    "notes": "Added to connect Foulques V of Anjou with the Jerusalem royal family.",
+    "createdDate": "20260822",
+    "createdOrder": 51
+  },
+  {
+    "id": "c9440000-0000-4000-8000-000000000040",
+    "firstName": "Baldwin",
+    "lastName": "of Jerusalem",
+    "displayName": "Baldwin IV of Jerusalem",
+    "fullName": "Baldwin IV, King of Jerusalem",
+    "displayNameCn": "耶路撒冷的博杜安四世",
+    "fullNameCn": "Baldwin IV, King of Jerusalem",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1161,
+    "deathYear": 1185,
+    "birthPlace": "Latin East",
+    "birthPlaceCn": "拉丁东方",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "House of Anjou",
+    "house": "House of Anjou",
+    "culture": "Frankish",
+    "faith": "Catholic",
+    "primaryTitle": "King of Jerusalem",
+    "primaryTitleCn": "耶路撒冷国王",
+    "titles": [
+      {
+        "title": "King of Jerusalem",
+        "titleCn": "耶路撒冷国王",
+        "startYear": "",
+        "endYear": 1185
+      }
+    ],
+    "tags": [
+      "king",
+      "monarch",
+      "noble"
+    ],
+    "rank": "king",
+    "importanceScore": 90,
+    "historicalRating": 9,
+    "relationships": {
+      "fatherId": "c9410000-0000-4000-8000-000000000037",
+      "motherId": "c9420000-0000-4000-8000-000000000038",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Fulk_V,_Count_of_Anjou",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Fulk_V,_Count_of_Anjou",
+    "sourceNote": "Basic family card for the Angevin and Jerusalem succession.",
+    "notes": "Added to connect Foulques V of Anjou with the Jerusalem royal family.",
+    "createdDate": "20260822",
+    "createdOrder": 52
+  },
+  {
+    "id": "c9450000-0000-4000-8000-000000000041",
+    "firstName": "Sibylla",
+    "lastName": "of Jerusalem",
+    "displayName": "Sibylla of Jerusalem",
+    "fullName": "Sibylla, Queen of Jerusalem",
+    "displayNameCn": "耶路撒冷的西比拉",
+    "fullNameCn": "Sibylla, Queen of Jerusalem",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1159,
+    "deathYear": 1190,
+    "birthPlace": "Latin East",
+    "birthPlaceCn": "拉丁东方",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "female",
+    "dynasty": "House of Anjou",
+    "house": "House of Anjou",
+    "culture": "Frankish",
+    "faith": "Catholic",
+    "primaryTitle": "Queen of Jerusalem",
+    "primaryTitleCn": "耶路撒冷女王",
+    "titles": [
+      {
+        "title": "Queen of Jerusalem",
+        "titleCn": "耶路撒冷女王",
+        "startYear": "",
+        "endYear": 1190
+      }
+    ],
+    "tags": [
+      "queen",
+      "monarch",
+      "noble"
+    ],
+    "rank": "queen",
+    "importanceScore": 80,
+    "historicalRating": 8,
+    "relationships": {
+      "fatherId": "c9410000-0000-4000-8000-000000000037",
+      "motherId": "c9420000-0000-4000-8000-000000000038",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Fulk_V,_Count_of_Anjou",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Fulk_V,_Count_of_Anjou",
+    "sourceNote": "Basic family card for the Angevin and Jerusalem succession.",
+    "notes": "Added to connect Foulques V of Anjou with the Jerusalem royal family.",
+    "createdDate": "20260822",
+    "createdOrder": 53
+  },
+  {
+    "id": "c9460000-0000-4000-8000-000000000042",
+    "firstName": "Isabella",
+    "lastName": "of Jerusalem",
+    "displayName": "Isabella I of Jerusalem",
+    "fullName": "Isabella I, Queen of Jerusalem",
+    "displayNameCn": "耶路撒冷的伊莎贝拉一世",
+    "fullNameCn": "Isabella I, Queen of Jerusalem",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1172,
+    "deathYear": 1205,
+    "birthPlace": "Latin East",
+    "birthPlaceCn": "拉丁东方",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "female",
+    "dynasty": "House of Anjou",
+    "house": "House of Anjou",
+    "culture": "Frankish",
+    "faith": "Catholic",
+    "primaryTitle": "Queen of Jerusalem",
+    "primaryTitleCn": "耶路撒冷女王",
+    "titles": [
+      {
+        "title": "Queen of Jerusalem",
+        "titleCn": "耶路撒冷女王",
+        "startYear": "",
+        "endYear": 1205
+      }
+    ],
+    "tags": [
+      "queen",
+      "monarch",
+      "noble"
+    ],
+    "rank": "queen",
+    "importanceScore": 80,
+    "historicalRating": 8,
+    "relationships": {
+      "fatherId": "c9410000-0000-4000-8000-000000000037",
+      "motherId": "c9430000-0000-4000-8000-000000000039",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Fulk_V,_Count_of_Anjou",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Fulk_V,_Count_of_Anjou",
+    "sourceNote": "Basic family card for the Angevin and Jerusalem succession.",
+    "notes": "Added to connect Foulques V of Anjou with the Jerusalem royal family.",
+    "createdDate": "20260822",
+    "createdOrder": 54
+  }
+]

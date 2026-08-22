@@ -21,7 +21,6 @@ export function TreeCatalogPage({ onHome, onTitles, onEnter }: { onHome: () => v
   return (
     <main className="title-page tree-catalog-page">
       <div className="title-page-topbar">
-        <p className="eyebrow">{t.familyTree}</p>
         <div className="topbar-actions">
           <PageTabs page="tree" onHome={onHome} onTree={() => undefined} onTitles={onTitles} />
           <div className="language-toggle" aria-label={t.language}>

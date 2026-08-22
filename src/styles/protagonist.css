@@ -5,11 +5,11 @@
   overflow-x: hidden;
   padding: clamp(16px, 2.5vw, 28px);
   background:
-    radial-gradient(circle at 24% 24%, rgba(183, 139, 67, 0.24), transparent 28%),
-    radial-gradient(circle at 78% 18%, rgba(126, 34, 34, 0.18), transparent 30%),
-    linear-gradient(90deg, rgba(40, 69, 70, 0.09) 1px, transparent 1px),
-    linear-gradient(rgba(40, 69, 70, 0.09) 1px, transparent 1px),
-    #efe4d0;
+    radial-gradient(circle at 24% 24%, var(--page-glow-one), transparent 28%),
+    radial-gradient(circle at 78% 18%, var(--page-glow-two), transparent 30%),
+    linear-gradient(90deg, var(--page-grid) 1px, transparent 1px),
+    linear-gradient(var(--page-grid) 1px, transparent 1px),
+    var(--page-base);
   background-size: auto, auto, 34px 34px, 34px 34px, auto;
 }
 
@@ -24,7 +24,7 @@
 
 .protagonist-topbar {
   position: relative;
-  z-index: 1;
+  z-index: 70;
   display: flex;
   align-items: center;
   justify-content: flex-start;

@@ -1,0 +1,1198 @@
+[
+  {
+    "id": "6181b0ca-27a6-4f18-bd23-673f55652e23",
+    "firstName": "Constance",
+    "lastName": "of Sicily",
+    "displayName": "Constance I of Sicily",
+    "fullName": "Constance I, Queen of Sicily",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Constance I",
+      "Constance of Hauteville"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "西西里的康斯坦丝一世",
+    "fullNameCn": "西西里女王康斯坦丝一世",
+    "nicknameCn": "",
+    "birthYear": 1154,
+    "deathYear": 1198,
+    "birthPlace": "Palermo, Kingdom of Sicily",
+    "birthPlaceCn": "西西里王国巴勒莫",
+    "deathPlace": "Palermo, Kingdom of Sicily",
+    "deathPlaceCn": "西西里王国巴勒莫",
+    "gender": "female",
+    "dynasty": "Hauteville dynasty",
+    "house": "Hauteville dynasty",
+    "culture": "Norman-Sicilian",
+    "faith": "Catholic",
+    "primaryTitle": "Queen of Sicily",
+    "primaryTitleCn": "西西里女王",
+    "titles": [
+      {
+        "title": "Queen of Sicily",
+        "startYear": 1194,
+        "endYear": 1198,
+        "titleCn": "西西里女王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "queen"
+    ],
+    "rank": "queen",
+    "importanceScore": 70,
+    "historicalRating": 7,
+    "relationships": {
+      "fatherId": "5b57dd7c-5717-4f3a-8a6c-e8c26a2bbaef",
+      "motherId": "",
+      "spouseIds": [
+        "0ab7ebf5-061d-4668-8554-ba7b6fbd01f7"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "ea19e505-86fe-4cb7-8e55-c42e9f0ebfd3"
+      ]
+    },
+    "events": [
+      {
+        "year": 1154,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Constance_I_of_Sicily"
+      },
+      {
+        "year": 1194,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Began rule as Queen of Sicily",
+        "labelCn": "开始担任西西里女王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Constance_I_of_Sicily"
+      },
+      {
+        "year": 1198,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Constance_I_of_Sicily"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Constance_I_of_Sicily",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Constance_I_of_Sicily",
+    "sourceNote": "Daughter of Roger II; queen regnant from 1194 and mother of Frederick II. Core timeline generated from recorded lifespan and titles on 2026-08-20.",
+    "notes": "Hauteville heiress whose marriage to Henry VI joined the Sicilian crown to the Hohenstaufen dynasty.",
+    "createdDate": "20260820",
+    "createdOrder": 28
+  },
+  {
+    "id": "5b57dd7c-5717-4f3a-8a6c-e8c26a2bbaef",
+    "firstName": "Roger",
+    "lastName": "Hauteville",
+    "displayName": "Roger II of Sicily",
+    "fullName": "Roger II, King of Sicily",
+    "nickname": "the Great",
+    "alsoKnownAs": [
+      "Roger II",
+      "Roger the Great"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "西西里的罗杰二世",
+    "fullNameCn": "西西里国王罗杰二世",
+    "nicknameCn": "大罗杰",
+    "birthYear": 1095,
+    "deathYear": 1154,
+    "birthPlace": "Mileto, Calabria",
+    "birthPlaceCn": "卡拉布里亚米莱托",
+    "deathPlace": "Palermo, Kingdom of Sicily",
+    "deathPlaceCn": "西西里王国巴勒莫",
+    "gender": "male",
+    "dynasty": "Hauteville dynasty",
+    "house": "Hauteville dynasty",
+    "culture": "Norman-Sicilian",
+    "faith": "Catholic",
+    "primaryTitle": "King of Sicily",
+    "primaryTitleCn": "西西里国王",
+    "titles": [
+      {
+        "title": "Count of Sicily",
+        "startYear": 1105,
+        "endYear": 1130,
+        "titleCn": "西西里伯爵"
+      },
+      {
+        "title": "King of Sicily",
+        "startYear": 1130,
+        "endYear": 1154,
+        "titleCn": "西西里国王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 82,
+    "historicalRating": 8,
+    "relationships": {
+      "fatherId": "bc40f488-ae11-4897-994f-bdb97eb3d80f",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "6181b0ca-27a6-4f18-bd23-673f55652e23"
+      ]
+    },
+    "events": [
+      {
+        "year": 1095,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 60,
+        "label": "Born at Mileto",
+        "labelCn": "出生于米莱托",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Roger_II_of_Sicily"
+      },
+      {
+        "year": 1105,
+        "type": "coronation",
+        "tags": [
+          "coronation"
+        ],
+        "weight": 67,
+        "label": "Succeeded as Count of Sicily",
+        "labelCn": "继承西西里伯爵位",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Roger_II_of_Sicily"
+      },
+      {
+        "year": 1130,
+        "type": "coronation",
+        "tags": [
+          "coronation"
+        ],
+        "weight": 74,
+        "label": "Crowned first King of Sicily",
+        "labelCn": "加冕为首位西西里国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Roger_II_of_Sicily"
+      },
+      {
+        "year": 1139,
+        "type": "battle",
+        "tags": [
+          "battle"
+        ],
+        "weight": 81,
+        "label": "Papal recognition after victory over Innocent II",
+        "labelCn": "战胜英诺森二世后获教宗承认",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Roger_II_of_Sicily"
+      },
+      {
+        "year": 1140,
+        "type": "government",
+        "tags": [
+          "government"
+        ],
+        "weight": 88,
+        "label": "Promulgated the Assizes of Ariano",
+        "labelCn": "颁布阿里亚诺法令",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Roger_II_of_Sicily"
+      },
+      {
+        "year": 1154,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 95,
+        "label": "Died at Palermo",
+        "labelCn": "逝世于巴勒莫",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Roger_II_of_Sicily"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Roger_II_of_Sicily",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Roger_II_of_Sicily",
+    "sourceNote": "Son of Roger I; became the first king of Sicily in 1130. Core chronology completed 2026-08-20.",
+    "notes": "First king of Sicily and architect of the Norman kingdom in southern Italy.",
+    "createdDate": "20260820",
+    "createdOrder": 29
+  },
+  {
+    "id": "bc40f488-ae11-4897-994f-bdb97eb3d80f",
+    "firstName": "Roger",
+    "lastName": "Hauteville",
+    "displayName": "Roger I of Sicily",
+    "fullName": "Roger I, Count of Sicily",
+    "nickname": "the Great Count",
+    "alsoKnownAs": [
+      "Roger I",
+      "Roger the Great Count"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "西西里的罗杰一世",
+    "fullNameCn": "西西里伯爵罗杰一世",
+    "nicknameCn": "大伯爵罗杰",
+    "birthYear": 1031,
+    "deathYear": 1101,
+    "birthPlace": "Normandy, France",
+    "birthPlaceCn": "法国诺曼底",
+    "deathPlace": "Mileto, Calabria",
+    "deathPlaceCn": "卡拉布里亚米莱托",
+    "gender": "male",
+    "dynasty": "Hauteville dynasty",
+    "house": "Hauteville dynasty",
+    "culture": "Norman",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Sicily",
+    "primaryTitleCn": "西西里伯爵",
+    "titles": [
+      {
+        "title": "Count of Sicily",
+        "startYear": 1071,
+        "endYear": 1101,
+        "titleCn": "西西里伯爵"
+      }
+    ],
+    "tags": [
+      "noble",
+      "count"
+    ],
+    "rank": "count",
+    "importanceScore": 72,
+    "historicalRating": 7,
+    "relationships": {
+      "fatherId": "e9683f99-faca-4896-932a-cb58424a0e46",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "5b57dd7c-5717-4f3a-8a6c-e8c26a2bbaef"
+      ]
+    },
+    "events": [
+      {
+        "year": 1031,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Roger_I_of_Sicily"
+      },
+      {
+        "year": 1071,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Began rule as Count of Sicily",
+        "labelCn": "开始担任西西里伯爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Roger_I_of_Sicily"
+      },
+      {
+        "year": 1101,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Roger_I_of_Sicily"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Roger_I_of_Sicily",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Roger_I_of_Sicily",
+    "sourceNote": "Youngest Hauteville brother; conquered Sicily alongside Robert Guiscard. Core timeline generated from recorded lifespan and titles on 2026-08-20.",
+    "notes": "Norman conqueror of Sicily and father of Roger II.",
+    "createdDate": "20260820",
+    "createdOrder": 30
+  },
+  {
+    "id": "e9683f99-faca-4896-932a-cb58424a0e46",
+    "firstName": "Tancred",
+    "lastName": "Hauteville",
+    "displayName": "Tancred of Hauteville",
+    "fullName": "Tancred, Lord of Hauteville",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Tancred de Hauteville"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "欧特维尔的坦克雷德",
+    "fullNameCn": "欧特维尔领主坦克雷德",
+    "nicknameCn": "",
+    "birthYear": 980,
+    "deathYear": 1041,
+    "birthPlace": "Hauteville-la-Guichard, Normandy",
+    "birthPlaceCn": "诺曼底欧特维尔-拉吉夏尔",
+    "deathPlace": "Hauteville-la-Guichard, Normandy",
+    "deathPlaceCn": "诺曼底欧特维尔-拉吉夏尔",
+    "gender": "male",
+    "dynasty": "Hauteville dynasty",
+    "house": "Hauteville dynasty",
+    "culture": "Norman",
+    "faith": "Catholic",
+    "primaryTitle": "Lord of Hauteville",
+    "primaryTitleCn": "欧特维尔领主",
+    "titles": [
+      {
+        "title": "Lord of Hauteville",
+        "startYear": "",
+        "endYear": 1041,
+        "titleCn": "欧特维尔领主"
+      }
+    ],
+    "tags": [
+      "noble"
+    ],
+    "rank": "noble",
+    "importanceScore": 58,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "da64f6ac-7fb4-4ba8-a4b3-9e4ebd93d6fe",
+        "c062b355-8fa7-4083-b4be-586cc551d9b0",
+        "3b62af2e-75e7-4e94-a723-9a26d6444bc0",
+        "bc40f488-ae11-4897-994f-bdb97eb3d80f"
+      ]
+    },
+    "events": [
+      {
+        "year": 980,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Tancred_of_Hauteville"
+      },
+      {
+        "year": 1041,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Tancred_of_Hauteville"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Tancred_of_Hauteville",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Tancred_of_Hauteville",
+    "sourceNote": "Norman lord and father of the Hauteville brothers who established power in southern Italy. Core timeline generated from recorded lifespan and titles on 2026-08-20.",
+    "notes": "Patriarch of the Hauteville family.",
+    "createdDate": "20260820",
+    "createdOrder": 31
+  },
+  {
+    "id": "da64f6ac-7fb4-4ba8-a4b3-9e4ebd93d6fe",
+    "firstName": "William",
+    "lastName": "Hauteville",
+    "displayName": "William Iron Arm",
+    "fullName": "William Iron Arm, Count of Apulia",
+    "nickname": "Iron Arm",
+    "alsoKnownAs": [
+      "William of Hauteville",
+      "William I of Apulia"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "铁臂威廉",
+    "fullNameCn": "普利亚伯爵铁臂威廉",
+    "nicknameCn": "铁臂",
+    "birthYear": "",
+    "deathYear": 1046,
+    "birthPlace": "Normandy, France",
+    "birthPlaceCn": "法国诺曼底",
+    "deathPlace": "Apulia, Italy",
+    "deathPlaceCn": "意大利普利亚",
+    "gender": "male",
+    "dynasty": "Hauteville dynasty",
+    "house": "Hauteville dynasty",
+    "culture": "Norman",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Apulia",
+    "primaryTitleCn": "普利亚伯爵",
+    "titles": [
+      {
+        "title": "Count of Apulia",
+        "startYear": 1042,
+        "endYear": 1046,
+        "titleCn": "普利亚伯爵"
+      }
+    ],
+    "tags": [
+      "noble",
+      "count"
+    ],
+    "rank": "count",
+    "importanceScore": 62,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "e9683f99-faca-4896-932a-cb58424a0e46",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1042,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Began rule as Count of Apulia",
+        "labelCn": "开始担任普利亚伯爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/William_I,_Count_of_Apulia"
+      },
+      {
+        "year": 1046,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/William_I,_Count_of_Apulia"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/William_I,_Count_of_Apulia",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/William_I,_Count_of_Apulia",
+    "sourceNote": "Tancred's son; elected the first Count of Apulia in 1042. Core timeline generated from recorded lifespan and titles on 2026-08-20.",
+    "notes": "Early Norman leader in southern Italy.",
+    "createdDate": "20260820",
+    "createdOrder": 32
+  },
+  {
+    "id": "c062b355-8fa7-4083-b4be-586cc551d9b0",
+    "firstName": "Humphrey",
+    "lastName": "Hauteville",
+    "displayName": "Humphrey of Hauteville",
+    "fullName": "Humphrey, Count of Apulia and Calabria",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Humphrey of Apulia"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "欧特维尔的汉弗莱",
+    "fullNameCn": "普利亚和卡拉布里亚伯爵汉弗莱",
+    "nicknameCn": "",
+    "birthYear": "",
+    "deathYear": 1057,
+    "birthPlace": "Normandy, France",
+    "birthPlaceCn": "法国诺曼底",
+    "deathPlace": "Italy",
+    "deathPlaceCn": "意大利",
+    "gender": "male",
+    "dynasty": "Hauteville dynasty",
+    "house": "Hauteville dynasty",
+    "culture": "Norman",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Apulia and Calabria",
+    "primaryTitleCn": "普利亚和卡拉布里亚伯爵",
+    "titles": [
+      {
+        "title": "Count of Apulia and Calabria",
+        "startYear": 1051,
+        "endYear": 1057,
+        "titleCn": "普利亚和卡拉布里亚伯爵"
+      }
+    ],
+    "tags": [
+      "noble",
+      "count"
+    ],
+    "rank": "count",
+    "importanceScore": 62,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "e9683f99-faca-4896-932a-cb58424a0e46",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1051,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Began rule as Count of Apulia and Calabria",
+        "labelCn": "开始担任普利亚和卡拉布里亚伯爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Humphrey_of_Hauteville"
+      },
+      {
+        "year": 1057,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Humphrey_of_Hauteville"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Humphrey_of_Hauteville",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Humphrey_of_Hauteville",
+    "sourceNote": "Tancred's son; succeeded his brother Drogo and defeated Pope Leo IX at Civitate. Core timeline generated from recorded lifespan and titles on 2026-08-20.",
+    "notes": "Norman count who strengthened Hauteville power in Apulia.",
+    "createdDate": "20260820",
+    "createdOrder": 33
+  },
+  {
+    "id": "3b62af2e-75e7-4e94-a723-9a26d6444bc0",
+    "firstName": "Robert",
+    "lastName": "Hauteville",
+    "displayName": "Robert Guiscard",
+    "fullName": "Robert Guiscard, Duke of Apulia and Calabria",
+    "nickname": "Guiscard",
+    "alsoKnownAs": [
+      "Robert de Hauteville"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "罗贝尔·吉斯卡尔",
+    "fullNameCn": "普利亚和卡拉布里亚公爵罗贝尔·吉斯卡尔",
+    "nicknameCn": "吉斯卡尔",
+    "birthYear": 1015,
+    "deathYear": 1085,
+    "birthPlace": "Normandy, France",
+    "birthPlaceCn": "法国诺曼底",
+    "deathPlace": "Cephalonia, Byzantine Empire",
+    "deathPlaceCn": "拜占庭帝国凯法利尼亚",
+    "gender": "male",
+    "dynasty": "Hauteville dynasty",
+    "house": "Hauteville dynasty",
+    "culture": "Norman",
+    "faith": "Catholic",
+    "primaryTitle": "Duke of Apulia and Calabria",
+    "primaryTitleCn": "普利亚和卡拉布里亚公爵",
+    "titles": [
+      {
+        "title": "Duke of Apulia and Calabria",
+        "startYear": 1059,
+        "endYear": 1085,
+        "titleCn": "普利亚和卡拉布里亚公爵"
+      }
+    ],
+    "tags": [
+      "noble",
+      "duke"
+    ],
+    "rank": "duke",
+    "importanceScore": 78,
+    "historicalRating": 7,
+    "relationships": {
+      "fatherId": "e9683f99-faca-4896-932a-cb58424a0e46",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "f3c21b0b-feb3-4826-9c75-19af2f3d3d93",
+        "4c886bb9-1bf9-4844-9a65-1b3bc0db197d"
+      ]
+    },
+    "events": [
+      {
+        "year": 1015,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Robert_Guiscard"
+      },
+      {
+        "year": 1059,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Began rule as Duke of Apulia and Calabria",
+        "labelCn": "开始担任普利亚和卡拉布里亚公爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Robert_Guiscard"
+      },
+      {
+        "year": 1085,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Robert_Guiscard"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Robert_Guiscard",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Robert_Guiscard",
+    "sourceNote": "Tancred's son; Duke of Apulia and Calabria from 1059, succeeded by Roger Borsa. Core timeline generated from recorded lifespan and titles on 2026-08-20.",
+    "notes": "Norman conqueror who built the Hauteville duchy in southern Italy.",
+    "createdDate": "20260820",
+    "createdOrder": 34
+  },
+  {
+    "id": "f3c21b0b-feb3-4826-9c75-19af2f3d3d93",
+    "firstName": "Bohemond",
+    "lastName": "Hauteville",
+    "displayName": "Bohemond I of Antioch",
+    "fullName": "Bohemond I, Prince of Antioch",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Bohemond of Taranto"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "安条克的博希蒙德一世",
+    "fullNameCn": "安条克亲王博希蒙德一世",
+    "nicknameCn": "",
+    "birthYear": 1054,
+    "deathYear": 1111,
+    "birthPlace": "San Marco Argentano, Calabria",
+    "birthPlaceCn": "卡拉布里亚圣马尔科阿真塔诺",
+    "deathPlace": "Canosa, Apulia",
+    "deathPlaceCn": "普利亚卡诺萨",
+    "gender": "male",
+    "dynasty": "Hauteville dynasty",
+    "house": "Hauteville dynasty",
+    "culture": "Norman",
+    "faith": "Catholic",
+    "primaryTitle": "Prince of Antioch",
+    "primaryTitleCn": "安条克亲王",
+    "titles": [
+      {
+        "title": "Prince of Antioch",
+        "startYear": 1098,
+        "endYear": 1111,
+        "titleCn": "安条克亲王"
+      }
+    ],
+    "tags": [
+      "noble",
+      "prince",
+      "crusader"
+    ],
+    "rank": "prince",
+    "importanceScore": 72,
+    "historicalRating": 7,
+    "relationships": {
+      "fatherId": "3b62af2e-75e7-4e94-a723-9a26d6444bc0",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1054,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Bohemond_I_of_Antioch"
+      },
+      {
+        "year": 1098,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Began rule as Prince of Antioch",
+        "labelCn": "开始担任安条克亲王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Bohemond_I_of_Antioch"
+      },
+      {
+        "year": 1111,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Bohemond_I_of_Antioch"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Bohemond_I_of_Antioch",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Bohemond_I_of_Antioch",
+    "sourceNote": "Eldest son of Robert Guiscard; First Crusade leader and first prince of Antioch. Core timeline generated from recorded lifespan and titles on 2026-08-20.",
+    "notes": "Hauteville crusader prince.",
+    "createdDate": "20260820",
+    "createdOrder": 35
+  },
+  {
+    "id": "4c886bb9-1bf9-4844-9a65-1b3bc0db197d",
+    "firstName": "Roger",
+    "lastName": "Hauteville",
+    "displayName": "Roger Borsa",
+    "fullName": "Roger Borsa, Duke of Apulia and Calabria",
+    "nickname": "Borsa",
+    "alsoKnownAs": [
+      "Roger I Borsa"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "罗杰·博尔萨",
+    "fullNameCn": "普利亚和卡拉布里亚公爵罗杰·博尔萨",
+    "nicknameCn": "博尔萨",
+    "birthYear": 1060,
+    "deathYear": 1111,
+    "birthPlace": "Italy",
+    "birthPlaceCn": "意大利",
+    "deathPlace": "Italy",
+    "deathPlaceCn": "意大利",
+    "gender": "male",
+    "dynasty": "Hauteville dynasty",
+    "house": "Hauteville dynasty",
+    "culture": "Norman",
+    "faith": "Catholic",
+    "primaryTitle": "Duke of Apulia and Calabria",
+    "primaryTitleCn": "普利亚和卡拉布里亚公爵",
+    "titles": [
+      {
+        "title": "Duke of Apulia and Calabria",
+        "startYear": 1085,
+        "endYear": 1111,
+        "titleCn": "普利亚和卡拉布里亚公爵"
+      }
+    ],
+    "tags": [
+      "noble",
+      "duke"
+    ],
+    "rank": "duke",
+    "importanceScore": 62,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "3b62af2e-75e7-4e94-a723-9a26d6444bc0",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1060,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Roger_Borsa"
+      },
+      {
+        "year": 1085,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Began rule as Duke of Apulia and Calabria",
+        "labelCn": "开始担任普利亚和卡拉布里亚公爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Roger_Borsa"
+      },
+      {
+        "year": 1111,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Roger_Borsa"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Roger_Borsa",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Roger_Borsa",
+    "sourceNote": "Son and successor of Robert Guiscard in Apulia and Calabria. Core timeline generated from recorded lifespan and titles on 2026-08-20.",
+    "notes": "Held the mainland Hauteville duchy after Robert Guiscard's death.",
+    "createdDate": "20260820",
+    "createdOrder": 36
+  },
+  {
+    "id": "b066f7a9-db23-482c-8e80-22c5b2089b67",
+    "firstName": "William",
+    "lastName": "Hauteville",
+    "displayName": "William I of Sicily",
+    "fullName": "William I of Sicily",
+    "nickname": "the Bad",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "西西里的威廉一世",
+    "fullNameCn": "西西里的威廉一世",
+    "nicknameCn": "",
+    "birthYear": 1120,
+    "deathYear": 1166,
+    "birthPlace": "Kingdom of Sicily",
+    "birthPlaceCn": "西西里王国",
+    "deathPlace": "Kingdom of Sicily",
+    "deathPlaceCn": "西西里王国",
+    "gender": "male",
+    "dynasty": "Hauteville dynasty",
+    "house": "Hauteville dynasty",
+    "culture": "Norman-Sicilian",
+    "faith": "Catholic",
+    "primaryTitle": "King of Sicily",
+    "primaryTitleCn": "西西里国王",
+    "titles": [
+      {
+        "title": "King of Sicily",
+        "startYear": 1154,
+        "endYear": 1166,
+        "titleCn": "西西里国王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 70,
+    "historicalRating": 7,
+    "relationships": {
+      "fatherId": "5b57dd7c-5717-4f3a-8a6c-e8c26a2bbaef",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "55d06847-0466-4a44-87d6-8485201df97e"
+      ]
+    },
+    "events": [
+      {
+        "year": 1120,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/William_I_of_Sicily"
+      },
+      {
+        "year": 1154,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Began rule as King of Sicily",
+        "labelCn": "开始担任西西里国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/William_I_of_Sicily"
+      },
+      {
+        "year": 1166,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/William_I_of_Sicily"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/William_I_of_Sicily",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/William_I_of_Sicily",
+    "sourceNote": "Second king of Sicily; son of Roger II. Core timeline generated from recorded lifespan and titles on 2026-08-20.",
+    "notes": "Second king of Sicily; son of Roger II.",
+    "createdDate": "20260820",
+    "createdOrder": 37
+  },
+  {
+    "id": "55d06847-0466-4a44-87d6-8485201df97e",
+    "firstName": "William",
+    "lastName": "Hauteville",
+    "displayName": "William II of Sicily",
+    "fullName": "William II of Sicily",
+    "nickname": "the Good",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "西西里的威廉二世",
+    "fullNameCn": "西西里的威廉二世",
+    "nicknameCn": "",
+    "birthYear": 1153,
+    "deathYear": 1189,
+    "birthPlace": "Kingdom of Sicily",
+    "birthPlaceCn": "西西里王国",
+    "deathPlace": "Kingdom of Sicily",
+    "deathPlaceCn": "西西里王国",
+    "gender": "male",
+    "dynasty": "Hauteville dynasty",
+    "house": "Hauteville dynasty",
+    "culture": "Norman-Sicilian",
+    "faith": "Catholic",
+    "primaryTitle": "King of Sicily",
+    "primaryTitleCn": "西西里国王",
+    "titles": [
+      {
+        "title": "King of Sicily",
+        "startYear": 1166,
+        "endYear": 1189,
+        "titleCn": "西西里国王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 70,
+    "historicalRating": 7,
+    "relationships": {
+      "fatherId": "b066f7a9-db23-482c-8e80-22c5b2089b67",
+      "motherId": "",
+      "spouseIds": [
+        "f77342f7-a04d-4d69-9f91-3068e067fc61"
+      ],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1153,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/William_II_of_Sicily"
+      },
+      {
+        "year": 1166,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Began rule as King of Sicily",
+        "labelCn": "开始担任西西里国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/William_II_of_Sicily"
+      },
+      {
+        "year": 1189,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/William_II_of_Sicily"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/William_II_of_Sicily",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/William_II_of_Sicily",
+    "sourceNote": "Third king of Sicily; son of William I and husband of Joan of England. Core timeline generated from recorded lifespan and titles on 2026-08-20.",
+    "notes": "Third king of Sicily; son of William I and husband of Joan of England.",
+    "createdDate": "20260820",
+    "createdOrder": 38
+  },
+  {
+    "id": "56a5b960-452f-44c5-a35e-7ec76203986b",
+    "firstName": "Tancred",
+    "lastName": "Hauteville",
+    "displayName": "Tancred of Sicily",
+    "fullName": "Tancred of Sicily",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "西西里的坦克雷德",
+    "fullNameCn": "西西里的坦克雷德",
+    "nicknameCn": "",
+    "birthYear": 1138,
+    "deathYear": 1194,
+    "birthPlace": "Kingdom of Sicily",
+    "birthPlaceCn": "西西里王国",
+    "deathPlace": "Kingdom of Sicily",
+    "deathPlaceCn": "西西里王国",
+    "gender": "male",
+    "dynasty": "Hauteville dynasty",
+    "house": "Hauteville dynasty",
+    "culture": "Norman-Sicilian",
+    "faith": "Catholic",
+    "primaryTitle": "King of Sicily",
+    "primaryTitleCn": "西西里国王",
+    "titles": [
+      {
+        "title": "King of Sicily",
+        "startYear": 1189,
+        "endYear": 1194,
+        "titleCn": "西西里国王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 60,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "0f23644c-5c99-4db1-a275-c38ce809e088"
+      ]
+    },
+    "events": [
+      {
+        "year": 1138,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Tancred_of_Sicily"
+      },
+      {
+        "year": 1189,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Began rule as King of Sicily",
+        "labelCn": "开始担任西西里国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Tancred_of_Sicily"
+      },
+      {
+        "year": 1194,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Tancred_of_Sicily"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Tancred_of_Sicily",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Tancred_of_Sicily",
+    "sourceNote": "Illegitimate grandson of Roger II who took the Sicilian crown after William II's death. Core timeline generated from recorded lifespan and titles on 2026-08-20.",
+    "notes": "Illegitimate grandson of Roger II who took the Sicilian crown after William II's death.",
+    "createdDate": "20260820",
+    "createdOrder": 39
+  },
+  {
+    "id": "0f23644c-5c99-4db1-a275-c38ce809e088",
+    "firstName": "William",
+    "lastName": "Hauteville",
+    "displayName": "William III of Sicily",
+    "fullName": "William III of Sicily",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "西西里的威廉三世",
+    "fullNameCn": "西西里的威廉三世",
+    "nicknameCn": "",
+    "birthYear": 1190,
+    "deathYear": 1198,
+    "birthPlace": "Kingdom of Sicily",
+    "birthPlaceCn": "西西里王国",
+    "deathPlace": "Kingdom of Sicily",
+    "deathPlaceCn": "西西里王国",
+    "gender": "male",
+    "dynasty": "Hauteville dynasty",
+    "house": "Hauteville dynasty",
+    "culture": "Norman-Sicilian",
+    "faith": "Catholic",
+    "primaryTitle": "King of Sicily",
+    "primaryTitleCn": "西西里国王",
+    "titles": [
+      {
+        "title": "King of Sicily",
+        "startYear": 1194,
+        "endYear": 1198,
+        "titleCn": "西西里国王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 40,
+    "historicalRating": 4,
+    "relationships": {
+      "fatherId": "56a5b960-452f-44c5-a35e-7ec76203986b",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/William_III_of_Sicily",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/William_III_of_Sicily",
+    "sourceNote": "Child king, displaced by Henry VI and Constance in 1194.",
+    "notes": "Child king, displaced by Henry VI and Constance in 1194.",
+    "createdDate": "20260820",
+    "createdOrder": 40
+  }
+]

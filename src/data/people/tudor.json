@@ -1142,7 +1142,63 @@
       "partnerIds": [],
       "childIds": []
     },
-    "events": [],
+    "events": [
+      {
+        "year": 1537,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 60,
+        "label": "Born at Hampton Court Palace",
+        "labelCn": "出生于汉普顿宫",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Edward_VI"
+      },
+      {
+        "year": 1547,
+        "type": "coronation",
+        "tags": [
+          "coronation"
+        ],
+        "weight": 67,
+        "label": "Succeeded Henry VIII as king",
+        "labelCn": "继承亨利八世王位",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Edward_VI"
+      },
+      {
+        "year": 1549,
+        "type": "government",
+        "tags": [
+          "government"
+        ],
+        "weight": 74,
+        "label": "Prayer Book Rebellion",
+        "labelCn": "祈祷书叛乱",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Edward_VI"
+      },
+      {
+        "year": 1552,
+        "type": "government",
+        "tags": [
+          "government"
+        ],
+        "weight": 81,
+        "label": "Second Book of Common Prayer introduced",
+        "labelCn": "推行第二版《公祷书》",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Edward_VI"
+      },
+      {
+        "year": 1553,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 88,
+        "label": "Died at Greenwich Palace",
+        "labelCn": "逝世于格林尼治宫",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Edward_VI"
+      }
+    ],
     "deathCause": {
       "kind": "normal",
       "summary": "Died after a prolonged illness",
@@ -1154,7 +1210,7 @@
     "wikiUrl": "https://en.wikipedia.org/wiki/Edward_VI",
     "portraitUrl": "",
     "sourceUrl": "https://en.wikipedia.org/wiki/Edward_VI",
-    "sourceNote": "Only son of Henry VIII to survive infancy; succeeded by Mary I after the short Lady Jane Grey episode.",
+    "sourceNote": "Only son of Henry VIII to survive infancy; succeeded by Mary I after the short Lady Jane Grey episode. Core chronology completed 2026-08-20.",
     "notes": "Basic main-line succession card; mother Jane Seymour is outside the current roster.",
     "createdDate": "20260817",
     "createdOrder": 48

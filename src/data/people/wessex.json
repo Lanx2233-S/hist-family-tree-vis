@@ -3986,11 +3986,46 @@
       "partnerIds": [],
       "childIds": []
     },
-    "events": [],
+    "events": [
+      {
+        "year": 941,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Eadwig"
+      },
+      {
+        "year": 955,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Began rule as King of the English",
+        "labelCn": "开始担任英格兰人的国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Eadwig"
+      },
+      {
+        "year": 959,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Eadwig"
+      }
+    ],
     "wikiUrl": "https://en.wikipedia.org/wiki/Eadwig",
     "portraitUrl": "",
     "sourceUrl": "https://en.wikipedia.org/wiki/Eadwig",
-    "sourceNote": "Son of Edmund I; ruled from 955 until his death in 959.",
+    "sourceNote": "Son of Edmund I; ruled from 955 until his death in 959. Core timeline generated from recorded lifespan and titles on 2026-08-20.",
     "notes": "Basic main-line card. His short reign was contested and England was divided in 957 between Eadwig in Wessex and his brother Edgar in Mercia.",
     "createdDate": "20260817",
     "createdOrder": 39,
@@ -4052,7 +4087,42 @@
       "partnerIds": [],
       "childIds": []
     },
-    "events": [],
+    "events": [
+      {
+        "year": 962,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Edward_the_Martyr"
+      },
+      {
+        "year": 975,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Began rule as King of the English",
+        "labelCn": "开始担任英格兰人的国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Edward_the_Martyr"
+      },
+      {
+        "year": 978,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Edward_the_Martyr"
+      }
+    ],
     "deathCause": {
       "kind": "violent",
       "summary": "Murdered at Corfe Castle",
@@ -4064,7 +4134,7 @@
     "wikiUrl": "https://en.wikipedia.org/wiki/Edward_the_Martyr",
     "portraitUrl": "",
     "sourceUrl": "https://en.wikipedia.org/wiki/Edward_the_Martyr",
-    "sourceNote": "Elder son of Edgar the Peaceful; murdered in 978 and later venerated as a saint.",
+    "sourceNote": "Elder son of Edgar the Peaceful; murdered in 978 and later venerated as a saint. Core timeline generated from recorded lifespan and titles on 2026-08-20.",
     "notes": "Basic main-line card.",
     "createdDate": "20260817",
     "createdOrder": 40

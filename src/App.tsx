@@ -11,6 +11,19 @@ import { copyFor, dynastyCn, tagText, textFor, years } from "./features/shared/p
 import { ProtagonistPage } from "./pages/ProtagonistPage";
 import { TitlePage } from "./pages/TitlePage";
 import { TreeCatalogPage } from "./pages/TreeCatalogPage";
+
+type Route = { page: AppPage; personId: string };
+function readRoute(): Route {
+  const parts = window.location.pathname.split("/").filter(Boolean);
+  if (parts[0] === "tree") return { page: "tree", personId: parts[1] ? decodeURIComponent(parts[1]) : "" };
+  if (parts[0] === "titles") return { page: "titles", personId: parts[1] ? decodeURIComponent(parts[1]) : "" };
+  return { page: "protagonists", personId: "" };
+}
+function routePath(page: AppPage, personId = "") {
+  if (page === "tree") return personId ? `/tree/${encodeURIComponent(personId)}` : "/tree";
+  if (page === "titles") return personId ? `/titles/${encodeURIComponent(personId)}` : "/titles";
+  return "/";
+}
 function Toolbar({ onSelectPerson, onAddPerson }: { onSelectPerson: (id: string) => void; onAddPerson: () => void }) {
   const people = useFamilyStore((state) => state.people);
   const selectedId = useFamilyStore((state) => state.selectedId);
@@ -127,18 +140,36 @@ function Toolbar({ onSelectPerson, onAddPerson }: { onSelectPerson: (id: string)
 }
 
 export default function App() {
-  const [page, setPage] = useState<AppPage>("protagonists");
+  const initialRoute = readRoute();
+  const [page, setPageState] = useState<AppPage>(initialRoute.page);
   const [centerHistory, setCenterHistory] = useState<string[]>([]);
-  const [titleFocusId, setTitleFocusId] = useState("");
-  const [treeFocusId, setTreeFocusId] = useState("");
+  const [titleFocusId, setTitleFocusId] = useState(initialRoute.page === "titles" ? initialRoute.personId : "");
+  const [treeFocusId, setTreeFocusId] = useState(initialRoute.page === "tree" ? initialRoute.personId : "");
   const [treeVisitKey, setTreeVisitKey] = useState(0);
   const [isPersonFormOpen, setPersonFormOpen] = useState(false);
   const selectedId = useFamilyStore((state) => state.selectedId);
   const setSelectedId = useFamilyStore((state) => state.setSelectedId);
   const people = useFamilyStore((state) => state.people);
   const language = useFamilyStore((state) => state.language);
+  const backgroundTheme = useFamilyStore((state) => state.backgroundTheme);
   const upsertPerson = useFamilyStore((state) => state.upsertPerson);
   const replacePeople = useFamilyStore((state) => state.replacePeople);
+
+  function navigate(nextPage: AppPage, personId = "") {
+    window.history.pushState({}, "", routePath(nextPage, personId));
+    setPageState(nextPage);
+  }
+
+  useEffect(() => {
+    const onPopState = () => {
+      const route = readRoute();
+      setPageState(route.page);
+      setTitleFocusId(route.page === "titles" ? route.personId : "");
+      setTreeFocusId(route.page === "tree" ? route.personId : "");
+    };
+    window.addEventListener("popstate", onPopState);
+    return () => window.removeEventListener("popstate", onPopState);
+  }, []);
 
   useEffect(() => {
     let isCurrent = true;
@@ -156,6 +187,10 @@ export default function App() {
     document.documentElement.lang = language === "cn" ? "zh-CN" : "en";
     document.title = copyFor(language).documentTitle;
   }, [language]);
+
+  useEffect(() => {
+    document.documentElement.dataset.theme = backgroundTheme;
+  }, [backgroundTheme]);
 
   function selectCenter(id: string) {
     if (id === selectedId) return;
@@ -178,7 +213,7 @@ export default function App() {
 
   function openTitleLineage(personId: string) {
     setTitleFocusId(personId);
-    setPage("titles");
+    navigate("titles", personId);
   }
 
   function openTree(personId: string) {
@@ -186,12 +221,12 @@ export default function App() {
     setTreeFocusId(personId);
     setCenterHistory([]);
     setTreeVisitKey((key) => key + 1);
-    setPage("tree");
+    navigate("tree", personId);
   }
 
   function openTreeCatalog() {
     setTreeFocusId("");
-    setPage("tree");
+    navigate("tree");
   }
 
   if (page === "protagonists") {
@@ -200,7 +235,7 @@ export default function App() {
         onTree={() => {
           openTreeCatalog();
         }}
-        onTitles={() => { setTitleFocusId(""); setPage("titles"); }}
+        onTitles={() => { setTitleFocusId(""); navigate("titles"); }}
         onEnter={(id) => {
           openTree(id);
         }}
@@ -211,7 +246,7 @@ export default function App() {
   if (page === "titles") {
     return (
       <TitlePage
-        onHome={() => setPage("protagonists")}
+        onHome={() => navigate("protagonists")}
         onTree={() => {
           openTreeCatalog();
         }}
@@ -222,18 +257,18 @@ export default function App() {
   }
 
   if (!treeFocusId) {
-    return <TreeCatalogPage onHome={() => setPage("protagonists")} onTitles={() => { setTitleFocusId(""); setPage("titles"); }} onEnter={openTree} />;
+    return <TreeCatalogPage onHome={() => navigate("protagonists")} onTitles={() => { setTitleFocusId(""); navigate("titles"); }} onEnter={openTree} />;
   }
 
   return (
     <main>
-      <PageTabs page="tree" onHome={() => setPage("protagonists")} onTree={() => {
+      <PageTabs page="tree" onHome={() => navigate("protagonists")} onTree={() => {
         openTreeCatalog();
-      }} onTitles={() => { setTitleFocusId(""); setPage("titles"); }} />
+      }} onTitles={() => { setTitleFocusId(""); navigate("titles"); }} />
       <Toolbar onSelectPerson={selectCenter} onAddPerson={() => setPersonFormOpen(true)} />
       <div className="workspace">
         <FamilyTree
-          onHome={() => setPage("protagonists")}
+          onHome={() => navigate("protagonists")}
           onBack={goBackCenter}
           canBack={centerHistory.length > 0}
           onSelectPerson={selectCenter}

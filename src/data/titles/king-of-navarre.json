@@ -1,0 +1,17 @@
+{
+  "id": "2e17b2b9-0a9f-47bb-a27b-e7c63824d931",
+  "canonicalName": "King of Navarre",
+  "canonicalNameCn": "纳瓦拉国王",
+  "form": "hereditary kingdom",
+  "aliases": ["Queen of Navarre", "Kingdom of Navarre", "Navarre"],
+  "nameForms": [
+    {"name":"King of Navarre","nameCn":"纳瓦拉国王","fromYear":1234,"untilYear":"","note":"The Champagne line acquired Navarre when Theobald I inherited the kingdom.","noteCn":"蒂博一世继承纳瓦拉王国后，香槟家族支系获得该王位。"}
+  ],
+  "holders": [
+    {"kind":"person","personId":"c7120000-0000-4000-8000-000000000012","startYear":1234,"endYear":1253,"titleForm":"King of Navarre","note":"First Champagne-line king of Navarre.","noteCn":"香槟支系首位纳瓦拉国王。","tierOverride":"king"},
+    {"kind":"person","personId":"c7130000-0000-4000-8000-000000000013","startYear":1253,"endYear":1270,"titleForm":"King of Navarre","note":"Succeeded Theobald I.","noteCn":"继承蒂博一世。","tierOverride":"king"},
+    {"kind":"person","personId":"c7140000-0000-4000-8000-000000000014","startYear":1270,"endYear":1274,"titleForm":"King of Navarre","note":"Succeeded Theobald II.","noteCn":"继承蒂博二世。","tierOverride":"king"},
+    {"kind":"person","personId":"27376224-deaa-4e09-9598-ed3599d8f9b2","startYear":1274,"endYear":1305,"titleForm":"Queen of Navarre","note":"Succeeded Henry I as queen regnant.","noteCn":"作为在位女王继承亨利一世。","tierOverride":"queen-regnant"},
+    {"kind":"person","personId":"f0d935d4-8efa-482c-bccb-ac105babc10d","startYear":1305,"endYear":1316,"titleForm":"King of Navarre","note":"Succeeded his mother Joan I as Louis I of Navarre.","noteCn":"作为纳瓦拉的路易一世继承母亲琼一世。","tierOverride":"king"}
+  ]
+}

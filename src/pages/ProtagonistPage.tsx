@@ -33,6 +33,8 @@ export function ProtagonistPage({ onEnter, onTree, onTitles }: { onEnter: (id: s
     { id: "ea19e505-86fe-4cb7-8e55-c42e9f0ebfd3", phase: "III", hook: "Stupor Mundi", hookCn: "世界的惊奇", toneKey: "pickToneHohenstaufen" as const },
     { id: "268c6586-a041-4aa7-9d66-92a7af3c4ac6", phase: "IV", hook: "Habsburg election", hookCn: "哈布斯堡当选", toneKey: "pickToneHabsburg" as const },
     { id: "80b3801a-ffca-4136-ba92-293b6b976e85", phase: "V", hook: "Luxembourg imperial revival", hookCn: "卢森堡王朝复兴", toneKey: "pickToneLuxembourg" as const },
+    { id: "db91c543-8aa9-43fa-b19b-b09be69989ed", phase: "VI", hook: "The Habsburg ascent", hookCn: "哈布斯堡崛起", toneKey: "pickToneMaximilian" as const },
+    { id: "adb801cd-8a69-4de3-92d8-107f7e11a1e6", phase: "VII", hook: "An empire on which the sun never sets", hookCn: "日不落帝国", toneKey: "pickToneCharlesV" as const },
   ];
   const activePicks = realm === "france" ? francePicks : realm === "germany" ? germanyPicks : picks;
   const visiblePicks = activePicks.slice(page * 4, page * 4 + 4);

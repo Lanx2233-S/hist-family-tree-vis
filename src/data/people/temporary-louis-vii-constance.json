@@ -1,0 +1,251 @@
+[
+  {
+    "id": "c9010000-0000-4000-8000-000000000001",
+    "displayName": "Constance of Castile",
+    "fullName": "Constance of Castile, Queen of France",
+    "displayNameCn": "卡斯蒂利亚的康斯坦萨",
+    "primaryTitle": "Queen of France",
+    "birthYear": 1136,
+    "deathYear": 1160,
+    "rank": "queen",
+    "order": 1,
+    "firstName": "Constance of Castile",
+    "lastName": "Capet",
+    "fullNameCn": "Constance of Castile, Queen of France",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthPlace": "Kingdom of France",
+    "birthPlaceCn": "法兰西王国",
+    "deathPlace": "Kingdom of France",
+    "deathPlaceCn": "法兰西王国",
+    "gender": "female",
+    "dynasty": "House of Capet",
+    "house": "House of Capet",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitleCn": "Queen of France",
+    "titles": [
+      {
+        "title": "Queen of France",
+        "titleCn": "Queen of France",
+        "startYear": "",
+        "endYear": 1160
+      }
+    ],
+    "tags": [
+      "queen",
+      "consort",
+      "noble"
+    ],
+    "importanceScore": 70,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "6ae9afe1-d639-482e-b9ea-13d27778f842"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "c9020000-0000-4000-8000-000000000002",
+        "c9030000-0000-4000-8000-000000000003"
+      ]
+    },
+    "events": [
+      {
+        "year": 1136,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "dynasty"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Louis_VII_of_France"
+      },
+      {
+        "year": 1160,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 55,
+        "label": "Died",
+        "labelCn": "去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Louis_VII_of_France"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Louis_VII_of_France",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Louis_VII_of_France",
+    "sourceNote": "Basic family card for Louis VII's second marriage and its children.",
+    "notes": "Child or spouse in the Louis VII / Constance of Castile branch.",
+    "createdDate": "20260822",
+    "createdOrder": 9
+  },
+  {
+    "id": "c9020000-0000-4000-8000-000000000002",
+    "displayName": "Margaret of France",
+    "fullName": "Margaret of France, Queen of England and Hungary",
+    "displayNameCn": "法兰西的玛格丽特",
+    "primaryTitle": "Queen of England and Hungary",
+    "birthYear": 1158,
+    "deathYear": 1197,
+    "rank": "queen",
+    "order": 2,
+    "firstName": "Margaret of France",
+    "lastName": "Capet",
+    "fullNameCn": "Margaret of France, Queen of England and Hungary",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthPlace": "Kingdom of France",
+    "birthPlaceCn": "法兰西王国",
+    "deathPlace": "Kingdom of France",
+    "deathPlaceCn": "法兰西王国",
+    "gender": "female",
+    "dynasty": "House of Capet",
+    "house": "House of Capet",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitleCn": "Queen of England and Hungary",
+    "titles": [
+      {
+        "title": "Queen of England and Hungary",
+        "titleCn": "Queen of England and Hungary",
+        "startYear": "",
+        "endYear": 1197
+      }
+    ],
+    "tags": [
+      "monarch"
+    ],
+    "importanceScore": 70,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "6ae9afe1-d639-482e-b9ea-13d27778f842",
+      "motherId": "c9010000-0000-4000-8000-000000000001",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1158,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "dynasty"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Louis_VII_of_France"
+      },
+      {
+        "year": 1197,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 55,
+        "label": "Died",
+        "labelCn": "去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Louis_VII_of_France"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Louis_VII_of_France",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Louis_VII_of_France",
+    "sourceNote": "Basic family card for Louis VII's second marriage and its children.",
+    "notes": "Child or spouse in the Louis VII / Constance of Castile branch.",
+    "createdDate": "20260822",
+    "createdOrder": 10
+  },
+  {
+    "id": "c9030000-0000-4000-8000-000000000003",
+    "displayName": "Alys of France",
+    "fullName": "Alys of France, Countess of Ponthieu",
+    "displayNameCn": "法兰西的阿莉丝",
+    "primaryTitle": "Countess of Ponthieu",
+    "birthYear": 1160,
+    "deathYear": 1220,
+    "rank": "count",
+    "order": 3,
+    "firstName": "Alys of France",
+    "lastName": "Capet",
+    "fullNameCn": "Alys of France, Countess of Ponthieu",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [
+      "Alice of France"
+    ],
+    "nicknameTags": [],
+    "birthPlace": "Kingdom of France",
+    "birthPlaceCn": "法兰西王国",
+    "deathPlace": "Kingdom of France",
+    "deathPlaceCn": "法兰西王国",
+    "gender": "female",
+    "dynasty": "House of Capet",
+    "house": "House of Capet",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitleCn": "Countess of Ponthieu",
+    "titles": [
+      {
+        "title": "Countess of Ponthieu",
+        "titleCn": "Countess of Ponthieu",
+        "startYear": "",
+        "endYear": 1220
+      }
+    ],
+    "tags": [
+      "noble"
+    ],
+    "importanceScore": 60,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "6ae9afe1-d639-482e-b9ea-13d27778f842",
+      "motherId": "c9010000-0000-4000-8000-000000000001",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1160,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "dynasty"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Louis_VII_of_France"
+      },
+      {
+        "year": 1220,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 55,
+        "label": "Died",
+        "labelCn": "去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Louis_VII_of_France"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Louis_VII_of_France",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Louis_VII_of_France",
+    "sourceNote": "Basic family card for Louis VII's second marriage and its children.",
+    "notes": "Child or spouse in the Louis VII / Constance of Castile branch.",
+    "createdDate": "20260822",
+    "createdOrder": 11
+  }
+]

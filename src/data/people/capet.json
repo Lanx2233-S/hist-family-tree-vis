@@ -42,6 +42,7 @@
       "motherId": "",
       "spouseIds": [
         "cbb11a70-0b0f-40ca-b9c6-95426b904bf6",
+        "c9010000-0000-4000-8000-000000000001",
         "c029f7d9-d6a1-4c57-b2f7-d847392cdbd7"
       ],
       "partnerIds": [],
@@ -49,7 +50,9 @@
         "f788cb6e-8238-45f7-838c-46768b8dacab",
         "a7953e51-4bf0-4d2d-916d-ae0bad4f56ce",
         "7cc009b6-08d8-459b-b40e-2921bf3e4580",
-        "608bccd6-7be9-4a60-9dbd-7187e866df83"
+        "608bccd6-7be9-4a60-9dbd-7187e866df83",
+        "c9020000-0000-4000-8000-000000000002",
+        "c9030000-0000-4000-8000-000000000003"
       ]
     },
     "events": [
@@ -1297,7 +1300,15 @@
       "spouseIds": [],
       "partnerIds": [],
       "childIds": [
-        "6ae9afe1-d639-482e-b9ea-13d27778f842"
+        "6ae9afe1-d639-482e-b9ea-13d27778f842",
+        "c8010000-0000-4000-8000-000000000001",
+        "c8020000-0000-4000-8000-000000000002",
+        "c8030000-0000-4000-8000-000000000003",
+        "c8040000-0000-4000-8000-000000000004",
+        "c8050000-0000-4000-8000-000000000005",
+        "c8060000-0000-4000-8000-000000000006",
+        "c8070000-0000-4000-8000-000000000007",
+        "c8080000-0000-4000-8000-000000000008"
       ]
     },
     "events": [
@@ -1818,7 +1829,9 @@
     "relationships": {
       "fatherId": "7cc009b6-08d8-459b-b40e-2921bf3e4580",
       "motherId": "244bb192-3eb6-4fa5-934c-30806c83ee5f",
-      "spouseIds": [],
+      "spouseIds": [
+        "0736f259-d8fa-4263-9a07-73475f48bfd3"
+      ],
       "partnerIds": [],
       "childIds": [
         "91f35e74-2dd3-4393-9858-0fc6b5acc537"
@@ -2404,8 +2417,10 @@
     "importanceScore": 92,
     "relationships": {
       "fatherId": "96b01b93-0b97-494a-896e-2d7abb07e05c",
-      "motherId": "",
-      "spouseIds": [],
+      "motherId": "0736f259-d8fa-4263-9a07-73475f48bfd3",
+      "spouseIds": [
+        "5927afa9-324c-4528-a78b-cd60518f5437"
+      ],
       "partnerIds": [],
       "childIds": [
         "97ff73e2-e417-4fb3-8b15-90514584a442"
@@ -2629,8 +2644,11 @@
     "importanceScore": 62,
     "relationships": {
       "fatherId": "91f35e74-2dd3-4393-9858-0fc6b5acc537",
-      "motherId": "",
-      "spouseIds": [],
+      "motherId": "5927afa9-324c-4528-a78b-cd60518f5437",
+      "spouseIds": [
+        "a31d480e-283a-44e9-85aa-0739c1083991",
+        "78567b44-2170-4e3d-b85a-be845be240d2"
+      ],
       "partnerIds": [],
       "childIds": [
         "699ff54a-5291-422d-8621-d0a127c5d24c",
@@ -2803,8 +2821,10 @@
     "importanceScore": 88,
     "relationships": {
       "fatherId": "97ff73e2-e417-4fb3-8b15-90514584a442",
-      "motherId": "",
-      "spouseIds": [],
+      "motherId": "78567b44-2170-4e3d-b85a-be845be240d2",
+      "spouseIds": [
+        "27376224-deaa-4e09-9598-ed3599d8f9b2"
+      ],
       "partnerIds": [],
       "childIds": [
         "f0d935d4-8efa-482c-bccb-ac105babc10d",
@@ -3020,8 +3040,11 @@
     "importanceScore": 60,
     "relationships": {
       "fatherId": "699ff54a-5291-422d-8621-d0a127c5d24c",
-      "motherId": "",
-      "spouseIds": [],
+      "motherId": "27376224-deaa-4e09-9598-ed3599d8f9b2",
+      "spouseIds": [
+        "b311455b-ff52-423e-bd27-5c513759778e",
+        "716b8ebd-b9c6-4654-8b0a-87c1ef575170"
+      ],
       "partnerIds": [],
       "childIds": [
         "39979ed9-fafd-48f0-96d7-30f40e80f51b"
@@ -3193,7 +3216,7 @@
     "importanceScore": 45,
     "relationships": {
       "fatherId": "f0d935d4-8efa-482c-bccb-ac105babc10d",
-      "motherId": "",
+      "motherId": "b311455b-ff52-423e-bd27-5c513759778e",
       "spouseIds": [],
       "partnerIds": [],
       "childIds": []
@@ -3302,8 +3325,10 @@
     "importanceScore": 64,
     "relationships": {
       "fatherId": "699ff54a-5291-422d-8621-d0a127c5d24c",
-      "motherId": "",
-      "spouseIds": [],
+      "motherId": "27376224-deaa-4e09-9598-ed3599d8f9b2",
+      "spouseIds": [
+        "906246fe-bb15-48a1-b69f-ff5cc0fecbb0"
+      ],
       "partnerIds": [],
       "childIds": []
     },
@@ -3488,8 +3513,11 @@
     "importanceScore": 78,
     "relationships": {
       "fatherId": "699ff54a-5291-422d-8621-d0a127c5d24c",
-      "motherId": "",
-      "spouseIds": [],
+      "motherId": "27376224-deaa-4e09-9598-ed3599d8f9b2",
+      "spouseIds": [
+        "c52abfa0-d8c2-4b49-852b-c9f25688277a",
+        "e01b2392-3487-43ac-80f6-cb640d051d06"
+      ],
       "partnerIds": [],
       "childIds": []
     },

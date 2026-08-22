@@ -1,0 +1,31 @@
+{
+  "id": "4b6b1f5c-4b7a-4c39-8a8e-0c5c9f5f4c76",
+  "canonicalName": "Duchy of Burgundy",
+  "canonicalNameCn": "勃艮第公国",
+  "form": "hereditary duchy",
+  "aliases": ["Duke of Burgundy", "Burgundy"],
+  "nameForms": [
+    {
+      "name": "Duchy of Burgundy",
+      "nameCn": "勃艮第公国",
+      "fromYear": 1032,
+      "untilYear": 1361,
+      "note": "Capetian elder branch of the French duchy.",
+      "noteCn": "法国勃艮第公国的卡佩老分支时期。"
+    }
+  ],
+  "holders": [
+    {"kind":"person","personId":"31740822-29db-49b9-b121-a3fbcfbcf1b9","startYear":1032,"endYear":1076,"titleForm":"Duke of Burgundy","note":"Robert I received Burgundy from his brother Henry I.","noteCn":"罗贝尔一世从其兄亨利一世处获得勃艮第。"},
+    {"kind":"person","personId":"dababbbe-0820-4ae1-8b1a-344e45ac780d","startYear":1076,"endYear":1093,"titleForm":"Duke of Burgundy","note":"Succeeded Robert I.","noteCn":"继承罗贝尔一世。"},
+    {"kind":"person","personId":"ae056255-47d3-4fd0-b259-fb30ec0da483","startYear":1093,"endYear":1102,"titleForm":"Duke of Burgundy","note":"Succeeded Hugh I.","noteCn":"继承于格一世。"},
+    {"kind":"person","personId":"2c48abbc-3f15-4af3-92ff-a0f747d9c6c8","startYear":1102,"endYear":1143,"titleForm":"Duke of Burgundy","note":"Succeeded Odo I.","noteCn":"继承厄德一世。"},
+    {"kind":"person","personId":"9df72ba4-11f5-4b7a-aa39-ae79f22dbaa6","startYear":1143,"endYear":1162,"titleForm":"Duke of Burgundy","note":"Succeeded Hugh II.","noteCn":"继承于格二世。"},
+    {"kind":"person","personId":"9f1b2277-395f-4b6b-99d7-79a2b208e05d","startYear":1162,"endYear":1192,"titleForm":"Duke of Burgundy","note":"Succeeded Odo II.","noteCn":"继承厄德二世。"},
+    {"kind":"person","personId":"a62660c8-4051-4ed1-9cad-0fa3510d19bb","startYear":1192,"endYear":1218,"titleForm":"Duke of Burgundy","note":"Succeeded Hugh III.","noteCn":"继承于格三世。"},
+    {"kind":"person","personId":"6d8776a2-b5ff-47b4-bb19-8b33ec746b4e","startYear":1218,"endYear":1272,"titleForm":"Duke of Burgundy","note":"Succeeded Odo III.","noteCn":"继承厄德三世。"},
+    {"kind":"person","personId":"7e9a9333-d5d8-44a8-a9b2-a80606502cbd","startYear":1272,"endYear":1306,"titleForm":"Duke of Burgundy","note":"Succeeded Hugh IV.","noteCn":"继承于格四世。"},
+    {"kind":"person","personId":"17f519b7-6969-40fd-85a4-bdd7304930ba","startYear":1306,"endYear":1315,"titleForm":"Duke of Burgundy","note":"Succeeded Robert II.","noteCn":"继承罗贝尔二世。"},
+    {"kind":"person","personId":"f9226d09-7349-4b3d-8555-804c17c52412","startYear":1315,"endYear":1350,"titleForm":"Duke of Burgundy","note":"Succeeded Hugh V.","noteCn":"继承于格五世。"},
+    {"kind":"person","personId":"1236c6b8-6d98-4be6-870e-1e7812a4fd72","startYear":1350,"endYear":1361,"titleForm":"Duke of Burgundy","note":"Last duke of the elder Capetian line.","noteCn":"卡佩老支系的末代勃艮第公爵。"}
+  ]
+}

@@ -854,7 +854,7 @@
     "nickname": "le Saint",
     "alsoKnownAs": [
       "William X",
-      "Guillaume X"
+      "Guilhem X"
     ],
     "nicknameTags": [],
     "birthYear": 1099,
@@ -1015,7 +1015,7 @@
     "nickname": "lo Trobador",
     "alsoKnownAs": [
       "William IX",
-      "Guillaume IX",
+      "Guilhem IX",
       "Guilhem de Peitieus"
     ],
     "nicknameTags": [],
@@ -2288,7 +2288,7 @@
     "nickname": "Towhead",
     "alsoKnownAs": [
       "William III Towhead",
-      "Guillaume III Tête d'étoupe"
+      "Guilhem III Tête d'étoupe"
     ],
     "nicknameTags": [],
     "birthYear": 913,
@@ -2449,7 +2449,7 @@
     "nickname": "Fierabras",
     "alsoKnownAs": [
       "William IV Iron Arm",
-      "Guillaume IV Fier-à-Bras"
+      "Guilhem IV Fier-à-Bras"
     ],
     "nicknameTags": [],
     "birthYear": 937,
@@ -2572,7 +2572,7 @@
     "nickname": "the Great",
     "alsoKnownAs": [
       "William V the Great",
-      "Guillaume V le Grand"
+      "Guilhem V le Grand"
     ],
     "nicknameTags": [],
     "birthYear": 969,
@@ -2743,7 +2743,7 @@
     "nickname": "the Fat",
     "alsoKnownAs": [
       "William VI the Fat",
-      "Guillaume VI le Gros"
+      "Guilhem VI le Gros"
     ],
     "nicknameTags": [],
     "birthYear": "",
@@ -2811,9 +2811,15 @@
     "culture": "Occitan",
     "faith": "Catholic",
     "primaryTitle": "Count of Gascony",
-    "titles": [
-      {
-        "title": "Count of Gascony",
+  "titles": [
+    {
+      "title": "Duke of Aquitaine",
+      "titleCn": "阿基坦公爵",
+      "startYear": 1038,
+      "endYear": 1039
+    },
+    {
+      "title": "Count of Gascony",
         "startYear": 1032,
         "endYear": 1039,
         "titleCn": "加斯科涅伯爵"
@@ -2860,8 +2866,8 @@
     "alsoKnownAs": [
       "William VII",
       "Peter William",
-      "Pierre-Guillaume",
-      "Guillaume VII"
+      "Pierre-Guilhem",
+      "Guilhem VII"
     ],
     "nicknameTags": [],
     "birthYear": 1023,
@@ -2975,7 +2981,7 @@
       "William VIII",
       "Guy-Geoffrey",
       "Gui-Geoffroi",
-      "Guillaume VIII"
+      "Guilhem VIII"
     ],
     "nicknameTags": [],
     "birthYear": 1025,
@@ -4517,9 +4523,15 @@
     "faith": "Catholic",
     "primaryTitle": "King of England",
     "primaryTitleCn": "英格兰国王",
-    "titles": [
-      {
-        "title": "King of England",
+  "titles": [
+    {
+      "title": "Duke of Normandy",
+      "titleCn": "诺曼底公爵",
+      "startYear": 1135,
+      "endYear": 1144
+    },
+    {
+      "title": "King of England",
         "titleCn": "英格兰国王",
         "startYear": 1016,
         "endYear": 1035
@@ -4705,11 +4717,46 @@
       "partnerIds": [],
       "childIds": []
     },
-    "events": [],
+    "events": [
+      {
+        "year": 1015,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Harold_Harefoot"
+      },
+      {
+        "year": 1037,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Began rule as King of England",
+        "labelCn": "开始担任英格兰国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Harold_Harefoot"
+      },
+      {
+        "year": 1040,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Harold_Harefoot"
+      }
+    ],
     "wikiUrl": "https://en.wikipedia.org/wiki/Harold_Harefoot",
     "portraitUrl": "",
     "sourceUrl": "https://en.wikipedia.org/wiki/Harold_Harefoot",
-    "sourceNote": "Son of Cnut and Ælfgifu of Northampton; ruled England from 1037 to 1040.",
+    "sourceNote": "Son of Cnut and Ælfgifu of Northampton; ruled England from 1037 to 1040. Core timeline generated from recorded lifespan and titles on 2026-08-20.",
     "notes": "Basic North Sea Empire succession card; his mother is not yet in the roster.",
     "createdDate": "20260817",
     "createdOrder": 44,
@@ -4777,7 +4824,42 @@
       "partnerIds": [],
       "childIds": []
     },
-    "events": [],
+    "events": [
+      {
+        "year": 1018,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Harthacnut"
+      },
+      {
+        "year": 1035,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Began rule as King of Denmark",
+        "labelCn": "开始担任丹麦国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Harthacnut"
+      },
+      {
+        "year": 1042,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Harthacnut"
+      }
+    ],
     "deathCause": {
       "kind": "normal",
       "summary": "Died suddenly at Lambeth",
@@ -4789,7 +4871,7 @@
     "wikiUrl": "https://en.wikipedia.org/wiki/Harthacnut",
     "portraitUrl": "",
     "sourceUrl": "https://en.wikipedia.org/wiki/Harthacnut",
-    "sourceNote": "Son of Cnut and Emma; king of Denmark and England, succeeded in England by Edward the Confessor.",
+    "sourceNote": "Son of Cnut and Emma; king of Denmark and England, succeeded in England by Edward the Confessor. Core timeline generated from recorded lifespan and titles on 2026-08-20.",
     "notes": "Basic North Sea Empire succession card.",
     "createdDate": "20260817",
     "createdOrder": 45
@@ -4843,11 +4925,46 @@
       "partnerIds": [],
       "childIds": []
     },
-    "events": [],
+    "events": [
+      {
+        "year": 1092,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Stephen,_King_of_England"
+      },
+      {
+        "year": 1135,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Began rule as King of England",
+        "labelCn": "开始担任英格兰国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Stephen,_King_of_England"
+      },
+      {
+        "year": 1154,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Stephen,_King_of_England"
+      }
+    ],
     "wikiUrl": "https://en.wikipedia.org/wiki/Stephen,_King_of_England",
     "portraitUrl": "",
     "sourceUrl": "https://en.wikipedia.org/wiki/Stephen,_King_of_England",
-    "sourceNote": "King during the Anarchy; succeeded by Henry II under the Treaty of Wallingford.",
+    "sourceNote": "King during the Anarchy; succeeded by Henry II under the Treaty of Wallingford. Core timeline generated from recorded lifespan and titles on 2026-08-20.",
     "notes": "Basic main-line succession card. His parent generation is outside the current roster.",
     "createdDate": "20260817",
     "createdOrder": 46,
@@ -4909,7 +5026,63 @@
       "partnerIds": [],
       "childIds": []
     },
-    "events": [],
+    "events": [
+      {
+        "year": 1452,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 60,
+        "label": "Born at Fotheringhay Castle",
+        "labelCn": "出生于福瑟林盖城堡",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Richard_III_of_England"
+      },
+      {
+        "year": 1483,
+        "type": "government",
+        "tags": [
+          "government"
+        ],
+        "weight": 67,
+        "label": "Became Lord Protector for Edward V",
+        "labelCn": "出任爱德华五世的护国公",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Richard_III_of_England"
+      },
+      {
+        "year": 1483,
+        "type": "coronation",
+        "tags": [
+          "coronation"
+        ],
+        "weight": 74,
+        "label": "Crowned King of England",
+        "labelCn": "加冕为英格兰国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Richard_III_of_England"
+      },
+      {
+        "year": 1483,
+        "type": "battle",
+        "tags": [
+          "battle"
+        ],
+        "weight": 81,
+        "label": "Defeated Buckingham's rebellion",
+        "labelCn": "平定白金汉叛乱",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Richard_III_of_England"
+      },
+      {
+        "year": 1485,
+        "type": "battle",
+        "tags": [
+          "battle"
+        ],
+        "weight": 88,
+        "label": "Killed at the Battle of Bosworth Field",
+        "labelCn": "在博斯沃思原野战役阵亡",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Richard_III_of_England"
+      }
+    ],
     "deathCause": {
       "kind": "violent",
       "summary": "Killed at the Battle of Bosworth Field",
@@ -4921,7 +5094,7 @@
     "wikiUrl": "https://en.wikipedia.org/wiki/Richard_III_of_England",
     "portraitUrl": "",
     "sourceUrl": "https://en.wikipedia.org/wiki/Richard_III_of_England",
-    "sourceNote": "Younger brother of Edward IV; last Plantagenet king of England.",
+    "sourceNote": "Younger brother of Edward IV; last Plantagenet king of England. Core chronology completed 2026-08-20.",
     "notes": "Basic main-line succession card.",
     "createdDate": "20260817",
     "createdOrder": 47
@@ -5545,7 +5718,9 @@
     "relationships": {
       "fatherId": "",
       "motherId": "",
-      "spouseIds": [],
+      "spouseIds": [
+        "3401be01-ecb6-4d4c-b64b-777bf04937ef"
+      ],
       "partnerIds": [],
       "childIds": [
         "26ef769b-f149-4b30-b5b6-13efecbbf59b"
@@ -5675,8 +5850,10 @@
     "importanceScore": 72,
     "relationships": {
       "fatherId": "c89b7f1b-b6d2-4681-9eba-4cd9ffffab47",
-      "motherId": "",
-      "spouseIds": [],
+      "motherId": "3401be01-ecb6-4d4c-b64b-777bf04937ef",
+      "spouseIds": [
+        "c5cb5a6d-e9f7-4899-bb5c-7f5734fe92ed"
+      ],
       "partnerIds": [],
       "childIds": [
         "04c2ad7c-d296-4338-af7c-05fd1d730cfe"
@@ -5805,8 +5982,10 @@
     "importanceScore": 80,
     "relationships": {
       "fatherId": "26ef769b-f149-4b30-b5b6-13efecbbf59b",
-      "motherId": "",
-      "spouseIds": [],
+      "motherId": "c5cb5a6d-e9f7-4899-bb5c-7f5734fe92ed",
+      "spouseIds": [
+        "0a4d4bdc-13c6-4f01-81bf-8e049c4bddca"
+      ],
       "partnerIds": [],
       "childIds": [
         "084fdbfa-b040-4629-98f4-5af678d317db"
@@ -5945,8 +6124,10 @@
     "importanceScore": 74,
     "relationships": {
       "fatherId": "04c2ad7c-d296-4338-af7c-05fd1d730cfe",
-      "motherId": "",
-      "spouseIds": [],
+      "motherId": "0a4d4bdc-13c6-4f01-81bf-8e049c4bddca",
+      "spouseIds": [
+        "904d5881-253a-44ab-adbb-f0c9a786de58"
+      ],
       "partnerIds": [],
       "childIds": [
         "4482439c-eae6-4ec6-885a-ac48721ec552",
@@ -6087,8 +6268,10 @@
     "importanceScore": 80,
     "relationships": {
       "fatherId": "084fdbfa-b040-4629-98f4-5af678d317db",
-      "motherId": "",
-      "spouseIds": [],
+      "motherId": "904d5881-253a-44ab-adbb-f0c9a786de58",
+      "spouseIds": [
+        "6f145993-e643-4673-b39f-80e8a3430f97"
+      ],
       "partnerIds": [],
       "childIds": [
         "896ab071-dc40-43ec-b961-a1ca40574102"
@@ -6229,8 +6412,10 @@
     "importanceScore": 80,
     "relationships": {
       "fatherId": "4482439c-eae6-4ec6-885a-ac48721ec552",
-      "motherId": "",
-      "spouseIds": [],
+      "motherId": "6f145993-e643-4673-b39f-80e8a3430f97",
+      "spouseIds": [
+        "1aceb9f3-41a0-410e-aa94-f1142f0eda1e"
+      ],
       "partnerIds": [],
       "childIds": []
     },
@@ -7847,11 +8032,46 @@
         "4ac06665-f420-4756-8fab-38316e1ce5a1"
       ]
     },
-    "events": [],
+    "events": [
+      {
+        "year": 810,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Kenneth_MacAlpin"
+      },
+      {
+        "year": 843,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Began rule as King of Alba",
+        "labelCn": "开始担任阿尔巴国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Kenneth_MacAlpin"
+      },
+      {
+        "year": 858,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Kenneth_MacAlpin"
+      }
+    ],
     "wikiUrl": "https://en.wikipedia.org/wiki/Kenneth_MacAlpin",
     "portraitUrl": "",
     "sourceUrl": "https://en.wikipedia.org/wiki/Kenneth_MacAlpin",
-    "sourceNote": "",
+    "sourceNote": "Core timeline generated from recorded lifespan and titles on 2026-08-20.",
     "notes": "",
     "createdDate": "20260819",
     "createdOrder": 1
@@ -7902,11 +8122,46 @@
       "partnerIds": [],
       "childIds": []
     },
-    "events": [],
+    "events": [
+      {
+        "year": 812,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Donald_I_of_Scotland"
+      },
+      {
+        "year": 858,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Began rule as King of Alba",
+        "labelCn": "开始担任阿尔巴国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Donald_I_of_Scotland"
+      },
+      {
+        "year": 862,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Donald_I_of_Scotland"
+      }
+    ],
     "wikiUrl": "https://en.wikipedia.org/wiki/Donald_I_of_Scotland",
     "portraitUrl": "",
     "sourceUrl": "https://en.wikipedia.org/wiki/Donald_I_of_Scotland",
-    "sourceNote": "",
+    "sourceNote": "Core timeline generated from recorded lifespan and titles on 2026-08-20.",
     "notes": "",
     "createdDate": "20260819",
     "createdOrder": 2
@@ -7959,11 +8214,46 @@
         "ce525dab-f6d2-48eb-809c-ee7ec1aced1e"
       ]
     },
-    "events": [],
+    "events": [
+      {
+        "year": 836,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Constantine_I_of_Scotland"
+      },
+      {
+        "year": 862,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Began rule as King of Alba",
+        "labelCn": "开始担任阿尔巴国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Constantine_I_of_Scotland"
+      },
+      {
+        "year": 877,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Constantine_I_of_Scotland"
+      }
+    ],
     "wikiUrl": "https://en.wikipedia.org/wiki/Constantine_I_of_Scotland",
     "portraitUrl": "",
     "sourceUrl": "https://en.wikipedia.org/wiki/Constantine_I_of_Scotland",
-    "sourceNote": "",
+    "sourceNote": "Core timeline generated from recorded lifespan and titles on 2026-08-20.",
     "notes": "",
     "createdDate": "20260819",
     "createdOrder": 3
@@ -8016,11 +8306,46 @@
         "16cfffe8-e175-4120-ac96-44103215ac0d"
       ]
     },
-    "events": [],
+    "events": [
+      {
+        "year": 840,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Áed_mac_Cináeda"
+      },
+      {
+        "year": 877,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Began rule as King of Alba",
+        "labelCn": "开始担任阿尔巴国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Áed_mac_Cináeda"
+      },
+      {
+        "year": 878,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Áed_mac_Cináeda"
+      }
+    ],
     "wikiUrl": "https://en.wikipedia.org/wiki/Áed_mac_Cináeda",
     "portraitUrl": "",
     "sourceUrl": "https://en.wikipedia.org/wiki/Áed_mac_Cináeda",
-    "sourceNote": "",
+    "sourceNote": "Core timeline generated from recorded lifespan and titles on 2026-08-20.",
     "notes": "",
     "createdDate": "20260819",
     "createdOrder": 4
@@ -8183,11 +8508,46 @@
         "1171990b-b5c9-440a-975e-48a5986674a8"
       ]
     },
-    "events": [],
+    "events": [
+      {
+        "year": 860,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Donald_II_of_Scotland"
+      },
+      {
+        "year": 889,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Began rule as King of Alba",
+        "labelCn": "开始担任阿尔巴国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Donald_II_of_Scotland"
+      },
+      {
+        "year": 900,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Donald_II_of_Scotland"
+      }
+    ],
     "wikiUrl": "https://en.wikipedia.org/wiki/Donald_II_of_Scotland",
     "portraitUrl": "",
     "sourceUrl": "https://en.wikipedia.org/wiki/Donald_II_of_Scotland",
-    "sourceNote": "",
+    "sourceNote": "Core timeline generated from recorded lifespan and titles on 2026-08-20.",
     "notes": "",
     "createdDate": "20260819",
     "createdOrder": 7
@@ -8240,11 +8600,46 @@
         "b75eaf1f-d1a7-40aa-93c4-d48ad828bf02"
       ]
     },
-    "events": [],
+    "events": [
+      {
+        "year": 879,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Constantine_II_of_Scotland"
+      },
+      {
+        "year": 900,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Began rule as King of Alba",
+        "labelCn": "开始担任阿尔巴国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Constantine_II_of_Scotland"
+      },
+      {
+        "year": 952,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Constantine_II_of_Scotland"
+      }
+    ],
     "wikiUrl": "https://en.wikipedia.org/wiki/Constantine_II_of_Scotland",
     "portraitUrl": "",
     "sourceUrl": "https://en.wikipedia.org/wiki/Constantine_II_of_Scotland",
-    "sourceNote": "",
+    "sourceNote": "Core timeline generated from recorded lifespan and titles on 2026-08-20.",
     "notes": "",
     "createdDate": "20260819",
     "createdOrder": 8
@@ -8298,11 +8693,46 @@
         "5ad2dad2-489f-4434-9d17-890dbeb45376"
       ]
     },
-    "events": [],
+    "events": [
+      {
+        "year": 897,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Malcolm_I_of_Scotland"
+      },
+      {
+        "year": 943,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Began rule as King of Alba",
+        "labelCn": "开始担任阿尔巴国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Malcolm_I_of_Scotland"
+      },
+      {
+        "year": 954,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Malcolm_I_of_Scotland"
+      }
+    ],
     "wikiUrl": "https://en.wikipedia.org/wiki/Malcolm_I_of_Scotland",
     "portraitUrl": "",
     "sourceUrl": "https://en.wikipedia.org/wiki/Malcolm_I_of_Scotland",
-    "sourceNote": "",
+    "sourceNote": "Core timeline generated from recorded lifespan and titles on 2026-08-20.",
     "notes": "",
     "createdDate": "20260819",
     "createdOrder": 9
@@ -8356,11 +8786,46 @@
         "5f31a043-e9fb-461f-b596-8db96e101d83"
       ]
     },
-    "events": [],
+    "events": [
+      {
+        "year": 927,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Indulf"
+      },
+      {
+        "year": 954,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Began rule as King of Alba",
+        "labelCn": "开始担任阿尔巴国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Indulf"
+      },
+      {
+        "year": 962,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Indulf"
+      }
+    ],
     "wikiUrl": "https://en.wikipedia.org/wiki/Indulf",
     "portraitUrl": "",
     "sourceUrl": "https://en.wikipedia.org/wiki/Indulf",
-    "sourceNote": "",
+    "sourceNote": "Core timeline generated from recorded lifespan and titles on 2026-08-20.",
     "notes": "",
     "createdDate": "20260819",
     "createdOrder": 10
@@ -8413,11 +8878,46 @@
         "3b7a20ad-bef6-40f7-8ae1-0f1f6cf16840"
       ]
     },
-    "events": [],
+    "events": [
+      {
+        "year": 928,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Dub,_King_of_Scotland"
+      },
+      {
+        "year": 962,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Began rule as King of Alba",
+        "labelCn": "开始担任阿尔巴国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Dub,_King_of_Scotland"
+      },
+      {
+        "year": 967,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Dub,_King_of_Scotland"
+      }
+    ],
     "wikiUrl": "https://en.wikipedia.org/wiki/Dub,_King_of_Scotland",
     "portraitUrl": "",
     "sourceUrl": "https://en.wikipedia.org/wiki/Dub,_King_of_Scotland",
-    "sourceNote": "",
+    "sourceNote": "Core timeline generated from recorded lifespan and titles on 2026-08-20.",
     "notes": "",
     "createdDate": "20260819",
     "createdOrder": 11
@@ -8470,11 +8970,46 @@
         "6988263e-1a43-44a5-a1c6-bcbb3be4de9b"
       ]
     },
-    "events": [],
+    "events": [
+      {
+        "year": 954,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Cuilén"
+      },
+      {
+        "year": 967,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Began rule as King of Alba",
+        "labelCn": "开始担任阿尔巴国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Cuilén"
+      },
+      {
+        "year": 971,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Cuilén"
+      }
+    ],
     "wikiUrl": "https://en.wikipedia.org/wiki/Cuilén",
     "portraitUrl": "",
     "sourceUrl": "https://en.wikipedia.org/wiki/Cuilén",
-    "sourceNote": "",
+    "sourceNote": "Core timeline generated from recorded lifespan and titles on 2026-08-20.",
     "notes": "",
     "createdDate": "20260819",
     "createdOrder": 12
@@ -8582,11 +9117,46 @@
         "1643ee9c-fcc6-48fb-b25f-085d3f239e85"
       ]
     },
-    "events": [],
+    "events": [
+      {
+        "year": 932,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Kenneth_II_of_Scotland"
+      },
+      {
+        "year": 971,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Began rule as King of Alba",
+        "labelCn": "开始担任阿尔巴国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Kenneth_II_of_Scotland"
+      },
+      {
+        "year": 995,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Kenneth_II_of_Scotland"
+      }
+    ],
     "wikiUrl": "https://en.wikipedia.org/wiki/Kenneth_II_of_Scotland",
     "portraitUrl": "",
     "sourceUrl": "https://en.wikipedia.org/wiki/Kenneth_II_of_Scotland",
-    "sourceNote": "",
+    "sourceNote": "Core timeline generated from recorded lifespan and titles on 2026-08-20.",
     "notes": "",
     "createdDate": "20260819",
     "createdOrder": 14
@@ -8637,11 +9207,46 @@
       "partnerIds": [],
       "childIds": []
     },
-    "events": [],
+    "events": [
+      {
+        "year": 970,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Constantine_III_of_Scotland"
+      },
+      {
+        "year": 995,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Began rule as King of Alba",
+        "labelCn": "开始担任阿尔巴国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Constantine_III_of_Scotland"
+      },
+      {
+        "year": 997,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Constantine_III_of_Scotland"
+      }
+    ],
     "wikiUrl": "https://en.wikipedia.org/wiki/Constantine_III_of_Scotland",
     "portraitUrl": "",
     "sourceUrl": "https://en.wikipedia.org/wiki/Constantine_III_of_Scotland",
-    "sourceNote": "",
+    "sourceNote": "Core timeline generated from recorded lifespan and titles on 2026-08-20.",
     "notes": "",
     "createdDate": "20260819",
     "createdOrder": 15
@@ -8692,11 +9297,46 @@
       "partnerIds": [],
       "childIds": []
     },
-    "events": [],
+    "events": [
+      {
+        "year": 966,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Kenneth_III_of_Scotland"
+      },
+      {
+        "year": 997,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Began rule as King of Alba",
+        "labelCn": "开始担任阿尔巴国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Kenneth_III_of_Scotland"
+      },
+      {
+        "year": 1005,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Kenneth_III_of_Scotland"
+      }
+    ],
     "wikiUrl": "https://en.wikipedia.org/wiki/Kenneth_III_of_Scotland",
     "portraitUrl": "",
     "sourceUrl": "https://en.wikipedia.org/wiki/Kenneth_III_of_Scotland",
-    "sourceNote": "",
+    "sourceNote": "Core timeline generated from recorded lifespan and titles on 2026-08-20.",
     "notes": "",
     "createdDate": "20260819",
     "createdOrder": 16
@@ -8747,11 +9387,46 @@
       "partnerIds": [],
       "childIds": []
     },
-    "events": [],
+    "events": [
+      {
+        "year": 954,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Malcolm_II_of_Scotland"
+      },
+      {
+        "year": 1005,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Began rule as King of Alba",
+        "labelCn": "开始担任阿尔巴国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Malcolm_II_of_Scotland"
+      },
+      {
+        "year": 1034,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Malcolm_II_of_Scotland"
+      }
+    ],
     "wikiUrl": "https://en.wikipedia.org/wiki/Malcolm_II_of_Scotland",
     "portraitUrl": "",
     "sourceUrl": "https://en.wikipedia.org/wiki/Malcolm_II_of_Scotland",
-    "sourceNote": "",
+    "sourceNote": "Core timeline generated from recorded lifespan and titles on 2026-08-20.",
     "notes": "",
     "createdDate": "20260819",
     "createdOrder": 17
@@ -8805,11 +9480,46 @@
         "c4c3c469-927d-47b2-b135-9519593c8f03"
       ]
     },
-    "events": [],
+    "events": [
+      {
+        "year": 1001,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Duncan_I_of_Scotland"
+      },
+      {
+        "year": 1034,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Began rule as King of Scots",
+        "labelCn": "开始担任苏格兰人之王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Duncan_I_of_Scotland"
+      },
+      {
+        "year": 1040,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Duncan_I_of_Scotland"
+      }
+    ],
     "wikiUrl": "https://en.wikipedia.org/wiki/Duncan_I_of_Scotland",
     "portraitUrl": "",
     "sourceUrl": "https://en.wikipedia.org/wiki/Duncan_I_of_Scotland",
-    "sourceNote": "",
+    "sourceNote": "Core timeline generated from recorded lifespan and titles on 2026-08-20.",
     "notes": "",
     "createdDate": "20260819",
     "createdOrder": 18
@@ -8860,11 +9570,46 @@
       "partnerIds": [],
       "childIds": []
     },
-    "events": [],
+    "events": [
+      {
+        "year": 1005,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Macbeth,_King_of_Scotland"
+      },
+      {
+        "year": 1040,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Began rule as King of Scots",
+        "labelCn": "开始担任苏格兰人之王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Macbeth,_King_of_Scotland"
+      },
+      {
+        "year": 1057,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Macbeth,_King_of_Scotland"
+      }
+    ],
     "wikiUrl": "https://en.wikipedia.org/wiki/Macbeth,_King_of_Scotland",
     "portraitUrl": "",
     "sourceUrl": "https://en.wikipedia.org/wiki/Macbeth,_King_of_Scotland",
-    "sourceNote": "",
+    "sourceNote": "Core timeline generated from recorded lifespan and titles on 2026-08-20.",
     "notes": "",
     "createdDate": "20260819",
     "createdOrder": 19
@@ -8977,11 +9722,46 @@
         "07fcdfc1-05c4-4285-b024-e1583c6c59e2"
       ]
     },
-    "events": [],
+    "events": [
+      {
+        "year": 1031,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Malcolm_III_of_Scotland"
+      },
+      {
+        "year": 1058,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Began rule as King of Scots",
+        "labelCn": "开始担任苏格兰人之王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Malcolm_III_of_Scotland"
+      },
+      {
+        "year": 1093,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Malcolm_III_of_Scotland"
+      }
+    ],
     "wikiUrl": "https://en.wikipedia.org/wiki/Malcolm_III_of_Scotland",
     "portraitUrl": "",
     "sourceUrl": "https://en.wikipedia.org/wiki/Malcolm_III_of_Scotland",
-    "sourceNote": "",
+    "sourceNote": "Core timeline generated from recorded lifespan and titles on 2026-08-20.",
     "notes": "",
     "createdDate": "20260819",
     "createdOrder": 21
@@ -9034,11 +9814,46 @@
       "partnerIds": [],
       "childIds": []
     },
-    "events": [],
+    "events": [
+      {
+        "year": 1033,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Donald_III_of_Scotland"
+      },
+      {
+        "year": 1093,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Began rule as King of Scots",
+        "labelCn": "开始担任苏格兰人之王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Donald_III_of_Scotland"
+      },
+      {
+        "year": 1099,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Donald_III_of_Scotland"
+      }
+    ],
     "wikiUrl": "https://en.wikipedia.org/wiki/Donald_III_of_Scotland",
     "portraitUrl": "",
     "sourceUrl": "https://en.wikipedia.org/wiki/Donald_III_of_Scotland",
-    "sourceNote": "",
+    "sourceNote": "Core timeline generated from recorded lifespan and titles on 2026-08-20.",
     "notes": "",
     "createdDate": "20260819",
     "createdOrder": 22
@@ -9089,11 +9904,46 @@
       "partnerIds": [],
       "childIds": []
     },
-    "events": [],
+    "events": [
+      {
+        "year": 1060,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Duncan_II_of_Scotland"
+      },
+      {
+        "year": 1094,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Began rule as King of Scots",
+        "labelCn": "开始担任苏格兰人之王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Duncan_II_of_Scotland"
+      },
+      {
+        "year": 1094,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Duncan_II_of_Scotland"
+      }
+    ],
     "wikiUrl": "https://en.wikipedia.org/wiki/Duncan_II_of_Scotland",
     "portraitUrl": "",
     "sourceUrl": "https://en.wikipedia.org/wiki/Duncan_II_of_Scotland",
-    "sourceNote": "",
+    "sourceNote": "Core timeline generated from recorded lifespan and titles on 2026-08-20.",
     "notes": "",
     "createdDate": "20260819",
     "createdOrder": 23
@@ -9144,11 +9994,46 @@
       "partnerIds": [],
       "childIds": []
     },
-    "events": [],
+    "events": [
+      {
+        "year": 1074,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Edgar,_King_of_Scotland"
+      },
+      {
+        "year": 1097,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Began rule as King of Scots",
+        "labelCn": "开始担任苏格兰人之王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Edgar,_King_of_Scotland"
+      },
+      {
+        "year": 1107,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Edgar,_King_of_Scotland"
+      }
+    ],
     "wikiUrl": "https://en.wikipedia.org/wiki/Edgar,_King_of_Scotland",
     "portraitUrl": "",
     "sourceUrl": "https://en.wikipedia.org/wiki/Edgar,_King_of_Scotland",
-    "sourceNote": "",
+    "sourceNote": "Core timeline generated from recorded lifespan and titles on 2026-08-20.",
     "notes": "",
     "createdDate": "20260819",
     "createdOrder": 24
@@ -9199,11 +10084,46 @@
       "partnerIds": [],
       "childIds": []
     },
-    "events": [],
+    "events": [
+      {
+        "year": 1078,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Alexander_I_of_Scotland"
+      },
+      {
+        "year": 1107,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Began rule as King of Scots",
+        "labelCn": "开始担任苏格兰人之王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Alexander_I_of_Scotland"
+      },
+      {
+        "year": 1124,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Alexander_I_of_Scotland"
+      }
+    ],
     "wikiUrl": "https://en.wikipedia.org/wiki/Alexander_I_of_Scotland",
     "portraitUrl": "",
     "sourceUrl": "https://en.wikipedia.org/wiki/Alexander_I_of_Scotland",
-    "sourceNote": "",
+    "sourceNote": "Core timeline generated from recorded lifespan and titles on 2026-08-20.",
     "notes": "",
     "createdDate": "20260819",
     "createdOrder": 25
@@ -9254,11 +10174,46 @@
       "partnerIds": [],
       "childIds": []
     },
-    "events": [],
+    "events": [
+      {
+        "year": 1084,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/David_I_of_Scotland"
+      },
+      {
+        "year": 1124,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Began rule as King of Scots",
+        "labelCn": "开始担任苏格兰人之王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/David_I_of_Scotland"
+      },
+      {
+        "year": 1153,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/David_I_of_Scotland"
+      }
+    ],
     "wikiUrl": "https://en.wikipedia.org/wiki/David_I_of_Scotland",
     "portraitUrl": "",
     "sourceUrl": "https://en.wikipedia.org/wiki/David_I_of_Scotland",
-    "sourceNote": "",
+    "sourceNote": "Core timeline generated from recorded lifespan and titles on 2026-08-20.",
     "notes": "",
     "createdDate": "20260819",
     "createdOrder": 26
@@ -9309,11 +10264,46 @@
       "partnerIds": [],
       "childIds": []
     },
-    "events": [],
+    "events": [
+      {
+        "year": 1141,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Malcolm_IV_of_Scotland"
+      },
+      {
+        "year": 1153,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Began rule as King of Scots",
+        "labelCn": "开始担任苏格兰人之王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Malcolm_IV_of_Scotland"
+      },
+      {
+        "year": 1165,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Malcolm_IV_of_Scotland"
+      }
+    ],
     "wikiUrl": "https://en.wikipedia.org/wiki/Malcolm_IV_of_Scotland",
     "portraitUrl": "",
     "sourceUrl": "https://en.wikipedia.org/wiki/Malcolm_IV_of_Scotland",
-    "sourceNote": "",
+    "sourceNote": "Core timeline generated from recorded lifespan and titles on 2026-08-20.",
     "notes": "",
     "createdDate": "20260819",
     "createdOrder": 27
@@ -9368,11 +10358,46 @@
         "02bdc923-e724-4009-9087-4578d2bf3f18"
       ]
     },
-    "events": [],
+    "events": [
+      {
+        "year": 1142,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/William_the_Lion"
+      },
+      {
+        "year": 1165,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Began rule as King of Scots",
+        "labelCn": "开始担任苏格兰人之王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/William_the_Lion"
+      },
+      {
+        "year": 1214,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/William_the_Lion"
+      }
+    ],
     "wikiUrl": "https://en.wikipedia.org/wiki/William_the_Lion",
     "portraitUrl": "",
     "sourceUrl": "https://en.wikipedia.org/wiki/William_the_Lion",
-    "sourceNote": "",
+    "sourceNote": "Core timeline generated from recorded lifespan and titles on 2026-08-20.",
     "notes": "",
     "createdDate": "20260819",
     "createdOrder": 28
@@ -9425,11 +10450,46 @@
         "13b7ded6-7649-4661-8044-e5c1ee518dbf"
       ]
     },
-    "events": [],
+    "events": [
+      {
+        "year": 1198,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Alexander_II_of_Scotland"
+      },
+      {
+        "year": 1214,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Began rule as King of Scots",
+        "labelCn": "开始担任苏格兰人之王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Alexander_II_of_Scotland"
+      },
+      {
+        "year": 1249,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Alexander_II_of_Scotland"
+      }
+    ],
     "wikiUrl": "https://en.wikipedia.org/wiki/Alexander_II_of_Scotland",
     "portraitUrl": "",
     "sourceUrl": "https://en.wikipedia.org/wiki/Alexander_II_of_Scotland",
-    "sourceNote": "",
+    "sourceNote": "Core timeline generated from recorded lifespan and titles on 2026-08-20.",
     "notes": "",
     "createdDate": "20260819",
     "createdOrder": 29
@@ -9480,11 +10540,46 @@
       "partnerIds": [],
       "childIds": []
     },
-    "events": [],
+    "events": [
+      {
+        "year": 1241,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Alexander_III_of_Scotland"
+      },
+      {
+        "year": 1249,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Began rule as King of Scots",
+        "labelCn": "开始担任苏格兰人之王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Alexander_III_of_Scotland"
+      },
+      {
+        "year": 1286,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Alexander_III_of_Scotland"
+      }
+    ],
     "wikiUrl": "https://en.wikipedia.org/wiki/Alexander_III_of_Scotland",
     "portraitUrl": "",
     "sourceUrl": "https://en.wikipedia.org/wiki/Alexander_III_of_Scotland",
-    "sourceNote": "",
+    "sourceNote": "Core timeline generated from recorded lifespan and titles on 2026-08-20.",
     "notes": "",
     "createdDate": "20260819",
     "createdOrder": 30
@@ -9536,11 +10631,46 @@
       "partnerIds": [],
       "childIds": []
     },
-    "events": [],
+    "events": [
+      {
+        "year": 1249,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/John_Balliol"
+      },
+      {
+        "year": 1292,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Began rule as King of Scots",
+        "labelCn": "开始担任苏格兰人之王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/John_Balliol"
+      },
+      {
+        "year": 1314,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/John_Balliol"
+      }
+    ],
     "wikiUrl": "https://en.wikipedia.org/wiki/John_Balliol",
     "portraitUrl": "",
     "sourceUrl": "https://en.wikipedia.org/wiki/John_Balliol",
-    "sourceNote": "",
+    "sourceNote": "Core timeline generated from recorded lifespan and titles on 2026-08-20.",
     "notes": "",
     "createdDate": "20260819",
     "createdOrder": 31
@@ -9603,11 +10733,67 @@
         "1f2ffcc9-06a9-4bea-8be0-96255c8b3d20"
       ]
     },
-    "events": [],
+    "events": [
+      {
+        "year": 912,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 60,
+        "label": "Born in Saxony",
+        "labelCn": "出生于萨克森",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Otto_the_Great"
+      },
+      {
+        "year": 936,
+        "type": "coronation",
+        "tags": [
+          "coronation"
+        ],
+        "weight": 85,
+        "label": "Succeeded Henry the Fowler as king",
+        "labelCn": "继承父亲亨利一世成为国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Otto_the_Great"
+      },
+      {
+        "year": 955,
+        "type": "battle",
+        "tags": [
+          "battle"
+        ],
+        "weight": 95,
+        "label": "Victory at the Battle of Lechfeld",
+        "labelCn": "在莱希菲尔德战役获胜",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Otto_the_Great"
+      },
+      {
+        "year": 962,
+        "type": "coronation",
+        "tags": [
+          "coronation"
+        ],
+        "weight": 100,
+        "label": "Crowned Emperor in Rome by Pope John XII",
+        "labelCn": "由教宗若望十二世在罗马加冕为皇帝",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Otto_the_Great"
+      },
+      {
+        "year": 973,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 80,
+        "label": "Died at Memleben",
+        "labelCn": "逝世于梅姆莱本",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Otto_the_Great"
+      }
+    ],
     "wikiUrl": "https://en.wikipedia.org/wiki/Otto_the_Great",
     "portraitUrl": "",
     "sourceUrl": "https://en.wikipedia.org/wiki/Otto_the_Great",
-    "sourceNote": "Son of Henry the Fowler; re-established the Holy Roman Empire in 962.",
+    "sourceNote": "Son of Henry the Fowler; re-established the Holy Roman Empire in 962. Core chronology completed 2026-08-20.",
     "notes": "King of Germany from 936 and Holy Roman Emperor from 962; re-established the empire and defeated the Magyars at Lechfeld.",
     "createdDate": "20260819",
     "createdOrder": 48
@@ -9668,11 +10854,46 @@
         "a9229a63-1732-42dc-b814-9b3a3fbe0cf8"
       ]
     },
-    "events": [],
+    "events": [
+      {
+        "year": 955,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Otto_II,_Holy_Roman_Emperor"
+      },
+      {
+        "year": 973,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Began rule as King of the Romans",
+        "labelCn": "开始担任罗马人的国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Otto_II,_Holy_Roman_Emperor"
+      },
+      {
+        "year": 983,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Otto_II,_Holy_Roman_Emperor"
+      }
+    ],
     "wikiUrl": "https://en.wikipedia.org/wiki/Otto_II,_Holy_Roman_Emperor",
     "portraitUrl": "",
     "sourceUrl": "https://en.wikipedia.org/wiki/Otto_II,_Holy_Roman_Emperor",
-    "sourceNote": "Son of Otto the Great.",
+    "sourceNote": "Son of Otto the Great. Core timeline generated from recorded lifespan and titles on 2026-08-20.",
     "notes": "Holy Roman Emperor who died young after a defeat by the Saracens in southern Italy.",
     "createdDate": "20260819",
     "createdOrder": 49
@@ -9731,11 +10952,46 @@
       "partnerIds": [],
       "childIds": []
     },
-    "events": [],
+    "events": [
+      {
+        "year": 980,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Otto_III,_Holy_Roman_Emperor"
+      },
+      {
+        "year": 983,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Began rule as King of the Romans",
+        "labelCn": "开始担任罗马人的国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Otto_III,_Holy_Roman_Emperor"
+      },
+      {
+        "year": 1002,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Otto_III,_Holy_Roman_Emperor"
+      }
+    ],
     "wikiUrl": "https://en.wikipedia.org/wiki/Otto_III,_Holy_Roman_Emperor",
     "portraitUrl": "",
     "sourceUrl": "https://en.wikipedia.org/wiki/Otto_III,_Holy_Roman_Emperor",
-    "sourceNote": "Son of Otto II; died young and childless.",
+    "sourceNote": "Son of Otto II; died young and childless. Core timeline generated from recorded lifespan and titles on 2026-08-20.",
     "notes": "Holy Roman Emperor whose dreams of a restored Roman empire died with him; he was succeeded by his cousin Henry II.",
     "createdDate": "20260819",
     "createdOrder": 50
@@ -9795,11 +11051,46 @@
       "partnerIds": [],
       "childIds": []
     },
-    "events": [],
+    "events": [
+      {
+        "year": 973,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_II,_Holy_Roman_Emperor"
+      },
+      {
+        "year": 1002,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Began rule as King of the Romans",
+        "labelCn": "开始担任罗马人的国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_II,_Holy_Roman_Emperor"
+      },
+      {
+        "year": 1024,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_II,_Holy_Roman_Emperor"
+      }
+    ],
     "wikiUrl": "https://en.wikipedia.org/wiki/Henry_II,_Holy_Roman_Emperor",
     "portraitUrl": "",
     "sourceUrl": "https://en.wikipedia.org/wiki/Henry_II,_Holy_Roman_Emperor",
-    "sourceNote": "Cousin of Otto III, the last of the Ottonian line; later canonized.",
+    "sourceNote": "Cousin of Otto III, the last of the Ottonian line; later canonized. Core timeline generated from recorded lifespan and titles on 2026-08-20.",
     "notes": "Last Ottonian emperor, later canonized as a saint; his death ended the Ottonian dynasty and led to the Salians.",
     "createdDate": "20260819",
     "createdOrder": 51
@@ -9861,11 +11152,46 @@
         "3067525b-9ffb-43a7-bb87-0a582c20a7fa"
       ]
     },
-    "events": [],
+    "events": [
+      {
+        "year": 990,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Conrad_II,_Holy_Roman_Emperor"
+      },
+      {
+        "year": 1024,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Began rule as King of the Romans",
+        "labelCn": "开始担任罗马人的国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Conrad_II,_Holy_Roman_Emperor"
+      },
+      {
+        "year": 1039,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Conrad_II,_Holy_Roman_Emperor"
+      }
+    ],
     "wikiUrl": "https://en.wikipedia.org/wiki/Conrad_II,_Holy_Roman_Emperor",
     "portraitUrl": "",
     "sourceUrl": "https://en.wikipedia.org/wiki/Conrad_II,_Holy_Roman_Emperor",
-    "sourceNote": "First Salian emperor; King of Germany from 1024, crowned Emperor in 1027.",
+    "sourceNote": "First Salian emperor; King of Germany from 1024, crowned Emperor in 1027. Core timeline generated from recorded lifespan and titles on 2026-08-20.",
     "notes": "Founder of the Salian dynasty; king of Germany from 1024 and Holy Roman Emperor from 1027.",
     "createdDate": "20260820",
     "createdOrder": 1
@@ -9927,11 +11253,46 @@
         "3dd7dc1c-7473-495d-aac7-0c145d147ed9"
       ]
     },
-    "events": [],
+    "events": [
+      {
+        "year": 1016,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_III,_Holy_Roman_Emperor"
+      },
+      {
+        "year": 1039,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Began rule as King of the Romans",
+        "labelCn": "开始担任罗马人的国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_III,_Holy_Roman_Emperor"
+      },
+      {
+        "year": 1056,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_III,_Holy_Roman_Emperor"
+      }
+    ],
     "wikiUrl": "https://en.wikipedia.org/wiki/Henry_III,_Holy_Roman_Emperor",
     "portraitUrl": "",
     "sourceUrl": "https://en.wikipedia.org/wiki/Henry_III,_Holy_Roman_Emperor",
-    "sourceNote": "Son of Conrad II; King of Germany from 1039, crowned Emperor in 1046.",
+    "sourceNote": "Son of Conrad II; King of Germany from 1039, crowned Emperor in 1046. Core timeline generated from recorded lifespan and titles on 2026-08-20.",
     "notes": "King of Germany from 1039 and Holy Roman Emperor from 1046; the empire's power reached its height under him.",
     "createdDate": "20260820",
     "createdOrder": 2
@@ -9994,11 +11355,78 @@
         "9fd77e98-145c-4153-b806-768ff1d76ba6"
       ]
     },
-    "events": [],
+    "events": [
+      {
+        "year": 1050,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 60,
+        "label": "Born in Goslar",
+        "labelCn": "出生于戈斯拉尔",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_IV,_Holy_Roman_Emperor"
+      },
+      {
+        "year": 1056,
+        "type": "coronation",
+        "tags": [
+          "coronation"
+        ],
+        "weight": 67,
+        "label": "Succeeded as King of the Romans",
+        "labelCn": "继承罗马人的国王之位",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_IV,_Holy_Roman_Emperor"
+      },
+      {
+        "year": 1076,
+        "type": "government",
+        "tags": [
+          "government"
+        ],
+        "weight": 74,
+        "label": "Excommunicated during the Investiture Controversy",
+        "labelCn": "授职权斗争中被绝罚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_IV,_Holy_Roman_Emperor"
+      },
+      {
+        "year": 1077,
+        "type": "government",
+        "tags": [
+          "government"
+        ],
+        "weight": 81,
+        "label": "Penance at Canossa",
+        "labelCn": "卡诺莎悔罪",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_IV,_Holy_Roman_Emperor"
+      },
+      {
+        "year": 1084,
+        "type": "coronation",
+        "tags": [
+          "coronation"
+        ],
+        "weight": 88,
+        "label": "Crowned Holy Roman Emperor",
+        "labelCn": "加冕为神圣罗马帝国皇帝",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_IV,_Holy_Roman_Emperor"
+      },
+      {
+        "year": 1106,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 95,
+        "label": "Died at Liège",
+        "labelCn": "逝世于列日",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_IV,_Holy_Roman_Emperor"
+      }
+    ],
     "wikiUrl": "https://en.wikipedia.org/wiki/Henry_IV,_Holy_Roman_Emperor",
     "portraitUrl": "",
     "sourceUrl": "https://en.wikipedia.org/wiki/Henry_IV,_Holy_Roman_Emperor",
-    "sourceNote": "Son of Heinrich III; King of Germany from 1056, Emperor from 1084. Central figure of the Investiture Controversy and the Walk to Canossa.",
+    "sourceNote": "Son of Heinrich III; King of Germany from 1056, Emperor from 1084. Central figure of the Investiture Controversy and the Walk to Canossa. Core chronology completed 2026-08-20.",
     "notes": "Holy Roman Emperor remembered for the Investiture Controversy and his penance at Canossa; deposed by his son Heinrich V.",
     "createdDate": "20260820",
     "createdOrder": 3
@@ -10052,11 +11480,46 @@
       "partnerIds": [],
       "childIds": []
     },
-    "events": [],
+    "events": [
+      {
+        "year": 881,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Conrad_I_of_Germany"
+      },
+      {
+        "year": 911,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Began rule as King of East Francia",
+        "labelCn": "开始担任东法兰克国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Conrad_I_of_Germany"
+      },
+      {
+        "year": 918,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Conrad_I_of_Germany"
+      }
+    ],
     "wikiUrl": "https://en.wikipedia.org/wiki/Conrad_I_of_Germany",
     "portraitUrl": "",
     "sourceUrl": "https://en.wikipedia.org/wiki/Conrad_I_of_Germany",
-    "sourceNote": "First non-Carolingian king of East Francia; on his deathbed he recommended Henry the Fowler as his successor.",
+    "sourceNote": "First non-Carolingian king of East Francia; on his deathbed he recommended Henry the Fowler as his successor. Core timeline generated from recorded lifespan and titles on 2026-08-20.",
     "notes": "King of East Francia after the last Carolingian; he advised the nobles to elect Henry the Fowler as his successor.",
     "createdDate": "20260820",
     "createdOrder": 4
@@ -10114,11 +11577,46 @@
         "71af1f0a-5840-4a9c-817f-12fef6beadf8"
       ]
     },
-    "events": [],
+    "events": [
+      {
+        "year": 876,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_the_Fowler"
+      },
+      {
+        "year": 919,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Began rule as King of East Francia",
+        "labelCn": "开始担任东法兰克国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_the_Fowler"
+      },
+      {
+        "year": 936,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_the_Fowler"
+      }
+    ],
     "wikiUrl": "https://en.wikipedia.org/wiki/Henry_the_Fowler",
     "portraitUrl": "",
     "sourceUrl": "https://en.wikipedia.org/wiki/Henry_the_Fowler",
-    "sourceNote": "First Ottonian king; father of Otto I.",
+    "sourceNote": "First Ottonian king; father of Otto I. Core timeline generated from recorded lifespan and titles on 2026-08-20.",
     "notes": "First Ottonian king of East Francia; his son Otto I succeeded him and later became Holy Roman Emperor.",
     "createdDate": "20260820",
     "createdOrder": 5
@@ -10178,11 +11676,46 @@
       "partnerIds": [],
       "childIds": []
     },
-    "events": [],
+    "events": [
+      {
+        "year": 1075,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Lothair_III,_Holy_Roman_Emperor"
+      },
+      {
+        "year": 1125,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Began rule as King of the Romans",
+        "labelCn": "开始担任罗马人的国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Lothair_III,_Holy_Roman_Emperor"
+      },
+      {
+        "year": 1137,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Lothair_III,_Holy_Roman_Emperor"
+      }
+    ],
     "wikiUrl": "https://en.wikipedia.org/wiki/Lothair_III,_Holy_Roman_Emperor",
     "portraitUrl": "",
     "sourceUrl": "https://en.wikipedia.org/wiki/Lothair_III,_Holy_Roman_Emperor",
-    "sourceNote": "King of the Romans from 1125, crowned Emperor in 1133.",
+    "sourceNote": "King of the Romans from 1125, crowned Emperor in 1133. Core timeline generated from recorded lifespan and titles on 2026-08-20.",
     "notes": "Holy Roman Emperor between the Salians and the Hohenstaufen; died childless.",
     "createdDate": "20260820",
     "createdOrder": 6
@@ -10235,11 +11768,46 @@
       "partnerIds": [],
       "childIds": []
     },
-    "events": [],
+    "events": [
+      {
+        "year": 1093,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Conrad_III_of_Germany"
+      },
+      {
+        "year": 1138,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Began rule as King of the Romans",
+        "labelCn": "开始担任罗马人的国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Conrad_III_of_Germany"
+      },
+      {
+        "year": 1152,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Conrad_III_of_Germany"
+      }
+    ],
     "wikiUrl": "https://en.wikipedia.org/wiki/Conrad_III_of_Germany",
     "portraitUrl": "",
     "sourceUrl": "https://en.wikipedia.org/wiki/Conrad_III_of_Germany",
-    "sourceNote": "First Hohenstaufen king; never crowned Emperor.",
+    "sourceNote": "First Hohenstaufen king; never crowned Emperor. Core timeline generated from recorded lifespan and titles on 2026-08-20.",
     "notes": "First Hohenstaufen king of the Romans; never crowned Emperor, and died during the Second Crusade.",
     "createdDate": "20260820",
     "createdOrder": 7
@@ -10303,11 +11871,78 @@
         "186da770-6a93-4236-b48f-6fd705cdbcf4"
       ]
     },
-    "events": [],
+    "events": [
+      {
+        "year": 1122,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 60,
+        "label": "Born in Swabia",
+        "labelCn": "出生于施瓦本",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Frederick_Barbarossa"
+      },
+      {
+        "year": 1152,
+        "type": "coronation",
+        "tags": [
+          "coronation"
+        ],
+        "weight": 67,
+        "label": "Elected King of the Romans",
+        "labelCn": "当选罗马人的国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Frederick_Barbarossa"
+      },
+      {
+        "year": 1155,
+        "type": "coronation",
+        "tags": [
+          "coronation"
+        ],
+        "weight": 74,
+        "label": "Crowned Holy Roman Emperor",
+        "labelCn": "加冕为神圣罗马帝国皇帝",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Frederick_Barbarossa"
+      },
+      {
+        "year": 1176,
+        "type": "battle",
+        "tags": [
+          "battle"
+        ],
+        "weight": 81,
+        "label": "Defeated at Legnano by the Lombard League",
+        "labelCn": "在莱尼亚诺战役败于伦巴第同盟",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Frederick_Barbarossa"
+      },
+      {
+        "year": 1189,
+        "type": "government",
+        "tags": [
+          "government"
+        ],
+        "weight": 88,
+        "label": "Joined the Third Crusade",
+        "labelCn": "参加第三次十字军东征",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Frederick_Barbarossa"
+      },
+      {
+        "year": 1190,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 95,
+        "label": "Drowned in the Saleph River",
+        "labelCn": "溺亡于萨莱夫河",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Frederick_Barbarossa"
+      }
+    ],
     "wikiUrl": "https://en.wikipedia.org/wiki/Frederick_Barbarossa",
     "portraitUrl": "",
     "sourceUrl": "https://en.wikipedia.org/wiki/Frederick_Barbarossa",
-    "sourceNote": "King of the Romans from 1152, crowned Emperor in 1155; drowned on the Third Crusade.",
+    "sourceNote": "King of the Romans from 1152, crowned Emperor in 1155; drowned on the Third Crusade. Core chronology completed 2026-08-20.",
     "notes": "Holy Roman Emperor who fought the Lombard League and the papacy; drowned in Anatolia on the Third Crusade.",
     "createdDate": "20260820",
     "createdOrder": 8
@@ -10364,17 +11999,54 @@
     "relationships": {
       "fatherId": "727f5266-97af-45ee-8a21-c986aaf039dd",
       "motherId": "",
-      "spouseIds": [],
+      "spouseIds": [
+        "6181b0ca-27a6-4f18-bd23-673f55652e23"
+      ],
       "partnerIds": [],
       "childIds": [
         "ea19e505-86fe-4cb7-8e55-c42e9f0ebfd3"
       ]
     },
-    "events": [],
+    "events": [
+      {
+        "year": 1165,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_VI,_Holy_Roman_Emperor"
+      },
+      {
+        "year": 1169,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Began rule as King of the Romans",
+        "labelCn": "开始担任罗马人的国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_VI,_Holy_Roman_Emperor"
+      },
+      {
+        "year": 1197,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_VI,_Holy_Roman_Emperor"
+      }
+    ],
     "wikiUrl": "https://en.wikipedia.org/wiki/Henry_VI,_Holy_Roman_Emperor",
     "portraitUrl": "",
     "sourceUrl": "https://en.wikipedia.org/wiki/Henry_VI,_Holy_Roman_Emperor",
-    "sourceNote": "Son of Frederick I Barbarossa; King of the Romans from 1190, crowned Emperor in 1191.",
+    "sourceNote": "Son of Frederick I Barbarossa; King of the Romans from 1190, crowned Emperor in 1191. Core timeline generated from recorded lifespan and titles on 2026-08-20.",
     "notes": "Holy Roman Emperor who also ruled Sicily through his wife Constance; father of Frederick II.",
     "createdDate": "20260820",
     "createdOrder": 9
@@ -10427,11 +12099,46 @@
       "partnerIds": [],
       "childIds": []
     },
-    "events": [],
+    "events": [
+      {
+        "year": 1177,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Philip_of_Swabia"
+      },
+      {
+        "year": 1198,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Began rule as King of the Romans",
+        "labelCn": "开始担任罗马人的国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Philip_of_Swabia"
+      },
+      {
+        "year": 1208,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Philip_of_Swabia"
+      }
+    ],
     "wikiUrl": "https://en.wikipedia.org/wiki/Philip_of_Swabia",
     "portraitUrl": "",
     "sourceUrl": "https://en.wikipedia.org/wiki/Philip_of_Swabia",
-    "sourceNote": "Son of Frederick I Barbarossa; contested the crown with Otto IV and was never crowned Emperor.",
+    "sourceNote": "Son of Frederick I Barbarossa; contested the crown with Otto IV and was never crowned Emperor. Core timeline generated from recorded lifespan and titles on 2026-08-20.",
     "notes": "Hohenstaufen king of the Romans who contested the throne with the Welf Otto IV; assassinated in 1208.",
     "createdDate": "20260820",
     "createdOrder": 10
@@ -10491,11 +12198,46 @@
       "partnerIds": [],
       "childIds": []
     },
-    "events": [],
+    "events": [
+      {
+        "year": 1175,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Otto_IV,_Holy_Roman_Emperor"
+      },
+      {
+        "year": 1198,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Began rule as King of the Romans",
+        "labelCn": "开始担任罗马人的国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Otto_IV,_Holy_Roman_Emperor"
+      },
+      {
+        "year": 1218,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Otto_IV,_Holy_Roman_Emperor"
+      }
+    ],
     "wikiUrl": "https://en.wikipedia.org/wiki/Otto_IV,_Holy_Roman_Emperor",
     "portraitUrl": "",
     "sourceUrl": "https://en.wikipedia.org/wiki/Otto_IV,_Holy_Roman_Emperor",
-    "sourceNote": "Welf rival of the Hohenstaufen; crowned Emperor in 1209 but deposed in 1215.",
+    "sourceNote": "Welf rival of the Hohenstaufen; crowned Emperor in 1209 but deposed in 1215. Core timeline generated from recorded lifespan and titles on 2026-08-20.",
     "notes": "The only Welf Holy Roman Emperor, rival of Philip of Swabia and Frederick II.",
     "createdDate": "20260820",
     "createdOrder": 11
@@ -10540,6 +12282,12 @@
         "startYear": 1220,
         "endYear": 1250,
         "titleCn": "神圣罗马帝国皇帝"
+      },
+      {
+        "title": "King of Sicily",
+        "startYear": 1198,
+        "endYear": 1250,
+        "titleCn": "西西里国王"
       }
     ],
     "tags": [
@@ -10552,18 +12300,85 @@
     "historicalRating": 8,
     "relationships": {
       "fatherId": "0ab7ebf5-061d-4668-8554-ba7b6fbd01f7",
-      "motherId": "",
+      "motherId": "6181b0ca-27a6-4f18-bd23-673f55652e23",
       "spouseIds": [],
       "partnerIds": [],
       "childIds": [
         "4c68ef70-d950-4e5d-8106-80c28800a522"
       ]
     },
-    "events": [],
+    "events": [
+      {
+        "year": 1194,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 60,
+        "label": "Born at Jesi",
+        "labelCn": "出生于耶西",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Frederick_II,_Holy_Roman_Emperor"
+      },
+      {
+        "year": 1198,
+        "type": "coronation",
+        "tags": [
+          "coronation"
+        ],
+        "weight": 67,
+        "label": "Crowned King of Sicily",
+        "labelCn": "加冕为西西里国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Frederick_II,_Holy_Roman_Emperor"
+      },
+      {
+        "year": 1220,
+        "type": "coronation",
+        "tags": [
+          "coronation"
+        ],
+        "weight": 74,
+        "label": "Crowned Holy Roman Emperor",
+        "labelCn": "加冕为神圣罗马帝国皇帝",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Frederick_II,_Holy_Roman_Emperor"
+      },
+      {
+        "year": 1224,
+        "type": "government",
+        "tags": [
+          "government"
+        ],
+        "weight": 81,
+        "label": "Founded the University of Naples",
+        "labelCn": "创办那不勒斯大学",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Frederick_II,_Holy_Roman_Emperor"
+      },
+      {
+        "year": 1229,
+        "type": "government",
+        "tags": [
+          "government"
+        ],
+        "weight": 88,
+        "label": "Crowned King of Jerusalem",
+        "labelCn": "加冕为耶路撒冷国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Frederick_II,_Holy_Roman_Emperor"
+      },
+      {
+        "year": 1250,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 95,
+        "label": "Died in Apulia",
+        "labelCn": "逝世于普利亚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Frederick_II,_Holy_Roman_Emperor"
+      }
+    ],
     "wikiUrl": "https://en.wikipedia.org/wiki/Frederick_II,_Holy_Roman_Emperor",
     "portraitUrl": "",
     "sourceUrl": "https://en.wikipedia.org/wiki/Frederick_II,_Holy_Roman_Emperor",
-    "sourceNote": "Son of Heinrich VI; King of Sicily and Holy Roman Emperor, called Stupor Mundi.",
+    "sourceNote": "Son of Heinrich VI; King of Sicily and Holy Roman Emperor, called Stupor Mundi. Core chronology completed 2026-08-20.",
     "notes": "Holy Roman Emperor and King of Sicily, called Stupor Mundi for his court and learning; fought repeatedly with the papacy.",
     "createdDate": "20260820",
     "createdOrder": 12
@@ -10616,11 +12431,46 @@
       "partnerIds": [],
       "childIds": []
     },
-    "events": [],
+    "events": [
+      {
+        "year": 1228,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Conrad_IV_of_Germany"
+      },
+      {
+        "year": 1237,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Began rule as King of the Romans",
+        "labelCn": "开始担任罗马人的国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Conrad_IV_of_Germany"
+      },
+      {
+        "year": 1254,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Conrad_IV_of_Germany"
+      }
+    ],
     "wikiUrl": "https://en.wikipedia.org/wiki/Conrad_IV_of_Germany",
     "portraitUrl": "",
     "sourceUrl": "https://en.wikipedia.org/wiki/Conrad_IV_of_Germany",
-    "sourceNote": "Son of Frederick II; king of the Romans but never crowned Emperor.",
+    "sourceNote": "Son of Frederick II; king of the Romans but never crowned Emperor. Core timeline generated from recorded lifespan and titles on 2026-08-20.",
     "notes": "Last Hohenstaufen king of the Romans; his death led to the Great Interregnum.",
     "createdDate": "20260820",
     "createdOrder": 13
@@ -10675,11 +12525,46 @@
         "6ca48b05-8d0d-4206-8812-31e49f7b5d35"
       ]
     },
-    "events": [],
+    "events": [
+      {
+        "year": 1218,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Rudolf_I_of_Germany"
+      },
+      {
+        "year": 1273,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Began rule as King of the Romans",
+        "labelCn": "开始担任罗马人的国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Rudolf_I_of_Germany"
+      },
+      {
+        "year": 1291,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Rudolf_I_of_Germany"
+      }
+    ],
     "wikiUrl": "https://en.wikipedia.org/wiki/Rudolf_I_of_Germany",
     "portraitUrl": "",
     "sourceUrl": "https://en.wikipedia.org/wiki/Rudolf_I_of_Germany",
-    "sourceNote": "First Habsburg king of the Romans; never crowned Emperor.",
+    "sourceNote": "First Habsburg king of the Romans; never crowned Emperor. Core timeline generated from recorded lifespan and titles on 2026-08-20.",
     "notes": "First Habsburg king of the Romans; re-established order after the Great Interregnum and founded the Habsburg rise.",
     "createdDate": "20260820",
     "createdOrder": 14
@@ -10732,11 +12617,46 @@
       "partnerIds": [],
       "childIds": []
     },
-    "events": [],
+    "events": [
+      {
+        "year": 1255,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Adolf,_King_of_the_Romans"
+      },
+      {
+        "year": 1292,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Began rule as King of the Romans",
+        "labelCn": "开始担任罗马人的国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Adolf,_King_of_the_Romans"
+      },
+      {
+        "year": 1298,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Adolf,_King_of_the_Romans"
+      }
+    ],
     "wikiUrl": "https://en.wikipedia.org/wiki/Adolf,_King_of_the_Romans",
     "portraitUrl": "",
     "sourceUrl": "https://en.wikipedia.org/wiki/Adolf,_King_of_the_Romans",
-    "sourceNote": "King of the Romans deposed in 1298; never crowned Emperor.",
+    "sourceNote": "King of the Romans deposed in 1298; never crowned Emperor. Core timeline generated from recorded lifespan and titles on 2026-08-20.",
     "notes": "King of the Romans who was deposed and killed at Göllheim by Albert of Habsburg.",
     "createdDate": "20260820",
     "createdOrder": 15
@@ -10789,11 +12709,46 @@
       "partnerIds": [],
       "childIds": []
     },
-    "events": [],
+    "events": [
+      {
+        "year": 1255,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Albert_I_of_Germany"
+      },
+      {
+        "year": 1298,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Began rule as King of the Romans",
+        "labelCn": "开始担任罗马人的国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Albert_I_of_Germany"
+      },
+      {
+        "year": 1308,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Albert_I_of_Germany"
+      }
+    ],
     "wikiUrl": "https://en.wikipedia.org/wiki/Albert_I_of_Germany",
     "portraitUrl": "",
     "sourceUrl": "https://en.wikipedia.org/wiki/Albert_I_of_Germany",
-    "sourceNote": "Son of Rudolf I; never crowned Emperor; murdered by his nephew.",
+    "sourceNote": "Son of Rudolf I; never crowned Emperor; murdered by his nephew. Core timeline generated from recorded lifespan and titles on 2026-08-20.",
     "notes": "Habsburg king of the Romans who defeated Adolf of Nassau and was murdered by his nephew in 1308.",
     "createdDate": "20260820",
     "createdOrder": 16
@@ -10854,11 +12809,46 @@
       "partnerIds": [],
       "childIds": []
     },
-    "events": [],
+    "events": [
+      {
+        "year": 1275,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_VII,_Holy_Roman_Emperor"
+      },
+      {
+        "year": 1308,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Began rule as King of the Romans",
+        "labelCn": "开始担任罗马人的国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_VII,_Holy_Roman_Emperor"
+      },
+      {
+        "year": 1313,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_VII,_Holy_Roman_Emperor"
+      }
+    ],
     "wikiUrl": "https://en.wikipedia.org/wiki/Henry_VII,_Holy_Roman_Emperor",
     "portraitUrl": "",
     "sourceUrl": "https://en.wikipedia.org/wiki/Henry_VII,_Holy_Roman_Emperor",
-    "sourceNote": "First Luxembourg emperor; crowned in 1312 and died in Italy a year later.",
+    "sourceNote": "First Luxembourg emperor; crowned in 1312 and died in Italy a year later. Core timeline generated from recorded lifespan and titles on 2026-08-20.",
     "notes": "First Luxembourg Holy Roman Emperor; died in Italy shortly after his coronation.",
     "createdDate": "20260820",
     "createdOrder": 17
@@ -10920,11 +12910,46 @@
       "partnerIds": [],
       "childIds": []
     },
-    "events": [],
+    "events": [
+      {
+        "year": 1282,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Louis_IV,_Holy_Roman_Emperor"
+      },
+      {
+        "year": 1314,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Began rule as King of the Romans",
+        "labelCn": "开始担任罗马人的国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Louis_IV,_Holy_Roman_Emperor"
+      },
+      {
+        "year": 1347,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Louis_IV,_Holy_Roman_Emperor"
+      }
+    ],
     "wikiUrl": "https://en.wikipedia.org/wiki/Louis_IV,_Holy_Roman_Emperor",
     "portraitUrl": "",
     "sourceUrl": "https://en.wikipedia.org/wiki/Louis_IV,_Holy_Roman_Emperor",
-    "sourceNote": "Wittelsbach emperor; fought the papacy and the rival Frederick the Fair.",
+    "sourceNote": "Wittelsbach emperor; fought the papacy and the rival Frederick the Fair. Core timeline generated from recorded lifespan and titles on 2026-08-20.",
     "notes": "Wittelsbach Holy Roman Emperor who fought Pope John XXII and his Habsburg rival Frederick the Fair.",
     "createdDate": "20260820",
     "createdOrder": 18
@@ -10983,15 +13008,929 @@
       "motherId": "",
       "spouseIds": [],
       "partnerIds": [],
-      "childIds": []
+      "childIds": [
+        "3d893516-a8da-469f-a546-67c603ec62e2",
+        "7b1aea91-a048-4a69-bacd-b6f0358bf573"
+      ]
     },
-    "events": [],
+    "events": [
+      {
+        "year": 1316,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 60,
+        "label": "Born in Prague",
+        "labelCn": "出生于布拉格",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Charles_IV,_Holy_Roman_Emperor"
+      },
+      {
+        "year": 1346,
+        "type": "coronation",
+        "tags": [
+          "coronation"
+        ],
+        "weight": 67,
+        "label": "Elected King of the Romans",
+        "labelCn": "当选罗马人的国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Charles_IV,_Holy_Roman_Emperor"
+      },
+      {
+        "year": 1348,
+        "type": "government",
+        "tags": [
+          "government"
+        ],
+        "weight": 74,
+        "label": "Founded Charles University in Prague",
+        "labelCn": "创办布拉格查理大学",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Charles_IV,_Holy_Roman_Emperor"
+      },
+      {
+        "year": 1355,
+        "type": "coronation",
+        "tags": [
+          "coronation"
+        ],
+        "weight": 81,
+        "label": "Crowned Holy Roman Emperor",
+        "labelCn": "加冕为神圣罗马帝国皇帝",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Charles_IV,_Holy_Roman_Emperor"
+      },
+      {
+        "year": 1356,
+        "type": "government",
+        "tags": [
+          "government"
+        ],
+        "weight": 88,
+        "label": "Issued the Golden Bull",
+        "labelCn": "颁布《金玺诏书》",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Charles_IV,_Holy_Roman_Emperor"
+      },
+      {
+        "year": 1378,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 95,
+        "label": "Died in Prague",
+        "labelCn": "逝世于布拉格",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Charles_IV,_Holy_Roman_Emperor"
+      }
+    ],
     "wikiUrl": "https://en.wikipedia.org/wiki/Charles_IV,_Holy_Roman_Emperor",
     "portraitUrl": "",
     "sourceUrl": "https://en.wikipedia.org/wiki/Charles_IV,_Holy_Roman_Emperor",
-    "sourceNote": "Luxembourg emperor who issued the Golden Bull of 1356.",
+    "sourceNote": "Luxembourg emperor who issued the Golden Bull of 1356. Core chronology completed 2026-08-20.",
     "notes": "Luxembourg Holy Roman Emperor who issued the Golden Bull of 1356 and made Prague the imperial capital.",
     "createdDate": "20260820",
     "createdOrder": 19
+  },
+  {
+    "id": "3d893516-a8da-469f-a546-67c603ec62e2",
+    "firstName": "Wenceslaus",
+    "lastName": "",
+    "displayName": "Wenceslaus",
+    "fullName": "Wenceslaus IV of Bohemia",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Wenceslaus",
+      "Wenzel"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "瓦茨拉夫",
+    "fullNameCn": "瓦茨拉夫",
+    "birthYear": 1361,
+    "deathYear": 1419,
+    "birthPlace": "",
+    "deathPlace": "Prague, Bohemia",
+    "deathPlaceCn": "波希米亚布拉格",
+    "gender": "male",
+    "dynasty": "House of Luxembourg",
+    "house": "House of Luxembourg",
+    "culture": "German",
+    "faith": "Catholic",
+    "primaryTitle": "King of the Romans",
+    "primaryTitleCn": "罗马人的国王",
+    "titles": [
+      {
+        "title": "King of the Romans",
+        "startYear": 1378,
+        "endYear": 1400,
+        "titleCn": "罗马人的国王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 58,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "80b3801a-ffca-4136-ba92-293b6b976e85",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1361,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Wenceslaus_IV_of_Bohemia"
+      },
+      {
+        "year": 1378,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Began rule as King of the Romans",
+        "labelCn": "开始担任罗马人的国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Wenceslaus_IV_of_Bohemia"
+      },
+      {
+        "year": 1419,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Wenceslaus_IV_of_Bohemia"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Wenceslaus_IV_of_Bohemia",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Wenceslaus_IV_of_Bohemia",
+    "sourceNote": "Son of Karl IV; King of the Romans deposed in 1400, never crowned Emperor. Core timeline generated from recorded lifespan and titles on 2026-08-20.",
+    "notes": "King of the Romans and Bohemia, son of Karl IV; deposed in 1400 and never crowned Emperor.",
+    "createdDate": "20260820",
+    "createdOrder": 20
+  },
+  {
+    "id": "40bcb989-e0d0-410c-9d2b-9e99452e5ca0",
+    "firstName": "Rupert",
+    "lastName": "",
+    "displayName": "Rupert",
+    "fullName": "Rupert of Germany",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Rupert",
+      "Ruprecht of the Palatinate"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "鲁普雷希特",
+    "fullNameCn": "鲁普雷希特",
+    "birthYear": 1352,
+    "deathYear": 1410,
+    "birthPlace": "",
+    "deathPlace": "Oppenheim, Germany",
+    "deathPlaceCn": "德意志奥彭海姆",
+    "gender": "male",
+    "dynasty": "House of Wittelsbach",
+    "house": "House of Wittelsbach",
+    "culture": "German",
+    "faith": "Catholic",
+    "primaryTitle": "King of the Romans",
+    "primaryTitleCn": "罗马人的国王",
+    "titles": [
+      {
+        "title": "King of the Romans",
+        "startYear": 1400,
+        "endYear": 1410,
+        "titleCn": "罗马人的国王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 56,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1352,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Rupert,_King_of_the_Romans"
+      },
+      {
+        "year": 1400,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Began rule as King of the Romans",
+        "labelCn": "开始担任罗马人的国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Rupert,_King_of_the_Romans"
+      },
+      {
+        "year": 1410,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Rupert,_King_of_the_Romans"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Rupert,_King_of_the_Romans",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Rupert,_King_of_the_Romans",
+    "sourceNote": "Wittelsbach king of the Romans; never crowned Emperor. Core timeline generated from recorded lifespan and titles on 2026-08-20.",
+    "notes": "Wittelsbach king of the Romans elected after Wenceslaus's deposition; never crowned Emperor.",
+    "createdDate": "20260820",
+    "createdOrder": 21
+  },
+  {
+    "id": "7b1aea91-a048-4a69-bacd-b6f0358bf573",
+    "firstName": "Sigismund",
+    "lastName": "",
+    "displayName": "Sigismund",
+    "fullName": "Sigismund, Holy Roman Emperor",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Sigismund",
+      "Sigismund of Luxembourg"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "西吉斯蒙德",
+    "fullNameCn": "西吉斯蒙德",
+    "birthYear": 1368,
+    "deathYear": 1437,
+    "birthPlace": "Nuremberg, Germany",
+    "birthPlaceCn": "德意志纽伦堡",
+    "deathPlace": "Znojmo, Bohemia",
+    "deathPlaceCn": "波希米亚兹诺伊莫",
+    "gender": "male",
+    "dynasty": "House of Luxembourg",
+    "house": "House of Luxembourg",
+    "culture": "German",
+    "faith": "Catholic",
+    "primaryTitle": "Holy Roman Emperor",
+    "primaryTitleCn": "神圣罗马帝国皇帝",
+    "titles": [
+      {
+        "title": "King of the Romans",
+        "startYear": 1411,
+        "endYear": 1433,
+        "titleCn": "罗马人的国王"
+      },
+      {
+        "title": "Holy Roman Emperor",
+        "startYear": 1433,
+        "endYear": 1437,
+        "titleCn": "神圣罗马帝国皇帝"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "emperor",
+      "king"
+    ],
+    "rank": "emperor",
+    "importanceScore": 72,
+    "historicalRating": 7,
+    "relationships": {
+      "fatherId": "80b3801a-ffca-4136-ba92-293b6b976e85",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1368,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Sigismund,_Holy_Roman_Emperor"
+      },
+      {
+        "year": 1411,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Began rule as King of the Romans",
+        "labelCn": "开始担任罗马人的国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Sigismund,_Holy_Roman_Emperor"
+      },
+      {
+        "year": 1437,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Sigismund,_Holy_Roman_Emperor"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Sigismund,_Holy_Roman_Emperor",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Sigismund,_Holy_Roman_Emperor",
+    "sourceNote": "Son of Karl IV; last Luxembourg emperor, convened the Council of Constance. Core timeline generated from recorded lifespan and titles on 2026-08-20.",
+    "notes": "Last Luxembourg Holy Roman Emperor, who convened the Council of Constance and ended the Great Schism.",
+    "createdDate": "20260820",
+    "createdOrder": 22
+  },
+  {
+    "id": "bbf82f02-ae24-42a5-a999-ecaaddd9f365",
+    "firstName": "Albert",
+    "lastName": "",
+    "displayName": "Albert II",
+    "fullName": "Albert II of Germany",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Albert II",
+      "Albrecht II"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "阿尔布雷希特二世",
+    "fullNameCn": "阿尔布雷希特二世",
+    "birthYear": 1397,
+    "deathYear": 1439,
+    "birthPlace": "",
+    "deathPlace": "Neszmély, Hungary",
+    "deathPlaceCn": "匈牙利内斯梅伊",
+    "gender": "male",
+    "dynasty": "House of Habsburg",
+    "house": "House of Habsburg",
+    "culture": "German",
+    "faith": "Catholic",
+    "primaryTitle": "King of the Romans",
+    "primaryTitleCn": "罗马人的国王",
+    "titles": [
+      {
+        "title": "King of the Romans",
+        "startYear": 1438,
+        "endYear": 1439,
+        "titleCn": "罗马人的国王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 60,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1397,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Albert_II_of_Germany"
+      },
+      {
+        "year": 1438,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Began rule as King of the Romans",
+        "labelCn": "开始担任罗马人的国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Albert_II_of_Germany"
+      },
+      {
+        "year": 1439,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Albert_II_of_Germany"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Albert_II_of_Germany",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Albert_II_of_Germany",
+    "sourceNote": "First Habsburg of the unbroken line; never crowned Emperor and died after one year. Core timeline generated from recorded lifespan and titles on 2026-08-20.",
+    "notes": "First Habsburg of the unbroken imperial line, beginning the Habsburg hold on the crown; died after a year.",
+    "createdDate": "20260820",
+    "createdOrder": 23
+  },
+  {
+    "id": "682a8fa6-13f6-4dc4-83ef-83787cd8c532",
+    "firstName": "Frederick",
+    "lastName": "",
+    "displayName": "Frederick III",
+    "fullName": "Frederick III, Holy Roman Emperor",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Frederick III",
+      "Friedrich III"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "腓特烈三世",
+    "fullNameCn": "腓特烈三世",
+    "birthYear": 1415,
+    "deathYear": 1493,
+    "birthPlace": "Innsbruck, Austria",
+    "birthPlaceCn": "奥地利因斯布鲁克",
+    "deathPlace": "Linz, Austria",
+    "deathPlaceCn": "奥地利林茨",
+    "gender": "male",
+    "dynasty": "House of Habsburg",
+    "house": "House of Habsburg",
+    "culture": "German",
+    "faith": "Catholic",
+    "primaryTitle": "Holy Roman Emperor",
+    "primaryTitleCn": "神圣罗马帝国皇帝",
+    "titles": [
+      {
+        "title": "King of the Romans",
+        "startYear": 1440,
+        "endYear": 1452,
+        "titleCn": "罗马人的国王"
+      },
+      {
+        "title": "Holy Roman Emperor",
+        "startYear": 1452,
+        "endYear": 1493,
+        "titleCn": "神圣罗马帝国皇帝"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "emperor",
+      "king"
+    ],
+    "rank": "emperor",
+    "importanceScore": 76,
+    "historicalRating": 7,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "db91c543-8aa9-43fa-b19b-b09be69989ed"
+      ]
+    },
+    "events": [
+      {
+        "year": 1415,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Frederick_III,_Holy_Roman_Emperor"
+      },
+      {
+        "year": 1440,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Began rule as King of the Romans",
+        "labelCn": "开始担任罗马人的国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Frederick_III,_Holy_Roman_Emperor"
+      },
+      {
+        "year": 1493,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Frederick_III,_Holy_Roman_Emperor"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Frederick_III,_Holy_Roman_Emperor",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Frederick_III,_Holy_Roman_Emperor",
+    "sourceNote": "First Habsburg to be crowned Holy Roman Emperor, founding the dynasty's unbroken imperial line. Core timeline generated from recorded lifespan and titles on 2026-08-20.",
+    "notes": "First Habsburg to be crowned Holy Roman Emperor; from his long reign the Habsburgs held the empire continuously.",
+    "createdDate": "20260820",
+    "createdOrder": 24
+  },
+  {
+    "id": "db91c543-8aa9-43fa-b19b-b09be69989ed",
+    "firstName": "Maximilian",
+    "lastName": "",
+    "displayName": "Maximilian I",
+    "fullName": "Maximilian I, Holy Roman Emperor",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Maximilian I",
+      "Maximilian von Habsburg"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "马克西米连一世",
+    "fullNameCn": "马克西米连一世",
+    "birthYear": 1459,
+    "deathYear": 1519,
+    "birthPlace": "Wiener Neustadt, Austria",
+    "birthPlaceCn": "奥地利维也纳新城",
+    "deathPlace": "Wels, Austria",
+    "deathPlaceCn": "奥地利韦尔斯",
+    "gender": "male",
+    "dynasty": "House of Habsburg",
+    "house": "House of Habsburg",
+    "culture": "German",
+    "faith": "Catholic",
+    "primaryTitle": "Holy Roman Emperor",
+    "primaryTitleCn": "神圣罗马帝国皇帝",
+    "titles": [
+      {
+        "title": "King of the Romans",
+        "startYear": 1486,
+        "endYear": 1508,
+        "titleCn": "罗马人的国王"
+      },
+      {
+        "title": "Holy Roman Emperor",
+        "startYear": 1508,
+        "endYear": 1519,
+        "titleCn": "神圣罗马帝国皇帝"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "emperor",
+      "king"
+    ],
+    "rank": "emperor",
+    "importanceScore": 78,
+    "historicalRating": 8,
+    "relationships": {
+      "fatherId": "682a8fa6-13f6-4dc4-83ef-83787cd8c532",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "c2332053-1b5e-457d-88ac-aeed35a7f9ac"
+      ]
+    },
+    "events": [
+      {
+        "year": 1459,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 60,
+        "label": "Born at Wiener Neustadt",
+        "labelCn": "出生于维也纳新城",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Maximilian_I,_Holy_Roman_Emperor"
+      },
+      {
+        "year": 1477,
+        "type": "government",
+        "tags": [
+          "government"
+        ],
+        "weight": 67,
+        "label": "Married Mary of Burgundy",
+        "labelCn": "与勃艮第的玛丽成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Maximilian_I,_Holy_Roman_Emperor"
+      },
+      {
+        "year": 1486,
+        "type": "coronation",
+        "tags": [
+          "coronation"
+        ],
+        "weight": 74,
+        "label": "Elected King of the Romans",
+        "labelCn": "当选罗马人的国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Maximilian_I,_Holy_Roman_Emperor"
+      },
+      {
+        "year": 1493,
+        "type": "government",
+        "tags": [
+          "government"
+        ],
+        "weight": 81,
+        "label": "Succeeded as head of the Habsburg lands",
+        "labelCn": "继承哈布斯堡领地",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Maximilian_I,_Holy_Roman_Emperor"
+      },
+      {
+        "year": 1508,
+        "type": "coronation",
+        "tags": [
+          "coronation"
+        ],
+        "weight": 88,
+        "label": "Assumed the title Emperor-elect",
+        "labelCn": "采用当选皇帝头衔",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Maximilian_I,_Holy_Roman_Emperor"
+      },
+      {
+        "year": 1519,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 95,
+        "label": "Died at Wels",
+        "labelCn": "逝世于韦尔斯",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Maximilian_I,_Holy_Roman_Emperor"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Maximilian_I,_Holy_Roman_Emperor",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Maximilian_I,_Holy_Roman_Emperor",
+    "sourceNote": "Son of Frederick III; the marriages he arranged built the Habsburg dynastic empire. Core chronology completed 2026-08-20.",
+    "notes": "Holy Roman Emperor whose marriage alliances made the Habsburgs the dominant dynasty of Europe.",
+    "createdDate": "20260820",
+    "createdOrder": 25
+  },
+  {
+    "id": "c2332053-1b5e-457d-88ac-aeed35a7f9ac",
+    "firstName": "Philip",
+    "lastName": "",
+    "displayName": "Philip I",
+    "fullName": "Philip I of Castile",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Philip I of Castile",
+      "Philip the Handsome",
+      "Philipp I"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "菲利普一世",
+    "fullNameCn": "菲利普一世",
+    "birthYear": 1478,
+    "deathYear": 1506,
+    "birthPlace": "Bruges, Burgundy",
+    "birthPlaceCn": "勃艮第布鲁日",
+    "deathPlace": "Burgos, Castile",
+    "deathPlaceCn": "卡斯蒂利亚布尔戈斯",
+    "gender": "male",
+    "dynasty": "House of Habsburg",
+    "house": "House of Habsburg",
+    "culture": "German",
+    "faith": "Catholic",
+    "primaryTitle": "King of Castile",
+    "primaryTitleCn": "卡斯蒂利亚国王",
+    "titles": [
+      {
+        "title": "King of Castile",
+        "startYear": 1504,
+        "endYear": 1506,
+        "titleCn": "卡斯蒂利亚国王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 64,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "db91c543-8aa9-43fa-b19b-b09be69989ed",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "adb801cd-8a69-4de3-92d8-107f7e11a1e6"
+      ]
+    },
+    "events": [
+      {
+        "year": 1478,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Philip_I_of_Castile"
+      },
+      {
+        "year": 1504,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Began rule as King of Castile",
+        "labelCn": "开始担任卡斯蒂利亚国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Philip_I_of_Castile"
+      },
+      {
+        "year": 1506,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Philip_I_of_Castile"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Philip_I_of_Castile",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Philip_I_of_Castile",
+    "sourceNote": "Son of Maximilian I and father of Karl V; King of Castile jure uxoris through Joanna, not an HRE ruler. Core timeline generated from recorded lifespan and titles on 2026-08-20.",
+    "notes": "Son of Maximilian I and father of Karl V; king of Castile by marriage to Joanna, linking the Habsburgs to Spain.",
+    "createdDate": "20260820",
+    "createdOrder": 26
+  },
+  {
+    "id": "adb801cd-8a69-4de3-92d8-107f7e11a1e6",
+    "firstName": "Karl",
+    "lastName": "",
+    "displayName": "Karl V",
+    "fullName": "Karl V, Holy Roman Emperor",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Karl V",
+      "Charles V",
+      "Carlos V"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "卡尔五世",
+    "fullNameCn": "卡尔五世",
+    "birthYear": 1500,
+    "deathYear": 1558,
+    "birthPlace": "Ghent, Flanders",
+    "birthPlaceCn": "佛兰德根特",
+    "deathPlace": "Cuacos de Yuste, Spain",
+    "deathPlaceCn": "西班牙尤斯特修道院",
+    "gender": "male",
+    "dynasty": "House of Habsburg",
+    "house": "House of Habsburg",
+    "culture": "Flemish",
+    "faith": "Catholic",
+    "primaryTitle": "Holy Roman Emperor",
+    "primaryTitleCn": "神圣罗马帝国皇帝",
+    "titles": [
+      {
+        "title": "Duke of Burgundy",
+        "startYear": 1506,
+        "endYear": 1555,
+        "titleCn": "勃艮第公爵（名义）"
+      },
+      {
+        "title": "Lord of the Netherlands",
+        "startYear": 1506,
+        "endYear": 1555,
+        "titleCn": "尼德兰领主"
+      },
+      {
+        "title": "King of Spain",
+        "startYear": 1516,
+        "endYear": 1556,
+        "titleCn": "西班牙国王"
+      },
+      {
+        "title": "King of Naples",
+        "startYear": 1516,
+        "endYear": 1554,
+        "titleCn": "那不勒斯国王"
+      },
+      {
+        "title": "King of Sicily",
+        "startYear": 1516,
+        "endYear": 1556,
+        "titleCn": "西西里国王"
+      },
+      {
+        "title": "King of Sardinia",
+        "startYear": 1516,
+        "endYear": 1554,
+        "titleCn": "撒丁岛国王"
+      },
+      {
+        "title": "King of the Romans",
+        "startYear": 1519,
+        "endYear": 1530,
+        "titleCn": "罗马人的国王"
+      },
+      {
+        "title": "Archduke of Austria",
+        "startYear": 1519,
+        "endYear": 1521,
+        "titleCn": "奥地利大公"
+      },
+      {
+        "title": "King of Italy",
+        "startYear": 1530,
+        "endYear": 1556,
+        "titleCn": "意大利国王"
+      },
+      {
+        "title": "Holy Roman Emperor",
+        "startYear": 1530,
+        "endYear": 1556,
+        "titleCn": "神圣罗马帝国皇帝"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "emperor",
+      "king"
+    ],
+    "rank": "emperor",
+    "importanceScore": 88,
+    "historicalRating": 9,
+    "relationships": {
+      "fatherId": "c2332053-1b5e-457d-88ac-aeed35a7f9ac",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      { "year": 1500, "month": 2, "day": 24, "type": "childbirth", "tags": ["childbirth"], "weight": 60, "label": "Born in Ghent", "labelCn": "出生于根特", "wikiUrl": "https://en.wikipedia.org/wiki/Charles_V,_Holy_Roman_Emperor" },
+      { "year": 1506, "month": 9, "day": 25, "type": "succession", "tags": ["succession", "title"], "weight": 82, "label": "Inherited the Burgundian Netherlands after Philip the Handsome's death", "labelCn": "腓力一世去世后继承勃艮第尼德兰", "wikiUrl": "https://en.wikipedia.org/wiki/Charles_V,_Holy_Roman_Emperor" },
+      { "year": 1515, "month": 1, "day": 5, "type": "government", "tags": ["government", "majority"], "weight": 72, "label": "Proclaimed ruler of the Netherlands", "labelCn": "宣布亲政尼德兰", "wikiUrl": "https://www.emperorcharlesv.com/timeline/" },
+      { "year": 1516, "month": 3, "day": 14, "type": "succession", "tags": ["succession", "monarch"], "weight": 92, "label": "Proclaimed joint king of Castile and Aragon", "labelCn": "宣布与胡安娜共治卡斯蒂利亚和阿拉贡", "wikiUrl": "https://en.wikipedia.org/wiki/Charles_V,_Holy_Roman_Emperor" },
+      { "year": 1517, "month": 9, "day": 8, "type": "journey", "tags": ["journey", "government"], "weight": 68, "label": "Landed in Spain for his first royal visit", "labelCn": "首次抵达西班牙亲自执政", "wikiUrl": "https://www.emperorcharlesv.com/timeline/" },
+      { "year": 1519, "month": 6, "day": 28, "type": "election", "tags": ["election", "monarch"], "weight": 96, "label": "Elected King of the Romans", "labelCn": "当选罗马人的国王", "wikiUrl": "https://en.wikipedia.org/wiki/Charles_V,_Holy_Roman_Emperor" },
+      { "year": 1520, "month": 10, "day": 23, "type": "coronation", "tags": ["coronation", "monarch"], "weight": 90, "label": "Crowned King of the Romans at Aachen", "labelCn": "在亚琛加冕为罗马人的国王", "wikiUrl": "https://en.wikipedia.org/wiki/Charles_V,_Holy_Roman_Emperor" },
+      { "year": 1521, "month": 4, "day": 18, "type": "religion", "tags": ["religion", "reformation", "diet"], "weight": 94, "label": "Confronted Martin Luther at the Diet of Worms", "labelCn": "在沃尔姆斯帝国议会面对马丁·路德", "wikiUrl": "https://en.wikipedia.org/wiki/Diet_of_Worms" },
+      { "year": 1525, "month": 2, "day": 24, "type": "battle", "tags": ["battle", "war"], "weight": 94, "label": "Imperial victory at the Battle of Pavia; Francis I captured", "labelCn": "帕维亚战役获胜并俘虏法王弗朗索瓦一世", "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Pavia" },
+      { "year": 1526, "month": 1, "day": 14, "type": "treaty", "tags": ["treaty", "diplomacy"], "weight": 82, "label": "Concluded the Treaty of Madrid with Francis I", "labelCn": "与弗朗索瓦一世缔结《马德里条约》", "wikiUrl": "https://en.wikipedia.org/wiki/Treaty_of_Madrid_(1526)" },
+      { "year": 1527, "month": 5, "day": 6, "type": "war", "tags": ["war", "italian_wars"], "weight": 88, "label": "Imperial troops sacked Rome", "labelCn": "帝国军洗劫罗马", "wikiUrl": "https://en.wikipedia.org/wiki/Sack_of_Rome_(1527)" },
+      { "year": 1529, "month": 8, "day": 5, "type": "treaty", "tags": ["treaty", "diplomacy"], "weight": 78, "label": "Concluded the Peace of Cambrai with France", "labelCn": "与法国缔结《康布雷和约》", "wikiUrl": "https://en.wikipedia.org/wiki/Peace_of_Cambrai" },
+      { "year": 1530, "month": 2, "day": 22, "type": "coronation", "tags": ["coronation", "monarch"], "weight": 88, "label": "Crowned King of Italy at Bologna", "labelCn": "在博洛尼亚加冕为意大利国王", "wikiUrl": "https://en.wikipedia.org/wiki/Charles_V,_Holy_Roman_Emperor" },
+      { "year": 1530, "month": 2, "day": 24, "type": "coronation", "tags": ["coronation", "emperor"], "weight": 100, "label": "Crowned Holy Roman Emperor at Bologna", "labelCn": "在博洛尼亚加冕为神圣罗马帝国皇帝", "wikiUrl": "https://en.wikipedia.org/wiki/Charles_V,_Holy_Roman_Emperor" },
+      { "year": 1535, "month": 7, "day": 21, "type": "battle", "tags": ["battle", "crusade", "mediterranean"], "weight": 84, "label": "Captured Tunis in the imperial expedition", "labelCn": "亲率远征军攻占突尼斯", "wikiUrl": "https://en.wikipedia.org/wiki/Conquest_of_Tunis_(1535)" },
+      { "year": 1547, "month": 4, "day": 24, "type": "battle", "tags": ["battle", "reformation"], "weight": 90, "label": "Defeated the Schmalkaldic League at Mühlberg", "labelCn": "米尔贝格战役击败施马尔卡尔登同盟", "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_M%C3%BChlberg" },
+      { "year": 1555, "month": 9, "day": 25, "type": "treaty", "tags": ["treaty", "reformation", "government"], "weight": 92, "label": "Peace of Augsburg established confessional settlement in the Empire", "labelCn": "《奥格斯堡和约》确立帝国内的宗教和解", "wikiUrl": "https://en.wikipedia.org/wiki/Peace_of_Augsburg" },
+      { "year": 1555, "month": 10, "day": 25, "type": "abdication", "tags": ["abdication", "succession"], "weight": 88, "label": "Abdicated the Netherlands to Philip", "labelCn": "将尼德兰让与腓力", "wikiUrl": "https://en.wikipedia.org/wiki/Charles_V,_Holy_Roman_Emperor" },
+      { "year": 1556, "month": 1, "day": 16, "type": "abdication", "tags": ["abdication", "succession"], "weight": 92, "label": "Abdicated the Spanish crowns to Philip", "labelCn": "将西班牙诸王冠让与腓力", "wikiUrl": "https://en.wikipedia.org/wiki/Charles_V,_Holy_Roman_Emperor" },
+      { "year": 1556, "month": 8, "day": 3, "type": "abdication", "tags": ["abdication", "succession", "emperor"], "weight": 90, "label": "Announced abdication of the imperial crown in favour of Ferdinand", "labelCn": "宣布将帝位让与斐迪南", "wikiUrl": "https://en.wikipedia.org/wiki/Charles_V,_Holy_Roman_Emperor" },
+      { "year": 1558, "month": 9, "day": 21, "type": "death", "tags": ["death"], "weight": 75, "label": "Died at Yuste", "labelCn": "逝世于尤斯特", "wikiUrl": "https://en.wikipedia.org/wiki/Charles_V,_Holy_Roman_Emperor" }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Charles_V,_Holy_Roman_Emperor",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Charles_V,_Holy_Roman_Emperor",
+    "sourceNote": "Son of Philip I; ruled an empire on which the sun never set. Core chronology completed 2026-08-20.",
+    "notes": "Holy Roman Emperor and King of Spain who ruled an empire spanning Europe and the Americas.",
+    "createdDate": "20260820",
+    "createdOrder": 27
   }
 ]

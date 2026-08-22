@@ -55,8 +55,8 @@
     ],
     "importanceScore": 78,
     "relationships": {
-      "fatherId": "",
-      "motherId": "",
+      "fatherId": "c9300000-0000-4000-8000-000000000026",
+      "motherId": "c9350000-0000-4000-8000-000000000031",
       "spouseIds": [
         "f194f118-96af-4ad4-af2b-f8449720cff1"
       ],
@@ -937,6 +937,12 @@
         "startYear": 1199,
         "endYear": 1204,
         "titleCn": "诺曼底公爵"
+      },
+      {
+        "title": "Duke of Aquitaine",
+        "startYear": 1199,
+        "endYear": 1204,
+        "titleCn": "阿基坦公爵"
       },
       {
         "title": "King of England",

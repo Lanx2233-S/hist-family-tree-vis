@@ -1143,9 +1143,10 @@
       "motherId": "5f92a3cf-4044-4892-8f05-d8959a80451d",
       "spouseIds": [],
       "partnerIds": [],
-      "childIds": [
-        "da51f613-00e2-42ff-9027-a052fac5fc07"
-      ]
+    "childIds": [
+      "da51f613-00e2-42ff-9027-a052fac5fc07",
+      "1bb582c5-37e0-41ac-a945-513056827219"
+    ]
     },
     "events": [
       {
@@ -2248,5 +2249,100 @@
         "wikiUrl": "https://en.wikipedia.org/wiki/William_Adelin"
       }
     ]
+  },
+  {
+    "id": "1bb582c5-37e0-41ac-a945-513056827219",
+    "firstName": "Richard",
+    "lastName": "Normandy",
+    "displayName": "Richard III of Normandy",
+    "fullName": "Richard III, Duke of Normandy",
+    "displayNameCn": "诺曼底的理查三世",
+    "fullNameCn": "诺曼底公爵理查三世",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": ["Richard III"],
+    "nicknameTags": [],
+    "birthYear": 997,
+    "deathYear": 1027,
+    "birthPlace": "Duchy of Normandy",
+    "birthPlaceCn": "诺曼底公国",
+    "deathPlace": "Rouen, Duchy of Normandy",
+    "deathPlaceCn": "诺曼底公国鲁昂",
+    "gender": "male",
+    "dynasty": "House of Normandy",
+    "house": "House of Normandy",
+    "culture": "Norman",
+    "faith": "Catholic",
+    "rank": "duke",
+    "primaryTitle": "Duke of Normandy",
+    "primaryTitleCn": "诺曼底公爵",
+    "titles": [
+      {
+        "title": "Duke of Normandy",
+        "titleCn": "诺曼底公爵",
+        "startYear": 1026,
+        "endYear": 1027
+      }
+    ],
+    "tags": ["duke", "noble"],
+    "importanceScore": 68,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "0e597c77-dd0b-419c-9227-b56fb37e3b9d",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 997,
+        "type": "childbirth",
+        "tags": ["childbirth", "dynasty"],
+        "weight": 55,
+        "label": "Born, eldest son of Richard II",
+        "labelCn": "出生，为理查二世长子",
+        "wikiUrl": "https://thesauri.unicaen.fr/autorites/personnes/doc/pddn_p.11.html"
+      },
+      {
+        "year": 1026,
+        "type": "succession",
+        "tags": ["succession", "title", "dynasty"],
+        "weight": 82,
+        "label": "Succeeded Richard II as Duke of Normandy",
+        "labelCn": "继承理查二世成为诺曼底公爵",
+        "wikiUrl": "https://thesauri.unicaen.fr/autorites/personnes/doc/pddn_p.11.html",
+        "note": "Richard III succeeded his father Richard II in 1026.",
+        "noteCn": "理查三世于 1026 年继承父亲理查二世。"
+      },
+      {
+        "year": 1027,
+        "month": 8,
+        "day": 6,
+        "type": "death",
+        "tags": ["death", "uncertain"],
+        "weight": 78,
+        "label": "Died after a brief reign",
+        "labelCn": "短暂统治后去世",
+        "wikiUrl": "https://thesauri.unicaen.fr/autorites/personnes/doc/pddn_p.11.html",
+        "note": "He died on 6 August 1027; later accounts alleged poisoning, but the cause is unconfirmed.",
+        "noteCn": "他于 1027 年 8 月 6 日去世；后世有毒杀传闻，但死因未获证实。"
+      }
+    ],
+    "wikiUrl": "https://thesauri.unicaen.fr/autorites/personnes/doc/pddn_p.11.html",
+    "portraitUrl": "",
+    "sourceUrl": "https://thesauri.unicaen.fr/autorites/personnes/doc/pddn_p.11.html",
+    "sourceNote": "University of Caen Normandy authority record: duke of Normandy, 1026–1027; son of Richard II and brother of Robert I.",
+    "notes": "Eldest son of Richard II and Judith of Brittany; elder brother of Robert I and paternal uncle of William the Conqueror. His brief reign preceded Robert I's succession.",
+    "createdDate": "20260821",
+    "createdOrder": 1,
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died from an unrecorded cause after a short reign",
+      "summaryCn": "短暂统治后因未记载的原因去世",
+      "detail": "Richard III died on 6 August 1027. Later sources alleged poisoning, but this is not securely established.",
+      "detailCn": "理查三世于 1027 年 8 月 6 日去世。后世史料有毒杀传闻，但无法确证。",
+      "wikiUrl": "https://thesauri.unicaen.fr/autorites/personnes/doc/pddn_p.11.html"
+    }
   }
 ]

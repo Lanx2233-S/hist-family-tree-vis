@@ -2,9 +2,9 @@ main {
   min-height: 100vh;
   padding: clamp(12px, 2vw, 24px);
   background:
-    linear-gradient(90deg, rgba(40, 69, 70, 0.08) 1px, transparent 1px),
-    linear-gradient(rgba(40, 69, 70, 0.08) 1px, transparent 1px),
-    #efe4d0;
+    linear-gradient(90deg, var(--page-grid) 1px, transparent 1px),
+    linear-gradient(var(--page-grid) 1px, transparent 1px),
+    var(--page-base);
   background-size: 34px 34px;
 }
 

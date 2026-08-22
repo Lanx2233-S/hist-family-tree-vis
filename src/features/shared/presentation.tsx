@@ -108,6 +108,11 @@ export const copy = {
   titleIntro: { en: "Start with a title, then follow how it passed between rulers.", cn: "从一项头衔开始，追踪它如何在统治者之间传承。" },
   searchTitles: { en: "Search titles", cn: "搜索头衔" },
   noMatchingTitles: { en: "No matching titles", cn: "没有匹配的头衔" },
+  titleDirectory: { en: "Title directory", cn: "头衔目录" },
+  titleDirectoryHint: { en: "Browse completed lineages that are not shown on the main page.", cn: "浏览未在首页直接排列、但已完成的头衔主链。" },
+  titleDirectoryKingdoms: { en: "Kingdoms", cn: "王国" },
+  titleDirectoryFiefs: { en: "Non-kingdom titles", cn: "非王国" },
+  noAdditionalTitles: { en: "No additional title lineages yet", cn: "暂无额外头衔主链" },
   // Protagonist page
   historicalFamilyTree: { en: "Historical Family Tree", cn: "历史人物家谱" },
   selectHighlightedProtagonist: { en: "Select Highlighted Protagonist", cn: "选择主角人物" },
@@ -143,6 +148,8 @@ export const copy = {
   pickToneSalian: { en: "The Salian emperors and the Investiture Controversy.", cn: "萨利安皇帝与叙任权之争。" },
   pickToneHohenstaufen: { en: "The Hohenstaufen emperors at the height of imperial power.", cn: "霍亨斯陶芬皇帝与帝国权力的巅峰。" },
   pickToneHabsburg: { en: "The Habsburgs secure the German crown after the Great Interregnum.", cn: "大空位时代后，哈布斯堡家族取得德意志王冠。" },
+  pickToneMaximilian: { en: "Marriage diplomacy turns Burgundian inheritance into a European Habsburg power.", cn: "以婚姻外交承继勃艮第遗产，铺开哈布斯堡的欧洲版图。" },
+  pickToneCharlesV: { en: "From the Low Countries to Spain and the Empire, Charles V rules a composite world monarchy.", cn: "从尼德兰、西班牙到帝国，统治横跨欧陆与新大陆的复合君主国。" },
   pickToneLuxembourg: { en: "The Luxembourg dynasty reshapes the empire from Prague.", cn: "卢森堡王朝以布拉格为中心重塑帝国。" },
   // Person form
   databaseEntry: { en: "DATABASE ENTRY", cn: "数据库条目" },

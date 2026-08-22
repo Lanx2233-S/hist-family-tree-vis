@@ -889,6 +889,59 @@ Split by responsibility and keep data, derived presentation, interaction state, 
 - `npm run build` 通过（数据构建、TypeScript、Vite）。
 - `git diff --check` 通过。
 
+## 2026-08-22：Foulques V 家族与耶路撒冷王室桥接
+
+- 完善 Foulques V le Jeune：补入两段婚姻（Ermengarde of Maine、Melisende of Jerusalem），并连接 Geoffrey V、Matilda、Sibylla、Elias II、Baldwin III 与 Amalric I。
+- 沿 Amalric I 补齐 Agnes of Courtenay、Maria Komnene，以及 Baldwin IV（中文采用“博杜安四世”）、Sibylla 与 Isabella I；明确 Baldwin IV 与 Sibylla 为同母兄妹，Isabella 为同父异母妹妹。
+- 新增 12 张基础人物卡，修正 Geoffroy V 的母亲 UUID，并为国王、在位女王与王后配偶分别写入对应标签。
+- 全库由 391 增至 403；`people-entry-log.md` 已同步至 20260822054。
+
+### 验收
+
+- `npm run build` 通过（403 people、TypeScript、Vite）。
+- `git diff --check` 通过；manifest、JSON 与 entry log 的 UUID 和总序号一致。
+
+## 2026-08-22：图卢兹伯国主链（Frédelon → Raymond V）
+
+- 以既有 Raymond V de Toulouse 为锚点，新增 Frédelon、Raymond I、Bernard II、Bernard Plantevelue、Eudes、Raymond II、Raymond Pons、Guillaume III Taillefer、Pons、Guillaume IV、Raymond IV、Bertrand 与 Alphonse Jourdain 共 13 张基础人物卡。
+- 新建 `County of Toulouse / 图卢兹伯国` 可搜索头衔链（849–1194）；保留 863–865 的争夺控制期，并在伯爵本支复归处标注，避免将短暂夺取误写成父子继承。
+- 回填至 Raymond V 的父子双向关系。早期第十世纪父系与编号的学界分歧写入来源说明，不以不确定材料扩展额外血缘边。
+- 修正同日自定义序号：Louis VII 第二段婚姻的 Constance of Castile、Margaret、Alys 改为 009–011；图卢兹新卡连续使用 013–025。全库 361→374。
+
+## 2026-08-22：图卢兹伯国收束（Raymond VI → Jeanne）
+
+- 续入 Raymond VI、Raymond VII、Jeanne of Toulouse 与其夫 Alphonse of Poitiers，伯爵链延至 1271；Jeanne 与 Alphonse 作为 1249–1271 的并列持有人显示。
+- 1229 年《默—巴黎条约》作为 Raymond VII 段的限制节点：保留伯国与实际治理，但明确其领土、继承与自治已受卡佩王权约束。
+- 1271 年 Jeanne 与 Alphonse 无嗣去世后，链条以“并入法国王室领地”gap 终止；至此图卢兹自治封建采邑结束。全库 374→378，8 月 22 日自定义序号连续至 029。
+
+## 2026-08-22：Title 页头衔目录
+
+- 在 Title Page 搜索框右侧新增“头衔目录 / Title directory”按钮。
+- 弹窗集中列出未在首页默认排列、但已建立完成的主链；点击条目直接打开对应头衔谱系，无须输入搜索词。
+- 目录内容由 `isDefault:false` 自动派生，新增头衔链会自动出现；窄屏下搜索框与按钮纵向排列。
+- 验收：目录可打开并跳转图卢兹伯国；375px 窄屏布局正常；`npm run build` 与 `git diff --check` 通过。
+
+## 2026-08-22：头衔目录分区与年代排序
+
+- 目录按“王国”与“非王国”分区；东法兰克作为王国归类，公国与伯国归入非王国。
+- 各区按主链最早起始年份由古至今排序；缺少 `nameForms` 的旧链回退读取首位持有者年份。
+- 条目补充首年，便于直接判断其古老程度。
+
+## 2026-08-22：安茹伯国主链（Foulques I → Henry II）
+
+- 新增 Foulques I/II、Geoffroy I、Foulques III、Geoffroy II、Geoffroy de Gâtinais、Geoffroy III、Foulques IV/V 共 9 张基础人物卡；既有 Geoffroy V 与 Henry II 接入末端。
+- 新建可搜索的 `County of Anjou / 安茹伯国`（929–1189）头衔链，目录按年代自动置于非王国区的早段。
+- 保留谱系转折：Geoffroy II Martel 无嗣；Geoffroy III 与 Foulques IV 的父亲是 Geoffroy de Gâtinais，二人仅经母系承接安茹伯爵继承，未误写为 Geoffroy II 的父子链。
+- 全库 378→387；8 月 22 日自定义序号连续至 038。`npm run build`、`git diff --check` 与目录入口检查通过。
+
+## 2026-08-22：Foulques III Nerra 人物卡与家庭补全
+
+- Foulques III Nerra 增加 `commander` 标签、绰号“黑者”、6 条核心事件（继位、孔克勒伊战役、边境筑防、领地扩张、耶路撒冷朝圣、卒于梅斯）及完整说明；无确定死因，不写入 deathCause。
+- 补入两任妻子 Élisabeth de Vendôme、Hildegarde de Sundgau，以及 Adèle de Vendôme-Anjou、Ermengarde-Blanche d'Anjou 四张基础卡。
+- 回填双向婚姻及父母子女关系：Geoffroy II Martel 与 Ermengarde-Blanche 为 Hildegarde 所生；Ermengarde-Blanche 与 Geoffroy de Gâtinais 的子女 Geoffroy III、Foulques IV 均补母亲 UUID。
+- 关于 Élisabeth 死亡的戏剧化记述存在争议，仅保留为人物说明，不作为确定死因。全库 387→391；8 月 22 日自定义序号连续至 042。
+
+
 ## 2026-08-19：法兰西头衔链首发人物调整
 
 - 法兰西 Title Page 默认首发人物由 Hugh Capet 改为 Philippe II Augustus。
@@ -1084,6 +1137,15 @@ Split by responsibility and keep data, derived presentation, interaction state, 
 
 - France 入口新增 Louis IX（第四位，主题「The Perfect Monster / 完美怪物」）、Charles V（第五位）与 Charles VII（第六位）；沿用现有每页四张的分页逻辑。
 
+## 2026-08-20：德国入口新增马克西米连一世与卡尔五世
+
+- Germany 入口新增 Maximilian I（第六位）与 Karl V（第七位），进入第三页；沿用现有每页四张的分页逻辑。
+
+## 2026-08-21：合并重复的勃艮第头衔入口
+
+- `Elder House of Burgundy` 与 `Duchy of Burgundy` 使用同一组 1032–1361 公爵继承人；前者是王朝/分支称呼，不是独立头衔。
+- 删除重复的老王室入口与数据文件，仅保留正式头衔 `Duchy of Burgundy / 勃艮第公国`。
+
 ## 2026-08-20：德国入口新增鲁道夫一世与卡尔四世
 
 - Germany 入口新增 Rudolf I（第四位，第一页）与 Karl IV（第五位，第二页第一位）；沿用现有四卡分页逻辑，未改人物数据与关系。
@@ -1102,3 +1164,43 @@ Split by responsibility and keep data, derived presentation, interaction state, 
 - 链 24→30 段：Rudolf I(1273–1291)→Adolf(1292–1298)→Albert I(1298–1308)→Heinrich VII(1308–1313)→Ludwig IV(1314–1347)→Karl IV(1346–1378)；未加冕者（Rudolf I/Adolf/Albert I）King of the Romans。
 - 大空位 gap 备注更新，提名对立国王与时间段：康沃尔的理查（1257–1272）与卡斯蒂利亚的阿方索十世（1257–1275），不单列 holder。
 - 父子链 Rudolf I→Albert I 双向。验收：`data:build` 282、`npm run build`、`git diff --check` 通过；0 孤儿/0 单向/0 母链不对称；people-entry-log.md 同步 282。
+
+## 2026-08-20：HRE 链补至卡尔五世（哈布斯堡稳定线）
+
+- 新增 8 张空人物卡：Wenceslaus、Sigismund（House of Luxembourg）、Rupert（House of Wittelsbach）、Albert II、Frederick III、Maximilian I、Philip I、Karl V（House of Habsburg），全库 282→290。
+- 链 30→37 段：…Karl IV→Wenceslaus(1378–1400)→Rupert(1400–1410)→Sigismund(1411–1437)→Albert II(1438–1439)→Frederick III(1440–1493)→Maximilian I(1486–1519)→Karl V(1519–1556)。
+- Philip I（卡斯蒂利亚）为父子桥接卡（Maximilian I→Philip I→Karl V），不入 HRE 链。
+- 父子链：Karl IV→{Wenceslaus, Sigismund}；Frederick III→Maximilian I→Philip I→Karl V（双向）。
+- 验收：`data:build` 290、`npm run build`、`git diff --check` 通过；0 孤儿/0 单向/0 母链不对称；people-entry-log.md 同步 290（20260820020–027）。
+
+## 2026-08-20：西西里、法国王后与勃艮第扩展
+
+- 新建可搜索的 `Kingdom of Sicily / 西西里王国` 头衔链，补入欧特维尔家族关键祖先、首位西西里国王 Roger II、其后 William I/II、Tancred、William III、Constance I 与 Frederick II；主线覆盖诺曼征服南意至霍亨斯陶芬继承。
+- 补齐 Louis VIII 起法国王后线的 19 张基础人物卡，并回填法王配偶及已入库子女的双向关系；王后使用 `queen + consort` 语义，与在位女王区分。
+- 补完卡佩老支 1032–1361 的 12 位勃艮第公爵人物卡，并建立 `Duchy of Burgundy / 勃艮第公国` 可搜索头衔链；后续将王朝别名入口合并为正式公国入口，详见 2026-08-21 条目。
+- 全库由 290 增至 334；`people-entry-log.md` 同步至 20260820071。
+
+## 2026-08-21：诺曼底与香槟—纳瓦拉头衔链
+
+- 新建 `Duchy of Normandy / 诺曼底公国` 可搜索链：从 Rollo（911）连续至 John（1204），补入 Richard III of Normandy，末尾以“并入法国王室领地”gap 表明此后无自治公爵。
+- 新建 `County of Champagne / 香槟伯国`：995–1125 显示前身的布卢瓦—特鲁瓦承袭，1125 起为正式香槟伯爵；Theobald II 设为默认入口，香槟伯国段按公国蓝显示。
+- 将 `King of Navarre / 纳瓦拉国王` 从香槟链拆为独立可搜索链；国王使用规则红色，在位女王 Joan I 使用稍浅红色，避免与伯爵身份混淆。
+- 全库由 334 增至 349；`people-entry-log.md` 同步至 20260821015。
+
+## 2026-08-21：阿基坦公国入口
+
+- 新建 `Duchy of Aquitaine / 阿基坦公国` 可搜索链，串联既有普瓦捷、安茹与英格兰王室人物卡（990–1204）。
+- 保留阿基坦人物既有奥克语主拼写；其余法国人物按法语拼写习惯统一，未改 UUID 与关系数据。
+
+## 2026-08-22：卡佩家支补全与王后显示统一
+
+- 新增 Louis VI 的 8 位子女基础卡，回填父母与兄弟姐妹关系；Pierre de Courtenay 等法国人物采用法语主拼写。
+- 补入 Louis VII 的第二任王后 Constance of Castile，以及其女 Margaret、Alys；婚姻顺序置于 Eleanor of Aquitaine 与 Adèle of Champagne 之间。
+- 补全 Louis VI 之女 Constance of France 的人物详情中文与其配偶 Raymond V of Toulouse，并写入双向配偶关系。
+- Constance of Castile 统一为王后配偶标签（`queen + consort + noble`），使其卡片颜色与 Eleanor of Aquitaine、Adèle of Champagne 一致；生成脚本同步更新，防止重建回退。
+- 全库由 349 增至 361；`people-entry-log.md` 已同步至 20260822012。
+
+### 验收
+
+- `npm run build` 通过（数据构建、TypeScript、Vite）。
+- `git diff --check` 通过。

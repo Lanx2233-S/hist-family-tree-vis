@@ -1,0 +1,636 @@
+[
+  {
+    "id": "c8010000-0000-4000-8000-000000000001",
+    "firstName": "Philippe de France",
+    "lastName": "Capet",
+    "displayName": "Philippe de France",
+    "fullName": "Philip, King of the Franks",
+    "displayNameCn": "腓力（法兰克国王）",
+    "fullNameCn": "Philip, King of the Franks",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1116,
+    "deathYear": 1131,
+    "birthPlace": "Kingdom of France",
+    "birthPlaceCn": "法兰西王国",
+    "deathPlace": "Kingdom of France",
+    "deathPlaceCn": "法兰西王国",
+    "gender": "male",
+    "dynasty": "House of Capet",
+    "house": "House of Capet",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "King of the Franks",
+    "primaryTitleCn": "King of the Franks",
+    "titles": [
+      {
+        "title": "King of the Franks",
+        "titleCn": "King of the Franks",
+        "startYear": "",
+        "endYear": ""
+      }
+    ],
+    "tags": [
+      "monarch"
+    ],
+    "rank": "king",
+    "importanceScore": 78,
+    "historicalRating": 7,
+    "relationships": {
+      "fatherId": "d2dd406e-702b-425c-b3dc-2dcac8e8163d",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1116,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "dynasty"
+        ],
+        "weight": 55,
+        "label": "Born, child of Louis VI",
+        "labelCn": "出生，为路易六世之子女",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Louis_VI_of_France"
+      },
+      {
+        "year": 1131,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 55,
+        "label": "Died",
+        "labelCn": "去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Louis_VI_of_France"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Louis_VI_of_France",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Louis_VI_of_France",
+    "sourceNote": "Child of Louis VI and Adelaide of Maurienne; basic card added to complete the family branch.",
+    "notes": "Child of Louis VI and Adelaide of Maurienne.",
+    "createdDate": "20260822",
+    "createdOrder": 1
+  },
+  {
+    "id": "c8020000-0000-4000-8000-000000000002",
+    "firstName": "Henri de France",
+    "lastName": "Capet",
+    "displayName": "Henri de France",
+    "fullName": "Henry, Archbishop of Reims",
+    "displayNameCn": "亨利（兰斯大主教）",
+    "fullNameCn": "Henry, Archbishop of Reims",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1121,
+    "deathYear": 1175,
+    "birthPlace": "Kingdom of France",
+    "birthPlaceCn": "法兰西王国",
+    "deathPlace": "Kingdom of France",
+    "deathPlaceCn": "法兰西王国",
+    "gender": "male",
+    "dynasty": "House of Capet",
+    "house": "House of Capet",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Archbishop of Reims",
+    "primaryTitleCn": "Archbishop of Reims",
+    "titles": [
+      {
+        "title": "Archbishop of Reims",
+        "titleCn": "Archbishop of Reims",
+        "startYear": "",
+        "endYear": ""
+      }
+    ],
+    "tags": [
+      "noble"
+    ],
+    "rank": "bishop",
+    "importanceScore": 55,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "d2dd406e-702b-425c-b3dc-2dcac8e8163d",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1121,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "dynasty"
+        ],
+        "weight": 55,
+        "label": "Born, child of Louis VI",
+        "labelCn": "出生，为路易六世之子女",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Louis_VI_of_France"
+      },
+      {
+        "year": 1175,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 55,
+        "label": "Died",
+        "labelCn": "去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Louis_VI_of_France"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Louis_VI_of_France",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Louis_VI_of_France",
+    "sourceNote": "Child of Louis VI and Adelaide of Maurienne; basic card added to complete the family branch.",
+    "notes": "Child of Louis VI and Adelaide of Maurienne.",
+    "createdDate": "20260822",
+    "createdOrder": 2
+  },
+  {
+    "id": "c8030000-0000-4000-8000-000000000003",
+    "firstName": "Hugues de France",
+    "lastName": "Capet",
+    "displayName": "Hugues de France",
+    "fullName": "Hugh, son of Louis VI",
+    "displayNameCn": "于格（路易六世之子）",
+    "fullNameCn": "Hugh, son of Louis VI",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1122,
+    "deathYear": 1125,
+    "birthPlace": "Kingdom of France",
+    "birthPlaceCn": "法兰西王国",
+    "deathPlace": "Kingdom of France",
+    "deathPlaceCn": "法兰西王国",
+    "gender": "male",
+    "dynasty": "House of Capet",
+    "house": "House of Capet",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "French prince",
+    "primaryTitleCn": "French prince",
+    "titles": [
+      {
+        "title": "French prince",
+        "titleCn": "French prince",
+        "startYear": "",
+        "endYear": ""
+      }
+    ],
+    "tags": [
+      "noble"
+    ],
+    "rank": "noble",
+    "importanceScore": 55,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "d2dd406e-702b-425c-b3dc-2dcac8e8163d",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1122,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "dynasty"
+        ],
+        "weight": 55,
+        "label": "Born, child of Louis VI",
+        "labelCn": "出生，为路易六世之子女",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Louis_VI_of_France"
+      },
+      {
+        "year": 1125,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 55,
+        "label": "Died",
+        "labelCn": "去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Louis_VI_of_France"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Louis_VI_of_France",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Louis_VI_of_France",
+    "sourceNote": "Child of Louis VI and Adelaide of Maurienne; basic card added to complete the family branch.",
+    "notes": "Child of Louis VI and Adelaide of Maurienne.",
+    "createdDate": "20260822",
+    "createdOrder": 3
+  },
+  {
+    "id": "c8040000-0000-4000-8000-000000000004",
+    "firstName": "Robert I of Dreux",
+    "lastName": "Capet",
+    "displayName": "Robert I of Dreux",
+    "fullName": "Robert I, Count of Dreux",
+    "displayNameCn": "德勒伯爵罗贝尔一世",
+    "fullNameCn": "Robert I, Count of Dreux",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1123,
+    "deathYear": 1188,
+    "birthPlace": "Kingdom of France",
+    "birthPlaceCn": "法兰西王国",
+    "deathPlace": "Kingdom of France",
+    "deathPlaceCn": "法兰西王国",
+    "gender": "male",
+    "dynasty": "House of Capet",
+    "house": "House of Capet",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Dreux",
+    "primaryTitleCn": "Count of Dreux",
+    "titles": [
+      {
+        "title": "Count of Dreux",
+        "titleCn": "Count of Dreux",
+        "startYear": "",
+        "endYear": ""
+      }
+    ],
+    "tags": [
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 55,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "d2dd406e-702b-425c-b3dc-2dcac8e8163d",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1123,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "dynasty"
+        ],
+        "weight": 55,
+        "label": "Born, child of Louis VI",
+        "labelCn": "出生，为路易六世之子女",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Louis_VI_of_France"
+      },
+      {
+        "year": 1188,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 55,
+        "label": "Died",
+        "labelCn": "去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Louis_VI_of_France"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Louis_VI_of_France",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Louis_VI_of_France",
+    "sourceNote": "Child of Louis VI and Adelaide of Maurienne; basic card added to complete the family branch.",
+    "notes": "Child of Louis VI and Adelaide of Maurienne.",
+    "createdDate": "20260822",
+    "createdOrder": 4
+  },
+  {
+    "id": "c8050000-0000-4000-8000-000000000005",
+    "firstName": "Pierre de Courtenay",
+    "lastName": "Capet",
+    "displayName": "Pierre de Courtenay",
+    "fullName": "Pierre de Courtenay",
+    "displayNameCn": "皮埃尔·德·库尔特奈",
+    "fullNameCn": "Pierre de Courtenay",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1126,
+    "deathYear": 1183,
+    "birthPlace": "Kingdom of France",
+    "birthPlaceCn": "法兰西王国",
+    "deathPlace": "Kingdom of France",
+    "deathPlaceCn": "法兰西王国",
+    "gender": "male",
+    "dynasty": "House of Capet",
+    "house": "House of Capet",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Lord of Courtenay",
+    "primaryTitleCn": "Lord of Courtenay",
+    "titles": [
+      {
+        "title": "Lord of Courtenay",
+        "titleCn": "Lord of Courtenay",
+        "startYear": "",
+        "endYear": ""
+      }
+    ],
+    "tags": [
+      "noble"
+    ],
+    "rank": "noble",
+    "importanceScore": 55,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "d2dd406e-702b-425c-b3dc-2dcac8e8163d",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1126,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "dynasty"
+        ],
+        "weight": 55,
+        "label": "Born, child of Louis VI",
+        "labelCn": "出生，为路易六世之子女",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Louis_VI_of_France"
+      },
+      {
+        "year": 1183,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 55,
+        "label": "Died",
+        "labelCn": "去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Louis_VI_of_France"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Louis_VI_of_France",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Louis_VI_of_France",
+    "sourceNote": "Child of Louis VI and Adelaide of Maurienne; basic card added to complete the family branch.",
+    "notes": "Child of Louis VI and Adelaide of Maurienne.",
+    "createdDate": "20260822",
+    "createdOrder": 5
+  },
+  {
+    "id": "c8060000-0000-4000-8000-000000000006",
+    "firstName": "Constance of France",
+    "lastName": "Capet",
+    "displayName": "Constance of France",
+    "fullName": "Constance of France, Countess of Toulouse",
+    "displayNameCn": "法兰西的康斯坦丝",
+    "fullNameCn": "图卢兹伯爵夫人法兰西的康斯坦丝",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1128,
+    "deathYear": 1176,
+    "birthPlace": "Kingdom of France",
+    "birthPlaceCn": "法兰西王国",
+    "deathPlace": "Kingdom of France",
+    "deathPlaceCn": "法兰西王国",
+    "gender": "female",
+    "dynasty": "House of Capet",
+    "house": "House of Capet",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Countess of Toulouse",
+    "primaryTitleCn": "图卢兹伯爵夫人",
+    "titles": [
+      {
+        "title": "Countess of Toulouse",
+        "titleCn": "图卢兹伯爵夫人",
+        "startYear": 1154,
+        "endYear": 1166
+      }
+    ],
+    "tags": [
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 55,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "d2dd406e-702b-425c-b3dc-2dcac8e8163d",
+      "motherId": "",
+      "spouseIds": [
+        "c9040000-0000-4000-8000-000000000004"
+      ],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1128,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "dynasty"
+        ],
+        "weight": 55,
+        "label": "Born, child of Louis VI",
+        "labelCn": "出生，为路易六世之子女",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Louis_VI_of_France"
+      },
+      {
+        "year": 1176,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 55,
+        "label": "Died",
+        "labelCn": "去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Louis_VI_of_France"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Louis_VI_of_France",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Louis_VI_of_France",
+    "sourceNote": "Child of Louis VI and Adelaide of Maurienne; basic card added to complete the family branch.",
+    "notes": "Child of Louis VI and Adelaide of Maurienne.",
+    "createdDate": "20260822",
+    "createdOrder": 6
+  },
+  {
+    "id": "c8070000-0000-4000-8000-000000000007",
+    "firstName": "Philippe de Paris",
+    "lastName": "Capet",
+    "displayName": "Philippe de Paris",
+    "fullName": "Philip, Archdeacon of Paris",
+    "displayNameCn": "腓力（巴黎副主教）",
+    "fullNameCn": "Philip, Archdeacon of Paris",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1132,
+    "deathYear": 1160,
+    "birthPlace": "Kingdom of France",
+    "birthPlaceCn": "法兰西王国",
+    "deathPlace": "Kingdom of France",
+    "deathPlaceCn": "法兰西王国",
+    "gender": "male",
+    "dynasty": "House of Capet",
+    "house": "House of Capet",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Archdeacon of Paris",
+    "primaryTitleCn": "Archdeacon of Paris",
+    "titles": [
+      {
+        "title": "Archdeacon of Paris",
+        "titleCn": "Archdeacon of Paris",
+        "startYear": "",
+        "endYear": ""
+      }
+    ],
+    "tags": [
+      "noble"
+    ],
+    "rank": "bishop",
+    "importanceScore": 55,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "d2dd406e-702b-425c-b3dc-2dcac8e8163d",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1132,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "dynasty"
+        ],
+        "weight": 55,
+        "label": "Born, child of Louis VI",
+        "labelCn": "出生，为路易六世之子女",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Louis_VI_of_France"
+      },
+      {
+        "year": 1160,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 55,
+        "label": "Died",
+        "labelCn": "去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Louis_VI_of_France"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Louis_VI_of_France",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Louis_VI_of_France",
+    "sourceNote": "Child of Louis VI and Adelaide of Maurienne; basic card added to complete the family branch.",
+    "notes": "Child of Louis VI and Adelaide of Maurienne.",
+    "createdDate": "20260822",
+    "createdOrder": 7
+  },
+  {
+    "id": "c8080000-0000-4000-8000-000000000008",
+    "firstName": "Isabelle of France",
+    "lastName": "Capet",
+    "displayName": "Isabelle of France",
+    "fullName": "Isabelle of France",
+    "displayNameCn": "法兰西的伊莎贝尔",
+    "fullNameCn": "Isabelle of France",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1105,
+    "deathYear": 1175,
+    "birthPlace": "Kingdom of France",
+    "birthPlaceCn": "法兰西王国",
+    "deathPlace": "Kingdom of France",
+    "deathPlaceCn": "法兰西王国",
+    "gender": "female",
+    "dynasty": "House of Capet",
+    "house": "House of Capet",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Lady of Chaumont",
+    "primaryTitleCn": "Lady of Chaumont",
+    "titles": [
+      {
+        "title": "Lady of Chaumont",
+        "titleCn": "Lady of Chaumont",
+        "startYear": "",
+        "endYear": ""
+      }
+    ],
+    "tags": [
+      "noble"
+    ],
+    "rank": "noble",
+    "importanceScore": 55,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "d2dd406e-702b-425c-b3dc-2dcac8e8163d",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1105,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "dynasty"
+        ],
+        "weight": 55,
+        "label": "Born, child of Louis VI",
+        "labelCn": "出生，为路易六世之子女",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Louis_VI_of_France"
+      },
+      {
+        "year": 1175,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 55,
+        "label": "Died",
+        "labelCn": "去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Louis_VI_of_France"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Louis_VI_of_France",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Louis_VI_of_France",
+    "sourceNote": "Child of Louis VI and Adelaide of Maurienne; basic card added to complete the family branch.",
+    "notes": "Daughter attributed to Louis VI; her mother's identity is uncertain in the sources.",
+    "createdDate": "20260822",
+    "createdOrder": 8
+  }
+]

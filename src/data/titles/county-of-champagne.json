@@ -1,0 +1,38 @@
+{
+  "id": "8c4a2b66-1e3f-4e2e-9b7a-2a0c1b6c8d44",
+  "canonicalName": "County of Champagne",
+  "canonicalNameCn": "香槟伯国",
+  "form": "hereditary county",
+  "aliases": ["Count of Champagne", "Champagne", "County of Champagne and Brie"],
+  "nameForms": [
+    {"name":"Blois-Troyes predecessor counties","nameCn":"布卢瓦—特鲁瓦伯爵承袭段","fromYear":995,"untilYear":1125,"note":"The line passes through the counts of Troyes and Meaux before the formal Champagne title.","noteCn":"正式使用香槟伯爵称号前，爵位由特鲁瓦与莫城伯爵承袭。"},
+    {"name":"County of Champagne","nameCn":"香槟伯国","fromYear":1125,"untilYear":1284,"note":"Theobald II formally consolidated the Champagne inheritance; it later passed through the House of Blois-Champagne to the French crown.","noteCn":"蒂博二世正式整合香槟领地；其后经布卢瓦—香槟家族传至法国王室。"}
+  ],
+  "houseOverrides": {
+    "c7010000-0000-4000-8000-000000000001":{"en":"House of Blois","cn":"布卢瓦家族"},
+    "c7020000-0000-4000-8000-000000000002":{"en":"House of Blois","cn":"布卢瓦家族"},
+    "c7030000-0000-4000-8000-000000000003":{"en":"House of Blois","cn":"布卢瓦家族"},
+    "c7040000-0000-4000-8000-000000000004":{"en":"House of Blois","cn":"布卢瓦家族"},
+    "c7050000-0000-4000-8000-000000000005":{"en":"House of Blois","cn":"布卢瓦家族"},
+    "c7060000-0000-4000-8000-000000000006":{"en":"House of Blois","cn":"布卢瓦家族"},
+    "c7070000-0000-4000-8000-000000000007":{"en":"House of Blois","cn":"布卢瓦家族"}
+  },
+  "holders": [
+    {"kind":"person","personId":"c7010000-0000-4000-8000-000000000001","startYear":995,"endYear":1022,"titleForm":"Count of Troyes","note":"First holder in this recorded line.","noteCn":"本记录链的首位持有人。"},
+    {"kind":"person","personId":"c7020000-0000-4000-8000-000000000002","startYear":1022,"endYear":1037,"titleForm":"Count of Meaux and Troyes","note":"Succeeded Stephen I.","noteCn":"继承斯蒂芬一世。"},
+    {"kind":"person","personId":"c7030000-0000-4000-8000-000000000003","startYear":1037,"endYear":1048,"titleForm":"Count of Meaux","note":"Succeeded Odo I.","noteCn":"继承厄德一世。"},
+    {"kind":"person","personId":"c7040000-0000-4000-8000-000000000004","startYear":1048,"endYear":1066,"titleForm":"Count of Troyes","note":"Succeeded Stephen II.","noteCn":"继承斯蒂芬二世。"},
+    {"kind":"person","personId":"c7050000-0000-4000-8000-000000000005","startYear":1066,"endYear":1089,"titleForm":"Count of Troyes","note":"Succeeded Odo II.","noteCn":"继承厄德二世。"},
+    {"kind":"person","personId":"c7060000-0000-4000-8000-000000000006","startYear":1089,"endYear":1102,"titleForm":"Count of Blois and Chartres","note":"Succeeded Theobald I.","noteCn":"继承蒂博一世。"},
+    {"kind":"person","personId":"c7070000-0000-4000-8000-000000000007","startYear":1102,"endYear":1125,"titleForm":"Count of Troyes","note":"Succeeded Stephen-Henry.","noteCn":"继承斯蒂芬·亨利。"},
+    {"kind":"person","personId":"c7080000-0000-4000-8000-000000000008","startYear":1125,"endYear":1152,"titleForm":"Count of Champagne","note":"Succeeded Hugh and formally held the County of Champagne.","noteCn":"继承于格，并正式持有香槟伯国。","tierOverride":"duke"},
+    {"kind":"person","personId":"c7090000-0000-4000-8000-000000000009","startYear":1152,"endYear":1181,"titleForm":"Count of Champagne","note":"Succeeded Theobald II.","noteCn":"继承蒂博二世。","tierOverride":"duke"},
+    {"kind":"person","personId":"c7100000-0000-4000-8000-000000000010","startYear":1181,"endYear":1197,"titleForm":"Count of Champagne","note":"Succeeded Henry I.","noteCn":"继承亨利一世。","tierOverride":"duke"},
+    {"kind":"person","personId":"c7110000-0000-4000-8000-000000000011","startYear":1197,"endYear":1201,"titleForm":"Count of Champagne","note":"Succeeded Henry II.","noteCn":"继承亨利二世。","tierOverride":"duke"},
+    {"kind":"person","personId":"c7120000-0000-4000-8000-000000000012","startYear":1201,"endYear":1253,"titleForm":"Count of Champagne","note":"Succeeded Theobald III.","noteCn":"继承蒂博三世。","tierOverride":"duke"},
+    {"kind":"person","personId":"c7130000-0000-4000-8000-000000000013","startYear":1253,"endYear":1270,"titleForm":"Count of Champagne","note":"Succeeded Theobald I.","noteCn":"继承蒂博一世。","tierOverride":"duke"},
+    {"kind":"person","personId":"c7140000-0000-4000-8000-000000000014","startYear":1270,"endYear":1274,"titleForm":"Count of Champagne","note":"Succeeded Theobald II.","noteCn":"继承蒂博二世。","tierOverride":"duke"},
+    {"kind":"person","personId":"27376224-deaa-4e09-9598-ed3599d8f9b2","startYear":1274,"endYear":1305,"titleForm":"Countess of Champagne","note":"Succeeded Henry I; mother of Louis X of France.","noteCn":"继承亨利一世；是法王路易十世的母亲。","tierOverride":"duke"},
+    {"kind":"person","personId":"f0d935d4-8efa-482c-bccb-ac105babc10d","startYear":1305,"endYear":1316,"titleForm":"King of France / former Champagne heir","note":"Succeeded Joan I through the French royal succession.","noteCn":"通过法国王室继承关系承接琼一世。","tierOverride":"duke"}
+  ]
+}

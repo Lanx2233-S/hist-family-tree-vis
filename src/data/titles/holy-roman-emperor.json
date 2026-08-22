@@ -303,6 +303,69 @@
       "titleForm": "Holy Roman Emperor",
       "note": "King of the Romans 1346, crowned Emperor 1355.",
       "noteCn": "1346 年为罗马人的国王，1355 年加冕皇帝。"
+    },
+    {
+      "kind": "person",
+      "personId": "3d893516-a8da-469f-a546-67c603ec62e2",
+      "startYear": 1378,
+      "endYear": 1400,
+      "titleForm": "King of the Romans",
+      "note": "King of the Romans; deposed and never crowned.",
+      "noteCn": "罗马人的国王，被废黜且从未加冕。"
+    },
+    {
+      "kind": "person",
+      "personId": "40bcb989-e0d0-410c-9d2b-9e99452e5ca0",
+      "startYear": 1400,
+      "endYear": 1410,
+      "titleForm": "King of the Romans",
+      "note": "King of the Romans; never crowned.",
+      "noteCn": "罗马人的国王，从未加冕。"
+    },
+    {
+      "kind": "person",
+      "personId": "7b1aea91-a048-4a69-bacd-b6f0358bf573",
+      "startYear": 1411,
+      "endYear": 1437,
+      "titleForm": "Holy Roman Emperor",
+      "note": "King of the Romans 1411, crowned Emperor 1433.",
+      "noteCn": "1411 年为罗马人的国王，1433 年加冕皇帝。"
+    },
+    {
+      "kind": "person",
+      "personId": "bbf82f02-ae24-42a5-a999-ecaaddd9f365",
+      "startYear": 1438,
+      "endYear": 1439,
+      "titleForm": "King of the Romans",
+      "note": "First Habsburg of the unbroken line; never crowned.",
+      "noteCn": "哈布斯堡连续线首王，从未加冕。"
+    },
+    {
+      "kind": "person",
+      "personId": "682a8fa6-13f6-4dc4-83ef-83787cd8c532",
+      "startYear": 1440,
+      "endYear": 1493,
+      "titleForm": "Holy Roman Emperor",
+      "note": "King of the Romans 1440, crowned Emperor 1452.",
+      "noteCn": "1440 年为罗马人的国王，1452 年加冕皇帝。"
+    },
+    {
+      "kind": "person",
+      "personId": "db91c543-8aa9-43fa-b19b-b09be69989ed",
+      "startYear": 1486,
+      "endYear": 1519,
+      "titleForm": "Holy Roman Emperor",
+      "note": "King of the Romans 1486, Emperor from 1508.",
+      "noteCn": "1486 年为罗马人的国王，1508 年起为皇帝。"
+    },
+    {
+      "kind": "person",
+      "personId": "adb801cd-8a69-4de3-92d8-107f7e11a1e6",
+      "startYear": 1519,
+      "endYear": 1556,
+      "titleForm": "Holy Roman Emperor",
+      "note": "King of the Romans 1519, crowned Emperor 1530.",
+      "noteCn": "1519 年为罗马人的国王，1530 年加冕皇帝。"
     }
   ]
 }
