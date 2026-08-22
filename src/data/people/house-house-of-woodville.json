@@ -1,0 +1,107 @@
+[
+  {
+    "id": "2b1f74cd-3853-48c0-b048-aa8c3dd1d59d",
+    "firstName": "Elizabeth",
+    "lastName": "",
+    "displayName": "Elizabeth Woodville",
+    "fullName": "Elizabeth Woodville",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Elizabeth Woodville"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "伊丽莎白·伍德维尔",
+    "fullNameCn": "伊丽莎白·伍德维尔",
+    "birthYear": 1437,
+    "deathYear": 1492,
+    "birthPlace": "Grafton Regis, England",
+    "birthPlaceCn": "英格兰格拉夫顿里吉斯",
+    "deathPlace": "Bermondsey, England",
+    "deathPlaceCn": "英格兰伯蒙德西",
+    "gender": "female",
+    "dynasty": "House of Woodville",
+    "house": "House of Woodville",
+    "culture": "English",
+    "faith": "Catholic",
+    "primaryTitle": "Queen consort of England",
+    "primaryTitleCn": "英格兰王后",
+    "titles": [
+      {
+        "title": "Queen consort of England",
+        "startYear": 1464,
+        "endYear": 1483,
+        "titleCn": "英格兰王后"
+      }
+    ],
+    "tags": [
+      "queen",
+      "consort"
+    ],
+    "rank": "queen",
+    "importanceScore": 62,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "423d8a6a-a3f5-4502-abc7-5b6943dcfac6"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "738a5858-9506-4f77-b5ed-7539c01d7bbc",
+        "6c6619a1-067a-4f2b-a410-c882d6b794f7"
+      ]
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Elizabeth_Woodville",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Elizabeth_Woodville",
+    "sourceNote": "Wife of Edward IV and mother of Edward V and Elizabeth of York. Birth year is uncertain (traditionally c. 1437).",
+    "notes": "Queen consort of Edward IV and mother of the Princes in the Tower and of Elizabeth of York, wife of Henry VII.",
+    "historicalRating": 6,
+    "createdDate": "20260818",
+    "createdOrder": 50,
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died at Bermondsey",
+      "summaryCn": "在伯蒙德西去世",
+      "detail": "Elizabeth Woodville died in 1492 at Bermondsey Abbey.",
+      "detailCn": "1492 年，伊丽莎白·伍德维尔在伯蒙德西修道院去世。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Elizabeth_Woodville"
+    },
+    "events": [
+      {
+        "year": 1464,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 80,
+        "label": "Married Edward IV",
+        "labelCn": "嫁给爱德华四世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Elizabeth_Woodville"
+      },
+      {
+        "year": 1466,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 62,
+        "label": "Gave birth to Elizabeth of York",
+        "labelCn": "生下约克的伊丽莎白",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Elizabeth_Woodville"
+      },
+      {
+        "year": 1492,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 88,
+        "label": "Died at Bermondsey",
+        "labelCn": "在伯蒙德西去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Elizabeth_Woodville"
+      }
+    ]
+  }
+]

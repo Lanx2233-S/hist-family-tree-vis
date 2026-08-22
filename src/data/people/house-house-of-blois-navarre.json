@@ -1,0 +1,101 @@
+[
+  {
+    "id": "27376224-deaa-4e09-9598-ed3599d8f9b2",
+    "firstName": "Joan",
+    "lastName": "",
+    "displayName": "Joan I of Navarre",
+    "fullName": "Joan I of Navarre",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "纳瓦拉的琼一世",
+    "fullNameCn": "纳瓦拉的琼一世",
+    "nicknameCn": "",
+    "birthYear": 1273,
+    "deathYear": 1305,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "female",
+    "dynasty": "Blois dynasty",
+    "house": "House of Blois-Navarre",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Queen of France",
+    "primaryTitleCn": "法兰西王后",
+    "titles": [
+      {
+        "title": "Queen of France",
+        "startYear": "",
+        "endYear": 1305,
+        "titleCn": "法兰西王后"
+      }
+    ],
+    "tags": [
+      "queen",
+      "consort"
+    ],
+    "rank": "queen",
+    "importanceScore": 60,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "699ff54a-5291-422d-8621-d0a127c5d24c"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "f0d935d4-8efa-482c-bccb-ac105babc10d",
+        "f57da4e3-19a4-4087-8cf4-613a2ff0bc1f",
+        "da988cef-12ff-4b79-afad-70d0565b976e"
+      ]
+    },
+    "events": [
+      {
+        "year": 1273,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Joan_I_of_Navarre"
+      },
+      {
+        "year": 1305,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Joan_I_of_Navarre"
+      },
+      {
+        "year": 1284,
+        "month": 8,
+        "day": 16,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "queen",
+          "monarch"
+        ],
+        "weight": 75,
+        "label": "Marriage to Philip IV",
+        "labelCn": "与腓力四世结婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Joan_I_of_Navarre",
+        "note": "Married Philip IV of France, bringing Navarre and Champagne into the French crown union."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Joan_I_of_Navarre",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Joan_I_of_Navarre",
+    "sourceNote": "Basic queen-consort card; relationship links synchronized with the French royal line.",
+    "notes": "Queen consort in the French royal succession.",
+    "createdDate": "20260820",
+    "createdOrder": 45
+  }
+]

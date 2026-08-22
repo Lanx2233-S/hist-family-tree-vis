@@ -1,0 +1,160 @@
+[
+  {
+    "id": "c52abfa0-d8c2-4b49-852b-c9f25688277a",
+    "firstName": "Joan",
+    "lastName": "",
+    "displayName": "Joan of Évreux",
+    "fullName": "Joan of Évreux",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "埃夫勒的琼",
+    "fullNameCn": "埃夫勒的琼",
+    "nicknameCn": "",
+    "birthYear": 1310,
+    "deathYear": 1371,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "female",
+    "dynasty": "Capetian dynasty",
+    "house": "House of Évreux",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Queen of France",
+    "primaryTitleCn": "法兰西王后",
+    "titles": [
+      {
+        "title": "Queen of France",
+        "startYear": "",
+        "endYear": 1371,
+        "titleCn": "法兰西王后"
+      }
+    ],
+    "tags": [
+      "queen",
+      "consort"
+    ],
+    "rank": "queen",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "da988cef-12ff-4b79-afad-70d0565b976e"
+      ],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1310,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Joan_of_Évreux"
+      },
+      {
+        "year": 1371,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Joan_of_Évreux"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Joan_of_Évreux",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Joan_of_Évreux",
+    "sourceNote": "Basic queen-consort card; relationship links synchronized with the French royal line.",
+    "notes": "Queen consort in the French royal succession.",
+    "createdDate": "20260820",
+    "createdOrder": 51
+  },
+  {
+    "id": "0181c695-5273-4c44-a052-88b55ef19d68",
+    "firstName": "Blanche",
+    "lastName": "",
+    "displayName": "Blanche of Navarre",
+    "fullName": "Blanche of Navarre",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "纳瓦拉的布朗什",
+    "fullNameCn": "纳瓦拉的布朗什",
+    "nicknameCn": "",
+    "birthYear": 1331,
+    "deathYear": 1398,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "female",
+    "dynasty": "Capetian dynasty",
+    "house": "House of Évreux",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Queen of France",
+    "primaryTitleCn": "法兰西王后",
+    "titles": [
+      {
+        "title": "Queen of France",
+        "startYear": "",
+        "endYear": 1398,
+        "titleCn": "法兰西王后"
+      }
+    ],
+    "tags": [
+      "queen",
+      "consort"
+    ],
+    "rank": "queen",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "c89b7f1b-b6d2-4681-9eba-4cd9ffffab47"
+      ],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1331,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Blanche_of_Navarre"
+      },
+      {
+        "year": 1398,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Blanche_of_Navarre"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Blanche_of_Navarre",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Blanche_of_Navarre",
+    "sourceNote": "Basic queen-consort card; relationship links synchronized with the French royal line.",
+    "notes": "Queen consort in the French royal succession.",
+    "createdDate": "20260820",
+    "createdOrder": 53
+  }
+]

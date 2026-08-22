@@ -1,0 +1,158 @@
+[
+  {
+    "id": "bf8ee3fc-16d1-4788-aa89-1b460680632a",
+    "firstName": "Gisela",
+    "lastName": "of Swabia",
+    "displayName": "Gisela of Swabia",
+    "fullName": "Gisela of Swabia",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Gisela von Schwaben"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "士瓦本的吉塞拉",
+    "fullNameCn": "士瓦本的吉塞拉",
+    "nicknameCn": "",
+    "birthYear": 990,
+    "deathYear": 1043,
+    "birthPlace": "",
+    "birthPlaceCn": "",
+    "deathPlace": "Goslar",
+    "deathPlaceCn": "戈斯拉尔",
+    "gender": "female",
+    "dynasty": "Conradine dynasty",
+    "house": "House of Conradines",
+    "culture": "Swabian-German",
+    "faith": "Catholic",
+    "primaryTitle": "Holy Roman Empress",
+    "primaryTitleCn": "神圣罗马帝国皇后",
+    "titles": [
+      {
+        "title": "Queen consort of Germany",
+        "titleCn": "德意志王后",
+        "startYear": 1024,
+        "endYear": 1039
+      },
+      {
+        "title": "Holy Roman Empress",
+        "titleCn": "神圣罗马帝国皇后",
+        "startYear": 1027,
+        "endYear": 1039
+      }
+    ],
+    "tags": [
+      "queen",
+      "consort",
+      "noble"
+    ],
+    "rank": "queen",
+    "importanceScore": 77,
+    "historicalRating": 7,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "f1675c1f-68d7-43cb-b465-842711cbc175"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "3067525b-9ffb-43a7-bb87-0a582c20a7fa"
+      ]
+    },
+    "events": [
+      {
+        "year": 1016,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 80,
+        "label": "Married Conrad, the future emperor Conrad II",
+        "labelCn": "与后来成为康拉德二世皇帝的康拉德结婚",
+        "wikiUrl": "https://www.deutsche-biographie.de/gnd118717693.html",
+        "note": "The marriage to Conrad II is usually dated between 31 May 1015 and January 1017; 1016 is a conventional approximate placement."
+      },
+      {
+        "year": 1017,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "dynasty"
+        ],
+        "weight": 85,
+        "label": "Gave birth to the future emperor Henry III",
+        "labelCn": "生下后来成为皇帝的亨利三世",
+        "wikiUrl": "https://www.deutsche-biographie.de/gnd118717693.html",
+        "month": 10,
+        "day": 28,
+        "note": "The child was Henry III, who later continued the Salian imperial succession."
+      },
+      {
+        "year": 1024,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "queen"
+        ],
+        "weight": 95,
+        "label": "Crowned Queen of Germany at Cologne",
+        "labelCn": "在科隆加冕为德意志王后",
+        "wikiUrl": "https://www.deutsche-biographie.de/gnd118717693.html",
+        "month": 9,
+        "day": 21,
+        "note": "The coronation took place at Cologne after Conrad II's royal accession."
+      },
+      {
+        "year": 1027,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "queen"
+        ],
+        "weight": 100,
+        "label": "Crowned Holy Roman Empress in Rome",
+        "labelCn": "在罗马加冕为神圣罗马帝国皇后",
+        "wikiUrl": "https://www.deutsche-biographie.de/gnd118717693.html",
+        "month": 3,
+        "day": 26,
+        "note": "Gisela received the imperial coronation in Rome alongside Conrad II."
+      },
+      {
+        "year": 1039,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "dynasty"
+        ],
+        "weight": 85,
+        "label": "Became empress dowager when Henry III succeeded Conrad II",
+        "labelCn": "康拉德二世去世、亨利三世继位后成为皇太后",
+        "wikiUrl": "https://www.deutsche-biographie.de/gnd118717693.html",
+        "note": "Her son Henry III inherited the German and imperial position without a dynastic break."
+      },
+      {
+        "year": 1043,
+        "type": "death",
+        "tags": [
+          "death",
+          "queen"
+        ],
+        "weight": 70,
+        "label": "Died at Goslar and was buried at Speyer Cathedral",
+        "labelCn": "在戈斯拉尔去世并葬于施派尔大教堂",
+        "wikiUrl": "https://www.deutsche-biographie.de/gnd118717693.html",
+        "month": 2,
+        "day": 15,
+        "note": "Gisela died at Goslar and was buried at Speyer Cathedral."
+      }
+    ],
+    "wikiUrl": "https://www.deutsche-biographie.de/gnd118717693.html",
+    "portraitUrl": "",
+    "sourceUrl": "https://www.deutsche-biographie.de/gnd118717693.html",
+    "sourceNote": "Neue Deutsche Biographie, 'Gisela'; Herwig Wolfram, Conrad II, 990–1039; German royal and imperial regesta; Wikipedia used only to cross-check coronation dates.",
+    "notes": "Gisela was the dynastic bridge between the Conradine ducal aristocracy and the Salian emperors. Through her marriage to Conrad II and motherhood of Henry III she stood at the center of the first two generations of Salian imperial rule.\n\nConfidence / caveats: Her birth year is approximate. Her marriage to Conrad II can only be bounded to 1015–1017, so the 1016 event is explicitly approximate. Some popular summaries state a specific disease as her cause of death, but the stronger biographical source used here does not establish it; deathCause is therefore left blank.\n\nUnlinked family (not in roster): father: Herman II, Duke of Swabia; mother: Gerberga of Burgundy; spouse: Brun I, Count of Brunswick; spouse: Ernest I, Duke of Swabia; child: Liudolf, Margrave of Frisia; child: Ernest II, Duke of Swabia; child: Herman IV, Duke of Swabia; child: Matilda of Franconia; child: Beatrix of Franconia",
+    "createdDate": "20260823",
+    "createdOrder": 109
+  }
+]

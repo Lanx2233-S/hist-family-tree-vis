@@ -1,0 +1,259 @@
+[
+  {
+    "id": "f1010000-0000-4000-8000-000000000002",
+    "firstName": "Baldwin",
+    "lastName": "of Hainaut",
+    "displayName": "Baldwin II of Hainaut",
+    "fullName": "Baldwin II, Count of Hainaut",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [
+      "Baldwin II of Mons",
+      "Baudouin II de Hainaut"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "埃诺的鲍德温二世",
+    "fullNameCn": "埃诺伯爵鲍德温二世",
+    "birthYear": 1056,
+    "deathYear": 1098,
+    "birthPlace": "",
+    "birthPlaceCn": "",
+    "deathPlace": "Anatolia",
+    "deathPlaceCn": "安纳托利亚",
+    "gender": "male",
+    "dynasty": "Baldwinid dynasty",
+    "house": "House of Flanders, Hainaut branch",
+    "culture": "Hainaut / Lotharingian",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Hainaut",
+    "primaryTitleCn": "埃诺伯爵",
+    "titles": [
+      {
+        "title": "Count of Hainaut",
+        "titleCn": "埃诺伯爵",
+        "startYear": 1071,
+        "endYear": 1098
+      }
+    ],
+    "tags": [
+      "count",
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "c9830000-0000-4000-8000-000000000000",
+      "motherId": "f1010000-0000-4000-8000-000000000001",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "f1010000-0000-4000-8000-000000000003"
+      ]
+    },
+    "events": [
+      {
+        "year": 1071,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 82,
+        "label": "Succeeded as Count of Hainaut",
+        "labelCn": "继承埃诺伯爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Hainaut"
+      },
+      {
+        "year": 1096,
+        "type": "crusade",
+        "tags": [
+          "crusade",
+          "title"
+        ],
+        "weight": 74,
+        "label": "Joined the First Crusade",
+        "labelCn": "参加第一次十字军东征",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Hainaut"
+      }
+    ],
+    "wikiUrl": "",
+    "portraitUrl": "",
+    "sourceUrl": "",
+    "sourceNote": "Jonathan Riley-Smith, The First Crusaders 1095–1131; Alan V. Murray, The Crusader Kingdom of Jerusalem; Gislebert of Mons, Chronicle of Hainaut.",
+    "notes": "He succeeded in Hainaut after his elder brother Arnulf III was killed at Cassel in 1071, while Flanders passed to Robert the Frisian. Baldwin later joined the First Crusade. He disappeared in Anatolia in 1098 while travelling back toward Constantinople and is generally presumed to have been killed; his exact death circumstances and date are therefore uncertain.",
+    "createdDate": "20260823",
+    "createdOrder": 92
+  },
+  {
+    "id": "f1010000-0000-4000-8000-000000000003",
+    "firstName": "Baldwin",
+    "lastName": "of Hainaut",
+    "displayName": "Baldwin III of Hainaut",
+    "fullName": "Baldwin III, Count of Hainaut",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [
+      "Baudouin III de Hainaut"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "埃诺的鲍德温三世",
+    "fullNameCn": "埃诺伯爵鲍德温三世",
+    "birthYear": 1088,
+    "deathYear": 1120,
+    "birthPlace": "",
+    "birthPlaceCn": "",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "Baldwinid dynasty",
+    "house": "House of Flanders, Hainaut branch",
+    "culture": "Hainaut / Lotharingian",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Hainaut",
+    "primaryTitleCn": "埃诺伯爵",
+    "titles": [
+      {
+        "title": "Count of Hainaut",
+        "titleCn": "埃诺伯爵",
+        "startYear": 1098,
+        "endYear": 1120
+      }
+    ],
+    "tags": [
+      "count",
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "f1010000-0000-4000-8000-000000000002",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "f1010000-0000-4000-8000-000000000004"
+      ]
+    },
+    "events": [
+      {
+        "year": 1098,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 80,
+        "label": "Succeeded as Count of Hainaut",
+        "labelCn": "继承埃诺伯爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Hainaut"
+      },
+      {
+        "year": 1120,
+        "type": "death",
+        "tags": [
+          "death",
+          "title"
+        ],
+        "weight": 68,
+        "label": "Died",
+        "labelCn": "去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Hainaut"
+      }
+    ],
+    "wikiUrl": "",
+    "portraitUrl": "",
+    "sourceUrl": "",
+    "sourceNote": "Gislebert of Mons, Chronicle of Hainaut, trans. Laura Napran, Boydell Press, 2005; standard Hainaut genealogical chronologies.",
+    "notes": "Baldwin III continued the Baldwinid Hainaut line and was succeeded by his son Baldwin IV. Most regnal lists begin his countship in 1098 after Baldwin II's disappearance, although some narrative accounts associate the effective assumption of rule with a later date around 1102, reflecting his minority.",
+    "createdDate": "20260823",
+    "createdOrder": 93
+  },
+  {
+    "id": "f1010000-0000-4000-8000-000000000004",
+    "firstName": "Baldwin",
+    "lastName": "of Hainaut",
+    "displayName": "Baldwin IV of Hainaut",
+    "fullName": "Baldwin IV, Count of Hainaut",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [
+      "Baldwin the Builder",
+      "Baudouin IV le Bâtisseur"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "埃诺的鲍德温四世",
+    "fullNameCn": "埃诺伯爵鲍德温四世",
+    "birthYear": 1108,
+    "deathYear": 1171,
+    "birthPlace": "",
+    "birthPlaceCn": "",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "Baldwinid dynasty",
+    "house": "House of Flanders, Hainaut branch",
+    "culture": "Hainaut",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Hainaut",
+    "primaryTitleCn": "埃诺伯爵",
+    "titles": [
+      {
+        "title": "Count of Hainaut",
+        "titleCn": "埃诺伯爵",
+        "startYear": 1120,
+        "endYear": 1171
+      }
+    ],
+    "tags": [
+      "count",
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "f1010000-0000-4000-8000-000000000003",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "f1010000-0000-4000-8000-000000000005"
+      ]
+    },
+    "events": [
+      {
+        "year": 1120,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 80,
+        "label": "Succeeded as Count of Hainaut",
+        "labelCn": "继承埃诺伯爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Hainaut"
+      },
+      {
+        "year": 1171,
+        "type": "death",
+        "tags": [
+          "death",
+          "title"
+        ],
+        "weight": 68,
+        "label": "Died",
+        "labelCn": "去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Hainaut"
+      }
+    ],
+    "wikiUrl": "",
+    "portraitUrl": "",
+    "sourceUrl": "",
+    "sourceNote": "Gislebert of Mons, Chronicle of Hainaut, trans. Laura Napran, Boydell Press, 2005.",
+    "notes": "Known as 'the Builder', Baldwin IV consolidated the county and was succeeded by Baldwin V, under whom Hainaut became linked again with Flanders. The reign dates 1120–1171 are well established; exact birthplace and death place are not sufficiently secure for this basic card and are left blank.",
+    "createdDate": "20260823",
+    "createdOrder": 94
+  }
+]

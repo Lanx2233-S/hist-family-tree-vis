@@ -1,0 +1,37 @@
+{
+  "id": "county-of-hainaut",
+  "canonicalName": "County of Hainaut",
+  "canonicalNameCn": "埃诺伯国",
+  "form": "hereditary county",
+  "aliases": ["Count of Hainaut", "Counts of Hainaut", "Comté de Hainaut", "County of Hainaut / 埃诺伯国"],
+  "nameForms": [
+    {
+      "name": "County of Hainaut",
+      "nameCn": "埃诺伯国",
+      "fromYear": 1051,
+      "untilYear": "",
+      "note": "A Lotharingian imperial fief. From Richilde the county passed through the Baldwinid Flanders, Avesnes and Wittelsbach-Straubing lines before entering the Burgundian system under Philip the Good in 1433.",
+      "noteCn": "洛林地区的帝国封建伯国。自里希尔德起，伯国先后经鲍德温家族佛兰德支系、阿韦讷家族与维特尔斯巴赫-施特劳宾支系统治，1433 年转入好人腓力治下的勃艮第体系。"
+    }
+  ],
+  "holders": [
+    { "kind": "person", "personId": "f1010000-0000-4000-8000-000000000001", "startYear": 1051, "endYear": 1076, "titleForm": "Countess of Hainaut", "note": "Held Hainaut in her own right; her rule's beginning is variously dated c.1050–1051, and she continued as regent/co-ruler for Baldwin II after 1071.", "noteCn": "以自身权利统治埃诺；其统治起点有 c.1050 与 1051 两说，1071 年后作为鲍德温二世的摄政/共治者继续执政。", "tierOverride": "count" },
+    { "kind": "person", "personId": "c9830000-0000-4000-8000-000000000000", "startYear": 1051, "endYear": 1070, "titleForm": "Count of Hainaut (jure uxoris)", "note": "Co-ruler of Hainaut through his marriage to Richilde; his death in 1070 opened the Flemish succession crisis.", "noteCn": "因与里希尔德的婚姻而共治埃诺；1070 年去世引发佛兰德继承危机。", "tierOverride": "count" },
+    { "kind": "person", "personId": "f1010000-0000-4000-8000-000000000002", "startYear": 1071, "endYear": 1098, "titleForm": "Count of Hainaut", "note": "Succeeded after his elder brother Arnulf III was killed at Cassel in 1071; later joined the First Crusade.", "noteCn": "1071 年其兄阿努尔夫三世在卡塞尔被杀后继任；后参加第一次十字军东征。", "tierOverride": "count" },
+    { "kind": "person", "personId": "f1010000-0000-4000-8000-000000000003", "startYear": 1098, "endYear": 1120, "titleForm": "Count of Hainaut", "note": "Succeeded his father Baldwin II after his disappearance in Anatolia.", "noteCn": "父亲鲍德温二世在安纳托利亚失踪后继承。", "tierOverride": "count" },
+    { "kind": "person", "personId": "f1010000-0000-4000-8000-000000000004", "startYear": 1120, "endYear": 1171, "titleForm": "Count of Hainaut", "note": "Known as 'the Builder'; consolidated the county.", "noteCn": "人称「建造者」，巩固了伯国。", "tierOverride": "count" },
+    { "kind": "person", "personId": "f1010000-0000-4000-8000-000000000005", "startYear": 1171, "endYear": 1195, "titleForm": "Count of Hainaut", "note": "His marriage to Margaret I of Flanders reunited the Hainaut and Flemish lines; also Margrave of Namur (1189–1195) and Count of Flanders jure uxoris (1191–1194).", "noteCn": "与佛兰德的玛格丽特一世联姻，使埃诺与佛兰德两系重新合一；1189–1195 兼那慕尔藩侯，1191–1194 以妻权兼佛兰德伯爵。", "tierOverride": "count" },
+    { "kind": "person", "personId": "f1010000-0000-4000-8000-000000000006", "startYear": 1195, "endYear": 1205, "titleForm": "Count of Hainaut", "note": "Baldwin VI of Hainaut / Baldwin IX of Flanders; became the first Latin Emperor of Constantinople in 1204.", "noteCn": "埃诺的鲍德温六世，即佛兰德的鲍德温九世；1204 年成为首位君士坦丁堡拉丁皇帝。", "tierOverride": "count" },
+    { "kind": "person", "personId": "f1010000-0000-4000-8000-000000000007", "startYear": 1205, "endYear": 1244, "titleForm": "Countess of Hainaut", "note": "Inherited as a child; ruled both Flanders and Hainaut until her death without surviving issue.", "noteCn": "幼年继承，同时统治佛兰德与埃诺，去世时无存活子嗣。", "tierOverride": "count" },
+    { "kind": "person", "personId": "f1010000-0000-4000-8000-000000000008", "startYear": 1244, "endYear": 1280, "titleForm": "Countess of Hainaut", "note": "Succeeded her sister Joan; her Avesnes–Dampierre dispute split the inheritance, with Hainaut passing to the Avesnes line.", "noteCn": "继承其姐让娜；阿韦讷与当皮埃尔之争使遗产分裂，埃诺转入阿韦讷一系。", "tierOverride": "count" },
+    { "kind": "person", "personId": "f1010000-0000-4000-8000-000000000009", "startYear": 1280, "endYear": 1304, "titleForm": "Count of Hainaut", "note": "Inherited from his grandmother Margaret, completing the Avesnes transition; also Count of Holland and Zeeland from 1299.", "noteCn": "继承祖母玛格丽特，完成向阿韦讷家族的过渡；1299 年起兼荷兰与泽兰伯爵。", "tierOverride": "count" },
+    { "kind": "person", "personId": "f1010000-0000-4000-8000-000000000010", "startYear": 1304, "endYear": 1337, "titleForm": "Count of Hainaut", "note": "Maintained the Hainaut–Holland–Zeeland union; father of Philippa, queen of Edward III of England.", "noteCn": "维持埃诺—荷兰—泽兰联合；爱德华三世王后菲利帕之父。", "tierOverride": "count" },
+    { "kind": "person", "personId": "f1010000-0000-4000-8000-000000000011", "startYear": 1337, "endYear": 1345, "titleForm": "Count of Hainaut", "note": "Died without legitimate issue during the Frisian campaign in 1345.", "noteCn": "1345 年在弗里斯兰战役中阵亡，无合法子嗣。", "tierOverride": "count" },
+    { "kind": "person", "personId": "f1010000-0000-4000-8000-000000000012", "startYear": 1345, "endYear": 1356, "titleForm": "Countess of Hainaut", "note": "Her marriage to Emperor Louis IV carried Hainaut into the Wittelsbach dynasty; her son William III succeeded her.", "noteCn": "与皇帝路易四世的婚姻将埃诺带入维特尔斯巴赫家族；其子威廉三世继承伯国。", "tierOverride": "count" },
+    { "kind": "person", "personId": "f1010000-0000-4000-8000-000000000016", "startYear": 1356, "endYear": 1389, "titleForm": "Count of Hainaut", "note": "Succeeded his mother Margaret II in 1356. After his incapacity in 1358, his brother Albert I governed as regent until William's death.", "noteCn": "1356 年继承母亲玛格丽特二世。1358 年失能后，其弟阿尔布雷希特一世摄政至威廉去世。", "tierOverride": "count" },
+    { "kind": "person", "personId": "f1010000-0000-4000-8000-000000000013", "startYear": 1389, "endYear": 1404, "titleForm": "Count of Hainaut", "note": "Regent of Hainaut, Holland and Zeeland from 1358 during William III's incapacity; count in his own right only after 1389.", "noteCn": "自 1358 年起在威廉三世失能期间摄政埃诺、荷兰与泽兰；1389 年后方以自身权利成为伯爵。", "tierOverride": "count" },
+    { "kind": "person", "personId": "f1010000-0000-4000-8000-000000000014", "startYear": 1404, "endYear": 1417, "titleForm": "Count of Hainaut", "note": "Succeeded Albert I; his death left his daughter Jacqueline as heiress.", "noteCn": "继承阿尔布雷希特一世；其去世使女儿雅克琳成为继承人。", "tierOverride": "count" },
+    { "kind": "person", "personId": "f1010000-0000-4000-8000-000000000015", "startYear": 1417, "endYear": 1433, "titleForm": "Countess of Hainaut", "note": "Her succession triggered a struggle with John of Bavaria and Philip the Good; she formally relinquished her counties in 1433.", "noteCn": "其继承引发与巴伐利亚的约翰及好人腓力的争夺；1433 年正式放弃诸伯国。", "tierOverride": "count" },
+    { "kind": "person", "personId": "c1018000-0000-4000-8000-000000000000", "startYear": 1433, "endYear": 1467, "titleForm": "Count of Hainaut", "note": "Hainaut entered the Burgundian system under Philip the Good after Jacqueline's renunciation.", "noteCn": "雅克琳放弃权利后，埃诺在好人腓力治下转入勃艮第体系。", "tierOverride": "count" }
+  ]
+}

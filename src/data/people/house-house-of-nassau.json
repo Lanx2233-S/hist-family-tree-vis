@@ -1,0 +1,94 @@
+[
+  {
+    "id": "0f0e4af2-bb30-4f4b-9487-f3cd1770da56",
+    "firstName": "Adolf",
+    "lastName": "",
+    "displayName": "Adolf",
+    "fullName": "Adolf of Nassau",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Adolf of Nassau",
+      "Adolf von Nassau"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "拿骚的阿道夫",
+    "fullNameCn": "拿骚的阿道夫",
+    "birthYear": 1255,
+    "deathYear": 1298,
+    "birthPlace": "",
+    "deathPlace": "Göllheim, Germany",
+    "deathPlaceCn": "德意志格尔海姆",
+    "gender": "male",
+    "dynasty": "House of Nassau",
+    "house": "House of Nassau",
+    "culture": "German",
+    "faith": "Catholic",
+    "primaryTitle": "King of the Romans",
+    "primaryTitleCn": "罗马人的国王",
+    "titles": [
+      {
+        "title": "King of the Romans",
+        "startYear": 1292,
+        "endYear": 1298,
+        "titleCn": "罗马人的国王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 58,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1255,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Adolf,_King_of_the_Romans"
+      },
+      {
+        "year": 1292,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Began rule as King of the Romans",
+        "labelCn": "开始担任罗马人的国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Adolf,_King_of_the_Romans"
+      },
+      {
+        "year": 1298,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Adolf,_King_of_the_Romans"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Adolf,_King_of_the_Romans",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Adolf,_King_of_the_Romans",
+    "sourceNote": "King of the Romans deposed in 1298; never crowned Emperor. Core timeline generated from recorded lifespan and titles on 2026-08-20.",
+    "notes": "King of the Romans who was deposed and killed at Göllheim by Albert of Habsburg.",
+    "createdDate": "20260820",
+    "createdOrder": 15
+  }
+]

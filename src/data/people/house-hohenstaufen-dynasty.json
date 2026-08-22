@@ -1,0 +1,2577 @@
+[
+  {
+    "id": "b9252f8f-d6cd-48eb-8a6a-8072d819d78e",
+    "firstName": "Conrad",
+    "lastName": "",
+    "displayName": "Conrad III",
+    "fullName": "Conrad III of Germany",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Conrad III",
+      "Konrad III"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "康拉德三世",
+    "fullNameCn": "康拉德三世",
+    "birthYear": 1093,
+    "deathYear": 1152,
+    "birthPlace": "",
+    "deathPlace": "Bamberg, Germany",
+    "deathPlaceCn": "德意志班贝格",
+    "gender": "male",
+    "dynasty": "Hohenstaufen dynasty",
+    "house": "Hohenstaufen dynasty",
+    "culture": "German",
+    "faith": "Catholic",
+    "primaryTitle": "King of the Romans",
+    "primaryTitleCn": "罗马人的国王",
+    "titles": [
+      {
+        "title": "King of the Romans",
+        "startYear": 1138,
+        "endYear": 1152,
+        "titleCn": "罗马人的国王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 62,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "f9819d64-fa7e-40da-85f5-dfd70e7fcf98",
+      "motherId": "cc4490a7-cc6f-4764-912b-61d31ec8b22d",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1093,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Conrad_III_of_Germany"
+      },
+      {
+        "year": 1138,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Began rule as King of the Romans",
+        "labelCn": "开始担任罗马人的国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Conrad_III_of_Germany"
+      },
+      {
+        "year": 1152,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Conrad_III_of_Germany"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Conrad_III_of_Germany",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Conrad_III_of_Germany",
+    "sourceNote": "First Hohenstaufen king; never crowned Emperor. Core timeline generated from recorded lifespan and titles on 2026-08-20.",
+    "notes": "First Hohenstaufen king of the Romans; never crowned Emperor, and died during the Second Crusade.",
+    "createdDate": "20260820",
+    "createdOrder": 7
+  },
+  {
+    "id": "727f5266-97af-45ee-8a21-c986aaf039dd",
+    "firstName": "Frederick",
+    "lastName": "",
+    "displayName": "Frederick I Barbarossa",
+    "fullName": "Frederick I, Holy Roman Emperor",
+    "nickname": "Barbarossa",
+    "alsoKnownAs": [
+      "Frederick I",
+      "Frederick Barbarossa"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "腓特烈一世",
+    "fullNameCn": "腓特烈一世",
+    "nicknameCn": "红胡子",
+    "birthYear": 1122,
+    "deathYear": 1190,
+    "birthPlace": "",
+    "deathPlace": "Saleph River, Anatolia",
+    "deathPlaceCn": "安纳托利亚萨莱夫河",
+    "gender": "male",
+    "dynasty": "Hohenstaufen dynasty",
+    "house": "Hohenstaufen dynasty",
+    "culture": "German",
+    "faith": "Catholic",
+    "primaryTitle": "Holy Roman Emperor",
+    "primaryTitleCn": "神圣罗马帝国皇帝",
+    "titles": [
+      {
+        "title": "King of the Romans",
+        "startYear": 1152,
+        "endYear": 1155,
+        "titleCn": "罗马人的国王"
+      },
+      {
+        "title": "Holy Roman Emperor",
+        "startYear": 1155,
+        "endYear": 1190,
+        "titleCn": "神圣罗马帝国皇帝"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "emperor",
+      "king"
+    ],
+    "rank": "emperor",
+    "importanceScore": 84,
+    "historicalRating": 8,
+    "relationships": {
+      "fatherId": "5d9f38da-aa48-42e8-96cf-a87ed75db93f",
+      "motherId": "a21ea92f-95d3-4fbe-a626-a662557225b4",
+      "spouseIds": [
+        "6a94fc7a-dd9f-4031-87ac-701daf55e26e"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "0ab7ebf5-061d-4668-8554-ba7b6fbd01f7",
+        "186da770-6a93-4236-b48f-6fd705cdbcf4",
+        "45baa722-7fe8-4c5c-b533-e37544328a75",
+        "c3b0687b-179f-47b6-9ea7-ccfea2629c05",
+        "4447ca0f-a12f-494a-95ee-9875ff063099",
+        "966b3670-1197-4552-b765-7cdc54455363",
+        "58f15fda-c80f-4439-876b-ff4f047da3b2",
+        "3a26b97e-3345-4100-801e-3d5deb589bd6",
+        "6c8157b1-bdab-4012-afcd-b4e817686195",
+        "0bd54372-1bb7-4d4e-8281-e8834a3bdedc",
+        "a4797c56-9e7d-42ad-bcce-653c8dd42eb6"
+      ]
+    },
+    "events": [
+      {
+        "year": 1122,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 60,
+        "label": "Born in Swabia",
+        "labelCn": "出生于施瓦本",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Frederick_Barbarossa"
+      },
+      {
+        "year": 1152,
+        "type": "coronation",
+        "tags": [
+          "coronation"
+        ],
+        "weight": 67,
+        "label": "Elected King of the Romans",
+        "labelCn": "当选罗马人的国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Frederick_Barbarossa"
+      },
+      {
+        "year": 1155,
+        "type": "coronation",
+        "tags": [
+          "coronation"
+        ],
+        "weight": 74,
+        "label": "Crowned Holy Roman Emperor",
+        "labelCn": "加冕为神圣罗马帝国皇帝",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Frederick_Barbarossa"
+      },
+      {
+        "year": 1176,
+        "type": "battle",
+        "tags": [
+          "battle"
+        ],
+        "weight": 81,
+        "label": "Defeated at Legnano by the Lombard League",
+        "labelCn": "在莱尼亚诺战役败于伦巴第同盟",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Frederick_Barbarossa"
+      },
+      {
+        "year": 1189,
+        "type": "government",
+        "tags": [
+          "government"
+        ],
+        "weight": 88,
+        "label": "Joined the Third Crusade",
+        "labelCn": "参加第三次十字军东征",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Frederick_Barbarossa"
+      },
+      {
+        "year": 1190,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 95,
+        "label": "Drowned in the Saleph River",
+        "labelCn": "溺亡于萨莱夫河",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Frederick_Barbarossa"
+      },
+      {
+        "year": 1158,
+        "type": "government",
+        "tags": [
+          "government",
+          "politics"
+        ],
+        "weight": 76,
+        "label": "Diet of Roncaglia asserted imperial rights in Italy",
+        "labelCn": "龙卡利亚帝国议会宣示皇权",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Diet_of_Roncaglia"
+      },
+      {
+        "year": 1162,
+        "type": "conquest",
+        "tags": [
+          "conquest",
+          "war",
+          "territory"
+        ],
+        "weight": 82,
+        "label": "Destruction of Milan",
+        "labelCn": "摧毁米兰",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Frederick_Barbarossa"
+      },
+      {
+        "year": 1177,
+        "type": "treaty",
+        "tags": [
+          "treaty",
+          "diplomacy",
+          "religion"
+        ],
+        "weight": 80,
+        "label": "Peace of Venice with Pope Alexander III",
+        "labelCn": "与教宗亚历山大三世达成威尼斯和约",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Peace_of_Venice"
+      },
+      {
+        "year": 1183,
+        "type": "treaty",
+        "tags": [
+          "treaty",
+          "diplomacy"
+        ],
+        "weight": 78,
+        "label": "Peace of Constance with the Lombard League",
+        "labelCn": "与伦巴第同盟达成康斯坦茨和约",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Peace_of_Constance"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Frederick_Barbarossa",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Frederick_Barbarossa",
+    "sourceNote": "King of the Romans from 1152, crowned Emperor in 1155; drowned on the Third Crusade. Core chronology completed 2026-08-20.",
+    "notes": "Holy Roman Emperor who fought the Lombard League and the papacy; drowned in Anatolia on the Third Crusade.",
+    "createdDate": "20260820",
+    "createdOrder": 8,
+    "deathCause": {
+      "kind": "violent",
+      "summary": "Drowned crossing the Saleph River",
+      "summaryCn": "横渡萨莱夫河时溺亡",
+      "detail": "While leading his army through Cilicia on the Third Crusade, Frederick drowned on 10 June 1190 while crossing the Saleph River.",
+      "detailCn": "第三次十字军东征期间，腓特烈率军穿越奇里乞亚，于1190年6月10日在横渡萨莱夫河时溺亡。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Frederick_Barbarossa"
+    }
+  },
+  {
+    "id": "0ab7ebf5-061d-4668-8554-ba7b6fbd01f7",
+    "firstName": "Heinrich",
+    "lastName": "",
+    "displayName": "Heinrich VI",
+    "fullName": "Heinrich VI, Holy Roman Emperor",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Heinrich VI",
+      "Henry VI"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "海因里希六世",
+    "fullNameCn": "海因里希六世",
+    "birthYear": 1165,
+    "deathYear": 1197,
+    "birthPlace": "Nijmegen, Germany",
+    "birthPlaceCn": "德意志奈梅亨",
+    "deathPlace": "Messina, Sicily",
+    "deathPlaceCn": "西西里墨西拿",
+    "gender": "male",
+    "dynasty": "Hohenstaufen dynasty",
+    "house": "Hohenstaufen dynasty",
+    "culture": "German",
+    "faith": "Catholic",
+    "primaryTitle": "Holy Roman Emperor",
+    "primaryTitleCn": "神圣罗马帝国皇帝",
+    "titles": [
+      {
+        "title": "King of the Romans",
+        "startYear": 1169,
+        "endYear": 1197,
+        "titleCn": "罗马人的国王"
+      },
+      {
+        "title": "Holy Roman Emperor",
+        "startYear": 1191,
+        "endYear": 1197,
+        "titleCn": "神圣罗马帝国皇帝"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "emperor",
+      "king"
+    ],
+    "rank": "emperor",
+    "importanceScore": 74,
+    "historicalRating": 7,
+    "relationships": {
+      "fatherId": "727f5266-97af-45ee-8a21-c986aaf039dd",
+      "motherId": "6a94fc7a-dd9f-4031-87ac-701daf55e26e",
+      "spouseIds": [
+        "6181b0ca-27a6-4f18-bd23-673f55652e23"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "ea19e505-86fe-4cb7-8e55-c42e9f0ebfd3"
+      ]
+    },
+    "events": [
+      {
+        "year": 1165,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_VI,_Holy_Roman_Emperor"
+      },
+      {
+        "year": 1169,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Began rule as King of the Romans",
+        "labelCn": "开始担任罗马人的国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_VI,_Holy_Roman_Emperor"
+      },
+      {
+        "year": 1197,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_VI,_Holy_Roman_Emperor"
+      },
+      {
+        "year": 1191,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Crowned Holy Roman Emperor",
+        "labelCn": "加冕为神圣罗马帝国皇帝",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_VI,_Holy_Roman_Emperor",
+        "note": "Crowned emperor in Rome by Pope Celestine III."
+      },
+      {
+        "year": 1194,
+        "type": "conquest",
+        "tags": [
+          "conquest",
+          "territory",
+          "king"
+        ],
+        "weight": 85,
+        "label": "Conquered the Kingdom of Sicily",
+        "labelCn": "征服西西里王国",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_VI,_Holy_Roman_Emperor",
+        "note": "Conquered the Norman kingdom and was crowned King of Sicily at Palermo, uniting it with the empire."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Henry_VI,_Holy_Roman_Emperor",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Henry_VI,_Holy_Roman_Emperor",
+    "sourceNote": "Son of Frederick I Barbarossa; King of the Romans from 1190, crowned Emperor in 1191. Core timeline generated from recorded lifespan and titles on 2026-08-20.",
+    "notes": "Holy Roman Emperor who also ruled Sicily through his wife Constance; father of Frederick II.",
+    "createdDate": "20260820",
+    "createdOrder": 9
+  },
+  {
+    "id": "186da770-6a93-4236-b48f-6fd705cdbcf4",
+    "firstName": "Philip",
+    "lastName": "",
+    "displayName": "Philip of Swabia",
+    "fullName": "Philip of Swabia",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Philip of Swabia",
+      "Philipp von Schwaben"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "施瓦本的菲利普",
+    "fullNameCn": "施瓦本的菲利普",
+    "birthYear": 1177,
+    "deathYear": 1208,
+    "birthPlace": "",
+    "deathPlace": "Bamberg, Germany",
+    "deathPlaceCn": "德意志班贝格",
+    "gender": "male",
+    "dynasty": "Hohenstaufen dynasty",
+    "house": "Hohenstaufen dynasty",
+    "culture": "German",
+    "faith": "Catholic",
+    "primaryTitle": "King of the Romans",
+    "primaryTitleCn": "罗马人的国王",
+    "titles": [
+      {
+        "title": "King of the Romans",
+        "startYear": 1198,
+        "endYear": 1208,
+        "titleCn": "罗马人的国王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 60,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "727f5266-97af-45ee-8a21-c986aaf039dd",
+      "motherId": "6a94fc7a-dd9f-4031-87ac-701daf55e26e",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1177,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Philip_of_Swabia"
+      },
+      {
+        "year": 1198,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Began rule as King of the Romans",
+        "labelCn": "开始担任罗马人的国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Philip_of_Swabia"
+      },
+      {
+        "year": 1208,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Philip_of_Swabia"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Philip_of_Swabia",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Philip_of_Swabia",
+    "sourceNote": "Son of Frederick I Barbarossa; contested the crown with Otto IV and was never crowned Emperor. Core timeline generated from recorded lifespan and titles on 2026-08-20.",
+    "notes": "Hohenstaufen king of the Romans who contested the throne with the Welf Otto IV; assassinated in 1208.",
+    "createdDate": "20260820",
+    "createdOrder": 10
+  },
+  {
+    "id": "ea19e505-86fe-4cb7-8e55-c42e9f0ebfd3",
+    "firstName": "Frederick",
+    "lastName": "",
+    "displayName": "Frederick II",
+    "fullName": "Frederick II, Holy Roman Emperor",
+    "nickname": "Stupor Mundi",
+    "nicknameCn": "世界奇迹",
+    "alsoKnownAs": [
+      "Frederick II",
+      "Stupor Mundi"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "腓特烈二世",
+    "fullNameCn": "腓特烈二世",
+    "birthYear": 1194,
+    "deathYear": 1250,
+    "birthPlace": "Jesi, Italy",
+    "birthPlaceCn": "意大利耶西",
+    "deathPlace": "Fiorentino, Italy",
+    "deathPlaceCn": "意大利菲奥伦蒂诺",
+    "gender": "male",
+    "dynasty": "Hohenstaufen dynasty",
+    "house": "Hohenstaufen dynasty",
+    "culture": "German",
+    "faith": "Catholic",
+    "primaryTitle": "Holy Roman Emperor",
+    "primaryTitleCn": "神圣罗马帝国皇帝",
+    "titles": [
+      {
+        "title": "King of the Romans",
+        "startYear": 1212,
+        "endYear": 1220,
+        "titleCn": "罗马人的国王"
+      },
+      {
+        "title": "Holy Roman Emperor",
+        "startYear": 1220,
+        "endYear": 1250,
+        "titleCn": "神圣罗马帝国皇帝"
+      },
+      {
+        "title": "King of Sicily",
+        "startYear": 1198,
+        "endYear": 1250,
+        "titleCn": "西西里国王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "emperor",
+      "king"
+    ],
+    "rank": "emperor",
+    "importanceScore": 84,
+    "historicalRating": 8,
+    "relationships": {
+      "fatherId": "0ab7ebf5-061d-4668-8554-ba7b6fbd01f7",
+      "motherId": "6181b0ca-27a6-4f18-bd23-673f55652e23",
+      "spouseIds": [
+        "34ddbe50-21e8-481f-93f4-f1a3cc000c1f",
+        "d69c4068-f30d-4515-b599-4e281bb7e60c",
+        "940e5640-6bcc-42d2-b30a-577e361c427e"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "4c68ef70-d950-4e5d-8106-80c28800a522",
+        "94df728a-05ee-4aef-a962-fb35d1ab0735",
+        "a1631254-26f2-4306-ad68-0fc11054191b"
+      ]
+    },
+    "events": [
+      {
+        "year": 1194,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 60,
+        "label": "Born at Jesi",
+        "labelCn": "出生于耶西",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Frederick_II,_Holy_Roman_Emperor"
+      },
+      {
+        "year": 1198,
+        "type": "coronation",
+        "tags": [
+          "coronation"
+        ],
+        "weight": 67,
+        "label": "Crowned King of Sicily",
+        "labelCn": "加冕为西西里国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Frederick_II,_Holy_Roman_Emperor"
+      },
+      {
+        "year": 1220,
+        "type": "coronation",
+        "tags": [
+          "coronation"
+        ],
+        "weight": 74,
+        "label": "Crowned Holy Roman Emperor",
+        "labelCn": "加冕为神圣罗马帝国皇帝",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Frederick_II,_Holy_Roman_Emperor"
+      },
+      {
+        "year": 1224,
+        "type": "government",
+        "tags": [
+          "government"
+        ],
+        "weight": 81,
+        "label": "Founded the University of Naples",
+        "labelCn": "创办那不勒斯大学",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Frederick_II,_Holy_Roman_Emperor"
+      },
+      {
+        "year": 1229,
+        "type": "government",
+        "tags": [
+          "government"
+        ],
+        "weight": 88,
+        "label": "Crowned King of Jerusalem",
+        "labelCn": "加冕为耶路撒冷国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Frederick_II,_Holy_Roman_Emperor"
+      },
+      {
+        "year": 1250,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 95,
+        "label": "Died in Apulia",
+        "labelCn": "逝世于普利亚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Frederick_II,_Holy_Roman_Emperor"
+      },
+      {
+        "year": 1212,
+        "type": "election",
+        "tags": [
+          "election",
+          "monarch"
+        ],
+        "weight": 76,
+        "label": "Elected King of the Romans",
+        "labelCn": "当选罗马人的国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Frederick_II,_Holy_Roman_Emperor"
+      },
+      {
+        "year": 1227,
+        "type": "religion",
+        "tags": [
+          "religion",
+          "political_crisis"
+        ],
+        "weight": 80,
+        "label": "Excommunicated by Pope Gregory IX",
+        "labelCn": "被教宗格列高利九世绝罚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Frederick_II,_Holy_Roman_Emperor",
+        "note": "Excommunicated for delaying his promised crusade."
+      },
+      {
+        "year": 1229,
+        "type": "treaty",
+        "tags": [
+          "treaty",
+          "crusade",
+          "diplomacy"
+        ],
+        "weight": 84,
+        "label": "Treaty of Jaffa recovered Jerusalem by diplomacy",
+        "labelCn": "《雅法条约》以外交方式收复耶路撒冷",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Treaty_of_Jaffa_(1229)"
+      },
+      {
+        "year": 1231,
+        "type": "government",
+        "tags": [
+          "government"
+        ],
+        "weight": 72,
+        "label": "Issued the Constitutions of Melfi",
+        "labelCn": "颁布《梅尔菲宪章》",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Constitutions_of_Melfi"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Frederick_II,_Holy_Roman_Emperor",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Frederick_II,_Holy_Roman_Emperor",
+    "sourceNote": "Son of Heinrich VI; King of Sicily and Holy Roman Emperor, called Stupor Mundi. Core chronology completed 2026-08-20.",
+    "notes": "Holy Roman Emperor and King of Sicily, called Stupor Mundi for his court and learning; fought repeatedly with the papacy.",
+    "createdDate": "20260820",
+    "createdOrder": 12,
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died of illness at Fiorentino",
+      "summaryCn": "在菲奥伦蒂诺病逝",
+      "detail": "Frederick II died at Castel Fiorentino in Apulia on 13 December 1250, traditionally recorded as from dysentery.",
+      "detailCn": "1250年12月13日，腓特烈二世在普利亚的菲奥伦蒂诺城堡去世，传统记载死因为痢疾。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Frederick_II,_Holy_Roman_Emperor"
+    }
+  },
+  {
+    "id": "4c68ef70-d950-4e5d-8106-80c28800a522",
+    "firstName": "Conrad",
+    "lastName": "",
+    "displayName": "Conrad IV",
+    "fullName": "Conrad IV of Germany",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Conrad IV",
+      "Konrad IV"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "康拉德四世",
+    "fullNameCn": "康拉德四世",
+    "birthYear": 1228,
+    "deathYear": 1254,
+    "birthPlace": "",
+    "deathPlace": "Lavello, Italy",
+    "deathPlaceCn": "意大利拉韦洛",
+    "gender": "male",
+    "dynasty": "Hohenstaufen dynasty",
+    "house": "Hohenstaufen dynasty",
+    "culture": "German",
+    "faith": "Catholic",
+    "primaryTitle": "King of the Romans",
+    "primaryTitleCn": "罗马人的国王",
+    "titles": [
+      {
+        "title": "King of the Romans",
+        "startYear": 1237,
+        "endYear": 1254,
+        "titleCn": "罗马人的国王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 60,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "ea19e505-86fe-4cb7-8e55-c42e9f0ebfd3",
+      "motherId": "d69c4068-f30d-4515-b599-4e281bb7e60c",
+      "spouseIds": [
+        "3f616a00-8e9d-4909-ab0e-32a8c5e6db47"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "4edb479c-eb9e-447d-8cb9-f8b5d37cc7dd"
+      ]
+    },
+    "events": [
+      {
+        "year": 1228,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Conrad_IV_of_Germany"
+      },
+      {
+        "year": 1237,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Began rule as King of the Romans",
+        "labelCn": "开始担任罗马人的国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Conrad_IV_of_Germany"
+      },
+      {
+        "year": 1254,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Conrad_IV_of_Germany"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Conrad_IV_of_Germany",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Conrad_IV_of_Germany",
+    "sourceNote": "Son of Frederick II; king of the Romans but never crowned Emperor. Core timeline generated from recorded lifespan and titles on 2026-08-20.",
+    "notes": "Last Hohenstaufen king of the Romans; his death led to the Great Interregnum.",
+    "createdDate": "20260820",
+    "createdOrder": 13
+  },
+  {
+    "id": "31366850-60fa-47ae-ad12-e7bb24c66755",
+    "firstName": "Frederick",
+    "lastName": "of Buren",
+    "displayName": "Frederick of Büren",
+    "fullName": "Frederick of Büren",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Friedrich von Büren",
+      "Frederick of Staufen"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "比伦的腓特烈",
+    "fullNameCn": "比伦的腓特烈",
+    "nicknameCn": "",
+    "birthYear": "",
+    "deathYear": "",
+    "birthPlace": "",
+    "birthPlaceCn": "",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "Hohenstaufen dynasty",
+    "house": "Hohenstaufen dynasty",
+    "culture": "Swabian",
+    "faith": "Catholic",
+    "primaryTitle": "Count in northern Swabia",
+    "primaryTitleCn": "北士瓦本伯爵",
+    "titles": [
+      {
+        "title": "Count in northern Swabia",
+        "titleCn": "北士瓦本伯爵",
+        "startYear": "",
+        "endYear": ""
+      }
+    ],
+    "tags": [
+      "noble",
+      "count"
+    ],
+    "rank": "count",
+    "importanceScore": 47,
+    "historicalRating": 4,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "f9819d64-fa7e-40da-85f5-dfd70e7fcf98"
+      ]
+    },
+    "events": [
+      {
+        "year": 1053,
+        "type": "government",
+        "tags": [
+          "uncertain",
+          "noble"
+        ],
+        "weight": 65,
+        "label": "A Count Frederick may be identifiable in a 1053 royal charter",
+        "labelCn": "1053年的王室文书中可能出现可与他认同的腓特烈伯爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Frederick_of_B%C3%BCren",
+        "note": "A Count Frederick appears in a 1053 royal charter in Swabia, but identification with Frederick of Büren is plausible rather than secure; later Staufer genealogy is reconstructed from sparse evidence."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Frederick_of_B%C3%BCren",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Frederick_of_B%C3%BCren",
+    "sourceNote": "Wibald of Stavelot's Tabula Consanguinitatis as the central medieval genealogical witness; Otto of Freising, Gesta Friderici; John B. Freed, Frederick Barbarossa: The Prince and the Myth; Deutsche Biographie's Staufer family overview; Wikipedia only as a navigation aid.",
+    "notes": "Frederick of Büren is a reconstructed early ancestor of the Staufer rather than a well-documented territorial prince. His historical importance lies chiefly in fathering Frederick I, the first Hohenstaufen Duke of Swabia.\n\nConfidence / caveats: The epithet 'of Büren', his dates, parentage, exact county, and the identification of a 1053 Count Frederick with this genealogical figure are all uncertain. Later genealogy, especially Wibald's twelfth-century table, is doing much of the evidentiary work. For that reason no birth/death year is supplied and the rating is kept below 5 rather than manufacturing events from conjecture.\n\nUnlinked family (not in roster): father: Frederick (identity uncertain); spouse: Hildegard of Egisheim; child: Louis of Staufen; child: Otto of Strasbourg; child: Adelaide of Staufen",
+    "createdDate": "20260823",
+    "createdOrder": 114
+  },
+  {
+    "id": "f9819d64-fa7e-40da-85f5-dfd70e7fcf98",
+    "firstName": "Frederick",
+    "lastName": "",
+    "displayName": "Frederick I, Duke of Swabia",
+    "fullName": "Frederick I of Staufen, Duke of Swabia",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Frederick I of Hohenstaufen",
+      "Friedrich I von Schwaben",
+      "Friedrich von Staufen"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "士瓦本公爵腓特烈一世",
+    "fullNameCn": "霍亨斯陶芬的腓特烈一世，士瓦本公爵",
+    "nicknameCn": "",
+    "birthYear": 1050,
+    "deathYear": 1105,
+    "birthPlace": "",
+    "birthPlaceCn": "",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "Hohenstaufen dynasty",
+    "house": "Hohenstaufen dynasty",
+    "culture": "Swabian",
+    "faith": "Catholic",
+    "primaryTitle": "Duke of Swabia",
+    "primaryTitleCn": "士瓦本公爵",
+    "titles": [
+      {
+        "title": "Duke of Swabia",
+        "titleCn": "士瓦本公爵",
+        "startYear": 1079,
+        "endYear": 1105
+      }
+    ],
+    "tags": [
+      "duke",
+      "noble"
+    ],
+    "rank": "duke",
+    "importanceScore": 77,
+    "historicalRating": 7,
+    "relationships": {
+      "fatherId": "31366850-60fa-47ae-ad12-e7bb24c66755",
+      "motherId": "",
+      "spouseIds": [
+        "cc4490a7-cc6f-4764-912b-61d31ec8b22d"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "5d9f38da-aa48-42e8-96cf-a87ed75db93f",
+        "b9252f8f-d6cd-48eb-8a6a-8072d819d78e"
+      ]
+    },
+    "events": [
+      {
+        "year": 1079,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 100,
+        "label": "Received the Duchy of Swabia from Henry IV",
+        "labelCn": "从亨利四世手中获授士瓦本公国",
+        "wikiUrl": "https://www.deutsche-biographie.de/gnd118693530.html",
+        "note": "Henry IV elevated Frederick to the Duchy of Swabia during the civil war against the anti-king Rudolf of Rheinfelden, inaugurating Hohenstaufen ducal rule."
+      },
+      {
+        "year": 1079,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 95,
+        "label": "Was betrothed to Henry IV's daughter Agnes",
+        "labelCn": "与亨利四世之女阿格尼丝订婚",
+        "wikiUrl": "https://www.deutsche-biographie.de/gnd118693530.html",
+        "month": 3,
+        "day": 24,
+        "note": "The betrothal to Agnes of Waiblingen tied Frederick and the Staufer directly to Henry IV's Salian imperial house."
+      },
+      {
+        "year": 1086,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 85,
+        "label": "Married Agnes of Waiblingen",
+        "labelCn": "与瓦伊布林根的阿格尼丝结婚",
+        "wikiUrl": "https://www.deutsche-biographie.de/gnd118693530.html",
+        "note": "The marriage consolidated the dynastic alliance between the Hohenstaufen dukes of Swabia and the Salian imperial family."
+      },
+      {
+        "year": 1098,
+        "type": "treaty",
+        "tags": [
+          "treaty",
+          "politics"
+        ],
+        "weight": 90,
+        "label": "Reached a settlement with Berthold of Zähringen over Swabia",
+        "labelCn": "与策林根的贝特霍尔德就士瓦本争端达成和解",
+        "wikiUrl": "https://www.deutsche-biographie.de/gnd118693530.html",
+        "note": "The settlement with Berthold of Zähringen stabilized Frederick's possession of Swabia while allowing the rival Zähringen line to retain ducal status and important rights."
+      },
+      {
+        "year": 1100,
+        "type": "church",
+        "tags": [
+          "church",
+          "dynasty"
+        ],
+        "weight": 70,
+        "label": "Established Lorch as a major Staufer dynastic monastery",
+        "labelCn": "确立洛尔希修道院为霍亨斯陶芬家族的重要宗教中心",
+        "wikiUrl": "https://www.deutsche-biographie.de/gnd118693530.html",
+        "note": "Around 1100, Lorch Abbey became the principal Staufer dynastic burial and religious foundation; the exact foundation chronology is not perfectly fixed."
+      },
+      {
+        "year": 1105,
+        "type": "politics",
+        "tags": [
+          "politics",
+          "diplomacy"
+        ],
+        "weight": 75,
+        "label": "Tried to mediate between Henry IV and the rebellious Henry V",
+        "labelCn": "试图调停亨利四世与反叛的亨利五世",
+        "wikiUrl": "https://www.deutsche-biographie.de/gnd118693530.html",
+        "note": "Late in his life Frederick remained closely tied to the Salian house and attempted mediation between Henry IV and his rebellious son Henry V."
+      },
+      {
+        "year": 1105,
+        "type": "death",
+        "tags": [
+          "death",
+          "duke"
+        ],
+        "weight": 70,
+        "label": "Died, leaving Swabia to Frederick II",
+        "labelCn": "去世，士瓦本公国由腓特烈二世继承",
+        "wikiUrl": "https://www.deutsche-biographie.de/gnd118693530.html",
+        "note": "Frederick was dead by July 1105, after which his son Frederick II succeeded to the Duchy of Swabia; no securely established exact death date or medical cause is used here."
+      }
+    ],
+    "wikiUrl": "https://www.deutsche-biographie.de/gnd118693530.html",
+    "portraitUrl": "",
+    "sourceUrl": "https://www.deutsche-biographie.de/gnd118693530.html",
+    "sourceNote": "Neue Deutsche Biographie, 'Friedrich I. von Schwaben'; Allgemeine Deutsche Biographie; German imperial regesta for Henry IV and Henry V; John B. Freed, Frederick Barbarossa: The Prince and the Myth.",
+    "notes": "Frederick I was the first Hohenstaufen Duke of Swabia. His investiture and marriage to the Salian princess Agnes transformed a regional Swabian comital family into a royal-dynastic contender.\n\nConfidence / caveats: Birth c.1050 is approximate. His mother's ancestry is presented with varying labels in older scholarship, though Hildegard of the Egisheim-Mömpelgard milieu is standard. The exact date of Lorch Abbey's foundation and his exact death date remain uncertain; he was dead before 21 July 1105.\n\nUnlinked family (not in roster): mother: Hildegard of Egisheim; child: Gertrude of Staufen",
+    "createdDate": "20260823",
+    "createdOrder": 115
+  },
+  {
+    "id": "5d9f38da-aa48-42e8-96cf-a87ed75db93f",
+    "firstName": "Frederick",
+    "lastName": "",
+    "displayName": "Frederick II, Duke of Swabia",
+    "fullName": "Frederick II of Staufen, Duke of Swabia",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Frederick the One-Eyed",
+      "Friedrich der Einäugige",
+      "Frederick II of Hohenstaufen"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "士瓦本公爵腓特烈二世",
+    "fullNameCn": "霍亨斯陶芬的腓特烈二世，士瓦本公爵",
+    "nicknameCn": "",
+    "birthYear": 1090,
+    "deathYear": 1147,
+    "birthPlace": "",
+    "birthPlaceCn": "",
+    "deathPlace": "Alzey",
+    "deathPlaceCn": "阿尔蔡",
+    "gender": "male",
+    "dynasty": "Hohenstaufen dynasty",
+    "house": "Hohenstaufen dynasty",
+    "culture": "Swabian-German",
+    "faith": "Catholic",
+    "primaryTitle": "Duke of Swabia",
+    "primaryTitleCn": "士瓦本公爵",
+    "titles": [
+      {
+        "title": "Duke of Swabia",
+        "titleCn": "士瓦本公爵",
+        "startYear": 1105,
+        "endYear": 1147
+      },
+      {
+        "title": "Imperial regent in Germany",
+        "titleCn": "德意志帝国摄政",
+        "startYear": 1116,
+        "endYear": 1118
+      }
+    ],
+    "tags": [
+      "duke",
+      "noble"
+    ],
+    "rank": "duke",
+    "importanceScore": 83,
+    "historicalRating": 8,
+    "relationships": {
+      "fatherId": "f9819d64-fa7e-40da-85f5-dfd70e7fcf98",
+      "motherId": "cc4490a7-cc6f-4764-912b-61d31ec8b22d",
+      "spouseIds": [
+        "a21ea92f-95d3-4fbe-a626-a662557225b4"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "727f5266-97af-45ee-8a21-c986aaf039dd"
+      ]
+    },
+    "events": [
+      {
+        "year": 1105,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 100,
+        "label": "Succeeded his father as Duke of Swabia",
+        "labelCn": "继承父亲成为士瓦本公爵",
+        "wikiUrl": "https://www.deutsche-biographie.de/gnd122779231.html",
+        "note": "Frederick succeeded his father Frederick I as Duke of Swabia, preserving the Staufer ducal position through the final years of the Salian dynasty."
+      },
+      {
+        "year": 1111,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "commander"
+        ],
+        "weight": 75,
+        "label": "Accompanied Henry V's Italian expedition",
+        "labelCn": "随亨利五世参加意大利远征",
+        "wikiUrl": "https://www.deutsche-biographie.de/gnd122779231.html",
+        "note": "Frederick accompanied Henry V into Italy and remained an important military and political supporter of his Salian uncle."
+      },
+      {
+        "year": 1116,
+        "type": "regency",
+        "tags": [
+          "regency",
+          "government"
+        ],
+        "weight": 90,
+        "label": "Acted as an imperial regent in Germany during Henry V's absence",
+        "labelCn": "亨利五世离境期间在德意志承担帝国摄政职责",
+        "wikiUrl": "https://www.deutsche-biographie.de/gnd122779231.html",
+        "note": "Frederick and his brother Conrad exercised royal authority in Germany while Henry V campaigned in Italy."
+      },
+      {
+        "year": 1120,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 80,
+        "label": "Married Judith of Bavaria of the Welf house",
+        "labelCn": "与韦尔夫家族的巴伐利亚尤迪特结婚",
+        "wikiUrl": "https://www.deutsche-biographie.de/gnd122779231.html",
+        "note": "The marriage to Judith of Bavaria connected the Hohenstaufen and Welf houses; the exact wedding year is not securely fixed and is usually reconstructed between 1119 and 1121."
+      },
+      {
+        "year": 1125,
+        "type": "politics",
+        "tags": [
+          "politics",
+          "succession"
+        ],
+        "weight": 100,
+        "label": "Contested the German royal succession after Henry V's death",
+        "labelCn": "亨利五世去世后争夺德意志王位",
+        "wikiUrl": "https://www.deutsche-biographie.de/gnd122779231.html",
+        "note": "Frederick's claim to the German throne, strengthened by Salian descent through his mother, was rejected in favor of Lothair of Supplinburg."
+      },
+      {
+        "year": 1127,
+        "type": "rebellion",
+        "tags": [
+          "rebellion",
+          "politics"
+        ],
+        "weight": 95,
+        "label": "Joined the Hohenstaufen rebellion as Conrad was elected rival king",
+        "labelCn": "弟弟康拉德被拥立为对立国王后参加霍亨斯陶芬叛乱",
+        "wikiUrl": "https://www.deutsche-biographie.de/gnd122779231.html",
+        "note": "Frederick and his brother Conrad resisted King Lothair III's attempt to recover former Salian imperial property from the Hohenstaufen."
+      },
+      {
+        "year": 1135,
+        "type": "politics",
+        "tags": [
+          "title",
+          "politics"
+        ],
+        "weight": 85,
+        "label": "Submitted to Lothair III and ended the civil conflict",
+        "labelCn": "向洛泰尔三世臣服，结束内战",
+        "wikiUrl": "https://www.deutsche-biographie.de/gnd122779231.html",
+        "note": "The reconciliation with Lothair III in 1135–1136 restored the Hohenstaufen to the political community and preserved their dynastic position."
+      },
+      {
+        "year": 1147,
+        "type": "death",
+        "tags": [
+          "death",
+          "duke"
+        ],
+        "weight": 70,
+        "label": "Died at Alzey",
+        "labelCn": "在阿尔蔡去世",
+        "wikiUrl": "https://www.deutsche-biographie.de/gnd122779231.html",
+        "month": 4,
+        "day": 6,
+        "note": "Frederick II died at Alzey after more than four decades as Duke of Swabia."
+      }
+    ],
+    "wikiUrl": "https://www.deutsche-biographie.de/gnd122779231.html",
+    "portraitUrl": "",
+    "sourceUrl": "https://www.deutsche-biographie.de/gnd122779231.html",
+    "sourceNote": "Neue Deutsche Biographie, 'Friedrich II. von Schwaben'; Deutsche Biographie Staufer family overview; German imperial regesta for Henry V and Lothair III; John B. Freed, Frederick Barbarossa: The Prince and the Myth.",
+    "notes": "Frederick II inherited Swabia and the Salian dynastic claim transmitted through his mother Agnes of Waiblingen. His failed bid in the 1125 royal election was followed by a long Staufer-Lothair conflict, but his son Frederick Barbarossa later converted that dynastic capital into the imperial crown.\n\nConfidence / caveats: Birth c.1090 is approximate. The marriage to Judith of Bavaria is generally placed between 1119 and 1121; the 1120 event is an explicit approximate placement, not a claimed exact date. The exact scope and terminology of his 1116–1118 regency varies in scholarship.\n\nUnlinked family (not in roster): spouse: Agnes of Saarbrücken; child: Bertha of Swabia; child: Conrad of Hohenstaufen, Count Palatine of the Rhine; child: Jutta of Swabia",
+    "createdDate": "20260823",
+    "createdOrder": 116
+  },
+  {
+    "id": "94df728a-05ee-4aef-a962-fb35d1ab0735",
+    "firstName": "Henry",
+    "lastName": "of Germany",
+    "displayName": "Henry (VII) of Germany",
+    "fullName": "Henry (VII), King of Germany",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Henry VII of Germany",
+      "Heinrich (VII)",
+      "Henry of Hohenstaufen"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "德意志的亨利（七世）",
+    "fullNameCn": "德意志国王亨利（七世）",
+    "nicknameCn": "",
+    "birthYear": 1211,
+    "deathYear": 1242,
+    "birthPlace": "Kingdom of Sicily",
+    "birthPlaceCn": "西西里王国",
+    "deathPlace": "Martirano, Kingdom of Sicily",
+    "deathPlaceCn": "西西里王国马尔蒂拉诺",
+    "gender": "male",
+    "dynasty": "Hohenstaufen dynasty",
+    "house": "Hohenstaufen dynasty",
+    "culture": "Sicilian-German",
+    "faith": "Catholic",
+    "primaryTitle": "King of Germany (King of the Romans)",
+    "primaryTitleCn": "德意志国王（罗马人的国王）",
+    "titles": [
+      {
+        "title": "King of Sicily",
+        "titleCn": "西西里国王",
+        "startYear": 1212,
+        "endYear": 1217
+      },
+      {
+        "title": "Duke of Swabia",
+        "titleCn": "士瓦本公爵",
+        "startYear": 1216,
+        "endYear": 1235
+      },
+      {
+        "title": "Rector of Burgundy",
+        "titleCn": "勃艮第总督",
+        "startYear": 1220,
+        "endYear": 1235
+      },
+      {
+        "title": "King of Germany (King of the Romans)",
+        "titleCn": "德意志国王（罗马人的国王）",
+        "startYear": 1220,
+        "endYear": 1235
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 84,
+    "historicalRating": 8,
+    "relationships": {
+      "fatherId": "ea19e505-86fe-4cb7-8e55-c42e9f0ebfd3",
+      "motherId": "34ddbe50-21e8-481f-93f4-f1a3cc000c1f",
+      "spouseIds": [
+        "48291b0f-e918-4cfd-be21-18b9a0a5288f"
+      ],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1212,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "king"
+        ],
+        "weight": 85,
+        "label": "Was crowned child King of Sicily",
+        "labelCn": "幼年加冕西西里国王",
+        "wikiUrl": "https://www.deutsche-biographie.de/gnd118548328.html",
+        "note": "Frederick II used his son Henry's Sicilian kingship as part of the arrangements surrounding his own move north for the German crown."
+      },
+      {
+        "year": 1216,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 90,
+        "label": "Was brought to Germany and made Duke of Swabia",
+        "labelCn": "被带往德意志并成为士瓦本公爵",
+        "wikiUrl": "https://www.deutsche-biographie.de/gnd118548328.html",
+        "note": "Henry was brought from Sicily into the German political sphere and received the Duchy of Swabia."
+      },
+      {
+        "year": 1220,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 100,
+        "label": "Was elected King of Germany at Frankfurt",
+        "labelCn": "在法兰克福被选为德意志国王",
+        "wikiUrl": "https://www.deutsche-biographie.de/gnd118548328.html",
+        "note": "Henry's election at Frankfurt secured a Hohenstaufen succession in Germany while Frederick II prepared for imperial coronation."
+      },
+      {
+        "year": 1222,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "king"
+        ],
+        "weight": 100,
+        "label": "Was crowned King at Aachen",
+        "labelCn": "在亚琛加冕为德意志国王",
+        "wikiUrl": "https://www.deutsche-biographie.de/gnd118548328.html",
+        "month": 5,
+        "day": 8,
+        "note": "Henry received the German royal coronation at Aachen."
+      },
+      {
+        "year": 1225,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 80,
+        "label": "Married Margaret of Austria",
+        "labelCn": "与奥地利的玛格丽特结婚",
+        "wikiUrl": "https://www.deutsche-biographie.de/gnd118548328.html",
+        "month": 11,
+        "day": 29,
+        "note": "The marriage joined Henry to Margaret of Austria of the Babenberg dynasty."
+      },
+      {
+        "year": 1234,
+        "type": "rebellion",
+        "tags": [
+          "rebellion",
+          "political_crisis"
+        ],
+        "weight": 95,
+        "label": "Openly resisted Frederick II and sought a princely alliance",
+        "labelCn": "公开反抗腓特烈二世并寻求诸侯联盟",
+        "wikiUrl": "https://www.deutsche-biographie.de/gnd118548328.html",
+        "note": "Long-running disputes over royal policy in Germany turned into open rebellion by Henry against his father Frederick II, with Henry seeking support among German princes."
+      },
+      {
+        "year": 1235,
+        "type": "politics",
+        "tags": [
+          "title",
+          "politics"
+        ],
+        "weight": 100,
+        "label": "Was forced to submit and lost the German kingship",
+        "labelCn": "被迫向腓特烈二世臣服并失去德意志王位",
+        "wikiUrl": "https://www.deutsche-biographie.de/gnd118548328.html",
+        "note": "Frederick II crushed Henry's rebellion, forced his submission, deprived him of royal dignity and placed him under arrest."
+      },
+      {
+        "year": 1236,
+        "type": "imprisonment",
+        "tags": [
+          "imprisonment",
+          "politics"
+        ],
+        "weight": 85,
+        "label": "Was transferred into long-term captivity in southern Italy",
+        "labelCn": "被转移到南意大利长期囚禁",
+        "wikiUrl": "https://www.deutsche-biographie.de/gnd118548328.html",
+        "note": "Henry was held at a succession of fortified sites in Apulia and Calabria, far from his former German power base."
+      },
+      {
+        "year": 1242,
+        "type": "death",
+        "tags": [
+          "death",
+          "violent"
+        ],
+        "weight": 90,
+        "label": "Died after a fall during a prison transfer near Martirano",
+        "labelCn": "在马尔蒂拉诺附近囚禁转移途中坠落后死亡",
+        "wikiUrl": "https://www.deutsche-biographie.de/gnd118548328.html",
+        "month": 2,
+        "day": 10,
+        "note": "Henry died after a fall during a prison transfer near Martirano. Medieval sources often interpreted the fall as deliberate suicide, but the intention cannot be established with certainty."
+      }
+    ],
+    "wikiUrl": "https://www.deutsche-biographie.de/gnd118548328.html",
+    "portraitUrl": "",
+    "sourceUrl": "https://www.deutsche-biographie.de/gnd118548328.html",
+    "sourceNote": "Neue Deutsche Biographie, 'Heinrich (VII.)'; Wolfgang Stürner, Friedrich II.; David Abulafia, Frederick II: A Medieval Emperor; German royal regesta; paleopathological work on Henry's remains used only for contextual caution.",
+    "notes": "Henry (VII) was Frederick II's son and subordinate German king, not the later Emperor Henry VII of Luxembourg. His rebellion and deposition in 1235 made him a failed Hohenstaufen co-monarch whose sons never recovered the royal position.\n\nConfidence / caveats: The parentheses in Henry (VII) are historiographically important: he was king but never emperor and is conventionally excluded from the imperial numbering sequence that later produced Emperor Henry VII. His election was in 1220 while his Aachen coronation followed in 1222, so sources sometimes start his royal 'reign' at different points. His 1242 fall is factual; whether it was an accident or deliberate suicide remains uncertain. Some forensic work has argued he suffered from leprosy, but this is not used as a death cause.\n\nUnlinked family (not in roster): child: Henry of Hohenstaufen; child: Frederick of Hohenstaufen",
+    "createdDate": "20260823",
+    "createdOrder": 122,
+    "deathCause": {
+      "kind": "violent_uncertain",
+      "summary": "Died from injuries after a fall while in captivity",
+      "summaryCn": "囚禁转移途中坠落后因伤去世",
+      "detail": "Henry died after a fall during a prison transfer near Martirano. Medieval sources often interpreted the fall as deliberate suicide, but the intention cannot be established with certainty.",
+      "detailCn": "在马尔蒂拉诺附近囚禁转移途中坠落后死亡。中世纪史料常将其解读为自杀，但意图无法确定。"
+    }
+  },
+  {
+    "id": "a1631254-26f2-4306-ad68-0fc11054191b",
+    "firstName": "Manfred",
+    "lastName": "of Sicily",
+    "displayName": "Manfred of Sicily",
+    "fullName": "Manfred, King of Sicily",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Manfred of Hohenstaufen",
+      "Manfredi di Sicilia",
+      "Manfredi di Svevia"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "西西里的曼弗雷德",
+    "fullNameCn": "西西里国王曼弗雷德",
+    "nicknameCn": "",
+    "birthYear": 1232,
+    "deathYear": 1266,
+    "birthPlace": "Venosa, Kingdom of Sicily",
+    "birthPlaceCn": "西西里王国韦诺萨",
+    "deathPlace": "Benevento, Kingdom of Sicily",
+    "deathPlaceCn": "西西里王国贝内文托",
+    "gender": "male",
+    "dynasty": "Hohenstaufen dynasty",
+    "house": "Hohenstaufen dynasty",
+    "culture": "Sicilian-German/Italo-Hohenstaufen",
+    "faith": "Catholic",
+    "primaryTitle": "King of Sicily",
+    "primaryTitleCn": "西西里国王",
+    "titles": [
+      {
+        "title": "Prince of Taranto",
+        "titleCn": "塔兰托亲王",
+        "startYear": 1250,
+        "endYear": 1266
+      },
+      {
+        "title": "Regent of Sicily for Conradin",
+        "titleCn": "康拉丁的西西里摄政",
+        "startYear": 1254,
+        "endYear": 1258
+      },
+      {
+        "title": "King of Sicily",
+        "titleCn": "西西里国王",
+        "startYear": 1258,
+        "endYear": 1266
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 89,
+    "historicalRating": 8,
+    "relationships": {
+      "fatherId": "ea19e505-86fe-4cb7-8e55-c42e9f0ebfd3",
+      "motherId": "940e5640-6bcc-42d2-b30a-577e361c427e",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1248,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 70,
+        "label": "Married Beatrice of Savoy",
+        "labelCn": "与萨伏依的贝阿特丽丝结婚",
+        "wikiUrl": "https://www.treccani.it/enciclopedia/re-di-sicilia-manfredi_%28Dizionario-Biografico%29/",
+        "month": 12,
+        "note": "The marriage joined Manfred of the Hohenstaufen to Beatrice of Savoy."
+      },
+      {
+        "year": 1250,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 95,
+        "label": "Inherited the Principality of Taranto and a major role in Sicilian government",
+        "labelCn": "继承塔兰托亲王领并在西西里政府中取得重要地位",
+        "wikiUrl": "https://www.treccani.it/enciclopedia/re-di-sicilia-manfredi_%28Dizionario-Biografico%29/",
+        "note": "Frederick II's death left Manfred as Prince of Taranto and the strongest resident Hohenstaufen prince in southern Italy while Conrad IV remained the senior heir."
+      },
+      {
+        "year": 1254,
+        "type": "regency",
+        "tags": [
+          "regency",
+          "government"
+        ],
+        "weight": 100,
+        "label": "Became regent in Sicily for the infant Conradin after Conrad IV's death",
+        "labelCn": "康拉德四世去世后为幼年康拉丁摄政",
+        "wikiUrl": "https://www.treccani.it/enciclopedia/re-di-sicilia-manfredi_%28Dizionario-Biografico%29/",
+        "note": "After Conrad IV's death, Manfred became regent in Sicily for the infant Conradin; the regency quickly became entangled in open conflict with the papacy."
+      },
+      {
+        "year": 1258,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "king"
+        ],
+        "weight": 100,
+        "label": "Was crowned King of Sicily",
+        "labelCn": "加冕西西里国王",
+        "wikiUrl": "https://www.treccani.it/enciclopedia/re-di-sicilia-manfredi_%28Dizionario-Biografico%29/",
+        "month": 8,
+        "day": 10,
+        "note": "Manfred was crowned at Palermo after reports that Conradin had died; when those reports proved false, he did not surrender the Sicilian crown."
+      },
+      {
+        "year": 1259,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 80,
+        "label": "Married Helena Angelina Doukaina",
+        "labelCn": "与海伦娜·安格丽娜·杜凯娜结婚",
+        "wikiUrl": "https://www.treccani.it/enciclopedia/re-di-sicilia-manfredi_%28Dizionario-Biografico%29/",
+        "note": "The marriage to Helena Angelina Doukaina strengthened Manfred's Adriatic and Epirote connections."
+      },
+      {
+        "year": 1260,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "alliance"
+        ],
+        "weight": 90,
+        "label": "His Sicilian troops helped the Ghibellines win at Montaperti",
+        "labelCn": "其西西里军队帮助吉伯林派赢得蒙塔佩尔蒂战役",
+        "wikiUrl": "https://www.treccani.it/enciclopedia/re-di-sicilia-manfredi_%28Dizionario-Biografico%29/",
+        "note": "At the Battle of Montaperti, Sicilian troops supplied by Manfred helped the Ghibelline coalition win, greatly expanding his influence in central and northern Italian politics."
+      },
+      {
+        "year": 1265,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "defense"
+        ],
+        "weight": 95,
+        "label": "Faced the Angevin invasion sanctioned by the papacy",
+        "labelCn": "面对教宗支持的安茹的查理入侵",
+        "wikiUrl": "https://www.treccani.it/enciclopedia/re-di-sicilia-manfredi_%28Dizionario-Biografico%29/",
+        "note": "Papal transfer of the Sicilian crown to Charles of Anjou led to an Angevin invasion of Manfred's kingdom and turned the papal-Hohenstaufen conflict into a decisive military campaign."
+      },
+      {
+        "year": 1266,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "death"
+        ],
+        "weight": 100,
+        "label": "Was defeated and killed at the Battle of Benevento",
+        "labelCn": "在贝内文托战役中战败并阵亡",
+        "wikiUrl": "https://www.treccani.it/enciclopedia/re-di-sicilia-manfredi_%28Dizionario-Biografico%29/",
+        "month": 2,
+        "day": 26,
+        "note": "At the Battle of Benevento, Manfred was defeated and killed by the forces of Charles of Anjou. His death ended Hohenstaufen rule in the kingdom in practice, although Conradin remained the dynastic claimant."
+      }
+    ],
+    "wikiUrl": "https://www.treccani.it/enciclopedia/re-di-sicilia-manfredi_%28Dizionario-Biografico%29/",
+    "portraitUrl": "",
+    "sourceUrl": "https://www.treccani.it/enciclopedia/re-di-sicilia-manfredi_%28Dizionario-Biografico%29/",
+    "sourceNote": "Dizionario Biografico degli Italiani/Treccani, 'Manfredi, re di Sicilia'; David Abulafia, The Western Mediterranean Kingdoms; Steven Runciman, The Sicilian Vespers; Wolfgang Stürner and Hohenstaufen scholarship; contemporary southern Italian chronicles treated critically.",
+    "notes": "Manfred converted a regency for his nephew Conradin into his own kingship in 1258. His defeat and death at Benevento transferred effective control of Sicily to Charles of Anjou and set up Conradin's final failed restoration attempt.\n\nConfidence / caveats: Manfred's legitimacy was politically contested because his parents' marital status at his birth is uncertain; later Hohenstaufen-friendly tradition emphasized a late marriage and legitimation. His kingship from 1258 was effective in Sicily but disputed by the papacy and by Conradin's hereditary claim. The family list includes the principal attested children; medieval and modern genealogies vary in naming some of the children from his second marriage.\n\nUnlinked family (not in roster): spouse: Beatrice of Savoy; spouse: Helena Angelina Doukaina; child: Constance II of Sicily; child: Beatrice of Sicily; child: Frederick of Sicily; child: Henry of Sicily",
+    "createdDate": "20260823",
+    "createdOrder": 124,
+    "deathCause": {
+      "kind": "violent",
+      "summary": "Killed in battle",
+      "summaryCn": "战死",
+      "detail": "Defeated and killed at the Battle of Benevento by the forces of Charles of Anjou.",
+      "detailCn": "在贝内文托战役中被安茹的查理的军队击败并阵亡。"
+    }
+  },
+  {
+    "id": "4edb479c-eb9e-447d-8cb9-f8b5d37cc7dd",
+    "firstName": "Conradin",
+    "lastName": "",
+    "displayName": "Conradin",
+    "fullName": "Conradin of Hohenstaufen",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Conrad II of Swabia",
+      "Conrad V",
+      "Conrad the Younger",
+      "Konradin",
+      "Corradino"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "康拉丁",
+    "fullNameCn": "霍亨斯陶芬的康拉丁",
+    "nicknameCn": "",
+    "birthYear": 1252,
+    "deathYear": 1268,
+    "birthPlace": "Wolfstein Castle near Landshut",
+    "birthPlaceCn": "兰茨胡特附近沃尔夫施泰因城堡",
+    "deathPlace": "Naples, Kingdom of Sicily",
+    "deathPlaceCn": "西西里王国那不勒斯",
+    "gender": "male",
+    "dynasty": "Hohenstaufen dynasty",
+    "house": "Hohenstaufen dynasty",
+    "culture": "Swabian-German",
+    "faith": "Catholic",
+    "primaryTitle": "Duke of Swabia and claimant King of Sicily",
+    "primaryTitleCn": "士瓦本公爵兼西西里王位宣称者",
+    "titles": [
+      {
+        "title": "King of Jerusalem (de jure claimant)",
+        "titleCn": "耶路撒冷国王（法理宣称）",
+        "startYear": 1254,
+        "endYear": 1268
+      },
+      {
+        "title": "King of Sicily (Hohenstaufen claimant)",
+        "titleCn": "西西里国王（霍亨斯陶芬宣称）",
+        "startYear": 1254,
+        "endYear": 1268
+      },
+      {
+        "title": "Duke of Swabia",
+        "titleCn": "士瓦本公爵",
+        "startYear": 1262,
+        "endYear": 1268
+      }
+    ],
+    "tags": [
+      "duke",
+      "noble"
+    ],
+    "rank": "duke",
+    "importanceScore": 91,
+    "historicalRating": 8,
+    "relationships": {
+      "fatherId": "4c68ef70-d950-4e5d-8106-80c28800a522",
+      "motherId": "3f616a00-8e9d-4909-ab0e-32a8c5e6db47",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1254,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 100,
+        "label": "Inherited his father's Hohenstaufen claims as a two-year-old",
+        "labelCn": "两岁时继承父亲的霍亨斯陶芬王位宣称",
+        "wikiUrl": "https://www.deutsche-biographie.de/gnd118565141.html",
+        "note": "After Conrad IV's death, the two-year-old Conradin inherited Hohenstaufen claims to Sicily and Jerusalem under guardianship, but possessed neither kingdom in effective personal rule."
+      },
+      {
+        "year": 1258,
+        "type": "politics",
+        "tags": [
+          "politics",
+          "succession"
+        ],
+        "weight": 95,
+        "label": "Manfred had himself crowned King of Sicily despite Conradin's hereditary claim",
+        "labelCn": "曼弗雷德无视康拉丁的世袭权利自行加冕西西里国王",
+        "wikiUrl": "https://www.deutsche-biographie.de/gnd118565141.html",
+        "note": "Manfred was crowned King of Sicily at Palermo after a false report of Conradin's death and retained the crown even after learning that Conradin was alive."
+      },
+      {
+        "year": 1262,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 90,
+        "label": "Formally took possession of the Duchy of Swabia",
+        "labelCn": "正式取得士瓦本公国",
+        "wikiUrl": "https://www.deutsche-biographie.de/gnd118565141.html",
+        "note": "At Ulm, Conradin appeared formally as Duke of Swabia, making 1262 a safer start for the ducal title than retroactively dating it to infancy."
+      },
+      {
+        "year": 1266,
+        "type": "government",
+        "tags": [
+          "politics",
+          "dynasty"
+        ],
+        "weight": 95,
+        "label": "Was invited by Italian Ghibellines to reclaim the Hohenstaufen inheritance after Manfred's death",
+        "labelCn": "曼弗雷德战死后受意大利吉伯林派邀请收复霍亨斯陶芬遗产",
+        "wikiUrl": "https://www.deutsche-biographie.de/gnd118565141.html",
+        "note": "After Manfred's death, Italian Ghibellines invited Conradin to reclaim the Hohenstaufen inheritance from Charles of Anjou, launching the final restoration attempt."
+      },
+      {
+        "year": 1267,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "conquest"
+        ],
+        "weight": 95,
+        "label": "Crossed the Alps on his Italian expedition",
+        "labelCn": "率军翻越阿尔卑斯山展开意大利远征",
+        "wikiUrl": "https://www.deutsche-biographie.de/gnd118565141.html",
+        "month": 9,
+        "note": "Conradin crossed the Alps with his supporters as part of the campaign to recover the Hohenstaufen inheritance in Italy."
+      },
+      {
+        "year": 1267,
+        "type": "religion",
+        "tags": [
+          "religion",
+          "church"
+        ],
+        "weight": 80,
+        "label": "Was excommunicated during the campaign against Charles of Anjou",
+        "labelCn": "在反对安茹的查理的远征中遭绝罚",
+        "wikiUrl": "https://www.deutsche-biographie.de/gnd118565141.html",
+        "month": 11,
+        "day": 18,
+        "note": "Conradin was excommunicated by the papacy during his campaign against Charles of Anjou."
+      },
+      {
+        "year": 1268,
+        "type": "politics",
+        "tags": [
+          "politics",
+          "alliance"
+        ],
+        "weight": 90,
+        "label": "Entered Rome to an enthusiastic Ghibelline reception",
+        "labelCn": "进入罗马并受到吉伯林派热烈欢迎",
+        "wikiUrl": "https://www.deutsche-biographie.de/gnd118565141.html",
+        "month": 7,
+        "day": 24,
+        "note": "Conradin entered Rome and received an enthusiastic welcome from the city's Ghibelline supporters."
+      },
+      {
+        "year": 1268,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "defeat"
+        ],
+        "weight": 100,
+        "label": "Was defeated by Charles of Anjou at Tagliacozzo",
+        "labelCn": "在塔利亚科佐战役中被安茹的查理击败",
+        "wikiUrl": "https://www.deutsche-biographie.de/gnd118565141.html",
+        "month": 8,
+        "day": 23,
+        "note": "At the Battle of Tagliacozzo, Conradin's forces were defeated by Charles of Anjou."
+      },
+      {
+        "year": 1268,
+        "type": "imprisonment",
+        "tags": [
+          "imprisonment",
+          "politics"
+        ],
+        "weight": 95,
+        "label": "Was captured while trying to escape from Italy",
+        "labelCn": "试图逃离意大利时被俘",
+        "wikiUrl": "https://www.deutsche-biographie.de/gnd118565141.html",
+        "month": 9,
+        "day": 12,
+        "note": "Conradin was captured near Torre Astura while attempting to escape from Italy after his defeat."
+      },
+      {
+        "year": 1268,
+        "type": "death",
+        "tags": [
+          "death",
+          "violent"
+        ],
+        "weight": 100,
+        "label": "Was publicly beheaded at Naples",
+        "labelCn": "在那不勒斯被公开斩首",
+        "wikiUrl": "https://www.deutsche-biographie.de/gnd118565141.html",
+        "month": 10,
+        "day": 29,
+        "note": "Conradin was publicly executed by beheading at Naples under Charles of Anjou. His death ended the legitimate male Hohenstaufen line and became a potent symbol of the Angevin conquest of southern Italy."
+      }
+    ],
+    "wikiUrl": "https://www.deutsche-biographie.de/gnd118565141.html",
+    "portraitUrl": "",
+    "sourceUrl": "https://www.deutsche-biographie.de/gnd118565141.html",
+    "sourceNote": "Neue Deutsche Biographie, 'Konradin'; Dizionario Biografico degli Italiani/Treccani, 'Corradino'; David Abulafia, The Western Mediterranean Kingdoms; Steven Runciman, The Sicilian Vespers; contemporary Italian and German chronicles treated critically.",
+    "notes": "Conradin was the last legitimate male Hohenstaufen and the hereditary rival to both Manfred's self-coronation and Charles of Anjou's papally sponsored conquest. His 1268 defeat and execution ended any realistic Hohenstaufen restoration in Sicily and Swabia.\n\nConfidence / caveats: His numbering varies by title: he can appear as Conrad II of Swabia, Conrad V in some dynastic royal sequences, and most commonly simply Conradin/Konradin. His Sicilian and Jerusalem titles were overwhelmingly de jure claims after 1254 rather than effective rule. The ducal start is set to 1262 because Deutsche Biographie identifies the Ulm assumption of the duchy then, although some genealogies retroactively style him duke from 1254. The 1266 proxy marriage to Sophia of Landsberg was never followed by normal married cohabitation and may never have been consummated.\n\nUnlinked family (not in roster): spouse: Sophia of Landsberg (proxy marriage)",
+    "createdDate": "20260823",
+    "createdOrder": 126,
+    "deathCause": {
+      "kind": "violent",
+      "summary": "Executed by beheading",
+      "summaryCn": "斩首处决",
+      "detail": "Publicly executed by beheading at Naples under Charles of Anjou.",
+      "detailCn": "在安茹的查理治下于那不勒斯被公开斩首处决。"
+    }
+  },
+  {
+    "id": "45baa722-7fe8-4c5c-b533-e37544328a75",
+    "firstName": "Beatrice",
+    "lastName": "of Hohenstaufen",
+    "displayName": "Beatrice of Hohenstaufen",
+    "fullName": "Beatrice of Hohenstaufen",
+    "displayNameCn": "霍恩斯陶芬的贝阿特丽斯",
+    "fullNameCn": "霍恩斯陶芬的贝阿特丽斯",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1163,
+    "deathYear": "",
+    "birthPlace": "",
+    "birthPlaceCn": "",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "female",
+    "dynasty": "Hohenstaufen dynasty",
+    "house": "Hohenstaufen dynasty",
+    "culture": "German",
+    "faith": "Catholic",
+    "primaryTitle": "Prince of the Holy Roman Empire",
+    "primaryTitleCn": "神圣罗马帝国亲王",
+    "titles": [],
+    "tags": [
+      "noble"
+    ],
+    "rank": "noble",
+    "importanceScore": 40,
+    "historicalRating": 4,
+    "relationships": {
+      "fatherId": "727f5266-97af-45ee-8a21-c986aaf039dd",
+      "motherId": "6a94fc7a-dd9f-4031-87ac-701daf55e26e",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1173,
+        "type": "diplomacy",
+        "tags": [
+          "diplomacy",
+          "marriage"
+        ],
+        "weight": 64,
+        "label": "Marriage negotiations with William II of Sicily",
+        "labelCn": "与西西里国王威廉二世进行婚姻谈判",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Frederick_Barbarossa"
+      }
+    ],
+    "deathCause": {
+      "kind": "uncertain",
+      "summary": "Death date and cause are not reliably recorded.",
+      "summaryCn": "卒年与死因均无可靠记载。",
+      "detail": "Death date and cause are not reliably recorded.",
+      "detailCn": "卒年与死因均无可靠记载。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Frederick_Barbarossa"
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Frederick_Barbarossa",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Frederick_Barbarossa",
+    "sourceNote": "Basic card for a documented child of Frederick I Barbarossa and Beatrice I of Burgundy.",
+    "notes": "Daughter of Frederick I Barbarossa and Beatrice I. Marriage negotiations with William II of Sicily did not result in a marriage.",
+    "createdDate": "20260823",
+    "createdOrder": 127
+  },
+  {
+    "id": "c3b0687b-179f-47b6-9ea7-ccfea2629c05",
+    "firstName": "Frederick",
+    "lastName": "of Hohenstaufen",
+    "displayName": "Frederick V, Duke of Swabia",
+    "fullName": "Frederick V, Duke of Swabia",
+    "displayNameCn": "施瓦本公爵腓特烈五世",
+    "fullNameCn": "施瓦本公爵腓特烈五世",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1164,
+    "deathYear": 1170,
+    "birthPlace": "",
+    "birthPlaceCn": "",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "Hohenstaufen dynasty",
+    "house": "Hohenstaufen dynasty",
+    "culture": "German",
+    "faith": "Catholic",
+    "primaryTitle": "Duke of Swabia",
+    "primaryTitleCn": "施瓦本公爵",
+    "titles": [
+      {
+        "title": "Duke of Swabia",
+        "titleCn": "施瓦本公爵",
+        "startYear": 1167,
+        "endYear": 1170
+      }
+    ],
+    "tags": [
+      "duke",
+      "noble"
+    ],
+    "rank": "duke",
+    "importanceScore": 40,
+    "historicalRating": 4,
+    "relationships": {
+      "fatherId": "727f5266-97af-45ee-8a21-c986aaf039dd",
+      "motherId": "6a94fc7a-dd9f-4031-87ac-701daf55e26e",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1167,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "duke"
+        ],
+        "weight": 70,
+        "label": "Became Duke of Swabia",
+        "labelCn": "成为施瓦本公爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Frederick_Barbarossa"
+      }
+    ],
+    "deathCause": {
+      "kind": "uncertain",
+      "summary": "Cause of death is not reliably recorded.",
+      "summaryCn": "死因无可靠记载。",
+      "detail": "Cause of death is not reliably recorded.",
+      "detailCn": "死因无可靠记载。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Frederick_Barbarossa"
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Frederick_Barbarossa",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Frederick_Barbarossa",
+    "sourceNote": "Basic card for a documented child of Frederick I Barbarossa and Beatrice I of Burgundy.",
+    "notes": "Eldest surviving son of Frederick I and Beatrice I; his death transferred the Swabian duchy to his younger brother Conrad.",
+    "createdDate": "20260823",
+    "createdOrder": 128
+  },
+  {
+    "id": "4447ca0f-a12f-494a-95ee-9875ff063099",
+    "firstName": "Frederick",
+    "lastName": "of Hohenstaufen",
+    "displayName": "Frederick VI, Duke of Swabia",
+    "fullName": "Frederick VI, Duke of Swabia",
+    "displayNameCn": "施瓦本公爵腓特烈六世",
+    "fullNameCn": "施瓦本公爵腓特烈六世",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [
+      "Conrad of Hohenstaufen"
+    ],
+    "nicknameTags": [],
+    "birthYear": 1167,
+    "deathYear": 1191,
+    "birthPlace": "",
+    "birthPlaceCn": "",
+    "deathPlace": "Acre, Kingdom of Jerusalem",
+    "deathPlaceCn": "耶路撒冷王国阿卡",
+    "gender": "male",
+    "dynasty": "Hohenstaufen dynasty",
+    "house": "Hohenstaufen dynasty",
+    "culture": "German",
+    "faith": "Catholic",
+    "primaryTitle": "Duke of Swabia",
+    "primaryTitleCn": "施瓦本公爵",
+    "titles": [
+      {
+        "title": "Duke of Swabia",
+        "titleCn": "施瓦本公爵",
+        "startYear": 1170,
+        "endYear": 1191
+      }
+    ],
+    "tags": [
+      "duke",
+      "noble"
+    ],
+    "rank": "duke",
+    "importanceScore": 60,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "727f5266-97af-45ee-8a21-c986aaf039dd",
+      "motherId": "6a94fc7a-dd9f-4031-87ac-701daf55e26e",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1170,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "duke"
+        ],
+        "weight": 72,
+        "label": "Succeeded as Duke of Swabia",
+        "labelCn": "继承施瓦本公爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Frederick_Barbarossa"
+      },
+      {
+        "year": 1189,
+        "type": "crusade",
+        "tags": [
+          "crusade",
+          "commander"
+        ],
+        "weight": 76,
+        "label": "Joined the Third Crusade",
+        "labelCn": "参加第三次十字军东征",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Frederick_Barbarossa"
+      },
+      {
+        "year": 1190,
+        "type": "government",
+        "tags": [
+          "crusade",
+          "commander"
+        ],
+        "weight": 80,
+        "label": "Assumed command of the German crusader contingent",
+        "labelCn": "接掌德意志十字军队伍指挥权",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Frederick_Barbarossa",
+        "note": "After Frederick I's death, he led the remaining German force toward the Levant."
+      },
+      {
+        "year": 1190,
+        "type": "crusade",
+        "tags": [
+          "crusade",
+          "campaign"
+        ],
+        "weight": 76,
+        "label": "Reached Acre with the remaining German crusaders",
+        "labelCn": "率余部抵达阿卡",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Frederick_Barbarossa",
+        "note": "The depleted German contingent joined the siege of Acre in the autumn of 1190."
+      }
+    ],
+    "deathCause": {
+      "kind": "uncertain",
+      "summary": "Died at Acre during the Third Crusade; a specific cause is not securely recorded.",
+      "summaryCn": "第三次十字军东征期间卒于阿卡；具体死因无可靠记载。",
+      "detail": "Died at Acre during the Third Crusade; a specific cause is not securely recorded.",
+      "detailCn": "第三次十字军东征期间卒于阿卡；具体死因无可靠记载。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Frederick_Barbarossa"
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Frederick_Barbarossa",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Frederick_Barbarossa",
+    "sourceNote": "Basic card for a documented child of Frederick I Barbarossa and Beatrice I of Burgundy.",
+    "notes": "Born Conrad, he was renamed Frederick after succeeding his elder brother as Duke of Swabia.",
+    "createdDate": "20260823",
+    "createdOrder": 129
+  },
+  {
+    "id": "966b3670-1197-4552-b765-7cdc54455363",
+    "firstName": "Judith",
+    "lastName": "of Hohenstaufen",
+    "displayName": "Judith of Hohenstaufen",
+    "fullName": "Judith of Hohenstaufen",
+    "displayNameCn": "霍恩斯陶芬的朱迪丝",
+    "fullNameCn": "霍恩斯陶芬的朱迪丝",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1168,
+    "deathYear": 1184,
+    "birthPlace": "",
+    "birthPlaceCn": "",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "female",
+    "dynasty": "Hohenstaufen dynasty",
+    "house": "Hohenstaufen dynasty",
+    "culture": "German",
+    "faith": "Catholic",
+    "primaryTitle": "Prince of the Holy Roman Empire",
+    "primaryTitleCn": "神圣罗马帝国亲王",
+    "titles": [],
+    "tags": [
+      "noble"
+    ],
+    "rank": "noble",
+    "importanceScore": 30,
+    "historicalRating": 3,
+    "relationships": {
+      "fatherId": "727f5266-97af-45ee-8a21-c986aaf039dd",
+      "motherId": "6a94fc7a-dd9f-4031-87ac-701daf55e26e",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1173,
+        "type": "diplomacy",
+        "tags": [
+          "diplomacy",
+          "marriage"
+        ],
+        "weight": 66,
+        "label": "Betrothed to Richard, Count of Poitou",
+        "labelCn": "与普瓦捷伯爵理查订婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Frederick_Barbarossa",
+        "note": "The name Judith is uncertain in modern scholarship; she died before the marriage."
+      }
+    ],
+    "deathCause": {
+      "kind": "uncertain",
+      "summary": "Cause of death is not reliably recorded.",
+      "summaryCn": "死因无可靠记载。",
+      "detail": "Cause of death is not reliably recorded.",
+      "detailCn": "死因无可靠记载。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Frederick_Barbarossa"
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Frederick_Barbarossa",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Frederick_Barbarossa",
+    "sourceNote": "Basic card for a documented child of Frederick I Barbarossa and Beatrice I of Burgundy.",
+    "notes": "Daughter attributed to Frederick I and Beatrice I; her personal name is uncertain and is conventionally given as Judith.",
+    "createdDate": "20260823",
+    "createdOrder": 130
+  },
+  {
+    "id": "58f15fda-c80f-4439-876b-ff4f047da3b2",
+    "firstName": "Otto",
+    "lastName": "of Hohenstaufen",
+    "displayName": "Otto I, Count of Burgundy",
+    "fullName": "Otto I, Count of Burgundy",
+    "displayNameCn": "勃艮第伯爵奥托一世",
+    "fullNameCn": "勃艮第伯爵奥托一世",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1170,
+    "deathYear": 1200,
+    "birthPlace": "",
+    "birthPlaceCn": "",
+    "deathPlace": "Besançon, County of Burgundy",
+    "deathPlaceCn": "勃艮第伯国贝桑松",
+    "gender": "male",
+    "dynasty": "Hohenstaufen dynasty",
+    "house": "Hohenstaufen dynasty",
+    "culture": "German",
+    "faith": "Catholic",
+    "primaryTitle": "Count Palatine of Burgundy",
+    "primaryTitleCn": "勃艮第行宫伯爵",
+    "titles": [
+      {
+        "title": "Count Palatine of Burgundy",
+        "titleCn": "勃艮第行宫伯爵",
+        "startYear": 1190,
+        "endYear": 1200
+      }
+    ],
+    "tags": [
+      "count",
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 60,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "727f5266-97af-45ee-8a21-c986aaf039dd",
+      "motherId": "6a94fc7a-dd9f-4031-87ac-701daf55e26e",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1190,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 74,
+        "label": "Succeeded as Count Palatine of Burgundy",
+        "labelCn": "继承勃艮第行宫伯爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Frederick_Barbarossa"
+      },
+      {
+        "year": 1190,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 72,
+        "label": "Married Margaret of Blois",
+        "labelCn": "与布卢瓦的玛格丽特成婚",
+        "wikiUrl": "https://www.deutsche-biographie.de/sfz74124.html",
+        "note": "The marriage linked the Burgundian count to the Blois-Champagne family."
+      },
+      {
+        "year": 1196,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "territory"
+        ],
+        "weight": 72,
+        "label": "Became Count of Luxembourg",
+        "labelCn": "成为卢森堡伯爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Otto_I,_Count_of_Burgundy",
+        "note": "He briefly held the County of Luxembourg from 1196 to 1197."
+      }
+    ],
+    "deathCause": {
+      "kind": "violent",
+      "summary": "Killed at Besançon.",
+      "summaryCn": "在贝桑松遇害。",
+      "detail": "Killed at Besançon.",
+      "detailCn": "在贝桑松遇害。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Frederick_Barbarossa"
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Frederick_Barbarossa",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Frederick_Barbarossa",
+    "sourceNote": "Basic card for a documented child of Frederick I Barbarossa and Beatrice I of Burgundy.",
+    "notes": "Son of Frederick I and Beatrice I; he inherited his mother's Burgundian county after the imperial succession passed to Henry VI.",
+    "createdDate": "20260823",
+    "createdOrder": 131
+  },
+  {
+    "id": "3a26b97e-3345-4100-801e-3d5deb589bd6",
+    "firstName": "Conrad",
+    "lastName": "of Hohenstaufen",
+    "displayName": "Conrad II, Duke of Swabia",
+    "fullName": "Conrad II, Duke of Swabia",
+    "displayNameCn": "施瓦本公爵康拉德二世",
+    "fullNameCn": "施瓦本公爵康拉德二世",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1172,
+    "deathYear": 1196,
+    "birthPlace": "",
+    "birthPlaceCn": "",
+    "deathPlace": "Durlach, Duchy of Swabia",
+    "deathPlaceCn": "施瓦本公国杜拉赫",
+    "gender": "male",
+    "dynasty": "Hohenstaufen dynasty",
+    "house": "Hohenstaufen dynasty",
+    "culture": "German",
+    "faith": "Catholic",
+    "primaryTitle": "Duke of Swabia",
+    "primaryTitleCn": "施瓦本公爵",
+    "titles": [
+      {
+        "title": "Duke of Swabia",
+        "titleCn": "施瓦本公爵",
+        "startYear": 1191,
+        "endYear": 1196
+      }
+    ],
+    "tags": [
+      "duke",
+      "noble"
+    ],
+    "rank": "duke",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "727f5266-97af-45ee-8a21-c986aaf039dd",
+      "motherId": "6a94fc7a-dd9f-4031-87ac-701daf55e26e",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1191,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "duke"
+        ],
+        "weight": 70,
+        "label": "Became Duke of Swabia",
+        "labelCn": "成为施瓦本公爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Frederick_Barbarossa"
+      }
+    ],
+    "deathCause": {
+      "kind": "violent",
+      "summary": "Killed at Durlach.",
+      "summaryCn": "在杜拉赫遇害。",
+      "detail": "Killed at Durlach.",
+      "detailCn": "在杜拉赫遇害。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Frederick_Barbarossa"
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Frederick_Barbarossa",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Frederick_Barbarossa",
+    "sourceNote": "Basic card for a documented child of Frederick I Barbarossa and Beatrice I of Burgundy.",
+    "notes": "Younger son of Frederick I and Beatrice I; he succeeded his brother Frederick VI as Duke of Swabia.",
+    "createdDate": "20260823",
+    "createdOrder": 132
+  },
+  {
+    "id": "6c8157b1-bdab-4012-afcd-b4e817686195",
+    "firstName": "Rainald",
+    "lastName": "of Hohenstaufen",
+    "displayName": "Rainald of Hohenstaufen",
+    "fullName": "Rainald of Hohenstaufen",
+    "displayNameCn": "霍恩斯陶芬的雷纳尔德",
+    "fullNameCn": "霍恩斯陶芬的雷纳尔德",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1173,
+    "deathYear": "",
+    "birthPlace": "",
+    "birthPlaceCn": "",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "Hohenstaufen dynasty",
+    "house": "Hohenstaufen dynasty",
+    "culture": "German",
+    "faith": "Catholic",
+    "primaryTitle": "Prince of the Holy Roman Empire",
+    "primaryTitleCn": "神圣罗马帝国亲王",
+    "titles": [],
+    "tags": [
+      "noble"
+    ],
+    "rank": "noble",
+    "importanceScore": 30,
+    "historicalRating": 3,
+    "relationships": {
+      "fatherId": "727f5266-97af-45ee-8a21-c986aaf039dd",
+      "motherId": "6a94fc7a-dd9f-4031-87ac-701daf55e26e",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1174,
+        "type": "church",
+        "tags": [
+          "church",
+          "dynasty"
+        ],
+        "weight": 56,
+        "label": "Buried at Lorch Abbey",
+        "labelCn": "葬于洛尔希修道院",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Frederick_Barbarossa",
+        "note": "His death is only bounded between 1174 and shortly after 1178."
+      }
+    ],
+    "deathCause": {
+      "kind": "uncertain",
+      "summary": "Died in childhood; the cause and exact year are not reliably recorded.",
+      "summaryCn": "幼年去世；死因与确切年份均无可靠记载。",
+      "detail": "Died in childhood; the cause and exact year are not reliably recorded.",
+      "detailCn": "幼年去世；死因与确切年份均无可靠记载。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Frederick_Barbarossa"
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Frederick_Barbarossa",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Frederick_Barbarossa",
+    "sourceNote": "Basic card for a documented child of Frederick I Barbarossa and Beatrice I of Burgundy.",
+    "notes": "Son of Frederick I and Beatrice I, known only from dynastic records and burial at Lorch Abbey.",
+    "createdDate": "20260823",
+    "createdOrder": 133
+  },
+  {
+    "id": "0bd54372-1bb7-4d4e-8281-e8834a3bdedc",
+    "firstName": "William",
+    "lastName": "of Hohenstaufen",
+    "displayName": "William of Hohenstaufen",
+    "fullName": "William of Hohenstaufen",
+    "displayNameCn": "霍恩斯陶芬的威廉",
+    "fullNameCn": "霍恩斯陶芬的威廉",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1175,
+    "deathYear": "",
+    "birthPlace": "",
+    "birthPlaceCn": "",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "Hohenstaufen dynasty",
+    "house": "Hohenstaufen dynasty",
+    "culture": "German",
+    "faith": "Catholic",
+    "primaryTitle": "Prince of the Holy Roman Empire",
+    "primaryTitleCn": "神圣罗马帝国亲王",
+    "titles": [],
+    "tags": [
+      "noble"
+    ],
+    "rank": "noble",
+    "importanceScore": 30,
+    "historicalRating": 3,
+    "relationships": {
+      "fatherId": "727f5266-97af-45ee-8a21-c986aaf039dd",
+      "motherId": "6a94fc7a-dd9f-4031-87ac-701daf55e26e",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1178,
+        "type": "church",
+        "tags": [
+          "church",
+          "dynasty"
+        ],
+        "weight": 56,
+        "label": "Buried at Lorch Abbey",
+        "labelCn": "葬于洛尔希修道院",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Frederick_Barbarossa",
+        "note": "He died soon after October 1178."
+      }
+    ],
+    "deathCause": {
+      "kind": "uncertain",
+      "summary": "Died in childhood; the cause and exact date are not reliably recorded.",
+      "summaryCn": "幼年去世；死因与确切日期均无可靠记载。",
+      "detail": "Died in childhood; the cause and exact date are not reliably recorded.",
+      "detailCn": "幼年去世；死因与确切日期均无可靠记载。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Frederick_Barbarossa"
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Frederick_Barbarossa",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Frederick_Barbarossa",
+    "sourceNote": "Basic card for a documented child of Frederick I Barbarossa and Beatrice I of Burgundy.",
+    "notes": "Son of Frederick I and Beatrice I, known only from dynastic records and burial at Lorch Abbey.",
+    "createdDate": "20260823",
+    "createdOrder": 134
+  },
+  {
+    "id": "a4797c56-9e7d-42ad-bcce-653c8dd42eb6",
+    "firstName": "Agnes",
+    "lastName": "of Hohenstaufen",
+    "displayName": "Agnes of Hohenstaufen",
+    "fullName": "Agnes of Hohenstaufen",
+    "displayNameCn": "霍恩斯陶芬的阿格妮丝",
+    "fullNameCn": "霍恩斯陶芬的阿格妮丝",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1179,
+    "deathYear": 1184,
+    "birthPlace": "",
+    "birthPlaceCn": "",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "female",
+    "dynasty": "Hohenstaufen dynasty",
+    "house": "Hohenstaufen dynasty",
+    "culture": "German",
+    "faith": "Catholic",
+    "primaryTitle": "Prince of the Holy Roman Empire",
+    "primaryTitleCn": "神圣罗马帝国亲王",
+    "titles": [],
+    "tags": [
+      "noble"
+    ],
+    "rank": "noble",
+    "importanceScore": 40,
+    "historicalRating": 4,
+    "relationships": {
+      "fatherId": "727f5266-97af-45ee-8a21-c986aaf039dd",
+      "motherId": "6a94fc7a-dd9f-4031-87ac-701daf55e26e",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1184,
+        "type": "diplomacy",
+        "tags": [
+          "diplomacy",
+          "marriage"
+        ],
+        "weight": 64,
+        "label": "Betrothed to Emeric of Hungary",
+        "labelCn": "与匈牙利的埃默里克订婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Frederick_Barbarossa"
+      }
+    ],
+    "deathCause": {
+      "kind": "uncertain",
+      "summary": "Cause of death is not reliably recorded.",
+      "summaryCn": "死因无可靠记载。",
+      "detail": "Cause of death is not reliably recorded.",
+      "detailCn": "死因无可靠记载。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Frederick_Barbarossa"
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Frederick_Barbarossa",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Frederick_Barbarossa",
+    "sourceNote": "Basic card for a documented child of Frederick I Barbarossa and Beatrice I of Burgundy.",
+    "notes": "Youngest documented daughter of Frederick I and Beatrice I; she died before her proposed marriage to Emeric of Hungary.",
+    "createdDate": "20260823",
+    "createdOrder": 135
+  }
+]

@@ -1,0 +1,719 @@
+[
+  {
+    "id": "71af1f0a-5840-4a9c-817f-12fef6beadf8",
+    "firstName": "Otto",
+    "lastName": "",
+    "displayName": "Otto I",
+    "fullName": "Otto the Great",
+    "nickname": "the Great",
+    "alsoKnownAs": [
+      "Otto I",
+      "Otto the Great"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "奥托一世",
+    "fullNameCn": "奥托大帝",
+    "nicknameCn": "大帝",
+    "birthYear": 912,
+    "deathYear": 973,
+    "birthPlace": "",
+    "deathPlace": "Memleben, Germany",
+    "deathPlaceCn": "德意志梅姆莱本",
+    "gender": "male",
+    "dynasty": "Ottonian dynasty",
+    "house": "Ottonian dynasty",
+    "culture": "German",
+    "faith": "Catholic",
+    "primaryTitle": "Holy Roman Emperor",
+    "primaryTitleCn": "神圣罗马帝国皇帝",
+    "titles": [
+      {
+        "title": "King of the Romans",
+        "startYear": 936,
+        "endYear": 962,
+        "titleCn": "罗马人的国王"
+      },
+      {
+        "title": "Holy Roman Emperor",
+        "startYear": 962,
+        "endYear": 973,
+        "titleCn": "神圣罗马帝国皇帝"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "emperor",
+      "king"
+    ],
+    "rank": "emperor",
+    "importanceScore": 88,
+    "historicalRating": 9,
+    "relationships": {
+      "fatherId": "30214525-d401-49d6-bdb6-2eb0788c1bf1",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "1f2ffcc9-06a9-4bea-8be0-96255c8b3d20"
+      ]
+    },
+    "events": [
+      {
+        "year": 912,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 60,
+        "label": "Born in Saxony",
+        "labelCn": "出生于萨克森",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Otto_the_Great"
+      },
+      {
+        "year": 936,
+        "type": "coronation",
+        "tags": [
+          "coronation"
+        ],
+        "weight": 85,
+        "label": "Succeeded Henry the Fowler as king",
+        "labelCn": "继承父亲亨利一世成为国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Otto_the_Great"
+      },
+      {
+        "year": 955,
+        "type": "battle",
+        "tags": [
+          "battle"
+        ],
+        "weight": 95,
+        "label": "Victory at the Battle of Lechfeld",
+        "labelCn": "在莱希菲尔德战役获胜",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Otto_the_Great"
+      },
+      {
+        "year": 962,
+        "type": "coronation",
+        "tags": [
+          "coronation"
+        ],
+        "weight": 100,
+        "label": "Crowned Emperor in Rome by Pope John XII",
+        "labelCn": "由教宗若望十二世在罗马加冕为皇帝",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Otto_the_Great"
+      },
+      {
+        "year": 973,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 80,
+        "label": "Died at Memleben",
+        "labelCn": "逝世于梅姆莱本",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Otto_the_Great"
+      },
+      {
+        "year": 951,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynasty"
+        ],
+        "weight": 82,
+        "label": "Marriage to Adelaide of Italy",
+        "labelCn": "与意大利的阿德莱德结婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Otto_the_Great"
+      },
+      {
+        "year": 951,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "monarch",
+          "territory"
+        ],
+        "weight": 80,
+        "label": "Became King of Italy",
+        "labelCn": "成为意大利国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Otto_the_Great"
+      },
+      {
+        "year": 953,
+        "type": "rebellion",
+        "tags": [
+          "rebellion",
+          "political_crisis"
+        ],
+        "weight": 76,
+        "label": "Rebellion of Liudolf and Conrad the Red",
+        "labelCn": "柳多尔夫与红康拉德的叛乱",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Otto_the_Great"
+      },
+      {
+        "year": 961,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "emperor"
+        ],
+        "weight": 74,
+        "label": "Second Italian expedition to Rome",
+        "labelCn": "第二次进军意大利直抵罗马",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Otto_the_Great"
+      },
+      {
+        "year": 963,
+        "type": "religion",
+        "tags": [
+          "religion",
+          "politics"
+        ],
+        "weight": 84,
+        "label": "Deposed Pope John XII",
+        "labelCn": "废黜教宗若望十二世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Otto_the_Great"
+      },
+      {
+        "year": 967,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "succession"
+        ],
+        "weight": 78,
+        "label": "Crowned Otto II as co-emperor",
+        "labelCn": "为奥托二世加冕为共治皇帝",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Otto_the_Great"
+      },
+      {
+        "year": 968,
+        "type": "religion",
+        "tags": [
+          "religion",
+          "government"
+        ],
+        "weight": 72,
+        "label": "Founded the Archbishopric of Magdeburg",
+        "labelCn": "设立马格德堡总主教区",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Otto_the_Great"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Otto_the_Great",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Otto_the_Great",
+    "sourceNote": "Son of Henry the Fowler; re-established the Holy Roman Empire in 962. Core chronology completed 2026-08-20.",
+    "notes": "King of Germany from 936 and Holy Roman Emperor from 962; re-established the empire and defeated the Magyars at Lechfeld.",
+    "createdDate": "20260819",
+    "createdOrder": 48,
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died of natural causes at Memleben",
+      "summaryCn": "在梅姆莱本自然逝世",
+      "detail": "Otto I died at Memleben on 7 May 973 after a short illness; his death is recorded as natural.",
+      "detailCn": "973年5月7日，奥托一世在梅姆莱本因病去世，史书记载为自然死亡。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Otto_the_Great"
+    }
+  },
+  {
+    "id": "1f2ffcc9-06a9-4bea-8be0-96255c8b3d20",
+    "firstName": "Otto",
+    "lastName": "",
+    "displayName": "Otto II",
+    "fullName": "Otto II, Holy Roman Emperor",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Otto II"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "奥托二世",
+    "fullNameCn": "奥托二世",
+    "birthYear": 955,
+    "deathYear": 983,
+    "birthPlace": "",
+    "deathPlace": "Rome, Italy",
+    "deathPlaceCn": "意大利罗马",
+    "gender": "male",
+    "dynasty": "Ottonian dynasty",
+    "house": "Ottonian dynasty",
+    "culture": "German",
+    "faith": "Catholic",
+    "primaryTitle": "Holy Roman Emperor",
+    "primaryTitleCn": "神圣罗马帝国皇帝",
+    "titles": [
+      {
+        "title": "King of the Romans",
+        "startYear": 973,
+        "endYear": 973,
+        "titleCn": "罗马人的国王"
+      },
+      {
+        "title": "Holy Roman Emperor",
+        "startYear": 973,
+        "endYear": 983,
+        "titleCn": "神圣罗马帝国皇帝"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "emperor",
+      "king"
+    ],
+    "rank": "emperor",
+    "importanceScore": 70,
+    "historicalRating": 7,
+    "relationships": {
+      "fatherId": "71af1f0a-5840-4a9c-817f-12fef6beadf8",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "a9229a63-1732-42dc-b814-9b3a3fbe0cf8"
+      ]
+    },
+    "events": [
+      {
+        "year": 955,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Otto_II,_Holy_Roman_Emperor"
+      },
+      {
+        "year": 973,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Began rule as King of the Romans",
+        "labelCn": "开始担任罗马人的国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Otto_II,_Holy_Roman_Emperor"
+      },
+      {
+        "year": 983,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Otto_II,_Holy_Roman_Emperor"
+      },
+      {
+        "year": 972,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 78,
+        "label": "Married Theophanu",
+        "labelCn": "迎娶狄奥法诺",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Otto_II,_Holy_Roman_Emperor",
+        "note": "The Byzantine princess Theophanu brought eastern influence to the Ottonian court."
+      },
+      {
+        "year": 982,
+        "month": 7,
+        "day": 14,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "defeat"
+        ],
+        "weight": 90,
+        "label": "Defeated by the Saracens at Stilo",
+        "labelCn": "在斯蒂洛被萨拉森人击败",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Stilo",
+        "note": "His southern Italian campaign ended in a decisive defeat at Cape Colonna."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Otto_II,_Holy_Roman_Emperor",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Otto_II,_Holy_Roman_Emperor",
+    "sourceNote": "Son of Otto the Great. Core timeline generated from recorded lifespan and titles on 2026-08-20.",
+    "notes": "Holy Roman Emperor who died young after a defeat by the Saracens in southern Italy.",
+    "createdDate": "20260819",
+    "createdOrder": 49
+  },
+  {
+    "id": "a9229a63-1732-42dc-b814-9b3a3fbe0cf8",
+    "firstName": "Otto",
+    "lastName": "",
+    "displayName": "Otto III",
+    "fullName": "Otto III, Holy Roman Emperor",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Otto III"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "奥托三世",
+    "fullNameCn": "奥托三世",
+    "birthYear": 980,
+    "deathYear": 1002,
+    "birthPlace": "",
+    "deathPlace": "Paterno, Italy",
+    "deathPlaceCn": "意大利帕泰尔诺",
+    "gender": "male",
+    "dynasty": "Ottonian dynasty",
+    "house": "Ottonian dynasty",
+    "culture": "German",
+    "faith": "Catholic",
+    "primaryTitle": "Holy Roman Emperor",
+    "primaryTitleCn": "神圣罗马帝国皇帝",
+    "titles": [
+      {
+        "title": "King of the Romans",
+        "startYear": 983,
+        "endYear": 996,
+        "titleCn": "罗马人的国王"
+      },
+      {
+        "title": "Holy Roman Emperor",
+        "startYear": 996,
+        "endYear": 1002,
+        "titleCn": "神圣罗马帝国皇帝"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "emperor",
+      "king"
+    ],
+    "rank": "emperor",
+    "importanceScore": 70,
+    "historicalRating": 7,
+    "relationships": {
+      "fatherId": "1f2ffcc9-06a9-4bea-8be0-96255c8b3d20",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 980,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Otto_III,_Holy_Roman_Emperor"
+      },
+      {
+        "year": 983,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Began rule as King of the Romans",
+        "labelCn": "开始担任罗马人的国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Otto_III,_Holy_Roman_Emperor"
+      },
+      {
+        "year": 1002,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Otto_III,_Holy_Roman_Emperor"
+      },
+      {
+        "year": 996,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Crowned Holy Roman Emperor",
+        "labelCn": "加冕为神圣罗马帝国皇帝",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Otto_III,_Holy_Roman_Emperor",
+        "note": "Crowned emperor in Rome by his cousin Pope Gregory V, the first German pope."
+      },
+      {
+        "year": 1000,
+        "type": "religion",
+        "tags": [
+          "religion",
+          "faith"
+        ],
+        "weight": 60,
+        "label": "Opened the tomb of Charlemagne at Aachen",
+        "labelCn": "在亚琛开启查理曼之墓",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Otto_III,_Holy_Roman_Emperor",
+        "note": "Symbolic act of his Renovatio Imperii Romanorum, the ambition to restore a Christian Roman empire."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Otto_III,_Holy_Roman_Emperor",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Otto_III,_Holy_Roman_Emperor",
+    "sourceNote": "Son of Otto II; died young and childless. Core timeline generated from recorded lifespan and titles on 2026-08-20.",
+    "notes": "Holy Roman Emperor whose dreams of a restored Roman empire died with him; he was succeeded by his cousin Henry II.",
+    "createdDate": "20260819",
+    "createdOrder": 50
+  },
+  {
+    "id": "e767d216-846b-41d1-8f38-8b2a300dc290",
+    "firstName": "Heinrich",
+    "lastName": "",
+    "displayName": "Heinrich II",
+    "fullName": "Heinrich II, Holy Roman Emperor",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Heinrich II",
+      "Saint Henry"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "海因里希二世",
+    "fullNameCn": "海因里希二世",
+    "birthYear": 973,
+    "deathYear": 1024,
+    "birthPlace": "",
+    "deathPlace": "Göttingen, Germany",
+    "deathPlaceCn": "德意志哥廷根",
+    "gender": "male",
+    "dynasty": "Ottonian dynasty",
+    "house": "Ottonian dynasty",
+    "culture": "German",
+    "faith": "Catholic",
+    "primaryTitle": "Holy Roman Emperor",
+    "primaryTitleCn": "神圣罗马帝国皇帝",
+    "titles": [
+      {
+        "title": "King of the Romans",
+        "startYear": 1002,
+        "endYear": 1014,
+        "titleCn": "罗马人的国王"
+      },
+      {
+        "title": "Holy Roman Emperor",
+        "startYear": 1014,
+        "endYear": 1024,
+        "titleCn": "神圣罗马帝国皇帝"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "emperor",
+      "king"
+    ],
+    "rank": "emperor",
+    "importanceScore": 70,
+    "historicalRating": 7,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 973,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_II,_Holy_Roman_Emperor"
+      },
+      {
+        "year": 1002,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Began rule as King of the Romans",
+        "labelCn": "开始担任罗马人的国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_II,_Holy_Roman_Emperor"
+      },
+      {
+        "year": 1024,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_II,_Holy_Roman_Emperor"
+      },
+      {
+        "year": 1014,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Crowned Holy Roman Emperor",
+        "labelCn": "加冕为神圣罗马帝国皇帝",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_II,_Holy_Roman_Emperor",
+        "note": "Crowned emperor by Pope Benedict VIII in Rome."
+      },
+      {
+        "year": 1018,
+        "type": "treaty",
+        "tags": [
+          "treaty",
+          "diplomacy"
+        ],
+        "weight": 70,
+        "label": "Peace of Bautzen with Poland",
+        "labelCn": "与波兰缔结《包岑和约》",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Peace_of_Bautzen",
+        "note": "Ended the long German–Polish war with Bolesław I the Brave."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Henry_II,_Holy_Roman_Emperor",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Henry_II,_Holy_Roman_Emperor",
+    "sourceNote": "Cousin of Otto III, the last of the Ottonian line; later canonized. Core timeline generated from recorded lifespan and titles on 2026-08-20.",
+    "notes": "Last Ottonian emperor, later canonized as a saint; his death ended the Ottonian dynasty and led to the Salians.",
+    "createdDate": "20260819",
+    "createdOrder": 51
+  },
+  {
+    "id": "30214525-d401-49d6-bdb6-2eb0788c1bf1",
+    "firstName": "Heinrich",
+    "lastName": "",
+    "displayName": "Heinrich I",
+    "fullName": "Heinrich I, King of East Francia",
+    "nickname": "the Fowler",
+    "alsoKnownAs": [
+      "Heinrich I",
+      "Henry the Fowler",
+      "Heinrich der Vogler",
+      "Henry I of Germany"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "海因里希一世",
+    "fullNameCn": "东法兰克国王海因里希一世",
+    "nicknameCn": "捕鸟者",
+    "birthYear": 876,
+    "deathYear": 936,
+    "birthPlace": "",
+    "deathPlace": "Memleben, Germany",
+    "deathPlaceCn": "德意志梅姆莱本",
+    "gender": "male",
+    "dynasty": "Ottonian dynasty",
+    "house": "Ottonian dynasty",
+    "culture": "German",
+    "faith": "Catholic",
+    "primaryTitle": "King of East Francia",
+    "primaryTitleCn": "东法兰克国王",
+    "titles": [
+      {
+        "title": "King of East Francia",
+        "startYear": 919,
+        "endYear": 936,
+        "titleCn": "东法兰克国王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 70,
+    "historicalRating": 7,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "71af1f0a-5840-4a9c-817f-12fef6beadf8"
+      ]
+    },
+    "events": [
+      {
+        "year": 876,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_the_Fowler"
+      },
+      {
+        "year": 919,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Began rule as King of East Francia",
+        "labelCn": "开始担任东法兰克国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_the_Fowler"
+      },
+      {
+        "year": 936,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_the_Fowler"
+      },
+      {
+        "year": 925,
+        "type": "conquest",
+        "tags": [
+          "conquest",
+          "territory"
+        ],
+        "weight": 75,
+        "label": "Annexed Lotharingia",
+        "labelCn": "吞并洛林",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_the_Fowler",
+        "note": "Brought Lotharingia back under East Frankish rule."
+      },
+      {
+        "year": 933,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "commander",
+          "war"
+        ],
+        "weight": 90,
+        "label": "Battle of Riade: defeated the Magyars",
+        "labelCn": "里亚德战役：击败马扎尔人",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Riade",
+        "note": "Decisive victory over the Magyars that ended a decade of raids and secured his eastern frontier."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Henry_the_Fowler",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Henry_the_Fowler",
+    "sourceNote": "First Ottonian king; father of Otto I. Core timeline generated from recorded lifespan and titles on 2026-08-20.",
+    "notes": "First Ottonian king of East Francia; his son Otto I succeeded him and later became Holy Roman Emperor.",
+    "createdDate": "20260820",
+    "createdOrder": 5
+  }
+]

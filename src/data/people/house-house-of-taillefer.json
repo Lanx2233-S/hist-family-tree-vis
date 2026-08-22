@@ -1,0 +1,106 @@
+[
+  {
+    "id": "ae7c66de-7209-4aed-9d4d-75672ae5f3fa",
+    "firstName": "Isabella",
+    "lastName": "",
+    "displayName": "Isabella of Angoulême",
+    "fullName": "Isabella of Angoulême",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Isabella of Angoulême"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "昂古莱姆的伊莎贝尔",
+    "fullNameCn": "昂古莱姆的伊莎贝尔",
+    "birthYear": 1186,
+    "deathYear": 1246,
+    "birthPlace": "Angoulême, France",
+    "birthPlaceCn": "法国昂古莱姆",
+    "deathPlace": "Fontevraud, France",
+    "deathPlaceCn": "法国丰特夫罗",
+    "gender": "female",
+    "dynasty": "House of Taillefer",
+    "house": "House of Taillefer",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Queen consort of England",
+    "primaryTitleCn": "英格兰王后",
+    "titles": [
+      {
+        "title": "Queen consort of England",
+        "startYear": 1200,
+        "endYear": 1216,
+        "titleCn": "英格兰王后"
+      }
+    ],
+    "tags": [
+      "queen",
+      "consort"
+    ],
+    "rank": "queen",
+    "importanceScore": 58,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "6e154ae2-a354-40fc-bdc8-104ef378f743"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "eaec18d2-b486-457f-9336-ab403f1586ca"
+      ]
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Isabella_of_Angoul%C3%AAme",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Isabella_of_Angoul%C3%AAme",
+    "sourceNote": "Second husband Hugh X of Lusignan is not yet in the roster.",
+    "notes": "Queen consort of John and mother of Henry III. Her later marriage to Hugh X of Lusignan helped spark the Barons' Wars against her son.",
+    "historicalRating": 6,
+    "createdDate": "20260818",
+    "createdOrder": 48,
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died at Fontevraud",
+      "summaryCn": "在丰特夫罗去世",
+      "detail": "Isabella of Angoulême died in 1246 at Fontevraud Abbey.",
+      "detailCn": "1246 年，昂古莱姆的伊莎贝尔在丰特夫罗修道院去世。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Isabella_of_Angoul%C3%AAme"
+    },
+    "events": [
+      {
+        "year": 1200,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 80,
+        "label": "Married King John",
+        "labelCn": "嫁给约翰王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Isabella_of_Angoul%C3%AAme"
+      },
+      {
+        "year": 1207,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 62,
+        "label": "Gave birth to the future Henry III",
+        "labelCn": "生下未来的亨利三世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Isabella_of_Angoul%C3%AAme"
+      },
+      {
+        "year": 1246,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 88,
+        "label": "Died at Fontevraud",
+        "labelCn": "在丰特夫罗去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Isabella_of_Angoul%C3%AAme"
+      }
+    ]
+  }
+]

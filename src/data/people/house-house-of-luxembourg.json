@@ -1,0 +1,891 @@
+[
+  {
+    "id": "d8867112-cd68-4100-91e2-f42de19d273c",
+    "firstName": "Anne",
+    "lastName": "",
+    "displayName": "Anne of Bohemia",
+    "fullName": "Anne of Bohemia",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Anne of Bohemia"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "波希米亚的安妮",
+    "fullNameCn": "波希米亚的安妮",
+    "birthYear": 1366,
+    "deathYear": 1394,
+    "birthPlace": "Prague, Bohemia",
+    "birthPlaceCn": "波希米亚布拉格",
+    "deathPlace": "Sheen, England",
+    "deathPlaceCn": "英格兰希恩",
+    "gender": "female",
+    "dynasty": "Luxembourg dynasty",
+    "house": "House of Luxembourg",
+    "culture": "Bohemian",
+    "faith": "Catholic",
+    "primaryTitle": "Queen consort of England",
+    "primaryTitleCn": "英格兰王后",
+    "titles": [
+      {
+        "title": "Queen consort of England",
+        "startYear": 1382,
+        "endYear": 1394,
+        "titleCn": "英格兰王后"
+      }
+    ],
+    "tags": [
+      "queen",
+      "consort"
+    ],
+    "rank": "queen",
+    "importanceScore": 52,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "6e74e130-3247-425c-b2f2-2c97a5955b8f"
+      ],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Anne_of_Bohemia",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Anne_of_Bohemia",
+    "sourceNote": "First wife of Richard II.",
+    "notes": "First wife of Richard II; her death was deeply mourned and helped unsettle Richard's later reign.",
+    "historicalRating": 5,
+    "createdDate": "20260818",
+    "createdOrder": 52,
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died of plague at Sheen",
+      "summaryCn": "在希恩死于瘟疫",
+      "detail": "Anne of Bohemia died in 1394 at Sheen Palace, likely of plague.",
+      "detailCn": "1394 年，波希米亚的安妮在希恩宫去世，据信死于瘟疫。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Anne_of_Bohemia"
+    },
+    "events": [
+      {
+        "year": 1382,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 78,
+        "label": "Married Richard II",
+        "labelCn": "嫁给理查二世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Anne_of_Bohemia"
+      },
+      {
+        "year": 1394,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 90,
+        "label": "Died at Sheen",
+        "labelCn": "在希恩去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Anne_of_Bohemia"
+      }
+    ]
+  },
+  {
+    "id": "ec618819-cd33-44bb-b8f8-fb50e97cbdb9",
+    "firstName": "Heinrich",
+    "lastName": "",
+    "displayName": "Heinrich VII",
+    "fullName": "Heinrich VII, Holy Roman Emperor",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Heinrich VII",
+      "Henry VII of Luxembourg"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "海因里希七世",
+    "fullNameCn": "海因里希七世",
+    "birthYear": 1275,
+    "deathYear": 1313,
+    "birthPlace": "Valenciennes, Hainaut",
+    "birthPlaceCn": "埃诺瓦朗谢讷",
+    "deathPlace": "Buonconvento, Italy",
+    "deathPlaceCn": "意大利布翁孔文托",
+    "gender": "male",
+    "dynasty": "Luxembourg dynasty",
+    "house": "House of Luxembourg",
+    "culture": "German",
+    "faith": "Catholic",
+    "primaryTitle": "Holy Roman Emperor",
+    "primaryTitleCn": "神圣罗马帝国皇帝",
+    "titles": [
+      {
+        "title": "King of the Romans",
+        "startYear": 1308,
+        "endYear": 1312,
+        "titleCn": "罗马人的国王"
+      },
+      {
+        "title": "Holy Roman Emperor",
+        "startYear": 1312,
+        "endYear": 1313,
+        "titleCn": "神圣罗马帝国皇帝"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "emperor",
+      "king"
+    ],
+    "rank": "emperor",
+    "importanceScore": 70,
+    "historicalRating": 7,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1275,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_VII,_Holy_Roman_Emperor"
+      },
+      {
+        "year": 1308,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Began rule as King of the Romans",
+        "labelCn": "开始担任罗马人的国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_VII,_Holy_Roman_Emperor"
+      },
+      {
+        "year": 1313,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_VII,_Holy_Roman_Emperor"
+      },
+      {
+        "year": 1310,
+        "type": "dynasty",
+        "tags": [
+          "dynasty",
+          "succession",
+          "dynastic_alliance"
+        ],
+        "weight": 70,
+        "label": "Secured Bohemia for his son John",
+        "labelCn": "为子约翰取得波希米亚王位",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_VII,_Holy_Roman_Emperor",
+        "note": "Married his son John to Elizabeth of Bohemia and made him king, founding Luxembourg rule in Bohemia."
+      },
+      {
+        "year": 1312,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Crowned Holy Roman Emperor",
+        "labelCn": "加冕为神圣罗马帝国皇帝",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_VII,_Holy_Roman_Emperor",
+        "note": "Crowned emperor in Rome during his Italian expedition."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Henry_VII,_Holy_Roman_Emperor",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Henry_VII,_Holy_Roman_Emperor",
+    "sourceNote": "First Luxembourg emperor; crowned in 1312 and died in Italy a year later. Core timeline generated from recorded lifespan and titles on 2026-08-20.",
+    "notes": "First Luxembourg Holy Roman Emperor; died in Italy shortly after his coronation.",
+    "createdDate": "20260820",
+    "createdOrder": 17
+  },
+  {
+    "id": "80b3801a-ffca-4136-ba92-293b6b976e85",
+    "firstName": "Karl",
+    "lastName": "",
+    "displayName": "Karl IV",
+    "fullName": "Karl IV, Holy Roman Emperor",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Karl IV",
+      "Charles IV"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "卡尔四世",
+    "fullNameCn": "卡尔四世",
+    "birthYear": 1316,
+    "deathYear": 1378,
+    "birthPlace": "Prague, Bohemia",
+    "birthPlaceCn": "波希米亚布拉格",
+    "deathPlace": "Prague, Bohemia",
+    "deathPlaceCn": "波希米亚布拉格",
+    "gender": "male",
+    "dynasty": "Luxembourg dynasty",
+    "house": "House of Luxembourg",
+    "culture": "German",
+    "faith": "Catholic",
+    "primaryTitle": "Holy Roman Emperor",
+    "primaryTitleCn": "神圣罗马帝国皇帝",
+    "titles": [
+      {
+        "title": "King of the Romans",
+        "startYear": 1346,
+        "endYear": 1355,
+        "titleCn": "罗马人的国王"
+      },
+      {
+        "title": "Holy Roman Emperor",
+        "startYear": 1355,
+        "endYear": 1378,
+        "titleCn": "神圣罗马帝国皇帝"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "emperor",
+      "king"
+    ],
+    "rank": "emperor",
+    "importanceScore": 80,
+    "historicalRating": 8,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "3d893516-a8da-469f-a546-67c603ec62e2",
+        "7b1aea91-a048-4a69-bacd-b6f0358bf573"
+      ]
+    },
+    "events": [
+      {
+        "year": 1316,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 60,
+        "label": "Born in Prague",
+        "labelCn": "出生于布拉格",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Charles_IV,_Holy_Roman_Emperor"
+      },
+      {
+        "year": 1346,
+        "type": "coronation",
+        "tags": [
+          "coronation"
+        ],
+        "weight": 67,
+        "label": "Elected King of the Romans",
+        "labelCn": "当选罗马人的国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Charles_IV,_Holy_Roman_Emperor"
+      },
+      {
+        "year": 1348,
+        "type": "government",
+        "tags": [
+          "government"
+        ],
+        "weight": 74,
+        "label": "Founded Charles University in Prague",
+        "labelCn": "创办布拉格查理大学",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Charles_IV,_Holy_Roman_Emperor"
+      },
+      {
+        "year": 1355,
+        "type": "coronation",
+        "tags": [
+          "coronation"
+        ],
+        "weight": 81,
+        "label": "Crowned Holy Roman Emperor",
+        "labelCn": "加冕为神圣罗马帝国皇帝",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Charles_IV,_Holy_Roman_Emperor"
+      },
+      {
+        "year": 1356,
+        "type": "government",
+        "tags": [
+          "government"
+        ],
+        "weight": 88,
+        "label": "Issued the Golden Bull",
+        "labelCn": "颁布《金玺诏书》",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Charles_IV,_Holy_Roman_Emperor"
+      },
+      {
+        "year": 1378,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 95,
+        "label": "Died in Prague",
+        "labelCn": "逝世于布拉格",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Charles_IV,_Holy_Roman_Emperor"
+      },
+      {
+        "year": 1346,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "monarch"
+        ],
+        "weight": 78,
+        "label": "Became King of Bohemia on his father's death",
+        "labelCn": "父亲战死后继承波希米亚王位",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Charles_IV,_Holy_Roman_Emperor",
+        "note": "His father John of Bohemia fell at the Battle of Crécy."
+      },
+      {
+        "year": 1348,
+        "type": "government",
+        "tags": [
+          "government",
+          "territory"
+        ],
+        "weight": 72,
+        "label": "Founded the New Town of Prague",
+        "labelCn": "营建布拉格新城",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Charles_IV,_Holy_Roman_Emperor"
+      },
+      {
+        "year": 1355,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "king"
+        ],
+        "weight": 74,
+        "label": "Crowned King of Italy with the Iron Crown",
+        "labelCn": "加冕为意大利国王（铁王冠）",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Charles_IV,_Holy_Roman_Emperor"
+      },
+      {
+        "year": 1373,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "territory",
+          "dynasty"
+        ],
+        "weight": 76,
+        "label": "Acquired the Margraviate of Brandenburg",
+        "labelCn": "获得勃兰登堡侯爵领地",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Charles_IV,_Holy_Roman_Emperor"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Charles_IV,_Holy_Roman_Emperor",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Charles_IV,_Holy_Roman_Emperor",
+    "sourceNote": "Luxembourg emperor who issued the Golden Bull of 1356. Core chronology completed 2026-08-20.",
+    "notes": "Luxembourg Holy Roman Emperor who issued the Golden Bull of 1356 and made Prague the imperial capital.",
+    "createdDate": "20260820",
+    "createdOrder": 19,
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died of natural causes in Prague",
+      "summaryCn": "在布拉格自然逝世",
+      "detail": "Karl IV died in Prague on 29 November 1378; his death is recorded as natural.",
+      "detailCn": "1378年11月29日，卡尔四世在布拉格去世，史书记载为自然死亡。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Charles_IV,_Holy_Roman_Emperor"
+    }
+  },
+  {
+    "id": "3d893516-a8da-469f-a546-67c603ec62e2",
+    "firstName": "Wenceslaus",
+    "lastName": "",
+    "displayName": "Wenceslaus",
+    "fullName": "Wenceslaus IV of Bohemia",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Wenceslaus",
+      "Wenzel"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "瓦茨拉夫",
+    "fullNameCn": "瓦茨拉夫",
+    "birthYear": 1361,
+    "deathYear": 1419,
+    "birthPlace": "",
+    "deathPlace": "Prague, Bohemia",
+    "deathPlaceCn": "波希米亚布拉格",
+    "gender": "male",
+    "dynasty": "Luxembourg dynasty",
+    "house": "House of Luxembourg",
+    "culture": "German",
+    "faith": "Catholic",
+    "primaryTitle": "King of the Romans",
+    "primaryTitleCn": "罗马人的国王",
+    "titles": [
+      {
+        "title": "King of the Romans",
+        "startYear": 1378,
+        "endYear": 1400,
+        "titleCn": "罗马人的国王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 58,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "80b3801a-ffca-4136-ba92-293b6b976e85",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1361,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Wenceslaus_IV_of_Bohemia"
+      },
+      {
+        "year": 1378,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Began rule as King of the Romans",
+        "labelCn": "开始担任罗马人的国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Wenceslaus_IV_of_Bohemia"
+      },
+      {
+        "year": 1419,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Wenceslaus_IV_of_Bohemia"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Wenceslaus_IV_of_Bohemia",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Wenceslaus_IV_of_Bohemia",
+    "sourceNote": "Son of Karl IV; King of the Romans deposed in 1400, never crowned Emperor. Core timeline generated from recorded lifespan and titles on 2026-08-20.",
+    "notes": "King of the Romans and Bohemia, son of Karl IV; deposed in 1400 and never crowned Emperor.",
+    "createdDate": "20260820",
+    "createdOrder": 20
+  },
+  {
+    "id": "7b1aea91-a048-4a69-bacd-b6f0358bf573",
+    "firstName": "Sigismund",
+    "lastName": "",
+    "displayName": "Sigismund",
+    "fullName": "Sigismund, Holy Roman Emperor",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Sigismund",
+      "Sigismund of Luxembourg"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "西吉斯蒙德",
+    "fullNameCn": "西吉斯蒙德",
+    "birthYear": 1368,
+    "deathYear": 1437,
+    "birthPlace": "Nuremberg, Germany",
+    "birthPlaceCn": "德意志纽伦堡",
+    "deathPlace": "Znojmo, Bohemia",
+    "deathPlaceCn": "波希米亚兹诺伊莫",
+    "gender": "male",
+    "dynasty": "Luxembourg dynasty",
+    "house": "House of Luxembourg",
+    "culture": "German",
+    "faith": "Catholic",
+    "primaryTitle": "Holy Roman Emperor",
+    "primaryTitleCn": "神圣罗马帝国皇帝",
+    "titles": [
+      {
+        "title": "King of the Romans",
+        "startYear": 1411,
+        "endYear": 1433,
+        "titleCn": "罗马人的国王"
+      },
+      {
+        "title": "Holy Roman Emperor",
+        "startYear": 1433,
+        "endYear": 1437,
+        "titleCn": "神圣罗马帝国皇帝"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "emperor",
+      "king"
+    ],
+    "rank": "emperor",
+    "importanceScore": 72,
+    "historicalRating": 7,
+    "relationships": {
+      "fatherId": "80b3801a-ffca-4136-ba92-293b6b976e85",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1368,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Sigismund,_Holy_Roman_Emperor"
+      },
+      {
+        "year": 1411,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Began rule as King of the Romans",
+        "labelCn": "开始担任罗马人的国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Sigismund,_Holy_Roman_Emperor"
+      },
+      {
+        "year": 1437,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Sigismund,_Holy_Roman_Emperor"
+      },
+      {
+        "year": 1414,
+        "type": "religion",
+        "tags": [
+          "religion",
+          "diplomacy"
+        ],
+        "weight": 80,
+        "label": "Convened the Council of Constance",
+        "labelCn": "召开康斯坦茨公会议",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Council_of_Constance",
+        "note": "Convened the council that ended the Western Schism by securing the resignation of the rival popes."
+      },
+      {
+        "year": 1433,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Crowned Holy Roman Emperor",
+        "labelCn": "加冕为神圣罗马帝国皇帝",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Sigismund,_Holy_Roman_Emperor",
+        "note": "Crowned emperor in Rome by Pope Eugenius IV."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Sigismund,_Holy_Roman_Emperor",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Sigismund,_Holy_Roman_Emperor",
+    "sourceNote": "Son of Karl IV; last Luxembourg emperor, convened the Council of Constance. Core timeline generated from recorded lifespan and titles on 2026-08-20.",
+    "notes": "Last Luxembourg Holy Roman Emperor, who convened the Council of Constance and ended the Great Schism.",
+    "createdDate": "20260820",
+    "createdOrder": 22
+  },
+  {
+    "id": "16fce723-eb78-47ff-955b-7ce3e266dd3c",
+    "firstName": "Marie",
+    "lastName": "",
+    "displayName": "Marie of Luxembourg",
+    "fullName": "Marie of Luxembourg",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "卢森堡的玛丽",
+    "fullNameCn": "卢森堡的玛丽",
+    "nicknameCn": "",
+    "birthYear": 1304,
+    "deathYear": 1324,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "female",
+    "dynasty": "Luxembourg dynasty",
+    "house": "House of Luxembourg",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Queen of France",
+    "primaryTitleCn": "法兰西王后",
+    "titles": [
+      {
+        "title": "Queen of France",
+        "startYear": "",
+        "endYear": 1324,
+        "titleCn": "法兰西王后"
+      }
+    ],
+    "tags": [
+      "queen",
+      "consort"
+    ],
+    "rank": "queen",
+    "importanceScore": 40,
+    "historicalRating": 4,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "da988cef-12ff-4b79-afad-70d0565b976e"
+      ],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1304,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Marie_of_Luxembourg"
+      },
+      {
+        "year": 1324,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Marie_of_Luxembourg"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Marie_of_Luxembourg",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Marie_of_Luxembourg",
+    "sourceNote": "Basic queen-consort card; relationship links synchronized with the French royal line.",
+    "notes": "Queen consort in the French royal succession.",
+    "createdDate": "20260820",
+    "createdOrder": 50
+  },
+  {
+    "id": "c5cb5a6d-e9f7-4899-bb5c-7f5734fe92ed",
+    "firstName": "Bonne",
+    "lastName": "",
+    "displayName": "Bonne of Bohemia",
+    "fullName": "Bonne of Bohemia",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "波希米亚的邦娜",
+    "fullNameCn": "波希米亚的邦娜",
+    "nicknameCn": "",
+    "birthYear": 1315,
+    "deathYear": 1349,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "female",
+    "dynasty": "Luxembourg dynasty",
+    "house": "House of Luxembourg",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Queen of France",
+    "primaryTitleCn": "法兰西王后",
+    "titles": [
+      {
+        "title": "Queen of France",
+        "startYear": "",
+        "endYear": 1349,
+        "titleCn": "法兰西王后"
+      }
+    ],
+    "tags": [
+      "queen",
+      "consort"
+    ],
+    "rank": "queen",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "26ef769b-f149-4b30-b5b6-13efecbbf59b"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "04c2ad7c-d296-4338-af7c-05fd1d730cfe"
+      ]
+    },
+    "events": [
+      {
+        "year": 1315,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Bonne_of_Bohemia"
+      },
+      {
+        "year": 1349,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Bonne_of_Bohemia"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Bonne_of_Bohemia",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Bonne_of_Bohemia",
+    "sourceNote": "Basic queen-consort card; relationship links synchronized with the French royal line.",
+    "notes": "Queen consort in the French royal succession.",
+    "createdDate": "20260820",
+    "createdOrder": 54
+  },
+  {
+    "id": "c1014000-0000-4000-8000-000000000000",
+    "firstName": "Wenceslaus",
+    "lastName": "of Luxembourg",
+    "displayName": "Wenceslaus I of Luxembourg",
+    "fullName": "Wenceslaus I of Luxembourg, Duke of Brabant",
+    "displayNameCn": "卢森堡的瓦茨拉夫一世",
+    "fullNameCn": "布拉班特公爵卢森堡的瓦茨拉夫一世",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1337,
+    "deathYear": 1383,
+    "birthPlace": "Prague",
+    "birthPlaceCn": "布拉格",
+    "deathPlace": "Luxembourg",
+    "deathPlaceCn": "卢森堡",
+    "gender": "male",
+    "dynasty": "Luxembourg dynasty",
+    "house": "House of Luxembourg",
+    "culture": "German",
+    "faith": "Catholic",
+    "primaryTitle": "Duke of Brabant",
+    "primaryTitleCn": "布拉班特公爵",
+    "titles": [
+      {
+        "title": "Duke of Brabant",
+        "titleCn": "布拉班特公爵",
+        "startYear": 1355,
+        "endYear": 1383
+      }
+    ],
+    "tags": [
+      "noble",
+      "duke"
+    ],
+    "rank": "duke",
+    "importanceScore": 55,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "c1013000-0000-4000-8000-000000000000"
+      ],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1352,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 76,
+        "label": "Marriage to Joanna of Brabant",
+        "labelCn": "与布拉班特的乔安娜成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Wenceslaus_I,_Duke_of_Luxembourg",
+        "note": "Heiress of Duke John III of Brabant; the match joined the houses of Luxembourg and Brabant."
+      },
+      {
+        "year": 1355,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "succession",
+          "noble"
+        ],
+        "weight": 78,
+        "label": "Duke of Brabant (jure uxoris)",
+        "labelCn": "以妻权继位为布拉班特公爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Wenceslaus_I,_Duke_of_Luxembourg",
+        "note": "Became co-ruler of Brabant and Limburg when Joanna inherited them in 1355."
+      },
+      {
+        "year": 1371,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "defeat",
+          "commander"
+        ],
+        "weight": 88,
+        "label": "Battle of Baesweiler",
+        "labelCn": "巴斯韦勒之战",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Baesweiler",
+        "note": "Suffered a humiliating defeat and was captured, enduring eleven months of captivity."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Wenceslaus_I,_Duke_of_Luxembourg",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Wenceslaus_I,_Duke_of_Luxembourg",
+    "sourceNote": "Basic co-ruler card for the Brabant ducal line.",
+    "notes": "Husband and co-ruler of Joanna, Duchess of Brabant.",
+    "createdDate": "20260823",
+    "createdOrder": 45
+  }
+]

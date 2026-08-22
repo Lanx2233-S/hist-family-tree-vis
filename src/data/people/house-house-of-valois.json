@@ -1,0 +1,1010 @@
+[
+  {
+    "id": "c89b7f1b-b6d2-4681-9eba-4cd9ffffab47",
+    "firstName": "Philip",
+    "lastName": "",
+    "displayName": "Philip VI",
+    "fullName": "Philip VI of France",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Philip VI",
+      "Philippe VI de Valois"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "腓力六世",
+    "fullNameCn": "腓力六世",
+    "birthYear": 1293,
+    "deathYear": 1350,
+    "birthPlace": "",
+    "deathPlace": "Nogent-le-Roi, France",
+    "deathPlaceCn": "法国诺让勒鲁瓦",
+    "gender": "male",
+    "dynasty": "Capetian dynasty",
+    "house": "House of Valois",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "King of France",
+    "primaryTitleCn": "法兰西国王",
+    "titles": [
+      {
+        "title": "King of France",
+        "startYear": 1328,
+        "endYear": 1350,
+        "titleCn": "法兰西国王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 74,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "3401be01-ecb6-4d4c-b64b-777bf04937ef"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "26ef769b-f149-4b30-b5b6-13efecbbf59b"
+      ]
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Philip_VI_of_France",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Philip_VI_of_France",
+    "sourceNote": "Father Charles, Count of Valois, is not yet in the roster.",
+    "notes": "First king of the House of Valois. His succession after the last direct Capetian was disputed by Edward III of England, beginning the Hundred Years' War.",
+    "historicalRating": 7,
+    "createdDate": "20260818",
+    "createdOrder": 22,
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died of illness",
+      "summaryCn": "因病去世",
+      "detail": "Philip VI died in 1350 at Nogent-le-Roi after a short illness.",
+      "detailCn": "1350 年，腓力六世在诺让勒鲁瓦因病去世。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Philip_VI_of_France"
+    },
+    "events": [
+      {
+        "year": 1293,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 60,
+        "label": "Born, son of Charles of Valois",
+        "labelCn": "出生，瓦卢瓦的查理之子",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Philip_VI_of_France"
+      },
+      {
+        "year": 1328,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "monarch"
+        ],
+        "weight": 86,
+        "label": "Became the first Valois king",
+        "labelCn": "成为首位瓦卢瓦国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Philip_VI_of_France",
+        "note": "Chosen after Charles IV died without a male heir."
+      },
+      {
+        "year": 1337,
+        "type": "political_crisis",
+        "tags": [
+          "political_crisis",
+          "succession"
+        ],
+        "weight": 84,
+        "label": "Hundred Years' War began",
+        "labelCn": "百年战争爆发",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Hundred_Years%27_War",
+        "note": "Edward III of England claimed the French throne."
+      },
+      {
+        "year": 1346,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "defeat"
+        ],
+        "weight": 82,
+        "label": "Battle of Crécy",
+        "labelCn": "克雷西之战",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Cr%C3%A9cy",
+        "note": "A crushing defeat by Edward III's army."
+      },
+      {
+        "year": 1350,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 95,
+        "label": "Died at Nogent-le-Roi",
+        "labelCn": "在诺让勒鲁瓦去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Philip_VI_of_France"
+      }
+    ]
+  },
+  {
+    "id": "26ef769b-f149-4b30-b5b6-13efecbbf59b",
+    "firstName": "John",
+    "lastName": "",
+    "displayName": "John II",
+    "fullName": "John II of France",
+    "nickname": "the Good",
+    "alsoKnownAs": [
+      "John II",
+      "Jean II le Bon"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "约翰二世",
+    "fullNameCn": "约翰二世",
+    "nicknameCn": "好人",
+    "birthYear": 1319,
+    "deathYear": 1364,
+    "birthPlace": "Le Mans, France",
+    "birthPlaceCn": "法国勒芒",
+    "deathPlace": "London, England",
+    "deathPlaceCn": "英格兰伦敦",
+    "gender": "male",
+    "dynasty": "Capetian dynasty",
+    "house": "House of Valois",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "King of France",
+    "primaryTitleCn": "法兰西国王",
+    "titles": [
+      {
+        "title": "King of France",
+        "startYear": 1350,
+        "endYear": 1364,
+        "titleCn": "法兰西国王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 72,
+    "relationships": {
+      "fatherId": "c89b7f1b-b6d2-4681-9eba-4cd9ffffab47",
+      "motherId": "3401be01-ecb6-4d4c-b64b-777bf04937ef",
+      "spouseIds": [
+        "c5cb5a6d-e9f7-4899-bb5c-7f5734fe92ed"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "04c2ad7c-d296-4338-af7c-05fd1d730cfe"
+      ]
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/John_II_of_France",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/John_II_of_France",
+    "sourceNote": "Wife Bonne of Bohemia is not yet in the roster.",
+    "notes": "King of France during the early Hundred Years' War; captured at Poitiers and ransomed by the Treaty of Brétigny. Returned to England as a hostage and died there.",
+    "historicalRating": 7,
+    "createdDate": "20260818",
+    "createdOrder": 23,
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died in captivity in London",
+      "summaryCn": "在伦敦囚禁中去世",
+      "detail": "John II returned to England as a hostage in 1364 and died in London that same year.",
+      "detailCn": "1364 年，约翰二世作为人质返回英格兰，同年死于伦敦。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/John_II_of_France"
+    },
+    "events": [
+      {
+        "year": 1319,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 60,
+        "label": "Born, son of Philip VI",
+        "labelCn": "出生，腓力六世之子",
+        "wikiUrl": "https://en.wikipedia.org/wiki/John_II_of_France"
+      },
+      {
+        "year": 1350,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Succeeded his father Philip VI",
+        "labelCn": "继承父亲腓力六世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/John_II_of_France"
+      },
+      {
+        "year": 1356,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "defeat",
+          "imprisonment"
+        ],
+        "weight": 86,
+        "label": "Captured at the Battle of Poitiers",
+        "labelCn": "普瓦捷之战被俘",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Poitiers",
+        "note": "Taken prisoner by the Black Prince."
+      },
+      {
+        "year": 1360,
+        "type": "treaty",
+        "tags": [
+          "treaty",
+          "territory"
+        ],
+        "weight": 78,
+        "label": "Ransomed by the Treaty of Brétigny",
+        "labelCn": "依《布雷蒂尼条约》获赎",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Treaty_of_Br%C3%A9tigny"
+      },
+      {
+        "year": 1364,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 95,
+        "label": "Died in London as a hostage",
+        "labelCn": "作为人质死于伦敦",
+        "wikiUrl": "https://en.wikipedia.org/wiki/John_II_of_France"
+      }
+    ]
+  },
+  {
+    "id": "04c2ad7c-d296-4338-af7c-05fd1d730cfe",
+    "firstName": "Charles",
+    "lastName": "",
+    "displayName": "Charles V",
+    "fullName": "Charles V of France",
+    "nickname": "the Wise",
+    "alsoKnownAs": [
+      "Charles V",
+      "Charles le Sage"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "查理五世",
+    "fullNameCn": "查理五世",
+    "nicknameCn": "贤明者",
+    "birthYear": 1338,
+    "deathYear": 1380,
+    "birthPlace": "Vincennes, France",
+    "birthPlaceCn": "法国万塞讷",
+    "deathPlace": "Beauté-sur-Marne, France",
+    "deathPlaceCn": "法国博泰叙马恩",
+    "gender": "male",
+    "dynasty": "Capetian dynasty",
+    "house": "House of Valois",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "King of France",
+    "primaryTitleCn": "法兰西国王",
+    "titles": [
+      {
+        "title": "King of France",
+        "startYear": 1364,
+        "endYear": 1380,
+        "titleCn": "法兰西国王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 80,
+    "relationships": {
+      "fatherId": "26ef769b-f149-4b30-b5b6-13efecbbf59b",
+      "motherId": "c5cb5a6d-e9f7-4899-bb5c-7f5734fe92ed",
+      "spouseIds": [
+        "0a4d4bdc-13c6-4f01-81bf-8e049c4bddca"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "084fdbfa-b040-4629-98f4-5af678d317db"
+      ]
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Charles_V_of_France",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Charles_V_of_France",
+    "sourceNote": "Wife Jeanne de Bourbon is not yet in the roster.",
+    "notes": "Called the Wise; regent during his father's captivity, he recovered much French territory from the English under Bertrand du Guesclin and founded the royal library.",
+    "historicalRating": 8,
+    "createdDate": "20260818",
+    "createdOrder": 24,
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died of illness",
+      "summaryCn": "因病去世",
+      "detail": "Charles V died in 1380 at Beauté-sur-Marne after a long decline in health.",
+      "detailCn": "1380 年，查理五世在博泰叙马恩因长期病弱去世。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Charles_V_of_France"
+    },
+    "events": [
+      {
+        "year": 1338,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 60,
+        "label": "Born, son of John II",
+        "labelCn": "出生，约翰二世之子",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Charles_V_of_France"
+      },
+      {
+        "year": 1356,
+        "type": "government",
+        "tags": [
+          "government",
+          "regency"
+        ],
+        "weight": 78,
+        "label": "Regent during his father's captivity",
+        "labelCn": "父亲被俘期间摄政",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Charles_V_of_France"
+      },
+      {
+        "year": 1364,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "monarch"
+        ],
+        "weight": 82,
+        "label": "Succeeded his father John II",
+        "labelCn": "继承父亲约翰二世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Charles_V_of_France"
+      },
+      {
+        "year": 1369,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "territory"
+        ],
+        "weight": 84,
+        "label": "Recovered territory under du Guesclin",
+        "labelCn": "在盖克兰指挥下收复失地",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Charles_V_of_France"
+      },
+      {
+        "year": 1373,
+        "type": "government",
+        "tags": [
+          "government",
+          "law"
+        ],
+        "weight": 70,
+        "label": "Founded the royal library at the Louvre",
+        "labelCn": "在卢浮宫设立王室图书馆",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Charles_V_of_France"
+      },
+      {
+        "year": 1380,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 95,
+        "label": "Died at Beauté-sur-Marne",
+        "labelCn": "在博泰叙马恩去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Charles_V_of_France"
+      },
+      {
+        "year": 1360,
+        "month": 5,
+        "type": "treaty",
+        "tags": [
+          "treaty",
+          "diplomacy"
+        ],
+        "weight": 82,
+        "label": "Treaty of Brétigny",
+        "labelCn": "《布勒丁尼条约》",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Treaty_of_Br%C3%A9tigny",
+        "note": "As regent, Charles accepted terms ransoming his captive father John II and ceding roughly a third of France to Edward III; the lost territory was later recovered during his reign."
+      }
+    ]
+  },
+  {
+    "id": "084fdbfa-b040-4629-98f4-5af678d317db",
+    "firstName": "Charles",
+    "lastName": "",
+    "displayName": "Charles VI",
+    "fullName": "Charles VI of France",
+    "nickname": "the Mad",
+    "alsoKnownAs": [
+      "Charles VI",
+      "Charles le Fou"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "查理六世",
+    "fullNameCn": "查理六世",
+    "nicknameCn": "疯子",
+    "birthYear": 1368,
+    "deathYear": 1422,
+    "birthPlace": "Paris, France",
+    "birthPlaceCn": "法国巴黎",
+    "deathPlace": "Paris, France",
+    "deathPlaceCn": "法国巴黎",
+    "gender": "male",
+    "dynasty": "Capetian dynasty",
+    "house": "House of Valois",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "King of France",
+    "primaryTitleCn": "法兰西国王",
+    "titles": [
+      {
+        "title": "King of France",
+        "startYear": 1380,
+        "endYear": 1422,
+        "titleCn": "法兰西国王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 74,
+    "relationships": {
+      "fatherId": "04c2ad7c-d296-4338-af7c-05fd1d730cfe",
+      "motherId": "0a4d4bdc-13c6-4f01-81bf-8e049c4bddca",
+      "spouseIds": [
+        "904d5881-253a-44ab-adbb-f0c9a786de58"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "4482439c-eae6-4ec6-885a-ac48721ec552",
+        "13bf8c44-3cf2-45e5-9d97-47c1e912c094"
+      ]
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Charles_VI_of_France",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Charles_VI_of_France",
+    "sourceNote": "Wife Isabeau of Bavaria is not yet in the roster.",
+    "notes": "Called the Mad; his recurring insanity led to civil war between the Armagnacs and Burgundians, and to the Treaty of Troyes that disinherited his son.",
+    "historicalRating": 7,
+    "createdDate": "20260818",
+    "createdOrder": 25,
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died after a long reign of illness",
+      "summaryCn": "长期病弱后去世",
+      "detail": "Charles VI died in 1422 at Paris after years of recurring mental illness.",
+      "detailCn": "1422 年，查理六世在巴黎去世，此前多年饱受间歇性精神疾病困扰。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Charles_VI_of_France"
+    },
+    "events": [
+      {
+        "year": 1368,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 60,
+        "label": "Born, son of Charles V",
+        "labelCn": "出生，查理五世之子",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Charles_VI_of_France"
+      },
+      {
+        "year": 1380,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Succeeded his father Charles V",
+        "labelCn": "继承父亲查理五世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Charles_VI_of_France"
+      },
+      {
+        "year": 1392,
+        "type": "political_crisis",
+        "tags": [
+          "political_crisis"
+        ],
+        "weight": 80,
+        "label": "First onset of madness",
+        "labelCn": "首次发作精神失常",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Charles_VI_of_France"
+      },
+      {
+        "year": 1415,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "defeat"
+        ],
+        "weight": 84,
+        "label": "Battle of Agincourt",
+        "labelCn": "阿金库尔之战",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Agincourt",
+        "note": "A devastating defeat by Henry V of England."
+      },
+      {
+        "year": 1420,
+        "type": "treaty",
+        "tags": [
+          "treaty",
+          "succession"
+        ],
+        "weight": 82,
+        "label": "Treaty of Troyes — disinherited his son",
+        "labelCn": "《特鲁瓦条约》——废黜其子继承权",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Treaty_of_Troyes",
+        "note": "Recognized Henry V as heir to the French throne."
+      },
+      {
+        "year": 1422,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 95,
+        "label": "Died at Paris",
+        "labelCn": "在巴黎去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Charles_VI_of_France"
+      }
+    ]
+  },
+  {
+    "id": "4482439c-eae6-4ec6-885a-ac48721ec552",
+    "firstName": "Charles",
+    "lastName": "",
+    "displayName": "Charles VII",
+    "fullName": "Charles VII of France",
+    "nickname": "the Victorious",
+    "alsoKnownAs": [
+      "Charles VII",
+      "Charles le Victorieux"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "查理七世",
+    "fullNameCn": "查理七世",
+    "nicknameCn": "胜利者",
+    "birthYear": 1403,
+    "deathYear": 1461,
+    "birthPlace": "Paris, France",
+    "birthPlaceCn": "法国巴黎",
+    "deathPlace": "Mehun-sur-Yèvre, France",
+    "deathPlaceCn": "法国默安叙耶夫尔",
+    "gender": "male",
+    "dynasty": "Capetian dynasty",
+    "house": "House of Valois",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "King of France",
+    "primaryTitleCn": "法兰西国王",
+    "titles": [
+      {
+        "title": "King of France",
+        "startYear": 1422,
+        "endYear": 1461,
+        "titleCn": "法兰西国王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 80,
+    "relationships": {
+      "fatherId": "084fdbfa-b040-4629-98f4-5af678d317db",
+      "motherId": "904d5881-253a-44ab-adbb-f0c9a786de58",
+      "spouseIds": [
+        "6f145993-e643-4673-b39f-80e8a3430f97"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "896ab071-dc40-43ec-b961-a1ca40574102"
+      ]
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Charles_VII_of_France",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Charles_VII_of_France",
+    "sourceNote": "Wife Marie of Anjou is not yet in the roster.",
+    "notes": "Called the Victorious; with the help of Joan of Arc he was crowned at Reims and drove the English from France, ending the Hundred Years' War.",
+    "historicalRating": 8,
+    "createdDate": "20260818",
+    "createdOrder": 26,
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died at Mehun-sur-Yèvre",
+      "summaryCn": "在默安叙耶夫尔去世",
+      "detail": "Charles VII died in 1461 at Mehun-sur-Yèvre; tradition holds he refused food in his final illness for fear of poisoning.",
+      "detailCn": "1461 年，查理七世在默安叙耶夫尔去世；传说他临终因怕被下毒而拒食。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Charles_VII_of_France"
+    },
+    "events": [
+      {
+        "year": 1403,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 60,
+        "label": "Born, son of Charles VI",
+        "labelCn": "出生，查理六世之子",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Charles_VII_of_France"
+      },
+      {
+        "year": 1422,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "monarch"
+        ],
+        "weight": 82,
+        "label": "Claimed the throne after Charles VI's death",
+        "labelCn": "查理六世去世后继位",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Charles_VII_of_France"
+      },
+      {
+        "year": 1429,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "conquest"
+        ],
+        "weight": 86,
+        "label": "Relief of Orléans with Joan of Arc",
+        "labelCn": "在贞德相助下解奥尔良之围",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Siege_of_Orl%C3%A9ans"
+      },
+      {
+        "year": 1429,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch",
+          "church"
+        ],
+        "weight": 88,
+        "label": "Crowned at Reims",
+        "labelCn": "在兰斯加冕",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Charles_VII_of_France"
+      },
+      {
+        "year": 1453,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "territory"
+        ],
+        "weight": 86,
+        "label": "End of the Hundred Years' War",
+        "labelCn": "百年战争结束",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Hundred_Years%27_War"
+      },
+      {
+        "year": 1461,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 95,
+        "label": "Died at Mehun-sur-Yèvre",
+        "labelCn": "在默安叙耶夫尔去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Charles_VII_of_France"
+      },
+      {
+        "year": 1435,
+        "month": 9,
+        "day": 21,
+        "type": "treaty",
+        "tags": [
+          "treaty",
+          "diplomacy"
+        ],
+        "weight": 84,
+        "label": "Treaty of Arras",
+        "labelCn": "《阿拉斯条约》",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Congress_of_Arras",
+        "note": "Reconciled Charles VII with Duke Philip the Good of Burgundy, who abandoned his English alliance and recognized Charles as king of France."
+      }
+    ]
+  },
+  {
+    "id": "896ab071-dc40-43ec-b961-a1ca40574102",
+    "firstName": "Louis",
+    "lastName": "",
+    "displayName": "Louis XI",
+    "fullName": "Louis XI of France",
+    "nickname": "the Prudent",
+    "alsoKnownAs": [
+      "Louis XI",
+      "Louis the Prudent",
+      "the Universal Spider"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "路易十一世",
+    "fullNameCn": "路易十一世",
+    "nicknameCn": "谨慎者",
+    "birthYear": 1423,
+    "deathYear": 1483,
+    "birthPlace": "Bourges, France",
+    "birthPlaceCn": "法国布尔日",
+    "deathPlace": "Plessis-lès-Tours, France",
+    "deathPlaceCn": "法国普莱西莱图尔",
+    "gender": "male",
+    "dynasty": "Capetian dynasty",
+    "house": "House of Valois",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "King of France",
+    "primaryTitleCn": "法兰西国王",
+    "titles": [
+      {
+        "title": "King of France",
+        "startYear": 1461,
+        "endYear": 1483,
+        "titleCn": "法兰西国王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 80,
+    "relationships": {
+      "fatherId": "4482439c-eae6-4ec6-885a-ac48721ec552",
+      "motherId": "6f145993-e643-4673-b39f-80e8a3430f97",
+      "spouseIds": [
+        "1aceb9f3-41a0-410e-aa94-f1142f0eda1e"
+      ],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Louis_XI",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Louis_XI",
+    "sourceNote": "Wife Charlotte of Savoy and son Charles VIII are not yet in the roster.",
+    "notes": "Called the Universal Spider for his web of diplomacy; he defeated Charles the Bold and annexed Burgundy, greatly strengthening the French crown.",
+    "historicalRating": 8,
+    "createdDate": "20260818",
+    "createdOrder": 27,
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died after a series of strokes",
+      "summaryCn": "数次中风后去世",
+      "detail": "Louis XI died in 1483 at Plessis-lès-Tours after a series of strokes.",
+      "detailCn": "1483 年，路易十一世在普莱西莱图尔数次中风后去世。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Louis_XI"
+    },
+    "events": [
+      {
+        "year": 1423,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 60,
+        "label": "Born, son of Charles VII",
+        "labelCn": "出生，查理七世之子",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Louis_XI"
+      },
+      {
+        "year": 1461,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "monarch"
+        ],
+        "weight": 82,
+        "label": "Succeeded his father Charles VII",
+        "labelCn": "继承父亲查理七世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Louis_XI"
+      },
+      {
+        "year": 1465,
+        "type": "political_crisis",
+        "tags": [
+          "political_crisis",
+          "rebellion"
+        ],
+        "weight": 78,
+        "label": "War of the Public Weal",
+        "labelCn": "公益同盟战争",
+        "wikiUrl": "https://en.wikipedia.org/wiki/War_of_the_Public_Weal",
+        "note": "Faced a league of nobles led by Charles the Bold."
+      },
+      {
+        "year": 1475,
+        "type": "treaty",
+        "tags": [
+          "treaty"
+        ],
+        "weight": 74,
+        "label": "Treaty of Picquigny",
+        "labelCn": "皮基尼条约",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Treaty_of_Picquigny",
+        "note": "Ended hostilities with Edward IV of England."
+      },
+      {
+        "year": 1477,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "conquest",
+          "territory"
+        ],
+        "weight": 84,
+        "label": "Annexed Burgundy after Charles the Bold's death",
+        "labelCn": "查理大胆死后吞并勃艮第",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Louis_XI"
+      },
+      {
+        "year": 1483,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 95,
+        "label": "Died at Plessis-lès-Tours",
+        "labelCn": "在普莱西莱图尔去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Louis_XI"
+      },
+      {
+        "year": 1468,
+        "month": 10,
+        "type": "political_crisis",
+        "tags": [
+          "political_crisis",
+          "imprisonment"
+        ],
+        "weight": 84,
+        "label": "Meeting at Péronne with Charles the Bold",
+        "labelCn": "佩罗讷会晤",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Louis_XI",
+        "note": "Summoned to Péronne during the Liège revolt, Louis was held for several days and forced to concede terms to Charles the Bold, a humiliating episode in their rivalry."
+      }
+    ]
+  },
+  {
+    "id": "13bf8c44-3cf2-45e5-9d97-47c1e912c094",
+    "firstName": "Catherine",
+    "lastName": "",
+    "displayName": "Catherine of Valois",
+    "fullName": "Catherine of Valois",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Catherine of Valois"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "瓦卢瓦的凯瑟琳",
+    "fullNameCn": "瓦卢瓦的凯瑟琳",
+    "birthYear": 1401,
+    "deathYear": 1437,
+    "birthPlace": "Paris, France",
+    "birthPlaceCn": "法国巴黎",
+    "deathPlace": "London, England",
+    "deathPlaceCn": "英格兰伦敦",
+    "gender": "female",
+    "dynasty": "Capetian dynasty",
+    "house": "House of Valois",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Queen consort of England",
+    "primaryTitleCn": "英格兰王后",
+    "titles": [
+      {
+        "title": "Queen consort of England",
+        "startYear": 1420,
+        "endYear": 1422,
+        "titleCn": "英格兰王后"
+      }
+    ],
+    "tags": [
+      "queen",
+      "consort"
+    ],
+    "rank": "queen",
+    "importanceScore": 72,
+    "relationships": {
+      "fatherId": "084fdbfa-b040-4629-98f4-5af678d317db",
+      "motherId": "",
+      "spouseIds": [
+        "631cfa58-52bf-4273-b3b5-38ae2abed850"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "0a1a85b3-53e9-45fa-a90f-2b07d78191c4"
+      ]
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Catherine_of_Valois",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Catherine_of_Valois",
+    "sourceNote": "Father Charles VI of France is in the roster; second husband Owen Tudor is not.",
+    "notes": "Daughter of Charles VI and queen consort of Henry V, mother of Henry VI. After Henry V's death she married Owen Tudor, founding the Tudor dynasty's claim.",
+    "historicalRating": 7,
+    "createdDate": "20260818",
+    "createdOrder": 33,
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died at Bermondsey",
+      "summaryCn": "在伯蒙德西去世",
+      "detail": "Catherine of Valois died in 1437, shortly after childbirth, and was buried at Westminster Abbey.",
+      "detailCn": "1437 年，凯瑟琳产后不久去世，葬于威斯敏斯特教堂。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Catherine_of_Valois"
+    },
+    "events": [
+      {
+        "year": 1401,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 60,
+        "label": "Born, daughter of Charles VI",
+        "labelCn": "出生，查理六世之女",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Catherine_of_Valois"
+      },
+      {
+        "year": 1420,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance",
+          "treaty"
+        ],
+        "weight": 82,
+        "label": "Married Henry V after the Treaty of Troyes",
+        "labelCn": "依《特鲁瓦条约》嫁给亨利五世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Catherine_of_Valois"
+      },
+      {
+        "year": 1421,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 62,
+        "label": "Gave birth to the future Henry VI",
+        "labelCn": "生下未来的亨利六世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Catherine_of_Valois"
+      },
+      {
+        "year": 1437,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 90,
+        "label": "Died at Bermondsey",
+        "labelCn": "在伯蒙德西去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Catherine_of_Valois"
+      },
+      {
+        "year": 1428,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynasty",
+          "uncertain"
+        ],
+        "weight": 75,
+        "label": "Secretly married Owen Tudor",
+        "labelCn": "秘密嫁给欧文·都铎",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Catherine_of_Valois",
+        "note": "Her marriage to the Welsh courtier Owen Tudor founded the Tudor line; date uncertain."
+      }
+    ]
+  }
+]

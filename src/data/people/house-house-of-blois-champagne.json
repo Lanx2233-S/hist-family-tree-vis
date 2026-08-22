@@ -1,0 +1,711 @@
+[
+  {
+    "id": "c7080000-0000-4000-8000-000000000008",
+    "firstName": "Theobald II of Champagne",
+    "lastName": "Champagne",
+    "displayName": "Theobald II of Champagne",
+    "fullName": "Theobald II, Count of Champagne",
+    "displayNameCn": "蒂博二世（香槟）",
+    "fullNameCn": "香槟伯爵蒂博二世",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1100,
+    "deathYear": 1152,
+    "birthPlace": "County of Champagne",
+    "birthPlaceCn": "香槟伯国",
+    "deathPlace": "France",
+    "deathPlaceCn": "法兰西",
+    "gender": "male",
+    "dynasty": "Blois dynasty",
+    "house": "House of Blois-Champagne",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Champagne",
+    "primaryTitleCn": "香槟伯爵",
+    "titles": [
+      {
+        "title": "Count of Champagne",
+        "titleCn": "香槟伯爵",
+        "startYear": 1125,
+        "endYear": 1152
+      }
+    ],
+    "tags": [
+      "count",
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 70,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1125,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 72,
+        "label": "Succeeded as Count of Champagne",
+        "labelCn": "继承香槟伯爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Champagne"
+      },
+      {
+        "year": 1152,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 60,
+        "label": "Died",
+        "labelCn": "去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Champagne"
+      },
+      {
+        "year": 1123,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 75,
+        "label": "Married Matilda of Carinthia",
+        "labelCn": "迎娶克恩滕的玛蒂尔达",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Theobald_II,_Count_of_Champagne",
+        "note": "Daughter of Engelbert, Duke of Carinthia; their children included Henry I of Champagne and Adela, third wife of Louis VII."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Champagne",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Count_of_Champagne",
+    "sourceNote": "Wikipedia (Theobald II, Count of Champagne), used for navigation.",
+    "notes": "Count of Blois (as Theobald IV) and Champagne (as Theobald II), called \"the Great\", the richest and most powerful lord of northern France. His marriage to Matilda of Carinthia produced Henry I of Champagne and Adela, third wife of Louis VII.",
+    "createdDate": "20260821",
+    "createdOrder": 9
+  },
+  {
+    "id": "c7090000-0000-4000-8000-000000000009",
+    "firstName": "Henry I of Champagne",
+    "lastName": "Champagne",
+    "displayName": "Henry I of Champagne",
+    "fullName": "Henry I, Count of Champagne",
+    "displayNameCn": "亨利一世（香槟）",
+    "fullNameCn": "香槟伯爵亨利一世",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1127,
+    "deathYear": 1181,
+    "birthPlace": "County of Champagne",
+    "birthPlaceCn": "香槟伯国",
+    "deathPlace": "France",
+    "deathPlaceCn": "法兰西",
+    "gender": "male",
+    "dynasty": "Blois dynasty",
+    "house": "House of Blois-Champagne",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Champagne",
+    "primaryTitleCn": "香槟伯爵",
+    "titles": [
+      {
+        "title": "Count of Champagne",
+        "titleCn": "香槟伯爵",
+        "startYear": 1152,
+        "endYear": 1181
+      }
+    ],
+    "tags": [
+      "count",
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 70,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1152,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 72,
+        "label": "Succeeded as Count of Champagne",
+        "labelCn": "继承香槟伯爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Champagne"
+      },
+      {
+        "year": 1181,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 60,
+        "label": "Died",
+        "labelCn": "去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Champagne"
+      },
+      {
+        "year": 1164,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 78,
+        "label": "Married Marie of France",
+        "labelCn": "迎娶法兰西的玛丽",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_I,_Count_of_Champagne",
+        "note": "Daughter of Louis VII and Eleanor of Aquitaine; her court at Troyes became a celebrated literary centre patronising Chrétien de Troyes."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Champagne",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Count_of_Champagne",
+    "sourceNote": "Evergates, Henry the Liberal; Wikipedia (Henry I, Count of Champagne), used for navigation.",
+    "notes": "Count of Champagne (1152–1181), called \"the Liberal\", who built Champagne into one of the richest French principalities and fostered the Champagne fairs. His marriage to Marie of France made Troyes a celebrated literary court.",
+    "createdDate": "20260821",
+    "createdOrder": 10
+  },
+  {
+    "id": "c7110000-0000-4000-8000-000000000011",
+    "firstName": "Theobald III of Champagne",
+    "lastName": "Champagne",
+    "displayName": "Theobald III of Champagne",
+    "fullName": "Theobald III, Count of Champagne",
+    "displayNameCn": "蒂博三世（香槟）",
+    "fullNameCn": "香槟伯爵蒂博三世",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1172,
+    "deathYear": 1201,
+    "birthPlace": "County of Champagne",
+    "birthPlaceCn": "香槟伯国",
+    "deathPlace": "France",
+    "deathPlaceCn": "法兰西",
+    "gender": "male",
+    "dynasty": "Blois dynasty",
+    "house": "House of Blois-Champagne",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Champagne",
+    "primaryTitleCn": "香槟伯爵",
+    "titles": [
+      {
+        "title": "Count of Champagne",
+        "titleCn": "香槟伯爵",
+        "startYear": 1197,
+        "endYear": 1201
+      }
+    ],
+    "tags": [
+      "count",
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 70,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1197,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 72,
+        "label": "Succeeded as Count of Champagne",
+        "labelCn": "继承香槟伯爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Champagne"
+      },
+      {
+        "year": 1201,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 60,
+        "label": "Died",
+        "labelCn": "去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Champagne"
+      },
+      {
+        "year": 1199,
+        "month": 7,
+        "day": 1,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 78,
+        "label": "Married Blanche of Navarre",
+        "labelCn": "迎娶纳瓦拉的布朗什",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Theobald_III,_Count_of_Champagne",
+        "note": "Daughter of Sancho VI of Navarre; their posthumous son Theobald IV later became Theobald I, King of Navarre, uniting Champagne with the Navarrese crown."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Champagne",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Count_of_Champagne",
+    "sourceNote": "Wikipedia (Theobald III, Count of Champagne), used for navigation.",
+    "notes": "Count of Champagne (1197–1201), elected leader of the Fourth Crusade at Écry in 1199 but died before it departed. His marriage to Blanche of Navarre founded the union of Champagne with the Navarrese crown.",
+    "createdDate": "20260821",
+    "createdOrder": 11
+  },
+  {
+    "id": "c7120000-0000-4000-8000-000000000012",
+    "firstName": "Theobald I of Navarre",
+    "lastName": "Champagne",
+    "displayName": "Theobald I of Navarre",
+    "fullName": "Theobald I, King of Navarre and Count of Champagne",
+    "displayNameCn": "蒂博一世（纳瓦拉）",
+    "fullNameCn": "纳瓦拉国王兼香槟伯爵蒂博一世",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1176,
+    "deathYear": 1253,
+    "birthPlace": "County of Champagne",
+    "birthPlaceCn": "香槟伯国",
+    "deathPlace": "France",
+    "deathPlaceCn": "法兰西",
+    "gender": "male",
+    "dynasty": "Blois dynasty",
+    "house": "House of Blois-Champagne",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "King of Navarre",
+    "primaryTitleCn": "纳瓦拉国王",
+    "titles": [
+      {
+        "title": "Count of Champagne",
+        "titleCn": "香槟伯爵",
+        "startYear": 1201,
+        "endYear": 1253
+      },
+      {
+        "title": "King of Navarre",
+        "titleCn": "纳瓦拉国王",
+        "startYear": 1234,
+        "endYear": 1253
+      }
+    ],
+    "tags": [
+      "count",
+      "noble"
+    ],
+    "rank": "king",
+    "importanceScore": 70,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1201,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 72,
+        "label": "Succeeded as Count of Champagne",
+        "labelCn": "继承纳瓦拉国王与香槟伯爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Champagne"
+      },
+      {
+        "year": 1253,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 60,
+        "label": "Died",
+        "labelCn": "去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Champagne"
+      },
+      {
+        "year": 1234,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "king",
+          "succession"
+        ],
+        "weight": 82,
+        "label": "Became King of Navarre",
+        "labelCn": "成为纳瓦拉国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Theobald_I_of_Navarre",
+        "note": "Succeeded his maternal uncle Sancho VII; as Theobald IV of Champagne he was already a renowned trouvère. He affirmed the fueros of Navarre at Pamplona."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Champagne",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Count_of_Champagne",
+    "sourceNote": "Britannica (Theobald I); Wikipedia (Theobald I of Navarre), used for navigation.",
+    "notes": "Count of Champagne (as Theobald IV) and the first French king of Navarre (1234–1253), a renowned trouvère. He inherited Navarre from his uncle Sancho VII and later led the Barons' Crusade (1239–40).",
+    "createdDate": "20260821",
+    "createdOrder": 12
+  },
+  {
+    "id": "c7130000-0000-4000-8000-000000000013",
+    "firstName": "Theobald II of Navarre",
+    "lastName": "Champagne",
+    "displayName": "Theobald II of Navarre",
+    "fullName": "Theobald II, King of Navarre and Count of Champagne",
+    "displayNameCn": "蒂博二世（纳瓦拉）",
+    "fullNameCn": "纳瓦拉国王兼香槟伯爵蒂博二世",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1228,
+    "deathYear": 1270,
+    "birthPlace": "County of Champagne",
+    "birthPlaceCn": "香槟伯国",
+    "deathPlace": "France",
+    "deathPlaceCn": "法兰西",
+    "gender": "male",
+    "dynasty": "Blois dynasty",
+    "house": "House of Blois-Champagne",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "King of Navarre",
+    "primaryTitleCn": "纳瓦拉国王",
+    "titles": [
+      {
+        "title": "Count of Champagne",
+        "titleCn": "香槟伯爵",
+        "startYear": 1253,
+        "endYear": 1270
+      },
+      {
+        "title": "King of Navarre",
+        "titleCn": "纳瓦拉国王",
+        "startYear": 1253,
+        "endYear": 1270
+      }
+    ],
+    "tags": [
+      "count",
+      "noble"
+    ],
+    "rank": "king",
+    "importanceScore": 70,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1253,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 72,
+        "label": "Succeeded as King of Navarre / Count of Champagne",
+        "labelCn": "继承纳瓦拉国王与香槟伯爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Champagne"
+      },
+      {
+        "year": 1270,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 60,
+        "label": "Died",
+        "labelCn": "去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Champagne"
+      },
+      {
+        "year": 1255,
+        "month": 4,
+        "day": 6,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 78,
+        "label": "Married Isabella of France",
+        "labelCn": "迎娶法兰西的伊莎贝拉",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Theobald_II_of_Navarre",
+        "note": "Daughter of Louis IX, married at Melun; he later joined Louis IX's Eighth Crusade and died childless at Trapani in 1270."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Champagne",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Count_of_Champagne",
+    "sourceNote": "Wikipedia (Theobald II of Navarre), used for navigation.",
+    "notes": "King of Navarre and count of Champagne (1253–1270), who married Isabella of France, daughter of Louis IX. He joined Louis IX's Eighth Crusade and died childless at Trapani in 1270.",
+    "createdDate": "20260821",
+    "createdOrder": 13
+  },
+  {
+    "id": "c7140000-0000-4000-8000-000000000014",
+    "firstName": "Henry I of Navarre",
+    "lastName": "Champagne",
+    "displayName": "Henry I of Navarre",
+    "fullName": "Henry I, King of Navarre and Count of Champagne",
+    "displayNameCn": "亨利一世（纳瓦拉）",
+    "fullNameCn": "纳瓦拉国王兼香槟伯爵亨利一世",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1245,
+    "deathYear": 1274,
+    "birthPlace": "County of Champagne",
+    "birthPlaceCn": "香槟伯国",
+    "deathPlace": "France",
+    "deathPlaceCn": "法兰西",
+    "gender": "male",
+    "dynasty": "Blois dynasty",
+    "house": "House of Blois-Champagne",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "King of Navarre",
+    "primaryTitleCn": "纳瓦拉国王",
+    "titles": [
+      {
+        "title": "Count of Champagne",
+        "titleCn": "香槟伯爵",
+        "startYear": 1270,
+        "endYear": 1274
+      },
+      {
+        "title": "King of Navarre",
+        "titleCn": "纳瓦拉国王",
+        "startYear": 1270,
+        "endYear": 1274
+      }
+    ],
+    "tags": [
+      "count",
+      "noble"
+    ],
+    "rank": "king",
+    "importanceScore": 70,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1270,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 72,
+        "label": "Succeeded as King of Navarre / Count of Champagne",
+        "labelCn": "继承纳瓦拉国王与香槟伯爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Champagne"
+      },
+      {
+        "year": 1274,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 60,
+        "label": "Died",
+        "labelCn": "去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Champagne"
+      },
+      {
+        "year": 1269,
+        "month": 2,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 76,
+        "label": "Married Blanche of Artois",
+        "labelCn": "迎娶阿图瓦的布朗什",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_I_of_Navarre",
+        "note": "Daughter of Robert I, Count of Artois, and niece of Louis IX; their daughter Joan I united Navarre and Champagne with the French crown through her marriage to Philip IV."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Champagne",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Count_of_Champagne",
+    "sourceNote": "Britannica (Henry I of Navarre); Wikipedia (Henry I of Navarre), used for navigation.",
+    "notes": "King of Navarre and count of Champagne (1270–1274), called \"the Fat\", the last male of the Blois-Champagne line. His marriage to Blanche of Artois produced Joan I, whose union with Philip IV brought Navarre and Champagne to the French crown.",
+    "createdDate": "20260821",
+    "createdOrder": 14
+  },
+  {
+    "id": "c9570000-0000-4000-8000-000000000000",
+    "firstName": "Henry",
+    "lastName": "of Champagne",
+    "displayName": "Henry II of Champagne",
+    "fullName": "Henry II, Count of Champagne and King of Jerusalem",
+    "displayNameCn": "香槟的亨利二世",
+    "fullNameCn": "香槟伯爵兼耶路撒冷国王亨利二世",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1166,
+    "deathYear": 1197,
+    "birthPlace": "County of Champagne",
+    "birthPlaceCn": "香槟伯国",
+    "deathPlace": "Acre",
+    "deathPlaceCn": "阿卡",
+    "gender": "male",
+    "dynasty": "Blois dynasty",
+    "house": "House of Blois-Champagne",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Champagne and King of Jerusalem",
+    "primaryTitleCn": "香槟伯爵兼耶路撒冷国王",
+    "titles": [
+      {
+        "title": "Count of Champagne",
+        "titleCn": "香槟伯爵",
+        "startYear": 1181,
+        "endYear": 1197
+      },
+      {
+        "title": "King of Jerusalem",
+        "titleCn": "耶路撒冷国王",
+        "startYear": 1192,
+        "endYear": 1197
+      }
+    ],
+    "tags": [
+      "monarch",
+      "count",
+      "noble"
+    ],
+    "rank": "king",
+    "importanceScore": 70,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "c9460000-0000-4000-8000-000000000042"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "c9600000-0000-4000-8000-000000000000",
+        "c9610000-0000-4000-8000-000000000000"
+      ]
+    },
+    "events": [
+      {
+        "year": 1181,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 72,
+        "label": "Succeeded as Count of Champagne",
+        "labelCn": "继承香槟伯爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Champagne"
+      },
+      {
+        "year": 1190,
+        "type": "crusade",
+        "tags": [
+          "crusade",
+          "noble",
+          "commander"
+        ],
+        "weight": 70,
+        "label": "Joined the Third Crusade",
+        "labelCn": "参加第三次十字军东征",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_II,_Count_of_Champagne",
+        "note": "Count of Champagne, he came to the Holy Land in 1190 with the Third Crusade."
+      },
+      {
+        "year": 1192,
+        "month": 5,
+        "day": 5,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "king",
+          "marriage"
+        ],
+        "weight": 82,
+        "label": "King of Jerusalem jure uxoris",
+        "labelCn": "以妻权成为耶路撒冷国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_II,_Count_of_Champagne",
+        "note": "Married Isabella I on 5 May 1192, eight days after Conrad of Montferrat's assassination, and ruled the kingdom with her."
+      },
+      {
+        "year": 1197,
+        "month": 9,
+        "day": 10,
+        "type": "death",
+        "tags": [
+          "death",
+          "king",
+          "monarch"
+        ],
+        "weight": 78,
+        "label": "Death by fall from a window at Acre",
+        "labelCn": "在阿卡坠窗而亡",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_II,_Count_of_Champagne",
+        "note": "Died on 10 September 1197 after falling from a window of the royal palace at Acre."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Henry_II,_Count_of_Champagne",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Henry_II,_Count_of_Champagne",
+    "sourceNote": "Wikipedia (Henry II, Count of Champagne); Britannica, used for navigation.",
+    "notes": "Count of Champagne (1181–1197) and, by marriage to Isabella I, king of Jerusalem (1192–1197) jure uxoris. He died in 1197 after falling from a window of his palace at Acre.",
+    "createdDate": "20260822",
+    "createdOrder": 65
+  }
+]

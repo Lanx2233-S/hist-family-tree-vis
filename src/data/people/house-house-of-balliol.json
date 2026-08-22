@@ -1,0 +1,93 @@
+[
+  {
+    "id": "a954e43d-2b25-41e4-bbab-c73e0463c486",
+    "firstName": "John",
+    "lastName": "Balliol",
+    "displayName": "John Balliol",
+    "fullName": "John de Balliol",
+    "nickname": "",
+    "alsoKnownAs": [
+      "John Balliol",
+      "John de Balliol"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "约翰·巴里奥",
+    "fullNameCn": "约翰·巴里奥",
+    "birthYear": 1249,
+    "deathYear": 1314,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "male",
+    "dynasty": "House of Balliol",
+    "house": "House of Balliol",
+    "culture": "Scottish",
+    "faith": "Catholic",
+    "primaryTitle": "King of Scots",
+    "primaryTitleCn": "苏格兰人之王",
+    "titles": [
+      {
+        "title": "King of Scots",
+        "startYear": 1292,
+        "endYear": 1296,
+        "titleCn": "苏格兰人之王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1249,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/John_Balliol"
+      },
+      {
+        "year": 1292,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Began rule as King of Scots",
+        "labelCn": "开始担任苏格兰人之王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/John_Balliol"
+      },
+      {
+        "year": 1314,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/John_Balliol"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/John_Balliol",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/John_Balliol",
+    "sourceNote": "Core timeline generated from recorded lifespan and titles on 2026-08-20.",
+    "notes": "",
+    "createdDate": "20260819",
+    "createdOrder": 31
+  }
+]

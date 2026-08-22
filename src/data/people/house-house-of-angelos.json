@@ -1,0 +1,87 @@
+[
+  {
+    "id": "c9720000-0000-4000-8000-000000000000",
+    "firstName": "Theodora",
+    "lastName": "of Montferrat",
+    "displayName": "Theodora Angelina",
+    "fullName": "Theodora Angelina",
+    "displayNameCn": "狄奥多拉·安格洛斯",
+    "fullNameCn": "狄奥多拉·安格洛斯",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1165,
+    "deathYear": "",
+    "birthPlace": "Latin East",
+    "birthPlaceCn": "拉丁东方",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "female",
+    "dynasty": "House of Angelos",
+    "house": "House of Angelos",
+    "culture": "Frankish",
+    "faith": "Catholic",
+    "primaryTitle": "Byzantine noblewoman",
+    "primaryTitleCn": "拜占庭女贵族",
+    "titles": [
+      {
+        "title": "Byzantine noblewoman",
+        "titleCn": "拜占庭女贵族",
+        "startYear": "",
+        "endYear": ""
+      }
+    ],
+    "tags": [
+      "noble",
+      "consort"
+    ],
+    "rank": "noble",
+    "importanceScore": 45,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "c9560000-0000-4000-8000-000000000000"
+      ],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1187,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 76,
+        "label": "Married Conrad of Montferrat",
+        "labelCn": "与蒙费拉托的康拉德成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Theodora_Angelina",
+        "note": "Sister of Emperor Isaac II Angelos; married Conrad of Montferrat, who served her brother in Constantinople before departing for the Holy Land."
+      },
+      {
+        "year": 1185,
+        "type": "dynasty",
+        "tags": [
+          "dynasty",
+          "noble"
+        ],
+        "weight": 62,
+        "label": "Sister of Emperor Isaac II Angelos",
+        "labelCn": "伊萨克二世·安格洛斯的妹妹",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Theodora_Angelina",
+        "note": "Daughter of Andronikos Doukas Angelos; her brother Isaac II's accession in 1185 brought the Angelos family to the imperial throne."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Fulk_V,_Count_of_Anjou",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Fulk_V,_Count_of_Anjou",
+    "sourceNote": "Basic family card for the Montferrat and Jerusalem lineage.",
+    "notes": "Added while completing the Montferrat family.",
+    "createdDate": "20260822",
+    "createdOrder": 80
+  }
+]

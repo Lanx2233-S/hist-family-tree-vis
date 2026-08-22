@@ -1,0 +1,99 @@
+[
+  {
+    "id": "c9930000-0000-4000-8000-000000000000",
+    "firstName": "Margaret",
+    "lastName": "of Clermont",
+    "displayName": "Margaret of Clermont",
+    "fullName": "Margaret of Clermont",
+    "displayNameCn": "克莱蒙的玛格丽特",
+    "fullNameCn": "克莱蒙的玛格丽特，佛兰德伯爵夫人",
+    "nickname": "",
+    "nicknameCn": "",
+    "nicknameTags": [],
+    "alsoKnownAs": [],
+    "gender": "female",
+    "birthYear": 1104,
+    "deathYear": 1145,
+    "birthPlace": "Clermont-en-Beauvaisis",
+    "deathPlace": "Flanders",
+    "birthPlaceCn": "Clermont-en-Beauvaisis",
+    "deathPlaceCn": "Flanders",
+    "dynasty": "House of Clermont",
+    "house": "House of Clermont",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Countess of Flanders",
+    "primaryTitleCn": "佛兰德伯爵夫人",
+    "titles": [
+      {
+        "title": "Countess of Flanders",
+        "startYear": 1118,
+        "endYear": 1127,
+        "titleCn": "佛兰德伯爵夫人"
+      }
+    ],
+    "tags": [
+      "consort",
+      "noble"
+    ],
+    "rank": "noble",
+    "importanceScore": 40,
+    "wikiUrl": "https://en.wikipedia.org/wiki/Margaret_of_Clermont",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Margaret_of_Clermont",
+    "sourceNote": "",
+    "notes": "Wife of Charles the Good; their marriage produced no surviving children.",
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "c9870000-0000-4000-8000-000000000000"
+      ],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1118,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 75,
+        "label": "Married Charles the Good",
+        "labelCn": "嫁给善良的查理",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Margaret_of_Clermont",
+        "note": "Became Countess of Flanders."
+      },
+      {
+        "year": 1127,
+        "type": "political_crisis",
+        "tags": [
+          "political_crisis"
+        ],
+        "weight": 70,
+        "label": "Widowed by Charles's assassination",
+        "labelCn": "查理遇刺后守寡",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Margaret_of_Clermont",
+        "note": "Her husband Charles the Good was murdered in Bruges."
+      },
+      {
+        "year": 1145,
+        "type": "death",
+        "tags": [
+          "death",
+          "uncertain"
+        ],
+        "weight": 55,
+        "label": "Death",
+        "labelCn": "去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Margaret_of_Clermont",
+        "note": "Death date uncertain; some sources give 1132."
+      }
+    ],
+    "historicalRating": 5,
+    "createdDate": "20260823",
+    "createdOrder": 35
+  }
+]

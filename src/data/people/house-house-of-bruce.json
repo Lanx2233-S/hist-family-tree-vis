@@ -1,0 +1,294 @@
+[
+  {
+    "id": "d579ab42-fae4-4a29-9066-326b4e343746",
+    "firstName": "Robert",
+    "lastName": "Bruce",
+    "displayName": "Robert the Bruce",
+    "fullName": "Robert the Bruce",
+    "nickname": "the Bruce",
+    "alsoKnownAs": [
+      "Robert I",
+      "Robert I of Scotland",
+      "Robert de Brus"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "罗伯特·布鲁斯",
+    "fullNameCn": "罗伯特·布鲁斯",
+    "nicknameCn": "布鲁斯",
+    "birthYear": 1274,
+    "deathYear": 1329,
+    "birthPlace": "Turnberry, Scotland",
+    "birthPlaceCn": "苏格兰特恩贝里",
+    "deathPlace": "Cardross, Scotland",
+    "deathPlaceCn": "苏格兰卡德罗斯",
+    "gender": "male",
+    "dynasty": "House of Bruce",
+    "house": "House of Bruce",
+    "culture": "Scottish",
+    "faith": "Catholic",
+    "primaryTitle": "King of Scots",
+    "primaryTitleCn": "苏格兰人之王",
+    "titles": [
+      {
+        "title": "King of Scots",
+        "startYear": 1306,
+        "endYear": 1329,
+        "titleCn": "苏格兰人之王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 80,
+    "historicalRating": 8,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "161a5ed8-c32a-400e-accc-37a34b094d7e"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "933eb844-ee1f-4499-8d24-8c332e058ed9"
+      ]
+    },
+    "events": [
+      {
+        "year": 1274,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 60,
+        "label": "Born, heir to the Bruce claim",
+        "labelCn": "出生，布鲁斯家族的继承权主张者",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Robert_the_Bruce"
+      },
+      {
+        "year": 1306,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 90,
+        "label": "Crowned King of Scots at Scone",
+        "labelCn": "在斯昆加冕为苏格兰国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Robert_the_Bruce"
+      },
+      {
+        "year": 1314,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "defense",
+          "main_commander"
+        ],
+        "weight": 92,
+        "label": "Battle of Bannockburn",
+        "labelCn": "班诺克本之战",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Bannockburn",
+        "note": "Decisive victory over Edward II, securing Scottish independence."
+      },
+      {
+        "year": 1320,
+        "type": "government",
+        "tags": [
+          "government",
+          "law"
+        ],
+        "weight": 82,
+        "label": "Declaration of Arbroath",
+        "labelCn": "阿布罗斯宣言",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Declaration_of_Arbroath"
+      },
+      {
+        "year": 1328,
+        "type": "treaty",
+        "tags": [
+          "treaty",
+          "territory"
+        ],
+        "weight": 86,
+        "label": "Treaty of Edinburgh–Northampton",
+        "labelCn": "爱丁堡—北安普顿条约",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Treaty_of_Edinburgh%E2%80%93Northampton",
+        "note": "England recognised Scottish independence."
+      },
+      {
+        "year": 1329,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 95,
+        "label": "Died at Cardross",
+        "labelCn": "在卡德罗斯去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Robert_the_Bruce"
+      },
+      {
+        "year": 1306,
+        "month": 2,
+        "day": 10,
+        "type": "political_crisis",
+        "tags": [
+          "political_crisis",
+          "politics"
+        ],
+        "weight": 90,
+        "label": "Killing of John Comyn at Greyfriars Kirk, Dumfries",
+        "labelCn": "在邓弗里斯的灰衣修士教堂杀死约翰·科明",
+        "wikiUrl": "https://en.wikipedia.org/wiki/John_Comyn_III_of_Badenoch",
+        "note": "Bruce's killing of his rival Comyn removed the main obstacle to his seizure of the Scottish throne weeks later."
+      },
+      {
+        "year": 1307,
+        "month": 5,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "commander"
+        ],
+        "weight": 85,
+        "label": "Victory at the Battle of Loudoun Hill",
+        "labelCn": "卢登山之战获胜",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Loudoun_Hill"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Robert_the_Bruce",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Robert_the_Bruce",
+    "sourceNote": "Father Robert de Brus, 6th Lord of Annandale, is not yet in the roster. Son David II and wives are in later batches.",
+    "notes": "King of Scots who led Scotland to independence; victor of Bannockburn and secured recognition in the Treaty of Edinburgh–Northampton.",
+    "createdDate": "20260819",
+    "createdOrder": 32,
+    "deathCause": {
+      "kind": "uncertain",
+      "summary": "Died after a long illness; the leprosy tradition is disputed",
+      "summaryCn": "久病后去世；麻风之说存疑",
+      "detail": "Robert died at Cardross on 7 June 1329 after a serious illness attested from at least 1327. The traditional account that he suffered from leprosy is disputed by modern historians, who suggest tuberculosis, syphilis or another ailment, and note the leprosy claim may have been English political propaganda.",
+      "detailCn": "罗伯特于1329年6月7日在卡德罗斯去世，此前自1327年起已罹患重病。传统所谓他患有麻风病的说法受到现代史家质疑，学者多认为更可能是肺结核、梅毒或其他疾病，并指出麻风之说或为英格兰方面的政治宣传。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Robert_the_Bruce"
+    }
+  },
+  {
+    "id": "933eb844-ee1f-4499-8d24-8c332e058ed9",
+    "firstName": "David",
+    "lastName": "Bruce",
+    "displayName": "David II",
+    "fullName": "David II of Scotland",
+    "nickname": "",
+    "alsoKnownAs": [
+      "David II of Scotland"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "大卫二世",
+    "fullNameCn": "大卫二世",
+    "birthYear": 1324,
+    "deathYear": 1371,
+    "birthPlace": "Dunfermline, Scotland",
+    "birthPlaceCn": "苏格兰邓弗姆林",
+    "deathPlace": "Edinburgh, Scotland",
+    "deathPlaceCn": "苏格兰爱丁堡",
+    "gender": "male",
+    "dynasty": "House of Bruce",
+    "house": "House of Bruce",
+    "culture": "Scottish",
+    "faith": "Catholic",
+    "primaryTitle": "King of Scots",
+    "primaryTitleCn": "苏格兰人之王",
+    "titles": [
+      {
+        "title": "King of Scots",
+        "startYear": 1329,
+        "endYear": 1371,
+        "titleCn": "苏格兰人之王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 60,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "d579ab42-fae4-4a29-9066-326b4e343746",
+      "motherId": "161a5ed8-c32a-400e-accc-37a34b094d7e",
+      "spouseIds": [
+        "a11ba133-a2dc-4ed2-b995-95445837cf47"
+      ],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1324,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 60,
+        "label": "Born, son of Robert the Bruce",
+        "labelCn": "出生，罗伯特·布鲁斯之子",
+        "wikiUrl": "https://en.wikipedia.org/wiki/David_II_of_Scotland"
+      },
+      {
+        "year": 1329,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "monarch"
+        ],
+        "weight": 82,
+        "label": "Became king as a child",
+        "labelCn": "幼年继位",
+        "wikiUrl": "https://en.wikipedia.org/wiki/David_II_of_Scotland"
+      },
+      {
+        "year": 1346,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "defeat",
+          "imprisonment"
+        ],
+        "weight": 84,
+        "label": "Battle of Neville's Cross — captured",
+        "labelCn": "内维尔十字之战被俘",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Neville%27s_Cross"
+      },
+      {
+        "year": 1357,
+        "type": "treaty",
+        "tags": [
+          "treaty"
+        ],
+        "weight": 78,
+        "label": "Ransomed and released",
+        "labelCn": "被赎回释放",
+        "wikiUrl": "https://en.wikipedia.org/wiki/David_II_of_Scotland"
+      },
+      {
+        "year": 1371,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 92,
+        "label": "Died childless",
+        "labelCn": "无嗣去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/David_II_of_Scotland"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/David_II_of_Scotland",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/David_II_of_Scotland",
+    "sourceNote": "Son of Robert the Bruce; died childless, ending the main Bruce line.",
+    "notes": "Son of Robert the Bruce; king from childhood, held captive in England for eleven years before being ransomed.",
+    "createdDate": "20260819",
+    "createdOrder": 33
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "id": "31b9d25c-7816-49a5-a0d2-41dd07ba5b47",
+    "firstName": "Margaret",
+    "lastName": "of Denmark",
+    "displayName": "Margaret of Denmark",
+    "fullName": "Margaret of Denmark",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Margaret of Denmark"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "丹麦的玛格丽特",
+    "fullNameCn": "丹麦的玛格丽特",
+    "birthYear": 1456,
+    "deathYear": 1486,
+    "birthPlace": "Copenhagen, Denmark",
+    "birthPlaceCn": "丹麦哥本哈根",
+    "deathPlace": "Stirling, Scotland",
+    "deathPlaceCn": "苏格兰斯特灵",
+    "gender": "female",
+    "dynasty": "House of Oldenburg",
+    "house": "House of Oldenburg",
+    "culture": "Danish",
+    "faith": "Catholic",
+    "primaryTitle": "Queen consort of Scotland",
+    "primaryTitleCn": "苏格兰王后",
+    "titles": [
+      {
+        "title": "Queen consort of Scotland",
+        "startYear": 1469,
+        "endYear": 1486,
+        "titleCn": "苏格兰王后"
+      }
+    ],
+    "tags": [
+      "queen",
+      "consort"
+    ],
+    "rank": "queen",
+    "importanceScore": 52,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "896125f6-36ae-4969-a767-7f9e4863373b"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "0f7eebb4-756f-4120-a042-47ca23805d8e"
+      ]
+    },
+    "events": [
+      {
+        "year": 1456,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 60,
+        "label": "Born, daughter of Christian I",
+        "labelCn": "出生，克里斯蒂安一世之女",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Margaret_of_Denmark,_Queen_of_Scotland"
+      },
+      {
+        "year": 1469,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 76,
+        "label": "Married James III",
+        "labelCn": "嫁给詹姆斯三世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Margaret_of_Denmark,_Queen_of_Scotland"
+      },
+      {
+        "year": 1486,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 88,
+        "label": "Died",
+        "labelCn": "去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Margaret_of_Denmark,_Queen_of_Scotland"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Margaret_of_Denmark,_Queen_of_Scotland",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Margaret_of_Denmark,_Queen_of_Scotland",
+    "sourceNote": "Wife of James III and mother of James IV.",
+    "notes": "Queen consort of James III and mother of James IV.",
+    "createdDate": "20260819",
+    "createdOrder": 46
+  }
+]

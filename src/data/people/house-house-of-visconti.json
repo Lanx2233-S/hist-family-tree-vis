@@ -1,0 +1,103 @@
+[
+  {
+    "id": "e3e83c4b-9b96-4454-b1bc-1d4a1e2b655b",
+    "firstName": "Taddea",
+    "lastName": "Visconti",
+    "displayName": "Taddea Visconti",
+    "fullName": "Taddea Visconti",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Taddea Visconti",
+      "Thaddea Visconti"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "塔代亚·维斯孔蒂",
+    "fullNameCn": "塔代亚·维斯孔蒂",
+    "birthYear": 1351,
+    "deathYear": 1381,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "female",
+    "dynasty": "House of Visconti",
+    "house": "House of Visconti",
+    "culture": "Italian",
+    "faith": "Catholic",
+    "primaryTitle": "Duchess of Bavaria",
+    "primaryTitleCn": "巴伐利亚公爵夫人",
+    "titles": [
+      {
+        "title": "Duchess of Bavaria",
+        "startYear": 1365,
+        "endYear": 1381,
+        "titleCn": "巴伐利亚公爵夫人"
+      }
+    ],
+    "tags": [
+      "duchess",
+      "noble"
+    ],
+    "rank": "duchess",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "7f383104-7d38-4dd0-a109-dd1c9caa48ec"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "904d5881-253a-44ab-adbb-f0c9a786de58"
+      ]
+    },
+    "events": [
+      {
+        "year": 1364,
+        "month": 10,
+        "day": 13,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 76,
+        "label": "Married Stephen III of Bavaria",
+        "labelCn": "与巴伐利亚的斯蒂芬三世成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Taddea_Visconti",
+        "note": "Daughter of Bernabò Visconti of Milan; the match tied the Wittelsbachs to the Visconti lords of Milan."
+      },
+      {
+        "year": 1370,
+        "type": "childbirth",
+        "tags": [
+          "dynasty",
+          "succession"
+        ],
+        "weight": 64,
+        "label": "Birth of Isabeau of Bavaria",
+        "labelCn": "生下巴伐利亚的伊萨博",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Isabeau_of_Bavaria",
+        "note": "Gave birth to Isabeau, the future queen consort of Charles VI of France; her birth year is given as c. 1370."
+      },
+      {
+        "year": 1381,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 74,
+        "label": "Died",
+        "labelCn": "去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Taddea_Visconti",
+        "note": "Died in 1381, leaving her children including Isabeau and the future Louis VII of Bavaria-Ingolstadt."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Taddea_Visconti",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Taddea_Visconti",
+    "sourceNote": "Daughter of Bernabò Visconti of Milan; wife of Stephen III and mother of Isabeau of Bavaria.",
+    "notes": "Visconti of Milan; duchess of Bavaria by marriage and mother of Isabeau, queen of France.",
+    "createdDate": "20260823",
+    "createdOrder": 63
+  }
+]

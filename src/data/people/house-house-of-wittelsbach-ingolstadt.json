@@ -1,0 +1,211 @@
+[
+  {
+    "id": "904d5881-253a-44ab-adbb-f0c9a786de58",
+    "firstName": "Isabeau",
+    "lastName": "",
+    "displayName": "Isabeau of Bavaria",
+    "fullName": "Isabeau of Bavaria",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "巴伐利亚的伊莎博",
+    "fullNameCn": "巴伐利亚的伊莎博",
+    "nicknameCn": "",
+    "birthYear": 1370,
+    "deathYear": 1435,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "female",
+    "dynasty": "Wittelsbach dynasty",
+    "house": "House of Wittelsbach-Ingolstadt",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Queen of France",
+    "primaryTitleCn": "法兰西王后",
+    "titles": [
+      {
+        "title": "Queen of France",
+        "startYear": "",
+        "endYear": 1435,
+        "titleCn": "法兰西王后"
+      }
+    ],
+    "tags": [
+      "queen",
+      "consort"
+    ],
+    "rank": "queen",
+    "importanceScore": 60,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "7f383104-7d38-4dd0-a109-dd1c9caa48ec",
+      "motherId": "e3e83c4b-9b96-4454-b1bc-1d4a1e2b655b",
+      "spouseIds": [
+        "084fdbfa-b040-4629-98f4-5af678d317db"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "4482439c-eae6-4ec6-885a-ac48721ec552"
+      ]
+    },
+    "events": [
+      {
+        "year": 1370,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Isabeau_of_Bavaria"
+      },
+      {
+        "year": 1435,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Isabeau_of_Bavaria"
+      },
+      {
+        "year": 1420,
+        "month": 5,
+        "day": 21,
+        "type": "treaty",
+        "tags": [
+          "treaty",
+          "queen",
+          "politics",
+          "political_crisis"
+        ],
+        "weight": 90,
+        "label": "Treaty of Troyes",
+        "labelCn": "特鲁瓦条约",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Isabeau_of_Bavaria",
+        "note": "Signed the Treaty of Troyes, disinheriting the Dauphin Charles and recognizing Henry V of England as heir to the French throne."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Isabeau_of_Bavaria",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Isabeau_of_Bavaria",
+    "sourceNote": "Basic queen-consort card; relationship links synchronized with the French royal line.",
+    "notes": "Queen consort in the French royal succession.",
+    "createdDate": "20260820",
+    "createdOrder": 57
+  },
+  {
+    "id": "7f383104-7d38-4dd0-a109-dd1c9caa48ec",
+    "firstName": "Stephen",
+    "lastName": "",
+    "displayName": "Stephen III of Bavaria-Ingolstadt",
+    "fullName": "Stephen III, Duke of Bavaria-Ingolstadt",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Stephen III",
+      "Stephan III"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "巴伐利亚-因戈尔施塔特的斯蒂芬三世",
+    "fullNameCn": "巴伐利亚-因戈尔施塔特公爵斯蒂芬三世",
+    "birthYear": 1337,
+    "deathYear": 1413,
+    "birthPlace": "",
+    "deathPlace": "Niederschönenfeld, Germany",
+    "deathPlaceCn": "德意志下舍嫩费尔德",
+    "gender": "male",
+    "dynasty": "Wittelsbach dynasty",
+    "house": "House of Wittelsbach-Ingolstadt",
+    "culture": "German",
+    "faith": "Catholic",
+    "primaryTitle": "Duke of Bavaria-Ingolstadt",
+    "primaryTitleCn": "巴伐利亚-因戈尔施塔特公爵",
+    "titles": [
+      {
+        "title": "Duke of Bavaria",
+        "startYear": 1375,
+        "endYear": 1392,
+        "titleCn": "巴伐利亚公爵"
+      },
+      {
+        "title": "Duke of Bavaria-Ingolstadt",
+        "startYear": 1392,
+        "endYear": 1413,
+        "titleCn": "巴伐利亚-因戈尔施塔特公爵"
+      }
+    ],
+    "tags": [
+      "duke",
+      "noble"
+    ],
+    "rank": "duke",
+    "importanceScore": 60,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "c3a4c21b-7783-4f3d-8528-2b8962e1d9cc",
+      "motherId": "",
+      "spouseIds": [
+        "e3e83c4b-9b96-4454-b1bc-1d4a1e2b655b"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "904d5881-253a-44ab-adbb-f0c9a786de58"
+      ]
+    },
+    "events": [
+      {
+        "year": 1364,
+        "month": 10,
+        "day": 13,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 78,
+        "label": "Marriage to Taddea Visconti",
+        "labelCn": "与塔代亚·维斯孔蒂成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Stephen_III,_Duke_of_Bavaria",
+        "note": "Daughter of Bernabò Visconti of Milan; the union tied Bavaria to the Visconti. Mother of Isabeau of Bavaria."
+      },
+      {
+        "year": 1375,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title",
+          "noble"
+        ],
+        "weight": 76,
+        "label": "Succeeded as Duke of Bavaria",
+        "labelCn": "继位为巴伐利亚公爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Stephen_III,_Duke_of_Bavaria",
+        "note": "Succeeded his father Stephen II as Duke of Bavaria."
+      },
+      {
+        "year": 1392,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "succession",
+          "noble"
+        ],
+        "weight": 76,
+        "label": "Duke of Bavaria-Ingolstadt",
+        "labelCn": "成为巴伐利亚-因戈尔施塔特公爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Stephen_III,_Duke_of_Bavaria",
+        "note": "The 1392 partition split Bavaria into three duchies; Stephen received Bavaria-Ingolstadt."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Stephen_III,_Duke_of_Bavaria",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Stephen_III,_Duke_of_Bavaria",
+    "sourceNote": "Son of Stephen II; duke of Bavaria-Ingolstadt after the 1392 partition; father of Isabeau of Bavaria.",
+    "notes": "Duke of Bavaria-Ingolstadt and father of Isabeau, who married Charles VI of France.",
+    "createdDate": "20260823",
+    "createdOrder": 62
+  }
+]

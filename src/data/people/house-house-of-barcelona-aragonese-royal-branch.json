@@ -1,0 +1,214 @@
+[
+  {
+    "id": "34ddbe50-21e8-481f-93f4-f1a3cc000c1f",
+    "firstName": "Constance",
+    "lastName": "of Aragon",
+    "displayName": "Constance of Aragon",
+    "fullName": "Constance of Aragon",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Constanza of Aragon",
+      "Constança d'Aragó",
+      "Konstanze von Aragón"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "阿拉贡的康斯坦丝",
+    "fullNameCn": "阿拉贡的康斯坦丝",
+    "nicknameCn": "",
+    "birthYear": 1184,
+    "deathYear": 1222,
+    "birthPlace": "Crown of Aragon",
+    "birthPlaceCn": "阿拉贡王冠领地",
+    "deathPlace": "Catania, Kingdom of Sicily",
+    "deathPlaceCn": "西西里王国卡塔尼亚",
+    "gender": "female",
+    "dynasty": "Barcelona dynasty",
+    "house": "House of Barcelona, Aragonese royal branch",
+    "culture": "Aragonese-Catalan",
+    "faith": "Catholic",
+    "primaryTitle": "Holy Roman Empress",
+    "primaryTitleCn": "神圣罗马帝国皇后",
+    "titles": [
+      {
+        "title": "Queen consort of Hungary",
+        "titleCn": "匈牙利王后",
+        "startYear": 1196,
+        "endYear": 1204
+      },
+      {
+        "title": "Queen consort of Sicily",
+        "titleCn": "西西里王后",
+        "startYear": 1209,
+        "endYear": 1222
+      },
+      {
+        "title": "Queen consort of Germany",
+        "titleCn": "德意志王后",
+        "startYear": 1212,
+        "endYear": 1222
+      },
+      {
+        "title": "Regent of Sicily",
+        "titleCn": "西西里摄政",
+        "startYear": 1212,
+        "endYear": 1216
+      },
+      {
+        "title": "Holy Roman Empress",
+        "titleCn": "神圣罗马帝国皇后",
+        "startYear": 1220,
+        "endYear": 1222
+      }
+    ],
+    "tags": [
+      "queen",
+      "consort",
+      "noble"
+    ],
+    "rank": "queen",
+    "importanceScore": 84,
+    "historicalRating": 8,
+    "relationships": {
+      "fatherId": "c9950000-0000-4000-8000-000000000005",
+      "motherId": "",
+      "spouseIds": [
+        "ea19e505-86fe-4cb7-8e55-c42e9f0ebfd3"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "94df728a-05ee-4aef-a962-fb35d1ab0735"
+      ]
+    },
+    "events": [
+      {
+        "year": 1196,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 80,
+        "label": "Married King Emeric of Hungary",
+        "labelCn": "与匈牙利国王伊姆雷结婚",
+        "wikiUrl": "https://www.deutsche-biographie.de/gnd136421490.html",
+        "note": "The marriage linked Constance of the House of Barcelona to King Emeric and the Árpád dynasty of Hungary; it is usually placed in 1196, although some older works use 1198."
+      },
+      {
+        "year": 1200,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "dynasty"
+        ],
+        "weight": 80,
+        "label": "Gave birth to the future Ladislaus III of Hungary",
+        "labelCn": "生下后来成为匈牙利国王的拉斯洛三世",
+        "wikiUrl": "https://www.deutsche-biographie.de/gnd136421490.html",
+        "note": "Her son Ladislaus III later became King of Hungary; the exact birth date is not securely fixed and the year is approximate."
+      },
+      {
+        "year": 1204,
+        "type": "politics",
+        "tags": [
+          "politics"
+        ],
+        "weight": 85,
+        "label": "Fled Hungary with the child-king Ladislaus III",
+        "labelCn": "带着幼王拉斯洛三世逃离匈牙利",
+        "wikiUrl": "https://www.deutsche-biographie.de/gnd136421490.html",
+        "note": "After Emeric's death, conflict with Andrew II forced Constance and the child king Ladislaus III to flee Hungary and seek the protection of Leopold VI of Austria."
+      },
+      {
+        "year": 1205,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "dynasty"
+        ],
+        "weight": 85,
+        "label": "Lost her son Ladislaus III and returned toward Aragon",
+        "labelCn": "拉斯洛三世去世后离开中欧并返回阿拉贡方向",
+        "wikiUrl": "https://www.deutsche-biographie.de/gnd136421490.html",
+        "month": 5,
+        "day": 7,
+        "note": "The death of Ladislaus III ended Constance's first queenly line and returned the Hungarian crown to Andrew II; Constance subsequently left Central Europe toward Aragon."
+      },
+      {
+        "year": 1209,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 95,
+        "label": "Married Frederick II, King of Sicily",
+        "labelCn": "与西西里国王腓特烈二世结婚",
+        "wikiUrl": "https://www.deutsche-biographie.de/gnd136421490.html",
+        "note": "The marriage to Frederick II followed a 1208 agreement and was celebrated at Palermo in late August 1209, linking the Aragonese and Hohenstaufen dynasties."
+      },
+      {
+        "year": 1211,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "dynasty"
+        ],
+        "weight": 95,
+        "label": "Gave birth to Henry (VII)",
+        "labelCn": "生下亨利（七世）",
+        "wikiUrl": "https://www.deutsche-biographie.de/gnd136421490.html",
+        "note": "Her son Henry (VII) later became Frederick II's subordinate King of Germany."
+      },
+      {
+        "year": 1212,
+        "type": "regency",
+        "tags": [
+          "regency",
+          "government"
+        ],
+        "weight": 90,
+        "label": "Became regent in Sicily while Frederick pursued the German crown",
+        "labelCn": "腓特烈北上争夺德意志王位后担任西西里摄政",
+        "wikiUrl": "https://www.deutsche-biographie.de/gnd136421490.html",
+        "note": "Constance remained in Sicily as a major governing figure while Frederick II pursued the German crown, until she rejoined him in Germany in 1216."
+      },
+      {
+        "year": 1220,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "queen"
+        ],
+        "weight": 100,
+        "label": "Was crowned Holy Roman Empress in Rome",
+        "labelCn": "在罗马加冕为神圣罗马帝国皇后",
+        "wikiUrl": "https://www.deutsche-biographie.de/gnd136421490.html",
+        "month": 11,
+        "day": 22,
+        "note": "Constance received the imperial coronation in Rome alongside Frederick II."
+      },
+      {
+        "year": 1222,
+        "type": "death",
+        "tags": [
+          "death",
+          "queen"
+        ],
+        "weight": 70,
+        "label": "Died at Catania and was buried in Palermo Cathedral",
+        "labelCn": "在卡塔尼亚去世并葬于巴勒莫大教堂",
+        "wikiUrl": "https://www.deutsche-biographie.de/gnd136421490.html",
+        "month": 6,
+        "day": 23,
+        "note": "Constance died at Catania in the Kingdom of Sicily and was buried in Palermo Cathedral."
+      }
+    ],
+    "wikiUrl": "https://www.deutsche-biographie.de/gnd136421490.html",
+    "portraitUrl": "",
+    "sourceUrl": "https://www.deutsche-biographie.de/gnd136421490.html",
+    "sourceNote": "Deutsche Biographie Online, 'Konstanze von Aragón'; Wolfgang Stürner, Friedrich II.; David Abulafia, Frederick II: A Medieval Emperor; Hungarian royal chronology for Emeric and Ladislaus III.",
+    "notes": "Constance linked the Barcelona-Aragon, Árpád, and Hohenstaufen dynasties in two successive royal marriages. During Frederick II's German expedition she remained behind as a significant regent in Sicily and was the mother of Henry (VII).\n\nConfidence / caveats: A major chronology correction is required: recent Deutsche Biographie Online gives birth in 1183/84, whereas many older reference works repeat 1179. This card therefore uses 1184 with the caveat that it is approximate. The first marriage is usually dated 1196 but some older sources use 1198. The precise beginning and constitutional scope of her Sicilian regency are described somewhat differently in the literature.\n\nUnlinked family (not in roster): mother: Sancha of Castile; spouse: Emeric of Hungary; child: Ladislaus III of Hungary",
+    "createdDate": "20260823",
+    "createdOrder": 119
+  }
+]

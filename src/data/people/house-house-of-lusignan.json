@@ -1,0 +1,398 @@
+[
+  {
+    "id": "c9510000-0000-4000-8000-000000000000",
+    "firstName": "Guy",
+    "lastName": "of Jerusalem",
+    "displayName": "Guy of Lusignan",
+    "fullName": "Guy of Lusignan, King of Jerusalem",
+    "displayNameCn": "居伊·德·吕西尼昂",
+    "fullNameCn": "耶路撒冷国王居伊·德·吕西尼昂",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1150,
+    "deathYear": 1194,
+    "birthPlace": "Latin East",
+    "birthPlaceCn": "拉丁东方",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "House of Lusignan",
+    "house": "House of Lusignan",
+    "culture": "Frankish",
+    "faith": "Catholic",
+    "primaryTitle": "King of Jerusalem",
+    "primaryTitleCn": "耶路撒冷国王",
+    "titles": [
+      {
+        "title": "King of Jerusalem",
+        "titleCn": "耶路撒冷国王",
+        "startYear": "",
+        "endYear": 1194
+      }
+    ],
+    "tags": [
+      "monarch",
+      "commander",
+      "noble"
+    ],
+    "rank": "king",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "c9450000-0000-4000-8000-000000000041"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "c9530000-0000-4000-8000-000000000000",
+        "c9540000-0000-4000-8000-000000000000"
+      ]
+    },
+    "events": [
+      {
+        "year": 1186,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "king",
+          "monarch"
+        ],
+        "weight": 84,
+        "label": "Crowned King of Jerusalem with Sibylla",
+        "labelCn": "与西比拉一同加冕为耶路撒冷国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Guy_of_Lusignan",
+        "note": "After Baldwin V's death his wife Sibylla was crowned queen and placed the crown on Guy's head, making him king jure uxoris."
+      },
+      {
+        "year": 1187,
+        "month": 7,
+        "day": 4,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "defeat",
+          "commander",
+          "crusade"
+        ],
+        "weight": 96,
+        "label": "Battle of Hattin — captured by Saladin",
+        "labelCn": "哈丁战役——被萨拉丁俘虏",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Hattin",
+        "note": "Guy led the Frankish host to catastrophic defeat at Hattin on 4 July 1187 and was taken prisoner; Jerusalem fell that October."
+      },
+      {
+        "year": 1192,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "noble",
+          "territory"
+        ],
+        "weight": 78,
+        "label": "Became Lord of Cyprus",
+        "labelCn": "成为塞浦路斯领主",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Guy_of_Lusignan",
+        "note": "After losing the kingship, Guy purchased Cyprus from the Templars in 1192 and ruled it until his death in 1194."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Fulk_V,_Count_of_Anjou",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Fulk_V,_Count_of_Anjou",
+    "sourceNote": "Basic family card for the Kingdom of Jerusalem lineage.",
+    "notes": "Added for the Jerusalem title lineage.",
+    "createdDate": "20260822",
+    "createdOrder": 59
+  },
+  {
+    "id": "c9580000-0000-4000-8000-000000000000",
+    "firstName": "Aimery",
+    "lastName": "of Jerusalem",
+    "displayName": "Aimery of Lusignan",
+    "fullName": "Aimery of Lusignan, King of Jerusalem",
+    "displayNameCn": "吕西尼昂的埃默里",
+    "fullNameCn": "耶路撒冷国王吕西尼昂的埃默里",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1145,
+    "deathYear": 1205,
+    "birthPlace": "Latin East",
+    "birthPlaceCn": "拉丁东方",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "House of Lusignan",
+    "house": "House of Lusignan",
+    "culture": "Frankish",
+    "faith": "Catholic",
+    "primaryTitle": "King of Jerusalem",
+    "primaryTitleCn": "耶路撒冷国王",
+    "titles": [
+      {
+        "title": "King of Jerusalem",
+        "titleCn": "耶路撒冷国王",
+        "startYear": "",
+        "endYear": 1205
+      }
+    ],
+    "tags": [
+      "monarch",
+      "commander",
+      "noble"
+    ],
+    "rank": "king",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "c9460000-0000-4000-8000-000000000042"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "c9620000-0000-4000-8000-000000000000",
+        "c9630000-0000-4000-8000-000000000000"
+      ]
+    },
+    "events": [
+      {
+        "year": 1197,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "king",
+          "monarch"
+        ],
+        "weight": 84,
+        "label": "Crowned King of Cyprus",
+        "labelCn": "加冕为塞浦路斯国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Aimery_of_Cyprus",
+        "note": "Lord of Cyprus since 1194 (on the death of his brother Guy), Aimery received the royal crown from Emperor Henry VI in 1197."
+      },
+      {
+        "year": 1198,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "king",
+          "monarch"
+        ],
+        "weight": 86,
+        "label": "Married Isabella I of Jerusalem and became King of Jerusalem",
+        "labelCn": "与伊莎贝拉一世成婚并成为耶路撒冷国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Aimery_of_Cyprus",
+        "note": "As Isabella I's fourth husband he was crowned king-consort of Jerusalem in 1198, uniting the crowns of Cyprus and Jerusalem."
+      },
+      {
+        "year": 1205,
+        "type": "death",
+        "tags": [
+          "death",
+          "king",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Death at Acre",
+        "labelCn": "在阿克去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Aimery_of_Cyprus",
+        "note": "Died on 1 April 1205 at Acre, leaving Cyprus to his son Hugh I and the Jerusalem succession to his stepdaughter Maria of Montferrat."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Fulk_V,_Count_of_Anjou",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Fulk_V,_Count_of_Anjou",
+    "sourceNote": "Basic family card for the Kingdom of Jerusalem lineage.",
+    "notes": "Added for the Jerusalem title lineage.",
+    "createdDate": "20260822",
+    "createdOrder": 66
+  },
+  {
+    "id": "c9620000-0000-4000-8000-000000000000",
+    "firstName": "Sibylla",
+    "lastName": "of Jerusalem",
+    "displayName": "Sibylla of Lusignan",
+    "fullName": "Sibylla of Lusignan",
+    "displayNameCn": "吕西尼昂的西比拉",
+    "fullNameCn": "吕西尼昂的西比拉",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1198,
+    "deathYear": 1230,
+    "birthPlace": "Latin East",
+    "birthPlaceCn": "拉丁东方",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "female",
+    "dynasty": "House of Lusignan",
+    "house": "House of Lusignan",
+    "culture": "Frankish",
+    "faith": "Catholic",
+    "primaryTitle": "Princess of Jerusalem",
+    "primaryTitleCn": "耶路撒冷公主",
+    "titles": [
+      {
+        "title": "Princess of Jerusalem",
+        "titleCn": "耶路撒冷公主",
+        "startYear": "",
+        "endYear": 1230
+      }
+    ],
+    "tags": [
+      "princess",
+      "noble"
+    ],
+    "rank": "princess",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "c9580000-0000-4000-8000-000000000000",
+      "motherId": "c9460000-0000-4000-8000-000000000042",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1210,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "queen",
+          "dynastic_alliance"
+        ],
+        "weight": 76,
+        "label": "Married Leo I of Armenia",
+        "labelCn": "与亚美尼亚的利奥一世成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Sibylla_of_Lusignan",
+        "note": "Became queen consort of Cilician Armenia as the second wife of King Leo I (Levon II)."
+      },
+      {
+        "year": 1219,
+        "type": "political_crisis",
+        "tags": [
+          "political_crisis",
+          "succession",
+          "queen"
+        ],
+        "weight": 74,
+        "label": "Claimed the Armenian throne after Leo's death",
+        "labelCn": "利奥去世后争夺亚美尼亚王位",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Sibylla_of_Lusignan",
+        "note": "On Leo I's death in 1219 Sibylla claimed Armenia for herself but was exiled by the regent Constantine of Baberon; her daughter Isabella succeeded."
+      },
+      {
+        "year": 1230,
+        "type": "death",
+        "tags": [
+          "death",
+          "queen",
+          "uncertain"
+        ],
+        "weight": 62,
+        "label": "Death",
+        "labelCn": "去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Sibylla_of_Lusignan",
+        "note": "Died in the 1230s (sources vary between 1225 and c. 1230); buried at Akner Monastery in Cilicia."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Fulk_V,_Count_of_Anjou",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Fulk_V,_Count_of_Anjou",
+    "sourceNote": "Basic family card for the Kingdom of Jerusalem lineage.",
+    "notes": "Added for the Jerusalem title lineage.",
+    "createdDate": "20260822",
+    "createdOrder": 70
+  },
+  {
+    "id": "c9630000-0000-4000-8000-000000000000",
+    "firstName": "Melisende",
+    "lastName": "of Jerusalem",
+    "displayName": "Melisende of Lusignan",
+    "fullName": "Melisende of Lusignan",
+    "displayNameCn": "吕西尼昂的梅利桑德",
+    "fullNameCn": "吕西尼昂的梅利桑德",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1200,
+    "deathYear": 1249,
+    "birthPlace": "Latin East",
+    "birthPlaceCn": "拉丁东方",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "female",
+    "dynasty": "House of Lusignan",
+    "house": "House of Lusignan",
+    "culture": "Frankish",
+    "faith": "Catholic",
+    "primaryTitle": "Princess of Jerusalem",
+    "primaryTitleCn": "耶路撒冷公主",
+    "titles": [
+      {
+        "title": "Princess of Jerusalem",
+        "titleCn": "耶路撒冷公主",
+        "startYear": "",
+        "endYear": 1249
+      }
+    ],
+    "tags": [
+      "princess",
+      "noble"
+    ],
+    "rank": "princess",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "c9580000-0000-4000-8000-000000000000",
+      "motherId": "c9460000-0000-4000-8000-000000000042",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1218,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "noble",
+          "dynastic_alliance"
+        ],
+        "weight": 74,
+        "label": "Married Bohemond IV of Antioch",
+        "labelCn": "与安条克的博希蒙德四世成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Melisende_of_Lusignan",
+        "note": "Married Prince Bohemond IV of Antioch in January 1218 at Tripoli, becoming princess consort of Antioch."
+      },
+      {
+        "year": 1246,
+        "type": "political_crisis",
+        "tags": [
+          "political_crisis",
+          "politics"
+        ],
+        "weight": 62,
+        "label": "Protested Henry I's regency of Jerusalem",
+        "labelCn": "抗议亨利一世摄政耶路撒冷",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Melisende_of_Lusignan",
+        "note": "After her half-sister Alice's death in 1246, Melisende protested the succession of her nephew Henry I as regent of Jerusalem; she died after 1249."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Fulk_V,_Count_of_Anjou",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Fulk_V,_Count_of_Anjou",
+    "sourceNote": "Basic family card for the Kingdom of Jerusalem lineage.",
+    "notes": "Added for the Jerusalem title lineage.",
+    "createdDate": "20260822",
+    "createdOrder": 71
+  }
+]

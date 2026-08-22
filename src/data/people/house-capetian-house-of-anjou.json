@@ -1,0 +1,663 @@
+[
+  {
+    "id": "b311455b-ff52-423e-bd27-5c513759778e",
+    "firstName": "Clementia",
+    "lastName": "",
+    "displayName": "Clementia of Hungary",
+    "fullName": "Clementia of Hungary",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "匈牙利的克莱芒丝",
+    "fullNameCn": "匈牙利的克莱芒丝",
+    "nicknameCn": "",
+    "birthYear": 1293,
+    "deathYear": 1328,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "female",
+    "dynasty": "Capetian dynasty",
+    "house": "Capetian House of Anjou",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Queen of France",
+    "primaryTitleCn": "法兰西王后",
+    "titles": [
+      {
+        "title": "Queen of France",
+        "startYear": "",
+        "endYear": 1328,
+        "titleCn": "法兰西王后"
+      }
+    ],
+    "tags": [
+      "queen",
+      "consort"
+    ],
+    "rank": "queen",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "f0d935d4-8efa-482c-bccb-ac105babc10d"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "39979ed9-fafd-48f0-96d7-30f40e80f51b"
+      ]
+    },
+    "events": [
+      {
+        "year": 1293,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Clementia_of_Hungary"
+      },
+      {
+        "year": 1328,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Clementia_of_Hungary"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Clementia_of_Hungary",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Clementia_of_Hungary",
+    "sourceNote": "Basic queen-consort card; relationship links synchronized with the French royal line.",
+    "notes": "Queen consort in the French royal succession.",
+    "createdDate": "20260820",
+    "createdOrder": 47
+  },
+  {
+    "id": "c1001000-0000-4000-8000-000000000011",
+    "firstName": "Charles",
+    "lastName": "of Anjou",
+    "displayName": "Charles I of Anjou",
+    "fullName": "Charles I of Anjou",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "安茹的查理一世",
+    "fullNameCn": "安茹的查理一世",
+    "nicknameCn": "",
+    "birthYear": 1226,
+    "deathYear": 1285,
+    "birthPlace": "Provence",
+    "birthPlaceCn": "普罗旺斯",
+    "deathPlace": "Foggia, Kingdom of Naples",
+    "deathPlaceCn": "那不勒斯王国福贾",
+    "gender": "male",
+    "dynasty": "Capetian dynasty",
+    "house": "Capetian House of Anjou",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Provence",
+    "primaryTitleCn": "普罗旺斯伯爵",
+    "titles": [
+      {
+        "title": "Count of Provence",
+        "titleCn": "普罗旺斯伯爵",
+        "startYear": 1246,
+        "endYear": 1285
+      }
+    ],
+    "tags": [
+      "count",
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 80,
+    "historicalRating": 8,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "c1000000-0000-4000-8000-000000000010"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "c1002000-0000-4000-8000-000000000012"
+      ]
+    },
+    "events": [
+      {
+        "year": 1246,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 76,
+        "label": "Married Beatrice of Provence",
+        "labelCn": "与普罗旺斯的贝亚特丽斯成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Beatrice_of_Provence"
+      },
+      {
+        "year": 1246,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "territory"
+        ],
+        "weight": 78,
+        "label": "Became Count of Anjou, Maine and Provence",
+        "labelCn": "成为安茹、曼恩与普罗旺斯伯爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Charles_I_of_Anjou"
+      },
+      {
+        "year": 1265,
+        "type": "crusade",
+        "tags": [
+          "crusade",
+          "campaign",
+          "commander"
+        ],
+        "weight": 88,
+        "label": "Invaded the Kingdom of Sicily against Manfred",
+        "labelCn": "进军西西里王国讨伐曼弗雷德",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Charles_I_of_Anjou"
+      },
+      {
+        "year": 1266,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "king",
+          "monarch"
+        ],
+        "weight": 82,
+        "label": "Crowned King of Sicily",
+        "labelCn": "加冕为西西里国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Charles_I_of_Anjou"
+      },
+      {
+        "year": 1266,
+        "month": 2,
+        "day": 26,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "commander",
+          "conquest"
+        ],
+        "weight": 95,
+        "label": "Defeated and killed Manfred at Benevento",
+        "labelCn": "在贝内文托之战击败并杀曼弗雷德",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Benevento"
+      },
+      {
+        "year": 1268,
+        "month": 8,
+        "day": 23,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "commander",
+          "defeat"
+        ],
+        "weight": 93,
+        "label": "Defeated Conradin at Tagliacozzo",
+        "labelCn": "在塔利亚科佐之战击败康拉丁",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Tagliacozzo"
+      },
+      {
+        "year": 1277,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "territory"
+        ],
+        "weight": 70,
+        "label": "Acquired a claim to the Kingdom of Jerusalem",
+        "labelCn": "购得耶路撒冷王国王位继承权",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Charles_I_of_Anjou"
+      },
+      {
+        "year": 1282,
+        "type": "political_crisis",
+        "tags": [
+          "political_crisis",
+          "rebellion",
+          "war",
+          "defeat"
+        ],
+        "weight": 94,
+        "label": "Lost Sicily in the Sicilian Vespers",
+        "labelCn": "在西西里晚祷中失去西西里",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Sicilian_Vespers",
+        "note": "The revolt broke out at Easter Monday (30 March 1282) and invited Peter III of Aragon to take the island."
+      },
+      {
+        "year": 1285,
+        "month": 1,
+        "day": 7,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 90,
+        "label": "Died at Foggia",
+        "labelCn": "在福贾去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Charles_I_of_Anjou"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Charles_I_of_Anjou",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Charles_I_of_Anjou",
+    "sourceNote": "King of Sicily and founder of Angevin Naples; sources: Britannica 'Charles I of Naples and Sicily' and Wikipedia 'Charles I of Anjou'.",
+    "notes": "Younger brother of Louis IX who conquered the Hohenstaufen kingdom of southern Italy at Benevento (1266) and Tagliacozzo (1268), founding the Angevin dynasty of Naples. His heavy taxation and oppressive officials provoked the Sicilian Vespers (1282), which cost him Sicily to Peter III of Aragon, though he retained Naples. He also held Provence by marriage and later bought a claim to the Kingdom of Jerusalem.",
+    "createdDate": "20260823",
+    "createdOrder": 29
+  },
+  {
+    "id": "c1002000-0000-4000-8000-000000000012",
+    "firstName": "Charles",
+    "lastName": "of Anjou",
+    "displayName": "Charles II of Anjou",
+    "fullName": "Charles II of Anjou",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "安茹的查理二世",
+    "fullNameCn": "安茹的查理二世",
+    "nicknameCn": "",
+    "birthYear": 1254,
+    "deathYear": 1309,
+    "birthPlace": "Provence",
+    "birthPlaceCn": "普罗旺斯",
+    "deathPlace": "Naples",
+    "deathPlaceCn": "那不勒斯",
+    "gender": "male",
+    "dynasty": "Capetian dynasty",
+    "house": "Capetian House of Anjou",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Provence",
+    "primaryTitleCn": "普罗旺斯伯爵",
+    "titles": [
+      {
+        "title": "Count of Provence",
+        "titleCn": "普罗旺斯伯爵",
+        "startYear": 1285,
+        "endYear": 1309
+      }
+    ],
+    "tags": [
+      "count",
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 60,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "c1001000-0000-4000-8000-000000000011",
+      "motherId": "c1000000-0000-4000-8000-000000000010",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "c1003000-0000-4000-8000-000000000013"
+      ]
+    },
+    "events": [
+      {
+        "year": 1284,
+        "month": 6,
+        "day": 5,
+        "type": "imprisonment",
+        "tags": [
+          "imprisonment",
+          "defeat",
+          "war"
+        ],
+        "weight": 90,
+        "label": "Captured at the Battle of the Gulf of Naples",
+        "labelCn": "在那不勒斯湾海战中被俘",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_the_Gulf_of_Naples",
+        "note": "Commanding the Angevin fleet as Prince of Salerno, he was defeated and taken prisoner by the Aragonese admiral Roger of Lauria."
+      },
+      {
+        "year": 1289,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "king",
+          "monarch"
+        ],
+        "weight": 82,
+        "label": "Crowned King of Sicily (Naples)",
+        "labelCn": "加冕为西西里（那不勒斯）国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Charles_II_of_Naples",
+        "note": "After his release in 1288, Pope Nicholas IV absolved him of his promises and crowned him king at Rieti in 1289."
+      },
+      {
+        "year": 1309,
+        "month": 5,
+        "day": 5,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 85,
+        "label": "Death at Naples",
+        "labelCn": "在那不勒斯去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Charles_II_of_Naples",
+        "note": "Died on 5 May 1309 in Naples and was succeeded by his son Robert the Wise."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Charles_II_of_Naples",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Charles_II_of_Naples",
+    "sourceNote": "Wikipedia 'Charles II of Naples'; Encyclopædia Britannica (cross-checked).",
+    "notes": "Son of Charles I of Anjou, he succeeded his father in 1285 while a prisoner of the Aragonese after the naval defeat of 1284, and was crowned king only after his release in 1288. By the Treaty of Caltabellotta (1302) he renounced Sicily while retaining Naples and Provence.",
+    "createdDate": "20260823",
+    "createdOrder": 30
+  },
+  {
+    "id": "c1003000-0000-4000-8000-000000000013",
+    "firstName": "Robert",
+    "lastName": "of Anjou",
+    "displayName": "Robert of Anjou",
+    "fullName": "Robert of Anjou",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "安茹的罗贝尔",
+    "fullNameCn": "安茹的罗贝尔",
+    "nicknameCn": "",
+    "birthYear": 1277,
+    "deathYear": 1343,
+    "birthPlace": "Provence",
+    "birthPlaceCn": "普罗旺斯",
+    "deathPlace": "Naples, Kingdom of Naples",
+    "deathPlaceCn": "那不勒斯王国那不勒斯",
+    "gender": "male",
+    "dynasty": "Capetian dynasty",
+    "house": "Capetian House of Anjou",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Provence",
+    "primaryTitleCn": "普罗旺斯伯爵",
+    "titles": [
+      {
+        "title": "Count of Provence",
+        "titleCn": "普罗旺斯伯爵",
+        "startYear": 1309,
+        "endYear": 1343
+      }
+    ],
+    "tags": [
+      "count",
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 70,
+    "historicalRating": 7,
+    "relationships": {
+      "fatherId": "c1002000-0000-4000-8000-000000000012",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1296,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "religion",
+          "title"
+        ],
+        "weight": 72,
+        "label": "Became heir as Duke of Calabria after Louis of Toulouse renounced",
+        "labelCn": "在图卢兹的路易弃位后成为继承人、卡拉布里亚公爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Louis_of_Toulouse",
+        "note": "His elder brother Louis renounced the succession to enter the Franciscan order."
+      },
+      {
+        "year": 1309,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "king",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Succeeded as King of Naples and Count of Provence",
+        "labelCn": "继承那不勒斯王位并成为普罗旺斯伯爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Robert,_King_of_Naples"
+      },
+      {
+        "year": 1313,
+        "type": "war",
+        "tags": [
+          "war",
+          "political_crisis",
+          "politics"
+        ],
+        "weight": 80,
+        "label": "Opposed Emperor Henry VII's Italian expedition",
+        "labelCn": "反对皇帝亨利七世远征意大利",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Robert,_King_of_Naples"
+      },
+      {
+        "year": 1341,
+        "type": "government",
+        "tags": [
+          "government"
+        ],
+        "weight": 64,
+        "label": "Examined Petrarch before his poet-laureate coronation",
+        "labelCn": "在彼特拉克加冕桂冠诗人前主持其考核",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Petrarch"
+      },
+      {
+        "year": 1343,
+        "month": 1,
+        "day": 20,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 90,
+        "label": "Died at Naples",
+        "labelCn": "在那不勒斯去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Robert,_King_of_Naples"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Robert,_King_of_Naples",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Robert,_King_of_Naples",
+    "sourceNote": "Basic card for the County of Provence succession.",
+    "notes": "Angevin ruler of Naples and Provence; the county remained a distinct imperial fief in the Angevin inheritance.",
+    "createdDate": "20260823",
+    "createdOrder": 31
+  },
+  {
+    "id": "c1004000-0000-4000-8000-000000000014",
+    "firstName": "Joanna",
+    "lastName": "of Naples",
+    "displayName": "Joanna I of Naples",
+    "fullName": "Joanna I of Naples",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "那不勒斯的乔万娜一世",
+    "fullNameCn": "那不勒斯的乔万娜一世",
+    "nicknameCn": "",
+    "birthYear": 1325,
+    "deathYear": 1382,
+    "birthPlace": "Provence",
+    "birthPlaceCn": "普罗旺斯",
+    "deathPlace": "Muro Lucano, Kingdom of Naples",
+    "deathPlaceCn": "那不勒斯王国穆罗卢卡诺",
+    "gender": "female",
+    "dynasty": "Capetian dynasty",
+    "house": "Capetian House of Anjou",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Countess of Provence",
+    "primaryTitleCn": "普罗旺斯女伯爵",
+    "titles": [
+      {
+        "title": "Countess of Provence",
+        "titleCn": "普罗旺斯女伯爵",
+        "startYear": 1343,
+        "endYear": 1382
+      }
+    ],
+    "tags": [
+      "count",
+      "ruler",
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 80,
+    "historicalRating": 8,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1343,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "queen",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Succeeded as Queen of Naples and Countess of Provence",
+        "labelCn": "继承那不勒斯王位并成为普罗旺斯女伯爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Joanna_I_of_Naples"
+      },
+      {
+        "year": 1345,
+        "month": 9,
+        "day": 18,
+        "type": "political_crisis",
+        "tags": [
+          "political_crisis",
+          "uncertain"
+        ],
+        "weight": 84,
+        "label": "Husband Andrew of Hungary murdered at Aversa",
+        "labelCn": "丈夫匈牙利公爵安德鲁在阿韦尔萨遇害",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Andrew,_Duke_of_Calabria",
+        "note": "She was suspected of complicity; the charge was later dropped."
+      },
+      {
+        "year": 1347,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 72,
+        "label": "Married her cousin Louis of Taranto",
+        "labelCn": "与堂兄塔兰托的路易成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Joanna_I_of_Naples"
+      },
+      {
+        "year": 1348,
+        "type": "exile",
+        "tags": [
+          "exile",
+          "war",
+          "political_crisis"
+        ],
+        "weight": 80,
+        "label": "Fled to Provence before Louis I of Hungary's invasion",
+        "labelCn": "在匈牙利国王路易一世入侵前逃往普罗旺斯",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Joanna_I_of_Naples"
+      },
+      {
+        "year": 1348,
+        "type": "government",
+        "tags": [
+          "government",
+          "territory",
+          "diplomacy"
+        ],
+        "weight": 72,
+        "label": "Sold Avignon to Pope Clement VI",
+        "labelCn": "将阿维尼翁出售给教宗克莱芒六世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Avignon"
+      },
+      {
+        "year": 1352,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "king",
+          "monarch"
+        ],
+        "weight": 74,
+        "label": "Returned to Naples; Louis of Taranto crowned co-ruler",
+        "labelCn": "返回那不勒斯；塔兰托的路易加冕为共治国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Joanna_I_of_Naples"
+      },
+      {
+        "year": 1381,
+        "type": "political_crisis",
+        "tags": [
+          "political_crisis",
+          "religion",
+          "succession",
+          "uncertain"
+        ],
+        "weight": 82,
+        "label": "Deposed by Pope Urban VI in the Western Schism",
+        "labelCn": "在西方教会大分裂中被教宗乌尔班六世废黜",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Western_Schism",
+        "note": "Backing the Avignonese Clement VII, she was deposed in favour of Charles of Durazzo."
+      },
+      {
+        "year": 1382,
+        "month": 7,
+        "day": 27,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 95,
+        "label": "Strangled in captivity at Muro Lucano",
+        "labelCn": "在穆罗卢卡诺被囚禁中勒死",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Joanna_I_of_Naples"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Joanna_I_of_Naples",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Joanna_I_of_Naples",
+    "sourceNote": "Queen of Naples and Countess of Provence 1343-1382; sources: Wikipedia 'Joanna I of Naples' and the Palamede Bozzuto murder account.",
+    "notes": "Queen of Naples and Countess of Provence in her own right; her long reign was shaped by her four marriages, the murder of her first husband Andrew of Hungary, and the Western Schism. Backing the Avignonese pope Clement VII, she was deposed by Urban VI in favour of Charles of Durazzo, who captured and had her strangled in 1382. Her degree of complicity in Andrew's murder is still debated.",
+    "createdDate": "20260823",
+    "createdOrder": 32,
+    "deathCause": {
+      "kind": "violent",
+      "summary": "Strangled in prison at Muro Lucano",
+      "summaryCn": "在穆罗卢卡诺狱中被勒死",
+      "detail": "Captured after Charles of Durazzo took Naples, Joanna was imprisoned at Muro Lucano and strangled there on 27 July 1382; the murder is generally attributed to Charles of Durazzo (Charles III of Naples), who had been installed by Pope Urban VI.",
+      "detailCn": "杜拉佐的查理攻占那不勒斯后，乔万娜被囚于穆罗卢卡诺城堡，并于1382年7月27日被勒死；此谋杀通常归咎于由教宗乌尔班六世扶立的那不勒斯国王查理三世（杜拉佐的查理）。",
+      "culprit": "Charles of Durazzo (Charles III of Naples)",
+      "culpritCn": "杜拉佐的查理（那不勒斯国王查理三世）",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Joanna_I_of_Naples"
+    }
+  }
+]

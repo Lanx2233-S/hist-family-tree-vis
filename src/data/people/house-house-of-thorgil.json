@@ -1,0 +1,190 @@
+[
+  {
+    "id": "c1023000-0000-4000-8000-000000000000",
+    "firstName": "Ulf",
+    "lastName": "Thorgilsson",
+    "displayName": "Ulf Thorgilsson",
+    "fullName": "Ulf Thorgilsson, Jarl of Denmark",
+    "displayNameCn": "乌尔夫·索吉尔松",
+    "fullNameCn": "丹麦雅尔乌尔夫·索吉尔松",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 990,
+    "deathYear": 1026,
+    "birthPlace": "Denmark",
+    "birthPlaceCn": "丹麦",
+    "deathPlace": "Denmark",
+    "deathPlaceCn": "丹麦",
+    "gender": "male",
+    "dynasty": "Unknown dynasty",
+    "house": "House of Thorgil",
+    "culture": "Danish",
+    "faith": "Catholic",
+    "primaryTitle": "Jarl of Denmark",
+    "primaryTitleCn": "丹麦雅尔",
+    "titles": [],
+    "tags": [
+      "noble"
+    ],
+    "rank": "noble",
+    "importanceScore": 52,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "c1022000-0000-4000-8000-000000000000"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "c1024000-0000-4000-8000-000000000000"
+      ]
+    },
+    "events": [
+      {
+        "year": 1015,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance",
+          "uncertain"
+        ],
+        "weight": 72,
+        "label": "Married Estrid Svendsdatter",
+        "labelCn": "与埃斯特丽德·斯文斯多蒂尔成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ulf,_Earl_of_Denmark",
+        "note": "Married Estrid, sister of Cnut the Great; the date is uncertain, and their son Sweyn II later took the Danish throne."
+      },
+      {
+        "year": 1026,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "commander"
+        ],
+        "weight": 78,
+        "label": "Battle of the Helgeå",
+        "labelCn": "赫尔格河之战",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_the_Helge%C3%A5",
+        "note": "Commanded the Danish fleet alongside Cnut against the allied Swedes and Norwegians at the Helgeå."
+      },
+      {
+        "year": 1026,
+        "type": "death",
+        "tags": [
+          "death",
+          "political_crisis"
+        ],
+        "weight": 90,
+        "label": "Killed on Cnut's orders at Roskilde",
+        "labelCn": "在罗斯基勒被克努特下令杀害",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ulf,_Earl_of_Denmark",
+        "note": "Quarrelled with Cnut after the campaign and was killed in the church at Roskilde, reportedly on the king's orders."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Ulf,_Earl_of_Denmark",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Ulf,_Earl_of_Denmark",
+    "sourceNote": "Basic paternal link for the Estridsen royal succession.",
+    "notes": "Father of Sweyn II; his house is kept distinct from Estrid's Knýtlinga descent.",
+    "createdDate": "20260823",
+    "createdOrder": 54
+  },
+  {
+    "id": "bb5c0007-6a34-4f57-9c04-3083e7f4e55f",
+    "firstName": "Gytha",
+    "lastName": "",
+    "displayName": "Gytha Thorkelsdóttir",
+    "fullName": "Gytha Thorkelsdóttir",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Gytha Thorkelsdóttir"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "吉萨·索凯尔斯多蒂尔",
+    "fullNameCn": "吉萨·索凯尔斯多蒂尔",
+    "birthYear": 1010,
+    "deathYear": 1069,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "female",
+    "dynasty": "Unknown dynasty",
+    "house": "House of Thorgil",
+    "culture": "Danish",
+    "faith": "Catholic",
+    "primaryTitle": "Countess of Wessex",
+    "primaryTitleCn": "威塞克斯伯爵夫人",
+    "titles": [],
+    "tags": [
+      "noble"
+    ],
+    "rank": "noble",
+    "importanceScore": 46,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "acb44ca3-5936-4d3b-875a-0d485f5bcc70"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "131aba03-2d7b-4ae3-8d16-b7ebd660ce6c",
+        "6d1dc880-66a3-482b-a778-8b7b806279e8",
+        "ba8b72c0-cdd9-4159-a55d-8024992f47e0",
+        "4facdf80-aaca-4a58-8f2d-e28f2e9b5d5c",
+        "69975f97-57a1-4493-8a8d-a678fa8ceff3"
+      ]
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Gytha_Thorkelsd%C3%B3ttir",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Gytha_Thorkelsd%C3%B3ttir",
+    "sourceNote": "Wife of Godwin and mother of Harold II, Tostig, Gyrth, and Leofwine. Birth and death years are approximate.",
+    "notes": "Danish noblewoman, wife of Earl Godwin and mother of Harold II and his brothers; sister of Jarl Ulf of Denmark. Both are assigned to House of Thorgil, the recorded house of their father Thorgil/Thorkell Sprakling (Sprakalägg).",
+    "historicalRating": 5,
+    "createdDate": "20260818",
+    "createdOrder": 46,
+    "events": [
+      {
+        "year": 1020,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 72,
+        "label": "Married Earl Godwin",
+        "labelCn": "嫁给戈德温伯爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Gytha_Thorkelsd%C3%B3ttir",
+        "note": "Marriage year approximate."
+      },
+      {
+        "year": 1066,
+        "type": "political_crisis",
+        "tags": [
+          "political_crisis",
+          "politics"
+        ],
+        "weight": 75,
+        "label": "Pleaded for Harold's body after Hastings",
+        "labelCn": "黑斯廷斯之战后恳求归还哈罗德遗体",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Gytha_Thorkelsd%C3%B3ttir",
+        "note": "After Harold II's death at Hastings, Gytha is said to have offered William the Conqueror her son's weight in gold for his body; William refused."
+      },
+      {
+        "year": 1067,
+        "type": "exile",
+        "tags": [
+          "noble",
+          "uncertain"
+        ],
+        "weight": 60,
+        "label": "Went into exile after the Norman Conquest",
+        "labelCn": "诺曼征服后流亡",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Gytha_Thorkelsd%C3%B3ttir",
+        "note": "Following the Conquest she departed England with Harold's widow and sons, settling abroad before her death c. 1069."
+      }
+    ]
+  }
+]

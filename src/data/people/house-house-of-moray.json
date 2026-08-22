@@ -1,0 +1,147 @@
+[
+  {
+    "id": "1c66693e-8541-4672-8d61-799cb5178064",
+    "firstName": "Macbeth",
+    "lastName": "",
+    "displayName": "Macbeth",
+    "fullName": "Macbeth, King of Scotland",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Mac Bethad mac Findlaích"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "麦克白",
+    "fullNameCn": "麦克白",
+    "birthYear": 1005,
+    "deathYear": 1057,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "male",
+    "dynasty": "House of Moray",
+    "house": "House of Moray",
+    "culture": "Scottish",
+    "faith": "Catholic",
+    "primaryTitle": "King of Scots",
+    "primaryTitleCn": "苏格兰人之王",
+    "titles": [
+      {
+        "title": "King of Scots",
+        "startYear": 1040,
+        "endYear": 1057,
+        "titleCn": "苏格兰人之王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 60,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1005,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Macbeth,_King_of_Scotland"
+      },
+      {
+        "year": 1040,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Began rule as King of Scots",
+        "labelCn": "开始担任苏格兰人之王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Macbeth,_King_of_Scotland"
+      },
+      {
+        "year": 1057,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Macbeth,_King_of_Scotland"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Macbeth,_King_of_Scotland",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Macbeth,_King_of_Scotland",
+    "sourceNote": "Core timeline generated from recorded lifespan and titles on 2026-08-20.",
+    "notes": "",
+    "createdDate": "20260819",
+    "createdOrder": 19
+  },
+  {
+    "id": "d65301db-6012-4bb9-afdd-6298a6199e43",
+    "firstName": "Lulach",
+    "lastName": "",
+    "displayName": "Lulach",
+    "fullName": "Lulach of Scotland",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Lulach mac Gille Coemgáin"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "卢拉赫",
+    "fullNameCn": "卢拉赫",
+    "birthYear": 1033,
+    "deathYear": 1058,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "male",
+    "dynasty": "House of Moray",
+    "house": "House of Moray",
+    "culture": "Scottish",
+    "faith": "Catholic",
+    "primaryTitle": "King of Scots",
+    "primaryTitleCn": "苏格兰人之王",
+    "titles": [
+      {
+        "title": "King of Scots",
+        "startYear": 1057,
+        "endYear": 1058,
+        "titleCn": "苏格兰人之王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 40,
+    "historicalRating": 4,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Lulach",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Lulach",
+    "sourceNote": "",
+    "notes": "",
+    "createdDate": "20260819",
+    "createdOrder": 20
+  }
+]

@@ -1,0 +1,115 @@
+[
+  {
+    "id": "a7f4c320-5137-4cfd-b522-52e951026caf",
+    "firstName": "Ykenai",
+    "lastName": "",
+    "displayName": "Ykenai",
+    "fullName": "Ykenai",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Hikenai"
+    ],
+    "nicknameTags": [],
+    "birthYear": "",
+    "deathYear": "",
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "female",
+    "dynasty": "Unknown dynasty",
+    "house": "Unknown house",
+    "culture": "Anglo-Norman",
+    "faith": "Catholic",
+    "primaryTitle": "Partner of Henry II",
+    "titles": [],
+    "tags": [
+      "partner"
+    ],
+    "rank": "untitled",
+    "importanceScore": 36,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [
+        "29e2abba-321e-4090-a35d-10f0bd6a420a"
+      ],
+      "childIds": [
+        "8a4656fa-331c-4054-ab20-c1deefbd5844"
+      ]
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Geoffrey_(archbishop_of_York)",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Geoffrey_(archbishop_of_York)",
+    "sourceNote": "",
+    "notes": "Blank MVP person card; named mother of Geoffrey, Archbishop of York, in Henry II illegitimate-child tradition.",
+    "createdDate": "20260815",
+    "createdOrder": 44,
+    "displayNameCn": "伊肯奈",
+    "fullNameCn": "伊肯奈",
+    "primaryTitleCn": "亨利二世的伴侣",
+    "historicalRating": 4
+  },
+  {
+    "id": "40e82515-a8a4-4a7a-bcf0-dff6322baef6",
+    "firstName": "Edith",
+    "lastName": "",
+    "displayName": "Edith Swannesha",
+    "fullName": "Edith Swannesha",
+    "nickname": "Swannesha",
+    "alsoKnownAs": [
+      "Edith Swannesha",
+      "Edith the Fair",
+      "Edith the Swan-neck"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "伊迪丝·斯万内莎",
+    "fullNameCn": "伊迪丝·斯万内莎",
+    "birthYear": 1025,
+    "deathYear": 1086,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "female",
+    "dynasty": "Unknown dynasty",
+    "house": "Unknown house",
+    "culture": "Anglo-Saxon",
+    "faith": "Catholic",
+    "primaryTitle": "",
+    "primaryTitleCn": "",
+    "titles": [],
+    "tags": [],
+    "rank": "noble",
+    "importanceScore": 42,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [
+        "131aba03-2d7b-4ae3-8d16-b7ebd660ce6c"
+      ],
+      "childIds": []
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Edith_the_Fair",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Edith_the_Fair",
+    "sourceNote": "Common-law wife of Harold II. Birth and death years are approximate.",
+    "notes": "Common-law wife of Harold II, remembered as the Edith who identified his body after Hastings.",
+    "historicalRating": 4,
+    "createdDate": "20260818",
+    "createdOrder": 53,
+    "events": [
+      {
+        "year": 1066,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 80,
+        "label": "Traditionally identified Harold's body after Hastings",
+        "labelCn": "相传黑斯廷斯之战后辨认哈罗德遗体",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Edith_the_Fair"
+      }
+    ],
+    "nicknameCn": "斯万内莎"
+  }
+]

@@ -1,7 +1,7 @@
 import fs from "node:fs";
 
-const people = JSON.parse(fs.readFileSync(new URL("../people.normandy.json", import.meta.url), "utf8"));
 const manifest = JSON.parse(fs.readFileSync(new URL("../src/data/people/manifest.json", import.meta.url), "utf8"));
+const people = manifest.files.flatMap((file) => JSON.parse(fs.readFileSync(new URL(`../src/data/people/${file}`, import.meta.url), "utf8")));
 const byId = new Map(people.map((person) => [person.id, person]));
 const ordered = manifest.order.map((id) => byId.get(id)).filter(Boolean);
 const groups = new Map();
@@ -19,7 +19,7 @@ const lines = [
   `> 当前总人数：${ordered.length}`,
   `> 分配日期：${dateSummary}`,
   "> 数据来源：`src/data/people/manifest.json` 及其引用的全部人员 JSON 文件",
-  "> 字段说明：姓名 = `displayName`；UUID = `id`；自定义序号 = `YYYYMMDDNNN`（`createdDate` + `createdOrder` 补零三位）；总序号 = `manifest.order` 顺序；重要度评分 = `historicalRating`",
+  "> 字段说明：姓名 = `displayName`；UUID = `id`；自定义序号 = `YYYYMMDDNNN`（录入日期 + 当日按总序号排列的三位流水号）；总序号 = `manifest.order` 顺序；重要度评分 = `historicalRating`",
   "",
   "| 姓名 | UUID | 自定义序号 | 总序号 | 重要度评分 |",
   "|---|---|---:|---:|---:|",

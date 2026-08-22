@@ -1,0 +1,126 @@
+[
+  {
+    "id": "b9454199-88cf-4506-af5b-c5fa13282c19",
+    "firstName": "Berengar",
+    "lastName": "",
+    "displayName": "Berengar I of Italy",
+    "fullName": "Berengar I of Italy",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Berengar I",
+      "Berengar of Friuli"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "意大利的贝伦加尔一世",
+    "fullNameCn": "意大利的贝伦加尔一世",
+    "birthYear": 845,
+    "deathYear": 924,
+    "birthPlace": "",
+    "deathPlace": "Verona, Italy",
+    "deathPlaceCn": "意大利维罗纳",
+    "gender": "male",
+    "dynasty": "Unruoching dynasty",
+    "house": "Unruoching dynasty",
+    "culture": "Frankish",
+    "faith": "Catholic",
+    "primaryTitle": "King of Italy",
+    "primaryTitleCn": "意大利国王",
+    "titles": [
+      {
+        "title": "King of Italy",
+        "startYear": 888,
+        "endYear": 924,
+        "titleCn": "意大利国王"
+      },
+      {
+        "title": "Holy Roman Emperor",
+        "startYear": 915,
+        "endYear": 924,
+        "titleCn": "神圣罗马帝国皇帝"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king",
+      "emperor"
+    ],
+    "rank": "king",
+    "importanceScore": 60,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Berengar_I_of_Italy",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Berengar_I_of_Italy",
+    "sourceNote": "Margrave of Friuli of the Unruoching dynasty; not a direct Carolingian. Birth year is uncertain (traditionally c. 845).",
+    "notes": "Margrave of Friuli who became king of Italy after the deposition of Charles the Fat, and Emperor from 915. His reign was a long contest for Italy; he was assassinated in 924.",
+    "historicalRating": 6,
+    "createdDate": "20260818",
+    "createdOrder": 15,
+    "events": [
+      {
+        "year": 845,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 60,
+        "label": "Born, of the Unruoching dynasty",
+        "labelCn": "出生，翁鲁奥兴家族",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Berengar_I_of_Italy",
+        "note": "Birth year uncertain, traditionally c. 845."
+      },
+      {
+        "year": 888,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "monarch"
+        ],
+        "weight": 78,
+        "label": "Became King of Italy",
+        "labelCn": "成为意大利国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Berengar_I_of_Italy"
+      },
+      {
+        "year": 915,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch",
+          "church"
+        ],
+        "weight": 80,
+        "label": "Crowned Emperor by Pope John X",
+        "labelCn": "由教宗若望十世加冕为皇帝",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Berengar_I_of_Italy"
+      },
+      {
+        "year": 924,
+        "type": "death",
+        "tags": [
+          "death",
+          "violent"
+        ],
+        "weight": 92,
+        "label": "Assassinated at Verona",
+        "labelCn": "在维罗纳被刺杀",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Berengar_I_of_Italy"
+      }
+    ],
+    "deathCause": {
+      "kind": "violent",
+      "summary": "Assassinated at Verona",
+      "summaryCn": "在维罗纳被刺杀",
+      "detail": "Berengar I was murdered in 924 at Verona, reportedly by one of his own followers.",
+      "detailCn": "924 年，贝伦加尔一世在维罗纳被刺杀，据称凶手是其一名亲随。",
+      "culprit": "Flambert, one of his followers",
+      "culpritCn": "其亲随弗拉姆贝特",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Berengar_I_of_Italy"
+    }
+  }
+]

@@ -1,0 +1,3226 @@
+[
+  {
+    "id": "c9220000-0000-4000-8000-000000000018",
+    "firstName": "Foulques",
+    "lastName": "d'Anjou",
+    "displayName": "Foulques I le Roux",
+    "fullName": "Foulques I the Red, Count of Anjou",
+    "displayNameCn": "安茹的富尔克一世（红发）",
+    "fullNameCn": "安茹伯爵富尔克一世（红发）",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 870,
+    "deathYear": 942,
+    "birthPlace": "County of Anjou",
+    "birthPlaceCn": "安茹伯国",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "House of Anjou",
+    "house": "House of Anjou",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Anjou",
+    "primaryTitleCn": "安茹伯爵",
+    "titles": [
+      {
+        "title": "Count of Anjou",
+        "titleCn": "安茹伯爵",
+        "startYear": 929,
+        "endYear": 942
+      }
+    ],
+    "tags": [
+      "count",
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 60,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "c9230000-0000-4000-8000-000000000019"
+      ]
+    },
+    "events": [
+      {
+        "year": 929,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "noble"
+        ],
+        "weight": 82,
+        "label": "Became the first Count of Anjou",
+        "labelCn": "受封为安茹伯爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Fulk_I,_Count_of_Anjou",
+        "note": "Raised from viscount to count of Anjou under the Robertians; founder of the Angevin comital line."
+      },
+      {
+        "year": 936,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "uncertain"
+        ],
+        "weight": 68,
+        "label": "Defended Anjou against Norse raids on the Loire",
+        "labelCn": "抵御诺曼人对卢瓦尔河一带的侵扰",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Fulk_I,_Count_of_Anjou",
+        "note": "Fought against Norse raiders threatening the Loire valley; exact dates of these campaigns are uncertain."
+      },
+      {
+        "year": 942,
+        "type": "death",
+        "tags": [
+          "death",
+          "noble"
+        ],
+        "weight": 72,
+        "label": "Death",
+        "labelCn": "去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Fulk_I,_Count_of_Anjou",
+        "note": "Died in 942, succeeded by his son Fulk II."
+      }
+    ],
+    "wikiUrl": "https://www.larousse.fr/encyclopedie/groupe-personnage/Plantagen%C3%AAt/138392",
+    "portraitUrl": "",
+    "sourceUrl": "https://www.larousse.fr/encyclopedie/groupe-personnage/Plantagen%C3%AAt/138392",
+    "sourceNote": "Basic card for the Angevin paternal line and the County of Anjou succession.",
+    "notes": "Added for Henry II's Angevin paternal ancestry.",
+    "createdDate": "20260822",
+    "createdOrder": 30
+  },
+  {
+    "id": "c9230000-0000-4000-8000-000000000019",
+    "firstName": "Foulques",
+    "lastName": "d'Anjou",
+    "displayName": "Foulques II le Bon",
+    "fullName": "Foulques II the Good, Count of Anjou",
+    "displayNameCn": "安茹的富尔克二世（善人）",
+    "fullNameCn": "安茹伯爵富尔克二世（善人）",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 910,
+    "deathYear": 960,
+    "birthPlace": "County of Anjou",
+    "birthPlaceCn": "安茹伯国",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "House of Anjou",
+    "house": "House of Anjou",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Anjou",
+    "primaryTitleCn": "安茹伯爵",
+    "titles": [
+      {
+        "title": "Count of Anjou",
+        "titleCn": "安茹伯爵",
+        "startYear": 942,
+        "endYear": 960
+      }
+    ],
+    "tags": [
+      "count",
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 60,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "c9220000-0000-4000-8000-000000000018",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "c9240000-0000-4000-8000-000000000020"
+      ]
+    },
+    "events": [
+      {
+        "year": 937,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance",
+          "uncertain"
+        ],
+        "weight": 66,
+        "label": "Married Gerberga, linking Anjou to Maine",
+        "labelCn": "与格尔贝加成婚，联结安茹与曼恩",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Fulk_II,_Count_of_Anjou",
+        "note": "His wife Gerberga is often identified with Maine; the marriage date and her parentage are uncertain."
+      },
+      {
+        "year": 942,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title",
+          "noble"
+        ],
+        "weight": 78,
+        "label": "Succeeded as Count of Anjou",
+        "labelCn": "继位为安茹伯爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Fulk_II,_Count_of_Anjou",
+        "note": "Succeeded his father Fulk I the Red as Count of Anjou in 942."
+      },
+      {
+        "year": 960,
+        "type": "death",
+        "tags": [
+          "death",
+          "noble"
+        ],
+        "weight": 70,
+        "label": "Death",
+        "labelCn": "去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Fulk_II,_Count_of_Anjou",
+        "note": "Died in 960, succeeded by his son Geoffrey I Grisegonelle."
+      }
+    ],
+    "wikiUrl": "https://www.larousse.fr/encyclopedie/groupe-personnage/Plantagen%C3%AAt/138392",
+    "portraitUrl": "",
+    "sourceUrl": "https://www.larousse.fr/encyclopedie/groupe-personnage/Plantagen%C3%AAt/138392",
+    "sourceNote": "Basic card for the Angevin paternal line and the County of Anjou succession.",
+    "notes": "Added for Henry II's Angevin paternal ancestry.",
+    "createdDate": "20260822",
+    "createdOrder": 31
+  },
+  {
+    "id": "c9240000-0000-4000-8000-000000000020",
+    "firstName": "Geoffroy",
+    "lastName": "d'Anjou",
+    "displayName": "Geoffroy I Grisegonelle",
+    "fullName": "Geoffroy I Grisegonelle, Count of Anjou",
+    "displayNameCn": "安茹的若弗鲁瓦一世（灰斗篷）",
+    "fullNameCn": "安茹伯爵若弗鲁瓦一世（灰斗篷）",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 940,
+    "deathYear": 987,
+    "birthPlace": "County of Anjou",
+    "birthPlaceCn": "安茹伯国",
+    "deathPlace": "Marçon, Anjou",
+    "deathPlaceCn": "安茹马尔松",
+    "gender": "male",
+    "dynasty": "House of Anjou",
+    "house": "House of Anjou",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Anjou",
+    "primaryTitleCn": "安茹伯爵",
+    "titles": [
+      {
+        "title": "Count of Anjou",
+        "titleCn": "安茹伯爵",
+        "startYear": 960,
+        "endYear": 987
+      }
+    ],
+    "tags": [
+      "count",
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 70,
+    "historicalRating": 7,
+    "relationships": {
+      "fatherId": "c9230000-0000-4000-8000-000000000019",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "c9250000-0000-4000-8000-000000000021"
+      ]
+    },
+    "events": [
+      {
+        "year": 960,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title",
+          "noble"
+        ],
+        "weight": 80,
+        "label": "Succeeded as Count of Anjou",
+        "labelCn": "继承安茹伯爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Geoffrey_I,_Count_of_Anjou"
+      },
+      {
+        "year": 965,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 66,
+        "label": "Marriage to Adela of Meaux",
+        "labelCn": "与莫城的阿德拉成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Geoffrey_I,_Count_of_Anjou",
+        "note": "Daughter of Robert of Vermandois, Count of Meaux; the match tied Anjou to the Robertian/Capetian network."
+      },
+      {
+        "year": 987,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "commander",
+          "politics"
+        ],
+        "weight": 76,
+        "label": "Besieged Marçon with Hugh Capet against Odo I of Blois",
+        "labelCn": "与于格·卡佩一同围攻马尔松，对抗布卢瓦的厄德一世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Geoffrey_I,_Count_of_Anjou"
+      },
+      {
+        "year": 987,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 58,
+        "label": "Associated his son Fulk III Nerra as co-ruler",
+        "labelCn": "立其子富尔克三世·内拉为共治者",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Geoffrey_I,_Count_of_Anjou"
+      },
+      {
+        "year": 987,
+        "month": 7,
+        "day": 21,
+        "type": "death",
+        "tags": [
+          "death",
+          "noble"
+        ],
+        "weight": 85,
+        "label": "Death at the siege of Marçon",
+        "labelCn": "在围攻马尔松时阵亡",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Geoffrey_I,_Count_of_Anjou"
+      }
+    ],
+    "wikiUrl": "https://www.larousse.fr/encyclopedie/groupe-personnage/Plantagen%C3%AAt/138392",
+    "portraitUrl": "",
+    "sourceUrl": "https://www.larousse.fr/encyclopedie/groupe-personnage/Plantagen%C3%AAt/138392",
+    "sourceNote": "FAS Henry Project; Wikipedia (Geoffrey I, Count of Anjou), used for navigation.",
+    "notes": "Count of Anjou 960–987, who tightened the alliance between Anjou and the Robertian house of Hugh Capet while contesting Touraine and Maine with Odo I of Blois. He was killed on 21 July 987 during the joint siege of Marçon.",
+    "createdDate": "20260822",
+    "createdOrder": 32
+  },
+  {
+    "id": "c9250000-0000-4000-8000-000000000021",
+    "firstName": "Foulques",
+    "lastName": "d'Anjou",
+    "displayName": "Foulques III Nerra",
+    "fullName": "Foulques III Nerra, Count of Anjou",
+    "displayNameCn": "安茹的富尔克三世（内拉）",
+    "fullNameCn": "安茹伯爵富尔克三世（内拉）",
+    "nickname": "Nerra",
+    "nicknameCn": "黑者",
+    "alsoKnownAs": [],
+    "nicknameTags": [
+      "the Black",
+      "castle builder"
+    ],
+    "birthYear": 972,
+    "deathYear": 1040,
+    "birthPlace": "County of Anjou",
+    "birthPlaceCn": "安茹伯国",
+    "deathPlace": "Metz, Lorraine",
+    "deathPlaceCn": "洛林梅斯",
+    "gender": "male",
+    "dynasty": "House of Anjou",
+    "house": "House of Anjou",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Anjou",
+    "primaryTitleCn": "安茹伯爵",
+    "titles": [
+      {
+        "title": "Count of Anjou",
+        "titleCn": "安茹伯爵",
+        "startYear": 987,
+        "endYear": 1040
+      }
+    ],
+    "tags": [
+      "count",
+      "noble",
+      "commander"
+    ],
+    "rank": "count",
+    "importanceScore": 86,
+    "historicalRating": 8,
+    "relationships": {
+      "fatherId": "c9240000-0000-4000-8000-000000000020",
+      "motherId": "",
+      "spouseIds": [
+        "c9310000-0000-4000-8000-000000000027",
+        "c9330000-0000-4000-8000-000000000029"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "c9320000-0000-4000-8000-000000000028",
+        "c9260000-0000-4000-8000-000000000022",
+        "c9340000-0000-4000-8000-000000000030"
+      ]
+    },
+    "events": [
+      {
+        "year": 987,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 92,
+        "label": "Succeeded as Count of Anjou",
+        "labelCn": "继承安茹伯爵",
+        "wikiUrl": "https://www.larousse.fr/archives/histoire_de_france/page/479"
+      },
+      {
+        "year": 992,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "commander"
+        ],
+        "weight": 94,
+        "label": "Victory at Conquereuil",
+        "labelCn": "孔克勒伊战役获胜",
+        "wikiUrl": "https://www.larousse.fr/encyclopedie/groupe-homonymes/Foulques/120030"
+      },
+      {
+        "year": 994,
+        "type": "government",
+        "tags": [
+          "administration",
+          "castle"
+        ],
+        "weight": 86,
+        "label": "Fortified the Angevin frontier",
+        "labelCn": "强化安茹边境要塞体系",
+        "wikiUrl": "https://www.larousse.fr/archives/histoire_de_france/page/479"
+      },
+      {
+        "year": 1001,
+        "type": "conquest",
+        "tags": [
+          "conquest",
+          "commander"
+        ],
+        "weight": 88,
+        "label": "Expanded Angevin control toward Vendôme and Gâtinais",
+        "labelCn": "向旺多姆与加蒂奈扩张安茹势力",
+        "wikiUrl": "https://www.larousse.fr/archives/histoire_de_france/page/479"
+      },
+      {
+        "year": 1002,
+        "type": "crusade",
+        "tags": [
+          "pilgrimage",
+          "faith"
+        ],
+        "weight": 72,
+        "label": "First pilgrimage to Jerusalem",
+        "labelCn": "首次耶路撒冷朝圣",
+        "wikiUrl": "https://www.larousse.fr/archives/histoire_de_france/page/479"
+      },
+      {
+        "year": 1040,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 76,
+        "label": "Died at Metz",
+        "labelCn": "卒于梅斯",
+        "wikiUrl": "https://www.larousse.fr/archives/histoire_de_france/page/479"
+      },
+      {
+        "year": 1007,
+        "type": "religion",
+        "tags": [
+          "religion",
+          "faith"
+        ],
+        "weight": 74,
+        "label": "Founded the Abbey of Beaulieu-lès-Loches",
+        "labelCn": "创建洛什博利厄修道院",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Beaulieu-l%C3%A8s-Loches"
+      },
+      {
+        "year": 1008,
+        "type": "crusade",
+        "tags": [
+          "faith"
+        ],
+        "weight": 72,
+        "label": "Second pilgrimage to Jerusalem",
+        "labelCn": "第二次耶路撒冷朝圣",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Fulk_III,_Count_of_Anjou"
+      }
+    ],
+    "wikiUrl": "https://www.larousse.fr/encyclopedie/groupe-personnage/Plantagen%C3%AAt/138392",
+    "portraitUrl": "",
+    "sourceUrl": "https://www.larousse.fr/encyclopedie/groupe-personnage/Plantagen%C3%AAt/138392",
+    "sourceNote": "Detailed card: military founder of Angevin territorial power, castle builder, and four-time pilgrim to Jerusalem.",
+    "notes": "Foulques III Nerra forged Angevin territorial power through warfare, fortification and lordship over neighbouring lands. The dramatic accounts surrounding his first wife Elisabeth are contested; they are not recorded as a definite death cause.",
+    "createdDate": "20260822",
+    "createdOrder": 33,
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died at Metz returning from his final pilgrimage to Jerusalem",
+      "summaryCn": "最后一次耶路撒冷朝圣归来途中卒于梅斯",
+      "detail": "Foulques III Nerra died at Metz on 21 June 1040 while returning from his fourth pilgrimage to Jerusalem. He was buried in the abbey he had founded at Beaulieu-lès-Loches.",
+      "detailCn": "富尔克三世·内拉于1040年6月21日第四次耶路撒冷朝圣归来途中卒于梅斯，葬于他所创建的洛什博利厄修道院。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Fulk_III,_Count_of_Anjou"
+    }
+  },
+  {
+    "id": "c9260000-0000-4000-8000-000000000022",
+    "firstName": "Geoffroy",
+    "lastName": "d'Anjou",
+    "displayName": "Geoffroy II Martel",
+    "fullName": "Geoffroy II Martel, Count of Anjou",
+    "displayNameCn": "安茹的若弗鲁瓦二世（铁锤）",
+    "fullNameCn": "安茹伯爵若弗鲁瓦二世（铁锤）",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1006,
+    "deathYear": 1060,
+    "birthPlace": "County of Anjou",
+    "birthPlaceCn": "安茹伯国",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "House of Anjou",
+    "house": "House of Anjou",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Anjou",
+    "primaryTitleCn": "安茹伯爵",
+    "titles": [
+      {
+        "title": "Count of Anjou",
+        "titleCn": "安茹伯爵",
+        "startYear": 1040,
+        "endYear": 1060
+      }
+    ],
+    "tags": [
+      "count",
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 70,
+    "historicalRating": 7,
+    "relationships": {
+      "fatherId": "c9250000-0000-4000-8000-000000000021",
+      "motherId": "c9330000-0000-4000-8000-000000000029",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1040,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title",
+          "noble"
+        ],
+        "weight": 80,
+        "label": "Succeeded Fulk III Nerra as Count of Anjou",
+        "labelCn": "继承富尔克三世·内拉为安茹伯爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Geoffrey_II,_Count_of_Anjou"
+      },
+      {
+        "year": 1044,
+        "month": 8,
+        "day": 21,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "commander",
+          "main_commander"
+        ],
+        "weight": 95,
+        "label": "Battle of Nouy — captured Theobald III of Blois",
+        "labelCn": "努伊之战——俘虏布卢瓦的蒂博三世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Geoffrey_II,_Count_of_Anjou"
+      },
+      {
+        "year": 1044,
+        "type": "conquest",
+        "tags": [
+          "conquest",
+          "territory",
+          "title"
+        ],
+        "weight": 84,
+        "label": "Gained Touraine, taking Tours, Chinon and Langeais",
+        "labelCn": "取得图赖讷，占据图尔、希农与朗热",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Geoffrey_II,_Count_of_Anjou"
+      },
+      {
+        "year": 1051,
+        "type": "conquest",
+        "tags": [
+          "conquest",
+          "territory",
+          "commander"
+        ],
+        "weight": 78,
+        "label": "Took Le Mans and extended control over Maine",
+        "labelCn": "攻占勒芒并控制曼恩",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Geoffrey_II,_Count_of_Anjou"
+      },
+      {
+        "year": 1060,
+        "month": 11,
+        "day": 14,
+        "type": "death",
+        "tags": [
+          "death",
+          "noble"
+        ],
+        "weight": 85,
+        "label": "Death without legitimate heirs",
+        "labelCn": "无合法继承人去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Geoffrey_II,_Count_of_Anjou"
+      }
+    ],
+    "wikiUrl": "https://www.larousse.fr/encyclopedie/groupe-personnage/Plantagen%C3%AAt/138392",
+    "portraitUrl": "",
+    "sourceUrl": "https://www.larousse.fr/encyclopedie/groupe-personnage/Plantagen%C3%AAt/138392",
+    "sourceNote": "Wikipedia (Geoffrey II, Count of Anjou), used for navigation.",
+    "notes": "Count of Anjou 1040–1060, nicknamed Martel (\"the Hammer\"). His victory at Nouy (1044) broke the power of the counts of Blois in Touraine and shifted the Blois centre of gravity toward Champagne; he also kept Maine under Angevin sway against Norman expansion.",
+    "createdDate": "20260822",
+    "createdOrder": 34
+  },
+  {
+    "id": "c9270000-0000-4000-8000-000000000023",
+    "firstName": "Geoffroy",
+    "lastName": "d'Anjou",
+    "displayName": "Geoffroy de Gâtinais",
+    "fullName": "Geoffroy de Gâtinais, Count of Gâtinais",
+    "displayNameCn": "加蒂奈的若弗鲁瓦",
+    "fullNameCn": "加蒂奈伯爵若弗鲁瓦·德·加蒂奈",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1000,
+    "deathYear": 1043,
+    "birthPlace": "County of Anjou",
+    "birthPlaceCn": "安茹伯国",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "House of Anjou",
+    "house": "House of Anjou",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Gâtinais",
+    "primaryTitleCn": "加蒂奈伯爵",
+    "titles": [
+      {
+        "title": "Count of Gâtinais",
+        "titleCn": "加蒂奈伯爵",
+        "startYear": 1020,
+        "endYear": 1043
+      }
+    ],
+    "tags": [
+      "count",
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 60,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "c9340000-0000-4000-8000-000000000030"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "c9280000-0000-4000-8000-000000000024",
+        "c9290000-0000-4000-8000-000000000025"
+      ]
+    },
+    "events": [
+      {
+        "year": 1020,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "noble",
+          "uncertain"
+        ],
+        "weight": 66,
+        "label": "Count of Gâtinais",
+        "labelCn": "成为加蒂奈伯爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Geoffrey_II,_Count_of_G%C3%A2tinais",
+        "note": "Held the county of Gâtinais; the exact date of his accession is uncertain."
+      },
+      {
+        "year": 1035,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 80,
+        "label": "Married Ermengarde-Blanche of Anjou",
+        "labelCn": "迎娶安茹的埃芒加德-布朗什",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Geoffrey_II,_Count_of_G%C3%A2tinais",
+        "note": "His marriage to Fulk III Nerra's daughter brought Gâtinais into the Angevin orbit; their sons later became counts of Anjou."
+      },
+      {
+        "year": 1043,
+        "type": "death",
+        "tags": [
+          "death",
+          "noble"
+        ],
+        "weight": 70,
+        "label": "Death",
+        "labelCn": "去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Geoffrey_II,_Count_of_G%C3%A2tinais",
+        "note": "Died in 1043; his widow Ermengarde-Blanche remarried to Duke Robert I of Burgundy."
+      }
+    ],
+    "wikiUrl": "https://www.larousse.fr/encyclopedie/groupe-personnage/Plantagen%C3%AAt/138392",
+    "portraitUrl": "",
+    "sourceUrl": "https://www.larousse.fr/encyclopedie/groupe-personnage/Plantagen%C3%AAt/138392",
+    "sourceNote": "Basic card for the Angevin paternal line and the County of Anjou succession.",
+    "notes": "Added for Henry II's Angevin paternal ancestry.",
+    "createdDate": "20260822",
+    "createdOrder": 35
+  },
+  {
+    "id": "c9280000-0000-4000-8000-000000000024",
+    "firstName": "Geoffroy",
+    "lastName": "d'Anjou",
+    "displayName": "Geoffroy III le Barbu",
+    "fullName": "Geoffroy III the Bearded, Count of Anjou",
+    "displayNameCn": "安茹的若弗鲁瓦三世（大胡子）",
+    "fullNameCn": "安茹伯爵若弗鲁瓦三世（大胡子）",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1040,
+    "deathYear": 1096,
+    "birthPlace": "County of Anjou",
+    "birthPlaceCn": "安茹伯国",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "House of Anjou",
+    "house": "House of Anjou",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Anjou",
+    "primaryTitleCn": "安茹伯爵",
+    "titles": [
+      {
+        "title": "Count of Anjou",
+        "titleCn": "安茹伯爵",
+        "startYear": 1060,
+        "endYear": 1068
+      }
+    ],
+    "tags": [
+      "count",
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "c9270000-0000-4000-8000-000000000023",
+      "motherId": "c9340000-0000-4000-8000-000000000030",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1060,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title",
+          "noble"
+        ],
+        "weight": 80,
+        "label": "Succeeded as Count of Anjou",
+        "labelCn": "继承安茹伯爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Geoffrey_III,_Count_of_Anjou",
+        "note": "Inherited Anjou and Touraine on the death of his childless uncle Geoffrey II Martel in 1060."
+      },
+      {
+        "year": 1068,
+        "type": "war",
+        "tags": [
+          "war",
+          "imprisonment",
+          "politics"
+        ],
+        "weight": 84,
+        "label": "Overthrown and imprisoned by his brother Fulk IV",
+        "labelCn": "被其弟富尔克四世废黜并囚禁",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Geoffrey_III,_Count_of_Anjou",
+        "note": "After a civil war his younger brother Fulk IV le Réchin deposed him and took the county; Geoffrey was held prisoner for many years."
+      },
+      {
+        "year": 1096,
+        "type": "death",
+        "tags": [
+          "death",
+          "noble"
+        ],
+        "weight": 70,
+        "label": "Death",
+        "labelCn": "去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Geoffrey_III,_Count_of_Anjou",
+        "note": "Died in 1096 after his release from captivity."
+      }
+    ],
+    "wikiUrl": "https://www.larousse.fr/encyclopedie/groupe-personnage/Plantagen%C3%AAt/138392",
+    "portraitUrl": "",
+    "sourceUrl": "https://www.larousse.fr/encyclopedie/groupe-personnage/Plantagen%C3%AAt/138392",
+    "sourceNote": "Basic card for the Angevin paternal line and the County of Anjou succession.",
+    "notes": "Added for Henry II's Angevin paternal ancestry.",
+    "createdDate": "20260822",
+    "createdOrder": 36
+  },
+  {
+    "id": "c9290000-0000-4000-8000-000000000025",
+    "firstName": "Foulques",
+    "lastName": "d'Anjou",
+    "displayName": "Foulques IV le Réchin",
+    "fullName": "Foulques IV le Réchin, Count of Anjou",
+    "displayNameCn": "安茹的富尔克四世（争执者）",
+    "fullNameCn": "安茹伯爵富尔克四世（争执者）",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1043,
+    "deathYear": 1109,
+    "birthPlace": "County of Anjou",
+    "birthPlaceCn": "安茹伯国",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "House of Anjou",
+    "house": "House of Anjou",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Anjou",
+    "primaryTitleCn": "安茹伯爵",
+    "titles": [
+      {
+        "title": "Count of Anjou",
+        "titleCn": "安茹伯爵",
+        "startYear": 1068,
+        "endYear": 1109
+      }
+    ],
+    "tags": [
+      "count",
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 60,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "c9270000-0000-4000-8000-000000000023",
+      "motherId": "c9340000-0000-4000-8000-000000000030",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "c9300000-0000-4000-8000-000000000026"
+      ]
+    },
+    "events": [
+      {
+        "year": 1068,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "rebellion",
+          "politics"
+        ],
+        "weight": 84,
+        "label": "Seized Anjou from his brother Geoffrey III",
+        "labelCn": "从其兄若弗鲁瓦三世手中夺取安茹",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Fulk_IV,_Count_of_Anjou",
+        "note": "After a civil war he deposed his brother Geoffrey III le Barbu and took the county of Anjou."
+      },
+      {
+        "year": 1089,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 78,
+        "label": "Married Bertrade de Montfort",
+        "labelCn": "与蒙福尔的贝尔特拉德成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Fulk_IV,_Count_of_Anjou",
+        "note": "His wife Bertrade was later abducted by King Philip I of France, causing a notorious scandal and royal excommunication."
+      },
+      {
+        "year": 1109,
+        "type": "death",
+        "tags": [
+          "death",
+          "noble"
+        ],
+        "weight": 74,
+        "label": "Death",
+        "labelCn": "去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Fulk_IV,_Count_of_Anjou",
+        "note": "Died in 1109; also remembered as a historian who wrote a partial history of Anjou."
+      }
+    ],
+    "wikiUrl": "https://www.larousse.fr/encyclopedie/groupe-personnage/Plantagen%C3%AAt/138392",
+    "portraitUrl": "",
+    "sourceUrl": "https://www.larousse.fr/encyclopedie/groupe-personnage/Plantagen%C3%AAt/138392",
+    "sourceNote": "Basic card for the Angevin paternal line and the County of Anjou succession.",
+    "notes": "Added for Henry II's Angevin paternal ancestry.",
+    "createdDate": "20260822",
+    "createdOrder": 37
+  },
+  {
+    "id": "c9300000-0000-4000-8000-000000000026",
+    "firstName": "Foulques",
+    "lastName": "d'Anjou",
+    "displayName": "Foulques V le Jeune",
+    "fullName": "Foulques V the Young, Count of Anjou",
+    "displayNameCn": "安茹的富尔克五世（青年）",
+    "fullNameCn": "安茹伯爵富尔克五世（青年）",
+    "nickname": "the Young",
+    "nicknameCn": "青年",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1092,
+    "deathYear": 1143,
+    "birthPlace": "County of Anjou",
+    "birthPlaceCn": "安茹伯国",
+    "deathPlace": "Acre, Kingdom of Jerusalem",
+    "deathPlaceCn": "耶路撒冷王国阿克",
+    "gender": "male",
+    "dynasty": "House of Anjou",
+    "house": "House of Anjou",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Anjou",
+    "primaryTitleCn": "安茹伯爵",
+    "titles": [
+      {
+        "title": "Count of Anjou",
+        "titleCn": "安茹伯爵",
+        "startYear": 1109,
+        "endYear": 1129
+      }
+    ],
+    "tags": [
+      "count",
+      "noble",
+      "commander",
+      "monarch"
+    ],
+    "rank": "count",
+    "importanceScore": 80,
+    "historicalRating": 8,
+    "relationships": {
+      "fatherId": "c9290000-0000-4000-8000-000000000025",
+      "motherId": "",
+      "spouseIds": [
+        "c9350000-0000-4000-8000-000000000031",
+        "c9390000-0000-4000-8000-000000000035"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "cc0cb400-e684-4bdb-b477-9a8fb578f4f5",
+        "c9360000-0000-4000-8000-000000000032",
+        "c9370000-0000-4000-8000-000000000033",
+        "c9380000-0000-4000-8000-000000000034",
+        "c9400000-0000-4000-8000-000000000036",
+        "c9410000-0000-4000-8000-000000000037"
+      ]
+    },
+    "events": [
+      {
+        "year": 1109,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 84,
+        "label": "Succeeded as Count of Anjou",
+        "labelCn": "继承安茹伯爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Fulk_V,_Count_of_Anjou"
+      },
+      {
+        "year": 1110,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 78,
+        "label": "Married Ermengarde of Maine",
+        "labelCn": "与曼恩的埃芒加德成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Fulk_V,_Count_of_Anjou"
+      },
+      {
+        "year": 1129,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 90,
+        "label": "Married Melisende of Jerusalem",
+        "labelCn": "与耶路撒冷的梅丽桑德成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Fulk_V,_Count_of_Anjou"
+      },
+      {
+        "year": 1131,
+        "type": "coronation",
+        "tags": [
+          "title",
+          "monarch"
+        ],
+        "weight": 88,
+        "label": "Crowned King of Jerusalem",
+        "labelCn": "加冕为耶路撒冷国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Fulk_V,_Count_of_Anjou"
+      },
+      {
+        "year": 1143,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 76,
+        "label": "Died in the Kingdom of Jerusalem",
+        "labelCn": "卒于耶路撒冷王国",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Fulk_V,_Count_of_Anjou"
+      },
+      {
+        "year": 1120,
+        "type": "crusade",
+        "tags": [
+          "faith"
+        ],
+        "weight": 70,
+        "label": "Pilgrimage to Jerusalem and association with the Knights Templar",
+        "labelCn": "朝圣耶路撒冷并结好圣殿骑士团",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Fulk_V,_Count_of_Anjou"
+      },
+      {
+        "year": 1128,
+        "type": "diplomacy",
+        "tags": [
+          "diplomacy",
+          "dynastic_alliance"
+        ],
+        "weight": 86,
+        "label": "Arranged the marriage of his son Geoffrey V to Empress Matilda",
+        "labelCn": "促成其子若弗鲁瓦五世与玛蒂尔达皇后的联姻",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Geoffrey_Plantagenet,_Count_of_Anjou"
+      },
+      {
+        "year": 1129,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 82,
+        "label": "Ceded the county of Anjou to his son Geoffrey V",
+        "labelCn": "将安茹伯爵领地让渡给其子若弗鲁瓦五世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Fulk_V,_Count_of_Anjou"
+      },
+      {
+        "year": 1134,
+        "type": "rebellion",
+        "tags": [
+          "rebellion",
+          "politics"
+        ],
+        "weight": 78,
+        "label": "Suppressed the revolt of Hugh II of Jaffa",
+        "labelCn": "平定雅法的于格二世的叛乱",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Hugh_II_of_Jaffa"
+      }
+    ],
+    "wikiUrl": "https://www.larousse.fr/encyclopedie/groupe-personnage/Plantagen%C3%AAt/138392",
+    "portraitUrl": "",
+    "sourceUrl": "https://www.larousse.fr/encyclopedie/groupe-personnage/Plantagen%C3%AAt/138392",
+    "sourceNote": "Detailed card: Count of Anjou and King of Jerusalem; father of Geoffrey V and of the Jerusalem kings Baldwin III and Amalric I.",
+    "notes": "Transferred the Angevin county to his son Geoffrey V before becoming king of Jerusalem through his marriage to Melisende. His Jerusalem sons Baldwin III and Amalric I continued the royal line.",
+    "createdDate": "20260822",
+    "createdOrder": 38,
+    "deathCause": {
+      "kind": "violent",
+      "summary": "Died in a hunting accident near Acre",
+      "summaryCn": "在阿克附近死于狩猎事故",
+      "detail": "While hunting near Acre in November 1143, Fulk's horse stumbled and threw him; his skull was crushed by the saddle, and he died a few days later (10 or 13 November 1143). He was buried in the Church of the Holy Sepulchre in Jerusalem.",
+      "detailCn": "1143年11月，富尔克五世在阿克附近狩猎时坐骑失足将其摔落，头颅被马鞍压碎，数日后（11月10日或13日）去世，葬于耶路撒冷圣墓教堂。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Fulk_V,_Count_of_Anjou"
+    }
+  },
+  {
+    "id": "c9310000-0000-4000-8000-000000000027",
+    "displayName": "Élisabeth de Vendôme",
+    "fullName": "Élisabeth de Vendôme, Countess of Anjou",
+    "displayNameCn": "旺多姆的伊丽莎白",
+    "birthYear": 970,
+    "deathYear": 1000,
+    "title": "Countess of Anjou",
+    "titleCn": "安茹伯爵夫人",
+    "rating": 5,
+    "spouseIds": [
+      "c9250000-0000-4000-8000-000000000021"
+    ],
+    "childIds": [
+      "c9320000-0000-4000-8000-000000000028"
+    ],
+    "firstName": "Élisabeth",
+    "lastName": "d'Anjou",
+    "fullNameCn": "安茹伯爵夫人旺多姆的伊丽莎白",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthPlace": "County of Anjou",
+    "birthPlaceCn": "安茹伯国",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "female",
+    "dynasty": "House of Anjou",
+    "house": "House of Anjou",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Countess of Anjou",
+    "primaryTitleCn": "安茹伯爵夫人",
+    "titles": [
+      {
+        "title": "Countess of Anjou",
+        "titleCn": "安茹伯爵夫人",
+        "startYear": "",
+        "endYear": 1000
+      }
+    ],
+    "tags": [
+      "count",
+      "consort",
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "c9250000-0000-4000-8000-000000000021"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "c9320000-0000-4000-8000-000000000028"
+      ]
+    },
+    "events": [
+      {
+        "year": 989,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance",
+          "uncertain"
+        ],
+        "weight": 68,
+        "label": "Married Fulk III Nerra as his first wife",
+        "labelCn": "成为富尔克三世·内拉的第一任妻子",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Fulk_III,_Count_of_Anjou",
+        "note": "Of Vendôme; the exact date of her marriage to Fulk III Nerra is uncertain."
+      },
+      {
+        "year": 1000,
+        "type": "death",
+        "tags": [
+          "death",
+          "uncertain",
+          "noble"
+        ],
+        "weight": 70,
+        "label": "Death",
+        "labelCn": "去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Fulk_III,_Count_of_Anjou",
+        "note": "Died around 1000. Later legend claimed Fulk had her burned for adultery, but the account is contested and not recorded as a definite death cause."
+      }
+    ],
+    "wikiUrl": "https://www.larousse.fr/archives/histoire_de_france/page/479",
+    "portraitUrl": "",
+    "sourceUrl": "https://www.larousse.fr/archives/histoire_de_france/page/479",
+    "sourceNote": "Basic family card for Foulques III Nerra's documented wives and children.",
+    "notes": "First wife of Fulk III Nerra and mother of Adèle de Vendôme-Anjou; the dramatic legend of her death by burning is contested in the sources.",
+    "createdDate": "20260822",
+    "createdOrder": 39
+  },
+  {
+    "id": "c9320000-0000-4000-8000-000000000028",
+    "displayName": "Adèle de Vendôme-Anjou",
+    "fullName": "Adèle de Vendôme-Anjou, Countess of Vendôme",
+    "displayNameCn": "旺多姆—安茹的阿黛勒",
+    "birthYear": 990,
+    "deathYear": 1020,
+    "title": "Countess of Vendôme",
+    "titleCn": "旺多姆女伯爵",
+    "rating": 5,
+    "fatherId": "c9250000-0000-4000-8000-000000000021",
+    "motherId": "c9310000-0000-4000-8000-000000000027",
+    "firstName": "Adèle",
+    "lastName": "d'Anjou",
+    "fullNameCn": "旺多姆伯爵夫人阿黛勒·德·旺多姆—安茹",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthPlace": "County of Anjou",
+    "birthPlaceCn": "安茹伯国",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "female",
+    "dynasty": "House of Anjou",
+    "house": "House of Anjou",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Countess of Vendôme",
+    "primaryTitleCn": "旺多姆女伯爵",
+    "titles": [
+      {
+        "title": "Countess of Vendôme",
+        "titleCn": "旺多姆女伯爵",
+        "startYear": "",
+        "endYear": 1020
+      }
+    ],
+    "tags": [
+      "count",
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "c9250000-0000-4000-8000-000000000021",
+      "motherId": "c9310000-0000-4000-8000-000000000027",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1016,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance",
+          "uncertain"
+        ],
+        "weight": 70,
+        "label": "Married Bodon of Nevers, who became Count of Vendôme",
+        "labelCn": "与内韦尔的博东成婚，后者成为旺多姆伯爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/List_of_counts_and_dukes_of_Vend%C3%B4me",
+        "note": "Heiress of Vendôme; the marriage made Bodon count of Vendôme jure uxoris. The date is uncertain, placed before 1020."
+      },
+      {
+        "year": 1016,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "territory",
+          "uncertain"
+        ],
+        "weight": 72,
+        "label": "Heiress and Countess of Vendôme",
+        "labelCn": "旺多姆女继承人兼女伯爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/List_of_counts_and_dukes_of_Vend%C3%B4me",
+        "note": "As daughter of Elisabeth de Vendôme she transmitted the county of Vendôme to her husband Bodon and later to their son Fulk; she held the county from about 1016."
+      }
+    ],
+    "wikiUrl": "https://www.larousse.fr/archives/histoire_de_france/page/479",
+    "portraitUrl": "",
+    "sourceUrl": "https://www.larousse.fr/archives/histoire_de_france/page/479",
+    "sourceNote": "Basic family card for Foulques III Nerra's documented wives and children.",
+    "notes": "Daughter of Fulk III Nerra and Elisabeth de Vendôme; through her the county of Vendôme passed to the house of Nevers. Her recorded death date varies between the card (1020) and the Vendôme necrology (c.1033/1035).",
+    "createdDate": "20260822",
+    "createdOrder": 40
+  },
+  {
+    "id": "c9330000-0000-4000-8000-000000000029",
+    "displayName": "Hildegarde de Sundgau",
+    "fullName": "Hildegarde de Sundgau, Countess of Anjou",
+    "displayNameCn": "松特高的希尔德加德",
+    "birthYear": 980,
+    "deathYear": 1046,
+    "title": "Countess of Anjou",
+    "titleCn": "安茹伯爵夫人",
+    "rating": 6,
+    "spouseIds": [
+      "c9250000-0000-4000-8000-000000000021"
+    ],
+    "childIds": [
+      "c9260000-0000-4000-8000-000000000022",
+      "c9340000-0000-4000-8000-000000000030"
+    ],
+    "firstName": "Hildegarde",
+    "lastName": "d'Anjou",
+    "fullNameCn": "安茹伯爵夫人松特高的希尔德加德",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthPlace": "County of Anjou",
+    "birthPlaceCn": "安茹伯国",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "female",
+    "dynasty": "House of Anjou",
+    "house": "House of Anjou",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Countess of Anjou",
+    "primaryTitleCn": "安茹伯爵夫人",
+    "titles": [
+      {
+        "title": "Countess of Anjou",
+        "titleCn": "安茹伯爵夫人",
+        "startYear": "",
+        "endYear": 1046
+      }
+    ],
+    "tags": [
+      "count",
+      "consort",
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 60,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "c9250000-0000-4000-8000-000000000021"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "c9260000-0000-4000-8000-000000000022",
+        "c9340000-0000-4000-8000-000000000030"
+      ]
+    },
+    "events": [
+      {
+        "year": 1005,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance",
+          "uncertain"
+        ],
+        "weight": 72,
+        "label": "Married Fulk III Nerra as his second wife",
+        "labelCn": "成为富尔克三世·内拉的第二任妻子",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Fulk_III,_Count_of_Anjou",
+        "note": "From the Sundgau in Alsace; the date of her marriage to Fulk III Nerra is approximate."
+      },
+      {
+        "year": 1006,
+        "type": "childbirth",
+        "tags": [
+          "dynasty",
+          "noble"
+        ],
+        "weight": 66,
+        "label": "Birth of son Geoffrey II Martel",
+        "labelCn": "诞下继承人若弗鲁瓦二世（铁锤）",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Fulk_III,_Count_of_Anjou",
+        "note": "Mother of the future count Geoffrey II Martel, heir to Anjou, and of Ermengarde-Blanche."
+      },
+      {
+        "year": 1046,
+        "type": "death",
+        "tags": [
+          "death",
+          "noble"
+        ],
+        "weight": 70,
+        "label": "Death",
+        "labelCn": "去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Fulk_III,_Count_of_Anjou",
+        "note": "Died in 1046."
+      }
+    ],
+    "wikiUrl": "https://www.larousse.fr/archives/histoire_de_france/page/479",
+    "portraitUrl": "",
+    "sourceUrl": "https://www.larousse.fr/archives/histoire_de_france/page/479",
+    "sourceNote": "Basic family card for Foulques III Nerra's documented wives and children.",
+    "notes": "Added while completing Foulques III Nerra's family.",
+    "createdDate": "20260822",
+    "createdOrder": 41
+  },
+  {
+    "id": "c9340000-0000-4000-8000-000000000030",
+    "displayName": "Ermengarde-Blanche d'Anjou",
+    "fullName": "Ermengarde-Blanche of Anjou",
+    "displayNameCn": "安茹的埃芒加德-布朗什",
+    "birthYear": 1018,
+    "deathYear": 1076,
+    "title": "Countess of Gâtinais",
+    "titleCn": "加蒂奈伯爵夫人",
+    "rating": 6,
+    "fatherId": "c9250000-0000-4000-8000-000000000021",
+    "motherId": "c9330000-0000-4000-8000-000000000029",
+    "spouseIds": [
+      "c9270000-0000-4000-8000-000000000023"
+    ],
+    "childIds": [
+      "c9280000-0000-4000-8000-000000000024",
+      "c9290000-0000-4000-8000-000000000025"
+    ],
+    "firstName": "Ermengarde-Blanche",
+    "lastName": "d'Anjou",
+    "fullNameCn": "安茹的埃芒加德-布朗什",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthPlace": "County of Anjou",
+    "birthPlaceCn": "安茹伯国",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "female",
+    "dynasty": "House of Anjou",
+    "house": "House of Anjou",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Countess of Gâtinais",
+    "primaryTitleCn": "加蒂奈伯爵夫人",
+    "titles": [
+      {
+        "title": "Countess of Gâtinais",
+        "titleCn": "加蒂奈伯爵夫人",
+        "startYear": "",
+        "endYear": 1076
+      }
+    ],
+    "tags": [
+      "count",
+      "consort",
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 60,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "c9250000-0000-4000-8000-000000000021",
+      "motherId": "c9330000-0000-4000-8000-000000000029",
+      "spouseIds": [
+        "c9270000-0000-4000-8000-000000000023"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "c9280000-0000-4000-8000-000000000024",
+        "c9290000-0000-4000-8000-000000000025"
+      ]
+    },
+    "events": [
+      {
+        "year": 1035,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 72,
+        "label": "Married Geoffrey II, Count of Gâtinais",
+        "labelCn": "与加蒂奈伯爵若弗鲁瓦二世成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ermengarde_of_Anjou,_Duchess_of_Burgundy",
+        "note": "Daughter of Fulk III Nerra; this marriage bound Gâtinais to Anjou."
+      },
+      {
+        "year": 1046,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 76,
+        "label": "Married Robert I, Duke of Burgundy",
+        "labelCn": "改嫁勃艮第公爵罗贝尔一世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ermengarde_of_Anjou,_Duchess_of_Burgundy",
+        "note": "After being widowed she became duchess consort of Burgundy; sources place the marriage in 1046–1048."
+      },
+      {
+        "year": 1076,
+        "month": 3,
+        "day": 18,
+        "type": "death",
+        "tags": [
+          "death",
+          "noble"
+        ],
+        "weight": 70,
+        "label": "Death",
+        "labelCn": "去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ermengarde_of_Anjou,_Duchess_of_Burgundy",
+        "note": "Died on 18 March 1076, the same day as her husband Robert I."
+      }
+    ],
+    "wikiUrl": "https://www.larousse.fr/archives/histoire_de_france/page/479",
+    "portraitUrl": "",
+    "sourceUrl": "https://www.larousse.fr/archives/histoire_de_france/page/479",
+    "sourceNote": "Basic family card for Foulques III Nerra's documented wives and children.",
+    "notes": "Added while completing Foulques III Nerra's family.",
+    "createdDate": "20260822",
+    "createdOrder": 42
+  },
+  {
+    "id": "c9350000-0000-4000-8000-000000000031",
+    "firstName": "Ermengarde",
+    "lastName": "of Jerusalem",
+    "displayName": "Ermengarde of Maine",
+    "fullName": "Ermengarde of Maine, Countess of Anjou",
+    "displayNameCn": "曼恩的埃芒加德",
+    "fullNameCn": "安茹伯爵夫人曼恩的埃芒加德",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1096,
+    "deathYear": 1126,
+    "birthPlace": "Latin East",
+    "birthPlaceCn": "拉丁东方",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "female",
+    "dynasty": "House of Anjou",
+    "house": "House of Anjou",
+    "culture": "Frankish",
+    "faith": "Catholic",
+    "primaryTitle": "Countess of Anjou",
+    "primaryTitleCn": "安茹伯爵夫人",
+    "titles": [
+      {
+        "title": "Countess of Anjou",
+        "titleCn": "安茹伯爵夫人",
+        "startYear": "",
+        "endYear": 1126
+      }
+    ],
+    "tags": [
+      "count",
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "c9300000-0000-4000-8000-000000000026"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "cc0cb400-e684-4bdb-b477-9a8fb578f4f5",
+        "c9360000-0000-4000-8000-000000000032",
+        "c9370000-0000-4000-8000-000000000033",
+        "c9380000-0000-4000-8000-000000000034"
+      ]
+    },
+    "events": [
+      {
+        "year": 1110,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 76,
+        "label": "Married Fulk V of Anjou",
+        "labelCn": "与安茹的富尔克五世成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ermengarde_of_Maine",
+        "note": "Heiress of Maine; her marriage brought Maine into Angevin control."
+      },
+      {
+        "year": 1113,
+        "month": 8,
+        "day": 24,
+        "type": "childbirth",
+        "tags": [
+          "dynasty",
+          "noble"
+        ],
+        "weight": 70,
+        "label": "Birth of Geoffrey V Plantagenet",
+        "labelCn": "诞下若弗鲁瓦五世（金雀花）",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Geoffrey_Plantagenet,_Count_of_Anjou",
+        "note": "Mother of Geoffrey V, later count of Anjou and father of King Henry II of England."
+      },
+      {
+        "year": 1126,
+        "type": "death",
+        "tags": [
+          "death",
+          "noble"
+        ],
+        "weight": 72,
+        "label": "Death",
+        "labelCn": "去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ermengarde_of_Maine",
+        "note": "Died in 1126; her son Elias II succeeded to Maine under Angevin overlordship."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Fulk_V,_Count_of_Anjou",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Fulk_V,_Count_of_Anjou",
+    "sourceNote": "Basic family card for the Angevin and Jerusalem succession.",
+    "notes": "Added to connect Foulques V of Anjou with the Jerusalem royal family.",
+    "createdDate": "20260822",
+    "createdOrder": 43
+  },
+  {
+    "id": "c9360000-0000-4000-8000-000000000032",
+    "firstName": "Matilda",
+    "lastName": "of Jerusalem",
+    "displayName": "Matilda of Anjou",
+    "fullName": "Matilda of Anjou, Countess of Flanders",
+    "displayNameCn": "安茹的玛蒂尔达",
+    "fullNameCn": "佛兰德伯爵夫人安茹的玛蒂尔达",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1102,
+    "deathYear": 1154,
+    "birthPlace": "Latin East",
+    "birthPlaceCn": "拉丁东方",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "female",
+    "dynasty": "House of Anjou",
+    "house": "House of Anjou",
+    "culture": "Frankish",
+    "faith": "Catholic",
+    "primaryTitle": "Countess of Flanders",
+    "primaryTitleCn": "佛兰德女伯爵",
+    "titles": [
+      {
+        "title": "Countess of Flanders",
+        "titleCn": "佛兰德女伯爵",
+        "startYear": "",
+        "endYear": 1154
+      }
+    ],
+    "tags": [
+      "count",
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 60,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "c9300000-0000-4000-8000-000000000026",
+      "motherId": "c9350000-0000-4000-8000-000000000031",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1119,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 80,
+        "label": "Married William Adelin, heir to England",
+        "labelCn": "与英格兰王储威廉·阿德林成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Matilda_of_Anjou",
+        "note": "Her marriage to Henry I's son sealed the peace between Anjou and England agreed near Alençon in 1113."
+      },
+      {
+        "year": 1120,
+        "type": "political_crisis",
+        "tags": [
+          "political_crisis",
+          "politics"
+        ],
+        "weight": 72,
+        "label": "White Ship disaster: widowed",
+        "labelCn": "白船海难，丈夫威廉·阿德林溺亡",
+        "wikiUrl": "https://en.wikipedia.org/wiki/White_Ship",
+        "note": "William Adelin drowned in the White Ship on 25 November 1120; Matilda survived, and the Anglo-Angevin alliance collapsed."
+      },
+      {
+        "year": 1150,
+        "type": "religion",
+        "tags": [
+          "religion",
+          "faith"
+        ],
+        "weight": 70,
+        "label": "Abbess of Fontevraud",
+        "labelCn": "出任丰特夫罗修道院院长",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Matilda_of_Anjou",
+        "note": "Having taken vows at Fontevraud in 1128, she became its abbess in 1150."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Fulk_V,_Count_of_Anjou",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Fulk_V,_Count_of_Anjou",
+    "sourceNote": "Basic family card for the Angevin and Jerusalem succession.",
+    "notes": "Added to connect Foulques V of Anjou with the Jerusalem royal family.",
+    "createdDate": "20260822",
+    "createdOrder": 44
+  },
+  {
+    "id": "c9370000-0000-4000-8000-000000000033",
+    "firstName": "Sibylla",
+    "lastName": "of Jerusalem",
+    "displayName": "Sibylla of Anjou",
+    "fullName": "Sibylla of Anjou, Countess of Flanders",
+    "displayNameCn": "安茹的西比拉",
+    "fullNameCn": "佛兰德伯爵夫人安茹的西比拉",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1112,
+    "deathYear": 1165,
+    "birthPlace": "Latin East",
+    "birthPlaceCn": "拉丁东方",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "female",
+    "dynasty": "House of Anjou",
+    "house": "House of Anjou",
+    "culture": "Frankish",
+    "faith": "Catholic",
+    "primaryTitle": "Countess of Flanders",
+    "primaryTitleCn": "佛兰德女伯爵",
+    "titles": [
+      {
+        "title": "Countess of Flanders",
+        "titleCn": "佛兰德女伯爵",
+        "startYear": "",
+        "endYear": 1165
+      }
+    ],
+    "tags": [
+      "count",
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 60,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "c9300000-0000-4000-8000-000000000026",
+      "motherId": "c9350000-0000-4000-8000-000000000031",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1123,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 75,
+        "label": "Married William Clito",
+        "labelCn": "与威廉·克利托成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Sibylla_of_Anjou",
+        "note": "Married the future Count of Flanders William Clito; the union was annulled in 1124 for consanguinity."
+      },
+      {
+        "year": 1134,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 78,
+        "label": "Married Thierry of Alsace, Count of Flanders",
+        "labelCn": "改嫁佛兰德伯爵蒂埃里（阿尔萨斯的）",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Sibylla_of_Anjou",
+        "note": "Her second marriage made her countess consort of Flanders; some sources date it to 1139."
+      },
+      {
+        "year": 1147,
+        "type": "regency",
+        "tags": [
+          "regency",
+          "noble"
+        ],
+        "weight": 72,
+        "label": "Regent of Flanders during Thierry's crusade",
+        "labelCn": "蒂埃里参加十字军期间摄政佛兰德",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Sibylla_of_Anjou",
+        "note": "Governed Flanders while Thierry was on the Second Crusade and led a counter-attack against Baldwin IV of Hainaut."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Fulk_V,_Count_of_Anjou",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Fulk_V,_Count_of_Anjou",
+    "sourceNote": "Basic family card for the Angevin and Jerusalem succession.",
+    "notes": "Added to connect Foulques V of Anjou with the Jerusalem royal family.",
+    "createdDate": "20260822",
+    "createdOrder": 45
+  },
+  {
+    "id": "c9380000-0000-4000-8000-000000000034",
+    "firstName": "Elias",
+    "lastName": "of Maine",
+    "displayName": "Elias II of Maine",
+    "fullName": "Elias II, Count of Maine",
+    "displayNameCn": "曼恩的埃利亚斯二世",
+    "fullNameCn": "曼恩伯爵埃利亚斯二世",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1113,
+    "deathYear": 1151,
+    "birthPlace": "Maine",
+    "birthPlaceCn": "曼恩",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "House of Anjou",
+    "house": "House of Anjou",
+    "culture": "Angevin",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Maine",
+    "primaryTitleCn": "曼恩伯爵",
+    "titles": [
+      {
+        "title": "Count of Maine",
+        "titleCn": "曼恩伯爵",
+        "startYear": "",
+        "endYear": 1151
+      }
+    ],
+    "tags": [
+      "count",
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "c9300000-0000-4000-8000-000000000026",
+      "motherId": "c9350000-0000-4000-8000-000000000031",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1129,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance",
+          "uncertain"
+        ],
+        "weight": 64,
+        "label": "Married Philippa of Perche",
+        "labelCn": "与佩尔什的菲利帕成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Elias_II,_Count_of_Maine",
+        "note": "Daughter of Rotrou III of Perche; the marriage took place by 1129."
+      },
+      {
+        "year": 1145,
+        "type": "rebellion",
+        "tags": [
+          "rebellion",
+          "war",
+          "politics"
+        ],
+        "weight": 82,
+        "label": "Rebelled against his brother Geoffrey V over Maine",
+        "labelCn": "因曼恩之争起兵反叛其兄若弗鲁瓦五世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Elias_II,_Count_of_Maine",
+        "note": "Demanded the county of Maine; with Robert III of Sablé he opened the 'war of the barons' but was captured and imprisoned at Tours by Geoffrey."
+      },
+      {
+        "year": 1151,
+        "month": 1,
+        "day": 15,
+        "type": "death",
+        "tags": [
+          "death",
+          "noble"
+        ],
+        "weight": 74,
+        "label": "Death",
+        "labelCn": "去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Elias_II,_Count_of_Maine",
+        "note": "Died on 15 January 1151 of a fever contracted during his imprisonment; whether he truly held the comital title is disputed."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Elias_II,_Count_of_Maine",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Elias_II,_Count_of_Maine",
+    "sourceNote": "Wikipedia (Elias II, Count of Maine); Britannica, used for navigation.",
+    "notes": "Younger son of Fulk V and Ermengarde of Maine; his claim to the county of Maine was contested by his brother Geoffrey V, and he died in 1151 after being imprisoned at Tours.",
+    "createdDate": "20260822",
+    "createdOrder": 46
+  },
+  {
+    "id": "c9400000-0000-4000-8000-000000000036",
+    "firstName": "Baldwin",
+    "lastName": "of Jerusalem",
+    "displayName": "Baldwin III of Jerusalem",
+    "fullName": "Baldwin III, King of Jerusalem",
+    "displayNameCn": "耶路撒冷的鲍德温三世",
+    "fullNameCn": "耶路撒冷国王鲍德温三世",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1130,
+    "deathYear": 1163,
+    "birthPlace": "Latin East",
+    "birthPlaceCn": "拉丁东方",
+    "deathPlace": "Beirut",
+    "deathPlaceCn": "贝鲁特",
+    "gender": "male",
+    "dynasty": "House of Anjou",
+    "house": "House of Anjou",
+    "culture": "Frankish",
+    "faith": "Catholic",
+    "primaryTitle": "King of Jerusalem",
+    "primaryTitleCn": "耶路撒冷国王",
+    "titles": [
+      {
+        "title": "King of Jerusalem",
+        "titleCn": "耶路撒冷国王",
+        "startYear": "",
+        "endYear": 1163
+      }
+    ],
+    "tags": [
+      "king",
+      "monarch",
+      "noble"
+    ],
+    "rank": "king",
+    "importanceScore": 80,
+    "historicalRating": 8,
+    "relationships": {
+      "fatherId": "c9300000-0000-4000-8000-000000000026",
+      "motherId": "c9390000-0000-4000-8000-000000000035",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1131,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "king",
+          "monarch"
+        ],
+        "weight": 75,
+        "label": "Crowned co-king as an infant",
+        "labelCn": "襁褓中加冕为共治国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Baldwin_III_of_Jerusalem",
+        "note": "Crowned jointly with his parents Fulk and Melisende in 1131 after the death of his grandfather Baldwin II."
+      },
+      {
+        "year": 1143,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "king",
+          "regency"
+        ],
+        "weight": 72,
+        "label": "Accession under Melisende's regency",
+        "labelCn": "在梅丽桑德摄政下继位",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Baldwin_III_of_Jerusalem",
+        "note": "Became king on his father Fulk's death in 1143, aged about 13, with his mother Melisende ruling as regent."
+      },
+      {
+        "year": 1148,
+        "type": "crusade",
+        "tags": [
+          "crusade",
+          "king"
+        ],
+        "weight": 78,
+        "label": "Second Crusade and Council of Acre",
+        "labelCn": "第二次十字军东征与阿卡会议",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Second_Crusade",
+        "note": "Took part in the Second Crusade; the Council of Acre (1148) decided to besiege Damascus, which ended in failure."
+      },
+      {
+        "year": 1152,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "king",
+          "monarch"
+        ],
+        "weight": 84,
+        "label": "Crowned sole king in the Holy Sepulchre",
+        "labelCn": "在圣墓教堂加冕为唯一国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Baldwin_III_of_Jerusalem",
+        "note": "On Easter 1152 Baldwin had himself re-crowned in the Church of the Holy Sepulchre, asserting his sole rule against his mother Melisende."
+      },
+      {
+        "year": 1152,
+        "type": "war",
+        "tags": [
+          "war",
+          "political_crisis",
+          "king"
+        ],
+        "weight": 80,
+        "label": "Conflict with Melisende and partition of the kingdom",
+        "labelCn": "与梅丽桑德之争与王国分治",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Baldwin_III_of_Jerusalem",
+        "note": "Baldwin besieged Melisende in Jerusalem; she yielded, retaining only Nablus and adjacent lands, while Baldwin took Acre and Tyre."
+      },
+      {
+        "year": 1153,
+        "type": "conquest",
+        "tags": [
+          "conquest",
+          "battle",
+          "commander",
+          "king"
+        ],
+        "weight": 92,
+        "label": "Capture of Ascalon",
+        "labelCn": "攻克阿斯卡隆",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Siege_of_Ascalon",
+        "note": "After a long siege, Ascalon — the last Fatimid stronghold on the Palestinian coast — fell to Baldwin III in August 1153, a major Frankish success."
+      },
+      {
+        "year": 1153,
+        "type": "diplomacy",
+        "tags": [
+          "diplomacy",
+          "king",
+          "politics"
+        ],
+        "weight": 62,
+        "label": "Reconciliation with Melisende",
+        "labelCn": "与梅丽桑德和解",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Baldwin_III_of_Jerusalem",
+        "note": "Mother and son reconciled in 1153, after which Melisende resumed advising the king."
+      },
+      {
+        "year": 1158,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance",
+          "king"
+        ],
+        "weight": 78,
+        "label": "Marriage to Theodora Komnene",
+        "labelCn": "与狄奥多拉·科穆宁成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Theodora_Komnene,_Queen_of_Jerusalem",
+        "note": "Married Theodora Komnene, niece of the Byzantine emperor Manuel I, sealing a Byzantine–Frankish alliance."
+      },
+      {
+        "year": 1163,
+        "month": 2,
+        "day": 10,
+        "type": "death",
+        "tags": [
+          "death",
+          "king",
+          "monarch"
+        ],
+        "weight": 88,
+        "label": "Death at Beirut",
+        "labelCn": "在贝鲁特去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Baldwin_III_of_Jerusalem",
+        "note": "Died childless at Beirut on 10 February 1163 after a short illness; poisoning was rumored but unproven. Succeeded by his brother Amalric I."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Fulk_V,_Count_of_Anjou",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Fulk_V,_Count_of_Anjou",
+    "sourceNote": "Runciman, A History of the Crusades; Riley-Smith; William of Tyre.",
+    "notes": "King of Jerusalem 1143–1163 and the first ruler of the kingdom born in the East. He broke free of his mother Melisende's regency in 1152, captured Ascalon in 1153, and forged a Byzantine alliance through his marriage to Theodora Komnene. He died childless and was succeeded by his brother Amalric; the rumor of poisoning is not confirmed.",
+    "createdDate": "20260822",
+    "createdOrder": 48,
+    "deathCause": {
+      "kind": "uncertain",
+      "summary": "Died after a short illness; poisoning rumored but unproven",
+      "summaryCn": "短期病逝；有中毒传闻但未证实",
+      "detail": "Baldwin III died at Beirut on 10 February 1163, aged about 32, after a short illness; some sources allege poisoning, but this is unproven.",
+      "detailCn": "1163 年 2 月 10 日，鲍德温三世短期患病后卒于贝鲁特，享年约 32 岁；有史料指系中毒，但未获证实。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Baldwin_III_of_Jerusalem"
+    }
+  },
+  {
+    "id": "c9410000-0000-4000-8000-000000000037",
+    "firstName": "Amalric",
+    "lastName": "of Jerusalem",
+    "displayName": "Amalric I of Jerusalem",
+    "fullName": "Amalric I, King of Jerusalem",
+    "displayNameCn": "耶路撒冷的阿马尔里克一世",
+    "fullNameCn": "耶路撒冷国王阿马尔里克一世",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1136,
+    "deathYear": 1174,
+    "birthPlace": "Latin East",
+    "birthPlaceCn": "拉丁东方",
+    "deathPlace": "Jerusalem",
+    "deathPlaceCn": "耶路撒冷",
+    "gender": "male",
+    "dynasty": "House of Anjou",
+    "house": "House of Anjou",
+    "culture": "Frankish",
+    "faith": "Catholic",
+    "primaryTitle": "King of Jerusalem",
+    "primaryTitleCn": "耶路撒冷国王",
+    "titles": [
+      {
+        "title": "King of Jerusalem",
+        "titleCn": "耶路撒冷国王",
+        "startYear": "",
+        "endYear": 1174
+      }
+    ],
+    "tags": [
+      "king",
+      "monarch",
+      "noble"
+    ],
+    "rank": "king",
+    "importanceScore": 80,
+    "historicalRating": 8,
+    "relationships": {
+      "fatherId": "c9300000-0000-4000-8000-000000000026",
+      "motherId": "c9390000-0000-4000-8000-000000000035",
+      "spouseIds": [
+        "c9420000-0000-4000-8000-000000000038",
+        "c9430000-0000-4000-8000-000000000039"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "c9440000-0000-4000-8000-000000000040",
+        "c9450000-0000-4000-8000-000000000041",
+        "c9460000-0000-4000-8000-000000000042"
+      ]
+    },
+    "events": [
+      {
+        "year": 1157,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynasty"
+        ],
+        "weight": 72,
+        "label": "Marriage to Agnes of Courtenay",
+        "labelCn": "与库特奈的阿涅斯成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Agnes_of_Courtenay",
+        "note": "Married Agnes of Courtenay; the marriage was later annulled for consanguinity but their children Baldwin and Sibylla were declared legitimate."
+      },
+      {
+        "year": 1163,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "coronation",
+          "king",
+          "monarch"
+        ],
+        "weight": 84,
+        "label": "Accession as king of Jerusalem",
+        "labelCn": "继位为耶路撒冷国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Amalric_I_of_Jerusalem",
+        "note": "Succeeded his brother Baldwin III in February 1163; as a condition of his succession the barons required him to set aside Agnes of Courtenay."
+      },
+      {
+        "year": 1163,
+        "type": "annulment",
+        "tags": [
+          "politics",
+          "succession"
+        ],
+        "weight": 68,
+        "label": "Annulment of marriage to Agnes of Courtenay",
+        "labelCn": "与阿涅斯的婚姻被宣告无效",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Amalric_I_of_Jerusalem",
+        "note": "The marriage was annulled on grounds of consanguinity, but the children Baldwin IV and Sibylla were legitimized."
+      },
+      {
+        "year": 1167,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance",
+          "king"
+        ],
+        "weight": 75,
+        "label": "Marriage to Maria Komnene",
+        "labelCn": "与玛利亚·科穆宁成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Maria_Komnene,_Queen_of_Jerusalem",
+        "note": "Married Maria Komnene, grand-niece of Emperor Manuel I, renewing the Byzantine alliance; their daughter Isabella was born in 1172."
+      },
+      {
+        "year": 1167,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "king",
+          "commander"
+        ],
+        "weight": 82,
+        "label": "Campaign in Egypt and capture of Alexandria",
+        "labelCn": "远征埃及并占领亚历山大",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Amalric_I_of_Jerusalem",
+        "note": "Allied with the Egyptian vizier Shawar, Amalric drove Shirkuh out of Alexandria, briefly gaining a foothold in Egypt."
+      },
+      {
+        "year": 1168,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "war",
+          "king"
+        ],
+        "weight": 78,
+        "label": "Invasion of Egypt and sack of Bilbeis",
+        "labelCn": "入侵埃及并洗劫比尔拜斯",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Amalric_I_of_Jerusalem",
+        "note": "Amalric's invasion of Egypt and the sack of Bilbeis alienated Shawar, who turned to Shirkuh and Nur ad-Din for aid."
+      },
+      {
+        "year": 1169,
+        "type": "war",
+        "tags": [
+          "war",
+          "political_crisis",
+          "defeat"
+        ],
+        "weight": 76,
+        "label": "Saladin's seizure of Egypt",
+        "labelCn": "萨拉丁控制埃及",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Amalric_I_of_Jerusalem",
+        "note": "After Shirkuh's entry into Cairo, Saladin took control of Egypt, ending Amalric's hopes of annexing the country and threatening the kingdom."
+      },
+      {
+        "year": 1171,
+        "type": "diplomacy",
+        "tags": [
+          "diplomacy",
+          "dynasty",
+          "king"
+        ],
+        "weight": 72,
+        "label": "Visit to Constantinople and alliance with Manuel I",
+        "labelCn": "出访君士坦丁堡并与曼努埃尔一世结盟",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Amalric_I_of_Jerusalem",
+        "note": "Visited Constantinople in 1171, the first Latin king to do so, and concluded an alliance with Emperor Manuel I against Egypt."
+      },
+      {
+        "year": 1174,
+        "month": 7,
+        "day": 11,
+        "type": "death",
+        "tags": [
+          "death",
+          "king",
+          "monarch"
+        ],
+        "weight": 88,
+        "label": "Death at Jerusalem",
+        "labelCn": "在耶路撒冷去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Amalric_I_of_Jerusalem",
+        "note": "Died of dysentery at Jerusalem on 11 July 1174, aged about 38; succeeded by his leper son Baldwin IV."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Fulk_V,_Count_of_Anjou",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Fulk_V,_Count_of_Anjou",
+    "sourceNote": "Runciman; Riley-Smith; William of Tyre on Amalric's Egyptian campaigns.",
+    "notes": "King of Jerusalem 1163–1174, whose reign was dominated by repeated attempts to conquer Fatimid Egypt, which ultimately failed and helped bring Saladin to power. His annulment of Agnes of Courtenay and second marriage to Maria Komnene shaped the succession disputes that followed. He died of dysentery, leaving the kingdom to his leper son Baldwin IV.",
+    "createdDate": "20260822",
+    "createdOrder": 49,
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died of dysentery",
+      "summaryCn": "死于痢疾",
+      "detail": "Amalric contracted dysentery while campaigning near Banyas after Nur ad-Din's death and died at Jerusalem on 11 July 1174.",
+      "detailCn": "阿马尔里克在努尔丁死后于巴尼亚斯附近征战期间染上痢疾，1174 年 7 月 11 日于耶路撒冷去世。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Amalric_I_of_Jerusalem"
+    }
+  },
+  {
+    "id": "c9420000-0000-4000-8000-000000000038",
+    "firstName": "Agnes",
+    "lastName": "of Jerusalem",
+    "displayName": "Agnes of Courtenay",
+    "fullName": "Agnes of Courtenay, Queen of Jerusalem",
+    "displayNameCn": "库特奈的艾格尼丝",
+    "fullNameCn": "耶路撒冷王后库特奈的艾格尼丝",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1136,
+    "deathYear": 1184,
+    "birthPlace": "Latin East",
+    "birthPlaceCn": "拉丁东方",
+    "deathPlace": "Acre",
+    "deathPlaceCn": "阿克",
+    "gender": "female",
+    "dynasty": "House of Anjou",
+    "house": "House of Anjou",
+    "culture": "Frankish",
+    "faith": "Catholic",
+    "primaryTitle": "Queen of Jerusalem",
+    "primaryTitleCn": "耶路撒冷王后",
+    "titles": [
+      {
+        "title": "Queen of Jerusalem",
+        "titleCn": "耶路撒冷王后",
+        "startYear": "",
+        "endYear": 1184
+      }
+    ],
+    "tags": [
+      "queen",
+      "consort",
+      "noble"
+    ],
+    "rank": "queen",
+    "importanceScore": 70,
+    "historicalRating": 7,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "c9410000-0000-4000-8000-000000000037"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "c9440000-0000-4000-8000-000000000040",
+        "c9450000-0000-4000-8000-000000000041"
+      ]
+    },
+    "events": [
+      {
+        "year": 1157,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance",
+          "queen"
+        ],
+        "weight": 74,
+        "label": "Marriage to Amalric of Jerusalem",
+        "labelCn": "与耶路撒冷的阿马尔里克成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Agnes_of_Courtenay"
+      },
+      {
+        "year": 1163,
+        "type": "annulment",
+        "tags": [
+          "annulment",
+          "politics",
+          "succession"
+        ],
+        "weight": 70,
+        "label": "Marriage annulled when Amalric became king",
+        "labelCn": "阿马尔里克继位后婚姻被宣告无效",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Agnes_of_Courtenay",
+        "note": "Annulled on grounds of consanguinity; the children Baldwin IV and Sibylla were declared legitimate."
+      },
+      {
+        "year": 1176,
+        "type": "government",
+        "tags": [
+          "government",
+          "politics",
+          "queen"
+        ],
+        "weight": 60,
+        "label": "Secured her brother Joscelin III's appointment as seneschal",
+        "labelCn": "为其弟若斯兰三世谋得总管之职",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Agnes_of_Courtenay"
+      },
+      {
+        "year": 1180,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "diplomacy",
+          "politics"
+        ],
+        "weight": 72,
+        "label": "Arranged Sibylla's marriage to Guy of Lusignan",
+        "labelCn": "安排西比拉与居伊·德·吕西尼昂成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Agnes_of_Courtenay"
+      },
+      {
+        "year": 1184,
+        "type": "death",
+        "tags": [
+          "death",
+          "queen",
+          "noble"
+        ],
+        "weight": 80,
+        "label": "Death at Acre",
+        "labelCn": "在阿克去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Agnes_of_Courtenay",
+        "note": "Died in 1184; the place of death is usually given as Acre."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Fulk_V,_Count_of_Anjou",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Fulk_V,_Count_of_Anjou",
+    "sourceNote": "Runciman, A History of the Crusades; Wikipedia (Agnes of Courtenay), used for navigation.",
+    "notes": "Mother of Baldwin IV and Sibylla, whose annulled marriage to Amalric I left her excluded from the queenship but influential at court. She steered appointments and helped bring Guy of Lusignan to power through Sibylla's marriage.",
+    "createdDate": "20260822",
+    "createdOrder": 50
+  },
+  {
+    "id": "c9430000-0000-4000-8000-000000000039",
+    "firstName": "Maria",
+    "lastName": "of Jerusalem",
+    "displayName": "Maria Komnene",
+    "fullName": "Maria Komnene, Queen of Jerusalem",
+    "displayNameCn": "科穆宁的玛丽亚",
+    "fullNameCn": "耶路撒冷王后科穆宁的玛丽亚",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1152,
+    "deathYear": 1217,
+    "birthPlace": "Latin East",
+    "birthPlaceCn": "拉丁东方",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "female",
+    "dynasty": "House of Anjou",
+    "house": "House of Anjou",
+    "culture": "Frankish",
+    "faith": "Catholic",
+    "primaryTitle": "Queen of Jerusalem",
+    "primaryTitleCn": "耶路撒冷王后",
+    "titles": [
+      {
+        "title": "Queen of Jerusalem",
+        "titleCn": "耶路撒冷王后",
+        "startYear": "",
+        "endYear": 1182
+      }
+    ],
+    "tags": [
+      "queen",
+      "consort",
+      "noble"
+    ],
+    "rank": "queen",
+    "importanceScore": 70,
+    "historicalRating": 7,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "c9410000-0000-4000-8000-000000000037"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "c9460000-0000-4000-8000-000000000042"
+      ]
+    },
+    "events": [
+      {
+        "year": 1167,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance",
+          "queen"
+        ],
+        "weight": 78,
+        "label": "Marriage to Amalric I of Jerusalem",
+        "labelCn": "与耶路撒冷国王阿马尔里克一世成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Maria_Komnene,_Queen_of_Jerusalem"
+      },
+      {
+        "year": 1172,
+        "type": "childbirth",
+        "tags": [
+          "dynasty",
+          "queen"
+        ],
+        "weight": 70,
+        "label": "Birth of daughter Isabella",
+        "labelCn": "生下女儿伊莎贝拉",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Maria_Komnene,_Queen_of_Jerusalem",
+        "note": "Isabella later became Queen of Jerusalem."
+      },
+      {
+        "year": 1177,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance",
+          "noble"
+        ],
+        "weight": 74,
+        "label": "Marriage to Balian of Ibelin",
+        "labelCn": "与伊贝林的巴利安成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Maria_Komnene,_Queen_of_Jerusalem"
+      },
+      {
+        "year": 1190,
+        "type": "political_crisis",
+        "tags": [
+          "political_crisis",
+          "politics",
+          "succession"
+        ],
+        "weight": 76,
+        "label": "Advocated annulment of Isabella's marriage so she could wed Conrad of Montferrat",
+        "labelCn": "推动伊莎贝拉解除婚约以嫁给蒙费拉的康拉德",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Maria_Komnene,_Queen_of_Jerusalem"
+      },
+      {
+        "year": 1217,
+        "type": "death",
+        "tags": [
+          "death",
+          "queen",
+          "noble"
+        ],
+        "weight": 78,
+        "label": "Death",
+        "labelCn": "去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Maria_Komnene,_Queen_of_Jerusalem",
+        "note": "She died in 1217, having retired to a convent; a few sources give 1208."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Fulk_V,_Count_of_Anjou",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Fulk_V,_Count_of_Anjou",
+    "sourceNote": "Runciman, A History of the Crusades; Wikipedia (Maria Komnene, Queen of Jerusalem), used for navigation.",
+    "notes": "Grand-niece of Emperor Manuel I Komnenos and queen of Jerusalem through her marriage to Amalric I. After Amalric's death she married Balian of Ibelin and later championed her daughter Isabella's succession. The card's deathYear (1182) is incorrect and should be corrected to 1217.",
+    "createdDate": "20260822",
+    "createdOrder": 51
+  },
+  {
+    "id": "c9440000-0000-4000-8000-000000000040",
+    "firstName": "Baldwin",
+    "lastName": "of Jerusalem",
+    "displayName": "Baldwin IV of Jerusalem",
+    "fullName": "Baldwin IV, King of Jerusalem",
+    "displayNameCn": "耶路撒冷的鲍德温四世",
+    "fullNameCn": "耶路撒冷国王鲍德温四世",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1161,
+    "deathYear": 1185,
+    "birthPlace": "Latin East",
+    "birthPlaceCn": "拉丁东方",
+    "deathPlace": "Jerusalem",
+    "deathPlaceCn": "耶路撒冷",
+    "gender": "male",
+    "dynasty": "House of Anjou",
+    "house": "House of Anjou",
+    "culture": "Frankish",
+    "faith": "Catholic",
+    "primaryTitle": "King of Jerusalem",
+    "primaryTitleCn": "耶路撒冷国王",
+    "titles": [
+      {
+        "title": "King of Jerusalem",
+        "titleCn": "耶路撒冷国王",
+        "startYear": "",
+        "endYear": 1185
+      }
+    ],
+    "tags": [
+      "king",
+      "monarch",
+      "noble"
+    ],
+    "rank": "king",
+    "importanceScore": 90,
+    "historicalRating": 9,
+    "relationships": {
+      "fatherId": "c9410000-0000-4000-8000-000000000037",
+      "motherId": "c9420000-0000-4000-8000-000000000038",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1174,
+        "month": 7,
+        "day": 15,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "king",
+          "monarch"
+        ],
+        "weight": 85,
+        "label": "Coronation as king of Jerusalem",
+        "labelCn": "加冕为耶路撒冷国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Baldwin_IV_of_Jerusalem",
+        "note": "Succeeded his father Amalric I on 11 July 1174 and was crowned on 15 July 1174, aged 13, with Raymond III of Tripoli as regent."
+      },
+      {
+        "year": 1174,
+        "type": "regency",
+        "tags": [
+          "regency",
+          "king",
+          "politics"
+        ],
+        "weight": 68,
+        "label": "Regency of Raymond III of Tripoli",
+        "labelCn": "的黎波里的雷蒙三世摄政",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Baldwin_IV_of_Jerusalem",
+        "note": "During Baldwin's minority the kingdom was governed by Raymond III of Tripoli."
+      },
+      {
+        "year": 1176,
+        "type": "government",
+        "tags": [
+          "government",
+          "king",
+          "monarch"
+        ],
+        "weight": 65,
+        "label": "Assumes personal rule at his majority",
+        "labelCn": "成年后亲政",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Baldwin_IV_of_Jerusalem",
+        "note": "Baldwin came of age in 1176 and took personal charge of government despite his advancing illness."
+      },
+      {
+        "year": 1177,
+        "month": 11,
+        "day": 25,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "commander",
+          "main_commander",
+          "king",
+          "crusade"
+        ],
+        "weight": 100,
+        "label": "Battle of Montgisard",
+        "labelCn": "蒙吉萨尔之战",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Montgisard",
+        "note": "On 25 November 1177 Baldwin, already severely affected by leprosy, led a small Christian force to a decisive victory over Saladin near Ramla."
+      },
+      {
+        "year": 1178,
+        "type": "government",
+        "tags": [
+          "government",
+          "territory"
+        ],
+        "weight": 68,
+        "label": "Construction of the Jacob's Ford fortress",
+        "labelCn": "修建雅各渡口城堡",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Jacob%27s_Ford",
+        "note": "Baldwin ordered the construction of the castle of Jacob's Ford on the Jordan to threaten Damascus, provoking Saladin's counterattacks."
+      },
+      {
+        "year": 1179,
+        "month": 6,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "defeat",
+          "king",
+          "commander"
+        ],
+        "weight": 80,
+        "label": "Battle of Marj Ayyun",
+        "labelCn": "马尔季阿尤恩之战",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Marj_Ayyun",
+        "note": "In June 1179 the Frankish army was defeated by Saladin at Marj Ayyun; Baldwin narrowly escaped capture."
+      },
+      {
+        "year": 1180,
+        "type": "treaty",
+        "tags": [
+          "treaty",
+          "diplomacy",
+          "king"
+        ],
+        "weight": 68,
+        "label": "Truce with Saladin",
+        "labelCn": "与萨拉丁停战",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Baldwin_IV_of_Jerusalem",
+        "note": "After the setbacks of 1179 Baldwin concluded a truce with Saladin in 1180 to buy time for the kingdom."
+      },
+      {
+        "year": 1180,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "politics",
+          "king"
+        ],
+        "weight": 72,
+        "label": "Arranged Sibylla's marriage to Guy of Lusignan",
+        "labelCn": "安排西比拉与居伊·德·吕西尼昂成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Guy_of_Lusignan",
+        "note": "Baldwin arranged his sister Sibylla's marriage to Guy of Lusignan, partly to secure foreign support and thwart rival plans."
+      },
+      {
+        "year": 1182,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "commander",
+          "king"
+        ],
+        "weight": 78,
+        "label": "Battle of Belvoir Castle",
+        "labelCn": "贝尔沃城堡之战",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Belvoir_Castle",
+        "note": "In 1182 Baldwin, though nearly blind and carried in a litter, commanded the army in the inconclusive battle of Le Forbelet (Belvoir) against Saladin."
+      },
+      {
+        "year": 1183,
+        "type": "regency",
+        "tags": [
+          "regency",
+          "political_crisis",
+          "king"
+        ],
+        "weight": 70,
+        "label": "Guy of Lusignan named regent, then dismissed",
+        "labelCn": "任命居伊为摄政后又将其罢免",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Baldwin_IV_of_Jerusalem",
+        "note": "In 1183 Baldwin made Guy regent, but after Guy's failure during the Kerak campaign he dismissed him, worsening the succession crisis."
+      },
+      {
+        "year": 1183,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "succession",
+          "king"
+        ],
+        "weight": 84,
+        "label": "Baldwin V crowned co-king",
+        "labelCn": "鲍德温五世加冕为共治国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Baldwin_V_of_Jerusalem",
+        "note": "In November 1183 Baldwin had his nephew Baldwin V, son of Sibylla, crowned co-king to secure the succession against Guy of Lusignan."
+      },
+      {
+        "year": 1183,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "commander",
+          "king",
+          "campaign"
+        ],
+        "weight": 90,
+        "label": "Relief of the siege of Kerak",
+        "labelCn": "解围卡拉克",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Siege_of_Kerak",
+        "note": "In late 1183 Baldwin, carried on a litter, personally led the army that forced Saladin to abandon the siege of Kerak."
+      },
+      {
+        "year": 1184,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "battle",
+          "king"
+        ],
+        "weight": 74,
+        "label": "Second relief of Kerak",
+        "labelCn": "再次解围卡拉克",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Siege_of_Kerak",
+        "note": "In 1184 Saladin besieged Kerak again; the approach of the royal army forced him to withdraw."
+      },
+      {
+        "year": 1185,
+        "month": 3,
+        "day": 16,
+        "type": "death",
+        "tags": [
+          "death",
+          "king",
+          "monarch"
+        ],
+        "weight": 90,
+        "label": "Death at Jerusalem",
+        "labelCn": "在耶路撒冷去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Baldwin_IV_of_Jerusalem",
+        "note": "Died of leprosy at Jerusalem on 16 March 1185, aged about 23; buried in the Church of the Holy Sepulchre."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Fulk_V,_Count_of_Anjou",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Fulk_V,_Count_of_Anjou",
+    "sourceNote": "Runciman; Riley-Smith; Hamilton, The Leper King and His Heirs; William of Tyre.",
+    "notes": "The 'Leper King' of Jerusalem (1174–1185), who ruled effectively for years despite leprosy that left him blind and immobile. He won the decisive victory of Montgisard (1177) and held the kingdom together against Saladin, but his childlessness and illness opened a succession crisis between Guy of Lusignan and Raymond III of Tripoli. His death was followed within two years by the catastrophe of Hattin and the fall of Jerusalem.",
+    "createdDate": "20260822",
+    "createdOrder": 52,
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died of leprosy",
+      "summaryCn": "死于麻风病",
+      "detail": "Baldwin IV's leprosy, diagnosed in childhood by William of Tyre, progressed until he was blind and unable to walk; he died at Jerusalem on 16 March 1185 and was buried in the Church of the Holy Sepulchre.",
+      "detailCn": "鲍德温四世的麻风病在童年时即被提尔的威廉确诊，病情逐渐恶化至失明、无法行走；1185 年 3 月 16 日于耶路撒冷去世，葬于圣墓教堂。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Baldwin_IV_of_Jerusalem"
+    }
+  },
+  {
+    "id": "c9450000-0000-4000-8000-000000000041",
+    "firstName": "Sibylla",
+    "lastName": "of Jerusalem",
+    "displayName": "Sibylla of Jerusalem",
+    "fullName": "Sibylla, Queen of Jerusalem",
+    "displayNameCn": "耶路撒冷的西比拉",
+    "fullNameCn": "耶路撒冷女王西比拉",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1159,
+    "deathYear": 1190,
+    "birthPlace": "Latin East",
+    "birthPlaceCn": "拉丁东方",
+    "deathPlace": "Acre",
+    "deathPlaceCn": "阿卡",
+    "gender": "female",
+    "dynasty": "House of Anjou",
+    "house": "House of Anjou",
+    "culture": "Frankish",
+    "faith": "Catholic",
+    "primaryTitle": "Queen of Jerusalem",
+    "primaryTitleCn": "耶路撒冷女王",
+    "titles": [
+      {
+        "title": "Queen of Jerusalem",
+        "titleCn": "耶路撒冷女王",
+        "startYear": "",
+        "endYear": 1190
+      }
+    ],
+    "tags": [
+      "queen",
+      "monarch",
+      "noble"
+    ],
+    "rank": "queen",
+    "importanceScore": 80,
+    "historicalRating": 8,
+    "relationships": {
+      "fatherId": "c9410000-0000-4000-8000-000000000037",
+      "motherId": "c9420000-0000-4000-8000-000000000038",
+      "spouseIds": [
+        "c9500000-0000-4000-8000-000000000000",
+        "c9510000-0000-4000-8000-000000000000"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "c9520000-0000-4000-8000-000000000000",
+        "c9530000-0000-4000-8000-000000000000",
+        "c9540000-0000-4000-8000-000000000000"
+      ]
+    },
+    "events": [
+      {
+        "year": 1176,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance",
+          "queen"
+        ],
+        "weight": 75,
+        "label": "Marriage to William of Montferrat",
+        "labelCn": "与蒙费拉的威廉成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/William_of_Montferrat,_Count_of_Jaffa_and_Ascalon",
+        "note": "Married William Longsword of Montferrat in 1176; he died the following year, leaving her pregnant with the future Baldwin V."
+      },
+      {
+        "year": 1180,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance",
+          "queen",
+          "politics"
+        ],
+        "weight": 78,
+        "label": "Marriage to Guy of Lusignan",
+        "labelCn": "与居伊·德·吕西尼昂成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Guy_of_Lusignan",
+        "note": "Baldwin IV married Sibylla to Guy of Lusignan in 1180, both to gain outside support and to counter a plot to wed her to Baldwin of Ibelin."
+      },
+      {
+        "year": 1186,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "queen",
+          "monarch",
+          "succession"
+        ],
+        "weight": 85,
+        "label": "Coronation as queen and crowning of Guy",
+        "labelCn": "加冕为女王并为居伊加冕",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Sibylla,_Queen_of_Jerusalem",
+        "note": "On Baldwin V's death in 1186 the barons accepted Sibylla as queen only after she agreed to set aside Guy; instead she crowned him king, provoking her half-sister Isabella's party."
+      },
+      {
+        "year": 1186,
+        "type": "political_crisis",
+        "tags": [
+          "political_crisis",
+          "succession",
+          "queen",
+          "politics"
+        ],
+        "weight": 72,
+        "label": "Succession dispute with Isabella's party",
+        "labelCn": "与伊莎贝拉一派的王位之争",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Sibylla,_Queen_of_Jerusalem",
+        "note": "Raymond III of Tripoli and the Ibelins backed Isabella I's claim, but the plot collapsed when Isabella's husband Humphrey IV submitted to Guy."
+      },
+      {
+        "year": 1187,
+        "month": 7,
+        "day": 4,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "defeat",
+          "queen",
+          "war"
+        ],
+        "weight": 95,
+        "label": "Battle of Hattin",
+        "labelCn": "哈丁之战",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Hattin",
+        "note": "On 4 July 1187, in Sibylla's reign, Saladin annihilated the Frankish army at Hattin and captured Guy, leaving the kingdom defenceless."
+      },
+      {
+        "year": 1187,
+        "type": "conquest",
+        "tags": [
+          "war",
+          "conquest",
+          "defeat",
+          "queen"
+        ],
+        "weight": 92,
+        "label": "Fall of Jerusalem",
+        "labelCn": "耶路撒冷陷落",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Siege_of_Jerusalem_(1187)",
+        "note": "During Saladin's siege Sibylla remained in Jerusalem; the city surrendered on 2 October 1187, ending Frankish rule of the Holy City."
+      },
+      {
+        "year": 1189,
+        "type": "crusade",
+        "tags": [
+          "crusade",
+          "campaign",
+          "queen"
+        ],
+        "weight": 82,
+        "label": "Third Crusade and the siege of Acre",
+        "labelCn": "第三次十字军东征与阿卡之围",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Siege_of_Acre_(1189%E2%80%931191)",
+        "note": "After Guy's release, the couple joined the Third Crusade's siege of Acre (1189–1191), where Sibylla remained with her daughters."
+      },
+      {
+        "year": 1190,
+        "month": 7,
+        "day": 25,
+        "type": "death",
+        "tags": [
+          "death",
+          "queen",
+          "monarch"
+        ],
+        "weight": 90,
+        "label": "Death at Acre during the siege",
+        "labelCn": "在阿卡围城期间去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Sibylla,_Queen_of_Jerusalem",
+        "note": "Died on 25 July 1190 in an epidemic in the crusader camp at Acre, together with her two daughters by Guy."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Fulk_V,_Count_of_Anjou",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Fulk_V,_Count_of_Anjou",
+    "sourceNote": "Runciman; Riley-Smith; Hamilton, The Leper King and His Heirs.",
+    "notes": "Queen of Jerusalem 1186–1190, ruling with her husband Guy of Lusignan, whose elevation she secured by re-crowning him against the barons' wishes. Her reign saw the disasters of Hattin and the fall of Jerusalem (1187). Her death at the siege of Acre transferred the crown to her half-sister Isabella I; her birth year (c. 1159/1160) is approximate.",
+    "createdDate": "20260822",
+    "createdOrder": 53,
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died of disease in an epidemic at Acre",
+      "summaryCn": "在阿卡因疫病去世",
+      "detail": "Sibylla died on 25 July 1190 of disease during an epidemic in the crusader camp at the siege of Acre; her two daughters by Guy of Lusignan died around the same time.",
+      "detailCn": "1190 年 7 月 25 日，西比拉在阿卡围城的十字军营地中因疫病去世；她与居伊·德·吕西尼昂所生的两个女儿也大约在同一时期夭折。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Sibylla,_Queen_of_Jerusalem"
+    }
+  },
+  {
+    "id": "c9460000-0000-4000-8000-000000000042",
+    "firstName": "Isabella",
+    "lastName": "of Jerusalem",
+    "displayName": "Isabella I of Jerusalem",
+    "fullName": "Isabella I, Queen of Jerusalem",
+    "displayNameCn": "耶路撒冷的伊莎贝拉一世",
+    "fullNameCn": "耶路撒冷女王伊莎贝拉一世",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1172,
+    "deathYear": 1205,
+    "birthPlace": "Latin East",
+    "birthPlaceCn": "拉丁东方",
+    "deathPlace": "Acre",
+    "deathPlaceCn": "阿卡",
+    "gender": "female",
+    "dynasty": "House of Anjou",
+    "house": "House of Anjou",
+    "culture": "Frankish",
+    "faith": "Catholic",
+    "primaryTitle": "Queen of Jerusalem",
+    "primaryTitleCn": "耶路撒冷女王",
+    "titles": [
+      {
+        "title": "Queen of Jerusalem",
+        "titleCn": "耶路撒冷女王",
+        "startYear": "",
+        "endYear": 1205
+      }
+    ],
+    "tags": [
+      "queen",
+      "monarch",
+      "noble"
+    ],
+    "rank": "queen",
+    "importanceScore": 80,
+    "historicalRating": 8,
+    "relationships": {
+      "fatherId": "c9410000-0000-4000-8000-000000000037",
+      "motherId": "c9430000-0000-4000-8000-000000000039",
+      "spouseIds": [
+        "c9550000-0000-4000-8000-000000000000",
+        "c9560000-0000-4000-8000-000000000000",
+        "c9570000-0000-4000-8000-000000000000",
+        "c9580000-0000-4000-8000-000000000000"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "c9590000-0000-4000-8000-000000000000",
+        "c9600000-0000-4000-8000-000000000000",
+        "c9610000-0000-4000-8000-000000000000",
+        "c9620000-0000-4000-8000-000000000000",
+        "c9630000-0000-4000-8000-000000000000"
+      ]
+    },
+    "events": [
+      {
+        "year": 1183,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynasty",
+          "queen"
+        ],
+        "weight": 75,
+        "label": "Marriage to Humphrey IV of Toron at Kerak",
+        "labelCn": "在卡拉克与托隆的翁弗鲁瓦四世成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Humphrey_IV_of_Toron",
+        "note": "Married Humphrey IV of Toron in November 1183 at Kerak, even as Saladin besieged the castle."
+      },
+      {
+        "year": 1186,
+        "type": "political_crisis",
+        "tags": [
+          "political_crisis",
+          "succession",
+          "queen",
+          "politics"
+        ],
+        "weight": 70,
+        "label": "Claim bypassed in the succession of 1186",
+        "labelCn": "1186年王位继承中被排除",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Isabella_I_of_Jerusalem",
+        "note": "Isabella's party backed her claim over Sibylla in 1186, but the plan failed when her husband Humphrey submitted to Guy of Lusignan."
+      },
+      {
+        "year": 1190,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "coronation",
+          "queen",
+          "monarch"
+        ],
+        "weight": 84,
+        "label": "Accession as queen of Jerusalem",
+        "labelCn": "继位为耶路撒冷女王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Isabella_I_of_Jerusalem",
+        "note": "On Sibylla's death in 1190 Isabella succeeded as queen; her marriage to Humphrey was annulled so she could wed a capable ruler."
+      },
+      {
+        "year": 1190,
+        "type": "annulment",
+        "tags": [
+          "politics",
+          "queen"
+        ],
+        "weight": 68,
+        "label": "Annulment of marriage to Humphrey IV",
+        "labelCn": "与翁弗鲁瓦四世的婚姻被宣告无效",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Isabella_I_of_Jerusalem",
+        "note": "The marriage was annulled in November 1190 on grounds of Isabella's minority at the time and Humphrey's perceived weakness."
+      },
+      {
+        "year": 1190,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance",
+          "queen"
+        ],
+        "weight": 76,
+        "label": "Marriage to Conrad of Montferrat",
+        "labelCn": "与蒙费拉的康拉德成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Conrad_of_Montferrat",
+        "note": "Married Conrad of Montferrat, the defender of Tyre and the leading candidate to rule with her."
+      },
+      {
+        "year": 1192,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynasty",
+          "queen"
+        ],
+        "weight": 74,
+        "label": "Marriage to Henry II of Champagne",
+        "labelCn": "与香槟的亨利二世成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_II,_Count_of_Champagne",
+        "note": "After Conrad's assassination in April 1192, Isabella married Henry II of Champagne, who ruled the kingdom with her."
+      },
+      {
+        "year": 1198,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynasty",
+          "queen"
+        ],
+        "weight": 72,
+        "label": "Marriage to Aimery of Lusignan",
+        "labelCn": "与吕西尼昂的艾默里成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Aimery_of_Cyprus",
+        "note": "After Henry's death in 1197, Isabella married Aimery of Lusignan, king of Cyprus, in 1198, uniting the two crowns."
+      },
+      {
+        "year": 1205,
+        "month": 4,
+        "day": 5,
+        "type": "death",
+        "tags": [
+          "death",
+          "queen",
+          "monarch"
+        ],
+        "weight": 88,
+        "label": "Death at Acre",
+        "labelCn": "在阿卡去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Isabella_I_of_Jerusalem",
+        "note": "Died on 5 April 1205 at Acre, four days after Aimery; the cause is not clearly recorded. Succeeded by her daughter Maria of Montferrat."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Fulk_V,_Count_of_Anjou",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Fulk_V,_Count_of_Anjou",
+    "sourceNote": "Runciman; Riley-Smith; Riley-Smith, The Feudal Nobility and the Kingdom of Jerusalem.",
+    "notes": "Queen of Jerusalem 1190–1205, daughter of Amalric I and Maria Komnene, who succeeded her half-sister Sibylla. Her four marriages — to Humphrey IV of Toron, Conrad of Montferrat, Henry II of Champagne and Aimery of Lusignan — reflect the kingdom's reliance on powerful consorts during and after the Third Crusade. She died at Acre in 1205 and was succeeded by her daughter Maria of Montferrat.",
+    "createdDate": "20260822",
+    "createdOrder": 54,
+    "deathCause": {
+      "kind": "uncertain",
+      "summary": "Died shortly after Aimery; cause not clearly recorded",
+      "summaryCn": "在艾默里死后不久去世，死因无明确记载",
+      "detail": "Isabella died at Acre on 5 April 1205, four days after her husband Aimery of Lusignan; some sources suggest grief or illness, but the cause is not clearly recorded.",
+      "detailCn": "1205 年 4 月 5 日，伊莎贝拉在丈夫艾默里·德·吕西尼昂去世四天后卒于阿卡；有史料推测系悲伤或疾病，但死因无明确记载。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Isabella_I_of_Jerusalem"
+    }
+  }
+]

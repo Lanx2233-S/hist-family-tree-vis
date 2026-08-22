@@ -1,0 +1,95 @@
+[
+  {
+    "id": "c1691953-df47-4261-81cc-8e8e4bb54373",
+    "firstName": "Conrad",
+    "lastName": "",
+    "displayName": "Conrad I",
+    "fullName": "Conrad I of East Francia",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Conrad I",
+      "Conrad the Younger",
+      "Konrad I"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "康拉德一世",
+    "fullNameCn": "康拉德一世",
+    "birthYear": 881,
+    "deathYear": 918,
+    "birthPlace": "",
+    "deathPlace": "Weilburg, Germany",
+    "deathPlaceCn": "德意志魏尔堡",
+    "gender": "male",
+    "dynasty": "Conradine dynasty",
+    "house": "Conradine dynasty",
+    "culture": "German",
+    "faith": "Catholic",
+    "primaryTitle": "King of East Francia",
+    "primaryTitleCn": "东法兰克国王",
+    "titles": [
+      {
+        "title": "King of East Francia",
+        "startYear": 911,
+        "endYear": 918,
+        "titleCn": "东法兰克国王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 58,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 881,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Conrad_I_of_Germany"
+      },
+      {
+        "year": 911,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Began rule as King of East Francia",
+        "labelCn": "开始担任东法兰克国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Conrad_I_of_Germany"
+      },
+      {
+        "year": 918,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Conrad_I_of_Germany"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Conrad_I_of_Germany",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Conrad_I_of_Germany",
+    "sourceNote": "First non-Carolingian king of East Francia; on his deathbed he recommended Henry the Fowler as his successor. Core timeline generated from recorded lifespan and titles on 2026-08-20.",
+    "notes": "King of East Francia after the last Carolingian; he advised the nobles to elect Henry the Fowler as his successor.",
+    "createdDate": "20260820",
+    "createdOrder": 4
+  }
+]

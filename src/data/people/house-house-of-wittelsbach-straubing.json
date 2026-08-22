@@ -1,0 +1,424 @@
+[
+  {
+    "id": "f1010000-0000-4000-8000-000000000013",
+    "firstName": "Albert",
+    "lastName": "of Bavaria",
+    "displayName": "Albert I of Bavaria",
+    "fullName": "Albert I of Bavaria, Count of Hainaut, Holland and Zeeland",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [
+      "Albert of Bavaria",
+      "Albrecht I",
+      "Albert of Bavaria-Straubing"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "巴伐利亚的阿尔布雷希特一世",
+    "fullNameCn": "巴伐利亚的阿尔布雷希特一世，埃诺、荷兰与泽兰伯爵",
+    "birthYear": 1336,
+    "deathYear": 1404,
+    "birthPlace": "Munich",
+    "birthPlaceCn": "慕尼黑",
+    "deathPlace": "The Hague",
+    "deathPlaceCn": "海牙",
+    "gender": "male",
+    "dynasty": "Wittelsbach dynasty",
+    "house": "House of Wittelsbach-Straubing",
+    "culture": "Bavarian / Low Countries",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Hainaut",
+    "primaryTitleCn": "埃诺伯爵",
+    "titles": [
+      {
+        "title": "Duke of Bavaria-Straubing",
+        "titleCn": "巴伐利亚-施特劳宾公爵",
+        "startYear": 1353,
+        "endYear": 1404
+      },
+      {
+        "title": "Regent of Hainaut",
+        "titleCn": "埃诺摄政",
+        "startYear": 1358,
+        "endYear": 1389
+      },
+      {
+        "title": "Regent of Holland and Zeeland",
+        "titleCn": "荷兰与泽兰摄政",
+        "startYear": 1358,
+        "endYear": 1389
+      },
+      {
+        "title": "Count of Hainaut",
+        "titleCn": "埃诺伯爵",
+        "startYear": 1389,
+        "endYear": 1404
+      },
+      {
+        "title": "Count of Holland",
+        "titleCn": "荷兰伯爵",
+        "startYear": 1389,
+        "endYear": 1404
+      },
+      {
+        "title": "Count of Zeeland",
+        "titleCn": "泽兰伯爵",
+        "startYear": 1389,
+        "endYear": 1404
+      }
+    ],
+    "tags": [
+      "count",
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "f1010000-0000-4000-8000-000000000012",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "f1010000-0000-4000-8000-000000000014"
+      ]
+    },
+    "events": [
+      {
+        "year": 1358,
+        "type": "regency",
+        "tags": [
+          "regency",
+          "title"
+        ],
+        "weight": 80,
+        "label": "Became regent during William III's incapacity",
+        "labelCn": "在威廉三世失能期间出任摄政",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Hainaut"
+      },
+      {
+        "year": 1389,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 82,
+        "label": "Succeeded as Count of Hainaut",
+        "labelCn": "继承埃诺伯爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Hainaut"
+      }
+    ],
+    "wikiUrl": "",
+    "portraitUrl": "",
+    "sourceUrl": "",
+    "sourceNote": "F. P. van Oostrom, Court and Culture: Dutch Literature, 1350–1450; Hainaut charter and regnal evidence; modern Bavaria-Straubing studies.",
+    "notes": "Albert governed Hainaut, Holland and Zeeland from 1358 because his elder brother William III of Hainaut was incapacitated. Only after William's death in 1389 did Albert become count in his own right. Albert did not directly succeed Margaret II in 1356. The omitted intermediate ruler was William III of Hainaut / William V of Holland / William I of Bavaria-Straubing (1330–1389), count of Hainaut from 1356, with Albert acting as regent from 1358 until 1389.",
+    "createdDate": "20260823",
+    "createdOrder": 103
+  },
+  {
+    "id": "f1010000-0000-4000-8000-000000000014",
+    "firstName": "William",
+    "lastName": "of Hainaut",
+    "displayName": "William IV of Hainaut",
+    "fullName": "William IV of Hainaut, William VI of Holland, William II of Bavaria-Straubing",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [
+      "William VI of Holland",
+      "William II of Bavaria",
+      "Willem VI"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "埃诺的威廉四世",
+    "fullNameCn": "埃诺伯爵威廉四世、荷兰伯爵威廉六世、巴伐利亚-施特劳宾公爵威廉二世",
+    "birthYear": 1365,
+    "deathYear": 1417,
+    "birthPlace": "The Hague",
+    "birthPlaceCn": "海牙",
+    "deathPlace": "Bouchain",
+    "deathPlaceCn": "布尚",
+    "gender": "male",
+    "dynasty": "Wittelsbach dynasty",
+    "house": "House of Wittelsbach-Straubing",
+    "culture": "Bavarian-Low Countries",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Hainaut",
+    "primaryTitleCn": "埃诺伯爵",
+    "titles": [
+      {
+        "title": "Count of Hainaut",
+        "titleCn": "埃诺伯爵",
+        "startYear": 1404,
+        "endYear": 1417
+      },
+      {
+        "title": "Count of Holland",
+        "titleCn": "荷兰伯爵",
+        "startYear": 1404,
+        "endYear": 1417
+      },
+      {
+        "title": "Count of Zeeland",
+        "titleCn": "泽兰伯爵",
+        "startYear": 1404,
+        "endYear": 1417
+      },
+      {
+        "title": "Duke of Bavaria-Straubing",
+        "titleCn": "巴伐利亚-施特劳宾公爵",
+        "startYear": 1404,
+        "endYear": 1417
+      }
+    ],
+    "tags": [
+      "count",
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "f1010000-0000-4000-8000-000000000013",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "f1010000-0000-4000-8000-000000000015"
+      ]
+    },
+    "events": [
+      {
+        "year": 1404,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 82,
+        "label": "Succeeded as Count of Hainaut",
+        "labelCn": "继承埃诺伯爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Hainaut"
+      },
+      {
+        "year": 1417,
+        "type": "death",
+        "tags": [
+          "death",
+          "title"
+        ],
+        "weight": 68,
+        "label": "Died",
+        "labelCn": "去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Hainaut"
+      }
+    ],
+    "wikiUrl": "",
+    "portraitUrl": "",
+    "sourceUrl": "",
+    "sourceNote": "British Museum Collections Online, William VI, Count of Holland and Hainaut; standard Bavaria-Straubing regnal catalogues.",
+    "notes": "William succeeded Albert in 1404 and ruled the linked Hainaut-Holland-Zeeland inheritance until 1417. His only legitimate heiress was Jacqueline of Hainaut. The requested label 'William III of Hainaut (1365–1417)' is incorrect under the standard territorial numbering. The 1365–1417 ruler is William IV of Hainaut, William VI of Holland and William II of Bavaria-Straubing. William III of Hainaut was his uncle, born in 1330 and dead in 1389.",
+    "createdDate": "20260823",
+    "createdOrder": 104
+  },
+  {
+    "id": "f1010000-0000-4000-8000-000000000015",
+    "firstName": "Jacqueline",
+    "lastName": "of Hainaut",
+    "displayName": "Jacqueline of Hainaut",
+    "fullName": "Jacqueline of Bavaria, Countess of Hainaut, Holland and Zeeland",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [
+      "Jacqueline of Bavaria",
+      "Jacoba of Bavaria",
+      "Jacoba van Beieren",
+      "Jacqueline de Hainaut"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "埃诺的雅克琳",
+    "fullNameCn": "巴伐利亚的雅克琳，埃诺、荷兰与泽兰女伯爵",
+    "birthYear": 1401,
+    "deathYear": 1436,
+    "birthPlace": "Le Quesnoy",
+    "birthPlaceCn": "勒凯努瓦",
+    "deathPlace": "Teylingen Castle, Voorhout",
+    "deathPlaceCn": "福尔豪特泰灵恩城堡",
+    "gender": "female",
+    "dynasty": "Wittelsbach dynasty",
+    "house": "House of Wittelsbach-Straubing",
+    "culture": "Bavarian-Low Countries",
+    "faith": "Catholic",
+    "primaryTitle": "Countess of Hainaut",
+    "primaryTitleCn": "埃诺女伯爵",
+    "titles": [
+      {
+        "title": "Countess of Hainaut",
+        "titleCn": "埃诺女伯爵",
+        "startYear": 1417,
+        "endYear": 1433
+      },
+      {
+        "title": "Countess of Holland",
+        "titleCn": "荷兰女伯爵",
+        "startYear": 1417,
+        "endYear": 1433
+      },
+      {
+        "title": "Countess of Zeeland",
+        "titleCn": "泽兰女伯爵",
+        "startYear": 1417,
+        "endYear": 1433
+      }
+    ],
+    "tags": [
+      "countess",
+      "noble"
+    ],
+    "rank": "countess",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "f1010000-0000-4000-8000-000000000014",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1417,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 84,
+        "label": "Succeeded as Countess of Hainaut",
+        "labelCn": "继承埃诺女伯爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Hainaut"
+      },
+      {
+        "year": 1433,
+        "type": "abdication",
+        "tags": [
+          "abdication",
+          "title"
+        ],
+        "weight": 88,
+        "label": "Relinquished Hainaut to Philip the Good",
+        "labelCn": "向好人腓力放弃埃诺",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Hainaut"
+      }
+    ],
+    "wikiUrl": "",
+    "portraitUrl": "",
+    "sourceUrl": "",
+    "sourceNote": "Rijksmuseum collections and Early Netherlandish Paintings catalogue; Antheun Janse's scholarship on Jacoba van Beieren; Treaty of Delft and Treaty of The Hague chronologies.",
+    "notes": "Jacqueline succeeded her father in 1417 and fought a prolonged succession struggle involving her uncle John of Bavaria and Philip the Good. Philip gained effective control after the 1428 settlement and the crisis of 1432; Jacqueline formally relinquished Hainaut, Holland and Zeeland in 1433. The project anchor 'Philip the Good acquired Hainaut in 1432' is useful for de facto political control but not for the formal title chronology. The Treaty of Delft in 1428 left Jacqueline nominal countess while Philip governed and became heir; events in 1432 gave Philip effective control, while the Treaty of The Hague on 12 April 1433 formalized Jacqueline's renunciation. Her countess titles should therefore normally end in 1433, not 1432.",
+    "createdDate": "20260823",
+    "createdOrder": 105
+  },
+  {
+    "id": "f1010000-0000-4000-8000-000000000016",
+    "firstName": "William",
+    "lastName": "of Bavaria-Straubing",
+    "displayName": "William III of Hainaut",
+    "fullName": "William III of Bavaria-Straubing, Count of Hainaut",
+    "displayNameCn": "埃诺的威廉三世",
+    "fullNameCn": "埃诺伯爵、巴伐利亚-施特劳宾的威廉三世",
+    "nickname": "the Mad",
+    "nicknameCn": "狂人",
+    "alsoKnownAs": [
+      "William I, Duke of Bavaria"
+    ],
+    "nicknameTags": [],
+    "birthYear": 1330,
+    "deathYear": 1389,
+    "birthPlace": "Frankfurt",
+    "birthPlaceCn": "法兰克福",
+    "deathPlace": "Le Quesnoy, County of Hainaut",
+    "deathPlaceCn": "埃诺伯国勒凯努瓦",
+    "gender": "male",
+    "dynasty": "Wittelsbach dynasty",
+    "house": "House of Wittelsbach-Straubing",
+    "culture": "Flemish",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Hainaut",
+    "primaryTitleCn": "埃诺伯爵",
+    "titles": [
+      {
+        "title": "Duke of Bavaria-Straubing",
+        "titleCn": "巴伐利亚-施特劳宾公爵",
+        "startYear": 1353,
+        "endYear": 1389
+      },
+      {
+        "title": "Count of Hainaut",
+        "titleCn": "埃诺伯爵",
+        "startYear": 1356,
+        "endYear": 1389
+      }
+    ],
+    "tags": [
+      "count",
+      "duke",
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "02a7f7ff-44ee-4cf7-b770-fe1ea9a59893",
+      "motherId": "f1010000-0000-4000-8000-000000000012",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1356,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 84,
+        "label": "Succeeded as Count of Hainaut",
+        "labelCn": "继承埃诺伯爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Hainaut"
+      },
+      {
+        "year": 1358,
+        "type": "government",
+        "tags": [
+          "government",
+          "title"
+        ],
+        "weight": 80,
+        "label": "Became incapacitated; Albert I began the regency",
+        "labelCn": "失能后由阿尔布雷希特一世开始摄政",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Hainaut"
+      },
+      {
+        "year": 1389,
+        "type": "death",
+        "tags": [
+          "death",
+          "title"
+        ],
+        "weight": 68,
+        "label": "Died",
+        "labelCn": "去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Hainaut"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/William_I,_Duke_of_Bavaria",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/William_I,_Duke_of_Bavaria",
+    "sourceNote": "William I, Duke of Bavaria; County of Hainaut ruler list.",
+    "notes": "Son of Louis IV and Margaret II of Hainaut. He inherited Hainaut in 1356; incapacity from 1358 placed his brother Albert I in regency until his death.",
+    "createdDate": "20260823",
+    "createdOrder": 106
+  }
+]

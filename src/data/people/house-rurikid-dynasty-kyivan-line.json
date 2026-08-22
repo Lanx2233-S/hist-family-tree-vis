@@ -1,0 +1,175 @@
+[
+  {
+    "id": "98c03fcc-014c-4d29-a188-66c67e5a4b9c",
+    "firstName": "Eupraxia",
+    "lastName": "of Kyiv",
+    "displayName": "Eupraxia of Kyiv",
+    "fullName": "Eupraxia Vsevolodovna of Kyiv",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Adelaide of Kyiv",
+      "Adelheid of Kiev",
+      "Eupraxia Vsevolodovna",
+      "Praxedis"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "基辅的欧普拉克西娅",
+    "fullNameCn": "基辅的欧普拉克西娅·弗谢沃洛多芙娜",
+    "nicknameCn": "",
+    "birthYear": 1067,
+    "deathYear": 1109,
+    "birthPlace": "Kyiv",
+    "birthPlaceCn": "基辅",
+    "deathPlace": "Kyiv",
+    "deathPlaceCn": "基辅",
+    "gender": "female",
+    "dynasty": "Rurikid dynasty",
+    "house": "Rurikid dynasty, Kyivan line",
+    "culture": "Kyivan Rus'",
+    "faith": "Catholic",
+    "primaryTitle": "Holy Roman Empress consort",
+    "primaryTitleCn": "神圣罗马帝国皇后",
+    "titles": [
+      {
+        "title": "Margravine consort of the Northern March",
+        "titleCn": "北方边区侯夫人",
+        "startYear": "",
+        "endYear": 1087
+      },
+      {
+        "title": "Queen consort of Germany",
+        "titleCn": "德意志王后",
+        "startYear": 1089,
+        "endYear": 1105
+      },
+      {
+        "title": "Holy Roman Empress consort",
+        "titleCn": "神圣罗马帝国皇后",
+        "startYear": 1089,
+        "endYear": 1105
+      }
+    ],
+    "tags": [
+      "queen",
+      "consort",
+      "noble"
+    ],
+    "rank": "queen",
+    "importanceScore": 77,
+    "historicalRating": 7,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "3dd7dc1c-7473-495d-aac7-0c145d147ed9"
+      ],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1087,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynasty"
+        ],
+        "weight": 60,
+        "label": "Was widowed after the death of her first husband Henry the Long",
+        "labelCn": "首任丈夫长者亨利去世后守寡",
+        "wikiUrl": "https://www.jstor.org/stable/41051745",
+        "note": "Her first husband, Henry the Long, Margrave of the Northern March, died in 1087."
+      },
+      {
+        "year": 1089,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 95,
+        "label": "Married Henry IV and was crowned at Cologne under the name Adelaide",
+        "labelCn": "与亨利四世结婚，并以阿德莱德之名在科隆加冕",
+        "wikiUrl": "https://www.jstor.org/stable/41051745",
+        "month": 8,
+        "day": 18,
+        "note": "The marriage joined the Rurikid princess Eupraxia to the Salian emperor Henry IV; at Cologne she used the name Adelaide."
+      },
+      {
+        "year": 1093,
+        "type": "politics",
+        "tags": [
+          "imprisonment",
+          "politics"
+        ],
+        "weight": 95,
+        "label": "Escaped confinement and reached Matilda of Tuscany's circle",
+        "labelCn": "逃离拘禁并进入托斯卡纳的玛蒂尔达阵营",
+        "wikiUrl": "https://www.jstor.org/stable/41051745",
+        "note": "Sources place her escape from Henry IV's control in northern Italy in 1093; she then reached the political circle of Matilda of Tuscany, though the circumstances are filtered through hostile narratives."
+      },
+      {
+        "year": 1094,
+        "type": "politics",
+        "tags": [
+          "politics",
+          "church"
+        ],
+        "weight": 90,
+        "label": "Her accusations against Henry IV were publicized at the synod of Constance",
+        "labelCn": "针对亨利四世的指控在康斯坦茨宗教会议上被公开",
+        "wikiUrl": "https://www.jstor.org/stable/41051745",
+        "month": 4,
+        "note": "At the synod of Constance, testimony associated with Eupraxia was used by opponents of Henry IV; the most sensational details in later retellings require caution."
+      },
+      {
+        "year": 1095,
+        "type": "religion",
+        "tags": [
+          "religion",
+          "church"
+        ],
+        "weight": 100,
+        "label": "Appeared before the Council of Piacenza to denounce Henry IV",
+        "labelCn": "在皮亚琴察会议上公开控诉亨利四世",
+        "wikiUrl": "https://www.jstor.org/stable/41051745",
+        "month": 3,
+        "note": "At the Council of Piacenza under Pope Urban II, her case against Henry IV gained international ecclesiastical visibility."
+      },
+      {
+        "year": 1099,
+        "type": "politics",
+        "tags": [
+          "politics"
+        ],
+        "weight": 70,
+        "label": "Returned to Kyivan Rus'",
+        "labelCn": "返回基辅罗斯",
+        "wikiUrl": "https://www.jstor.org/stable/41051745",
+        "note": "After years in Central Europe and Italy, Eupraxia returned to the lands of her natal Rurikid dynasty in Kyivan Rus'."
+      },
+      {
+        "year": 1109,
+        "type": "death",
+        "tags": [
+          "death",
+          "queen"
+        ],
+        "weight": 65,
+        "label": "Died in Kyiv",
+        "labelCn": "在基辅去世",
+        "wikiUrl": "https://www.jstor.org/stable/41051745",
+        "month": 7,
+        "day": 10,
+        "note": "Eupraxia died in Kyiv after returning to her natal lands."
+      }
+    ],
+    "wikiUrl": "https://www.jstor.org/stable/41051745",
+    "portraitUrl": "",
+    "sourceUrl": "https://www.jstor.org/stable/41051745",
+    "sourceNote": "Hartmut Rüß, study of Eupraxia/Adelheid in Jahrbücher für Geschichte Osteuropas; Christian Raffensperger, work on Rusian dynastic women; I. S. Robinson, Henry IV of Germany, 1056–1106; narrative sources including Bernold and the Council of Piacenza tradition.",
+    "notes": "Eupraxia was a Rurikid princess whose second marriage placed a Kyivan dynastic link at the center of the Investiture Controversy. Her break with Henry IV became politically useful to the reform papacy and Henry's German and Italian opponents.\n\nConfidence / caveats: Her birth year c.1067 is approximate, and her mother's precise identity is inconsistently given in modern genealogies. She was born into the Byzantine/Eastern Christian milieu of Kyivan Rus'; the project's fixed 'Catholic' field reflects her Western Latin-rite queenship and is schematic. The allegations she made against Henry IV are historically attested as accusations, but their lurid substantive details are partisan and cannot simply be treated as proven facts. No securely attested children are known from either marriage.\n\nUnlinked family (not in roster): father: Vsevolod I of Kyiv; mother: Anna; spouse: Henry the Long, Margrave of the Northern March",
+    "createdDate": "20260823",
+    "createdOrder": 112
+  }
+]

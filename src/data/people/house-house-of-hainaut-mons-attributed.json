@@ -1,0 +1,97 @@
+[
+  {
+    "id": "f1010000-0000-4000-8000-000000000001",
+    "firstName": "Richilde",
+    "lastName": "of Hainaut",
+    "displayName": "Richilde of Hainaut",
+    "fullName": "Richilde, Countess of Hainaut",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [
+      "Richildis",
+      "Richilda",
+      "Richilde of Mons"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "埃诺的里希尔德",
+    "fullNameCn": "埃诺女伯爵里希尔德",
+    "birthYear": 1018,
+    "deathYear": 1086,
+    "birthPlace": "",
+    "birthPlaceCn": "",
+    "deathPlace": "Mesen (Messines)",
+    "deathPlaceCn": "梅森（梅西讷）",
+    "gender": "female",
+    "dynasty": "Reginarids (attributed; disputed)",
+    "house": "House of Hainaut / Mons (attributed)",
+    "culture": "Lotharingian",
+    "faith": "Catholic",
+    "primaryTitle": "Countess of Hainaut",
+    "primaryTitleCn": "埃诺女伯爵",
+    "titles": [
+      {
+        "title": "Countess of Hainaut",
+        "titleCn": "埃诺女伯爵",
+        "startYear": 1051,
+        "endYear": 1076
+      },
+      {
+        "title": "Countess of Flanders",
+        "titleCn": "佛兰德女伯爵",
+        "startYear": 1067,
+        "endYear": 1070
+      }
+    ],
+    "tags": [
+      "countess",
+      "noble"
+    ],
+    "rank": "countess",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "c9830000-0000-4000-8000-000000000000"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "f1010000-0000-4000-8000-000000000002"
+      ]
+    },
+    "events": [
+      {
+        "year": 1051,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 82,
+        "label": "Became Countess of Hainaut",
+        "labelCn": "成为埃诺女伯爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Hainaut"
+      },
+      {
+        "year": 1071,
+        "type": "regency",
+        "tags": [
+          "regency",
+          "title"
+        ],
+        "weight": 72,
+        "label": "Continued rule with Baldwin II",
+        "labelCn": "继续与鲍德温二世共同执政",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Hainaut"
+      }
+    ],
+    "wikiUrl": "",
+    "portraitUrl": "",
+    "sourceUrl": "",
+    "sourceNote": "Gislebert of Mons, Chronicle of Hainaut, trans. Laura Napran, Boydell Press, 2005; modern biographical reference works.",
+    "notes": "After the death of her first husband Herman, Richilde retained Hainaut and married Baldwin VI of Flanders, who ruled Hainaut with her. Their younger son Baldwin II continued the Hainaut line after the loss of Flanders to Robert the Frisian. Richilde's ancestry is disputed in medieval and modern genealogical literature, so father and mother are left blank. Birth estimates vary substantially, including c.1018 and later dates. Her independent/co-regnal status and the exact beginning of her rule are variously dated c.1050 or 1051; she continued as regent/co-ruler for Baldwin II after 1071.",
+    "createdDate": "20260823",
+    "createdOrder": 91
+  }
+]

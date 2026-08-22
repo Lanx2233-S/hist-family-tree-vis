@@ -1,0 +1,97 @@
+[
+  {
+    "id": "161a5ed8-c32a-400e-accc-37a34b094d7e",
+    "firstName": "Elizabeth",
+    "lastName": "de Burgh",
+    "displayName": "Elizabeth de Burgh",
+    "fullName": "Elizabeth de Burgh",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Elizabeth de Burgh"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "伊丽莎白·德·伯格",
+    "fullNameCn": "伊丽莎白·德·伯格",
+    "birthYear": 1289,
+    "deathYear": 1327,
+    "birthPlace": "",
+    "deathPlace": "Cullen, Scotland",
+    "deathPlaceCn": "苏格兰卡伦",
+    "gender": "female",
+    "dynasty": "House of Burgh",
+    "house": "House of Burgh",
+    "culture": "Anglo-Irish",
+    "faith": "Catholic",
+    "primaryTitle": "Queen consort of Scotland",
+    "primaryTitleCn": "苏格兰王后",
+    "titles": [
+      {
+        "title": "Queen consort of Scotland",
+        "startYear": 1306,
+        "endYear": 1327,
+        "titleCn": "苏格兰王后"
+      }
+    ],
+    "tags": [
+      "queen",
+      "consort"
+    ],
+    "rank": "queen",
+    "importanceScore": 52,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "d579ab42-fae4-4a29-9066-326b4e343746"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "933eb844-ee1f-4499-8d24-8c332e058ed9"
+      ]
+    },
+    "events": [
+      {
+        "year": 1289,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 60,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Elizabeth_de_Burgh"
+      },
+      {
+        "year": 1302,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 78,
+        "label": "Married Robert the Bruce",
+        "labelCn": "嫁给罗伯特·布鲁斯",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Elizabeth_de_Burgh"
+      },
+      {
+        "year": 1327,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 88,
+        "label": "Died",
+        "labelCn": "去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Elizabeth_de_Burgh"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Elizabeth_de_Burgh",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Elizabeth_de_Burgh",
+    "sourceNote": "Second wife of Robert the Bruce and mother of David II.",
+    "notes": "Queen consort of Robert the Bruce and mother of David II; captured by the English in 1306.",
+    "createdDate": "20260819",
+    "createdOrder": 40
+  }
+]

@@ -1,0 +1,952 @@
+[
+  {
+    "id": "02a7f7ff-44ee-4cf7-b770-fe1ea9a59893",
+    "firstName": "Ludwig",
+    "lastName": "",
+    "displayName": "Ludwig IV",
+    "fullName": "Ludwig IV, Holy Roman Emperor",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Ludwig IV",
+      "Louis IV",
+      "Ludwig the Bavarian"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "路德维希四世",
+    "fullNameCn": "路德维希四世",
+    "birthYear": 1282,
+    "deathYear": 1347,
+    "birthPlace": "Munich, Germany",
+    "birthPlaceCn": "德意志慕尼黑",
+    "deathPlace": "Fürstenfeldbruck, Germany",
+    "deathPlaceCn": "德意志菲尔斯滕费尔德布鲁克",
+    "gender": "male",
+    "dynasty": "Wittelsbach dynasty",
+    "house": "House of Wittelsbach",
+    "culture": "German",
+    "faith": "Catholic",
+    "primaryTitle": "Holy Roman Emperor",
+    "primaryTitleCn": "神圣罗马帝国皇帝",
+    "titles": [
+      {
+        "title": "King of the Romans",
+        "startYear": 1314,
+        "endYear": 1328,
+        "titleCn": "罗马人的国王"
+      },
+      {
+        "title": "Holy Roman Emperor",
+        "startYear": 1328,
+        "endYear": 1347,
+        "titleCn": "神圣罗马帝国皇帝"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "emperor",
+      "king"
+    ],
+    "rank": "emperor",
+    "importanceScore": 72,
+    "historicalRating": 7,
+    "relationships": {
+      "fatherId": "603e7aa9-1520-4412-b6aa-c949cc871d4f",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "c3a4c21b-7783-4f3d-8528-2b8962e1d9cc",
+        "f1010000-0000-4000-8000-000000000016"
+      ]
+    },
+    "events": [
+      {
+        "year": 1282,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Louis_IV,_Holy_Roman_Emperor"
+      },
+      {
+        "year": 1314,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Began rule as King of the Romans",
+        "labelCn": "开始担任罗马人的国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Louis_IV,_Holy_Roman_Emperor"
+      },
+      {
+        "year": 1347,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Louis_IV,_Holy_Roman_Emperor"
+      },
+      {
+        "year": 1322,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "commander",
+          "war"
+        ],
+        "weight": 90,
+        "label": "Battle of Mühldorf: defeated Frederick the Fair",
+        "labelCn": "米尔多夫战役：击败美男子腓特烈",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_M%C3%BChldorf",
+        "note": "Defeated and captured his Habsburg rival Frederick the Fair, securing his claim to the German crown."
+      },
+      {
+        "year": 1328,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Crowned Holy Roman Emperor",
+        "labelCn": "加冕为神圣罗马帝国皇帝",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Louis_IV,_Holy_Roman_Emperor",
+        "note": "Crowned emperor in Rome, though not by the pope, amid his conflict with Pope John XXII."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Louis_IV,_Holy_Roman_Emperor",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Louis_IV,_Holy_Roman_Emperor",
+    "sourceNote": "Wittelsbach emperor; fought the papacy and the rival Frederick the Fair. Core timeline generated from recorded lifespan and titles on 2026-08-20.",
+    "notes": "Wittelsbach Holy Roman Emperor who fought Pope John XXII and his Habsburg rival Frederick the Fair.",
+    "createdDate": "20260820",
+    "createdOrder": 18
+  },
+  {
+    "id": "40bcb989-e0d0-410c-9d2b-9e99452e5ca0",
+    "firstName": "Rupert",
+    "lastName": "",
+    "displayName": "Rupert",
+    "fullName": "Rupert of Germany",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Rupert",
+      "Ruprecht of the Palatinate"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "鲁普雷希特",
+    "fullNameCn": "鲁普雷希特",
+    "birthYear": 1352,
+    "deathYear": 1410,
+    "birthPlace": "",
+    "deathPlace": "Oppenheim, Germany",
+    "deathPlaceCn": "德意志奥彭海姆",
+    "gender": "male",
+    "dynasty": "Wittelsbach dynasty",
+    "house": "House of Wittelsbach",
+    "culture": "German",
+    "faith": "Catholic",
+    "primaryTitle": "King of the Romans",
+    "primaryTitleCn": "罗马人的国王",
+    "titles": [
+      {
+        "title": "King of the Romans",
+        "startYear": 1400,
+        "endYear": 1410,
+        "titleCn": "罗马人的国王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 56,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1352,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Rupert,_King_of_the_Romans"
+      },
+      {
+        "year": 1400,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Began rule as King of the Romans",
+        "labelCn": "开始担任罗马人的国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Rupert,_King_of_the_Romans"
+      },
+      {
+        "year": 1410,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Rupert,_King_of_the_Romans"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Rupert,_King_of_the_Romans",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Rupert,_King_of_the_Romans",
+    "sourceNote": "Wittelsbach king of the Romans; never crowned Emperor. Core timeline generated from recorded lifespan and titles on 2026-08-20.",
+    "notes": "Wittelsbach king of the Romans elected after Wenceslaus's deposition; never crowned Emperor.",
+    "createdDate": "20260820",
+    "createdOrder": 21
+  },
+  {
+    "id": "58be4d4c-d7ff-470a-953f-48e5a9401cec",
+    "firstName": "Otto",
+    "lastName": "",
+    "displayName": "Otto I of Bavaria",
+    "fullName": "Otto I, Duke of Bavaria",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Otto I",
+      "Otto I of Wittelsbach"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "巴伐利亚的奥托一世",
+    "fullNameCn": "巴伐利亚公爵奥托一世",
+    "birthYear": 1117,
+    "deathYear": 1183,
+    "birthPlace": "",
+    "deathPlace": "Pfullendorf, Germany",
+    "deathPlaceCn": "德意志普富伦多夫",
+    "gender": "male",
+    "dynasty": "Wittelsbach dynasty",
+    "house": "House of Wittelsbach",
+    "culture": "German",
+    "faith": "Catholic",
+    "primaryTitle": "Duke of Bavaria",
+    "primaryTitleCn": "巴伐利亚公爵",
+    "titles": [
+      {
+        "title": "Duke of Bavaria",
+        "startYear": 1180,
+        "endYear": 1183,
+        "titleCn": "巴伐利亚公爵"
+      }
+    ],
+    "tags": [
+      "duke",
+      "noble"
+    ],
+    "rank": "duke",
+    "importanceScore": 64,
+    "historicalRating": 7,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "66ccefed-43d6-4297-892d-fcba803ffd9a"
+      ]
+    },
+    "events": [
+      {
+        "year": 1156,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "noble"
+        ],
+        "weight": 68,
+        "label": "Became Count Palatine of Bavaria (Otto VI)",
+        "labelCn": "成为巴伐利亚行宫伯爵（奥托六世）",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Otto_I,_Duke_of_Bavaria"
+      },
+      {
+        "year": 1169,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 62,
+        "label": "Marriage to Agnes of Loon",
+        "labelCn": "与洛恩的阿格尼丝成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Otto_I,_Duke_of_Bavaria",
+        "note": "Married about 1169; mother of his heir Louis I."
+      },
+      {
+        "year": 1180,
+        "month": 9,
+        "day": 16,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "duke",
+          "noble"
+        ],
+        "weight": 88,
+        "label": "Enfeoffed Duke of Bavaria at Altenburg",
+        "labelCn": "在阿尔滕堡受封巴伐利亚公爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Otto_I,_Duke_of_Bavaria",
+        "note": "Granted the duchy stripped from Henry the Lion by Emperor Frederick I Barbarossa."
+      },
+      {
+        "year": 1183,
+        "month": 6,
+        "day": 25,
+        "type": "treaty",
+        "tags": [
+          "treaty",
+          "diplomacy",
+          "politics"
+        ],
+        "weight": 66,
+        "label": "Peace of Constance between the emperor and the Lombard League",
+        "labelCn": "皇帝与伦巴第同盟缔结《康斯坦茨和约》",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Peace_of_Constance",
+        "note": "Otto accompanied Frederick I; he died on the return journey."
+      },
+      {
+        "year": 1183,
+        "month": 7,
+        "day": 11,
+        "type": "death",
+        "tags": [
+          "death",
+          "duke",
+          "noble"
+        ],
+        "weight": 80,
+        "label": "Death at Pfullendorf",
+        "labelCn": "在普富伦多夫去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Otto_I,_Duke_of_Bavaria"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Otto_I,_Duke_of_Bavaria",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Otto_I,_Duke_of_Bavaria",
+    "sourceNote": "Wikipedia (Otto I, Duke of Bavaria), used for navigation.",
+    "notes": "First Wittelsbach duke of Bavaria (1180–1183), enfeoffed with the duchy after Henry the Lion's deprivation. He founded a dynasty that ruled Bavaria until 1918, but his early death left the new ducal position still contested by the local nobility.",
+    "createdDate": "20260823",
+    "createdOrder": 57
+  },
+  {
+    "id": "66ccefed-43d6-4297-892d-fcba803ffd9a",
+    "firstName": "Louis",
+    "lastName": "",
+    "displayName": "Louis I of Bavaria",
+    "fullName": "Louis I, Duke of Bavaria",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Louis I",
+      "Ludwig I"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "巴伐利亚的路易一世",
+    "fullNameCn": "巴伐利亚公爵路易一世",
+    "birthYear": 1173,
+    "deathYear": 1231,
+    "birthPlace": "",
+    "deathPlace": "Kelheim, Germany",
+    "deathPlaceCn": "德意志凯尔海姆",
+    "gender": "male",
+    "dynasty": "Wittelsbach dynasty",
+    "house": "House of Wittelsbach",
+    "culture": "German",
+    "faith": "Catholic",
+    "primaryTitle": "Duke of Bavaria",
+    "primaryTitleCn": "巴伐利亚公爵",
+    "titles": [
+      {
+        "title": "Duke of Bavaria",
+        "startYear": 1183,
+        "endYear": 1231,
+        "titleCn": "巴伐利亚公爵"
+      }
+    ],
+    "tags": [
+      "duke",
+      "noble"
+    ],
+    "rank": "duke",
+    "importanceScore": 60,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "58be4d4c-d7ff-470a-953f-48e5a9401cec",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "dfe32d2c-5169-4097-afea-c7f511fd1012"
+      ]
+    },
+    "events": [
+      {
+        "year": 1183,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title",
+          "noble"
+        ],
+        "weight": 76,
+        "label": "Succeeded as Duke of Bavaria",
+        "labelCn": "继位为巴伐利亚公爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Louis_I,_Duke_of_Bavaria",
+        "note": "Succeeded his father Otto I, the first Wittelsbach duke of Bavaria."
+      },
+      {
+        "year": 1214,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "territory",
+          "politics"
+        ],
+        "weight": 80,
+        "label": "Count Palatine of the Rhine",
+        "labelCn": "获封莱茵普法尔茨伯爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Louis_I,_Duke_of_Bavaria",
+        "note": "Rewarded with the Palatinate of the Rhine by King Frederick II."
+      },
+      {
+        "year": 1231,
+        "type": "death",
+        "tags": [
+          "death",
+          "political_crisis"
+        ],
+        "weight": 88,
+        "label": "Assassinated in Kelheim",
+        "labelCn": "在凯尔海姆遇刺身亡",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Louis_I,_Duke_of_Bavaria",
+        "note": "Murdered on a bridge in his birthplace; the murderer was immediately lynched and the crime never solved."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Louis_I,_Duke_of_Bavaria",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Louis_I,_Duke_of_Bavaria",
+    "sourceNote": "Son of Otto I; also Count Palatine of the Rhine from 1214.",
+    "notes": "Duke of Bavaria and Count Palatine of the Rhine.",
+    "createdDate": "20260823",
+    "createdOrder": 58,
+    "deathCause": {
+      "kind": "violent",
+      "summary": "Assassinated in Kelheim",
+      "summaryCn": "在凯尔海姆遇刺身亡",
+      "detail": "Louis was stabbed to death on a bridge in Kelheim, his birthplace, in 1231 by an unknown assassin; the murderer was immediately lynched and the crime was never solved.",
+      "detailCn": "1231年，路易在其出生地凯尔海姆的一座桥上遭不明刺客刺杀身亡；凶手随即被私刑处死，此案始终未能侦破。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Louis_I,_Duke_of_Bavaria"
+    }
+  },
+  {
+    "id": "dfe32d2c-5169-4097-afea-c7f511fd1012",
+    "firstName": "Otto",
+    "lastName": "",
+    "displayName": "Otto II of Bavaria",
+    "fullName": "Otto II, Duke of Bavaria",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Otto II",
+      "Otto the Illustrious"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "巴伐利亚的奥托二世",
+    "fullNameCn": "巴伐利亚公爵奥托二世",
+    "birthYear": 1206,
+    "deathYear": 1253,
+    "birthPlace": "",
+    "deathPlace": "Landshut, Germany",
+    "deathPlaceCn": "德意志兰茨胡特",
+    "gender": "male",
+    "dynasty": "Wittelsbach dynasty",
+    "house": "House of Wittelsbach",
+    "culture": "German",
+    "faith": "Catholic",
+    "primaryTitle": "Duke of Bavaria",
+    "primaryTitleCn": "巴伐利亚公爵",
+    "titles": [
+      {
+        "title": "Duke of Bavaria",
+        "startYear": 1231,
+        "endYear": 1253,
+        "titleCn": "巴伐利亚公爵"
+      }
+    ],
+    "tags": [
+      "duke",
+      "noble"
+    ],
+    "rank": "duke",
+    "importanceScore": 60,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "66ccefed-43d6-4297-892d-fcba803ffd9a",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "603e7aa9-1520-4412-b6aa-c949cc871d4f",
+        "3f616a00-8e9d-4909-ab0e-32a8c5e6db47"
+      ]
+    },
+    "events": [
+      {
+        "year": 1222,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 76,
+        "label": "Marriage to Agnes of the Palatinate",
+        "labelCn": "与普法尔茨的阿格妮丝成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Otto_II,_Duke_of_Bavaria",
+        "note": "Granddaughter of Henry the Lion and Conrad of Hohenstaufen; through this match the Wittelsbachs gained the Palatinate."
+      },
+      {
+        "year": 1231,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title",
+          "noble"
+        ],
+        "weight": 76,
+        "label": "Succeeded as Duke of Bavaria",
+        "labelCn": "继位为巴伐利亚公爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Otto_II,_Duke_of_Bavaria",
+        "note": "Succeeded his father Louis I as Duke of Bavaria and Count Palatine of the Rhine."
+      },
+      {
+        "year": 1253,
+        "month": 11,
+        "day": 29,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 64,
+        "label": "Death",
+        "labelCn": "去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Otto_II,_Duke_of_Bavaria",
+        "note": "Died at Landshut; buried in the crypt of Scheyern Abbey."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Otto_II,_Duke_of_Bavaria",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Otto_II,_Duke_of_Bavaria",
+    "sourceNote": "Son of Louis I; the Illustrious, whose sons split Bavaria in 1255.",
+    "notes": "Duke of Bavaria; after his death his sons divided Bavaria between Upper and Lower Bavaria.",
+    "createdDate": "20260823",
+    "createdOrder": 59
+  },
+  {
+    "id": "603e7aa9-1520-4412-b6aa-c949cc871d4f",
+    "firstName": "Louis",
+    "lastName": "",
+    "displayName": "Louis II of Bavaria",
+    "fullName": "Louis II, Duke of Bavaria",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Louis II",
+      "Ludwig II the Severe"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "巴伐利亚的路易二世",
+    "fullNameCn": "巴伐利亚公爵路易二世",
+    "birthYear": 1229,
+    "deathYear": 1294,
+    "birthPlace": "",
+    "deathPlace": "Heidelberg, Germany",
+    "deathPlaceCn": "德意志海德堡",
+    "gender": "male",
+    "dynasty": "Wittelsbach dynasty",
+    "house": "House of Wittelsbach",
+    "culture": "German",
+    "faith": "Catholic",
+    "primaryTitle": "Duke of Bavaria",
+    "primaryTitleCn": "巴伐利亚公爵",
+    "titles": [
+      {
+        "title": "Duke of Bavaria",
+        "startYear": 1253,
+        "endYear": 1294,
+        "titleCn": "巴伐利亚公爵"
+      }
+    ],
+    "tags": [
+      "duke",
+      "noble"
+    ],
+    "rank": "duke",
+    "importanceScore": 62,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "dfe32d2c-5169-4097-afea-c7f511fd1012",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "02a7f7ff-44ee-4cf7-b770-fe1ea9a59893"
+      ]
+    },
+    "events": [
+      {
+        "year": 1253,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title",
+          "noble"
+        ],
+        "weight": 76,
+        "label": "Succeeded as Duke of Bavaria",
+        "labelCn": "继位为巴伐利亚公爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Louis_II,_Duke_of_Bavaria",
+        "note": "Succeeded his father Otto II as Duke of Bavaria."
+      },
+      {
+        "year": 1255,
+        "type": "dynasty",
+        "tags": [
+          "dynasty",
+          "government",
+          "succession"
+        ],
+        "weight": 76,
+        "label": "Partition of Bavaria",
+        "labelCn": "巴伐利亚分治",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Louis_II,_Duke_of_Bavaria",
+        "note": "The 1255 partition split the Wittelsbach lands: Louis took Upper Bavaria and the Palatinate, his brother Henry XIII Lower Bavaria."
+      },
+      {
+        "year": 1256,
+        "type": "political_crisis",
+        "tags": [
+          "political_crisis",
+          "dynasty"
+        ],
+        "weight": 85,
+        "label": "Execution of Marie of Brabant",
+        "labelCn": "处决布拉班特的玛丽",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Louis_II,_Duke_of_Bavaria",
+        "note": "Had his first wife beheaded on suspicion of adultery; her guilt was never proven, earning him the epithet 'the Severe'."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Louis_II,_Duke_of_Bavaria",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Louis_II,_Duke_of_Bavaria",
+    "sourceNote": "Son of Otto II; held Upper Bavaria after the 1255 partition, and the Palatinate.",
+    "notes": "Duke of Upper Bavaria and Count Palatine; father of Emperor Ludwig IV.",
+    "createdDate": "20260823",
+    "createdOrder": 60
+  },
+  {
+    "id": "c3a4c21b-7783-4f3d-8528-2b8962e1d9cc",
+    "firstName": "Stephen",
+    "lastName": "",
+    "displayName": "Stephen II of Bavaria",
+    "fullName": "Stephen II, Duke of Bavaria",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Stephen II",
+      "Stephan II"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "巴伐利亚的斯蒂芬二世",
+    "fullNameCn": "巴伐利亚公爵斯蒂芬二世",
+    "birthYear": 1319,
+    "deathYear": 1375,
+    "birthPlace": "",
+    "deathPlace": "Landshut, Germany",
+    "deathPlaceCn": "德意志兰茨胡特",
+    "gender": "male",
+    "dynasty": "Wittelsbach dynasty",
+    "house": "House of Wittelsbach",
+    "culture": "German",
+    "faith": "Catholic",
+    "primaryTitle": "Duke of Bavaria",
+    "primaryTitleCn": "巴伐利亚公爵",
+    "titles": [
+      {
+        "title": "Duke of Bavaria",
+        "startYear": 1347,
+        "endYear": 1375,
+        "titleCn": "巴伐利亚公爵"
+      }
+    ],
+    "tags": [
+      "duke",
+      "noble"
+    ],
+    "rank": "duke",
+    "importanceScore": 60,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "02a7f7ff-44ee-4cf7-b770-fe1ea9a59893",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "7f383104-7d38-4dd0-a109-dd1c9caa48ec"
+      ]
+    },
+    "events": [
+      {
+        "year": 1347,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title",
+          "noble"
+        ],
+        "weight": 76,
+        "label": "Succeeded as Duke of Bavaria",
+        "labelCn": "继位为巴伐利亚公爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Stephen_II,_Duke_of_Bavaria",
+        "note": "Succeeded his father, the emperor Louis IV, as Duke of Bavaria."
+      },
+      {
+        "year": 1363,
+        "type": "conquest",
+        "tags": [
+          "conquest",
+          "territory"
+        ],
+        "weight": 76,
+        "label": "Acquired Upper Bavaria and invaded Tyrol",
+        "labelCn": "取得上巴伐利亚并入侵蒂罗尔",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Stephen_II,_Duke_of_Bavaria",
+        "note": "On the death of his nephew Meinhard he succeeded in Upper Bavaria and invaded Tyrol, ceding it to the Habsburgs in 1369 at the Peace of Schärding."
+      },
+      {
+        "year": 1375,
+        "month": 5,
+        "day": 13,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 64,
+        "label": "Death",
+        "labelCn": "去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Stephen_II,_Duke_of_Bavaria",
+        "note": "Died at Landshut (or Munich); buried in the Frauenkirche, Munich."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Stephen_II,_Duke_of_Bavaria",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Stephen_II,_Duke_of_Bavaria",
+    "sourceNote": "Son of Emperor Ludwig IV; reconsolidated much of Bavaria after 1347.",
+    "notes": "Duke of Bavaria who reconsolidated the duchy after the divisions following Ludwig IV's death.",
+    "createdDate": "20260823",
+    "createdOrder": 61
+  },
+  {
+    "id": "3f616a00-8e9d-4909-ab0e-32a8c5e6db47",
+    "firstName": "Elisabeth",
+    "lastName": "of Bavaria",
+    "displayName": "Elisabeth of Bavaria",
+    "fullName": "Elisabeth of Bavaria",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Elizabeth of Bavaria",
+      "Elisabeth von Bayern"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "巴伐利亚的伊丽莎白",
+    "fullNameCn": "巴伐利亚的伊丽莎白",
+    "nicknameCn": "",
+    "birthYear": 1227,
+    "deathYear": 1273,
+    "birthPlace": "Trausnitz Castle, Landshut",
+    "birthPlaceCn": "兰茨胡特特劳斯尼茨城堡",
+    "deathPlace": "Goyen Castle near Schenna, County of Tyrol",
+    "deathPlaceCn": "蒂罗尔伯国舍纳附近戈延城堡",
+    "gender": "female",
+    "dynasty": "Wittelsbach dynasty",
+    "house": "House of Wittelsbach",
+    "culture": "Bavarian-German",
+    "faith": "Catholic",
+    "primaryTitle": "Queen consort of Germany",
+    "primaryTitleCn": "德意志王后",
+    "titles": [
+      {
+        "title": "Queen consort of Germany",
+        "titleCn": "德意志王后",
+        "startYear": 1246,
+        "endYear": 1254
+      },
+      {
+        "title": "Queen consort of Jerusalem",
+        "titleCn": "耶路撒冷王后",
+        "startYear": 1246,
+        "endYear": 1254
+      },
+      {
+        "title": "Queen consort of Sicily",
+        "titleCn": "西西里王后",
+        "startYear": 1250,
+        "endYear": 1254
+      },
+      {
+        "title": "Countess consort of Tyrol and Gorizia",
+        "titleCn": "蒂罗尔与戈里齐亚伯爵夫人",
+        "startYear": 1259,
+        "endYear": 1273
+      }
+    ],
+    "tags": [
+      "queen",
+      "consort",
+      "noble"
+    ],
+    "rank": "queen",
+    "importanceScore": 71,
+    "historicalRating": 7,
+    "relationships": {
+      "fatherId": "dfe32d2c-5169-4097-afea-c7f511fd1012",
+      "motherId": "",
+      "spouseIds": [
+        "4c68ef70-d950-4e5d-8106-80c28800a522"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "4edb479c-eb9e-447d-8cb9-f8b5d37cc7dd"
+      ]
+    },
+    "events": [
+      {
+        "year": 1246,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 95,
+        "label": "Married Conrad IV of Germany at Vohburg",
+        "labelCn": "在福堡与德意志国王康拉德四世结婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Elisabeth_of_Bavaria,_Queen_of_Germany",
+        "month": 9,
+        "day": 1,
+        "note": "The marriage at Vohburg linked the Wittelsbach dukes of Bavaria to Conrad IV and the embattled Hohenstaufen monarchy."
+      },
+      {
+        "year": 1252,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "dynasty"
+        ],
+        "weight": 100,
+        "label": "Gave birth to Conradin",
+        "labelCn": "生下康拉丁",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Elisabeth_of_Bavaria,_Queen_of_Germany",
+        "month": 3,
+        "day": 25,
+        "note": "Her son Conradin became the last legitimate male representative of the Hohenstaufen dynasty."
+      },
+      {
+        "year": 1254,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "dynasty"
+        ],
+        "weight": 90,
+        "label": "Was widowed by Conrad IV's death",
+        "labelCn": "康拉德四世去世后守寡",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Elisabeth_of_Bavaria,_Queen_of_Germany",
+        "note": "After Conrad IV's death, their two-year-old son Conradin inherited the Hohenstaufen claims to Sicily, Jerusalem and Swabia."
+      },
+      {
+        "year": 1259,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 80,
+        "label": "Married Meinhard II of Gorizia-Tyrol",
+        "labelCn": "与戈里齐亚-蒂罗尔的迈因哈德二世结婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Elisabeth_of_Bavaria,_Queen_of_Germany",
+        "note": "The marriage joined Elisabeth to Meinhard II of Gorizia-Tyrol; the wedding is usually placed in 1258 or 1259, with 1259 used here as the conventional year."
+      },
+      {
+        "year": 1268,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "dynasty"
+        ],
+        "weight": 100,
+        "label": "Her son Conradin was executed at Naples",
+        "labelCn": "其子康拉丁在那不勒斯被处决",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Elisabeth_of_Bavaria,_Queen_of_Germany",
+        "month": 10,
+        "day": 29,
+        "note": "Conradin was executed at Naples, extinguishing the legitimate male Hohenstaufen line and becoming the defining dynastic tragedy of Elisabeth's later life."
+      },
+      {
+        "year": 1272,
+        "type": "church",
+        "tags": [
+          "church",
+          "dynasty"
+        ],
+        "weight": 75,
+        "label": "Founded Stams Abbey with Meinhard II",
+        "labelCn": "与迈因哈德二世创建施塔姆斯修道院",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Elisabeth_of_Bavaria,_Queen_of_Germany",
+        "note": "Stams Abbey became a Tyrolean dynastic foundation and was closely associated with the memory of Elisabeth's executed son Conradin."
+      },
+      {
+        "year": 1273,
+        "type": "death",
+        "tags": [
+          "death",
+          "queen"
+        ],
+        "weight": 60,
+        "label": "Died at Goyen Castle near Schenna",
+        "labelCn": "在舍纳附近戈延城堡去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Elisabeth_of_Bavaria,_Queen_of_Germany",
+        "month": 10,
+        "day": 9,
+        "note": "Elisabeth died at Goyen Castle near Schenna in the County of Tyrol."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Elisabeth_of_Bavaria,_Queen_of_Germany",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Elisabeth_of_Bavaria,_Queen_of_Germany",
+    "sourceNote": "German and Bavarian dynastic reference scholarship; Heidelberg medieval studies on Conrad IV and Elisabeth, including evidence that no coronation ceremony is attested; Stams Abbey historical materials; Wikipedia used as a supplementary chronology index.",
+    "notes": "Elisabeth linked the Wittelsbachs to the last legitimate Hohenstaufen kings through Conrad IV and their son Conradin. After Conrad's death she remarried into the Gorizia-Tyrol house and became an important ancestress of the later Tyrolean line.\n\nConfidence / caveats: Although Elisabeth is conventionally styled Queen of Germany through her marriage to Conrad IV, no coronation ceremony for her is securely attested; title and coronation must not be conflated. Her second marriage is dated 1258 or 1259 in different works. She died before Meinhard II became Duke of Carinthia in 1286, so she must not be titled Duchess of Carinthia.\n\nUnlinked family (not in roster): mother: Agnes of the Palatinate; spouse: Meinhard II, Count of Gorizia-Tyrol; child: Elisabeth of Carinthia, Queen of Germany; child: Otto III, Duke of Carinthia; child: Henry of Carinthia, King of Bohemia",
+    "createdDate": "20260823",
+    "createdOrder": 125
+  }
+]

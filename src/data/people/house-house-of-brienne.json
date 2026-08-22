@@ -1,0 +1,167 @@
+[
+  {
+    "id": "d69c4068-f30d-4515-b599-4e281bb7e60c",
+    "firstName": "Isabella",
+    "lastName": "of Jerusalem",
+    "displayName": "Isabella II of Jerusalem",
+    "fullName": "Isabella II of Jerusalem",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Isabella of Brienne",
+      "Isabella of Jerusalem",
+      "Yolande of Jerusalem",
+      "Yolanda of Jerusalem"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "耶路撒冷女王伊莎贝拉二世",
+    "fullNameCn": "耶路撒冷女王伊莎贝拉二世",
+    "nicknameCn": "",
+    "birthYear": 1212,
+    "deathYear": 1228,
+    "birthPlace": "Acre, Kingdom of Jerusalem",
+    "birthPlaceCn": "耶路撒冷王国阿卡",
+    "deathPlace": "Andria, Kingdom of Sicily",
+    "deathPlaceCn": "西西里王国安德里亚",
+    "gender": "female",
+    "dynasty": "House of Brienne",
+    "house": "House of Brienne",
+    "culture": "Frankish Outremer",
+    "faith": "Catholic",
+    "primaryTitle": "Queen of Jerusalem",
+    "primaryTitleCn": "耶路撒冷女王",
+    "titles": [
+      {
+        "title": "Queen of Jerusalem",
+        "titleCn": "耶路撒冷女王",
+        "startYear": 1212,
+        "endYear": 1228
+      },
+      {
+        "title": "Queen consort of Sicily",
+        "titleCn": "西西里王后",
+        "startYear": 1225,
+        "endYear": 1228
+      },
+      {
+        "title": "Queen consort of Germany",
+        "titleCn": "德意志王后",
+        "startYear": 1225,
+        "endYear": 1228
+      },
+      {
+        "title": "Holy Roman Empress",
+        "titleCn": "神圣罗马帝国皇后",
+        "startYear": 1225,
+        "endYear": 1228
+      }
+    ],
+    "tags": [
+      "monarch",
+      "queen"
+    ],
+    "rank": "queen",
+    "importanceScore": 75,
+    "historicalRating": 7,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "c9590000-0000-4000-8000-000000000000",
+      "spouseIds": [
+        "ea19e505-86fe-4cb7-8e55-c42e9f0ebfd3"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "4c68ef70-d950-4e5d-8106-80c28800a522"
+      ]
+    },
+    "events": [
+      {
+        "year": 1212,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 100,
+        "label": "Inherited the crown of Jerusalem at birth after her mother's death",
+        "labelCn": "母亲去世后在出生之际继承耶路撒冷王位",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Isabella_II_of_Jerusalem",
+        "note": "Maria of Montferrat died shortly after childbirth at Acre, leaving Isabella as infant Queen of Jerusalem while her father John of Brienne governed during her minority."
+      },
+      {
+        "year": 1223,
+        "type": "diplomacy",
+        "tags": [
+          "diplomacy",
+          "dynastic_alliance"
+        ],
+        "weight": 85,
+        "label": "Her marriage to Frederick II was arranged as part of crusading diplomacy",
+        "labelCn": "其与腓特烈二世的婚姻被纳入十字军与王位外交安排",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Isabella_II_of_Jerusalem",
+        "note": "The proposed marriage to Frederick II was tied to crusading diplomacy and promised the Hohenstaufen ruler a direct dynastic claim to the Kingdom of Jerusalem."
+      },
+      {
+        "year": 1225,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "queen"
+        ],
+        "weight": 90,
+        "label": "Was crowned in the Kingdom of Jerusalem before departing for Sicily",
+        "labelCn": "离开圣地赴西西里前完成耶路撒冷王位礼仪",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Isabella_II_of_Jerusalem",
+        "month": 8,
+        "note": "Before leaving Acre for Sicily, Isabella underwent royal and proxy-marriage ceremonies in the Kingdom of Jerusalem; the exact ceremonial sequence varies among narrative sources."
+      },
+      {
+        "year": 1225,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 100,
+        "label": "Married Frederick II in person",
+        "labelCn": "与腓特烈二世正式成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Isabella_II_of_Jerusalem",
+        "note": "After marrying Isabella in person, Frederick II asserted the royal title of Jerusalem through her hereditary position, sharply reducing John of Brienne's political role."
+      },
+      {
+        "year": 1228,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "dynasty"
+        ],
+        "weight": 100,
+        "label": "Gave birth to Conrad IV",
+        "labelCn": "生下康拉德四世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Isabella_II_of_Jerusalem",
+        "month": 4,
+        "day": 25,
+        "note": "Conrad IV was born at Andria and inherited Isabella's dynastic claim to the Kingdom of Jerusalem."
+      },
+      {
+        "year": 1228,
+        "type": "death",
+        "tags": [
+          "death",
+          "succession"
+        ],
+        "weight": 95,
+        "label": "Died shortly after childbirth; Conrad inherited Jerusalem",
+        "labelCn": "产后不久去世，康拉德继承耶路撒冷王位",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Isabella_II_of_Jerusalem",
+        "note": "Isabella died at Andria only days after Conrad IV's birth. Sources agree on the close timing but do not securely establish the exact day or specific medical cause."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Isabella_II_of_Jerusalem",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Isabella_II_of_Jerusalem",
+    "sourceNote": "Guy Perry, John of Brienne: King of Jerusalem, Emperor of Constantinople, c.1175–1237; David Abulafia, Frederick II: A Medieval Emperor; Peter W. Edbury's scholarship on the Kingdom of Jerusalem; Wikipedia used as a supplementary chronology and nomenclature index.",
+    "notes": "Isabella was queen regnant of Jerusalem from infancy and transmitted the kingdom's dynastic claim to the Hohenstaufen through her marriage to Frederick II. Her death after Conrad IV's birth made the infant Conrad the hereditary claimant while Frederick continued to exercise the royal title.\n\nConfidence / caveats: The common alternate name 'Yolande/Yolanda' is a later historiographical usage; contemporary documentation overwhelmingly calls her Isabella/Ysabel, so canonicalName is Isabella II. John of Brienne's exact constitutional status after Maria's death is described as regent in some works and as king with broader life rights in others. Isabella's exact death date in late April/early May 1228 varies by source. Although she died only days after childbirth, the specific medical cause is unrecorded, so deathCause is left blank.\n\nUnlinked family (not in roster): father: John of Brienne",
+    "createdDate": "20260823",
+    "createdOrder": 120
+  }
+]

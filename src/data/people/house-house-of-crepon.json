@@ -1,0 +1,88 @@
+[
+  {
+    "id": "5f92a3cf-4044-4892-8f05-d8959a80451d",
+    "firstName": "Gunnor",
+    "lastName": "",
+    "displayName": "Gunnor",
+    "fullName": "Gunnor, Duchess of Normandy",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Gunnor",
+      "Gunnora"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "贡诺尔",
+    "fullNameCn": "诺曼底公爵夫人贡诺尔",
+    "birthYear": 950,
+    "deathYear": 1031,
+    "birthPlace": "",
+    "deathPlace": "Normandy",
+    "deathPlaceCn": "诺曼底",
+    "gender": "female",
+    "dynasty": "Crépon dynasty",
+    "house": "House of Crépon",
+    "culture": "Norman",
+    "faith": "Catholic",
+    "primaryTitle": "Duchess of Normandy",
+    "primaryTitleCn": "诺曼底公爵夫人",
+    "titles": [
+      {
+        "title": "Duchess of Normandy",
+        "startYear": 989,
+        "endYear": 996,
+        "titleCn": "诺曼底公爵夫人"
+      }
+    ],
+    "tags": [
+      "duchess"
+    ],
+    "rank": "duchess",
+    "importanceScore": 48,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "f9226738-a160-482d-9fe8-dbf10b285845"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "0e597c77-dd0b-419c-9227-b56fb37e3b9d",
+        "11999429-e764-4ed2-9c8c-cf95cfbbdecc"
+      ]
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Gunnor",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Gunnor",
+    "sourceNote": "Wife of Richard I of Normandy and mother of Richard II and Emma of Normandy. Birth and death years are approximate.",
+    "notes": "Duchess consort of Normandy and mother of Richard II and of Emma, whose children included Edward the Confessor and Harthacnut.",
+    "historicalRating": 5,
+    "createdDate": "20260818",
+    "createdOrder": 38,
+    "events": [
+      {
+        "year": 989,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 72,
+        "label": "Married Richard I of Normandy",
+        "labelCn": "嫁给诺曼底的理查一世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Gunnor"
+      },
+      {
+        "year": 1031,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 88,
+        "label": "Died in Normandy",
+        "labelCn": "在诺曼底去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Gunnor",
+        "note": "Death year approximate."
+      }
+    ]
+  }
+]

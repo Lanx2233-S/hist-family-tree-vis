@@ -1,0 +1,322 @@
+[
+  {
+    "id": "83fe78c1-47e6-4a72-92fd-dc0b7bdd02ce",
+    "firstName": "Roger",
+    "lastName": "Mortimer",
+    "displayName": "Roger Mortimer",
+    "fullName": "Roger Mortimer, 4th Earl of March",
+    "displayNameCn": "罗杰·莫蒂默",
+    "fullNameCn": "第四代马奇伯爵罗杰·莫蒂默",
+    "nickname": "",
+    "nicknameCn": "",
+    "nicknameTags": [],
+    "alsoKnownAs": [
+      "Roger Mortimer, 4th Earl of March",
+      "Roger de Mortimer"
+    ],
+    "gender": "male",
+    "birthYear": 1374,
+    "deathYear": 1398,
+    "birthPlace": "Usk, Monmouthshire, Wales",
+    "deathPlace": "County Carlow, Ireland",
+    "birthPlaceCn": "威尔士蒙茅斯郡阿斯克",
+    "deathPlaceCn": "爱尔兰卡洛郡",
+    "dynasty": "House of Mortimer",
+    "house": "House of Mortimer",
+    "culture": "English",
+    "faith": "Catholic",
+    "rank": "count",
+    "primaryTitle": "Earl of March",
+    "primaryTitleCn": "马奇伯爵",
+    "titles": [
+      {
+        "title": "Earl of March",
+        "startYear": 1381,
+        "endYear": 1398,
+        "titleCn": "马奇伯爵"
+      },
+      {
+        "title": "Earl of Ulster",
+        "startYear": 1382,
+        "endYear": 1398,
+        "titleCn": "阿尔斯特伯爵"
+      }
+    ],
+    "tags": [
+      "noble",
+      "commander"
+    ],
+    "importanceScore": 76,
+    "historicalRating": 7,
+    "wikiUrl": "https://en.wikipedia.org/wiki/Roger_Mortimer,_4th_Earl_of_March",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Roger_Mortimer,_4th_Earl_of_March",
+    "sourceNote": "",
+    "notes": "Grandson of Lionel of Antwerp through his mother Philippa of Clarence. Proclaimed heir presumptive to Richard II in October 1385 (per Cokayne; historian R.R. Davies considers the story baseless, though his claim was openly discussed). NOTE: this roster entry is Roger Mortimer, 4th Earl of March (1374-1398), not the 1st Earl executed in 1330. His daughter Anne Mortimer's line carried the Yorkist claim to the throne.",
+    "deathCause": {
+      "kind": "violent",
+      "summary": "Slain at the Battle of Kellistown, Ireland",
+      "detail": "Roger was killed on 20 July 1398 at the Battle of Kellistown, County Carlow, Ireland, while campaigning. Riding ahead of his army unattended and in Irish garb, he was killed by men who did not recognize him. Some sources give 15 August as the date.",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Roger_Mortimer,_4th_Earl_of_March",
+      "summaryCn": "在爱尔兰凯尔斯敦之战中阵亡",
+      "detailCn": "罗杰于1398年7月20日在爱尔兰卡洛郡凯尔斯敦之战中阵亡：他孤身身着爱尔兰装束骑行在军队前方，被未认出他的士兵杀死。部分史料将日期记作8月15日。"
+    },
+    "relationships": {
+      "fatherId": "",
+      "motherId": "dc4c0c6f-1f8c-41ed-a91b-92b78a065bd9",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "38e14a5d-17a3-4c5a-8ee3-3d4d39d911af"
+      ]
+    },
+    "events": [
+      {
+        "year": 1374,
+        "month": 4,
+        "day": 11,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "uncertain"
+        ],
+        "weight": 60,
+        "label": "Birth of Roger Mortimer at Usk",
+        "labelCn": "罗杰·莫蒂默在阿斯克出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Roger_Mortimer,_4th_Earl_of_March",
+        "note": "Born 11 April 1374 at Usk, Monmouthshire."
+      },
+      {
+        "year": 1381,
+        "month": 12,
+        "day": 27,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "succession"
+        ],
+        "weight": 75,
+        "label": "Inherited the Earldoms of March and Ulster",
+        "labelCn": "继承马奇与阿尔斯特伯爵领地",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Roger_Mortimer,_4th_Earl_of_March",
+        "note": "His father Edmund Mortimer, 3rd Earl, died 27 December 1381; the six-year-old Roger succeeded to the Earldom of March (Ulster title vested 1382)."
+      },
+      {
+        "year": 1385,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "uncertain"
+        ],
+        "weight": 85,
+        "label": "Proclaimed heir presumptive to Richard II",
+        "labelCn": "被宣布为理查二世的推定继承人",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Roger_Mortimer,_4th_Earl_of_March",
+        "note": "G.E. Cokayne states Mortimer was proclaimed heir presumptive in October 1385; historian R.R. Davies calls the story baseless, though contemporary records show his claim was openly discussed."
+      },
+      {
+        "year": 1388,
+        "month": 10,
+        "day": 7,
+        "type": "marriage",
+        "tags": [
+          "marriage"
+        ],
+        "weight": 66,
+        "label": "Marriage to Eleanor Holland",
+        "labelCn": "与埃莉诺·霍兰成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Roger_Mortimer,_4th_Earl_of_March",
+        "note": "Married on or about 7 October 1388, aged 14; Eleanor Holland is not modeled in the roster."
+      },
+      {
+        "year": 1390,
+        "month": 4,
+        "day": 23,
+        "type": "title",
+        "tags": [
+          "title"
+        ],
+        "weight": 60,
+        "label": "Knighted by Richard II",
+        "labelCn": "被理查二世册封为骑士",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Roger_Mortimer,_4th_Earl_of_March",
+        "note": "Knighted on St George's Day, 23 April 1390."
+      },
+      {
+        "year": 1394,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "government"
+        ],
+        "weight": 62,
+        "label": "Lord Lieutenant of Ireland; campaigns against Irish chieftains",
+        "labelCn": "任爱尔兰总督并征讨爱尔兰酋长",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Roger_Mortimer,_4th_Earl_of_March",
+        "note": "First appointed Lord Lieutenant of Ireland on 24 January 1382 (aged 7, with uncle Sir Thomas Mortimer as deputy); reappointed July 1392, September 1394 and April 1397. He made little headway against the native Irish chieftains."
+      },
+      {
+        "year": 1398,
+        "month": 7,
+        "day": 20,
+        "type": "death",
+        "tags": [
+          "death",
+          "violent"
+        ],
+        "weight": 80,
+        "label": "Death at the Battle of Kellistown",
+        "labelCn": "在凯尔斯敦之战中阵亡",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Roger_Mortimer,_4th_Earl_of_March",
+        "note": "Killed 20 July 1398 in County Carlow, Ireland; some sources give 15 August as the death date. Buried at Wigmore Abbey."
+      }
+    ],
+    "createdDate": "20260815",
+    "createdOrder": 38
+  },
+  {
+    "id": "38e14a5d-17a3-4c5a-8ee3-3d4d39d911af",
+    "firstName": "Anne",
+    "lastName": "Mortimer",
+    "displayName": "Anne Mortimer",
+    "fullName": "Anne de Mortimer",
+    "displayNameCn": "安妮·莫蒂默",
+    "fullNameCn": "安妮·莫蒂默",
+    "nickname": "",
+    "nicknameCn": "",
+    "nicknameTags": [],
+    "alsoKnownAs": [
+      "Anne de Mortimer",
+      "Countess of Cambridge"
+    ],
+    "gender": "female",
+    "birthYear": 1388,
+    "deathYear": 1411,
+    "birthPlace": "",
+    "deathPlace": "",
+    "birthPlaceCn": "",
+    "deathPlaceCn": "",
+    "dynasty": "House of Mortimer",
+    "house": "House of Mortimer",
+    "culture": "English",
+    "faith": "Catholic",
+    "rank": "untitled",
+    "primaryTitle": "Noblewoman",
+    "primaryTitleCn": "女贵族",
+    "titles": [],
+    "tags": [
+      "noble"
+    ],
+    "importanceScore": 72,
+    "historicalRating": 7,
+    "wikiUrl": "https://en.wikipedia.org/wiki/Anne_de_Mortimer",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Anne_de_Mortimer",
+    "sourceNote": "",
+    "notes": "Grandmother of Edward IV through Richard of York. Married secretly to Richard of Conisburgh; the Yorkist claim to the throne passed through her Mortimer descent, underpinning the Wars of the Roses. Birth year corrected from 1390 to 1388 (born 27 December 1388).",
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died soon after childbirth",
+      "detail": "Anne died on or around 22 September 1411, shortly after the birth of her son Richard of York, at about age 22. Likely complications of childbirth, though the precise cause is not explicitly documented.",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Anne_de_Mortimer",
+      "summaryCn": "产后不久去世",
+      "detailCn": "安妮于1411年9月22日前后去世，即在生下儿子约克的理查之后不久，年仅约22岁。很可能死于分娩并发症，但具体原因无明确记载。"
+    },
+    "relationships": {
+      "fatherId": "83fe78c1-47e6-4a72-92fd-dc0b7bdd02ce",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "1299a0d9-153e-4a1d-a90f-27ae608c44ae"
+      ]
+    },
+    "events": [
+      {
+        "year": 1388,
+        "month": 12,
+        "day": 27,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "uncertain"
+        ],
+        "weight": 60,
+        "label": "Birth of Anne Mortimer",
+        "labelCn": "安妮·莫蒂默出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Anne_de_Mortimer",
+        "note": "Born 27 December 1388, eldest child of Roger Mortimer, 4th Earl of March, and Eleanor Holland; birthplace not documented."
+      },
+      {
+        "year": 1408,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "uncertain"
+        ],
+        "weight": 78,
+        "label": "Secret marriage to Richard of Conisburgh",
+        "labelCn": "与科尼斯伯勒的理查秘密成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Richard_of_Conisburgh,_3rd_Earl_of_Cambridge",
+        "note": "Married secretly c. early 1408 (after 8 January) without her relatives' knowledge; validated by papal dispensation on 23 May 1408. Richard of Conisburgh is not modeled in the roster, so no relationship link is set."
+      },
+      {
+        "year": 1409,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "dynasty"
+        ],
+        "weight": 60,
+        "label": "Birth of Isabel of York",
+        "labelCn": "约克的伊莎贝尔出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Anne_de_Mortimer",
+        "note": "First child Isabel born 1409."
+      },
+      {
+        "year": 1411,
+        "month": 9,
+        "day": 21,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "dynasty"
+        ],
+        "weight": 88,
+        "label": "Birth of Richard of York",
+        "labelCn": "约克的理查出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Richard_of_York,_3rd_Duke_of_York",
+        "note": "Son Richard, later 3rd Duke of York and father of Edward IV and Richard III, born 21 September 1411 (some sources: 22 September)."
+      },
+      {
+        "year": 1411,
+        "month": 9,
+        "day": 22,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 82,
+        "label": "Death of Anne Mortimer",
+        "labelCn": "安妮·莫蒂默去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Anne_de_Mortimer",
+        "note": "Died on or around 22 September 1411, soon after Richard's birth, aged about 22; buried at Kings Langley, Hertfordshire."
+      },
+      {
+        "year": 1425,
+        "type": "dynasty",
+        "tags": [
+          "dynasty",
+          "succession"
+        ],
+        "weight": 60,
+        "label": "Mortimer claim passes to her son Richard",
+        "labelCn": "莫蒂默家族的继承权传于其子理查",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Anne_de_Mortimer",
+        "note": "Posthumous: her brother Edmund Mortimer, 5th Earl of March, died heirless in 1425, making her son Richard of York the Yorkist claimant to the throne."
+      }
+    ],
+    "createdDate": "20260815",
+    "createdOrder": 39
+  }
+]

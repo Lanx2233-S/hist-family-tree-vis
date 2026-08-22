@@ -1,0 +1,81 @@
+[
+  {
+    "id": "570fe380-a70d-430d-a43f-0501e6aa3c86",
+    "firstName": "Joan",
+    "lastName": "",
+    "displayName": "Joan I of Auvergne",
+    "fullName": "Joan I of Auvergne",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "奥弗涅的琼一世",
+    "fullNameCn": "奥弗涅的琼一世",
+    "nicknameCn": "",
+    "birthYear": 1326,
+    "deathYear": 1360,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "female",
+    "dynasty": "Auvergne dynasty",
+    "house": "House of Auvergne",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Queen of France",
+    "primaryTitleCn": "法兰西王后",
+    "titles": [
+      {
+        "title": "Queen of France",
+        "startYear": "",
+        "endYear": 1360,
+        "titleCn": "法兰西王后"
+      }
+    ],
+    "tags": [
+      "queen",
+      "consort"
+    ],
+    "rank": "queen",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "26ef769b-f149-4b30-b5b6-13efecbbf59b"
+      ],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1326,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Joan_I_of_Auvergne"
+      },
+      {
+        "year": 1360,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Joan_I_of_Auvergne"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Joan_I_of_Auvergne",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Joan_I_of_Auvergne",
+    "sourceNote": "Basic queen-consort card; relationship links synchronized with the French royal line.",
+    "notes": "Queen consort in the French royal succession.",
+    "createdDate": "20260820",
+    "createdOrder": 55
+  }
+]

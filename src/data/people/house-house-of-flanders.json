@@ -1,0 +1,2253 @@
+[
+  {
+    "id": "2a19d3aa-7968-4c0b-9870-fe3db9c9b575",
+    "firstName": "Matilda",
+    "lastName": "Flanders",
+    "displayName": "Matilda of Flanders",
+    "fullName": "Matilda of Flanders, Queen of England",
+    "displayNameCn": "佛兰德的玛蒂尔达",
+    "fullNameCn": "佛兰德的玛蒂尔达，英格兰王后",
+    "nickname": "",
+    "nicknameCn": "",
+    "nicknameTags": [],
+    "alsoKnownAs": [
+      "Maud of Flanders"
+    ],
+    "gender": "female",
+    "birthYear": 1031,
+    "deathYear": 1083,
+    "birthPlace": "Flanders",
+    "deathPlace": "Caen, Duchy of Normandy",
+    "birthPlaceCn": "佛兰德",
+    "deathPlaceCn": "诺曼底公国卡昂",
+    "dynasty": "Baldwinid dynasty",
+    "house": "House of Flanders",
+    "culture": "Flemish",
+    "faith": "Catholic",
+    "rank": "queen",
+    "primaryTitle": "Queen of England",
+    "primaryTitleCn": "英格兰王后",
+    "titles": [
+      {
+        "title": "Duchess of Normandy",
+        "startYear": 1051,
+        "endYear": 1083,
+        "titleCn": "诺曼底女公爵"
+      },
+      {
+        "title": "Queen of England",
+        "startYear": 1068,
+        "endYear": 1083,
+        "titleCn": "英格兰王后"
+      }
+    ],
+    "tags": [
+      "queen",
+      "duchess",
+      "consort"
+    ],
+    "importanceScore": 82,
+    "historicalRating": 8,
+    "wikiUrl": "https://en.wikipedia.org/wiki/Matilda_of_Flanders",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Matilda_of_Flanders",
+    "sourceNote": "",
+    "notes": "Wife of William the Conqueror. Birth year is approximate. Served as regent of Normandy during William's absences in England (c. 1066-1072); also called Maud.",
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died of natural causes",
+      "detail": "Matilda died in Normandy on 2 November 1083. Standard accounts do not describe a violent or suspicious death.",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Matilda_of_Flanders",
+      "summaryCn": "自然死亡",
+      "detailCn": "1083年11月2日玛蒂尔达在诺曼底去世。通行史料未记载暴力或可疑的死因。"
+    },
+    "relationships": {
+      "fatherId": "c9810000-0000-4000-8000-000000000000",
+      "motherId": "c9820000-0000-4000-8000-000000000000",
+      "spouseIds": [
+        "21b5ec21-1812-4731-8b03-721988be302f"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "bea83a88-2399-4eb7-a496-9cfcee8599a6",
+        "576ee669-b638-4013-91cf-71f637200b83",
+        "90840bac-1589-4ba4-abfe-9189e6046b36"
+      ]
+    },
+    "events": [
+      {
+        "year": 1051,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 82,
+        "label": "Marriage to William, Duke of Normandy",
+        "labelCn": "与诺曼底公爵威廉成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Matilda_of_Flanders"
+      },
+      {
+        "year": 1051,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "dynasty"
+        ],
+        "weight": 84,
+        "label": "Birth of Robert Curthose",
+        "labelCn": "罗贝尔·柯索斯出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Robert_Curthose"
+      },
+      {
+        "year": 1054,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "dynasty"
+        ],
+        "weight": 58,
+        "label": "Birth of Richard of Normandy",
+        "labelCn": "诺曼底的理查出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Richard_of_Normandy"
+      },
+      {
+        "year": 1055,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "dynasty"
+        ],
+        "weight": 52,
+        "label": "Birth of Adeliza of Normandy",
+        "labelCn": "诺曼底的阿德莉扎出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Adeliza_of_Normandy"
+      },
+      {
+        "year": 1058,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "dynasty"
+        ],
+        "weight": 62,
+        "label": "Birth of Cecilia of Normandy",
+        "labelCn": "诺曼底的塞西莉亚出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Cecilia_of_Normandy"
+      },
+      {
+        "year": 1056,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "dynasty"
+        ],
+        "weight": 88,
+        "label": "Birth of William Rufus",
+        "labelCn": "威廉·鲁夫斯出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/William_II_of_England"
+      },
+      {
+        "year": 1061,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "dynasty"
+        ],
+        "weight": 48,
+        "label": "Birth of Matilda of Normandy",
+        "labelCn": "诺曼底的玛蒂尔达出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Matilda_of_Normandy"
+      },
+      {
+        "year": 1062,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "dynasty"
+        ],
+        "weight": 70,
+        "label": "Birth of Adela of Normandy",
+        "labelCn": "诺曼底的阿德拉出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Adela_of_Normandy"
+      },
+      {
+        "year": 1064,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "dynasty",
+          "uncertain"
+        ],
+        "weight": 34,
+        "label": "Birth of Agatha of Normandy",
+        "labelCn": "诺曼底的阿加莎出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/William_the_Conqueror"
+      },
+      {
+        "year": 1066,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "dynasty"
+        ],
+        "weight": 60,
+        "label": "Birth of Constance of Normandy",
+        "labelCn": "诺曼底的康斯坦丝出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Constance_of_Normandy"
+      },
+      {
+        "year": 1066,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "queen"
+        ],
+        "weight": 90,
+        "label": "Became Queen of England",
+        "labelCn": "成为英格兰王后",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Matilda_of_Flanders"
+      },
+      {
+        "year": 1068,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "dynasty"
+        ],
+        "weight": 90,
+        "label": "Birth of Henry Beauclerc",
+        "labelCn": "亨利·博克莱尔出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_I_of_England"
+      },
+      {
+        "year": 1068,
+        "month": 5,
+        "day": 11,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "queen"
+        ],
+        "weight": 86,
+        "label": "Coronation as Queen of England",
+        "labelCn": "加冕为英格兰王后",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Matilda_of_Flanders"
+      },
+      {
+        "year": 1083,
+        "month": 11,
+        "day": 2,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 58,
+        "label": "Death of Matilda of Flanders",
+        "labelCn": "佛兰德的玛蒂尔达去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Matilda_of_Flanders"
+      }
+    ],
+    "createdDate": "20260815",
+    "createdOrder": 3
+  },
+  {
+    "id": "244bb192-3eb6-4fa5-934c-30806c83ee5f",
+    "firstName": "Isabella",
+    "lastName": "of Hainaut",
+    "displayName": "Isabella of Hainaut",
+    "fullName": "Isabella of Hainaut, Queen of France",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "埃诺的伊莎贝尔",
+    "fullNameCn": "法兰西王后埃诺的伊莎贝尔",
+    "nicknameCn": null,
+    "birthYear": 1170,
+    "deathYear": 1190,
+    "birthPlace": "Valenciennes, County of Hainaut",
+    "deathPlace": "Paris, Kingdom of France",
+    "birthPlaceCn": "埃诺伯国瓦朗谢讷",
+    "deathPlaceCn": "法兰西王国巴黎",
+    "gender": "female",
+    "dynasty": "Baldwinid dynasty",
+    "house": "House of Flanders",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Queen of France",
+    "primaryTitleCn": "法兰西王后",
+    "titles": [
+      {
+        "title": "Queen of France",
+        "startYear": 1180,
+        "endYear": 1190,
+        "titleCn": "法兰西王后"
+      },
+      {
+        "title": "Countess of Artois",
+        "startYear": 1180,
+        "endYear": 1190,
+        "titleCn": "阿图瓦女伯爵"
+      }
+    ],
+    "tags": [
+      "queen",
+      "consort",
+      "noble"
+    ],
+    "rank": "queen",
+    "importanceScore": 78,
+    "relationships": {
+      "fatherId": "f1010000-0000-4000-8000-000000000005",
+      "motherId": "",
+      "spouseIds": [
+        "7cc009b6-08d8-459b-b40e-2921bf3e4580"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "96b01b93-0b97-494a-896e-2d7abb07e05c"
+      ]
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Isabella_of_Hainault",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Isabella_of_Hainault",
+    "sourceNote": "",
+    "notes": "First wife of Philippe II Augustus. Parents (Baldwin V of Hainaut and Margaret I of Flanders) are not yet in the roster.",
+    "historicalRating": 7,
+    "createdDate": "20260817",
+    "createdOrder": 22,
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died following childbirth",
+      "summaryCn": "分娩后去世",
+      "detail": "Isabella gave birth to twin sons on 14 March 1190 (both died within days) and died the next day, 15 March 1190, aged 19. She was buried in Notre-Dame de Paris.",
+      "detailCn": "1190 年 3 月 14 日伊莎贝尔产下一对双胞胎儿子（数日内先后夭折），次日（3 月 15 日）去世，年仅 19 岁，葬于巴黎圣母院。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Isabella_of_Hainault"
+    },
+    "events": [
+      {
+        "year": 1170,
+        "month": 4,
+        "day": 5,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 62,
+        "label": "Born in Valenciennes",
+        "labelCn": "出生于瓦朗谢讷",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Isabella_of_Hainault"
+      },
+      {
+        "year": 1180,
+        "month": 4,
+        "day": 28,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 90,
+        "label": "Marriage to Philippe II at Bapaume",
+        "labelCn": "在巴波姆与腓力二世成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Isabella_of_Hainault",
+        "note": "Her dowry was the county of Artois; both bride and groom were fifteen."
+      },
+      {
+        "year": 1180,
+        "month": 5,
+        "day": 28,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "queen"
+        ],
+        "weight": 85,
+        "label": "Coronation as Queen of France",
+        "labelCn": "加冕为法兰西王后",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Isabella_of_Hainault",
+        "note": "Crowned at Saint-Denis."
+      },
+      {
+        "year": 1187,
+        "month": 9,
+        "day": 5,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "dynasty"
+        ],
+        "weight": 80,
+        "label": "Birth of Louis VIII",
+        "labelCn": "路易八世出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Louis_VIII_of_France"
+      },
+      {
+        "year": 1190,
+        "month": 3,
+        "day": 14,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 68,
+        "label": "Birth of twin sons Robert and Philippe",
+        "labelCn": "诞下双胞胎罗伯特与菲利普",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Isabella_of_Hainault",
+        "note": "Robert died the same day and Philippe three days later; both are excluded from the roster as infants who died young."
+      },
+      {
+        "year": 1190,
+        "month": 3,
+        "day": 15,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 95,
+        "label": "Died in Paris following childbirth",
+        "labelCn": "分娩后在巴黎去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Isabella_of_Hainault",
+        "note": "Philippe II was away campaigning in Normandy and did not attend the funeral."
+      }
+    ]
+  },
+  {
+    "id": "c9740000-0000-4000-8000-000000000000",
+    "firstName": "Baldwin",
+    "lastName": "of Flanders",
+    "displayName": "Baldwin I of Flanders",
+    "fullName": "Baldwin I of Flanders",
+    "displayNameCn": "佛兰德的鲍德温一世",
+    "fullNameCn": "佛兰德的鲍德温一世",
+    "nickname": "",
+    "nicknameCn": "",
+    "nicknameTags": [],
+    "alsoKnownAs": [],
+    "gender": "male",
+    "birthYear": 830,
+    "deathYear": 879,
+    "birthPlace": "Flanders",
+    "deathPlace": "Arras",
+    "birthPlaceCn": "Flanders",
+    "deathPlaceCn": "Arras",
+    "dynasty": "Baldwinid dynasty",
+    "house": "House of Flanders",
+    "culture": "Flemish",
+    "faith": "Catholic",
+    "primaryTitle": "Margrave of Flanders",
+    "primaryTitleCn": "佛兰德侯爵",
+    "titles": [
+      {
+        "title": "Margrave of Flanders",
+        "startYear": 862,
+        "endYear": 879,
+        "titleCn": "佛兰德侯爵"
+      }
+    ],
+    "tags": [
+      "noble"
+    ],
+    "rank": "noble",
+    "importanceScore": 40,
+    "wikiUrl": "https://en.wikipedia.org/wiki/Baldwin_I,_Margrave_of_Flanders",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Baldwin_I,_Margrave_of_Flanders",
+    "sourceNote": "",
+    "notes": "Rose to prominence through his marriage to Judith, daughter of Charles the Bald; the Flemish margraviate later developed into the County of Flanders.",
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "c9730000-0000-4000-8000-000000000000"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "c9750000-0000-4000-8000-000000000000",
+        "c9760000-0000-4000-8000-000000000000"
+      ]
+    },
+    "events": [
+      {
+        "year": 862,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "political_crisis"
+        ],
+        "weight": 80,
+        "label": "Eloped with Judith of the Carolingians",
+        "labelCn": "与加洛林公主朱迪丝私奔",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Baldwin_I,_Margrave_of_Flanders",
+        "note": "Baldwin abducted or eloped with Judith, daughter of Charles the Bald, drawing excommunication before a reconciliation."
+      },
+      {
+        "year": 862,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "noble"
+        ],
+        "weight": 80,
+        "label": "Created Margrave of Flanders",
+        "labelCn": "获封佛兰德侯爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Baldwin_I,_Margrave_of_Flanders",
+        "note": "After reconciling with Charles the Bald, Baldwin was confirmed as margrave of the Flemish march, the nucleus of the later County of Flanders."
+      },
+      {
+        "year": 870,
+        "type": "war",
+        "tags": [
+          "war",
+          "campaign",
+          "uncertain"
+        ],
+        "weight": 70,
+        "label": "Fortified Flanders against Viking raids",
+        "labelCn": "加固佛兰德抵御维京人",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Baldwin_I,_Margrave_of_Flanders",
+        "note": "Throughout his rule Baldwin fortified and defended the Flemish coast and riverlands against Norse raiders."
+      }
+    ],
+    "historicalRating": 5,
+    "createdDate": "20260823",
+    "createdOrder": 2
+  },
+  {
+    "id": "c9750000-0000-4000-8000-000000000000",
+    "firstName": "Baldwin",
+    "lastName": "of Flanders",
+    "displayName": "Baldwin II of Flanders",
+    "fullName": "Baldwin II of Flanders",
+    "displayNameCn": "佛兰德的鲍德温二世",
+    "fullNameCn": "佛兰德的鲍德温二世",
+    "nickname": "",
+    "nicknameCn": "",
+    "nicknameTags": [],
+    "alsoKnownAs": [],
+    "gender": "male",
+    "birthYear": 865,
+    "deathYear": 918,
+    "birthPlace": "Flanders",
+    "deathPlace": "Ghent",
+    "birthPlaceCn": "Flanders",
+    "deathPlaceCn": "Ghent",
+    "dynasty": "Baldwinid dynasty",
+    "house": "House of Flanders",
+    "culture": "Flemish",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Flanders",
+    "primaryTitleCn": "佛兰德伯爵",
+    "titles": [
+      {
+        "title": "Count of Flanders",
+        "startYear": 879,
+        "endYear": 918,
+        "titleCn": "佛兰德伯爵"
+      }
+    ],
+    "tags": [
+      "noble"
+    ],
+    "rank": "noble",
+    "importanceScore": 40,
+    "wikiUrl": "https://en.wikipedia.org/wiki/Baldwin_II,_Margrave_of_Flanders",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Baldwin_II,_Margrave_of_Flanders",
+    "sourceNote": "",
+    "notes": "Son of Baldwin I and Judith; his marriage to Ælfthryth linked the Flemish and West Saxon dynasties.",
+    "relationships": {
+      "fatherId": "c9740000-0000-4000-8000-000000000000",
+      "motherId": "c9730000-0000-4000-8000-000000000000",
+      "spouseIds": [
+        "4906de6b-cdef-468c-b602-411e4bbe3c03"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "c9770000-0000-4000-8000-000000000000"
+      ]
+    },
+    "events": [
+      {
+        "year": 879,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "noble"
+        ],
+        "weight": 78,
+        "label": "Succeeded as Count of Flanders",
+        "labelCn": "继任佛兰德伯爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Baldwin_II,_Margrave_of_Flanders",
+        "note": "Succeeded his father Baldwin I as ruler of the Flemish march."
+      },
+      {
+        "year": 884,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 75,
+        "label": "Married Ælfthryth of Wessex",
+        "labelCn": "迎娶威塞克斯的埃尔芙斯丽丝",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Baldwin_II,_Margrave_of_Flanders",
+        "note": "Married Ælfthryth, daughter of Alfred the Great, binding the Flemish and West Saxon dynasties."
+      },
+      {
+        "year": 900,
+        "type": "political_crisis",
+        "tags": [
+          "political_crisis",
+          "politics"
+        ],
+        "weight": 82,
+        "label": "Had Archbishop Fulk the Venerable murdered",
+        "labelCn": "派人刺杀兰斯大主教富尔克",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Baldwin_II,_Margrave_of_Flanders",
+        "note": "Fulk, Archbishop of Reims, had excommunicated Baldwin; Baldwin had him assassinated in 900, provoking widespread scandal."
+      }
+    ],
+    "historicalRating": 5,
+    "createdDate": "20260823",
+    "createdOrder": 3
+  },
+  {
+    "id": "c9760000-0000-4000-8000-000000000000",
+    "firstName": "Ralph",
+    "lastName": "of Cambrai",
+    "displayName": "Ralph of Cambrai",
+    "fullName": "Ralph of Cambrai",
+    "displayNameCn": "康布雷的拉乌尔",
+    "fullNameCn": "康布雷的拉乌尔",
+    "nickname": "",
+    "nicknameCn": "",
+    "nicknameTags": [],
+    "alsoKnownAs": [],
+    "gender": "male",
+    "birthYear": 868,
+    "deathYear": 896,
+    "birthPlace": "Flanders",
+    "deathPlace": "Vermandois",
+    "birthPlaceCn": "Flanders",
+    "deathPlaceCn": "Vermandois",
+    "dynasty": "Baldwinid dynasty",
+    "house": "House of Flanders",
+    "culture": "Flemish",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Cambrai",
+    "primaryTitleCn": "康布雷伯爵",
+    "titles": [
+      {
+        "title": "Count of Cambrai",
+        "startYear": 888,
+        "endYear": 896,
+        "titleCn": "康布雷伯爵"
+      }
+    ],
+    "tags": [
+      "noble"
+    ],
+    "rank": "noble",
+    "importanceScore": 40,
+    "wikiUrl": "https://en.wikipedia.org/wiki/Baldwin_I,_Margrave_of_Flanders",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Baldwin_I,_Margrave_of_Flanders",
+    "sourceNote": "",
+    "notes": "Younger son of Baldwin I and Judith; his later career is recorded separately from the main Flemish succession.",
+    "relationships": {
+      "fatherId": "c9740000-0000-4000-8000-000000000000",
+      "motherId": "c9730000-0000-4000-8000-000000000000",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 888,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "noble"
+        ],
+        "weight": 75,
+        "label": "Installed as Count of Cambrai",
+        "labelCn": "获任康布雷伯爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Baldwin_I,_Margrave_of_Flanders",
+        "note": "Made count and lay abbot of Cambrai around 888, in the context of his brother Baldwin II's support for King Odo."
+      },
+      {
+        "year": 896,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "territory"
+        ],
+        "weight": 72,
+        "label": "Campaign against Vermandois",
+        "labelCn": "进攻韦尔芒杜瓦",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Baldwin_I,_Margrave_of_Flanders",
+        "note": "Supporting his brother Baldwin II, Ralph captured Arras, Saint-Quentin and Péronne before King Odo drove his forces out."
+      },
+      {
+        "year": 896,
+        "type": "death",
+        "tags": [
+          "death",
+          "noble"
+        ],
+        "weight": 78,
+        "label": "Captured and killed by Herbert I of Vermandois",
+        "labelCn": "被韦尔芒杜瓦伯爵赫伯特一世所杀",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Baldwin_I,_Margrave_of_Flanders",
+        "note": "Taken prisoner by Herbert I of Vermandois and put to death in June 896."
+      }
+    ],
+    "historicalRating": 5,
+    "createdDate": "20260823",
+    "createdOrder": 4
+  },
+  {
+    "id": "c9770000-0000-4000-8000-000000000000",
+    "firstName": "Arnulf",
+    "lastName": "of Flanders",
+    "displayName": "Arnulf I of Flanders",
+    "fullName": "Arnulf I of Flanders",
+    "displayNameCn": "佛兰德的阿努尔夫一世",
+    "fullNameCn": "佛兰德的阿努尔夫一世",
+    "nickname": "",
+    "nicknameCn": "",
+    "nicknameTags": [],
+    "alsoKnownAs": [],
+    "gender": "male",
+    "birthYear": 890,
+    "deathYear": 964,
+    "birthPlace": "Flanders",
+    "deathPlace": "Flanders",
+    "birthPlaceCn": "Flanders",
+    "deathPlaceCn": "Flanders",
+    "dynasty": "Baldwinid dynasty",
+    "house": "House of Flanders",
+    "culture": "Flemish",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Flanders",
+    "primaryTitleCn": "佛兰德伯爵",
+    "titles": [
+      {
+        "title": "Count of Flanders",
+        "startYear": 918,
+        "endYear": 964,
+        "titleCn": "佛兰德伯爵"
+      }
+    ],
+    "tags": [
+      "noble"
+    ],
+    "rank": "noble",
+    "importanceScore": 40,
+    "wikiUrl": "https://en.wikipedia.org/wiki/Arnulf_I,_Count_of_Flanders",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Arnulf_I,_Count_of_Flanders",
+    "sourceNote": "",
+    "notes": "Succeeded Baldwin II and consolidated the Flemish county amid conflict with neighbouring powers.",
+    "relationships": {
+      "fatherId": "c9750000-0000-4000-8000-000000000000",
+      "motherId": "4906de6b-cdef-468c-b602-411e4bbe3c03",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "c9780000-0000-4000-8000-000000000000"
+      ]
+    },
+    "events": [
+      {
+        "year": 918,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "noble"
+        ],
+        "weight": 78,
+        "label": "Succeeded as Count of Flanders",
+        "labelCn": "继任佛兰德伯爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Arnulf_I,_Count_of_Flanders",
+        "note": "Succeeded his father Baldwin II and consolidated the Flemish county."
+      },
+      {
+        "year": 934,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 70,
+        "label": "Married Adela of Vermandois",
+        "labelCn": "迎娶韦尔芒杜瓦的阿黛拉",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Arnulf_I,_Count_of_Flanders",
+        "note": "Married Adela, daughter of Herbert II of Vermandois, as part of his southward expansion."
+      },
+      {
+        "year": 942,
+        "type": "political_crisis",
+        "tags": [
+          "political_crisis",
+          "politics"
+        ],
+        "weight": 85,
+        "label": "Complicit in the murder of William Longsword",
+        "labelCn": "参与谋杀诺曼底公爵长剑威廉",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Arnulf_I,_Count_of_Flanders",
+        "note": "Arnulf arranged the ambush and killing of William Longsword, Duke of Normandy, on an island in the Somme in December 942."
+      }
+    ],
+    "historicalRating": 5,
+    "createdDate": "20260823",
+    "createdOrder": 5
+  },
+  {
+    "id": "c9780000-0000-4000-8000-000000000000",
+    "firstName": "Baldwin",
+    "lastName": "of Flanders",
+    "displayName": "Baldwin III of Flanders",
+    "fullName": "Baldwin III of Flanders",
+    "displayNameCn": "佛兰德的鲍德温三世",
+    "fullNameCn": "佛兰德的鲍德温三世",
+    "nickname": "",
+    "nicknameCn": "",
+    "nicknameTags": [],
+    "alsoKnownAs": [],
+    "gender": "male",
+    "birthYear": 940,
+    "deathYear": 962,
+    "birthPlace": "Flanders",
+    "deathPlace": "Flanders",
+    "birthPlaceCn": "Flanders",
+    "deathPlaceCn": "Flanders",
+    "dynasty": "Baldwinid dynasty",
+    "house": "House of Flanders",
+    "culture": "Flemish",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Flanders",
+    "primaryTitleCn": "佛兰德伯爵",
+    "titles": [
+      {
+        "title": "Count of Flanders",
+        "startYear": 958,
+        "endYear": 962,
+        "titleCn": "佛兰德伯爵"
+      }
+    ],
+    "tags": [
+      "noble"
+    ],
+    "rank": "noble",
+    "importanceScore": 40,
+    "wikiUrl": "https://en.wikipedia.org/wiki/Arnulf_I,_Count_of_Flanders",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Arnulf_I,_Count_of_Flanders",
+    "sourceNote": "",
+    "notes": "Ruled jointly with his father Arnulf I; the succession returned to his father after his early death.",
+    "relationships": {
+      "fatherId": "c9770000-0000-4000-8000-000000000000",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "c9790000-0000-4000-8000-000000000000"
+      ]
+    },
+    "events": [
+      {
+        "year": 958,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "noble"
+        ],
+        "weight": 75,
+        "label": "Made co-ruler of Flanders",
+        "labelCn": "与父亲共治佛兰德",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Arnulf_I,_Count_of_Flanders",
+        "note": "His father Arnulf I made him joint count of Flanders in 958."
+      },
+      {
+        "year": 961,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 70,
+        "label": "Married Matilda of Saxony",
+        "labelCn": "迎娶萨克森的玛蒂尔达",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Arnulf_I,_Count_of_Flanders",
+        "note": "Married Matilda, daughter of Duke Hermann Billung of Saxony; their son was Arnulf II."
+      },
+      {
+        "year": 962,
+        "type": "death",
+        "tags": [
+          "death",
+          "noble"
+        ],
+        "weight": 60,
+        "label": "Died young, returning power to Arnulf I",
+        "labelCn": "英年早逝，权力回到阿努尔夫一世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Arnulf_I,_Count_of_Flanders",
+        "note": "His early death returned the county to his father Arnulf I, who then arranged for his grandson Arnulf II to succeed."
+      }
+    ],
+    "historicalRating": 5,
+    "createdDate": "20260823",
+    "createdOrder": 6
+  },
+  {
+    "id": "c9790000-0000-4000-8000-000000000000",
+    "firstName": "Arnulf",
+    "lastName": "of Flanders",
+    "displayName": "Arnulf II of Flanders",
+    "fullName": "Arnulf II of Flanders",
+    "displayNameCn": "佛兰德的阿努尔夫二世",
+    "fullNameCn": "佛兰德的阿努尔夫二世",
+    "nickname": "",
+    "nicknameCn": "",
+    "nicknameTags": [],
+    "alsoKnownAs": [],
+    "gender": "male",
+    "birthYear": 961,
+    "deathYear": 987,
+    "birthPlace": "Flanders",
+    "deathPlace": "Flanders",
+    "birthPlaceCn": "Flanders",
+    "deathPlaceCn": "Flanders",
+    "dynasty": "Baldwinid dynasty",
+    "house": "House of Flanders",
+    "culture": "Flemish",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Flanders",
+    "primaryTitleCn": "佛兰德伯爵",
+    "titles": [
+      {
+        "title": "Count of Flanders",
+        "startYear": 965,
+        "endYear": 987,
+        "titleCn": "佛兰德伯爵"
+      }
+    ],
+    "tags": [
+      "noble"
+    ],
+    "rank": "noble",
+    "importanceScore": 40,
+    "wikiUrl": "https://en.wikipedia.org/wiki/Arnulf_II,_Count_of_Flanders",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Arnulf_II,_Count_of_Flanders",
+    "sourceNote": "",
+    "notes": "Son of Baldwin III and successor to the Flemish county.",
+    "relationships": {
+      "fatherId": "c9780000-0000-4000-8000-000000000000",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "c9800000-0000-4000-8000-000000000000"
+      ]
+    },
+    "events": [
+      {
+        "year": 965,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "noble"
+        ],
+        "weight": 72,
+        "label": "Succeeded as Count of Flanders",
+        "labelCn": "继任佛兰德伯爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Arnulf_II,_Count_of_Flanders",
+        "note": "Succeeded his grandfather Arnulf I as a minor, with the county briefly under a regency."
+      },
+      {
+        "year": 976,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance",
+          "uncertain"
+        ],
+        "weight": 68,
+        "label": "Married Rozala of Italy",
+        "labelCn": "迎娶意大利的罗萨拉",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Arnulf_II,_Count_of_Flanders",
+        "note": "Married Rozala (Susanna) of Ivrea, daughter of Berengar II of Italy; the year is disputed (968 or 976)."
+      }
+    ],
+    "historicalRating": 5,
+    "createdDate": "20260823",
+    "createdOrder": 7
+  },
+  {
+    "id": "c9800000-0000-4000-8000-000000000000",
+    "firstName": "Baldwin",
+    "lastName": "of Flanders",
+    "displayName": "Baldwin IV of Flanders",
+    "fullName": "Baldwin IV of Flanders",
+    "displayNameCn": "佛兰德的鲍德温四世",
+    "fullNameCn": "佛兰德的鲍德温四世",
+    "nickname": "",
+    "nicknameCn": "",
+    "nicknameTags": [],
+    "alsoKnownAs": [],
+    "gender": "male",
+    "birthYear": 980,
+    "deathYear": 1035,
+    "birthPlace": "Flanders",
+    "deathPlace": "Flanders",
+    "birthPlaceCn": "Flanders",
+    "deathPlaceCn": "Flanders",
+    "dynasty": "Baldwinid dynasty",
+    "house": "House of Flanders",
+    "culture": "Flemish",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Flanders",
+    "primaryTitleCn": "佛兰德伯爵",
+    "titles": [
+      {
+        "title": "Count of Flanders",
+        "startYear": 987,
+        "endYear": 1035,
+        "titleCn": "佛兰德伯爵"
+      }
+    ],
+    "tags": [
+      "noble"
+    ],
+    "rank": "noble",
+    "importanceScore": 40,
+    "wikiUrl": "https://en.wikipedia.org/wiki/Baldwin_IV,_Count_of_Flanders",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Baldwin_IV,_Count_of_Flanders",
+    "sourceNote": "",
+    "notes": "Known as Baldwin the Bearded; father of Baldwin V by Ogive of Luxembourg and of Judith by Eleanor of Normandy.",
+    "relationships": {
+      "fatherId": "c9790000-0000-4000-8000-000000000000",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "c9810000-0000-4000-8000-000000000000"
+      ]
+    },
+    "events": [
+      {
+        "year": 987,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "noble"
+        ],
+        "weight": 72,
+        "label": "Succeeded as Count of Flanders",
+        "labelCn": "继任佛兰德伯爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Baldwin_IV,_Count_of_Flanders",
+        "note": "Succeeded his father Arnulf II as a minor."
+      },
+      {
+        "year": 1012,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance",
+          "uncertain"
+        ],
+        "weight": 70,
+        "label": "Married Ogive of Luxembourg",
+        "labelCn": "迎娶卢森堡的奥吉芙",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Baldwin_IV,_Count_of_Flanders",
+        "note": "His first marriage, to Ogive of Luxembourg, produced his heir Baldwin V; the year is approximate."
+      },
+      {
+        "year": 1031,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 72,
+        "label": "Married Eleanor of Normandy",
+        "labelCn": "迎娶诺曼底的埃莉诺",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Baldwin_IV,_Count_of_Flanders",
+        "note": "His second marriage, to Eleanor, daughter of Duke Richard II, aligned Flanders with Normandy."
+      }
+    ],
+    "historicalRating": 5,
+    "createdDate": "20260823",
+    "createdOrder": 8
+  },
+  {
+    "id": "c9810000-0000-4000-8000-000000000000",
+    "firstName": "Baldwin",
+    "lastName": "of Flanders",
+    "displayName": "Baldwin V of Flanders",
+    "fullName": "Baldwin V of Flanders",
+    "displayNameCn": "佛兰德的鲍德温五世",
+    "fullNameCn": "佛兰德的鲍德温五世",
+    "nickname": "",
+    "nicknameCn": "",
+    "nicknameTags": [],
+    "alsoKnownAs": [],
+    "gender": "male",
+    "birthYear": 1012,
+    "deathYear": 1067,
+    "birthPlace": "Flanders",
+    "deathPlace": "Lille",
+    "birthPlaceCn": "Flanders",
+    "deathPlaceCn": "Lille",
+    "dynasty": "Baldwinid dynasty",
+    "house": "House of Flanders",
+    "culture": "Flemish",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Flanders",
+    "primaryTitleCn": "佛兰德伯爵",
+    "titles": [
+      {
+        "title": "Count of Flanders",
+        "startYear": 1035,
+        "endYear": 1067,
+        "titleCn": "佛兰德伯爵"
+      }
+    ],
+    "tags": [
+      "noble"
+    ],
+    "rank": "noble",
+    "importanceScore": 40,
+    "wikiUrl": "https://en.wikipedia.org/wiki/Baldwin_V,_Count_of_Flanders",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Baldwin_V,_Count_of_Flanders",
+    "sourceNote": "",
+    "notes": "Father of Matilda of Flanders, who married William the Conqueror; also father of Baldwin VI and Robert I.",
+    "relationships": {
+      "fatherId": "c9800000-0000-4000-8000-000000000000",
+      "motherId": "",
+      "spouseIds": [
+        "c9820000-0000-4000-8000-000000000000"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "2a19d3aa-7968-4c0b-9870-fe3db9c9b575"
+      ]
+    },
+    "events": [
+      {
+        "year": 1028,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 78,
+        "label": "Married Adela of France",
+        "labelCn": "迎娶法兰西的阿黛拉",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Baldwin_V,_Count_of_Flanders",
+        "note": "Married Adela, daughter of King Robert II of France, tying the Flemish counts to the Capetian house."
+      },
+      {
+        "year": 1035,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "noble"
+        ],
+        "weight": 76,
+        "label": "Succeeded as Count of Flanders",
+        "labelCn": "继任佛兰德伯爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Baldwin_V,_Count_of_Flanders",
+        "note": "Succeeded his father Baldwin IV as Count of Flanders."
+      },
+      {
+        "year": 1060,
+        "type": "regency",
+        "tags": [
+          "regency",
+          "politics"
+        ],
+        "weight": 82,
+        "label": "Became regent of France",
+        "labelCn": "出任法兰西摄政",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Baldwin_V,_Count_of_Flanders",
+        "note": "After Henry I's death in 1060, Baldwin acted as regent for his young nephew-by-marriage Philip I until 1066–67."
+      }
+    ],
+    "historicalRating": 5,
+    "createdDate": "20260823",
+    "createdOrder": 9
+  },
+  {
+    "id": "c9820000-0000-4000-8000-000000000000",
+    "firstName": "Adela",
+    "lastName": "of France",
+    "displayName": "Adela of France",
+    "fullName": "Adela of France",
+    "displayNameCn": "法兰西的阿黛拉",
+    "fullNameCn": "法兰德伯爵夫人法兰西的阿黛拉",
+    "nickname": "",
+    "nicknameCn": "",
+    "nicknameTags": [],
+    "alsoKnownAs": [],
+    "gender": "female",
+    "birthYear": 1009,
+    "deathYear": 1079,
+    "birthPlace": "France",
+    "deathPlace": "Messines",
+    "birthPlaceCn": "France",
+    "deathPlaceCn": "Messines",
+    "dynasty": "Baldwinid dynasty",
+    "house": "House of Flanders",
+    "culture": "Flemish",
+    "faith": "Catholic",
+    "primaryTitle": "Countess of Flanders",
+    "primaryTitleCn": "佛兰德伯爵夫人",
+    "titles": [
+      {
+        "title": "Countess of Flanders",
+        "startYear": 1035,
+        "endYear": 1067,
+        "titleCn": "佛兰德伯爵夫人"
+      }
+    ],
+    "tags": [
+      "noble"
+    ],
+    "rank": "noble",
+    "importanceScore": 40,
+    "wikiUrl": "https://en.wikipedia.org/wiki/Adela_of_France,_Countess_of_Flanders",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Adela_of_France,_Countess_of_Flanders",
+    "sourceNote": "",
+    "notes": "Daughter of Robert II of France and wife of Baldwin V; mother of Matilda of Flanders.",
+    "relationships": {
+      "fatherId": "fb8cf6a9-fad8-46e6-87aa-99dd01fe3ce9",
+      "motherId": "",
+      "spouseIds": [
+        "c9810000-0000-4000-8000-000000000000"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "2a19d3aa-7968-4c0b-9870-fe3db9c9b575"
+      ]
+    },
+    "events": [
+      {
+        "year": 1028,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 75,
+        "label": "Married Baldwin V of Flanders",
+        "labelCn": "嫁给佛兰德的鲍德温五世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Adela_of_France,_Countess_of_Flanders",
+        "note": "Married Baldwin V of Flanders; their daughter Matilda later married William the Conqueror."
+      },
+      {
+        "year": 1067,
+        "type": "journey",
+        "tags": [
+          "religion"
+        ],
+        "weight": 65,
+        "label": "Pilgrimage to Rome",
+        "labelCn": "赴罗马朝圣",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Adela_of_France,_Countess_of_Flanders",
+        "note": "After Baldwin V's death she made a pilgrimage to Rome, where Pope Alexander II gave her the veil."
+      },
+      {
+        "year": 1067,
+        "type": "religion",
+        "tags": [
+          "religion"
+        ],
+        "weight": 68,
+        "label": "Retired to Messines and took the veil",
+        "labelCn": "隐退梅西讷并成为修女",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Adela_of_France,_Countess_of_Flanders",
+        "note": "After her Roman pilgrimage she retired to the Benedictine community she had founded at Messines (Mesen), where she died in 1079."
+      }
+    ],
+    "historicalRating": 5,
+    "createdDate": "20260823",
+    "createdOrder": 10
+  },
+  {
+    "id": "c9830000-0000-4000-8000-000000000000",
+    "firstName": "Baldwin",
+    "lastName": "of Flanders",
+    "displayName": "Baldwin VI of Flanders",
+    "fullName": "Baldwin VI of Flanders",
+    "displayNameCn": "佛兰德的鲍德温六世",
+    "fullNameCn": "佛兰德的鲍德温六世",
+    "nickname": "",
+    "nicknameCn": "",
+    "nicknameTags": [],
+    "alsoKnownAs": [],
+    "gender": "male",
+    "birthYear": 1030,
+    "deathYear": 1070,
+    "birthPlace": "Flanders",
+    "deathPlace": "Flanders",
+    "birthPlaceCn": "Flanders",
+    "deathPlaceCn": "Flanders",
+    "dynasty": "Baldwinid dynasty",
+    "house": "House of Flanders",
+    "culture": "Flemish",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Flanders",
+    "primaryTitleCn": "佛兰德伯爵",
+    "titles": [
+      {
+        "title": "Count of Flanders",
+        "startYear": 1067,
+        "endYear": 1070,
+        "titleCn": "佛兰德伯爵"
+      },
+      {
+        "title": "Count of Hainaut",
+        "titleCn": "埃诺伯爵",
+        "startYear": 1051,
+        "endYear": 1070
+      }
+    ],
+    "tags": [
+      "noble"
+    ],
+    "rank": "noble",
+    "importanceScore": 40,
+    "wikiUrl": "https://en.wikipedia.org/wiki/Baldwin_VI,_Count_of_Flanders",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Baldwin_VI,_Count_of_Flanders",
+    "sourceNote": "",
+    "notes": "Matilda of Flanders's brother; succeeded their father as Count of Flanders.",
+    "relationships": {
+      "fatherId": "c9810000-0000-4000-8000-000000000000",
+      "motherId": "c9820000-0000-4000-8000-000000000000",
+      "spouseIds": [
+        "f1010000-0000-4000-8000-000000000001"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "f1010000-0000-4000-8000-000000000002"
+      ]
+    },
+    "events": [
+      {
+        "year": 1051,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 75,
+        "label": "Married Richilde of Hainaut",
+        "labelCn": "娶埃诺的里希尔德",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Baldwin_VI,_Count_of_Flanders",
+        "note": "Through Richilde he became co-ruler (jure uxoris) of Hainaut."
+      },
+      {
+        "year": 1067,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "succession"
+        ],
+        "weight": 80,
+        "label": "Succeeded as Count of Flanders",
+        "labelCn": "继任佛兰德伯爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Baldwin_VI,_Count_of_Flanders",
+        "note": "Inherited the county on the death of his father Baldwin V."
+      },
+      {
+        "year": 1070,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 65,
+        "label": "Death",
+        "labelCn": "去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Baldwin_VI,_Count_of_Flanders",
+        "note": "His death opened a succession struggle between his widow Richilde and his brother Robert the Frisian."
+      }
+    ],
+    "historicalRating": 5,
+    "createdDate": "20260823",
+    "createdOrder": 11
+  },
+  {
+    "id": "c9840000-0000-4000-8000-000000000000",
+    "firstName": "Robert",
+    "lastName": "of Flanders",
+    "displayName": "Robert I of Flanders",
+    "fullName": "Robert I of Flanders",
+    "displayNameCn": "佛兰德的罗贝尔一世",
+    "fullNameCn": "佛兰德的罗贝尔一世",
+    "nickname": "",
+    "nicknameCn": "",
+    "nicknameTags": [],
+    "alsoKnownAs": [],
+    "gender": "male",
+    "birthYear": 1029,
+    "deathYear": 1093,
+    "birthPlace": "Flanders",
+    "deathPlace": "Flanders",
+    "birthPlaceCn": "Flanders",
+    "deathPlaceCn": "Flanders",
+    "dynasty": "Baldwinid dynasty",
+    "house": "House of Flanders",
+    "culture": "Flemish",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Flanders",
+    "primaryTitleCn": "佛兰德伯爵",
+    "titles": [
+      {
+        "title": "Count of Flanders",
+        "startYear": 1071,
+        "endYear": 1093,
+        "titleCn": "佛兰德伯爵"
+      }
+    ],
+    "tags": [
+      "noble"
+    ],
+    "rank": "noble",
+    "importanceScore": 40,
+    "wikiUrl": "https://en.wikipedia.org/wiki/Robert_I,_Count_of_Flanders",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Robert_I,_Count_of_Flanders",
+    "sourceNote": "",
+    "notes": "Matilda of Flanders's brother; became Count of Flanders after the succession crisis of 1071.",
+    "relationships": {
+      "fatherId": "c9810000-0000-4000-8000-000000000000",
+      "motherId": "c9820000-0000-4000-8000-000000000000",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "c9850000-0000-4000-8000-000000000000",
+        "c9920000-0000-4000-8000-000000000000"
+      ]
+    },
+    "events": [
+      {
+        "year": 1071,
+        "month": 2,
+        "day": 22,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "commander"
+        ],
+        "weight": 92,
+        "label": "Battle of Cassel",
+        "labelCn": "卡塞尔之战",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Cassel_(1071)",
+        "note": "Defeated Richilde and his nephew Arnulf III, who was killed, winning Flanders."
+      },
+      {
+        "year": 1085,
+        "type": "religion",
+        "tags": [
+          "faith",
+          "journey"
+        ],
+        "weight": 62,
+        "label": "Pilgrimage to Jerusalem",
+        "labelCn": "前往耶路撒冷朝圣",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Robert_I,_Count_of_Flanders",
+        "note": "Made a pilgrimage to the Holy Land (c. 1085–1091); on his return he aided the Byzantine emperor."
+      },
+      {
+        "year": 1093,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 60,
+        "label": "Death",
+        "labelCn": "去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Robert_I,_Count_of_Flanders"
+      }
+    ],
+    "historicalRating": 5,
+    "createdDate": "20260823",
+    "createdOrder": 12
+  },
+  {
+    "id": "c9850000-0000-4000-8000-000000000000",
+    "firstName": "Robert",
+    "lastName": "of Flanders",
+    "displayName": "Robert II of Flanders",
+    "fullName": "Robert II of Flanders",
+    "displayNameCn": "佛兰德的罗贝尔二世",
+    "fullNameCn": "佛兰德的罗贝尔二世",
+    "nickname": "",
+    "nicknameCn": "",
+    "nicknameTags": [],
+    "alsoKnownAs": [],
+    "gender": "male",
+    "birthYear": 1065,
+    "deathYear": 1111,
+    "birthPlace": "Flanders",
+    "deathPlace": "Meaux",
+    "birthPlaceCn": "Flanders",
+    "deathPlaceCn": "Meaux",
+    "dynasty": "Baldwinid dynasty",
+    "house": "House of Flanders",
+    "culture": "Flemish",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Flanders",
+    "primaryTitleCn": "佛兰德伯爵",
+    "titles": [
+      {
+        "title": "Count of Flanders",
+        "startYear": 1093,
+        "endYear": 1111,
+        "titleCn": "佛兰德伯爵"
+      }
+    ],
+    "tags": [
+      "noble"
+    ],
+    "rank": "noble",
+    "importanceScore": 40,
+    "wikiUrl": "https://en.wikipedia.org/wiki/Robert_II,_Count_of_Flanders",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Robert_II,_Count_of_Flanders",
+    "sourceNote": "",
+    "notes": "Succeeded his father Robert I and joined the First Crusade.",
+    "relationships": {
+      "fatherId": "c9840000-0000-4000-8000-000000000000",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "c9860000-0000-4000-8000-000000000000"
+      ]
+    },
+    "events": [
+      {
+        "year": 1093,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "succession"
+        ],
+        "weight": 80,
+        "label": "Succeeded as Count of Flanders",
+        "labelCn": "继任佛兰德伯爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Robert_II,_Count_of_Flanders"
+      },
+      {
+        "year": 1096,
+        "type": "crusade",
+        "tags": [
+          "crusade",
+          "commander"
+        ],
+        "weight": 85,
+        "label": "Joined the First Crusade",
+        "labelCn": "参加第一次十字军东征",
+        "wikiUrl": "https://en.wikipedia.org/wiki/First_Crusade",
+        "note": "Fought at the Siege of Antioch (1098) and the capture of Jerusalem (1099)."
+      },
+      {
+        "year": 1111,
+        "month": 10,
+        "day": 5,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 60,
+        "label": "Death",
+        "labelCn": "去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Robert_II,_Count_of_Flanders"
+      }
+    ],
+    "historicalRating": 5,
+    "createdDate": "20260823",
+    "createdOrder": 13
+  },
+  {
+    "id": "c9860000-0000-4000-8000-000000000000",
+    "firstName": "Baldwin",
+    "lastName": "of Flanders",
+    "displayName": "Baldwin VII of Flanders",
+    "fullName": "Baldwin VII of Flanders",
+    "displayNameCn": "佛兰德的鲍德温七世",
+    "fullNameCn": "佛兰德的鲍德温七世",
+    "nickname": "",
+    "nicknameCn": "",
+    "nicknameTags": [],
+    "alsoKnownAs": [],
+    "gender": "male",
+    "birthYear": 1093,
+    "deathYear": 1119,
+    "birthPlace": "Flanders",
+    "deathPlace": "Bures-en-Bray",
+    "birthPlaceCn": "Flanders",
+    "deathPlaceCn": "Bures-en-Bray",
+    "dynasty": "Baldwinid dynasty",
+    "house": "House of Flanders",
+    "culture": "Flemish",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Flanders",
+    "primaryTitleCn": "佛兰德伯爵",
+    "titles": [
+      {
+        "title": "Count of Flanders",
+        "startYear": 1111,
+        "endYear": 1119,
+        "titleCn": "佛兰德伯爵"
+      }
+    ],
+    "tags": [
+      "noble"
+    ],
+    "rank": "noble",
+    "importanceScore": 40,
+    "wikiUrl": "https://en.wikipedia.org/wiki/Baldwin_VII,_Count_of_Flanders",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Baldwin_VII,_Count_of_Flanders",
+    "sourceNote": "",
+    "notes": "Succeeded Robert II and died without a surviving heir.",
+    "relationships": {
+      "fatherId": "c9850000-0000-4000-8000-000000000000",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1111,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "succession"
+        ],
+        "weight": 80,
+        "label": "Succeeded as Count of Flanders",
+        "labelCn": "继任佛兰德伯爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Baldwin_VII,_Count_of_Flanders"
+      },
+      {
+        "year": 1118,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "commander"
+        ],
+        "weight": 84,
+        "label": "Battle of Bures-en-Bray",
+        "labelCn": "布雷斯昂布雷之战",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Baldwin_VII,_Count_of_Flanders",
+        "note": "Fought Henry I of England on behalf of Louis VI of France and was wounded."
+      },
+      {
+        "year": 1119,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 68,
+        "label": "Death from wounds",
+        "labelCn": "伤重去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Baldwin_VII,_Count_of_Flanders",
+        "note": "Died of his wounds, naming his cousin Charles the Good as heir."
+      }
+    ],
+    "historicalRating": 5,
+    "createdDate": "20260823",
+    "createdOrder": 14
+  },
+  {
+    "id": "c9880000-0000-4000-8000-000000000000",
+    "firstName": "William",
+    "lastName": "Clito",
+    "displayName": "William Clito",
+    "fullName": "William Clito",
+    "displayNameCn": "威廉·克利顿",
+    "fullNameCn": "威廉·克利顿，佛兰德伯爵",
+    "nickname": "",
+    "nicknameCn": "",
+    "nicknameTags": [],
+    "alsoKnownAs": [],
+    "gender": "male",
+    "birthYear": 1102,
+    "deathYear": 1128,
+    "birthPlace": "Rouen",
+    "deathPlace": "Alost",
+    "birthPlaceCn": "Rouen",
+    "deathPlaceCn": "Alost",
+    "dynasty": "Baldwinid dynasty",
+    "house": "House of Flanders",
+    "culture": "Flemish",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Flanders",
+    "primaryTitleCn": "佛兰德伯爵",
+    "titles": [
+      {
+        "title": "Count of Flanders",
+        "startYear": 1127,
+        "endYear": 1128,
+        "titleCn": "佛兰德伯爵"
+      }
+    ],
+    "tags": [
+      "noble"
+    ],
+    "rank": "noble",
+    "importanceScore": 40,
+    "wikiUrl": "https://en.wikipedia.org/wiki/William_Clito",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/William_Clito",
+    "sourceNote": "",
+    "notes": "Son of Robert Curthose; installed with French support after Charles the Good's death, but faced a competing Flemish succession.",
+    "relationships": {
+      "fatherId": "bea83a88-2399-4eb7-a496-9cfcee8599a6",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1127,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "succession"
+        ],
+        "weight": 78,
+        "label": "Installed as Count of Flanders",
+        "labelCn": "被立为佛兰德伯爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/William_Clito",
+        "note": "Placed in Flanders by Louis VI of France after the assassination of Charles the Good."
+      },
+      {
+        "year": 1127,
+        "type": "rebellion",
+        "tags": [
+          "rebellion",
+          "political_crisis"
+        ],
+        "weight": 72,
+        "label": "Flemish towns revolt",
+        "labelCn": "佛兰德城镇起事",
+        "wikiUrl": "https://en.wikipedia.org/wiki/William_Clito",
+        "note": "Faced a rising led by the Flemish towns in favour of Thierry of Alsace."
+      },
+      {
+        "year": 1128,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 68,
+        "label": "Death at Aalst",
+        "labelCn": "在阿尔斯特去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/William_Clito",
+        "note": "Died of a wound received while besieging Aalst."
+      }
+    ],
+    "historicalRating": 5,
+    "createdDate": "20260823",
+    "createdOrder": 16
+  },
+  {
+    "id": "c9920000-0000-4000-8000-000000000000",
+    "firstName": "Adela",
+    "lastName": "of Flanders",
+    "displayName": "Adela of Flanders",
+    "fullName": "Adela of Flanders",
+    "displayNameCn": "佛兰德的阿德拉",
+    "fullNameCn": "佛兰德的阿德拉，丹麦王后",
+    "nickname": "",
+    "nicknameCn": "",
+    "nicknameTags": [],
+    "alsoKnownAs": [],
+    "gender": "female",
+    "birthYear": 1064,
+    "deathYear": 1115,
+    "birthPlace": "Flanders",
+    "deathPlace": "Flanders",
+    "birthPlaceCn": "Flanders",
+    "deathPlaceCn": "Flanders",
+    "dynasty": "Baldwinid dynasty",
+    "house": "House of Flanders",
+    "culture": "Flemish",
+    "faith": "Catholic",
+    "primaryTitle": "Queen of Denmark",
+    "primaryTitleCn": "丹麦王后",
+    "titles": [
+      {
+        "title": "Queen of Denmark",
+        "startYear": 1080,
+        "endYear": 1086,
+        "titleCn": "丹麦王后"
+      }
+    ],
+    "tags": [
+      "queen",
+      "consort",
+      "noble"
+    ],
+    "rank": "queen",
+    "importanceScore": 40,
+    "wikiUrl": "https://en.wikipedia.org/wiki/Adela_of_Flanders",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Adela_of_Flanders",
+    "sourceNote": "",
+    "notes": "Daughter of Robert I, Count of Flanders, and wife of Canute IV of Denmark.",
+    "relationships": {
+      "fatherId": "c9840000-0000-4000-8000-000000000000",
+      "motherId": "",
+      "spouseIds": [
+        "c9910000-0000-4000-8000-000000000000"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "c9870000-0000-4000-8000-000000000000"
+      ]
+    },
+    "events": [
+      {
+        "year": 1080,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "queen",
+          "dynastic_alliance"
+        ],
+        "weight": 78,
+        "label": "Married Canute IV of Denmark",
+        "labelCn": "嫁给丹麦国王克努特四世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Adela_of_Flanders",
+        "note": "Became Queen consort of Denmark."
+      },
+      {
+        "year": 1086,
+        "type": "exile",
+        "tags": [
+          "exile",
+          "political_crisis"
+        ],
+        "weight": 70,
+        "label": "Fled Denmark with her son Charles",
+        "labelCn": "携子查理逃离丹麦",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Adela_of_Flanders",
+        "note": "Fled to Flanders after her husband's murder, leaving her daughters behind."
+      },
+      {
+        "year": 1092,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 66,
+        "label": "Married Roger Borsa, Duke of Apulia",
+        "labelCn": "改嫁阿普利亚公爵罗杰·博尔萨",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Adela_of_Flanders",
+        "note": "Left Flanders for Italy; later acted as regent of Apulia (1111–1114)."
+      }
+    ],
+    "historicalRating": 5,
+    "createdDate": "20260823",
+    "createdOrder": 34
+  },
+  {
+    "id": "f1010000-0000-4000-8000-000000000005",
+    "firstName": "Baldwin",
+    "lastName": "of Hainaut",
+    "displayName": "Baldwin V of Hainaut",
+    "fullName": "Baldwin V of Hainaut, Baldwin VIII of Flanders",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [
+      "Baldwin VIII of Flanders",
+      "Baldwin I of Namur",
+      "Baudouin V de Hainaut"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "埃诺的鲍德温五世",
+    "fullNameCn": "埃诺伯爵鲍德温五世、佛兰德伯爵鲍德温八世",
+    "birthYear": 1150,
+    "deathYear": 1195,
+    "birthPlace": "",
+    "birthPlaceCn": "",
+    "deathPlace": "Mons",
+    "deathPlaceCn": "蒙斯",
+    "gender": "male",
+    "dynasty": "Baldwinid dynasty",
+    "house": "House of Flanders",
+    "culture": "Franco-Flemish / Hainaut",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Hainaut",
+    "primaryTitleCn": "埃诺伯爵",
+    "titles": [
+      {
+        "title": "Count of Hainaut",
+        "titleCn": "埃诺伯爵",
+        "startYear": 1171,
+        "endYear": 1195
+      },
+      {
+        "title": "Margrave of Namur",
+        "titleCn": "那慕尔藩侯",
+        "startYear": 1189,
+        "endYear": 1195
+      },
+      {
+        "title": "Count of Flanders",
+        "titleCn": "佛兰德伯爵",
+        "startYear": 1191,
+        "endYear": 1194
+      }
+    ],
+    "tags": [
+      "count",
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "f1010000-0000-4000-8000-000000000004",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "f1010000-0000-4000-8000-000000000006",
+        "244bb192-3eb6-4fa5-934c-30806c83ee5f"
+      ]
+    },
+    "events": [
+      {
+        "year": 1171,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 82,
+        "label": "Succeeded as Count of Hainaut",
+        "labelCn": "继承埃诺伯爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Hainaut"
+      },
+      {
+        "year": 1191,
+        "type": "title_acquired",
+        "tags": [
+          "title_acquired",
+          "title"
+        ],
+        "weight": 78,
+        "label": "Became Count of Flanders jure uxoris",
+        "labelCn": "以妻权成为佛兰德伯爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Hainaut"
+      }
+    ],
+    "wikiUrl": "",
+    "portraitUrl": "",
+    "sourceUrl": "",
+    "sourceNote": "Gislebert of Mons, Chronicle of Hainaut; British Museum Collections Online entry for Baldwin VIII; Diplomatica Belgica.",
+    "notes": "His marriage to Margaret I reunited the ruling families of Hainaut and Flanders. He was the father of Isabella of Hainaut, queen of Philip II of France, and of Baldwin VI of Hainaut/Baldwin IX of Flanders. As Count of Flanders he ruled jure uxoris from 1191. Margaret died in 1194 and their son Baldwin IX inherited Flanders; some catalogues nevertheless extend Baldwin VIII's Flemish chronology into 1195, so 1191–1194 is used here for the dynastic succession.",
+    "createdDate": "20260823",
+    "createdOrder": 95
+  },
+  {
+    "id": "f1010000-0000-4000-8000-000000000006",
+    "firstName": "Baldwin",
+    "lastName": "of Hainaut",
+    "displayName": "Baldwin VI of Hainaut",
+    "fullName": "Baldwin VI of Hainaut, Baldwin IX of Flanders, Latin Emperor Baldwin I",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [
+      "Baldwin IX of Flanders",
+      "Baldwin I of Constantinople",
+      "Baldwin I, Latin Emperor",
+      "Baudouin IX de Flandre"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "埃诺的鲍德温六世",
+    "fullNameCn": "埃诺伯爵鲍德温六世、佛兰德伯爵鲍德温九世、拉丁皇帝鲍德温一世",
+    "birthYear": 1171,
+    "deathYear": 1205,
+    "birthPlace": "Valenciennes",
+    "birthPlaceCn": "瓦朗谢讷",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "Baldwinid dynasty",
+    "house": "House of Flanders",
+    "culture": "Franco-Flemish / Hainaut",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Hainaut",
+    "primaryTitleCn": "埃诺伯爵",
+    "titles": [
+      {
+        "title": "Count of Flanders",
+        "titleCn": "佛兰德伯爵",
+        "startYear": 1194,
+        "endYear": 1205
+      },
+      {
+        "title": "Count of Hainaut",
+        "titleCn": "埃诺伯爵",
+        "startYear": 1195,
+        "endYear": 1205
+      },
+      {
+        "title": "Latin Emperor of Constantinople",
+        "titleCn": "君士坦丁堡拉丁皇帝",
+        "startYear": 1204,
+        "endYear": 1205
+      }
+    ],
+    "tags": [
+      "count",
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "f1010000-0000-4000-8000-000000000005",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "f1010000-0000-4000-8000-000000000007",
+        "f1010000-0000-4000-8000-000000000008"
+      ]
+    },
+    "events": [
+      {
+        "year": 1195,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 82,
+        "label": "Succeeded as Count of Hainaut",
+        "labelCn": "继承埃诺伯爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Hainaut"
+      },
+      {
+        "year": 1204,
+        "type": "title_acquired",
+        "tags": [
+          "title_acquired",
+          "title"
+        ],
+        "weight": 90,
+        "label": "Became Latin Emperor of Constantinople",
+        "labelCn": "成为君士坦丁堡拉丁皇帝",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Hainaut"
+      }
+    ],
+    "wikiUrl": "",
+    "portraitUrl": "",
+    "sourceUrl": "",
+    "sourceNote": "British Museum Collections Online, Baldwin I of Constantinople; Encyclopaedia Britannica; New Cambridge Medieval History and modern Fourth Crusade scholarship.",
+    "notes": "Baldwin inherited Flanders in 1194 and Hainaut in 1195. After leading the Fourth Crusade he became the first Latin emperor of Constantinople; his daughters Joan and Margaret inherited his western counties. Do not confuse him with the project's existing 11th-century Baldwin VI of Flanders, husband of Richilde, who was Baldwin I of Hainaut. Baldwin VI/IX's birth is variously dated 1171 or 1172. He was captured after the Battle of Adrianople in 1205; the precise date and circumstances of his death are uncertain and some sources place it in 1206.",
+    "createdDate": "20260823",
+    "createdOrder": 96
+  },
+  {
+    "id": "f1010000-0000-4000-8000-000000000007",
+    "firstName": "Joan",
+    "lastName": "of Flanders and Hainaut",
+    "displayName": "Joan of Flanders and Hainaut",
+    "fullName": "Joan of Constantinople, Countess of Flanders and Hainaut",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [
+      "Joan of Constantinople",
+      "Jeanne de Constantinople",
+      "Johanna of Flanders"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "佛兰德与埃诺的让娜",
+    "fullNameCn": "君士坦丁堡的让娜，佛兰德与埃诺女伯爵",
+    "birthYear": 1200,
+    "deathYear": 1244,
+    "birthPlace": "Valenciennes",
+    "birthPlaceCn": "瓦朗谢讷",
+    "deathPlace": "Marquette Abbey, Marquette-lez-Lille",
+    "deathPlaceCn": "里尔附近马凯特修道院",
+    "gender": "female",
+    "dynasty": "Baldwinid dynasty",
+    "house": "House of Flanders",
+    "culture": "Franco-Flemish",
+    "faith": "Catholic",
+    "primaryTitle": "Countess of Hainaut",
+    "primaryTitleCn": "埃诺女伯爵",
+    "titles": [
+      {
+        "title": "Countess of Flanders",
+        "titleCn": "佛兰德女伯爵",
+        "startYear": 1205,
+        "endYear": 1244
+      },
+      {
+        "title": "Countess of Hainaut",
+        "titleCn": "埃诺女伯爵",
+        "startYear": 1205,
+        "endYear": 1244
+      }
+    ],
+    "tags": [
+      "countess",
+      "noble"
+    ],
+    "rank": "countess",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "f1010000-0000-4000-8000-000000000006",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1205,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 82,
+        "label": "Succeeded as Countess of Hainaut",
+        "labelCn": "继承埃诺女伯爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Hainaut"
+      },
+      {
+        "year": 1244,
+        "type": "death",
+        "tags": [
+          "death",
+          "title"
+        ],
+        "weight": 72,
+        "label": "Died without surviving issue",
+        "labelCn": "无存活子嗣而去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Hainaut"
+      }
+    ],
+    "wikiUrl": "",
+    "portraitUrl": "",
+    "sourceUrl": "",
+    "sourceNote": "Columbia University Epistolae, Joan of Constantinople; Erin L. Jordan, 'Female Founders'; New Cambridge Medieval History.",
+    "notes": "Joan inherited Flanders and Hainaut as a child after her father's disappearance and ruled until 1244. She left no surviving heir, so both counties passed to her younger sister Margaret. Her birth is generally given as 1199 or 1200; 1200 is retained to match the requested project chronology.",
+    "createdDate": "20260823",
+    "createdOrder": 97
+  },
+  {
+    "id": "f1010000-0000-4000-8000-000000000008",
+    "firstName": "Margaret",
+    "lastName": "of Flanders",
+    "displayName": "Margaret II of Flanders",
+    "fullName": "Margaret II of Flanders, Countess of Flanders and Hainaut",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [
+      "Margaret of Constantinople",
+      "Marguerite II de Constantinople",
+      "Margaret I of Hainaut"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "佛兰德的玛格丽特二世",
+    "fullNameCn": "佛兰德女伯爵玛格丽特二世、埃诺女伯爵玛格丽特一世",
+    "birthYear": 1202,
+    "deathYear": 1280,
+    "birthPlace": "Valenciennes",
+    "birthPlaceCn": "瓦朗谢讷",
+    "deathPlace": "Ghent",
+    "deathPlaceCn": "根特",
+    "gender": "female",
+    "dynasty": "Baldwinid dynasty",
+    "house": "House of Flanders",
+    "culture": "Franco-Flemish",
+    "faith": "Catholic",
+    "primaryTitle": "Countess of Hainaut",
+    "primaryTitleCn": "埃诺女伯爵",
+    "titles": [
+      {
+        "title": "Countess of Flanders",
+        "titleCn": "佛兰德女伯爵",
+        "startYear": 1244,
+        "endYear": 1278
+      },
+      {
+        "title": "Countess of Hainaut",
+        "titleCn": "埃诺女伯爵",
+        "startYear": 1244,
+        "endYear": 1280
+      }
+    ],
+    "tags": [
+      "countess",
+      "noble"
+    ],
+    "rank": "countess",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "f1010000-0000-4000-8000-000000000006",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1244,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 82,
+        "label": "Succeeded as Countess of Hainaut",
+        "labelCn": "继承埃诺女伯爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Hainaut"
+      },
+      {
+        "year": 1246,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 80,
+        "label": "Hainaut awarded to the Avesnes line",
+        "labelCn": "埃诺判归阿韦讷支系",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Hainaut"
+      }
+    ],
+    "wikiUrl": "",
+    "portraitUrl": "",
+    "sourceUrl": "",
+    "sourceNote": "Larousse, Marguerite II de Constantinople; Columbia University Epistolae; Karen Nicholas on ruling countesses in medieval Flanders.",
+    "notes": "Margaret inherited both counties in 1244. The succession struggle between her Avesnes sons from her first marriage and Dampierre sons from her second ultimately separated the inheritance: Hainaut passed through the Avesnes line, while Flanders passed to the Dampierres. The Avesnes transition was not a simple father-to-son succession in 1244. Louis IX's arbitration in 1246 assigned future rights in Hainaut to the Avesnes line; Margaret nevertheless remained an important holder/ruler of Hainaut until 1280, with periods of contested authority in the 1250s. Sources differ over her precise birthplace and death place, with Valenciennes/Bruges and Ghent/Lille variants.",
+    "createdDate": "20260823",
+    "createdOrder": 98
+  }
+]

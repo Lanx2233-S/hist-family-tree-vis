@@ -1,0 +1,99 @@
+[
+  {
+    "id": "940e5640-6bcc-42d2-b30a-577e361c427e",
+    "firstName": "Bianca",
+    "lastName": "Lancia",
+    "displayName": "Bianca Lancia",
+    "fullName": "Bianca Lancia",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Bianca Lanza",
+      "Blanche Lancia",
+      "Bianca d'Agliano"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "比安卡·兰恰",
+    "fullNameCn": "比安卡·兰恰",
+    "nicknameCn": "",
+    "birthYear": "",
+    "deathYear": "",
+    "birthPlace": "",
+    "birthPlaceCn": "",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "female",
+    "dynasty": "Lancia dynasty",
+    "house": "House of Lancia (attribution uncertain)",
+    "culture": "Italian/Sicilian-Piedmontese",
+    "faith": "Catholic",
+    "primaryTitle": "Companion and possible wife of Frederick II",
+    "primaryTitleCn": "腓特烈二世的伴侣及可能的妻子",
+    "titles": [],
+    "tags": [
+      "noble",
+      "partner"
+    ],
+    "rank": "noble",
+    "importanceScore": 62,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "ea19e505-86fe-4cb7-8e55-c42e9f0ebfd3"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "a1631254-26f2-4306-ad68-0fc11054191b"
+      ]
+    },
+    "events": [
+      {
+        "year": 1230,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "dynasty"
+        ],
+        "weight": 75,
+        "label": "Gave birth around this period to Constance, later wife of John III Doukas Vatatzes",
+        "labelCn": "约在这一时期生下康斯坦丝，后嫁约翰三世·杜卡斯·瓦塔泽斯",
+        "wikiUrl": "https://www.treccani.it/enciclopedia/bianca-lancia_%28Dizionario-Biografico%29/",
+        "note": "The child was Constance of Hohenstaufen, later wife of John III Doukas Vatatzes; the exact birth year is approximate in the sources."
+      },
+      {
+        "year": 1232,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "dynasty"
+        ],
+        "weight": 95,
+        "label": "Gave birth to Manfred, the future King of Sicily",
+        "labelCn": "生下后来成为西西里国王的曼弗雷德",
+        "wikiUrl": "https://www.treccani.it/enciclopedia/bianca-lancia_%28Dizionario-Biografico%29/",
+        "note": "Manfred later became King of Sicily; his legitimacy became politically contentious because pro- and anti-Hohenstaufen sources describe his parents' marital status differently."
+      },
+      {
+        "year": 1233,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "dynasty"
+        ],
+        "weight": 60,
+        "label": "Gave birth around this period to Violante of Hohenstaufen",
+        "labelCn": "约在这一时期生下霍亨斯陶芬的维奥兰特",
+        "wikiUrl": "https://www.treccani.it/enciclopedia/bianca-lancia_%28Dizionario-Biografico%29/",
+        "note": "The child was Violante of Hohenstaufen; the year is approximate and depends on reconstruction of Frederick II's children."
+      }
+    ],
+    "wikiUrl": "https://www.treccani.it/enciclopedia/bianca-lancia_%28Dizionario-Biografico%29/",
+    "portraitUrl": "",
+    "sourceUrl": "https://www.treccani.it/enciclopedia/bianca-lancia_%28Dizionario-Biografico%29/",
+    "sourceNote": "Dizionario Biografico degli Italiani/Treccani, 'Bianca Lancia'; Olaf B. Rader, Friedrich II.; Wolfgang Stürner, Friedrich II.; contemporary narrative traditions including Matthew Paris and Salimbene de Adam, treated critically.",
+    "notes": "Bianca was Frederick II's long-term partner and the mother of Manfred, whose later kingship made her central to the final Hohenstaufen generation in Sicily. A reported late or deathbed marriage was later used to support Manfred's legitimation.\n\nConfidence / caveats: Almost every basic biographical point is contested: Bianca's exact parentage, her birth and death dates, and the date and canonical validity of any marriage to Frederick II. Treccani's analysis indicates that a marriage used to regularize Manfred's status, if historical, must belong late in Frederick's life, but hostile and favorable chronicles disagree sharply. Because no secure formal title can be established, titles is intentionally empty and no death event is fabricated.\n\nUnlinked family (not in roster): child: Constance (Anna) of Hohenstaufen; child: Violante of Hohenstaufen",
+    "createdDate": "20260823",
+    "createdOrder": 121
+  }
+]

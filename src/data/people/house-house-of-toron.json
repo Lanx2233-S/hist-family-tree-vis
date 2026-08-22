@@ -1,0 +1,104 @@
+[
+  {
+    "id": "c9550000-0000-4000-8000-000000000000",
+    "firstName": "Humphrey",
+    "lastName": "of Jerusalem",
+    "displayName": "Humphrey IV of Toron",
+    "fullName": "Humphrey IV of Toron",
+    "displayNameCn": "托龙的翁弗鲁瓦四世",
+    "fullNameCn": "托龙的翁弗鲁瓦四世",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1166,
+    "deathYear": 1192,
+    "birthPlace": "Latin East",
+    "birthPlaceCn": "拉丁东方",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "House of Toron",
+    "house": "House of Toron",
+    "culture": "Frankish",
+    "faith": "Catholic",
+    "primaryTitle": "Lord of Toron",
+    "primaryTitleCn": "托龙领主",
+    "titles": [
+      {
+        "title": "Lord of Toron",
+        "titleCn": "托龙领主",
+        "startYear": "",
+        "endYear": 1192
+      }
+    ],
+    "tags": [
+      "noble",
+      "commander"
+    ],
+    "rank": "lord",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "c9460000-0000-4000-8000-000000000042"
+      ],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1183,
+        "month": 11,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance",
+          "political_crisis"
+        ],
+        "weight": 80,
+        "label": "Married Isabella I at Kerak under siege",
+        "labelCn": "在被围的克拉克堡与伊莎贝拉一世成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Humphrey_IV_of_Toron",
+        "note": "Married Isabella of Jerusalem at Kerak in November 1183 even as Saladin besieged the castle."
+      },
+      {
+        "year": 1187,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "defeat",
+          "imprisonment"
+        ],
+        "weight": 76,
+        "label": "Captured at Hattin",
+        "labelCn": "在哈丁战役中被俘",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Humphrey_IV_of_Toron",
+        "note": "Taken prisoner at Hattin in July 1187 and later ransomed."
+      },
+      {
+        "year": 1190,
+        "type": "annulment",
+        "tags": [
+          "political_crisis",
+          "politics",
+          "marriage"
+        ],
+        "weight": 80,
+        "label": "Marriage to Isabella annulled",
+        "labelCn": "与伊莎贝拉的婚姻被宣告无效",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Humphrey_IV_of_Toron",
+        "note": "The marriage was annulled in 1190 so that Isabella could marry Conrad of Montferrat, removing Humphrey from the succession."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Fulk_V,_Count_of_Anjou",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Fulk_V,_Count_of_Anjou",
+    "sourceNote": "Basic family card for the Kingdom of Jerusalem lineage.",
+    "notes": "Added for the Jerusalem title lineage.",
+    "createdDate": "20260822",
+    "createdOrder": 63
+  }
+]

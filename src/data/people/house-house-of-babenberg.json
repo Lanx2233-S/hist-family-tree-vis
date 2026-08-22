@@ -1,0 +1,285 @@
+[
+  {
+    "id": "c9650000-0000-4000-8000-000000000000",
+    "firstName": "Judith",
+    "lastName": "of Montferrat",
+    "displayName": "Judith of Babenberg",
+    "fullName": "Judith of Babenberg, Marchioness of Montferrat",
+    "displayNameCn": "巴本堡的朱迪思",
+    "fullNameCn": "蒙费拉托侯爵夫人巴本堡的朱迪思",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1120,
+    "deathYear": 1191,
+    "birthPlace": "Latin East",
+    "birthPlaceCn": "拉丁东方",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "female",
+    "dynasty": "House of Babenberg",
+    "house": "House of Babenberg",
+    "culture": "Frankish",
+    "faith": "Catholic",
+    "primaryTitle": "Marchioness of Montferrat",
+    "primaryTitleCn": "蒙费拉托侯爵夫人",
+    "titles": [
+      {
+        "title": "Marchioness of Montferrat",
+        "titleCn": "蒙费拉托侯爵夫人",
+        "startYear": "",
+        "endYear": 1191
+      }
+    ],
+    "tags": [
+      "noble",
+      "consort"
+    ],
+    "rank": "marchioness",
+    "importanceScore": 45,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "c9640000-0000-4000-8000-000000000000"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "c9500000-0000-4000-8000-000000000000",
+        "c9560000-0000-4000-8000-000000000000",
+        "c9660000-0000-4000-8000-000000000000",
+        "c9670000-0000-4000-8000-000000000000",
+        "c9680000-0000-4000-8000-000000000000",
+        "c9690000-0000-4000-8000-000000000000",
+        "c9700000-0000-4000-8000-000000000000",
+        "c9710000-0000-4000-8000-000000000000"
+      ]
+    },
+    "events": [
+      {
+        "year": 1133,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance",
+          "uncertain"
+        ],
+        "weight": 70,
+        "label": "Married William V of Montferrat",
+        "labelCn": "与蒙费拉托的威廉五世成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Judith_of_Babenberg",
+        "note": "Daughter of Leopold III of Austria; married William V of Montferrat around 1133."
+      },
+      {
+        "year": 1140,
+        "type": "dynasty",
+        "tags": [
+          "dynasty",
+          "noble"
+        ],
+        "weight": 64,
+        "label": "Mother of the crusading Montferrat sons",
+        "labelCn": "十字军蒙费拉托诸子的母亲",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Judith_of_Babenberg",
+        "note": "Mother of William Longsword, Conrad (king of Jerusalem), Boniface (king of Thessalonica) and Renier; the exact date of her death is uncertain (after 1168)."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Fulk_V,_Count_of_Anjou",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Fulk_V,_Count_of_Anjou",
+    "sourceNote": "Basic family card for the Montferrat and Jerusalem lineage.",
+    "notes": "Added while completing the Montferrat family.",
+    "createdDate": "20260822",
+    "createdOrder": 73
+  },
+  {
+    "id": "48291b0f-e918-4cfd-be21-18b9a0a5288f",
+    "firstName": "Margaret",
+    "lastName": "of Austria",
+    "displayName": "Margaret of Austria",
+    "fullName": "Margaret of Austria",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Margaret of Babenberg",
+      "Margarete von Österreich",
+      "Margaret of Germany"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "奥地利的玛格丽特",
+    "fullNameCn": "奥地利的玛格丽特",
+    "nicknameCn": "",
+    "birthYear": 1205,
+    "deathYear": 1266,
+    "birthPlace": "Duchy of Austria",
+    "birthPlaceCn": "奥地利公国",
+    "deathPlace": "Krumau am Kamp, Duchy of Austria",
+    "deathPlaceCn": "奥地利公国坎普河畔克鲁毛",
+    "gender": "female",
+    "dynasty": "House of Babenberg",
+    "house": "House of Babenberg",
+    "culture": "Austrian-German",
+    "faith": "Catholic",
+    "primaryTitle": "Queen of Germany and Queen of Bohemia",
+    "primaryTitleCn": "德意志王后兼波希米亚王后",
+    "titles": [
+      {
+        "title": "Queen consort of Germany",
+        "titleCn": "德意志王后",
+        "startYear": 1225,
+        "endYear": 1235
+      },
+      {
+        "title": "Queen consort of Bohemia",
+        "titleCn": "波希米亚王后",
+        "startYear": 1253,
+        "endYear": 1261
+      },
+      {
+        "title": "Duchess of Austria and Styria",
+        "titleCn": "奥地利与施蒂里亚女公爵",
+        "startYear": 1252,
+        "endYear": 1261
+      }
+    ],
+    "tags": [
+      "queen",
+      "consort",
+      "noble"
+    ],
+    "rank": "queen",
+    "importanceScore": 81,
+    "historicalRating": 8,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "94df728a-05ee-4aef-a962-fb35d1ab0735"
+      ],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1225,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 85,
+        "label": "Married Henry (VII) of Germany",
+        "labelCn": "与德意志的亨利（七世）结婚",
+        "wikiUrl": "https://www.deutsche-biographie.de/sfz58183.html",
+        "month": 11,
+        "day": 29,
+        "note": "The marriage joined Margaret of the Babenberg dynasty to Henry (VII) of the Hohenstaufen."
+      },
+      {
+        "year": 1227,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "queen"
+        ],
+        "weight": 80,
+        "label": "Was crowned Queen of Germany",
+        "labelCn": "加冕为德意志王后",
+        "wikiUrl": "https://www.deutsche-biographie.de/sfz58183.html",
+        "month": 3,
+        "day": 28,
+        "note": "Margaret received the German royal coronation at Aachen as the wife of Henry (VII)."
+      },
+      {
+        "year": 1235,
+        "type": "politics",
+        "tags": [
+          "politics",
+          "title"
+        ],
+        "weight": 80,
+        "label": "Lost her position as reigning queen when Henry (VII) was deposed",
+        "labelCn": "亨利（七世）被废黜后失去在位王后身份",
+        "wikiUrl": "https://www.deutsche-biographie.de/sfz58183.html",
+        "note": "Margaret was not implicated as a co-ruler in Henry's rebellion, but his deposition by Frederick II ended her first queenship."
+      },
+      {
+        "year": 1246,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 100,
+        "label": "Became a leading Babenberg claimant after Duke Frederick II died without heirs",
+        "labelCn": "无嗣的腓特烈二世公爵去世后成为巴本堡遗产的主要宣称者",
+        "wikiUrl": "https://www.deutsche-biographie.de/sfz58183.html",
+        "note": "After Duke Frederick II of Austria died without heirs, the Privilegium Minus allowed female succession and placed Margaret's Babenberg claim in competition with that of her niece Gertrude."
+      },
+      {
+        "year": 1252,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 100,
+        "label": "Married Přemyslid prince Ottokar and transferred decisive Babenberg legitimacy to him",
+        "labelCn": "与普热米斯尔王子奥托卡结婚，将关键的巴本堡继承合法性带给他",
+        "wikiUrl": "https://www.deutsche-biographie.de/sfz58183.html",
+        "month": 2,
+        "day": 11,
+        "note": "Margaret's marriage to the Přemyslid prince Ottokar gave him a powerful Babenberg dynastic basis for claiming Austria and Styria."
+      },
+      {
+        "year": 1253,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 85,
+        "label": "Became Queen of Bohemia when Ottokar succeeded",
+        "labelCn": "奥托卡继位后成为波希米亚王后",
+        "wikiUrl": "https://www.deutsche-biographie.de/sfz58183.html",
+        "note": "When Ottokar II succeeded to the Bohemian crown, Margaret became Queen of Bohemia; their marriage also underpinned his possession of Austria and Styria."
+      },
+      {
+        "year": 1261,
+        "type": "politics",
+        "tags": [
+          "title",
+          "politics"
+        ],
+        "weight": 90,
+        "label": "Separated from Ottokar II as their marriage was annulled",
+        "labelCn": "与奥托卡二世分离，婚姻被解除",
+        "wikiUrl": "https://www.deutsche-biographie.de/sfz58183.html",
+        "note": "The childless marriage to Ottokar II ended; papal handling of the annulment continued into 1262. Margaret retired from Ottokar's court while maintaining her Babenberg identity."
+      },
+      {
+        "year": 1266,
+        "type": "death",
+        "tags": [
+          "death",
+          "queen"
+        ],
+        "weight": 65,
+        "label": "Died at Krumau am Kamp",
+        "labelCn": "在坎普河畔克鲁毛去世",
+        "wikiUrl": "https://www.deutsche-biographie.de/sfz58183.html",
+        "month": 10,
+        "day": 29,
+        "note": "Margaret died at Krumau am Kamp in the Duchy of Austria."
+      }
+    ],
+    "wikiUrl": "https://www.deutsche-biographie.de/sfz58183.html",
+    "portraitUrl": "",
+    "sourceUrl": "https://www.deutsche-biographie.de/sfz58183.html",
+    "sourceNote": "Neue Deutsche Biographie/Deutsche Biographie, 'Margarete von Österreich'; Austrian Babenberg scholarship including Karl Lechner; studies of the Babenberg succession and Ottokar II; Bohemian and Austrian regesta.",
+    "notes": "Margaret was a Babenberg by birth throughout her life; marriage did not make her a Přemyslid dynast. Her second marriage supplied Ottokar II with a powerful legal-dynastic basis for occupying Austria and Styria after the male Babenberg line ended.\n\nConfidence / caveats: Her birth is generally placed c.1204/05, but some older reconstructions shift it later; 1205 is approximate. Her death year is sometimes given as 1267 in older reference traditions, while modern German/Austrian biography favors 29 October 1266. Her Austrian title combined personal Babenberg inheritance claims with her husband's political possession, so de jure female succession and de facto government should not be conflated.\n\nUnlinked family (not in roster): father: Leopold VI, Duke of Austria; mother: Theodora Angelina; spouse: Ottokar II of Bohemia; child: Henry of Hohenstaufen; child: Frederick of Hohenstaufen",
+    "createdDate": "20260823",
+    "createdOrder": 123
+  }
+]

@@ -1,0 +1,1238 @@
+[
+  {
+    "id": "8c48b7d7-e2bb-42f8-8c68-ce449b147eb0",
+    "firstName": "Matilda",
+    "lastName": "Scotland",
+    "displayName": "Matilda of Scotland",
+    "fullName": "Matilda of Scotland, Queen of England",
+    "displayNameCn": "苏格兰的玛蒂尔达",
+    "fullNameCn": "苏格兰的玛蒂尔达，英格兰王后",
+    "nickname": "Good Queen Maud",
+    "nicknameCn": "贤后莫德",
+    "nicknameTags": [
+      "epithet"
+    ],
+    "alsoKnownAs": [
+      "Edith of Scotland",
+      "Maud of Scotland"
+    ],
+    "gender": "female",
+    "birthYear": 1080,
+    "deathYear": 1118,
+    "birthPlace": "Dunfermline, Scotland",
+    "deathPlace": "Westminster Palace, London, England",
+    "birthPlaceCn": "苏格兰邓弗姆林",
+    "deathPlaceCn": "英格兰伦敦威斯敏斯特宫",
+    "dynasty": "House of Dunkeld",
+    "house": "House of Dunkeld",
+    "culture": "Scottish",
+    "faith": "Catholic",
+    "rank": "queen",
+    "primaryTitle": "Queen of England",
+    "primaryTitleCn": "英格兰王后",
+    "titles": [
+      {
+        "title": "Queen of England",
+        "startYear": 1100,
+        "endYear": 1118,
+        "titleCn": "英格兰王后"
+      }
+    ],
+    "tags": [
+      "queen",
+      "consort",
+      "noble"
+    ],
+    "importanceScore": 86,
+    "historicalRating": 8,
+    "wikiUrl": "https://en.wikipedia.org/wiki/Matilda_of_Scotland",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Matilda_of_Scotland",
+    "sourceNote": "",
+    "notes": "Mother of Empress Matilda; christened Edith and took the regnal name Matilda at her coronation. Known as 'Good Queen Maud'. Acted as regent of England during Henry I's absences in 1104, 1107, 1108 and 1111. An attempted sainthood was never completed.",
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died of natural causes",
+      "detail": "Matilda died at Westminster Palace on 1 May 1118, aged about 37-38. No violent cause is recorded; the precise illness is not documented.",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Matilda_of_Scotland",
+      "summaryCn": "自然死亡",
+      "detailCn": "玛蒂尔达于1118年5月1日在威斯敏斯特宫去世，享年约37至38岁。史料未记载暴力死因，具体疾病不详。"
+    },
+    "relationships": {
+      "fatherId": "",
+      "motherId": "73169d74-c7ee-4e7d-9711-74b9272ab00c",
+      "spouseIds": [
+        "90840bac-1589-4ba4-abfe-9189e6046b36"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "f194f118-96af-4ad4-af2b-f8449720cff1",
+        "df86835f-41c3-48f2-806b-2f9160eaff6e"
+      ]
+    },
+    "events": [
+      {
+        "year": 1080,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "uncertain"
+        ],
+        "weight": 60,
+        "label": "Birth of Edith (later Matilda) at Dunfermline",
+        "labelCn": "埃迪丝（后来的玛蒂尔达）在邓弗姆林出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Matilda_of_Scotland",
+        "note": "Born c. 1080 in Dunfermline, Scotland; christened Edith (Eadgyth). Exact date unknown."
+      },
+      {
+        "year": 1100,
+        "month": 11,
+        "day": 11,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 95,
+        "label": "Marriage to Henry I at Westminster Abbey",
+        "labelCn": "在威斯敏斯特教堂与亨利一世成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Matilda_of_Scotland",
+        "note": "Married 11 November 1100, officiated by Archbishop Anselm; Edith took the regnal name Matilda."
+      },
+      {
+        "year": 1100,
+        "month": 11,
+        "day": 11,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "queen"
+        ],
+        "weight": 88,
+        "label": "Crowned Queen of England",
+        "labelCn": "加冕为英格兰王后",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Matilda_of_Scotland",
+        "note": "Crowned on her wedding day, 11 November 1100."
+      },
+      {
+        "year": 1102,
+        "month": 2,
+        "day": 7,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "dynasty"
+        ],
+        "weight": 85,
+        "label": "Birth of Empress Matilda",
+        "labelCn": "女皇玛蒂尔达出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Empress_Matilda",
+        "note": "Daughter Matilda (later Holy Roman Empress and claimant to England) born 7 February 1102."
+      },
+      {
+        "year": 1103,
+        "month": 8,
+        "day": 5,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "dynasty"
+        ],
+        "weight": 78,
+        "label": "Birth of William Adelin",
+        "labelCn": "威廉·阿德林出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/William_Adelin",
+        "note": "Son and heir William born 5 August 1103; he drowned in the White Ship disaster of 1120."
+      },
+      {
+        "year": 1104,
+        "type": "government",
+        "tags": [
+          "government",
+          "regency"
+        ],
+        "weight": 74,
+        "label": "Regent of England during Henry I's absences",
+        "labelCn": "在亨利一世外出期间摄政英格兰",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Matilda_of_Scotland",
+        "note": "Acted as regent of England in 1104, 1107, 1108 and 1111 while Henry campaigned in Normandy and France; head of Henry's court during his absence."
+      },
+      {
+        "year": 1118,
+        "month": 5,
+        "day": 1,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 72,
+        "label": "Death of Matilda of Scotland",
+        "labelCn": "苏格兰的玛蒂尔达去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Matilda_of_Scotland",
+        "note": "Died at Westminster Palace; buried in Westminster Abbey near Edward the Confessor."
+      }
+    ],
+    "createdDate": "20260816",
+    "createdOrder": 12
+  },
+  {
+    "id": "b4b4f793-05ad-4880-8e78-8df9e6d9e783",
+    "firstName": "Duncan",
+    "lastName": "",
+    "displayName": "Duncan I",
+    "fullName": "Duncan I of Scotland",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Donnchad mac Crínáin"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "邓肯一世",
+    "fullNameCn": "邓肯一世",
+    "birthYear": 1001,
+    "deathYear": 1040,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "male",
+    "dynasty": "House of Dunkeld",
+    "house": "House of Dunkeld",
+    "culture": "Scottish",
+    "faith": "Catholic",
+    "primaryTitle": "King of Scots",
+    "primaryTitleCn": "苏格兰人之王",
+    "titles": [
+      {
+        "title": "King of Scots",
+        "startYear": 1034,
+        "endYear": 1040,
+        "titleCn": "苏格兰人之王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 60,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "80870fc2-6623-46a3-b8f9-30e9d755b4d6",
+        "c4c3c469-927d-47b2-b135-9519593c8f03"
+      ]
+    },
+    "events": [
+      {
+        "year": 1001,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Duncan_I_of_Scotland"
+      },
+      {
+        "year": 1034,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Began rule as King of Scots",
+        "labelCn": "开始担任苏格兰人之王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Duncan_I_of_Scotland"
+      },
+      {
+        "year": 1040,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Duncan_I_of_Scotland"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Duncan_I_of_Scotland",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Duncan_I_of_Scotland",
+    "sourceNote": "Core timeline generated from recorded lifespan and titles on 2026-08-20.",
+    "notes": "",
+    "createdDate": "20260819",
+    "createdOrder": 18
+  },
+  {
+    "id": "80870fc2-6623-46a3-b8f9-30e9d755b4d6",
+    "firstName": "Malcolm",
+    "lastName": "",
+    "displayName": "Malcolm III",
+    "fullName": "Malcolm III of Scotland",
+    "nickname": "Canmore",
+    "alsoKnownAs": [
+      "Máel Coluim mac Donnchada",
+      "Malcolm Canmore"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "马尔科姆三世",
+    "fullNameCn": "马尔科姆三世",
+    "nicknameCn": "坎莫尔",
+    "birthYear": 1031,
+    "deathYear": 1093,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "male",
+    "dynasty": "House of Dunkeld",
+    "house": "House of Dunkeld",
+    "culture": "Scottish",
+    "faith": "Catholic",
+    "primaryTitle": "King of Scots",
+    "primaryTitleCn": "苏格兰人之王",
+    "titles": [
+      {
+        "title": "King of Scots",
+        "startYear": 1058,
+        "endYear": 1093,
+        "titleCn": "苏格兰人之王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 70,
+    "historicalRating": 7,
+    "relationships": {
+      "fatherId": "b4b4f793-05ad-4880-8e78-8df9e6d9e783",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "20a0a9c9-6463-4ca4-8329-1b05ca4bb117",
+        "fa144969-5d6f-4385-9efc-d8080c4a14e9",
+        "b27e90d0-868c-48d6-9411-b551fe9f3cc4",
+        "07fcdfc1-05c4-4285-b024-e1583c6c59e2"
+      ]
+    },
+    "events": [
+      {
+        "year": 1031,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Malcolm_III_of_Scotland"
+      },
+      {
+        "year": 1058,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Began rule as King of Scots",
+        "labelCn": "开始担任苏格兰人之王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Malcolm_III_of_Scotland"
+      },
+      {
+        "year": 1093,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Malcolm_III_of_Scotland"
+      },
+      {
+        "year": 1057,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "main_commander"
+        ],
+        "weight": 90,
+        "label": "Killed Macbeth at Lumphanan",
+        "labelCn": "在兰帕南击杀麦克白",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Lumphanan",
+        "note": "Macbeth fell in battle against Malcolm, who secured the throne after also defeating Lulach."
+      },
+      {
+        "year": 1070,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 80,
+        "label": "Married Margaret of Wessex",
+        "labelCn": "迎娶韦塞克斯的玛格丽特",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Malcolm_III_of_Scotland",
+        "note": "The Anglo-Saxon princess Margaret became St Margaret and brought church reform to Scotland."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Malcolm_III_of_Scotland",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Malcolm_III_of_Scotland",
+    "sourceNote": "Core timeline generated from recorded lifespan and titles on 2026-08-20.",
+    "notes": "Called 'Canmore' (great chief); his marriage to Margaret of Wessex brought Anglo-Saxon influence and church reform into Scotland. He died campaigning against William II at Alnwick in 1093.",
+    "createdDate": "20260819",
+    "createdOrder": 21
+  },
+  {
+    "id": "c4c3c469-927d-47b2-b135-9519593c8f03",
+    "firstName": "Donald",
+    "lastName": "",
+    "displayName": "Donald III",
+    "fullName": "Donald III of Scotland",
+    "nickname": "Bane",
+    "alsoKnownAs": [
+      "Domnall mac Donnchada",
+      "Donald Bane"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "唐纳德三世",
+    "fullNameCn": "唐纳德三世",
+    "nicknameCn": "班恩",
+    "birthYear": 1033,
+    "deathYear": 1099,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "male",
+    "dynasty": "House of Dunkeld",
+    "house": "House of Dunkeld",
+    "culture": "Scottish",
+    "faith": "Catholic",
+    "primaryTitle": "King of Scots",
+    "primaryTitleCn": "苏格兰人之王",
+    "titles": [
+      {
+        "title": "King of Scots",
+        "startYear": 1093,
+        "endYear": 1097,
+        "titleCn": "苏格兰人之王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "b4b4f793-05ad-4880-8e78-8df9e6d9e783",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1033,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Donald_III_of_Scotland"
+      },
+      {
+        "year": 1093,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Began rule as King of Scots",
+        "labelCn": "开始担任苏格兰人之王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Donald_III_of_Scotland"
+      },
+      {
+        "year": 1099,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Donald_III_of_Scotland"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Donald_III_of_Scotland",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Donald_III_of_Scotland",
+    "sourceNote": "Core timeline generated from recorded lifespan and titles on 2026-08-20.",
+    "notes": "",
+    "createdDate": "20260819",
+    "createdOrder": 22
+  },
+  {
+    "id": "20a0a9c9-6463-4ca4-8329-1b05ca4bb117",
+    "firstName": "Duncan",
+    "lastName": "",
+    "displayName": "Duncan II",
+    "fullName": "Duncan II of Scotland",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Donnchad mac Máel Coluim"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "邓肯二世",
+    "fullNameCn": "邓肯二世",
+    "birthYear": 1060,
+    "deathYear": 1094,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "male",
+    "dynasty": "House of Dunkeld",
+    "house": "House of Dunkeld",
+    "culture": "Scottish",
+    "faith": "Catholic",
+    "primaryTitle": "King of Scots",
+    "primaryTitleCn": "苏格兰人之王",
+    "titles": [
+      {
+        "title": "King of Scots",
+        "startYear": 1094,
+        "endYear": 1094,
+        "titleCn": "苏格兰人之王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "80870fc2-6623-46a3-b8f9-30e9d755b4d6",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1060,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Duncan_II_of_Scotland"
+      },
+      {
+        "year": 1094,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Began rule as King of Scots",
+        "labelCn": "开始担任苏格兰人之王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Duncan_II_of_Scotland"
+      },
+      {
+        "year": 1094,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Duncan_II_of_Scotland"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Duncan_II_of_Scotland",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Duncan_II_of_Scotland",
+    "sourceNote": "Core timeline generated from recorded lifespan and titles on 2026-08-20.",
+    "notes": "",
+    "createdDate": "20260819",
+    "createdOrder": 23
+  },
+  {
+    "id": "fa144969-5d6f-4385-9efc-d8080c4a14e9",
+    "firstName": "Edgar",
+    "lastName": "",
+    "displayName": "Edgar",
+    "fullName": "Edgar, King of Scotland",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Edgar of Scotland"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "埃德加",
+    "fullNameCn": "埃德加",
+    "birthYear": 1074,
+    "deathYear": 1107,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "male",
+    "dynasty": "House of Dunkeld",
+    "house": "House of Dunkeld",
+    "culture": "Scottish",
+    "faith": "Catholic",
+    "primaryTitle": "King of Scots",
+    "primaryTitleCn": "苏格兰人之王",
+    "titles": [
+      {
+        "title": "King of Scots",
+        "startYear": 1097,
+        "endYear": 1107,
+        "titleCn": "苏格兰人之王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "80870fc2-6623-46a3-b8f9-30e9d755b4d6",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1074,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Edgar,_King_of_Scotland"
+      },
+      {
+        "year": 1097,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Began rule as King of Scots",
+        "labelCn": "开始担任苏格兰人之王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Edgar,_King_of_Scotland"
+      },
+      {
+        "year": 1107,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Edgar,_King_of_Scotland"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Edgar,_King_of_Scotland",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Edgar,_King_of_Scotland",
+    "sourceNote": "Core timeline generated from recorded lifespan and titles on 2026-08-20.",
+    "notes": "",
+    "createdDate": "20260819",
+    "createdOrder": 24
+  },
+  {
+    "id": "b27e90d0-868c-48d6-9411-b551fe9f3cc4",
+    "firstName": "Alexander",
+    "lastName": "",
+    "displayName": "Alexander I",
+    "fullName": "Alexander I of Scotland",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Alexander I of Scotland"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "亚历山大一世",
+    "fullNameCn": "亚历山大一世",
+    "birthYear": 1078,
+    "deathYear": 1124,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "male",
+    "dynasty": "House of Dunkeld",
+    "house": "House of Dunkeld",
+    "culture": "Scottish",
+    "faith": "Catholic",
+    "primaryTitle": "King of Scots",
+    "primaryTitleCn": "苏格兰人之王",
+    "titles": [
+      {
+        "title": "King of Scots",
+        "startYear": 1107,
+        "endYear": 1124,
+        "titleCn": "苏格兰人之王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "80870fc2-6623-46a3-b8f9-30e9d755b4d6",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1078,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Alexander_I_of_Scotland"
+      },
+      {
+        "year": 1107,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Began rule as King of Scots",
+        "labelCn": "开始担任苏格兰人之王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Alexander_I_of_Scotland"
+      },
+      {
+        "year": 1124,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Alexander_I_of_Scotland"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Alexander_I_of_Scotland",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Alexander_I_of_Scotland",
+    "sourceNote": "Core timeline generated from recorded lifespan and titles on 2026-08-20.",
+    "notes": "",
+    "createdDate": "20260819",
+    "createdOrder": 25
+  },
+  {
+    "id": "07fcdfc1-05c4-4285-b024-e1583c6c59e2",
+    "firstName": "David",
+    "lastName": "",
+    "displayName": "David I",
+    "fullName": "David I of Scotland",
+    "nickname": "",
+    "alsoKnownAs": [
+      "David I of Scotland"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "大卫一世",
+    "fullNameCn": "大卫一世",
+    "birthYear": 1084,
+    "deathYear": 1153,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "male",
+    "dynasty": "House of Dunkeld",
+    "house": "House of Dunkeld",
+    "culture": "Scottish",
+    "faith": "Catholic",
+    "primaryTitle": "King of Scots",
+    "primaryTitleCn": "苏格兰人之王",
+    "titles": [
+      {
+        "title": "King of Scots",
+        "startYear": 1124,
+        "endYear": 1153,
+        "titleCn": "苏格兰人之王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 70,
+    "historicalRating": 7,
+    "relationships": {
+      "fatherId": "80870fc2-6623-46a3-b8f9-30e9d755b4d6",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1084,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/David_I_of_Scotland"
+      },
+      {
+        "year": 1124,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Began rule as King of Scots",
+        "labelCn": "开始担任苏格兰人之王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/David_I_of_Scotland"
+      },
+      {
+        "year": 1153,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/David_I_of_Scotland"
+      },
+      {
+        "year": 1128,
+        "type": "religion",
+        "tags": [
+          "religion"
+        ],
+        "weight": 70,
+        "label": "Founded Holyrood Abbey",
+        "labelCn": "创立圣鲁德修道院",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Holyrood_Abbey"
+      },
+      {
+        "year": 1138,
+        "month": 8,
+        "day": 22,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "defeat"
+        ],
+        "weight": 88,
+        "label": "Defeated at the Battle of the Standard",
+        "labelCn": "在军旗之战中败北",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_the_Standard",
+        "note": "His invasion of northern England in support of Empress Matilda was repulsed."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/David_I_of_Scotland",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/David_I_of_Scotland",
+    "sourceNote": "Core timeline generated from recorded lifespan and titles on 2026-08-20.",
+    "notes": "His reign is remembered for the 'Davidian Revolution', which introduced Norman feudalism, burghs and reformed monasteries into Scotland. Later venerated as a saint in popular tradition.",
+    "createdDate": "20260819",
+    "createdOrder": 26
+  },
+  {
+    "id": "5111b9f9-6656-4dec-984c-405a1ea4a278",
+    "firstName": "Malcolm",
+    "lastName": "",
+    "displayName": "Malcolm IV",
+    "fullName": "Malcolm IV of Scotland",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Malcolm IV of Scotland"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "马尔科姆四世",
+    "fullNameCn": "马尔科姆四世",
+    "birthYear": 1141,
+    "deathYear": 1165,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "male",
+    "dynasty": "House of Dunkeld",
+    "house": "House of Dunkeld",
+    "culture": "Scottish",
+    "faith": "Catholic",
+    "primaryTitle": "King of Scots",
+    "primaryTitleCn": "苏格兰人之王",
+    "titles": [
+      {
+        "title": "King of Scots",
+        "startYear": 1153,
+        "endYear": 1165,
+        "titleCn": "苏格兰人之王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1141,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Malcolm_IV_of_Scotland"
+      },
+      {
+        "year": 1153,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Began rule as King of Scots",
+        "labelCn": "开始担任苏格兰人之王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Malcolm_IV_of_Scotland"
+      },
+      {
+        "year": 1165,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Malcolm_IV_of_Scotland"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Malcolm_IV_of_Scotland",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Malcolm_IV_of_Scotland",
+    "sourceNote": "Core timeline generated from recorded lifespan and titles on 2026-08-20.",
+    "notes": "",
+    "createdDate": "20260819",
+    "createdOrder": 27
+  },
+  {
+    "id": "9cac54ff-21b3-4385-8faf-ce6e0f93122d",
+    "firstName": "William",
+    "lastName": "",
+    "displayName": "William I",
+    "fullName": "William the Lion",
+    "nickname": "the Lion",
+    "alsoKnownAs": [
+      "William the Lion",
+      "Uilliam mac Eanric"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "威廉一世",
+    "fullNameCn": "狮子威廉",
+    "nicknameCn": "狮子",
+    "birthYear": 1142,
+    "deathYear": 1214,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "male",
+    "dynasty": "House of Dunkeld",
+    "house": "House of Dunkeld",
+    "culture": "Scottish",
+    "faith": "Catholic",
+    "primaryTitle": "King of Scots",
+    "primaryTitleCn": "苏格兰人之王",
+    "titles": [
+      {
+        "title": "King of Scots",
+        "startYear": 1165,
+        "endYear": 1214,
+        "titleCn": "苏格兰人之王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 60,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "02bdc923-e724-4009-9087-4578d2bf3f18"
+      ]
+    },
+    "events": [
+      {
+        "year": 1142,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/William_the_Lion"
+      },
+      {
+        "year": 1165,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Began rule as King of Scots",
+        "labelCn": "开始担任苏格兰人之王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/William_the_Lion"
+      },
+      {
+        "year": 1214,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/William_the_Lion"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/William_the_Lion",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/William_the_Lion",
+    "sourceNote": "Core timeline generated from recorded lifespan and titles on 2026-08-20.",
+    "notes": "",
+    "createdDate": "20260819",
+    "createdOrder": 28
+  },
+  {
+    "id": "02bdc923-e724-4009-9087-4578d2bf3f18",
+    "firstName": "Alexander",
+    "lastName": "",
+    "displayName": "Alexander II",
+    "fullName": "Alexander II of Scotland",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Alexander II of Scotland"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "亚历山大二世",
+    "fullNameCn": "亚历山大二世",
+    "birthYear": 1198,
+    "deathYear": 1249,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "male",
+    "dynasty": "House of Dunkeld",
+    "house": "House of Dunkeld",
+    "culture": "Scottish",
+    "faith": "Catholic",
+    "primaryTitle": "King of Scots",
+    "primaryTitleCn": "苏格兰人之王",
+    "titles": [
+      {
+        "title": "King of Scots",
+        "startYear": 1214,
+        "endYear": 1249,
+        "titleCn": "苏格兰人之王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 60,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "9cac54ff-21b3-4385-8faf-ce6e0f93122d",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "13b7ded6-7649-4661-8044-e5c1ee518dbf"
+      ]
+    },
+    "events": [
+      {
+        "year": 1198,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Alexander_II_of_Scotland"
+      },
+      {
+        "year": 1214,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Began rule as King of Scots",
+        "labelCn": "开始担任苏格兰人之王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Alexander_II_of_Scotland"
+      },
+      {
+        "year": 1249,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Alexander_II_of_Scotland"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Alexander_II_of_Scotland",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Alexander_II_of_Scotland",
+    "sourceNote": "Core timeline generated from recorded lifespan and titles on 2026-08-20.",
+    "notes": "",
+    "createdDate": "20260819",
+    "createdOrder": 29
+  },
+  {
+    "id": "13b7ded6-7649-4661-8044-e5c1ee518dbf",
+    "firstName": "Alexander",
+    "lastName": "",
+    "displayName": "Alexander III",
+    "fullName": "Alexander III of Scotland",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Alexander III of Scotland"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "亚历山大三世",
+    "fullNameCn": "亚历山大三世",
+    "birthYear": 1241,
+    "deathYear": 1286,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "male",
+    "dynasty": "House of Dunkeld",
+    "house": "House of Dunkeld",
+    "culture": "Scottish",
+    "faith": "Catholic",
+    "primaryTitle": "King of Scots",
+    "primaryTitleCn": "苏格兰人之王",
+    "titles": [
+      {
+        "title": "King of Scots",
+        "startYear": 1249,
+        "endYear": 1286,
+        "titleCn": "苏格兰人之王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 60,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "02bdc923-e724-4009-9087-4578d2bf3f18",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1241,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Alexander_III_of_Scotland"
+      },
+      {
+        "year": 1249,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Began rule as King of Scots",
+        "labelCn": "开始担任苏格兰人之王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Alexander_III_of_Scotland"
+      },
+      {
+        "year": 1286,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Alexander_III_of_Scotland"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Alexander_III_of_Scotland",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Alexander_III_of_Scotland",
+    "sourceNote": "Core timeline generated from recorded lifespan and titles on 2026-08-20.",
+    "notes": "",
+    "createdDate": "20260819",
+    "createdOrder": 30
+  }
+]

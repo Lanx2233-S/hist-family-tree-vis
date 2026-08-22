@@ -1,0 +1,547 @@
+[
+  {
+    "id": "c1015000-0000-4000-8000-000000000000",
+    "firstName": "Antony",
+    "lastName": "of Burgundy",
+    "displayName": "Antony of Burgundy",
+    "fullName": "Antony of Burgundy, Duke of Brabant",
+    "displayNameCn": "勃艮第的安托万",
+    "fullNameCn": "布拉班特公爵勃艮第的安托万",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1384,
+    "deathYear": 1415,
+    "birthPlace": "Dijon",
+    "birthPlaceCn": "第戎",
+    "deathPlace": "Agincourt",
+    "deathPlaceCn": "阿金库尔",
+    "gender": "male",
+    "dynasty": "Capetian dynasty",
+    "house": "House of Valois-Burgundy",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Duke of Brabant",
+    "primaryTitleCn": "布拉班特公爵",
+    "titles": [
+      {
+        "title": "Duke of Brabant",
+        "titleCn": "布拉班特公爵",
+        "startYear": 1406,
+        "endYear": 1415
+      }
+    ],
+    "tags": [
+      "noble",
+      "duke"
+    ],
+    "rank": "duke",
+    "importanceScore": 58,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "c1016000-0000-4000-8000-000000000000",
+        "c1017000-0000-4000-8000-000000000000"
+      ]
+    },
+    "events": [
+      {
+        "year": 1406,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "succession",
+          "noble"
+        ],
+        "weight": 80,
+        "label": "Duke of Brabant",
+        "labelCn": "继位为布拉班特公爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Antoine,_Duke_of_Brabant",
+        "note": "Inherited Brabant, Lothier and Limburg on the death of his great-aunt Joanna."
+      },
+      {
+        "year": 1409,
+        "month": 7,
+        "day": 16,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 74,
+        "label": "Marriage to Elisabeth of Görlitz",
+        "labelCn": "与格尔利茨的伊丽莎白成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Antoine,_Duke_of_Brabant",
+        "note": "Married at Brussels; he became co-duke of Luxembourg with her from 1411."
+      },
+      {
+        "year": 1415,
+        "month": 10,
+        "day": 25,
+        "type": "death",
+        "tags": [
+          "death",
+          "battle"
+        ],
+        "weight": 95,
+        "label": "Killed at the Battle of Agincourt",
+        "labelCn": "阵亡于阿金库尔战役",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Antoine,_Duke_of_Brabant",
+        "note": "Arrived late in borrowed armour, was taken prisoner, and was executed with other captives on Henry V's order."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Antoine,_Duke_of_Brabant",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Antoine,_Duke_of_Brabant",
+    "sourceNote": "Basic card for the Burgundian succession in Brabant.",
+    "notes": "Inherited Brabant from his aunt Joanna; killed at Agincourt.",
+    "createdDate": "20260823",
+    "createdOrder": 46,
+    "deathCause": {
+      "kind": "violent",
+      "summary": "Killed at the Battle of Agincourt",
+      "summaryCn": "在阿金库尔战役中被杀",
+      "detail": "Antony arrived late to the battle in borrowed, improvised armour; he was taken prisoner and then executed with other captives on the order of Henry V, who was unaware of his rank.",
+      "detailCn": "安托万迟至战场、身披借来的简易甲胄；被俘后，亨利五世因不知其身份而下令将他与其余俘虏一并处决。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Antoine,_Duke_of_Brabant"
+    }
+  },
+  {
+    "id": "c1016000-0000-4000-8000-000000000000",
+    "firstName": "John",
+    "lastName": "of Brabant",
+    "displayName": "John IV of Brabant",
+    "fullName": "John IV of Brabant, Duke of Brabant",
+    "displayNameCn": "布拉班特公爵约翰四世",
+    "fullNameCn": "布拉班特公爵约翰四世",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1403,
+    "deathYear": 1427,
+    "birthPlace": "Brussels",
+    "birthPlaceCn": "布鲁塞尔",
+    "deathPlace": "Brussels",
+    "deathPlaceCn": "布鲁塞尔",
+    "gender": "male",
+    "dynasty": "Capetian dynasty",
+    "house": "House of Valois-Burgundy",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Duke of Brabant",
+    "primaryTitleCn": "布拉班特公爵",
+    "titles": [
+      {
+        "title": "Duke of Brabant",
+        "titleCn": "布拉班特公爵",
+        "startYear": 1415,
+        "endYear": 1427
+      }
+    ],
+    "tags": [
+      "noble",
+      "duke"
+    ],
+    "rank": "duke",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "c1015000-0000-4000-8000-000000000000",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1415,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title",
+          "noble"
+        ],
+        "weight": 78,
+        "label": "Succeeded as Duke of Brabant",
+        "labelCn": "继位为布拉班特公爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/John_IV,_Duke_of_Brabant",
+        "note": "Succeeded his father Antony as Duke of Brabant, Lothier and Limburg after Antony was killed at Agincourt."
+      },
+      {
+        "year": 1418,
+        "month": 4,
+        "day": 10,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance",
+          "politics"
+        ],
+        "weight": 74,
+        "label": "Marriage to Jacqueline of Bavaria",
+        "labelCn": "与巴伐利亚的雅克琳成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/John_IV,_Duke_of_Brabant",
+        "note": "Married Jacqueline, Countess of Hainaut, Holland and Zeeland, at The Hague; the union joined Brabant with her counties but soon broke down amid the Hook and Cod wars."
+      },
+      {
+        "year": 1425,
+        "month": 12,
+        "day": 9,
+        "type": "government",
+        "tags": [
+          "government",
+          "religion"
+        ],
+        "weight": 80,
+        "label": "Foundation of the University of Leuven",
+        "labelCn": "创立鲁汶大学",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Old_University_of_Leuven",
+        "note": "Pope Martin V's bull of 9 December 1425, secured with John's support, established the first university in the Low Countries."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/John_IV,_Duke_of_Brabant",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/John_IV,_Duke_of_Brabant",
+    "sourceNote": "Basic card for the Burgundian succession in Brabant.",
+    "notes": "Succeeded his father Antony as Duke of Brabant.",
+    "createdDate": "20260823",
+    "createdOrder": 47
+  },
+  {
+    "id": "c1017000-0000-4000-8000-000000000000",
+    "firstName": "Philip",
+    "lastName": "of Saint-Pol",
+    "displayName": "Philip of Saint-Pol",
+    "fullName": "Philip of Saint-Pol, Duke of Brabant",
+    "displayNameCn": "圣波尔的腓力",
+    "fullNameCn": "布拉班特公爵圣波尔的腓力",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1404,
+    "deathYear": 1430,
+    "birthPlace": "Brussels",
+    "birthPlaceCn": "布鲁塞尔",
+    "deathPlace": "Leuven",
+    "deathPlaceCn": "鲁汶",
+    "gender": "male",
+    "dynasty": "Capetian dynasty",
+    "house": "House of Valois-Burgundy",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Duke of Brabant",
+    "primaryTitleCn": "布拉班特公爵",
+    "titles": [
+      {
+        "title": "Duke of Brabant",
+        "titleCn": "布拉班特公爵",
+        "startYear": 1427,
+        "endYear": 1430
+      }
+    ],
+    "tags": [
+      "noble",
+      "duke"
+    ],
+    "rank": "duke",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "c1015000-0000-4000-8000-000000000000",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1415,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "territory",
+          "noble"
+        ],
+        "weight": 72,
+        "label": "Count of Saint-Pol and Ligny",
+        "labelCn": "成为圣波尔与利尼伯爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Philip_of_Saint-Pol",
+        "note": "Inherited Saint-Pol and Ligny as an appanage after his grandfather Waleran III of Luxembourg was killed at Agincourt in 1415."
+      },
+      {
+        "year": 1427,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title",
+          "noble"
+        ],
+        "weight": 80,
+        "label": "Succeeded as Duke of Brabant",
+        "labelCn": "继位为布拉班特公爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Philip_of_Saint-Pol",
+        "note": "Succeeded his childless brother John IV as Duke of Brabant, Lothier and Limburg."
+      },
+      {
+        "year": 1430,
+        "month": 8,
+        "day": 4,
+        "type": "death",
+        "tags": [
+          "death",
+          "succession",
+          "noble"
+        ],
+        "weight": 82,
+        "label": "Death and transfer of Brabant to Philip the Good",
+        "labelCn": "去世，布拉班特转归好人腓力",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Philip_of_Saint-Pol",
+        "note": "Died childless at Leuven; Brabant and Limburg passed to his cousin Philip the Good of Burgundy."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Philip_of_Saint-Pol",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Philip_of_Saint-Pol",
+    "sourceNote": "Basic card for the Burgundian succession in Brabant.",
+    "notes": "Succeeded his brother John IV as Duke of Brabant.",
+    "createdDate": "20260823",
+    "createdOrder": 48
+  },
+  {
+    "id": "c1018000-0000-4000-8000-000000000000",
+    "firstName": "Philip",
+    "lastName": "of Burgundy",
+    "displayName": "Philip the Good",
+    "fullName": "Philip the Good, Duke of Burgundy",
+    "displayNameCn": "好人腓力",
+    "fullNameCn": "勃艮第公爵好人腓力",
+    "nickname": "the Good",
+    "nicknameCn": "好人",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1396,
+    "deathYear": 1467,
+    "birthPlace": "Dijon",
+    "birthPlaceCn": "第戎",
+    "deathPlace": "Bruges",
+    "deathPlaceCn": "布鲁日",
+    "gender": "male",
+    "dynasty": "Capetian dynasty",
+    "house": "House of Valois-Burgundy",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Duke of Burgundy",
+    "primaryTitleCn": "勃艮第公爵",
+    "titles": [
+      {
+        "title": "Duke of Brabant",
+        "titleCn": "布拉班特公爵",
+        "startYear": 1430,
+        "endYear": 1467
+      },
+      {
+        "title": "Duke of Burgundy",
+        "titleCn": "勃艮第公爵",
+        "startYear": 1419,
+        "endYear": 1467
+      },
+      {
+        "title": "Count of Hainaut",
+        "titleCn": "埃诺伯爵",
+        "startYear": 1433,
+        "endYear": 1467
+      }
+    ],
+    "tags": [
+      "noble",
+      "duke"
+    ],
+    "rank": "duke",
+    "importanceScore": 70,
+    "historicalRating": 8,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1409,
+        "month": 6,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance",
+          "noble"
+        ],
+        "weight": 72,
+        "label": "Marriage to Michelle of Valois",
+        "labelCn": "与瓦卢瓦的米歇尔成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Philip_the_Good",
+        "note": "Daughter of King Charles VI of France; the union tied Burgundy closely to the French crown."
+      },
+      {
+        "year": 1419,
+        "month": 9,
+        "day": 10,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "duke",
+          "noble"
+        ],
+        "weight": 85,
+        "label": "Becomes Duke of Burgundy",
+        "labelCn": "继位为勃艮第公爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Philip_the_Good",
+        "note": "Succeeded after the assassination of his father, John the Fearless, at Montereau."
+      },
+      {
+        "year": 1420,
+        "month": 5,
+        "day": 21,
+        "type": "treaty",
+        "tags": [
+          "treaty",
+          "diplomacy",
+          "war",
+          "politics"
+        ],
+        "weight": 80,
+        "label": "Treaty of Troyes",
+        "labelCn": "《特鲁瓦条约》",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Treaty_of_Troyes",
+        "note": "Allied with Henry V of England, recognising the English king's claim to the French throne."
+      },
+      {
+        "year": 1430,
+        "month": 1,
+        "day": 7,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance",
+          "noble"
+        ],
+        "weight": 74,
+        "label": "Marriage to Isabella of Portugal",
+        "labelCn": "与葡萄牙的伊莎贝拉成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Philip_the_Good",
+        "note": "His third marriage, celebrated in Bruges; mother of his heir, Charles the Bold."
+      },
+      {
+        "year": 1430,
+        "month": 1,
+        "day": 10,
+        "type": "dynasty",
+        "tags": [
+          "dynasty",
+          "noble"
+        ],
+        "weight": 78,
+        "label": "Founds the Order of the Golden Fleece",
+        "labelCn": "创立金羊毛骑士团",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Order_of_the_Golden_Fleece",
+        "note": "Founded on the occasion of his marriage; the chivalric order became the emblem of Burgundian splendour."
+      },
+      {
+        "year": 1430,
+        "type": "title_acquired",
+        "tags": [
+          "succession",
+          "territory",
+          "noble"
+        ],
+        "weight": 80,
+        "label": "Inherits Brabant and Limburg",
+        "labelCn": "继承布拉班特与林堡",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Philip_the_Good",
+        "note": "On the death of his cousin Philip of Saint-Pol, Brabant and Limburg passed into the Burgundian dominions."
+      },
+      {
+        "year": 1435,
+        "month": 9,
+        "day": 21,
+        "type": "treaty",
+        "tags": [
+          "treaty",
+          "diplomacy",
+          "politics"
+        ],
+        "weight": 85,
+        "label": "Treaty of Arras",
+        "labelCn": "《阿拉斯条约》",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Congress_of_Arras",
+        "note": "Reconciled with Charles VII of France, breaking the Anglo-Burgundian alliance."
+      },
+      {
+        "year": 1443,
+        "type": "conquest",
+        "tags": [
+          "conquest",
+          "territory",
+          "noble"
+        ],
+        "weight": 78,
+        "label": "Acquires Luxembourg",
+        "labelCn": "取得卢森堡",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Philip_the_Good",
+        "note": "Seized the duchy of Luxembourg by force in 1443, later confirmed by purchase of Elisabeth of Görlitz's rights."
+      },
+      {
+        "year": 1454,
+        "type": "crusade",
+        "tags": [
+          "crusade",
+          "religion",
+          "noble"
+        ],
+        "weight": 70,
+        "label": "Vow of the Feast of the Pheasant",
+        "labelCn": "野鸡宴上立誓东征",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Philip_the_Good",
+        "note": "At the Feast of the Pheasant he vowed a crusade against the Ottomans after the fall of Constantinople; it never materialised."
+      },
+      {
+        "year": 1467,
+        "month": 6,
+        "day": 15,
+        "type": "death",
+        "tags": [
+          "death",
+          "duke",
+          "noble"
+        ],
+        "weight": 90,
+        "label": "Death in Bruges",
+        "labelCn": "在布鲁日去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Philip_the_Good",
+        "note": "Died 15 June 1467 in Bruges; buried in the Chartreuse de Champmol, Dijon."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Philip_the_Good",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Philip_the_Good",
+    "sourceNote": "Encyclopaedia Britannica; Wikipedia (Philip the Good), used for navigation.",
+    "notes": "Philip the Good presided over the Burgundian state at its apogee, assembling the Low Countries and much of northern France into a composite dominion of unrivalled wealth and cultural splendour. Through the Order of the Golden Fleece and patronage of artists such as Jan van Eyck he made his court a model of princely magnificence, while the Treaty of Arras (1435) reoriented Burgundy toward France. His realm remained a personal union of disparate territories rather than a consolidated state, a fragility exposed after his death.",
+    "createdDate": "20260823",
+    "createdOrder": 49,
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died of a respiratory illness",
+      "summaryCn": "死于呼吸道疾病",
+      "detail": "Contemporary accounts describe a fever and obstruction of the throat in his final days; later sources variously attribute his death to pneumonia, quinsy or apoplexy.",
+      "detailCn": "当时的记载称他临终前发热、喉咙被痰液阻塞；后世史料对其死因说法不一，多认为是肺炎或咽部感染。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Philip_the_Good"
+    }
+  }
+]

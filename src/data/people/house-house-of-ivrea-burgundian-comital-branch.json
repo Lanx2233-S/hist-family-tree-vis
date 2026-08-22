@@ -1,0 +1,182 @@
+[
+  {
+    "id": "6a94fc7a-dd9f-4031-87ac-701daf55e26e",
+    "firstName": "Beatrice",
+    "lastName": "",
+    "displayName": "Beatrice I, Countess of Burgundy",
+    "fullName": "Beatrice I, Countess of Burgundy",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Beatrice of Burgundy",
+      "Beatrix von Burgund",
+      "Beatrix I of Burgundy"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "勃艮第女伯爵贝阿特丽丝一世",
+    "fullNameCn": "勃艮第女伯爵贝阿特丽丝一世",
+    "nicknameCn": "",
+    "birthYear": "",
+    "deathYear": 1184,
+    "birthPlace": "",
+    "birthPlaceCn": "",
+    "deathPlace": "Jouhe, County of Burgundy",
+    "deathPlaceCn": "勃艮第伯国茹厄",
+    "gender": "female",
+    "dynasty": "Ivrea dynasty",
+    "house": "House of Ivrea, Burgundian comital branch",
+    "culture": "Burgundian",
+    "faith": "Catholic",
+    "primaryTitle": "Countess of Burgundy and Holy Roman Empress",
+    "primaryTitleCn": "勃艮第女伯爵兼神圣罗马帝国皇后",
+    "titles": [
+      {
+        "title": "Countess of Burgundy",
+        "titleCn": "勃艮第女伯爵",
+        "startYear": 1148,
+        "endYear": 1184
+      },
+      {
+        "title": "Queen consort of Germany",
+        "titleCn": "德意志王后",
+        "startYear": 1156,
+        "endYear": 1184
+      },
+      {
+        "title": "Holy Roman Empress",
+        "titleCn": "神圣罗马帝国皇后",
+        "startYear": 1167,
+        "endYear": 1184
+      },
+      {
+        "title": "Queen consort of Burgundy",
+        "titleCn": "勃艮第王后",
+        "startYear": 1178,
+        "endYear": 1184
+      }
+    ],
+    "tags": [
+      "monarch",
+      "empress",
+      "countess",
+      "noble"
+    ],
+    "rank": "empress",
+    "importanceScore": 79,
+    "historicalRating": 7,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "727f5266-97af-45ee-8a21-c986aaf039dd"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "0ab7ebf5-061d-4668-8554-ba7b6fbd01f7",
+        "186da770-6a93-4236-b48f-6fd705cdbcf4",
+        "45baa722-7fe8-4c5c-b533-e37544328a75",
+        "c3b0687b-179f-47b6-9ea7-ccfea2629c05",
+        "4447ca0f-a12f-494a-95ee-9875ff063099",
+        "966b3670-1197-4552-b765-7cdc54455363",
+        "58f15fda-c80f-4439-876b-ff4f047da3b2",
+        "3a26b97e-3345-4100-801e-3d5deb589bd6",
+        "6c8157b1-bdab-4012-afcd-b4e817686195",
+        "0bd54372-1bb7-4d4e-8281-e8834a3bdedc",
+        "a4797c56-9e7d-42ad-bcce-653c8dd42eb6"
+      ]
+    },
+    "events": [
+      {
+        "year": 1148,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 100,
+        "label": "Inherited the County of Burgundy from her father",
+        "labelCn": "从父亲处继承勃艮第伯国",
+        "wikiUrl": "https://www.deutsche-biographie.de/downloadPDF?url=sfz69416.pdf",
+        "note": "As Renaud III's only heiress, Beatrice inherited the County of Burgundy and later brought this major principality into her marriage."
+      },
+      {
+        "year": 1156,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 100,
+        "label": "Married Emperor Frederick Barbarossa",
+        "labelCn": "与皇帝腓特烈·巴巴罗萨结婚",
+        "wikiUrl": "https://www.deutsche-biographie.de/downloadPDF?url=sfz69416.pdf",
+        "note": "The marriage to Frederick Barbarossa took place at Würzburg; sources differ between 9 and 17 June, so only the year is used."
+      },
+      {
+        "year": 1156,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "queen"
+        ],
+        "weight": 85,
+        "label": "Was crowned Queen of Germany",
+        "labelCn": "加冕为德意志王后",
+        "wikiUrl": "https://www.deutsche-biographie.de/downloadPDF?url=sfz69416.pdf",
+        "month": 10,
+        "day": 9,
+        "note": "Beatrice received the German royal coronation after her marriage to Frederick Barbarossa."
+      },
+      {
+        "year": 1167,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "queen"
+        ],
+        "weight": 100,
+        "label": "Was crowned Holy Roman Empress in Rome",
+        "labelCn": "在罗马加冕为神圣罗马帝国皇后",
+        "wikiUrl": "https://www.deutsche-biographie.de/downloadPDF?url=sfz69416.pdf",
+        "month": 8,
+        "day": 1,
+        "note": "Beatrice received the imperial coronation in Rome during Frederick Barbarossa's Italian policy."
+      },
+      {
+        "year": 1178,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "queen"
+        ],
+        "weight": 85,
+        "label": "Was crowned Queen of Burgundy at Vienne",
+        "labelCn": "在维埃纳加冕为勃艮第王后",
+        "wikiUrl": "https://www.deutsche-biographie.de/downloadPDF?url=sfz69416.pdf",
+        "month": 8,
+        "note": "Beatrice was crowned Queen of Burgundy at Vienne, reinforcing the imperial couple's authority in the Burgundian kingdom."
+      },
+      {
+        "year": 1184,
+        "type": "death",
+        "tags": [
+          "death",
+          "queen"
+        ],
+        "weight": 70,
+        "label": "Died at Jouhe and was buried at Speyer",
+        "labelCn": "在茹厄去世并葬于施派尔",
+        "wikiUrl": "https://www.deutsche-biographie.de/downloadPDF?url=sfz69416.pdf",
+        "month": 11,
+        "day": 15,
+        "note": "Beatrice died at Jouhe in the County of Burgundy and was buried at Speyer."
+      }
+    ],
+    "wikiUrl": "https://www.deutsche-biographie.de/downloadPDF?url=sfz69416.pdf",
+    "portraitUrl": "",
+    "sourceUrl": "https://www.deutsche-biographie.de/downloadPDF?url=sfz69416.pdf",
+    "sourceNote": "Neue Deutsche Biographie, 'Beatrix von Burgund'; German imperial regesta for Frederick Barbarossa; Knut Görich, Friedrich Barbarossa; John B. Freed, Frederick Barbarossa: The Prince and the Myth.",
+    "notes": "Beatrice was a ruling heiress in her own right, not merely Barbarossa's consort. Her Burgundian inheritance strengthened Hohenstaufen power west of the Rhine and later passed to their son Otto I.\n\nConfidence / caveats: Her birth is variously dated c.1140–1145, so birthYear is left null rather than choosing an arbitrary single year. Sources vary over the precise date of her 1156 marriage and occasionally over the naming/origin of her mother (Agatha is sometimes styled 'of Lorraine' or linked to Montjoie). No reliable specific medical cause of death is used.\n\nUnlinked family (not in roster): father: Renaud III, Count of Burgundy; mother: Agatha of Lorraine; child: Frederick V, Duke of Swabia; child: Frederick VI, Duke of Swabia; child: Otto I, Count of Burgundy; child: Conrad II, Duke of Swabia",
+    "createdDate": "20260823",
+    "createdOrder": 118
+  }
+]

@@ -1,0 +1,396 @@
+[
+  {
+    "id": "7c3aaa41-6a5a-4e5c-bd09-b1f282db95bd",
+    "firstName": "Eleanor",
+    "lastName": "",
+    "displayName": "Eleanor of Castile",
+    "fullName": "Eleanor of Castile",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Eleanor of Castile"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "卡斯蒂利亚的埃莉诺",
+    "fullNameCn": "卡斯蒂利亚的埃莉诺",
+    "birthYear": 1241,
+    "deathYear": 1290,
+    "birthPlace": "Burgos, Castile",
+    "birthPlaceCn": "卡斯蒂利亚布尔戈斯",
+    "deathPlace": "Harby, England",
+    "deathPlaceCn": "英格兰哈比",
+    "gender": "female",
+    "dynasty": "Ivrea dynasty",
+    "house": "House of Ivrea",
+    "culture": "Castilian",
+    "faith": "Catholic",
+    "primaryTitle": "Queen consort of England",
+    "primaryTitleCn": "英格兰王后",
+    "titles": [
+      {
+        "title": "Queen consort of England",
+        "startYear": 1272,
+        "endYear": 1290,
+        "titleCn": "英格兰王后"
+      }
+    ],
+    "tags": [
+      "queen",
+      "consort"
+    ],
+    "rank": "queen",
+    "importanceScore": 66,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "f58b655d-8403-4f6d-9d5d-ecffaeaa0b0e"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "0e72c1bf-c16d-40c5-a62c-a1b84cdfb7a3"
+      ]
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Eleanor_of_Castile",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Eleanor_of_Castile",
+    "sourceNote": "First wife of Edward I and mother of Edward II.",
+    "notes": "First wife of Edward I and mother of Edward II. After her death, Edward raised the Eleanor crosses to mark her funeral procession.",
+    "historicalRating": 7,
+    "createdDate": "20260818",
+    "createdOrder": 49,
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died of illness at Harby",
+      "summaryCn": "在哈比因病去世",
+      "detail": "Eleanor of Castile died in 1290 at Harby, Nottinghamshire, and Edward I raised the Eleanor crosses in her memory.",
+      "detailCn": "1290 年，卡斯蒂利亚的埃莉诺在诺丁汉郡哈比去世，爱德华一世为其立埃莉诺十字架以纪念。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Eleanor_of_Castile"
+    },
+    "events": [
+      {
+        "year": 1254,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 80,
+        "label": "Married the future Edward I",
+        "labelCn": "嫁给未来的爱德华一世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Eleanor_of_Castile"
+      },
+      {
+        "year": 1284,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 62,
+        "label": "Gave birth to the future Edward II",
+        "labelCn": "生下未来的爱德华二世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Eleanor_of_Castile"
+      },
+      {
+        "year": 1290,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 90,
+        "label": "Died at Harby",
+        "labelCn": "在哈比去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Eleanor_of_Castile"
+      },
+      {
+        "year": 1270,
+        "type": "crusade",
+        "tags": [
+          "crusade",
+          "queen"
+        ],
+        "weight": 80,
+        "label": "Accompanied Edward on Crusade",
+        "labelCn": "随爱德华参加十字军东征",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Eleanor_of_Castile",
+        "note": "Joined Edward I on the Ninth Crusade to the Holy Land."
+      },
+      {
+        "year": 1274,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "queen"
+        ],
+        "weight": 75,
+        "label": "Crowned queen consort of England",
+        "labelCn": "加冕为英格兰王后",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Eleanor_of_Castile"
+      }
+    ]
+  },
+  {
+    "id": "0736f259-d8fa-4263-9a07-73475f48bfd3",
+    "firstName": "Blanche",
+    "lastName": "",
+    "displayName": "Blanche of Castile",
+    "fullName": "Blanche of Castile",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "卡斯蒂利亚的布朗什",
+    "fullNameCn": "卡斯蒂利亚的布朗什",
+    "nicknameCn": "",
+    "birthYear": 1188,
+    "deathYear": 1252,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "female",
+    "dynasty": "Ivrea dynasty",
+    "house": "House of Ivrea",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Queen of France",
+    "primaryTitleCn": "法兰西王后",
+    "titles": [
+      {
+        "title": "Countess of Champagne",
+        "startYear": 1274,
+        "endYear": 1305,
+        "titleCn": "香槟女伯爵"
+      },
+      {
+        "title": "Queen of Navarre",
+        "startYear": 1274,
+        "endYear": 1305,
+        "titleCn": "纳瓦拉女王"
+      },
+      {
+        "title": "Queen of France",
+        "startYear": "",
+        "endYear": 1252,
+        "titleCn": "法兰西王后"
+      }
+    ],
+    "tags": [
+      "queen",
+      "consort"
+    ],
+    "rank": "queen",
+    "importanceScore": 60,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "96b01b93-0b97-494a-896e-2d7abb07e05c"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "91f35e74-2dd3-4393-9858-0fc6b5acc537"
+      ]
+    },
+    "events": [
+      {
+        "year": 1188,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Blanche_of_Castile"
+      },
+      {
+        "year": 1252,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Blanche_of_Castile"
+      },
+      {
+        "year": 1226,
+        "type": "regency",
+        "tags": [
+          "regency",
+          "queen",
+          "government"
+        ],
+        "weight": 85,
+        "label": "Regent of France",
+        "labelCn": "法兰西摄政",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Blanche_of_Castile",
+        "note": "Became regent for her son Louis IX after the death of Louis VIII in November 1226, governing during his minority and defending the crown against the great vassals."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Blanche_of_Castile",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Blanche_of_Castile",
+    "sourceNote": "Basic queen-consort card; relationship links synchronized with the French royal line.",
+    "notes": "Queen consort in the French royal succession.",
+    "createdDate": "20260820",
+    "createdOrder": 41
+  },
+  {
+    "id": "906246fe-bb15-48a1-b69f-ff5cc0fecbb0",
+    "firstName": "Joan",
+    "lastName": "",
+    "displayName": "Joan II of Burgundy",
+    "fullName": "Joan II of Burgundy",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "勃艮第的琼二世",
+    "fullNameCn": "勃艮第的琼二世",
+    "nicknameCn": "",
+    "birthYear": 1291,
+    "deathYear": 1330,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "female",
+    "dynasty": "Ivrea dynasty",
+    "house": "House of Ivrea",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Queen of France",
+    "primaryTitleCn": "法兰西王后",
+    "titles": [
+      {
+        "title": "Queen of France",
+        "startYear": "",
+        "endYear": 1330,
+        "titleCn": "法兰西王后"
+      }
+    ],
+    "tags": [
+      "queen",
+      "consort"
+    ],
+    "rank": "queen",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "f57da4e3-19a4-4087-8cf4-613a2ff0bc1f"
+      ],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1291,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Joan_II_of_Burgundy"
+      },
+      {
+        "year": 1330,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Joan_II_of_Burgundy"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Joan_II_of_Burgundy",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Joan_II_of_Burgundy",
+    "sourceNote": "Basic queen-consort card; relationship links synchronized with the French royal line.",
+    "notes": "Queen consort in the French royal succession.",
+    "createdDate": "20260820",
+    "createdOrder": 48
+  },
+  {
+    "id": "e01b2392-3487-43ac-80f6-cb640d051d06",
+    "firstName": "Blanche",
+    "lastName": "",
+    "displayName": "Blanche of Burgundy",
+    "fullName": "Blanche of Burgundy",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "勃艮第的布朗什",
+    "fullNameCn": "勃艮第的布朗什",
+    "nicknameCn": "",
+    "birthYear": 1296,
+    "deathYear": 1326,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "female",
+    "dynasty": "Ivrea dynasty",
+    "house": "House of Ivrea",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Queen of France",
+    "primaryTitleCn": "法兰西王后",
+    "titles": [
+      {
+        "title": "Queen of France",
+        "startYear": "",
+        "endYear": 1326,
+        "titleCn": "法兰西王后"
+      }
+    ],
+    "tags": [
+      "queen",
+      "consort"
+    ],
+    "rank": "queen",
+    "importanceScore": 40,
+    "historicalRating": 4,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "da988cef-12ff-4b79-afad-70d0565b976e"
+      ],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1296,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Blanche_of_Burgundy"
+      },
+      {
+        "year": 1326,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Blanche_of_Burgundy"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Blanche_of_Burgundy",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Blanche_of_Burgundy",
+    "sourceNote": "Basic queen-consort card; relationship links synchronized with the French royal line.",
+    "notes": "Queen consort in the French royal succession.",
+    "createdDate": "20260820",
+    "createdOrder": 49
+  }
+]

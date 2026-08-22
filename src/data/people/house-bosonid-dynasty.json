@@ -1,0 +1,109 @@
+[
+  {
+    "id": "e51174bf-d6a5-4358-acf3-516bdcd2897b",
+    "firstName": "Rudolph",
+    "lastName": "",
+    "displayName": "Rudolph of France",
+    "fullName": "Rudolph of France",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Rudolph of France",
+      "Raoul of Burgundy"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "法兰西的鲁道夫",
+    "fullNameCn": "法兰西的鲁道夫",
+    "birthYear": 890,
+    "deathYear": 936,
+    "birthPlace": "",
+    "deathPlace": "Auxerre, West Francia",
+    "deathPlaceCn": "西法兰克欧塞尔",
+    "gender": "male",
+    "dynasty": "Bosonid dynasty",
+    "house": "Bosonid dynasty",
+    "culture": "Frankish",
+    "faith": "Catholic",
+    "primaryTitle": "King of West Francia",
+    "primaryTitleCn": "西法兰克国王",
+    "titles": [
+      {
+        "title": "Duke of Burgundy",
+        "startYear": 921,
+        "endYear": 936,
+        "titleCn": "勃艮第公爵"
+      },
+      {
+        "title": "King of West Francia",
+        "startYear": 923,
+        "endYear": 936,
+        "titleCn": "西法兰克国王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 54,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Rudolph_of_France",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Rudolph_of_France",
+    "sourceNote": "Bosonid (Bivinid) duke of Burgundy; married Emma, daughter of Robert I (neither in roster). Birth year is uncertain (traditionally c. 890).",
+    "notes": "Duke of Burgundy of the Bosonid dynasty; elected king of West Francia in 923 after Robert I's death, reigning as a transitional figure between the Carolingians and the Capetians.",
+    "historicalRating": 5,
+    "createdDate": "20260818",
+    "createdOrder": 20,
+    "events": [
+      {
+        "year": 890,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 60,
+        "label": "Born, of the Bosonid dynasty",
+        "labelCn": "出生，博索尼德家族",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Rudolph_of_France",
+        "note": "Birth year uncertain, traditionally c. 890."
+      },
+      {
+        "year": 923,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "monarch"
+        ],
+        "weight": 78,
+        "label": "Elected King of West Francia",
+        "labelCn": "当选西法兰克国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Rudolph_of_France"
+      },
+      {
+        "year": 936,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 90,
+        "label": "Died at Auxerre",
+        "labelCn": "在欧塞尔去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Rudolph_of_France"
+      }
+    ],
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died of illness at Auxerre",
+      "summaryCn": "在欧塞尔因病去世",
+      "detail": "Rudolph of France died in 936 at Auxerre after falling ill during a campaign in Aquitaine.",
+      "detailCn": "936 年，法兰西的鲁道夫在阿基坦战事中染病，于欧塞尔去世。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Rudolph_of_France"
+    }
+  }
+]

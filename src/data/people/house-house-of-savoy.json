@@ -1,0 +1,345 @@
+[
+  {
+    "id": "1aceb9f3-41a0-410e-aa94-f1142f0eda1e",
+    "firstName": "Charlotte",
+    "lastName": "",
+    "displayName": "Charlotte of Savoy",
+    "fullName": "Charlotte of Savoy",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "萨伏依的夏洛特",
+    "fullNameCn": "萨伏依的夏洛特",
+    "nicknameCn": "",
+    "birthYear": 1441,
+    "deathYear": 1483,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "female",
+    "dynasty": "Savoy dynasty",
+    "house": "House of Savoy",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Queen of France",
+    "primaryTitleCn": "法兰西王后",
+    "titles": [
+      {
+        "title": "Queen of France",
+        "startYear": "",
+        "endYear": 1483,
+        "titleCn": "法兰西王后"
+      }
+    ],
+    "tags": [
+      "queen",
+      "consort"
+    ],
+    "rank": "queen",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "896ab071-dc40-43ec-b961-a1ca40574102"
+      ],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1441,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Charlotte_of_Savoy"
+      },
+      {
+        "year": 1483,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Charlotte_of_Savoy"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Charlotte_of_Savoy",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Charlotte_of_Savoy",
+    "sourceNote": "Basic queen-consort card; relationship links synchronized with the French royal line.",
+    "notes": "Queen consort in the French royal succession.",
+    "createdDate": "20260820",
+    "createdOrder": 59
+  },
+  {
+    "id": "c9980000-0000-4000-8000-000000000008",
+    "firstName": "Béatrice",
+    "lastName": "of Savoy",
+    "displayName": "Béatrice of Savoy",
+    "fullName": "Béatrice of Savoy",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "萨伏依的贝亚特丽斯",
+    "fullNameCn": "萨伏依的贝亚特丽斯",
+    "nicknameCn": "",
+    "birthYear": 1205,
+    "deathYear": 1267,
+    "birthPlace": "Provence",
+    "birthPlaceCn": "普罗旺斯",
+    "deathPlace": "Les Échelles",
+    "deathPlaceCn": "莱塞谢勒",
+    "gender": "female",
+    "dynasty": "Savoy dynasty",
+    "house": "House of Savoy",
+    "culture": "Occitan",
+    "faith": "Catholic",
+    "primaryTitle": "Countess of Provence",
+    "primaryTitleCn": "普罗旺斯伯爵夫人",
+    "titles": [
+      {
+        "title": "Countess of Provence",
+        "titleCn": "普罗旺斯伯爵夫人",
+        "startYear": 1219,
+        "endYear": 1245
+      }
+    ],
+    "tags": [
+      "count",
+      "consort",
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 60,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "c9970000-0000-4000-8000-000000000007"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "5927afa9-324c-4528-a78b-cd60518f5437",
+        "75962d8f-fcb5-4eb5-8b8c-46271504a66d",
+        "c9990000-0000-4000-8000-000000000009",
+        "c1000000-0000-4000-8000-000000000010"
+      ]
+    },
+    "events": [
+      {
+        "year": 1220,
+        "month": 12,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance",
+          "dynasty"
+        ],
+        "weight": 76,
+        "label": "Marriage to Ramon Berenguer of Provence",
+        "labelCn": "与普罗旺斯的拉蒙·贝伦格尔结婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Beatrice_of_Savoy",
+        "note": "Betrothed in June 1219 and married in December 1220 to Ramon Berenguer IV, Count of Provence."
+      },
+      {
+        "year": 1245,
+        "type": "regency",
+        "tags": [
+          "regency",
+          "government",
+          "noble"
+        ],
+        "weight": 75,
+        "label": "Regent of Provence after her husband's death",
+        "labelCn": "丈夫去世后执掌普罗旺斯",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Beatrice_of_Savoy",
+        "note": "On her husband's death in August 1245 she received the usufruct of Provence and administered the county until surrendering her rights to her son-in-law Charles of Anjou."
+      },
+      {
+        "year": 1267,
+        "month": 1,
+        "day": 4,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 85,
+        "label": "Death near Les Échelles",
+        "labelCn": "在莱塞谢勒附近去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Beatrice_of_Savoy",
+        "note": "Died on 4 January 1267 and was buried at the Château du Menuet near Les Échelles."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Beatrice_of_Savoy",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Beatrice_of_Savoy",
+    "sourceNote": "Wikipedia 'Beatrice of Savoy'; Matthew Paris (cross-checked).",
+    "notes": "Daughter of Thomas I of Savoy and wife of Ramon Berenguer IV of Provence, she was the mother of the four Provençal sisters who became queens of France, England, Germany and Sicily. A shrewd and politically astute woman, she held the usufruct of Provence after 1245 and later served as regent of Savoy.",
+    "createdDate": "20260823",
+    "createdOrder": 26
+  },
+  {
+    "id": "ba76233c-7910-4e75-b696-e5ac22dc7082",
+    "firstName": "Bertha",
+    "lastName": "of Savoy",
+    "displayName": "Bertha of Savoy",
+    "fullName": "Bertha of Savoy",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Bertha of Turin",
+      "Bertha von Savoyen"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "萨伏依的贝尔塔",
+    "fullNameCn": "萨伏依的贝尔塔",
+    "nicknameCn": "",
+    "birthYear": 1051,
+    "deathYear": 1087,
+    "birthPlace": "",
+    "birthPlaceCn": "",
+    "deathPlace": "Mainz",
+    "deathPlaceCn": "美因茨",
+    "gender": "female",
+    "dynasty": "Savoy dynasty",
+    "house": "House of Savoy",
+    "culture": "Savoyard-Burgundian",
+    "faith": "Catholic",
+    "primaryTitle": "Holy Roman Empress",
+    "primaryTitleCn": "神圣罗马帝国皇后",
+    "titles": [
+      {
+        "title": "Queen consort of Germany",
+        "titleCn": "德意志王后",
+        "startYear": 1066,
+        "endYear": 1087
+      },
+      {
+        "title": "Holy Roman Empress",
+        "titleCn": "神圣罗马帝国皇后",
+        "startYear": 1084,
+        "endYear": 1087
+      }
+    ],
+    "tags": [
+      "queen",
+      "consort",
+      "noble"
+    ],
+    "rank": "queen",
+    "importanceScore": 73,
+    "historicalRating": 7,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "3dd7dc1c-7473-495d-aac7-0c145d147ed9"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "cc4490a7-cc6f-4764-912b-61d31ec8b22d",
+        "9fd77e98-145c-4153-b806-768ff1d76ba6"
+      ]
+    },
+    "events": [
+      {
+        "year": 1055,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 70,
+        "label": "Betrothed to the future Henry IV",
+        "labelCn": "与未来的亨利四世订婚",
+        "wikiUrl": "https://www.deutsche-biographie.de/downloadPDF?url=sfz42168.pdf",
+        "note": "The child betrothal at Zürich tied the Salian monarchy to the powerful Savoy-Turin complex controlling western Alpine routes."
+      },
+      {
+        "year": 1066,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 90,
+        "label": "Married Henry IV",
+        "labelCn": "与亨利四世结婚",
+        "wikiUrl": "https://www.deutsche-biographie.de/downloadPDF?url=sfz42168.pdf",
+        "month": 7,
+        "day": 13,
+        "note": "The marriage made Bertha the consort of Henry IV and linked the Savoyard and Salian dynasties."
+      },
+      {
+        "year": 1069,
+        "type": "politics",
+        "tags": [
+          "annulment",
+          "politics"
+        ],
+        "weight": 85,
+        "label": "Henry IV's attempt to annul the marriage failed",
+        "labelCn": "亨利四世试图解除婚姻但未能成功",
+        "wikiUrl": "https://www.deutsche-biographie.de/downloadPDF?url=sfz42168.pdf",
+        "note": "Henry sought separation from Bertha, but ecclesiastical and princely resistance forced him to abandon the attempt."
+      },
+      {
+        "year": 1077,
+        "type": "diplomacy",
+        "tags": [
+          "diplomacy",
+          "politics"
+        ],
+        "weight": 95,
+        "label": "Accompanied Henry IV across the Alps to Canossa",
+        "labelCn": "陪同亨利四世翻越阿尔卑斯山前往卡诺莎",
+        "wikiUrl": "https://www.deutsche-biographie.de/downloadPDF?url=sfz42168.pdf",
+        "note": "Bertha and their young son were part of the arduous winter journey to Canossa during Henry IV's reconciliation with Pope Gregory VII."
+      },
+      {
+        "year": 1084,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "queen"
+        ],
+        "weight": 100,
+        "label": "Crowned Holy Roman Empress in Rome",
+        "labelCn": "在罗马加冕为神圣罗马帝国皇后",
+        "wikiUrl": "https://www.deutsche-biographie.de/downloadPDF?url=sfz42168.pdf",
+        "month": 3,
+        "day": 31,
+        "note": "The coronation in Rome occurred in the political context of Henry IV's occupation of the city and the pontificate of Clement III."
+      },
+      {
+        "year": 1087,
+        "type": "death",
+        "tags": [
+          "death",
+          "queen"
+        ],
+        "weight": 70,
+        "label": "Died at Mainz and was buried at Speyer Cathedral",
+        "labelCn": "在美因茨去世并葬于施派尔大教堂",
+        "wikiUrl": "https://www.deutsche-biographie.de/downloadPDF?url=sfz42168.pdf",
+        "month": 12,
+        "day": 27,
+        "note": "Bertha died at Mainz and was buried at Speyer Cathedral."
+      }
+    ],
+    "wikiUrl": "https://www.deutsche-biographie.de/downloadPDF?url=sfz42168.pdf",
+    "portraitUrl": "",
+    "sourceUrl": "https://www.deutsche-biographie.de/downloadPDF?url=sfz42168.pdf",
+    "sourceNote": "Neue Deutsche Biographie, 'Bertha'; I. S. Robinson, Henry IV of Germany, 1056–1106; Cambridge scholarship on Henry IV and the Investiture Contest; Wikipedia used only as a supplementary chronology check.",
+    "notes": "Bertha was Henry IV's first wife and the mother of both Conrad II of Italy and Emperor Henry V. Her Savoyard background mattered strategically during Henry's Alpine crossing in the Investiture Controversy.\n\nConfidence / caveats: Some reference works differ on the exact sequence of her 1066 marriage and royal coronation. Her death at Mainz is standard, but the medical cause is not securely recorded. Agnes of Waiblingen's birth year is itself disputed, so no childbirth event for Agnes is assigned an exact year here.\n\nUnlinked family (not in roster): father: Otto, Count of Savoy; mother: Adelaide of Susa; child: Adelaide of Germany; child: Henry of Germany; child: Conrad II of Italy",
+    "createdDate": "20260823",
+    "createdOrder": 111
+  }
+]

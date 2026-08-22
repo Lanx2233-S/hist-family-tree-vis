@@ -1,0 +1,88 @@
+[
+  {
+    "id": "282ca949-3e4e-460c-b438-2c40887812e4",
+    "firstName": "Ælfgifu",
+    "lastName": "",
+    "displayName": "Ælfgifu of Northampton",
+    "fullName": "Ælfgifu of Northampton",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Ælfgifu of Northampton",
+      "Ælfgifu"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "北安普顿的埃尔夫吉芙",
+    "fullNameCn": "北安普顿的埃尔夫吉芙",
+    "birthYear": 990,
+    "deathYear": 1040,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "female",
+    "dynasty": "Unknown dynasty",
+    "house": "House of Northampton",
+    "culture": "Anglo-Saxon",
+    "faith": "Catholic",
+    "primaryTitle": "Queen consort of England",
+    "primaryTitleCn": "英格兰王后",
+    "titles": [
+      {
+        "title": "Queen consort of England",
+        "startYear": 1016,
+        "endYear": 1035,
+        "titleCn": "英格兰王后"
+      }
+    ],
+    "tags": [
+      "queen",
+      "consort"
+    ],
+    "rank": "queen",
+    "importanceScore": 50,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "0fb64530-ea06-47ec-9570-6166155b53ba"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "5e955633-278a-4885-9d19-41012011016c",
+        "d539abe5-c27d-4b1a-a3b3-e16d93ce2344"
+      ]
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/%C3%86lfgifu_of_Northampton",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/%C3%86lfgifu_of_Northampton",
+    "sourceNote": "First wife of Cnut by Danish custom; mother of Harold Harefoot and Svein Knutsson. Birth and death years are uncertain.",
+    "notes": "First wife of Cnut the Great and mother of Harold Harefoot and Svein Knutsson. Distinguished from Emma of Normandy, Cnut's church-married second wife.",
+    "historicalRating": 5,
+    "createdDate": "20260818",
+    "createdOrder": 37,
+    "events": [
+      {
+        "year": 990,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 60,
+        "label": "Born in Northampton",
+        "labelCn": "出生于北安普顿",
+        "wikiUrl": "https://en.wikipedia.org/wiki/%C3%86lfgifu_of_Northampton",
+        "note": "Birth year uncertain."
+      },
+      {
+        "year": 1016,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 76,
+        "label": "Became Cnut's first wife",
+        "labelCn": "成为克努特的元配",
+        "wikiUrl": "https://en.wikipedia.org/wiki/%C3%86lfgifu_of_Northampton"
+      }
+    ]
+  }
+]

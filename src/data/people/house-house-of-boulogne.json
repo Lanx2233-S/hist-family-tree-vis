@@ -1,0 +1,106 @@
+[
+  {
+    "id": "c9480000-0000-4000-8000-000000000000",
+    "firstName": "Baldwin",
+    "lastName": "of Jerusalem",
+    "displayName": "Baldwin I of Jerusalem",
+    "fullName": "Baldwin I, King of Jerusalem",
+    "displayNameCn": "耶路撒冷的鲍德温一世",
+    "fullNameCn": "耶路撒冷国王鲍德温一世",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1058,
+    "deathYear": 1118,
+    "birthPlace": "Latin East",
+    "birthPlaceCn": "拉丁东方",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "House of Boulogne",
+    "house": "House of Boulogne",
+    "culture": "Frankish",
+    "faith": "Catholic",
+    "primaryTitle": "King of Jerusalem",
+    "primaryTitleCn": "耶路撒冷国王",
+    "titles": [
+      {
+        "title": "King of Jerusalem",
+        "titleCn": "耶路撒冷国王",
+        "startYear": "",
+        "endYear": 1118
+      }
+    ],
+    "tags": [
+      "monarch",
+      "commander",
+      "noble"
+    ],
+    "rank": "king",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1098,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "noble",
+          "crusade"
+        ],
+        "weight": 78,
+        "label": "Became the first Count of Edessa",
+        "labelCn": "成为首位埃德萨伯爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Baldwin_I_of_Jerusalem",
+        "note": "Founded the first crusader county at Edessa in 1098 before his brother's capture of Jerusalem."
+      },
+      {
+        "year": 1100,
+        "month": 12,
+        "day": 25,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "king",
+          "monarch"
+        ],
+        "weight": 86,
+        "label": "Crowned King of Jerusalem",
+        "labelCn": "加冕为耶路撒冷国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Baldwin_I_of_Jerusalem",
+        "note": "On Godfrey's death he took the royal title, being crowned in Bethlehem on Christmas Day 1100 — the first to be styled king of Jerusalem."
+      },
+      {
+        "year": 1118,
+        "month": 4,
+        "day": 2,
+        "type": "death",
+        "tags": [
+          "death",
+          "king",
+          "monarch"
+        ],
+        "weight": 76,
+        "label": "Death on campaign in Egypt",
+        "labelCn": "远征埃及途中去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Baldwin_I_of_Jerusalem",
+        "note": "Died at al-Arish on 2 April 1118 while campaigning in Egypt; he had also conquered the coastal cities of Arsuf, Caesarea, Acre, Beirut and Sidon."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Fulk_V,_Count_of_Anjou",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Fulk_V,_Count_of_Anjou",
+    "sourceNote": "Basic family card for the Kingdom of Jerusalem lineage.",
+    "notes": "Added for the Jerusalem title lineage.",
+    "createdDate": "20260822",
+    "createdOrder": 56
+  }
+]

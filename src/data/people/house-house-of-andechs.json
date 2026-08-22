@@ -1,0 +1,146 @@
+[
+  {
+    "id": "ef872301-2b9a-4b4e-a7d8-0c2529a049db",
+    "firstName": "Agnes",
+    "lastName": "of Meran",
+    "displayName": "Agnes of Meran",
+    "fullName": "Agnes of Merania",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Agnes of Merania"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "梅拉尼亚的阿涅丝",
+    "fullNameCn": "梅拉尼亚的阿涅丝",
+    "nicknameCn": null,
+    "birthYear": 1180,
+    "deathYear": 1201,
+    "birthPlace": "",
+    "deathPlace": "Poissy, Kingdom of France",
+    "birthPlaceCn": "",
+    "deathPlaceCn": "法兰西王国普瓦西",
+    "gender": "female",
+    "dynasty": "House of Andechs",
+    "house": "House of Andechs",
+    "culture": "German",
+    "faith": "Catholic",
+    "primaryTitle": "",
+    "primaryTitleCn": "",
+    "titles": [],
+    "tags": [
+      "queen",
+      "consort",
+      "noble"
+    ],
+    "rank": "queen",
+    "importanceScore": 70,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "7cc009b6-08d8-459b-b40e-2921bf3e4580"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "3daa50c7-45fe-447c-8ba1-4852a562bc32",
+        "0d0f0049-4607-44b9-ab23-ff16f500f9f0"
+      ]
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Agnes_of_Merania",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Agnes_of_Merania",
+    "sourceNote": "Birth year and birthplace uncertain (Wikipedia gives 1175, other sources c. 1180). Parents (Berthold IV of Merania and Agnes of Rochlitz) are not yet in the roster.",
+    "notes": "Third wife of Philippe II Augustus. The 1196 marriage was contracted while Ingeborg lived and was declared invalid in 1201; her children were legitimised in November 1201. She was treated as queen but never canonically queen consort. Modelled as a former marriage (broken line), following the Eleanor x Louis VII pattern.",
+    "historicalRating": 6,
+    "createdDate": "20260817",
+    "createdOrder": 24,
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died at Poissy",
+      "summaryCn": "在普瓦西去世",
+      "detail": "Agnes died in July 1201 at the castle of Poissy, possibly in childbirth, and was buried in the Convent of Saint-Corentin near Mantes.",
+      "detailCn": "1201 年 7 月，阿涅丝在普瓦西城堡去世（可能死于分娩），葬于芒特附近的圣科朗坦修道院。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Agnes_of_Merania"
+    },
+    "events": [
+      {
+        "year": 1180,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "uncertain"
+        ],
+        "weight": 60,
+        "label": "Born in Merania",
+        "labelCn": "出生于梅拉尼亚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Agnes_of_Merania",
+        "note": "Birth year uncertain (c. 1175–1180); birthplace not recorded. Daughter of Berthold IV, Duke of Merania, of the House of Andechs."
+      },
+      {
+        "year": 1196,
+        "month": 6,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "uncertain"
+        ],
+        "weight": 88,
+        "label": "Marriage to Philippe II",
+        "labelCn": "与腓力二世成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Agnes_of_Merania",
+        "note": "Married June 1196 while Philippe's second wife Ingeborg was still living; under canon law the marriage was never valid."
+      },
+      {
+        "year": 1198,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 70,
+        "label": "Birth of Marie",
+        "labelCn": "女儿玛丽出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Agnes_of_Merania"
+      },
+      {
+        "year": 1200,
+        "month": 9,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 70,
+        "label": "Birth of Philippe Hurepel",
+        "labelCn": "儿子菲利普·于雷佩尔出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Agnes_of_Merania"
+      },
+      {
+        "year": 1201,
+        "month": 7,
+        "type": "death",
+        "tags": [
+          "death",
+          "uncertain"
+        ],
+        "weight": 90,
+        "label": "Died at Poissy",
+        "labelCn": "在普瓦西去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Agnes_of_Merania",
+        "note": "Died in July 1201 (some sources give 19/20 July), possibly in childbirth; her marriage had been declared invalid earlier that year."
+      },
+      {
+        "year": 1201,
+        "month": 11,
+        "type": "religion",
+        "tags": [
+          "religion",
+          "succession"
+        ],
+        "weight": 80,
+        "label": "Children legitimised by Pope Innocent III",
+        "labelCn": "子女获教皇英诺森三世承认为婚生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Agnes_of_Merania",
+        "note": "Marie and Philippe Hurepel were legitimised by papal dispensation in November 1201, after Agnes's death."
+      }
+    ]
+  }
+]

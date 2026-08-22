@@ -1,0 +1,345 @@
+[
+  {
+    "id": "c029f7d9-d6a1-4c57-b2f7-d847392cdbd7",
+    "firstName": "Adèle",
+    "lastName": "Champagne",
+    "displayName": "Adèle of Champagne",
+    "fullName": "Adèle of Champagne, Queen of France",
+    "displayNameCn": "香槟的阿黛勒",
+    "fullNameCn": "法兰西王后香槟的阿黛勒",
+    "nickname": "",
+    "nicknameCn": "",
+    "nicknameTags": [],
+    "alsoKnownAs": [
+      "Adele of Champagne",
+      "Adela of Champagne",
+      "Adèle de Champagne"
+    ],
+    "gender": "female",
+    "birthYear": 1140,
+    "deathYear": 1206,
+    "birthPlace": "Blois, France",
+    "deathPlace": "Paris, France",
+    "birthPlaceCn": "法国布卢瓦",
+    "deathPlaceCn": "法国巴黎",
+    "dynasty": "Blois dynasty",
+    "house": "House of Champagne",
+    "culture": "French",
+    "faith": "Catholic",
+    "rank": "queen",
+    "primaryTitle": "Queen of France",
+    "primaryTitleCn": "法兰西王后",
+    "titles": [
+      {
+        "title": "Queen of France",
+        "startYear": 1160,
+        "endYear": 1180,
+        "titleCn": "法兰西王后"
+      }
+    ],
+    "tags": [
+      "queen",
+      "consort",
+      "noble"
+    ],
+    "importanceScore": 58,
+    "historicalRating": 6,
+    "wikiUrl": "https://en.wikipedia.org/wiki/Adela_of_Champagne",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Adela_of_Champagne",
+    "sourceNote": "Third wife of Louis VII and mother of Philip II Augustus.",
+    "notes": "Added as Louis VII's default spouse; Eleanor of Aquitaine remains another spouse and can be selected with the spouse direction buttons. Daughter of Theobald II, Count of Champagne (birthplace Blois per Wikipedia infobox). Served as regent of France 1190-1191 with Archbishop William of the White Hands while Philip II was on the Third Crusade.",
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died of natural causes",
+      "detail": "Adèle died in Paris on 4 June 1206, aged about 66; no violent cause is recorded. She was buried at Pontigny Abbey near Auxerre.",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Adela_of_Champagne",
+      "summaryCn": "自然死亡",
+      "detailCn": "阿黛勒于1206年6月4日在巴黎去世，享年约66岁；无暴力死因记载。葬于欧塞尔附近的蓬蒂尼修道院。"
+    },
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "6ae9afe1-d639-482e-b9ea-13d27778f842"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "7cc009b6-08d8-459b-b40e-2921bf3e4580",
+        "608bccd6-7be9-4a60-9dbd-7187e866df83"
+      ]
+    },
+    "events": [
+      {
+        "year": 1160,
+        "month": 11,
+        "day": 13,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 85,
+        "label": "Marriage to Louis VII of France",
+        "labelCn": "与法兰西国王路易七世成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Adela_of_Champagne",
+        "note": "Married 13 November 1160, five weeks after the death of Louis's second wife Constance of Castile; the marriage sealed a peace with her father Count Theobald II."
+      },
+      {
+        "year": 1160,
+        "month": 11,
+        "day": 13,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "queen"
+        ],
+        "weight": 72,
+        "label": "Crowned Queen of France",
+        "labelCn": "加冕为法兰西王后",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Adela_of_Champagne",
+        "note": "Crowned queen at Orléans on the day of her wedding, 13 November 1160."
+      },
+      {
+        "year": 1165,
+        "month": 8,
+        "day": 21,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "dynasty"
+        ],
+        "weight": 90,
+        "label": "Birth of Philip II Augustus",
+        "labelCn": "腓力二世·奥古斯都出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Philip_II_of_France",
+        "note": "Long-awaited son of Louis VII, born 21 August 1165 at Gonesse; nicknamed 'God-given' (Dieudonné)."
+      },
+      {
+        "year": 1190,
+        "type": "government",
+        "tags": [
+          "government",
+          "regency"
+        ],
+        "weight": 80,
+        "label": "Regent of France during the Third Crusade",
+        "labelCn": "第三次十字军东征期间摄政法兰西",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Adela_of_Champagne",
+        "note": "Appointed regent by her son Philip II, acting together with Archbishop William of the White Hands from his departure in 1190 until his return in 1191."
+      },
+      {
+        "year": 1206,
+        "month": 6,
+        "day": 4,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 75,
+        "label": "Death of Adèle of Champagne",
+        "labelCn": "香槟的阿黛勒去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Adela_of_Champagne",
+        "note": "Died 4 June 1206 in Paris; buried at Pontigny Abbey."
+      }
+    ],
+    "createdDate": "20260816",
+    "createdOrder": 35
+  },
+  {
+    "id": "c9600000-0000-4000-8000-000000000000",
+    "firstName": "Alice",
+    "lastName": "of Jerusalem",
+    "displayName": "Alice of Champagne",
+    "fullName": "Alice of Champagne",
+    "displayNameCn": "香槟的爱丽丝",
+    "fullNameCn": "香槟的爱丽丝",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1195,
+    "deathYear": 1246,
+    "birthPlace": "Latin East",
+    "birthPlaceCn": "拉丁东方",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "female",
+    "dynasty": "Blois dynasty",
+    "house": "House of Champagne",
+    "culture": "Frankish",
+    "faith": "Catholic",
+    "primaryTitle": "Princess of Jerusalem",
+    "primaryTitleCn": "耶路撒冷公主",
+    "titles": [
+      {
+        "title": "Princess of Jerusalem",
+        "titleCn": "耶路撒冷公主",
+        "startYear": "",
+        "endYear": 1246
+      }
+    ],
+    "tags": [
+      "princess",
+      "noble"
+    ],
+    "rank": "princess",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "c9570000-0000-4000-8000-000000000000",
+      "motherId": "c9460000-0000-4000-8000-000000000042",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1208,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "queen",
+          "dynastic_alliance"
+        ],
+        "weight": 74,
+        "label": "Married Hugh I of Cyprus",
+        "labelCn": "与塞浦路斯的于格一世成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Alice_of_Champagne",
+        "note": "Became queen consort of Cyprus; sources date the marriage to 1208 or 1210."
+      },
+      {
+        "year": 1218,
+        "type": "regency",
+        "tags": [
+          "regency",
+          "queen",
+          "politics"
+        ],
+        "weight": 72,
+        "label": "Regent of Cyprus for her son Henry I",
+        "labelCn": "为其子亨利一世摄政塞浦路斯",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Alice_of_Champagne",
+        "note": "After Hugh I's death in 1218, Alice acted as regent of Cyprus for the infant Henry I."
+      },
+      {
+        "year": 1243,
+        "type": "regency",
+        "tags": [
+          "regency",
+          "queen",
+          "politics"
+        ],
+        "weight": 80,
+        "label": "Regent of Jerusalem for Conrad",
+        "labelCn": "为康拉德摄政耶路撒冷",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Alice_of_Champagne",
+        "note": "Proclaimed regent of Jerusalem for the absent Conrad on 5 June 1243 after the kingdom rejected Frederick II's rule; she held the office until her death in 1246."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Fulk_V,_Count_of_Anjou",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Fulk_V,_Count_of_Anjou",
+    "sourceNote": "Basic family card for the Kingdom of Jerusalem lineage.",
+    "notes": "Added for the Jerusalem title lineage.",
+    "createdDate": "20260822",
+    "createdOrder": 68
+  },
+  {
+    "id": "c9610000-0000-4000-8000-000000000000",
+    "firstName": "Philippa",
+    "lastName": "of Jerusalem",
+    "displayName": "Philippa of Champagne",
+    "fullName": "Philippa of Champagne",
+    "displayNameCn": "香槟的菲莉帕",
+    "fullNameCn": "香槟的菲莉帕",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1197,
+    "deathYear": 1250,
+    "birthPlace": "Latin East",
+    "birthPlaceCn": "拉丁东方",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "female",
+    "dynasty": "Blois dynasty",
+    "house": "House of Champagne",
+    "culture": "Frankish",
+    "faith": "Catholic",
+    "primaryTitle": "Princess of Jerusalem",
+    "primaryTitleCn": "耶路撒冷公主",
+    "titles": [
+      {
+        "title": "Princess of Jerusalem",
+        "titleCn": "耶路撒冷公主",
+        "startYear": "",
+        "endYear": 1250
+      }
+    ],
+    "tags": [
+      "princess",
+      "noble"
+    ],
+    "rank": "princess",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "c9570000-0000-4000-8000-000000000000",
+      "motherId": "c9460000-0000-4000-8000-000000000042",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1214,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 74,
+        "label": "Married Erard of Brienne",
+        "labelCn": "与布里耶讷的埃拉尔成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Philippa_of_Champagne",
+        "note": "Married Erard of Brienne-Ramerupt; the match was contracted despite a papal prohibition on grounds of kinship."
+      },
+      {
+        "year": 1216,
+        "type": "war",
+        "tags": [
+          "war",
+          "succession",
+          "rebellion"
+        ],
+        "weight": 84,
+        "label": "Claimed the county of Champagne",
+        "labelCn": "主张香槟伯国继承权",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Philippa_of_Champagne",
+        "note": "Returned to France with Erard in 1216 to press her claim to Champagne against her cousin Theobald IV, igniting the War of the Succession of Champagne (1216–1222)."
+      },
+      {
+        "year": 1222,
+        "type": "treaty",
+        "tags": [
+          "treaty",
+          "succession"
+        ],
+        "weight": 70,
+        "label": "Renounced her claim to Champagne",
+        "labelCn": "放弃香槟继承权",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Philippa_of_Champagne",
+        "note": "Formally renounced her claim in April 1222 in return for a large monetary compensation from Theobald IV."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Fulk_V,_Count_of_Anjou",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Fulk_V,_Count_of_Anjou",
+    "sourceNote": "Basic family card for the Kingdom of Jerusalem lineage.",
+    "notes": "Added for the Jerusalem title lineage.",
+    "createdDate": "20260822",
+    "createdOrder": 69
+  }
+]

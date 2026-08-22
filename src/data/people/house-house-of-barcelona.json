@@ -1,0 +1,1438 @@
+[
+  {
+    "id": "75962d8f-fcb5-4eb5-8b8c-46271504a66d",
+    "firstName": "Eleanor",
+    "lastName": "",
+    "displayName": "Eleanor of Provence",
+    "fullName": "Eleanor of Provence",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Eleanor of Provence"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "普罗旺斯的埃莉诺",
+    "fullNameCn": "普罗旺斯的埃莉诺",
+    "birthYear": 1223,
+    "deathYear": 1291,
+    "birthPlace": "Aix-en-Provence, Provence",
+    "birthPlaceCn": "普罗旺斯艾克斯",
+    "deathPlace": "Amesbury, England",
+    "deathPlaceCn": "英格兰埃姆斯伯里",
+    "gender": "female",
+    "dynasty": "Barcelona dynasty",
+    "house": "House of Barcelona",
+    "culture": "Occitan",
+    "faith": "Catholic",
+    "primaryTitle": "Queen consort of England",
+    "primaryTitleCn": "英格兰王后",
+    "titles": [
+      {
+        "title": "Queen consort of England",
+        "startYear": 1236,
+        "endYear": 1272,
+        "titleCn": "英格兰王后"
+      }
+    ],
+    "tags": [
+      "queen",
+      "consort"
+    ],
+    "rank": "queen",
+    "importanceScore": 62,
+    "relationships": {
+      "fatherId": "c9970000-0000-4000-8000-000000000007",
+      "motherId": "c9980000-0000-4000-8000-000000000008",
+      "spouseIds": [
+        "eaec18d2-b486-457f-9336-ab403f1586ca"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "f58b655d-8403-4f6d-9d5d-ecffaeaa0b0e"
+      ]
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Eleanor_of_Provence",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Eleanor_of_Provence",
+    "sourceNote": "Parents synchronized with the Provençal succession. Birth year is uncertain (traditionally 1223).",
+    "notes": "Queen consort of Henry III of England and sister of Marguerite, Sanchia, and Beatrice of Provence.",
+    "historicalRating": 6,
+    "createdDate": "20260818",
+    "createdOrder": 30,
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died at Amesbury",
+      "summaryCn": "在埃姆斯伯里去世",
+      "detail": "Eleanor of Provence died in 1291 at Amesbury Priory, where she had retired.",
+      "detailCn": "1291 年，普罗旺斯的埃莉诺在隐退地埃姆斯伯里修道院去世。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Eleanor_of_Provence"
+    },
+    "events": [
+      {
+        "year": 1223,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 60,
+        "label": "Born in Provence",
+        "labelCn": "出生于普罗旺斯",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Eleanor_of_Provence",
+        "note": "Birth year uncertain, traditionally 1223."
+      },
+      {
+        "year": 1236,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 80,
+        "label": "Married Henry III of England",
+        "labelCn": "嫁给英格兰亨利三世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Eleanor_of_Provence"
+      },
+      {
+        "year": 1239,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 62,
+        "label": "Gave birth to the future Edward I",
+        "labelCn": "生下未来的爱德华一世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Eleanor_of_Provence"
+      },
+      {
+        "year": 1291,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 90,
+        "label": "Died at Amesbury",
+        "labelCn": "在埃姆斯伯里去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Eleanor_of_Provence"
+      }
+    ]
+  },
+  {
+    "id": "5927afa9-324c-4528-a78b-cd60518f5437",
+    "firstName": "Marguerite",
+    "lastName": "",
+    "displayName": "Marguerite de Provence",
+    "fullName": "Marguerite de Provence",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Margaret of Provence"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "普罗旺斯的玛格丽特",
+    "fullNameCn": "法兰西王后普罗旺斯的玛格丽特",
+    "nicknameCn": "",
+    "birthYear": 1221,
+    "deathYear": 1295,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "female",
+    "dynasty": "Barcelona dynasty",
+    "house": "House of Barcelona",
+    "culture": "Occitan",
+    "faith": "Catholic",
+    "primaryTitle": "Queen of France",
+    "primaryTitleCn": "法兰西王后",
+    "titles": [
+      {
+        "title": "Queen of France",
+        "startYear": "",
+        "endYear": 1295,
+        "titleCn": "法兰西王后"
+      }
+    ],
+    "tags": [
+      "queen",
+      "consort"
+    ],
+    "rank": "queen",
+    "importanceScore": 60,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "c9970000-0000-4000-8000-000000000007",
+      "motherId": "c9980000-0000-4000-8000-000000000008",
+      "spouseIds": [
+        "91f35e74-2dd3-4393-9858-0fc6b5acc537"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "97ff73e2-e417-4fb3-8b15-90514584a442"
+      ]
+    },
+    "events": [
+      {
+        "year": 1221,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Margaret_of_Provence"
+      },
+      {
+        "year": 1295,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Margaret_of_Provence"
+      },
+      {
+        "year": 1234,
+        "month": 5,
+        "day": 27,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "queen"
+        ],
+        "weight": 75,
+        "label": "Marriage to Louis IX",
+        "labelCn": "与路易九世结婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Margaret_of_Provence",
+        "note": "Married Louis IX of France, eldest of the four daughters of Ramon Berenguer IV of Provence."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Margaret_of_Provence",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Margaret_of_Provence",
+    "sourceNote": "Parents synchronized with the Provençal succession.",
+    "notes": "Queen consort of Louis IX of France and eldest of the four Provençal sisters.",
+    "createdDate": "20260820",
+    "createdOrder": 42
+  },
+  {
+    "id": "78567b44-2170-4e3d-b85a-be845be240d2",
+    "firstName": "Isabella",
+    "lastName": "",
+    "displayName": "Isabella of Aragon",
+    "fullName": "Isabella of Aragon",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "阿拉贡的伊莎贝拉",
+    "fullNameCn": "阿拉贡的伊莎贝拉",
+    "nicknameCn": "",
+    "birthYear": 1247,
+    "deathYear": 1271,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "female",
+    "dynasty": "Barcelona dynasty",
+    "house": "House of Barcelona",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Queen of France",
+    "primaryTitleCn": "法兰西王后",
+    "titles": [
+      {
+        "title": "Queen of France",
+        "startYear": "",
+        "endYear": 1271,
+        "titleCn": "法兰西王后"
+      }
+    ],
+    "tags": [
+      "queen",
+      "consort"
+    ],
+    "rank": "queen",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "97ff73e2-e417-4fb3-8b15-90514584a442"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "699ff54a-5291-422d-8621-d0a127c5d24c"
+      ]
+    },
+    "events": [
+      {
+        "year": 1247,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Isabella_of_Aragon"
+      },
+      {
+        "year": 1271,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Isabella_of_Aragon"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Isabella_of_Aragon",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Isabella_of_Aragon",
+    "sourceNote": "Basic queen-consort card; relationship links synchronized with the French royal line.",
+    "notes": "Queen consort in the French royal succession.",
+    "createdDate": "20260820",
+    "createdOrder": 43
+  },
+  {
+    "id": "c9920000-0000-4000-8000-000000000002",
+    "firstName": "Ramon Berenguer",
+    "lastName": "of Barcelona",
+    "displayName": "Ramon Berenguer III of Barcelona",
+    "fullName": "Ramon Berenguer III of Barcelona",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "巴塞罗那的拉蒙·贝伦格尔三世",
+    "fullNameCn": "巴塞罗那的拉蒙·贝伦格尔三世",
+    "nicknameCn": "",
+    "birthYear": 1082,
+    "deathYear": 1131,
+    "birthPlace": "Provence",
+    "birthPlaceCn": "普罗旺斯",
+    "deathPlace": "Barcelona",
+    "deathPlaceCn": "巴塞罗那",
+    "gender": "male",
+    "dynasty": "Barcelona dynasty",
+    "house": "House of Barcelona",
+    "culture": "Occitan",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Barcelona and Provence",
+    "primaryTitleCn": "巴塞罗那与普罗旺斯伯爵",
+    "titles": [
+      {
+        "title": "Count of Provence",
+        "titleCn": "普罗旺斯伯爵",
+        "startYear": 1112,
+        "endYear": 1131
+      }
+    ],
+    "tags": [
+      "count",
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 70,
+    "historicalRating": 7,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "c9910000-0000-4000-8000-000000000001"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "c9930000-0000-4000-8000-000000000003",
+        "e1010000-0000-4000-8000-000000000005"
+      ]
+    },
+    "events": [
+      {
+        "year": 1097,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 76,
+        "label": "Became sole Count of Barcelona",
+        "labelCn": "成为巴塞罗那唯一伯爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ramon_Berenguer_III,_Count_of_Barcelona"
+      },
+      {
+        "year": 1112,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance",
+          "territory"
+        ],
+        "weight": 80,
+        "label": "Married Douce of Provence, gaining Provence",
+        "labelCn": "迎娶普罗旺斯的杜丝，取得普罗旺斯",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Douce_I,_Countess_of_Provence"
+      },
+      {
+        "year": 1114,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "conquest",
+          "commander"
+        ],
+        "weight": 86,
+        "label": "Led the Balearic expedition against Majorca and Ibiza",
+        "labelCn": "率军远征马略卡与伊维萨的巴利阿里群岛",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ramon_Berenguer_III,_Count_of_Barcelona"
+      },
+      {
+        "year": 1118,
+        "type": "conquest",
+        "tags": [
+          "conquest",
+          "territory",
+          "religion"
+        ],
+        "weight": 82,
+        "label": "Captured and rebuilt Tarragona",
+        "labelCn": "攻占并重建塔拉戈纳",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ramon_Berenguer_III,_Count_of_Barcelona"
+      },
+      {
+        "year": 1131,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 88,
+        "label": "Died at Barcelona, dividing his realm between his sons",
+        "labelCn": "在巴塞罗那去世，将领地分给诸子",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ramon_Berenguer_III,_Count_of_Barcelona"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Ramon_Berenguer_III,_Count_of_Barcelona",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Ramon_Berenguer_III,_Count_of_Barcelona",
+    "sourceNote": "Basic card for the County of Provence succession.",
+    "notes": "Co-ruled Provence through his marriage to the ruling countess Douce I.",
+    "createdDate": "20260823",
+    "createdOrder": 20
+  },
+  {
+    "id": "c9930000-0000-4000-8000-000000000003",
+    "firstName": "Berenguer Ramon",
+    "lastName": "of Provence",
+    "displayName": "Berenguer Ramon I of Provence",
+    "fullName": "Berenguer Ramon I of Provence",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "普罗旺斯的贝伦格尔·拉蒙一世",
+    "fullNameCn": "普罗旺斯的贝伦格尔·拉蒙一世",
+    "nicknameCn": "",
+    "birthYear": 1114,
+    "deathYear": 1144,
+    "birthPlace": "Provence",
+    "birthPlaceCn": "普罗旺斯",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "Barcelona dynasty",
+    "house": "House of Barcelona",
+    "culture": "Occitan",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Provence",
+    "primaryTitleCn": "普罗旺斯伯爵",
+    "titles": [
+      {
+        "title": "Count of Provence",
+        "titleCn": "普罗旺斯伯爵",
+        "startYear": 1131,
+        "endYear": 1144
+      }
+    ],
+    "tags": [
+      "count",
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "c9920000-0000-4000-8000-000000000002",
+      "motherId": "c9910000-0000-4000-8000-000000000001",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "c9940000-0000-4000-8000-000000000004"
+      ]
+    },
+    "events": [
+      {
+        "year": 1131,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 78,
+        "label": "Succeeded as Count of Provence",
+        "labelCn": "继承普罗旺斯伯爵之位",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Berenguer_Ramon_I,_Count_of_Provence",
+        "note": "On his father Ramon Berenguer III's death the realm was divided: his brother Ramon Berenguer IV took Barcelona while he received Provence, Gévaudan and the associated counties."
+      },
+      {
+        "year": 1135,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance",
+          "uncertain"
+        ],
+        "weight": 70,
+        "label": "Married Beatrice of Melgueil",
+        "labelCn": "与梅尔盖伊的贝亚特丽斯成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Berenguer_Ramon_I,_Count_of_Provence",
+        "note": "Countess of Melgueil; the marriage date is approximate, and she was the mother of his heir Ramon Berenguer II."
+      },
+      {
+        "year": 1144,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 72,
+        "label": "Died",
+        "labelCn": "去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Berenguer_Ramon_I,_Count_of_Provence",
+        "note": "Died in 1144; his son Ramon Berenguer II succeeded as a minor under the guardianship of Ramon Berenguer IV of Barcelona."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Berenguer_Ramon_I,_Count_of_Provence",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Berenguer_Ramon_I,_Count_of_Provence",
+    "sourceNote": "Basic card for the County of Provence succession.",
+    "notes": "Succeeded his parents in Provence after Ramon Berenguer III's death.",
+    "createdDate": "20260823",
+    "createdOrder": 21
+  },
+  {
+    "id": "c9940000-0000-4000-8000-000000000004",
+    "firstName": "Ramon Berenguer",
+    "lastName": "of Provence",
+    "displayName": "Ramon Berenguer II of Provence",
+    "fullName": "Ramon Berenguer II of Provence",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "普罗旺斯的拉蒙·贝伦格尔二世",
+    "fullNameCn": "普罗旺斯的拉蒙·贝伦格尔二世",
+    "nicknameCn": "",
+    "birthYear": 1135,
+    "deathYear": 1166,
+    "birthPlace": "Provence",
+    "birthPlaceCn": "普罗旺斯",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "Barcelona dynasty",
+    "house": "House of Barcelona",
+    "culture": "Occitan",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Provence",
+    "primaryTitleCn": "普罗旺斯伯爵",
+    "titles": [
+      {
+        "title": "Count of Provence",
+        "titleCn": "普罗旺斯伯爵",
+        "startYear": 1144,
+        "endYear": 1166
+      }
+    ],
+    "tags": [
+      "count",
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "c9930000-0000-4000-8000-000000000003",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1144,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title",
+          "regency"
+        ],
+        "weight": 76,
+        "label": "Succeeded as Count of Provence as a minor",
+        "labelCn": "幼年继承普罗旺斯伯爵之位",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ramon_Berenguer_II,_Count_of_Provence",
+        "note": "Succeeded his father in 1144 while still a child, with his uncle Ramon Berenguer IV of Barcelona acting as regent."
+      },
+      {
+        "year": 1166,
+        "type": "death",
+        "tags": [
+          "death",
+          "war",
+          "uncertain"
+        ],
+        "weight": 88,
+        "label": "Killed at the siege of Nice",
+        "labelCn": "围攻尼斯时被杀",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ramon_Berenguer_II,_Count_of_Provence",
+        "note": "Died in 1166 while besieging Nice; with no heir, Provence passed to his cousin Alfonso II of Aragon."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Ramon_Berenguer_II,_Count_of_Provence",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Ramon_Berenguer_II,_Count_of_Provence",
+    "sourceNote": "Basic card for the County of Provence succession.",
+    "notes": "Barcelona dynast who held Provence until the county passed to the Aragonese branch.",
+    "createdDate": "20260823",
+    "createdOrder": 22
+  },
+  {
+    "id": "c9950000-0000-4000-8000-000000000005",
+    "firstName": "Alfonso",
+    "lastName": "of Aragon",
+    "displayName": "Alfonso II of Aragon",
+    "fullName": "Alfonso II of Aragon",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "阿拉贡的阿方索二世",
+    "fullNameCn": "阿拉贡的阿方索二世",
+    "nicknameCn": "",
+    "birthYear": 1157,
+    "deathYear": 1196,
+    "birthPlace": "Provence",
+    "birthPlaceCn": "普罗旺斯",
+    "deathPlace": "Perpignan, Principality of Catalonia",
+    "deathPlaceCn": "加泰罗尼亚亲王国佩皮尼昂",
+    "gender": "male",
+    "dynasty": "Barcelona dynasty",
+    "house": "House of Barcelona",
+    "culture": "Occitan",
+    "faith": "Catholic",
+    "primaryTitle": "King of Aragon and Count of Provence",
+    "primaryTitleCn": "阿拉贡国王兼普罗旺斯伯爵",
+    "titles": [
+      {
+        "title": "Count of Provence",
+        "titleCn": "普罗旺斯伯爵",
+        "startYear": 1166,
+        "endYear": 1196
+      }
+    ],
+    "tags": [
+      "count",
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 70,
+    "historicalRating": 7,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "c9960000-0000-4000-8000-000000000006",
+        "34ddbe50-21e8-481f-93f4-f1a3cc000c1f"
+      ]
+    },
+    "events": [
+      {
+        "year": 1164,
+        "month": 7,
+        "day": 18,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "king",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Became King of Aragon and Count of Barcelona",
+        "labelCn": "成为阿拉贡国王兼巴塞罗那伯爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Alfonso_II_of_Aragon"
+      },
+      {
+        "year": 1166,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "territory"
+        ],
+        "weight": 76,
+        "label": "Acquired the County of Provence",
+        "labelCn": "取得普罗旺斯伯国",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Alfonso_II_of_Aragon"
+      },
+      {
+        "year": 1171,
+        "type": "conquest",
+        "tags": [
+          "conquest",
+          "territory",
+          "campaign"
+        ],
+        "weight": 82,
+        "label": "Conquered Teruel",
+        "labelCn": "攻占特鲁埃尔",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Alfonso_II_of_Aragon"
+      },
+      {
+        "year": 1179,
+        "type": "treaty",
+        "tags": [
+          "treaty",
+          "diplomacy",
+          "territory"
+        ],
+        "weight": 76,
+        "label": "Signed the Treaty of Cazorla with Castile",
+        "labelCn": "与卡斯蒂利亚签订卡索拉条约",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Treaty_of_Cazorla"
+      },
+      {
+        "year": 1196,
+        "month": 4,
+        "day": 25,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 88,
+        "label": "Died at Perpignan",
+        "labelCn": "在佩皮尼昂去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Alfonso_II_of_Aragon"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Alfonso_II_of_Aragon",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Alfonso_II_of_Aragon",
+    "sourceNote": "Basic card for the County of Provence succession.",
+    "notes": "Held Provence through the Barcelona-Aragon inheritance after the earlier Provençal line ended.",
+    "createdDate": "20260823",
+    "createdOrder": 23
+  },
+  {
+    "id": "c9960000-0000-4000-8000-000000000006",
+    "firstName": "Peter",
+    "lastName": "of Aragon",
+    "displayName": "Peter II of Aragon",
+    "fullName": "Peter II of Aragon",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "阿拉贡的佩德罗二世",
+    "fullNameCn": "阿拉贡的佩德罗二世",
+    "nicknameCn": "",
+    "birthYear": 1178,
+    "deathYear": 1213,
+    "birthPlace": "Provence",
+    "birthPlaceCn": "普罗旺斯",
+    "deathPlace": "Muret",
+    "deathPlaceCn": "米雷",
+    "gender": "male",
+    "dynasty": "Barcelona dynasty",
+    "house": "House of Barcelona",
+    "culture": "Occitan",
+    "faith": "Catholic",
+    "primaryTitle": "King of Aragon and Count of Provence",
+    "primaryTitleCn": "阿拉贡国王兼普罗旺斯伯爵",
+    "titles": [
+      {
+        "title": "Count of Provence",
+        "titleCn": "普罗旺斯伯爵",
+        "startYear": 1196,
+        "endYear": 1209
+      }
+    ],
+    "tags": [
+      "count",
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 60,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "c9950000-0000-4000-8000-000000000005",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1196,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "king",
+          "monarch"
+        ],
+        "weight": 78,
+        "label": "Succeeded as King of Aragon",
+        "labelCn": "继位为阿拉贡国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Peter_II_of_Aragon",
+        "note": "Succeeded his father Alfonso II as King of Aragon and Count of Barcelona."
+      },
+      {
+        "year": 1204,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "king",
+          "religion"
+        ],
+        "weight": 82,
+        "label": "Crowned by Pope Innocent III in Rome",
+        "labelCn": "在罗马由教宗英诺森三世加冕",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Peter_II_of_Aragon",
+        "note": "Received his crown from Pope Innocent III in Rome (some sources give 1205), the first king of Aragon crowned by the pope, and acknowledged papal suzerainty."
+      },
+      {
+        "year": 1213,
+        "month": 9,
+        "day": 12,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "commander",
+          "defeat",
+          "death"
+        ],
+        "weight": 95,
+        "label": "Killed at the Battle of Muret",
+        "labelCn": "在米雷战役中阵亡",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Muret",
+        "note": "Killed fighting Simon de Montfort's crusaders at Muret while defending his Languedoc vassals during the Albigensian Crusade."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Peter_II_of_Aragon",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Peter_II_of_Aragon",
+    "sourceNote": "Wikipedia 'Peter II of Aragon'; Encyclopædia Britannica (cross-checked).",
+    "notes": "King of Aragon and Count of Barcelona from 1196, he placed his crown under papal suzerainty and fought with the Christian coalition at Las Navas de Tolosa in 1212. His death at Muret in 1213 ended Aragonese hegemony in southern France and left his young son, the future James I the Conqueror, to succeed him.",
+    "createdDate": "20260823",
+    "createdOrder": 24,
+    "deathCause": {
+      "kind": "violent",
+      "summary": "Killed at the Battle of Muret",
+      "summaryCn": "在米雷战役中阵亡",
+      "detail": "Fought in ordinary armour and was struck down and killed at the Battle of Muret on 12 September 1213, fighting Simon de Montfort's crusaders during the Albigensian Crusade.",
+      "detailCn": "1213年9月12日在米雷战役中身穿普通铠甲作战，被西蒙·德·蒙福尔的十字军击倒身亡；时值阿尔比十字军期间，他为保卫朗格多克封臣而战。",
+      "culprit": "Simon de Montfort's crusaders",
+      "culpritCn": "西蒙·德·蒙福尔的十字军",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Muret"
+    }
+  },
+  {
+    "id": "c9970000-0000-4000-8000-000000000007",
+    "firstName": "Ramon Berenguer",
+    "lastName": "of Provence",
+    "displayName": "Ramon Berenguer V of Provence",
+    "fullName": "Ramon Berenguer V of Provence",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "普罗旺斯的拉蒙·贝伦格尔五世",
+    "fullNameCn": "普罗旺斯的拉蒙·贝伦格尔五世",
+    "nicknameCn": "",
+    "birthYear": 1198,
+    "deathYear": 1245,
+    "birthPlace": "Provence",
+    "birthPlaceCn": "普罗旺斯",
+    "deathPlace": "Aix-en-Provence",
+    "deathPlaceCn": "普罗旺斯地区艾克斯",
+    "gender": "male",
+    "dynasty": "Barcelona dynasty",
+    "house": "House of Barcelona",
+    "culture": "Occitan",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Provence",
+    "primaryTitleCn": "普罗旺斯伯爵",
+    "titles": [
+      {
+        "title": "Count of Provence",
+        "titleCn": "普罗旺斯伯爵",
+        "startYear": 1209,
+        "endYear": 1245
+      }
+    ],
+    "tags": [
+      "count",
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 70,
+    "historicalRating": 7,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "c9980000-0000-4000-8000-000000000008"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "5927afa9-324c-4528-a78b-cd60518f5437",
+        "75962d8f-fcb5-4eb5-8b8c-46271504a66d",
+        "c9990000-0000-4000-8000-000000000009",
+        "c1000000-0000-4000-8000-000000000010"
+      ]
+    },
+    "events": [
+      {
+        "year": 1209,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 78,
+        "label": "Succeeded as Count of Provence",
+        "labelCn": "继承普罗旺斯伯爵之位",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ramon_Berenguer_IV,_Count_of_Provence"
+      },
+      {
+        "year": 1219,
+        "month": 6,
+        "day": 5,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 74,
+        "label": "Married Beatrice of Savoy",
+        "labelCn": "与萨伏依的贝亚特丽斯成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Beatrice_of_Savoy"
+      },
+      {
+        "year": 1234,
+        "type": "diplomacy",
+        "tags": [
+          "diplomacy",
+          "dynastic_alliance",
+          "marriage"
+        ],
+        "weight": 76,
+        "label": "Married daughter Margaret to Louis IX of France",
+        "labelCn": "将女儿玛格丽特嫁与法国国王路易九世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Margaret_of_Provence"
+      },
+      {
+        "year": 1236,
+        "type": "diplomacy",
+        "tags": [
+          "diplomacy",
+          "dynastic_alliance",
+          "marriage"
+        ],
+        "weight": 76,
+        "label": "Married daughter Eleanor to Henry III of England",
+        "labelCn": "将女儿埃莉诺嫁与英格兰国王亨利三世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Eleanor_of_Provence"
+      },
+      {
+        "year": 1245,
+        "month": 8,
+        "day": 19,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 88,
+        "label": "Died at Aix-en-Provence",
+        "labelCn": "在普罗旺斯地区艾克斯去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ramon_Berenguer_IV,_Count_of_Provence"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Ramon_Berenguer_IV,_Count_of_Provence",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Ramon_Berenguer_IV,_Count_of_Provence",
+    "sourceNote": "Basic card for the County of Provence succession.",
+    "notes": "Father of the four celebrated Provençal sisters; his dynastic marriages linked Provence to the French and English royal worlds.",
+    "createdDate": "20260823",
+    "createdOrder": 25
+  },
+  {
+    "id": "c9990000-0000-4000-8000-000000000009",
+    "firstName": "Sanchia",
+    "lastName": "of Provence",
+    "displayName": "Sanchia of Provence",
+    "fullName": "Sanchia of Provence",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "普罗旺斯的桑夏",
+    "fullNameCn": "普罗旺斯的桑夏",
+    "nicknameCn": "",
+    "birthYear": 1225,
+    "deathYear": 1261,
+    "birthPlace": "Provence",
+    "birthPlaceCn": "普罗旺斯",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "female",
+    "dynasty": "Barcelona dynasty",
+    "house": "House of Barcelona",
+    "culture": "Occitan",
+    "faith": "Catholic",
+    "primaryTitle": "Queen of the Romans",
+    "primaryTitleCn": "罗马人的王后",
+    "titles": [
+      {
+        "title": "Queen of the Romans",
+        "titleCn": "罗马人的王后",
+        "startYear": 1257,
+        "endYear": 1261
+      }
+    ],
+    "tags": [
+      "queen",
+      "consort",
+      "noble"
+    ],
+    "rank": "queen",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "c9970000-0000-4000-8000-000000000007",
+      "motherId": "c9980000-0000-4000-8000-000000000008",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1243,
+        "month": 11,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 74,
+        "label": "Married Richard, Earl of Cornwall",
+        "labelCn": "与康沃尔伯爵理查成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Sanchia_of_Provence",
+        "note": "Third of the Provençal sisters, she married Richard of Cornwall at Westminster in November 1243."
+      },
+      {
+        "year": 1257,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "queen",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Became Queen of the Romans",
+        "labelCn": "成为罗马人的王后",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Sanchia_of_Provence",
+        "note": "When Richard was elected King of the Romans in 1257, Sanchia became Queen of the Romans, though he was never crowned emperor."
+      },
+      {
+        "year": 1261,
+        "month": 11,
+        "day": 9,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 78,
+        "label": "Died at Berkhamsted",
+        "labelCn": "在伯克哈姆斯泰德去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Sanchia_of_Provence",
+        "note": "Died on 9 November 1261 at Berkhamsted Castle, the first of the four sisters to die."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Sanchia_of_Provence",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Sanchia_of_Provence",
+    "sourceNote": "Basic card for the County of Provence succession.",
+    "notes": "Third of the Provençal sisters; married Richard, Earl of Cornwall. No duplicate spouse card is created because he is not in the current roster.",
+    "createdDate": "20260823",
+    "createdOrder": 27
+  },
+  {
+    "id": "c1000000-0000-4000-8000-000000000010",
+    "firstName": "Beatrice",
+    "lastName": "of Provence",
+    "displayName": "Beatrice of Provence",
+    "fullName": "Beatrice of Provence",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "普罗旺斯的贝亚特丽斯",
+    "fullNameCn": "普罗旺斯的贝亚特丽斯",
+    "nicknameCn": "",
+    "birthYear": 1234,
+    "deathYear": 1267,
+    "birthPlace": "Provence",
+    "birthPlaceCn": "普罗旺斯",
+    "deathPlace": "Nocera, Kingdom of Naples",
+    "deathPlaceCn": "那不勒斯王国诺切拉",
+    "gender": "female",
+    "dynasty": "Barcelona dynasty",
+    "house": "House of Barcelona",
+    "culture": "Occitan",
+    "faith": "Catholic",
+    "primaryTitle": "Countess of Provence",
+    "primaryTitleCn": "普罗旺斯女伯爵",
+    "titles": [
+      {
+        "title": "Countess of Provence",
+        "titleCn": "普罗旺斯女伯爵",
+        "startYear": 1245,
+        "endYear": 1267
+      }
+    ],
+    "tags": [
+      "count",
+      "ruler",
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 70,
+    "historicalRating": 7,
+    "relationships": {
+      "fatherId": "c9970000-0000-4000-8000-000000000007",
+      "motherId": "c9980000-0000-4000-8000-000000000008",
+      "spouseIds": [
+        "c1001000-0000-4000-8000-000000000011"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "c1002000-0000-4000-8000-000000000012"
+      ]
+    },
+    "events": [
+      {
+        "year": 1245,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "territory"
+        ],
+        "weight": 80,
+        "label": "Inherited Provence and Forcalquier as ruling countess",
+        "labelCn": "继承普罗旺斯与福卡尔基耶成为女伯爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Beatrice_of_Provence"
+      },
+      {
+        "year": 1246,
+        "month": 1,
+        "day": 31,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 78,
+        "label": "Married Charles of Anjou at Aix-en-Provence",
+        "labelCn": "在艾克斯与安茹的查理成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Beatrice_of_Provence"
+      },
+      {
+        "year": 1254,
+        "type": "childbirth",
+        "tags": [
+          "dynasty",
+          "succession"
+        ],
+        "weight": 60,
+        "label": "Gave birth to Charles II, future King of Naples",
+        "labelCn": "生下未来的那不勒斯国王查理二世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Charles_II_of_Naples"
+      },
+      {
+        "year": 1266,
+        "month": 1,
+        "day": 6,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "queen",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Crowned Queen of Sicily with Charles I",
+        "labelCn": "与查理一世同加冕为西西里王后",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Beatrice_of_Provence"
+      },
+      {
+        "year": 1267,
+        "month": 9,
+        "day": 23,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 88,
+        "label": "Died at Nocera",
+        "labelCn": "在诺切拉去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Beatrice_of_Provence"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Beatrice_of_Provence",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Beatrice_of_Provence",
+    "sourceNote": "Basic card for the County of Provence succession.",
+    "notes": "Ruling countess in her own right; her marriage to Charles of Anjou brought Provence into the French royal orbit, not the French royal domain.",
+    "createdDate": "20260823",
+    "createdOrder": 28
+  },
+  {
+    "id": "c1033000-0000-4000-8000-000000000008",
+    "firstName": "Berengaria",
+    "lastName": "of Barcelona",
+    "displayName": "Berengaria of Barcelona",
+    "fullName": "Berengaria of Barcelona",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "巴塞罗那的贝伦加丽亚",
+    "fullNameCn": "巴塞罗那的贝伦加丽亚",
+    "birthYear": 1116,
+    "deathYear": 1149,
+    "birthPlace": "Kingdom of Castile",
+    "birthPlaceCn": "卡斯蒂利亚王国",
+    "deathPlace": "Palencia",
+    "deathPlaceCn": "帕伦西亚",
+    "gender": "female",
+    "dynasty": "Barcelona dynasty",
+    "house": "House of Barcelona",
+    "culture": "Catalan",
+    "faith": "Catholic",
+    "primaryTitle": "Queen of León and Castile",
+    "primaryTitleCn": "莱昂与卡斯蒂利亚王后",
+    "titles": [
+      {
+        "title": "Queen of León and Castile",
+        "titleCn": "莱昂与卡斯蒂利亚王后",
+        "startYear": 1128,
+        "endYear": 1149
+      }
+    ],
+    "tags": [
+      "queen",
+      "consort",
+      "noble"
+    ],
+    "rank": "queen",
+    "importanceScore": 60,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "c1032000-0000-4000-8000-000000000007"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "c9010000-0000-4000-8000-000000000001"
+      ]
+    },
+    "events": [
+      {
+        "year": 1128,
+        "month": 11,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance",
+          "dynasty"
+        ],
+        "weight": 76,
+        "label": "Marriage to Alfonso VII",
+        "labelCn": "与阿方索七世结婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Berengaria_of_Barcelona",
+        "note": "Married Alfonso VII at Saldaña in November 1128, becoming queen consort of León, Castile and Galicia."
+      },
+      {
+        "year": 1139,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "queen",
+          "government"
+        ],
+        "weight": 80,
+        "label": "Defended Toledo against the Moors",
+        "labelCn": "保卫托莱多抵御摩尔人",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Berengaria_of_Barcelona",
+        "note": "While Alfonso VII was campaigning elsewhere, she organised the defence of Toledo against a Muslim attack."
+      },
+      {
+        "year": 1149,
+        "month": 1,
+        "day": 15,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 85,
+        "label": "Death at Palencia",
+        "labelCn": "在帕伦西亚去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Berengaria_of_Barcelona",
+        "note": "Died on 15 January 1149 at Palencia and was buried in the Cathedral of Santiago de Compostela."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Berengaria_of_Barcelona",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Berengaria_of_Barcelona",
+    "sourceNote": "Chronica Adefonsi Imperatoris; Wikipedia 'Berengaria of Barcelona' (cross-checked).",
+    "notes": "Daughter of Ramon Berenguer III of Barcelona and Douce I of Provence, she married Alfonso VII in 1128 and became his queen and, from 1135, empress consort. She secured the succession by bearing Sancho III, Ferdinand II and Constance (the future queen of France).",
+    "createdDate": "20260823",
+    "createdOrder": 70
+  },
+  {
+    "id": "e1010000-0000-4000-8000-000000000005",
+    "firstName": "Ramon Berenguer",
+    "lastName": "of Barcelona",
+    "displayName": "Ramon Berenguer IV of Barcelona",
+    "fullName": "Ramon Berenguer IV, Count of Barcelona",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [
+      "Ramón Berenguer IV"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "巴塞罗那的拉蒙·贝伦格尔四世",
+    "fullNameCn": "巴塞罗那伯爵拉蒙·贝伦格尔四世",
+    "birthYear": 1114,
+    "deathYear": 1162,
+    "birthPlace": "County of Barcelona",
+    "birthPlaceCn": "巴塞罗那伯国",
+    "deathPlace": "Borgo San Dalmazzo, Piedmont",
+    "deathPlaceCn": "皮埃蒙特博尔戈圣达尔马佐",
+    "gender": "male",
+    "dynasty": "Barcelona dynasty",
+    "house": "House of Barcelona",
+    "culture": "Catalan",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Barcelona",
+    "primaryTitleCn": "巴塞罗那伯爵",
+    "titles": [
+      {
+        "title": "Count of Barcelona",
+        "titleCn": "巴塞罗那伯爵",
+        "startYear": 1131,
+        "endYear": 1162
+      },
+      {
+        "title": "Prince of Aragon",
+        "titleCn": "阿拉贡亲王",
+        "startYear": 1137,
+        "endYear": 1162
+      }
+    ],
+    "tags": [
+      "count",
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 75,
+    "historicalRating": 7,
+    "relationships": {
+      "fatherId": "c9920000-0000-4000-8000-000000000002",
+      "motherId": "",
+      "spouseIds": [
+        "e1010000-0000-4000-8000-000000000004"
+      ],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1131,
+        "month": 8,
+        "day": 19,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 78,
+        "label": "Succeeded as Count of Barcelona",
+        "labelCn": "继承巴塞罗那伯爵之位",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ramon_Berenguer_IV,_Count_of_Barcelona"
+      },
+      {
+        "year": 1137,
+        "type": "dynasty",
+        "tags": [
+          "dynasty",
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 84,
+        "label": "Betrothed to Petronilla, becoming Prince of Aragon",
+        "labelCn": "与佩特罗妮拉订婚，成为阿拉贡亲王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ramon_Berenguer_IV,_Count_of_Barcelona"
+      },
+      {
+        "year": 1148,
+        "month": 12,
+        "type": "conquest",
+        "tags": [
+          "conquest",
+          "territory",
+          "campaign"
+        ],
+        "weight": 86,
+        "label": "Conquered Tortosa",
+        "labelCn": "攻占托尔托萨",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ramon_Berenguer_IV,_Count_of_Barcelona"
+      },
+      {
+        "year": 1149,
+        "type": "conquest",
+        "tags": [
+          "conquest",
+          "territory",
+          "campaign"
+        ],
+        "weight": 84,
+        "label": "Conquered Lleida and Fraga",
+        "labelCn": "攻占莱里达与弗拉加",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ramon_Berenguer_IV,_Count_of_Barcelona"
+      },
+      {
+        "year": 1162,
+        "month": 8,
+        "day": 6,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 90,
+        "label": "Died at Borgo San Dalmazzo",
+        "labelCn": "在博尔戈圣达尔马佐去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ramon_Berenguer_IV,_Count_of_Barcelona"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Ramon_Berenguer_IV,_Count_of_Barcelona",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Ramon_Berenguer_IV,_Count_of_Barcelona",
+    "sourceNote": "Basic card for the Kingdom of Aragon succession.",
+    "notes": "Count of Barcelona and Prince of Aragon by his marriage to Petronilla. Their union joined Aragon and Barcelona but he never bore the title King of Aragon.",
+    "createdDate": "20260823",
+    "createdOrder": 90
+  }
+]

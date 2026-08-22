@@ -1,0 +1,2615 @@
+[
+  {
+    "id": "c1026000-0000-4000-8000-000000000001",
+    "firstName": "Ferdinand",
+    "lastName": "of León and Castile",
+    "displayName": "Ferdinand I of León and Castile",
+    "fullName": "Ferdinand I of León and Castile",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "莱昂与卡斯蒂利亚的费尔南多一世",
+    "fullNameCn": "莱昂与卡斯蒂利亚的费尔南多一世",
+    "birthYear": 1015,
+    "deathYear": 1065,
+    "birthPlace": "Kingdom of Castile",
+    "birthPlaceCn": "卡斯蒂利亚王国",
+    "deathPlace": "León",
+    "deathPlaceCn": "莱昂",
+    "gender": "male",
+    "dynasty": "Jiménez dynasty",
+    "house": "House of Jiménez",
+    "culture": "Castilian",
+    "faith": "Catholic",
+    "primaryTitle": "King of Castile",
+    "primaryTitleCn": "卡斯蒂利亚国王",
+    "titles": [
+      {
+        "title": "King of Castile",
+        "titleCn": "卡斯蒂利亚国王",
+        "startYear": 1037,
+        "endYear": 1065
+      }
+    ],
+    "tags": [
+      "monarch",
+      "noble"
+    ],
+    "rank": "king",
+    "importanceScore": 80,
+    "historicalRating": 8,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "c1027000-0000-4000-8000-000000000002",
+        "c1028000-0000-4000-8000-000000000003"
+      ]
+    },
+    "events": [
+      {
+        "year": 1032,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance",
+          "dynasty"
+        ],
+        "weight": 72,
+        "label": "Marriage to Sancha of León",
+        "labelCn": "与莱昂的桑查结婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ferdinand_I_of_Le%C3%B3n",
+        "note": "Sancha was the sister and heiress of Bermudo III of León, giving Ferdinand his claim to the Leonese throne."
+      },
+      {
+        "year": 1037,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "commander",
+          "conquest",
+          "war"
+        ],
+        "weight": 93,
+        "label": "Battle of Tamarón",
+        "labelCn": "塔马龙战役",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Tamar%C3%B3n",
+        "note": "Defeated and killed his brother-in-law Bermudo III of León, clearing the way to the Leonese crown."
+      },
+      {
+        "year": 1038,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "title",
+          "king"
+        ],
+        "weight": 80,
+        "label": "Crowned King of León",
+        "labelCn": "加冕为莱昂国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ferdinand_I_of_Le%C3%B3n",
+        "note": "Anointed king in León, uniting Castile and León under one ruler and later assuming imperial styling."
+      },
+      {
+        "year": 1054,
+        "month": 9,
+        "day": 15,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "commander",
+          "defeat",
+          "war"
+        ],
+        "weight": 92,
+        "label": "Battle of Atapuerca",
+        "labelCn": "阿塔普埃尔卡战役",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Atapuerca",
+        "note": "Defeated and killed his elder brother García Sánchez III of Navarre, annexing the Bureba region."
+      },
+      {
+        "year": 1057,
+        "type": "conquest",
+        "tags": [
+          "conquest",
+          "campaign",
+          "territory",
+          "war"
+        ],
+        "weight": 84,
+        "label": "Conquest of Lamego and Viseu",
+        "labelCn": "攻占拉梅古与维塞乌",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ferdinand_I_of_Le%C3%B3n",
+        "note": "Drove the Muslim taifas back along the frontier, capturing Lamego (1057) and Viseu (1058)."
+      },
+      {
+        "year": 1064,
+        "type": "conquest",
+        "tags": [
+          "conquest",
+          "campaign",
+          "territory",
+          "war"
+        ],
+        "weight": 88,
+        "label": "Conquest of Coimbra",
+        "labelCn": "攻占科英布拉",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ferdinand_I_of_Le%C3%B3n",
+        "note": "Took the stronghold of Coimbra after a long siege, a landmark advance of the Reconquista."
+      },
+      {
+        "year": 1065,
+        "month": 12,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 85,
+        "label": "Death at León",
+        "labelCn": "在莱昂去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ferdinand_I_of_Le%C3%B3n",
+        "note": "Died in León after falling ill; sources give the date as 24 or 27 December 1065."
+      },
+      {
+        "year": 1065,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "dynasty",
+          "government"
+        ],
+        "weight": 80,
+        "label": "Partition of the realm",
+        "labelCn": "王国分封",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ferdinand_I_of_Le%C3%B3n",
+        "note": "Divided the realm among his sons: Sancho II received Castile, Alfonso VI received León, and García II received Galicia."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Ferdinand_I_of_Le%C3%B3n",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Ferdinand_I_of_Le%C3%B3n",
+    "sourceNote": "Encyclopædia Britannica; The New International Encyclopædia; Wikipedia (cross-checked).",
+    "notes": "Second son of Sancho III of Navarre, he became the first king of a united Castile and León. His conquest of Coimbra and the tribute he imposed on the Muslim taifas marked a decisive stage of the Reconquista. His decision to divide the realm among his sons in 1065 triggered decades of fratricidal conflict; the exact day of his death is uncertain.",
+    "createdDate": "20260823",
+    "createdOrder": 64,
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died of illness",
+      "summaryCn": "病逝",
+      "detail": "Fell ill during the campaign against Valencia and died in León; the sources give the date as 24 or 27 December 1065.",
+      "detailCn": "在对巴伦西亚的征战中染病，后于莱昂去世；史料记载日期为1065年12月24日或27日。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Ferdinand_I_of_Le%C3%B3n"
+    }
+  },
+  {
+    "id": "c1027000-0000-4000-8000-000000000002",
+    "firstName": "Sancho",
+    "lastName": "of Castile",
+    "displayName": "Sancho II of Castile",
+    "fullName": "Sancho II of Castile",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "卡斯蒂利亚的桑乔二世",
+    "fullNameCn": "卡斯蒂利亚的桑乔二世",
+    "birthYear": 1036,
+    "deathYear": 1072,
+    "birthPlace": "Kingdom of Castile",
+    "birthPlaceCn": "卡斯蒂利亚王国",
+    "deathPlace": "Zamora",
+    "deathPlaceCn": "萨莫拉",
+    "gender": "male",
+    "dynasty": "Jiménez dynasty",
+    "house": "House of Jiménez",
+    "culture": "Castilian",
+    "faith": "Catholic",
+    "primaryTitle": "King of Castile",
+    "primaryTitleCn": "卡斯蒂利亚国王",
+    "titles": [
+      {
+        "title": "King of Castile",
+        "titleCn": "卡斯蒂利亚国王",
+        "startYear": 1065,
+        "endYear": 1072
+      }
+    ],
+    "tags": [
+      "monarch",
+      "noble"
+    ],
+    "rank": "king",
+    "importanceScore": 60,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "c1026000-0000-4000-8000-000000000001",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1065,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "dynasty",
+          "king"
+        ],
+        "weight": 78,
+        "label": "Inherited Castile in the partition",
+        "labelCn": "在王国分封中继承卡斯蒂利亚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Sancho_II_of_Castile",
+        "note": "Received the Kingdom of Castile in his father Ferdinand I's division of 1065, with León going to Alfonso VI and Galicia to García II."
+      },
+      {
+        "year": 1072,
+        "month": 1,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "commander",
+          "conquest",
+          "war"
+        ],
+        "weight": 92,
+        "label": "Battle of Golpejera",
+        "labelCn": "戈尔佩赫拉战役",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Golpejera",
+        "note": "Defeated and captured his brother Alfonso VI, then seized León and assumed the imperial title."
+      },
+      {
+        "year": 1072,
+        "month": 10,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 90,
+        "label": "Assassinated at the Siege of Zamora",
+        "labelCn": "在萨莫拉围城战中遇刺身亡",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Sancho_II_of_Castile",
+        "note": "Killed while besieging the city of Zamora, traditionally by the nobleman Vellido Dolfos; sources give 6 or 7 October 1072."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Sancho_II_of_Castile",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Sancho_II_of_Castile",
+    "sourceNote": "Encyclopædia Britannica; Bernard F. Reilly, The Kingdom of León-Castilla; Wikipedia (cross-checked).",
+    "notes": "Eldest son of Ferdinand I, he received Castile in the 1065 partition and drove his brother Alfonso VI out of León after the Battle of Golpejera in 1072. His assassination while besieging Zamora later that year allowed Alfonso to reunite the realm; the identity of his killer remains uncertain.",
+    "createdDate": "20260823",
+    "createdOrder": 65,
+    "deathCause": {
+      "kind": "violent",
+      "summary": "Assassinated at the Siege of Zamora",
+      "summaryCn": "在萨莫拉围城战中被刺杀",
+      "detail": "Killed in October 1072 while besieging Zamora, traditionally by the nobleman Vellido Dolfos; the exact date (6 or 7 October) and the identity of his killer are uncertain.",
+      "detailCn": "1072年10月在围攻萨莫拉时被杀，传统说法为贵族贝利多·多尔福斯所为；确切日期（10月6日或7日）与凶手身份存疑。",
+      "culprit": "Vellido Dolfos (traditional)",
+      "culpritCn": "贝利多·多尔福斯（传统说法）",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Sancho_II_of_Castile"
+    }
+  },
+  {
+    "id": "c1028000-0000-4000-8000-000000000003",
+    "firstName": "Alfonso",
+    "lastName": "of León and Castile",
+    "displayName": "Alfonso VI of León and Castile",
+    "fullName": "Alfonso VI of León and Castile",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "莱昂与卡斯蒂利亚的阿方索六世",
+    "fullNameCn": "莱昂与卡斯蒂利亚的阿方索六世",
+    "birthYear": 1040,
+    "deathYear": 1109,
+    "birthPlace": "Kingdom of Castile",
+    "birthPlaceCn": "卡斯蒂利亚王国",
+    "deathPlace": "Toledo",
+    "deathPlaceCn": "托莱多",
+    "gender": "male",
+    "dynasty": "Jiménez dynasty",
+    "house": "House of Jiménez",
+    "culture": "Castilian",
+    "faith": "Catholic",
+    "primaryTitle": "King of Castile",
+    "primaryTitleCn": "卡斯蒂利亚国王",
+    "titles": [
+      {
+        "title": "King of Castile",
+        "titleCn": "卡斯蒂利亚国王",
+        "startYear": 1072,
+        "endYear": 1109
+      }
+    ],
+    "tags": [
+      "monarch",
+      "noble"
+    ],
+    "rank": "king",
+    "importanceScore": 80,
+    "historicalRating": 8,
+    "relationships": {
+      "fatherId": "c1026000-0000-4000-8000-000000000001",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "c1029000-0000-4000-8000-000000000004"
+      ]
+    },
+    "events": [
+      {
+        "year": 1065,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "succession",
+          "king"
+        ],
+        "weight": 74,
+        "label": "Inherited the Kingdom of León",
+        "labelCn": "继承莱昂王国",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Alfonso_VI_of_Le%C3%B3n_and_Castile",
+        "note": "Received León in his father Ferdinand I's partition of 1065."
+      },
+      {
+        "year": 1072,
+        "type": "exile",
+        "tags": [
+          "exile",
+          "defeat",
+          "politics"
+        ],
+        "weight": 82,
+        "label": "Defeat at Golpejera and exile in Toledo",
+        "labelCn": "戈尔佩赫拉战败并流亡托莱多",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Golpejera",
+        "note": "Defeated and briefly imprisoned by his brother Sancho II, then took refuge at the court of al-Ma'mun of Toledo."
+      },
+      {
+        "year": 1072,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "government",
+          "king"
+        ],
+        "weight": 85,
+        "label": "Reunited León and Castile",
+        "labelCn": "重新统一莱昂与卡斯蒂利亚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Alfonso_VI_of_Le%C3%B3n_and_Castile",
+        "note": "Returned to power after Sancho II was killed at Zamora, reuniting the three kingdoms of his father."
+      },
+      {
+        "year": 1077,
+        "type": "title",
+        "tags": [
+          "title",
+          "king",
+          "government"
+        ],
+        "weight": 78,
+        "label": "Proclaimed Imperator totius Hispaniae",
+        "labelCn": "自称全西班牙皇帝",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Alfonso_VI_of_Le%C3%B3n_and_Castile",
+        "note": "Assumed the imperial title 'Emperor of All Spain', asserting supremacy over the Christian peninsula."
+      },
+      {
+        "year": 1079,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance",
+          "dynasty"
+        ],
+        "weight": 72,
+        "label": "Marriage to Constance of Burgundy",
+        "labelCn": "与勃艮第的康斯坦丝结婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Alfonso_VI_of_Le%C3%B3n_and_Castile",
+        "note": "Constance, of the Burgundian ducal house, became the mother of his heiress Urraca."
+      },
+      {
+        "year": 1081,
+        "type": "exile",
+        "tags": [
+          "exile",
+          "politics"
+        ],
+        "weight": 75,
+        "label": "Exile of El Cid",
+        "labelCn": "流放熙德",
+        "wikiUrl": "https://en.wikipedia.org/wiki/El_Cid",
+        "note": "Banished Rodrigo Díaz de Vivar (El Cid), who went on to serve the Muslim rulers of Zaragoza before conquering Valencia."
+      },
+      {
+        "year": 1085,
+        "month": 5,
+        "day": 25,
+        "type": "conquest",
+        "tags": [
+          "conquest",
+          "territory",
+          "war",
+          "king"
+        ],
+        "weight": 97,
+        "label": "Conquest of Toledo",
+        "labelCn": "攻克托莱多",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Taifa_of_Toledo",
+        "note": "The old Visigothic capital fell, the greatest single milestone of the Reconquista."
+      },
+      {
+        "year": 1086,
+        "month": 10,
+        "day": 23,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "commander",
+          "defeat",
+          "war"
+        ],
+        "weight": 95,
+        "label": "Battle of Sagrajas",
+        "labelCn": "萨格拉哈斯战役",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Sagrajas",
+        "note": "Suffered a heavy defeat at the hands of the Almoravids under Yusuf ibn Tashfin, though Toledo was retained."
+      },
+      {
+        "year": 1108,
+        "month": 5,
+        "day": 29,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "defeat",
+          "war"
+        ],
+        "weight": 90,
+        "label": "Battle of Uclés",
+        "labelCn": "乌克莱斯战役",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Ucl%C3%A9s_(1108)",
+        "note": "The Almoravids routed the Christian army and killed Sancho Alfónsez, Alfonso's only son and heir."
+      },
+      {
+        "year": 1109,
+        "month": 7,
+        "day": 1,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 85,
+        "label": "Death in Toledo",
+        "labelCn": "在托莱多去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Alfonso_VI_of_Le%C3%B3n_and_Castile",
+        "note": "Died in Toledo on 1 July 1109 (some sources give 30 June) while preparing to defend the city."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Alfonso_VI_of_Le%C3%B3n_and_Castile",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Alfonso_VI_of_Le%C3%B3n_and_Castile",
+    "sourceNote": "Encyclopædia Britannica; Bernard F. Reilly, The Kingdom of León-Castilla under King Alfonso VI; Wikipedia (cross-checked).",
+    "notes": "Reunited León and Castile after Sancho II's death and proclaimed himself Imperator totius Hispaniae; his conquest of Toledo in 1085 was the great milestone of the Reconquista. The Almoravid counter-offensive, with defeats at Sagrajas (1086) and Uclés (1108, where his heir died), shadowed his later reign. His death without a male heir opened the way for his daughter Urraca, the first queen regnant of León and Castile.",
+    "createdDate": "20260823",
+    "createdOrder": 66,
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died peacefully of natural causes",
+      "summaryCn": "自然死亡，安详离世",
+      "detail": "Died in Toledo on 1 July 1109 (some sources give 30 June), aged about 69, while preparing to defend the city against the Almoravids.",
+      "detailCn": "1109年7月1日（一说6月30日）在托莱多去世，享年约69岁，当时正准备抵御阿尔摩拉维德人的进攻。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Alfonso_VI_of_Le%C3%B3n_and_Castile"
+    }
+  },
+  {
+    "id": "c1029000-0000-4000-8000-000000000004",
+    "firstName": "Urraca",
+    "lastName": "of León and Castile",
+    "displayName": "Urraca I of León and Castile",
+    "fullName": "Urraca I of León and Castile",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "莱昂与卡斯蒂利亚的乌拉卡一世",
+    "fullNameCn": "莱昂与卡斯蒂利亚的乌拉卡一世",
+    "birthYear": 1079,
+    "deathYear": 1126,
+    "birthPlace": "Kingdom of Castile",
+    "birthPlaceCn": "卡斯蒂利亚王国",
+    "deathPlace": "Saldaña, Palencia",
+    "deathPlaceCn": "萨尔达尼亚（帕伦西亚）",
+    "gender": "female",
+    "dynasty": "Jiménez dynasty",
+    "house": "House of Jiménez",
+    "culture": "Castilian",
+    "faith": "Catholic",
+    "primaryTitle": "Queen of Castile",
+    "primaryTitleCn": "卡斯蒂利亚女王",
+    "titles": [
+      {
+        "title": "Queen of Castile",
+        "titleCn": "卡斯蒂利亚女王",
+        "startYear": 1109,
+        "endYear": 1126
+      }
+    ],
+    "tags": [
+      "monarch",
+      "queen",
+      "noble"
+    ],
+    "rank": "queen",
+    "importanceScore": 80,
+    "historicalRating": 8,
+    "relationships": {
+      "fatherId": "c1028000-0000-4000-8000-000000000003",
+      "motherId": "",
+      "spouseIds": [
+        "c1030000-0000-4000-8000-000000000005",
+        "d1010000-0000-4000-8000-000000000010"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "c1032000-0000-4000-8000-000000000007"
+      ]
+    },
+    "events": [
+      {
+        "year": 1090,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance",
+          "dynasty"
+        ],
+        "weight": 72,
+        "label": "Marriage to Raymond of Burgundy",
+        "labelCn": "与勃艮第的雷蒙结婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Urraca_of_Le%C3%B3n_and_Castile",
+        "note": "Married the Burgundian noble Raymond, whom Alfonso VI made Count of Galicia."
+      },
+      {
+        "year": 1107,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "government",
+          "queen"
+        ],
+        "weight": 75,
+        "label": "Assumed rule of Galicia",
+        "labelCn": "执掌加利西亚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Urraca_of_Le%C3%B3n_and_Castile",
+        "note": "After Raymond's death Alfonso VI confirmed her as ruler of Galicia, where she governed with her son."
+      },
+      {
+        "year": 1108,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "politics",
+          "queen"
+        ],
+        "weight": 78,
+        "label": "Became heir to the crown",
+        "labelCn": "成为王位继承人",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Urraca_of_Le%C3%B3n_and_Castile",
+        "note": "Became Alfonso VI's heiress after her half-brother Sancho Alfónsez was killed at Uclés."
+      },
+      {
+        "year": 1109,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "queen",
+          "monarch",
+          "government"
+        ],
+        "weight": 90,
+        "label": "Succeeded as Queen of León and Castile",
+        "labelCn": "继位为莱昂与卡斯蒂利亚女王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Urraca_of_Le%C3%B3n_and_Castile",
+        "note": "Became the first woman to rule León and Castile in her own right."
+      },
+      {
+        "year": 1109,
+        "month": 10,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "political_crisis",
+          "dynasty"
+        ],
+        "weight": 82,
+        "label": "Marriage to Alfonso the Battler",
+        "labelCn": "与「勇士」阿方索结婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Urraca_of_Le%C3%B3n_and_Castile",
+        "note": "Married Alfonso I of Aragon 'the Battler' to unite the realms; the union instead sparked civil war."
+      },
+      {
+        "year": 1111,
+        "month": 9,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "succession",
+          "regency"
+        ],
+        "weight": 78,
+        "label": "Son Alfonso VII crowned King of Galicia",
+        "labelCn": "其子阿方索七世加冕为加利西亚国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Urraca_of_Le%C3%B3n_and_Castile",
+        "note": "Bishop Diego Gelmírez crowned her son Alfonso Raimúndez in Santiago de Compostela."
+      },
+      {
+        "year": 1114,
+        "type": "annulment",
+        "tags": [
+          "marriage",
+          "religion",
+          "political_crisis"
+        ],
+        "weight": 85,
+        "label": "Annulment of marriage to Alfonso the Battler",
+        "labelCn": "与勇士阿方索的婚姻被宣告无效",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Urraca_of_Le%C3%B3n_and_Castile",
+        "note": "The marriage was dissolved on grounds of consanguinity after years of open warfare between the spouses."
+      },
+      {
+        "year": 1126,
+        "month": 3,
+        "day": 8,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 85,
+        "label": "Death at Saldaña",
+        "labelCn": "在萨尔达尼亚去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Urraca_of_Le%C3%B3n_and_Castile",
+        "note": "Died on 8 March 1126 at Saldaña, possibly in childbirth."
+      },
+      {
+        "year": 1126,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "government",
+          "king"
+        ],
+        "weight": 76,
+        "label": "Succeeded by Alfonso VII",
+        "labelCn": "由阿方索七世继位",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Urraca_of_Le%C3%B3n_and_Castile",
+        "note": "Her son Alfonso VII succeeded to León and Castile, ending the troubled reign."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Urraca_of_Le%C3%B3n_and_Castile",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Urraca_of_Le%C3%B3n_and_Castile",
+    "sourceNote": "Encyclopædia Britannica; Encyclopedia.com; Wikipedia (cross-checked).",
+    "notes": "The first woman to rule León and Castile in her own right, succeeding her father in 1109. Her marriage to Alfonso I of Aragon 'the Battler' was meant to unite the realms but instead provoked a long civil war and was annulled for consanguinity. Her reign was marked by constant warfare with her husband, the nobility and later her son Alfonso VII, who ultimately succeeded her in 1126.",
+    "createdDate": "20260823",
+    "createdOrder": 67,
+    "deathCause": {
+      "kind": "uncertain",
+      "summary": "Cause of death uncertain; possibly died in childbirth",
+      "summaryCn": "死因不明，可能死于分娩",
+      "detail": "She died on 8 March 1126 at Saldaña; later sources suggest she may have died in childbirth, but the circumstances are not securely documented.",
+      "detailCn": "1126年3月8日死于萨尔达尼亚；后世史料推测她可能死于分娩，但具体情况缺乏可靠记载。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Urraca_of_Le%C3%B3n_and_Castile"
+    }
+  },
+  {
+    "id": "d1010000-0000-4000-8000-000000000001",
+    "firstName": "Sancho",
+    "lastName": "Garcés",
+    "displayName": "Sancho I Garcés",
+    "fullName": "Sancho I Garcés, King of Pamplona",
+    "displayNameCn": "桑乔一世·加尔塞斯",
+    "fullNameCn": "潘普洛纳国王桑乔一世·加尔塞斯",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 860,
+    "deathYear": 925,
+    "birthPlace": "Kingdom of Pamplona",
+    "birthPlaceCn": "潘普洛纳王国",
+    "deathPlace": "Kingdom of Pamplona",
+    "deathPlaceCn": "潘普洛纳王国",
+    "gender": "male",
+    "dynasty": "Jiménez dynasty",
+    "house": "House of Jiménez",
+    "culture": "Basque",
+    "faith": "Catholic",
+    "primaryTitle": "King of Pamplona",
+    "primaryTitleCn": "潘普洛纳国王",
+    "titles": [
+      {
+        "title": "King of Pamplona",
+        "titleCn": "潘普洛纳国王",
+        "startYear": 905,
+        "endYear": 925
+      }
+    ],
+    "tags": [
+      "monarch",
+      "noble"
+    ],
+    "rank": "king",
+    "importanceScore": 70,
+    "historicalRating": 7,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "d1010000-0000-4000-8000-000000000002"
+      ]
+    },
+    "events": [
+      {
+        "year": 905,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "king",
+          "monarch"
+        ],
+        "weight": 82,
+        "label": "Took the throne of Pamplona",
+        "labelCn": "登上潘普洛纳王位",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Sancho_I_of_Pamplona",
+        "note": "Replaced Fortún Garcés, founding the Jiménez dynasty's hold on Pamplona."
+      },
+      {
+        "year": 911,
+        "type": "conquest",
+        "tags": [
+          "conquest",
+          "territory",
+          "king"
+        ],
+        "weight": 70,
+        "label": "Defeated Galindo Aznárez and brought Aragon into the kingdom",
+        "labelCn": "击败加林多·阿斯纳雷斯并将阿拉贡纳入王国",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Sancho_I_of_Pamplona"
+      },
+      {
+        "year": 920,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "defeat",
+          "king"
+        ],
+        "weight": 85,
+        "label": "Battle of Valdejunquera — defeated by Abd al-Rahman III",
+        "labelCn": "巴尔德洪克拉之战——败于阿卜杜·拉赫曼三世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Sancho_I_of_Pamplona"
+      },
+      {
+        "year": 923,
+        "type": "conquest",
+        "tags": [
+          "conquest",
+          "territory",
+          "king"
+        ],
+        "weight": 68,
+        "label": "Conquest of Nájera",
+        "labelCn": "征服纳赫拉",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Sancho_I_of_Pamplona"
+      },
+      {
+        "year": 925,
+        "month": 12,
+        "day": 10,
+        "type": "death",
+        "tags": [
+          "death",
+          "king",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Death near Resa",
+        "labelCn": "在雷萨附近去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Sancho_I_of_Pamplona"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Sancho_I_of_Pamplona",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Sancho_I_of_Pamplona",
+    "sourceNote": "Britannica (Sancho I Garcés); Wikipedia (Sancho I of Pamplona), used for navigation.",
+    "notes": "First Jiménez king of Pamplona (905–925), who expanded the kingdom south to the Ebro and absorbed the county of Aragon. His expansion provoked the Umayyad counterattack of Valdejunquera (920), yet the kingdom survived.",
+    "createdDate": "20260823",
+    "createdOrder": 73
+  },
+  {
+    "id": "d1010000-0000-4000-8000-000000000002",
+    "firstName": "García",
+    "lastName": "Sánchez",
+    "displayName": "García Sánchez I",
+    "fullName": "García Sánchez I, King of Pamplona",
+    "displayNameCn": "加西亚·桑切斯一世",
+    "fullNameCn": "潘普洛纳国王加西亚·桑切斯一世",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 919,
+    "deathYear": 970,
+    "birthPlace": "Kingdom of Pamplona",
+    "birthPlaceCn": "潘普洛纳王国",
+    "deathPlace": "Kingdom of Pamplona",
+    "deathPlaceCn": "潘普洛纳王国",
+    "gender": "male",
+    "dynasty": "Jiménez dynasty",
+    "house": "House of Jiménez",
+    "culture": "Basque",
+    "faith": "Catholic",
+    "primaryTitle": "King of Pamplona",
+    "primaryTitleCn": "潘普洛纳国王",
+    "titles": [
+      {
+        "title": "King of Pamplona",
+        "titleCn": "潘普洛纳国王",
+        "startYear": 925,
+        "endYear": 970
+      }
+    ],
+    "tags": [
+      "monarch",
+      "noble"
+    ],
+    "rank": "king",
+    "importanceScore": 65,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "d1010000-0000-4000-8000-000000000001",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "d1010000-0000-4000-8000-000000000003"
+      ]
+    },
+    "events": [
+      {
+        "year": 925,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "monarch",
+          "king"
+        ],
+        "weight": 80,
+        "label": "Succeeded as King of Pamplona as a child",
+        "labelCn": "幼年继位为潘普洛纳国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Garc%C3%ADa_S%C3%A1nchez_I_of_Pamplona",
+        "note": "Succeeded his father Sancho I in 925 while still a minor, under a regency led by his mother Toda Aznárez."
+      },
+      {
+        "year": 939,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "commander",
+          "campaign"
+        ],
+        "weight": 84,
+        "label": "Battle of Simancas",
+        "labelCn": "西曼卡斯战役",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Simancas",
+        "note": "Fought alongside Ramiro II of León in the Christian victory over Abd al-Rahman III of Córdoba."
+      },
+      {
+        "year": 970,
+        "type": "death",
+        "tags": [
+          "death",
+          "monarch",
+          "king"
+        ],
+        "weight": 72,
+        "label": "Death",
+        "labelCn": "去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Garc%C3%ADa_S%C3%A1nchez_I_of_Pamplona",
+        "note": "Died in 970, succeeded by his son Sancho II Garcés Abarca."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/García_Sánchez_I_of_Pamplona",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/García_Sánchez_I_of_Pamplona",
+    "sourceNote": "Basic card for the Navarre royal succession.",
+    "notes": "Succeeded his father Sancho I and continued the early Jiménez line of Pamplona.",
+    "createdDate": "20260823",
+    "createdOrder": 74
+  },
+  {
+    "id": "d1010000-0000-4000-8000-000000000003",
+    "firstName": "Sancho",
+    "lastName": "Garcés",
+    "displayName": "Sancho II Garcés Abarca",
+    "fullName": "Sancho II Garcés Abarca, King of Pamplona",
+    "displayNameCn": "桑乔二世·加尔塞斯·阿巴尔卡",
+    "fullNameCn": "潘普洛纳国王桑乔二世·加尔塞斯·阿巴尔卡",
+    "nickname": "Abarca",
+    "nicknameCn": "阿巴尔卡",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 938,
+    "deathYear": 994,
+    "birthPlace": "Kingdom of Pamplona",
+    "birthPlaceCn": "潘普洛纳王国",
+    "deathPlace": "Kingdom of Pamplona",
+    "deathPlaceCn": "潘普洛纳王国",
+    "gender": "male",
+    "dynasty": "Jiménez dynasty",
+    "house": "House of Jiménez",
+    "culture": "Basque",
+    "faith": "Catholic",
+    "primaryTitle": "King of Pamplona",
+    "primaryTitleCn": "潘普洛纳国王",
+    "titles": [
+      {
+        "title": "King of Pamplona",
+        "titleCn": "潘普洛纳国王",
+        "startYear": 970,
+        "endYear": 994
+      }
+    ],
+    "tags": [
+      "monarch",
+      "noble"
+    ],
+    "rank": "king",
+    "importanceScore": 65,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "d1010000-0000-4000-8000-000000000002",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "d1010000-0000-4000-8000-000000000004"
+      ]
+    },
+    "events": [
+      {
+        "year": 970,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "monarch",
+          "king"
+        ],
+        "weight": 78,
+        "label": "Succeeded as King of Pamplona",
+        "labelCn": "继位为潘普洛纳国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Sancho_II_of_Pamplona",
+        "note": "Succeeded his father García Sánchez I in 970."
+      },
+      {
+        "year": 992,
+        "type": "diplomacy",
+        "tags": [
+          "diplomacy",
+          "politics",
+          "uncertain"
+        ],
+        "weight": 66,
+        "label": "Embassy to Córdoba and accord with al-Mansur",
+        "labelCn": "遣使科尔多瓦，与阿尔曼苏尔议和",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Sancho_II_of_Pamplona",
+        "note": "Sought peace with the Caliphate, visiting Córdoba to reach an accord with al-Mansur; the date is approximate."
+      },
+      {
+        "year": 994,
+        "type": "death",
+        "tags": [
+          "death",
+          "monarch",
+          "king"
+        ],
+        "weight": 72,
+        "label": "Death",
+        "labelCn": "去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Sancho_II_of_Pamplona",
+        "note": "Died in 994, succeeded by his son García Sánchez II."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Sancho_II_of_Pamplona",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Sancho_II_of_Pamplona",
+    "sourceNote": "Basic card for the Navarre royal succession.",
+    "notes": "Succeeded his father García Sánchez I; known by the epithet Abarca.",
+    "createdDate": "20260823",
+    "createdOrder": 75
+  },
+  {
+    "id": "d1010000-0000-4000-8000-000000000004",
+    "firstName": "García",
+    "lastName": "Sánchez",
+    "displayName": "García Sánchez II",
+    "fullName": "García Sánchez II, King of Pamplona",
+    "displayNameCn": "加西亚·桑切斯二世",
+    "fullNameCn": "潘普洛纳国王加西亚·桑切斯二世",
+    "nickname": "the Tremulous",
+    "nicknameCn": "颤抖者",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 964,
+    "deathYear": 1000,
+    "birthPlace": "Kingdom of Pamplona",
+    "birthPlaceCn": "潘普洛纳王国",
+    "deathPlace": "Kingdom of Pamplona",
+    "deathPlaceCn": "潘普洛纳王国",
+    "gender": "male",
+    "dynasty": "Jiménez dynasty",
+    "house": "House of Jiménez",
+    "culture": "Basque",
+    "faith": "Catholic",
+    "primaryTitle": "King of Pamplona",
+    "primaryTitleCn": "潘普洛纳国王",
+    "titles": [
+      {
+        "title": "King of Pamplona",
+        "titleCn": "潘普洛纳国王",
+        "startYear": 994,
+        "endYear": 1000
+      }
+    ],
+    "tags": [
+      "monarch",
+      "noble"
+    ],
+    "rank": "king",
+    "importanceScore": 55,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "d1010000-0000-4000-8000-000000000003",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "d1010000-0000-4000-8000-000000000005"
+      ]
+    },
+    "events": [
+      {
+        "year": 994,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "monarch",
+          "king"
+        ],
+        "weight": 78,
+        "label": "Succeeded as King of Pamplona",
+        "labelCn": "继位为潘普洛纳国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Garc%C3%ADa_S%C3%A1nchez_II_of_Pamplona",
+        "note": "Succeeded his father Sancho II Garcés Abarca; nicknamed 'the Tremulous' (el Temblón)."
+      },
+      {
+        "year": 999,
+        "type": "war",
+        "tags": [
+          "war",
+          "campaign",
+          "uncertain"
+        ],
+        "weight": 72,
+        "label": "War against al-Mansur",
+        "labelCn": "与阿尔曼苏尔作战",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Garc%C3%ADa_S%C3%A1nchez_II_of_Pamplona",
+        "note": "Joined the Christian coalition opposing the Córdoban hajib al-Mansur's campaigns in the late 990s."
+      },
+      {
+        "year": 1000,
+        "type": "death",
+        "tags": [
+          "death",
+          "uncertain"
+        ],
+        "weight": 80,
+        "label": "Death",
+        "labelCn": "去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Garc%C3%ADa_S%C3%A1nchez_II_of_Pamplona",
+        "note": "Died around 1000; his young son Sancho III the Great succeeded under a regency."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/García_Sánchez_II_of_Pamplona",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/García_Sánchez_II_of_Pamplona",
+    "sourceNote": "Basic card for the Navarre royal succession.",
+    "notes": "Succeeded his father Sancho II; known as the Tremulous (el Temblón).",
+    "createdDate": "20260823",
+    "createdOrder": 76
+  },
+  {
+    "id": "d1010000-0000-4000-8000-000000000005",
+    "firstName": "Sancho",
+    "lastName": "Garcés",
+    "displayName": "Sancho III Garcés",
+    "fullName": "Sancho III Garcés the Great, King of Pamplona",
+    "displayNameCn": "桑乔三世·加尔塞斯",
+    "fullNameCn": "潘普洛纳国王桑乔三世·加尔塞斯大帝",
+    "nickname": "the Great",
+    "nicknameCn": "大帝",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 992,
+    "deathYear": 1035,
+    "birthPlace": "Kingdom of Pamplona",
+    "birthPlaceCn": "潘普洛纳王国",
+    "deathPlace": "Kingdom of Pamplona",
+    "deathPlaceCn": "潘普洛纳王国",
+    "gender": "male",
+    "dynasty": "Jiménez dynasty",
+    "house": "House of Jiménez",
+    "culture": "Basque",
+    "faith": "Catholic",
+    "primaryTitle": "King of Pamplona",
+    "primaryTitleCn": "潘普洛纳国王",
+    "titles": [
+      {
+        "title": "King of Pamplona",
+        "titleCn": "潘普洛纳国王",
+        "startYear": 1000,
+        "endYear": 1035
+      }
+    ],
+    "tags": [
+      "monarch",
+      "noble"
+    ],
+    "rank": "king",
+    "importanceScore": 80,
+    "historicalRating": 8,
+    "relationships": {
+      "fatherId": "d1010000-0000-4000-8000-000000000004",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "d1010000-0000-4000-8000-000000000006",
+        "e1010000-0000-4000-8000-000000000001"
+      ]
+    },
+    "events": [
+      {
+        "year": 1000,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "monarch",
+          "king"
+        ],
+        "weight": 80,
+        "label": "Succeeds as King of Pamplona",
+        "labelCn": "继位为潘普洛纳国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Sancho_III_of_Pamplona",
+        "note": "Ruled as a minor under a council of regency; first attested as king in 1004."
+      },
+      {
+        "year": 1010,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance",
+          "noble"
+        ],
+        "weight": 72,
+        "label": "Marriage to Muniadona (Mayor) of Castile",
+        "labelCn": "与卡斯蒂利亚的穆尼亚多纳（马约尔）成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Sancho_III_of_Pamplona",
+        "note": "Daughter of Count Sancho García of Castile; the match later grounded Sancho's claim to Castile."
+      },
+      {
+        "year": 1016,
+        "type": "treaty",
+        "tags": [
+          "diplomacy",
+          "treaty",
+          "politics"
+        ],
+        "weight": 65,
+        "label": "Border settled with Castile",
+        "labelCn": "与卡斯蒂利亚划定边界",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Sancho_III_of_Pamplona",
+        "note": "Agreed the frontier between Navarre and Castile with Count Sancho García."
+      },
+      {
+        "year": 1018,
+        "type": "conquest",
+        "tags": [
+          "conquest",
+          "territory",
+          "campaign"
+        ],
+        "weight": 72,
+        "label": "Takes Sobrarbe and Ribagorza",
+        "labelCn": "夺取索夫拉尔韦与里瓦戈萨",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Sancho_III_of_Pamplona",
+        "note": "Extended control over the Pyrenean counties of Sobrarbe (1015) and Ribagorza (1018); Ribagorza was settled by 1025."
+      },
+      {
+        "year": 1029,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "territory",
+          "politics"
+        ],
+        "weight": 84,
+        "label": "Claims Castile after García Sánchez's murder",
+        "labelCn": "在加西亚·桑切斯遇害后主张卡斯蒂利亚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Sancho_III_of_Pamplona",
+        "note": "Count García Sánchez of Castile was murdered in León on 13 May 1029; Sancho occupied the county as husband of Muniadona and installed his son Ferdinand as heir."
+      },
+      {
+        "year": 1034,
+        "type": "conquest",
+        "tags": [
+          "conquest",
+          "war",
+          "king"
+        ],
+        "weight": 88,
+        "label": "Conquest of León",
+        "labelCn": "攻占莱昂",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Sancho_III_of_Pamplona",
+        "note": "After war with Bermudo III, León fell and Sancho's power stretched from the borders of Galicia to Barcelona."
+      },
+      {
+        "year": 1034,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "king"
+        ],
+        "weight": 80,
+        "label": "Crowned in León",
+        "labelCn": "在莱昂加冕",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Sancho_III_of_Pamplona",
+        "note": "Had himself crowned again in León at the height of his power; later styled emperor (imperator)."
+      },
+      {
+        "year": 1035,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "dynasty",
+          "king"
+        ],
+        "weight": 86,
+        "label": "Divides his realm among his sons",
+        "labelCn": "将王国分封给诸子",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Sancho_III_of_Pamplona",
+        "note": "Bequeathed Pamplona to García, Castile to Ferdinand, Sobrarbe and Ribagorza to Gonzalo, and Aragon to the illegitimate Ramiro."
+      },
+      {
+        "year": 1035,
+        "month": 10,
+        "day": 18,
+        "type": "death",
+        "tags": [
+          "death",
+          "king",
+          "monarch"
+        ],
+        "weight": 90,
+        "label": "Death and burial at Oña",
+        "labelCn": "去世，葬于奥尼亚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Sancho_III_of_Pamplona",
+        "note": "Died on 18 October 1035; buried in the monastery of San Salvador de Oña."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Sancho_III_of_Pamplona",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Sancho_III_of_Pamplona",
+    "sourceNote": "Encyclopaedia Britannica; Wikipedia (Sancho III of Pamplona), used for navigation.",
+    "notes": "Sancho III Garcés 'the Great' (el Mayor) was the most powerful Christian ruler of Iberia in his day, briefly holding sway from the borders of Galicia to Barcelona. He absorbed Castile, Sobrarbe and Ribagorza and took León in 1034, where he assumed imperial dignity. At his death in 1035 the realm was divided among his sons, giving rise to the kingdoms of Navarre, Castile and Aragon, though several early dates of his reign remain uncertain.",
+    "createdDate": "20260823",
+    "createdOrder": 77
+  },
+  {
+    "id": "d1010000-0000-4000-8000-000000000006",
+    "firstName": "García",
+    "lastName": "Sánchez",
+    "displayName": "García Sánchez III",
+    "fullName": "García Sánchez III, King of Pamplona",
+    "displayNameCn": "加西亚·桑切斯三世",
+    "fullNameCn": "潘普洛纳国王加西亚·桑切斯三世",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1012,
+    "deathYear": 1054,
+    "birthPlace": "Kingdom of Pamplona",
+    "birthPlaceCn": "潘普洛纳王国",
+    "deathPlace": "Kingdom of Pamplona",
+    "deathPlaceCn": "潘普洛纳王国",
+    "gender": "male",
+    "dynasty": "Jiménez dynasty",
+    "house": "House of Jiménez",
+    "culture": "Basque",
+    "faith": "Catholic",
+    "primaryTitle": "King of Pamplona",
+    "primaryTitleCn": "潘普洛纳国王",
+    "titles": [
+      {
+        "title": "King of Pamplona",
+        "titleCn": "潘普洛纳国王",
+        "startYear": 1035,
+        "endYear": 1054
+      }
+    ],
+    "tags": [
+      "monarch",
+      "noble"
+    ],
+    "rank": "king",
+    "importanceScore": 60,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "d1010000-0000-4000-8000-000000000005",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "d1010000-0000-4000-8000-000000000007"
+      ]
+    },
+    "events": [
+      {
+        "year": 1035,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "monarch",
+          "king"
+        ],
+        "weight": 80,
+        "label": "Received Pamplona in his father's division",
+        "labelCn": "继承其父分封的潘普洛纳王国",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Garc%C3%ADa_S%C3%A1nchez_III_of_Pamplona",
+        "note": "On Sancho III the Great's death in 1035 the realm was divided; García received Pamplona."
+      },
+      {
+        "year": 1037,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "commander",
+          "campaign"
+        ],
+        "weight": 76,
+        "label": "Battle of Tamarón",
+        "labelCn": "塔马隆之战",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Tamar%C3%B3n",
+        "note": "Aided his brother Ferdinand I of Castile in defeating and killing Bermudo III of León."
+      },
+      {
+        "year": 1054,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "death",
+          "defeat",
+          "commander"
+        ],
+        "weight": 92,
+        "label": "Killed at the Battle of Atapuerca",
+        "labelCn": "阿塔普埃尔卡战役中阵亡",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Atapuerca",
+        "note": "Killed fighting his brother Ferdinand I of León-Castile on 1 September 1054; buried at Nájera."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/García_Sánchez_III_of_Pamplona",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/García_Sánchez_III_of_Pamplona",
+    "sourceNote": "Basic card for the Navarre royal succession.",
+    "notes": "Succeeded his father Sancho III; died at the Battle of Atapuerca.",
+    "createdDate": "20260823",
+    "createdOrder": 78,
+    "deathCause": {
+      "kind": "violent",
+      "summary": "Killed at the Battle of Atapuerca fighting his brother Ferdinand I",
+      "summaryCn": "在阿塔普埃尔卡战役中与其弟费尔南多一世交战阵亡",
+      "detail": "García Sánchez III of Navarre was killed at the Battle of Atapuerca on 1 September 1054, fighting his brother Ferdinand I of León-Castile; he was buried in the monastery of Santa María la Real de Nájera.",
+      "detailCn": "1054年9月1日，加西亚·桑切斯三世在与兄弟、莱昂-卡斯蒂利亚国王费尔南多一世交战的阿塔普埃尔卡战役中阵亡，葬于纳赫拉的圣玛利亚王家修道院。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Garc%C3%ADa_S%C3%A1nchez_III_of_Pamplona"
+    }
+  },
+  {
+    "id": "d1010000-0000-4000-8000-000000000007",
+    "firstName": "Sancho",
+    "lastName": "Garcés",
+    "displayName": "Sancho IV Garcés",
+    "fullName": "Sancho IV Garcés, King of Pamplona",
+    "displayNameCn": "桑乔四世·加尔塞斯",
+    "fullNameCn": "潘普洛纳国王桑乔四世·加尔塞斯",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1039,
+    "deathYear": 1076,
+    "birthPlace": "Kingdom of Pamplona",
+    "birthPlaceCn": "潘普洛纳王国",
+    "deathPlace": "Kingdom of Pamplona",
+    "deathPlaceCn": "潘普洛纳王国",
+    "gender": "male",
+    "dynasty": "Jiménez dynasty",
+    "house": "House of Jiménez",
+    "culture": "Basque",
+    "faith": "Catholic",
+    "primaryTitle": "King of Pamplona",
+    "primaryTitleCn": "潘普洛纳国王",
+    "titles": [
+      {
+        "title": "King of Pamplona",
+        "titleCn": "潘普洛纳国王",
+        "startYear": 1054,
+        "endYear": 1076
+      }
+    ],
+    "tags": [
+      "monarch",
+      "noble"
+    ],
+    "rank": "king",
+    "importanceScore": 60,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "d1010000-0000-4000-8000-000000000006",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1054,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "monarch",
+          "king"
+        ],
+        "weight": 78,
+        "label": "Succeeded as King of Pamplona",
+        "labelCn": "继位为潘普洛纳国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Sancho_IV_of_Pamplona",
+        "note": "Succeeded his father García Sánchez III, killed at Atapuerca, at about fifteen years old."
+      },
+      {
+        "year": 1067,
+        "type": "war",
+        "tags": [
+          "war",
+          "defeat",
+          "politics"
+        ],
+        "weight": 74,
+        "label": "War of the Three Sanchos",
+        "labelCn": "三桑乔之战",
+        "wikiUrl": "https://en.wikipedia.org/wiki/War_of_the_Three_Sanchos",
+        "note": "Defeated by Sancho II of Castile, losing territory in the region of La Rioja."
+      },
+      {
+        "year": 1076,
+        "type": "death",
+        "tags": [
+          "death",
+          "political_crisis",
+          "monarch"
+        ],
+        "weight": 90,
+        "label": "Assassinated at Peñalén",
+        "labelCn": "在佩尼亚伦被刺杀",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Sancho_IV_of_Pamplona",
+        "note": "Thrown from a cliff by his siblings; his death let Castile and Aragon partition Navarre."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Sancho_IV_of_Pamplona",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Sancho_IV_of_Pamplona",
+    "sourceNote": "Basic card for the Navarre royal succession.",
+    "notes": "Succeeded his father García Sánchez III; his assassination in 1076 opened the way for the union with Aragon.",
+    "createdDate": "20260823",
+    "createdOrder": 79,
+    "deathCause": {
+      "kind": "violent",
+      "summary": "Assassinated at Peñalén, thrown from a cliff by his siblings",
+      "summaryCn": "在佩尼亚伦被其兄弟姊妹推下悬崖刺杀",
+      "detail": "Sancho IV was assassinated on 4 June 1076 at Peñalén, thrown from a cliff by his brother Ramón and sister Ermesinda during a hunt; his death enabled Castile and Aragon to partition the kingdom.",
+      "detailCn": "1076年6月4日，桑乔四世在佩尼亚伦狩猎时被其兄弟拉蒙与姊妹埃尔梅辛达推下悬崖刺杀；其死后纳瓦拉被卡斯蒂利亚与阿拉贡瓜分。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Sancho_IV_of_Pamplona"
+    }
+  },
+  {
+    "id": "d1010000-0000-4000-8000-000000000008",
+    "firstName": "Sancho",
+    "lastName": "of Navarre",
+    "displayName": "Sancho V of Navarre",
+    "fullName": "Sancho V of Navarre (Sancho Ramírez)",
+    "displayNameCn": "纳瓦拉的桑乔五世",
+    "fullNameCn": "阿拉贡与潘普洛纳国王桑乔五世·拉米雷斯",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [
+      "Sancho Ramírez"
+    ],
+    "nicknameTags": [],
+    "birthYear": 1042,
+    "deathYear": 1094,
+    "birthPlace": "Kingdom of Aragon",
+    "birthPlaceCn": "阿拉贡王国",
+    "deathPlace": "Kingdom of Aragon",
+    "deathPlaceCn": "阿拉贡王国",
+    "gender": "male",
+    "dynasty": "Jiménez dynasty",
+    "house": "House of Jiménez",
+    "culture": "Basque",
+    "faith": "Catholic",
+    "primaryTitle": "King of Aragon and Pamplona",
+    "primaryTitleCn": "阿拉贡与潘普洛纳国王",
+    "titles": [
+      {
+        "title": "King of Pamplona",
+        "titleCn": "潘普洛纳国王",
+        "startYear": 1076,
+        "endYear": 1094
+      },
+      {
+        "title": "King of Aragon",
+        "titleCn": "阿拉贡国王",
+        "startYear": 1063,
+        "endYear": 1094
+      }
+    ],
+    "tags": [
+      "monarch",
+      "noble"
+    ],
+    "rank": "king",
+    "importanceScore": 65,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "e1010000-0000-4000-8000-000000000001",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "d1010000-0000-4000-8000-000000000009",
+        "d1010000-0000-4000-8000-000000000010",
+        "e1010000-0000-4000-8000-000000000002"
+      ]
+    },
+    "events": [
+      {
+        "year": 1068,
+        "type": "religion",
+        "tags": [
+          "religion",
+          "diplomacy",
+          "monarch"
+        ],
+        "weight": 66,
+        "label": "Homage to the Pope; Aragon as papal fief",
+        "labelCn": "向教皇称臣，阿拉贡成为教廷封地",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Sancho_Ram%C3%ADrez",
+        "note": "Journeyed to Rome to commend Aragon to the papacy, strengthening ties with the reform papacy."
+      },
+      {
+        "year": 1076,
+        "type": "title_acquired",
+        "tags": [
+          "title_acquired",
+          "title",
+          "monarch"
+        ],
+        "weight": 84,
+        "label": "Acquired Pamplona, uniting Aragon and Navarre",
+        "labelCn": "取得潘普洛纳，联合阿拉贡与纳瓦拉",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Sancho_Ram%C3%ADrez",
+        "note": "On Sancho IV's assassination he took the crown of Pamplona, joining it to Aragon."
+      },
+      {
+        "year": 1094,
+        "type": "death",
+        "tags": [
+          "death",
+          "battle",
+          "campaign",
+          "monarch"
+        ],
+        "weight": 88,
+        "label": "Died of wounds at the Siege of Huesca",
+        "labelCn": "围攻韦斯卡时负伤去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Sancho_Ram%C3%ADrez",
+        "note": "Mortally wounded by an arrow while besieging Muslim Huesca; the city fell to his son Peter I two years later."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Sancho_Ramírez",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Sancho_Ramírez",
+    "sourceNote": "Basic card for the Navarre royal succession.",
+    "notes": "King of Aragon (Sancho Ramírez) who also held Pamplona after Sancho IV's death, joining the two crowns.",
+    "createdDate": "20260823",
+    "createdOrder": 80,
+    "deathCause": {
+      "kind": "violent",
+      "summary": "Died of an arrow wound received at the Siege of Huesca",
+      "summaryCn": "在韦斯卡围城战中箭负伤不治",
+      "detail": "Sancho Ramírez was mortally wounded by an arrow while besieging Huesca and died on 4 June 1094; his son Peter I captured the city in 1096.",
+      "detailCn": "1094年，桑乔·拉米雷斯在围攻韦斯卡时被流矢射中，于6月4日伤重不治；其子彼得一世于1096年攻占该城。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Sancho_Ram%C3%ADrez"
+    }
+  },
+  {
+    "id": "d1010000-0000-4000-8000-000000000009",
+    "firstName": "Peter",
+    "lastName": "of Aragon",
+    "displayName": "Peter I of Aragon",
+    "fullName": "Peter I of Aragon and Navarre",
+    "displayNameCn": "阿拉贡的彼得一世",
+    "fullNameCn": "阿拉贡与纳瓦拉国王彼得一世",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1068,
+    "deathYear": 1104,
+    "birthPlace": "Kingdom of Aragon",
+    "birthPlaceCn": "阿拉贡王国",
+    "deathPlace": "Kingdom of Aragon",
+    "deathPlaceCn": "阿拉贡王国",
+    "gender": "male",
+    "dynasty": "Jiménez dynasty",
+    "house": "House of Jiménez",
+    "culture": "Basque",
+    "faith": "Catholic",
+    "primaryTitle": "King of Aragon and Pamplona",
+    "primaryTitleCn": "阿拉贡与潘普洛纳国王",
+    "titles": [
+      {
+        "title": "King of Pamplona",
+        "titleCn": "潘普洛纳国王",
+        "startYear": 1094,
+        "endYear": 1104
+      },
+      {
+        "title": "King of Aragon",
+        "titleCn": "阿拉贡国王",
+        "startYear": 1094,
+        "endYear": 1104
+      }
+    ],
+    "tags": [
+      "monarch",
+      "noble"
+    ],
+    "rank": "king",
+    "importanceScore": 60,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "d1010000-0000-4000-8000-000000000008",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1094,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "monarch",
+          "king"
+        ],
+        "weight": 78,
+        "label": "Succeeded as King of Aragon and Pamplona",
+        "labelCn": "继位为阿拉贡与潘普洛纳国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Peter_I_of_Aragon_and_Navarre",
+        "note": "Succeeded his father Sancho Ramírez in 1094, ruling Aragon and Pamplona jointly."
+      },
+      {
+        "year": 1096,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "conquest",
+          "commander",
+          "main_commander"
+        ],
+        "weight": 90,
+        "label": "Battle of Alcoraz and capture of Huesca",
+        "labelCn": "阿尔科拉斯战役，攻占韦斯卡",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Alcoraz",
+        "note": "Defeated the Muslims of Zaragoza at Alcoraz, completing the capture of Huesca his father had begun."
+      },
+      {
+        "year": 1104,
+        "type": "death",
+        "tags": [
+          "death",
+          "monarch",
+          "king"
+        ],
+        "weight": 72,
+        "label": "Death",
+        "labelCn": "去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Peter_I_of_Aragon_and_Navarre",
+        "note": "Died in 1104, succeeded by his brother Alfonso I the Battler."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Peter_I_of_Aragon_and_Navarre",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Peter_I_of_Aragon_and_Navarre",
+    "sourceNote": "Basic card for the Navarre royal succession.",
+    "notes": "King of Aragon and Navarre, succeeding his father Sancho Ramírez.",
+    "createdDate": "20260823",
+    "createdOrder": 81
+  },
+  {
+    "id": "d1010000-0000-4000-8000-000000000010",
+    "firstName": "Alfonso",
+    "lastName": "of Aragon",
+    "displayName": "Alfonso I the Battler",
+    "fullName": "Alfonso I the Battler, King of Aragon and Navarre",
+    "displayNameCn": "战士阿方索一世",
+    "fullNameCn": "阿拉贡与纳瓦拉国王战士阿方索一世",
+    "nickname": "the Battler",
+    "nicknameCn": "战士",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1073,
+    "deathYear": 1134,
+    "birthPlace": "Kingdom of Aragon",
+    "birthPlaceCn": "阿拉贡王国",
+    "deathPlace": "Kingdom of Aragon",
+    "deathPlaceCn": "阿拉贡王国",
+    "gender": "male",
+    "dynasty": "Jiménez dynasty",
+    "house": "House of Jiménez",
+    "culture": "Basque",
+    "faith": "Catholic",
+    "primaryTitle": "King of Aragon and Pamplona",
+    "primaryTitleCn": "阿拉贡与潘普洛纳国王",
+    "titles": [
+      {
+        "title": "King of Pamplona",
+        "titleCn": "潘普洛纳国王",
+        "startYear": 1104,
+        "endYear": 1134
+      },
+      {
+        "title": "King of Aragon",
+        "titleCn": "阿拉贡国王",
+        "startYear": 1104,
+        "endYear": 1134
+      }
+    ],
+    "tags": [
+      "monarch",
+      "noble"
+    ],
+    "rank": "king",
+    "importanceScore": 75,
+    "historicalRating": 7,
+    "relationships": {
+      "fatherId": "d1010000-0000-4000-8000-000000000008",
+      "motherId": "",
+      "spouseIds": [
+        "c1029000-0000-4000-8000-000000000004"
+      ],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1104,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "king",
+          "monarch"
+        ],
+        "weight": 78,
+        "label": "Succeeded Peter I as King of Aragon and Navarre",
+        "labelCn": "继彼得一世为阿拉贡与纳瓦拉国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Alfonso_the_Battler"
+      },
+      {
+        "year": 1118,
+        "month": 12,
+        "day": 18,
+        "type": "conquest",
+        "tags": [
+          "conquest",
+          "territory",
+          "crusade"
+        ],
+        "weight": 95,
+        "label": "Conquest of Zaragoza",
+        "labelCn": "攻占萨拉戈萨",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Alfonso_the_Battler"
+      },
+      {
+        "year": 1120,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "commander",
+          "main_commander"
+        ],
+        "weight": 90,
+        "label": "Battle of Cutanda",
+        "labelCn": "库坦达之战",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Cutanda"
+      },
+      {
+        "year": 1134,
+        "month": 7,
+        "day": 17,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "defeat",
+          "king"
+        ],
+        "weight": 85,
+        "label": "Battle of Fraga",
+        "labelCn": "弗拉加之战",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Alfonso_the_Battler"
+      },
+      {
+        "year": 1134,
+        "month": 9,
+        "type": "death",
+        "tags": [
+          "death",
+          "king",
+          "monarch"
+        ],
+        "weight": 82,
+        "label": "Death after the defeat at Fraga",
+        "labelCn": "弗拉加战败后去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Alfonso_the_Battler"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Alfonso_the_Battler",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Alfonso_the_Battler",
+    "sourceNote": "Wikipedia (Alfonso the Battler), used for navigation.",
+    "notes": "King of Aragon and Navarre 1104–1134, the great Reconquista warrior who took Zaragoza (1118) and won Cutanda (1120). His final siege of Fraga ended in defeat and his death, and his childless rule passed both realms into dispute.",
+    "createdDate": "20260823",
+    "createdOrder": 82
+  },
+  {
+    "id": "d1010000-0000-4000-8000-000000000011",
+    "firstName": "García",
+    "lastName": "Ramírez",
+    "displayName": "García IV Ramírez",
+    "fullName": "García IV Ramírez the Restorer, King of Pamplona",
+    "displayNameCn": "加西亚四世·拉米雷斯",
+    "fullNameCn": "潘普洛纳国王复国者加西亚四世·拉米雷斯",
+    "nickname": "the Restorer",
+    "nicknameCn": "复国者",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1112,
+    "deathYear": 1150,
+    "birthPlace": "Kingdom of Pamplona",
+    "birthPlaceCn": "潘普洛纳王国",
+    "deathPlace": "Kingdom of Pamplona",
+    "deathPlaceCn": "潘普洛纳王国",
+    "gender": "male",
+    "dynasty": "Jiménez dynasty",
+    "house": "House of Jiménez",
+    "culture": "Basque",
+    "faith": "Catholic",
+    "primaryTitle": "King of Pamplona",
+    "primaryTitleCn": "潘普洛纳国王",
+    "titles": [
+      {
+        "title": "King of Pamplona",
+        "titleCn": "潘普洛纳国王",
+        "startYear": 1134,
+        "endYear": 1150
+      }
+    ],
+    "tags": [
+      "monarch",
+      "noble"
+    ],
+    "rank": "king",
+    "importanceScore": 65,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "d1010000-0000-4000-8000-000000000012"
+      ]
+    },
+    "events": [
+      {
+        "year": 1134,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "coronation",
+          "monarch",
+          "king"
+        ],
+        "weight": 86,
+        "label": "Restored the independent kingship of Navarre",
+        "labelCn": "复辟独立的纳瓦拉王权",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Garc%C3%ADa_Ram%C3%ADrez_of_Navarre",
+        "note": "Elected king after Alfonso I the Battler's death, separating Navarre from Aragon and restoring its independence."
+      },
+      {
+        "year": 1135,
+        "type": "diplomacy",
+        "tags": [
+          "diplomacy",
+          "politics"
+        ],
+        "weight": 66,
+        "label": "Homage to Alfonso VII of León-Castile",
+        "labelCn": "向莱昂-卡斯蒂利亚的阿方索七世称臣",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Garc%C3%ADa_Ram%C3%ADrez_of_Navarre",
+        "note": "Became a vassal of Alfonso VII to secure recognition of his restored kingship."
+      },
+      {
+        "year": 1150,
+        "type": "death",
+        "tags": [
+          "death",
+          "monarch",
+          "king"
+        ],
+        "weight": 72,
+        "label": "Death",
+        "labelCn": "去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Garc%C3%ADa_Ram%C3%ADrez_of_Navarre",
+        "note": "Died in 1150, succeeded by his son Sancho VI the Wise."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/García_Ramírez_of_Navarre",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/García_Ramírez_of_Navarre",
+    "sourceNote": "Basic card for the Navarre royal succession.",
+    "notes": "The Restorer (el Restaurador); restored an independent Navarrese kingship after Alfonso I's death.",
+    "createdDate": "20260823",
+    "createdOrder": 83
+  },
+  {
+    "id": "d1010000-0000-4000-8000-000000000012",
+    "firstName": "Sancho",
+    "lastName": "of Navarre",
+    "displayName": "Sancho VI",
+    "fullName": "Sancho VI the Wise, King of Navarre",
+    "displayNameCn": "桑乔六世",
+    "fullNameCn": "纳瓦拉国王智者桑乔六世",
+    "nickname": "the Wise",
+    "nicknameCn": "智者",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1132,
+    "deathYear": 1194,
+    "birthPlace": "Kingdom of Navarre",
+    "birthPlaceCn": "纳瓦拉王国",
+    "deathPlace": "Kingdom of Navarre",
+    "deathPlaceCn": "纳瓦拉王国",
+    "gender": "male",
+    "dynasty": "Jiménez dynasty",
+    "house": "House of Jiménez",
+    "culture": "Basque",
+    "faith": "Catholic",
+    "primaryTitle": "King of Navarre",
+    "primaryTitleCn": "纳瓦拉国王",
+    "titles": [
+      {
+        "title": "King of Navarre",
+        "titleCn": "纳瓦拉国王",
+        "startYear": 1150,
+        "endYear": 1194
+      }
+    ],
+    "tags": [
+      "monarch",
+      "noble"
+    ],
+    "rank": "king",
+    "importanceScore": 65,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "d1010000-0000-4000-8000-000000000011",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "d1010000-0000-4000-8000-000000000013"
+      ]
+    },
+    "events": [
+      {
+        "year": 1150,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "monarch",
+          "king"
+        ],
+        "weight": 78,
+        "label": "Succeeded as King of Navarre",
+        "labelCn": "继位为纳瓦拉国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Sancho_VI_of_Navarre",
+        "note": "Succeeded his father García IV Ramírez in 1150."
+      },
+      {
+        "year": 1153,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 72,
+        "label": "Married Sancha of Castile",
+        "labelCn": "与卡斯蒂利亚的桑查成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Sancho_VI_of_Navarre",
+        "note": "Married Sancha, daughter of Alfonso VII of León-Castile, in 1153."
+      },
+      {
+        "year": 1162,
+        "type": "title",
+        "tags": [
+          "title",
+          "government",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Adopted the title King of Navarre",
+        "labelCn": "改称「纳瓦拉国王」，取代「潘普洛纳国王」",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Sancho_VI_of_Navarre",
+        "note": "Around 1162 replaced the style 'King of Pamplona' with 'King of Navarre', the first ruler to do so."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Sancho_VI_of_Navarre",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Sancho_VI_of_Navarre",
+    "sourceNote": "Basic card for the Navarre royal succession.",
+    "notes": "The Wise (el Sabio); adopted the title King of Navarre around 1162, replacing King of Pamplona.",
+    "createdDate": "20260823",
+    "createdOrder": 84
+  },
+  {
+    "id": "d1010000-0000-4000-8000-000000000013",
+    "firstName": "Sancho",
+    "lastName": "of Navarre",
+    "displayName": "Sancho VII",
+    "fullName": "Sancho VII the Strong, King of Navarre",
+    "displayNameCn": "桑乔七世",
+    "fullNameCn": "纳瓦拉国王强者桑乔七世",
+    "nickname": "the Strong",
+    "nicknameCn": "强者",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1154,
+    "deathYear": 1234,
+    "birthPlace": "Kingdom of Navarre",
+    "birthPlaceCn": "纳瓦拉王国",
+    "deathPlace": "Tudela",
+    "deathPlaceCn": "图德拉",
+    "gender": "male",
+    "dynasty": "Jiménez dynasty",
+    "house": "House of Jiménez",
+    "culture": "Basque",
+    "faith": "Catholic",
+    "primaryTitle": "King of Navarre",
+    "primaryTitleCn": "纳瓦拉国王",
+    "titles": [
+      {
+        "title": "King of Navarre",
+        "titleCn": "纳瓦拉国王",
+        "startYear": 1194,
+        "endYear": 1234
+      }
+    ],
+    "tags": [
+      "monarch",
+      "noble"
+    ],
+    "rank": "king",
+    "importanceScore": 70,
+    "historicalRating": 7,
+    "relationships": {
+      "fatherId": "d1010000-0000-4000-8000-000000000012",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1194,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "king",
+          "monarch"
+        ],
+        "weight": 78,
+        "label": "Succeeded Sancho VI as King of Navarre",
+        "labelCn": "继桑乔六世为纳瓦拉国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Sancho_VII_of_Navarre"
+      },
+      {
+        "year": 1212,
+        "month": 7,
+        "day": 16,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "commander",
+          "main_commander"
+        ],
+        "weight": 95,
+        "label": "Battle of Las Navas de Tolosa",
+        "labelCn": "拉斯纳瓦斯德托洛萨之战",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Las_Navas_de_Tolosa",
+        "note": "His troops broke through and cut the chains guarding the Almohad caliph's tent."
+      },
+      {
+        "year": 1212,
+        "type": "dynasty",
+        "tags": [
+          "dynasty",
+          "title",
+          "uncertain"
+        ],
+        "weight": 62,
+        "label": "Adopted the chains of Navarre as his emblem",
+        "labelCn": "以纳瓦拉锁链为纹章",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Sancho_VII_of_Navarre",
+        "note": "Traditionally credited with originating the chains emblem; some scholarship attributes the heraldic form to his successor Theobald I."
+      },
+      {
+        "year": 1234,
+        "month": 4,
+        "day": 7,
+        "type": "death",
+        "tags": [
+          "death",
+          "king",
+          "monarch"
+        ],
+        "weight": 82,
+        "label": "Death at Tudela",
+        "labelCn": "在图德拉去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Sancho_VII_of_Navarre"
+      },
+      {
+        "year": 1234,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "dynasty",
+          "politics"
+        ],
+        "weight": 70,
+        "label": "Navarre passed to Theobald I of Champagne",
+        "labelCn": "纳瓦拉传予香槟的蒂博一世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Sancho_VII_of_Navarre"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Sancho_VII_of_Navarre",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Sancho_VII_of_Navarre",
+    "sourceNote": "Wikipedia (Sancho VII of Navarre), used for navigation.",
+    "notes": "King of Navarre 1194–1234, nicknamed \"the Strong\" for his stature, and the last of the Jiménez line. His decisive role at Las Navas de Tolosa (1212) is remembered in the chains of Navarre, and his childless death brought the crown to the House of Champagne.",
+    "createdDate": "20260823",
+    "createdOrder": 85
+  },
+  {
+    "id": "e1010000-0000-4000-8000-000000000001",
+    "firstName": "Ramiro",
+    "lastName": "of Aragon",
+    "displayName": "Ramiro I of Aragon",
+    "fullName": "Ramiro I, King of Aragon",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [
+      "Ramiro I"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "阿拉贡的拉米罗一世",
+    "fullNameCn": "阿拉贡国王拉米罗一世",
+    "birthYear": 1007,
+    "deathYear": 1063,
+    "birthPlace": "Kingdom of Pamplona",
+    "birthPlaceCn": "潘普洛纳王国",
+    "deathPlace": "Graus, Kingdom of Aragon",
+    "deathPlaceCn": "阿拉贡王国格劳斯",
+    "gender": "male",
+    "dynasty": "Jiménez dynasty",
+    "house": "House of Jiménez",
+    "culture": "Aragonese",
+    "faith": "Catholic",
+    "primaryTitle": "King of Aragon",
+    "primaryTitleCn": "阿拉贡国王",
+    "titles": [
+      {
+        "title": "King of Aragon",
+        "titleCn": "阿拉贡国王",
+        "startYear": 1035,
+        "endYear": 1063
+      }
+    ],
+    "tags": [
+      "monarch",
+      "noble"
+    ],
+    "rank": "king",
+    "importanceScore": 70,
+    "historicalRating": 7,
+    "relationships": {
+      "fatherId": "d1010000-0000-4000-8000-000000000005",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "d1010000-0000-4000-8000-000000000008"
+      ]
+    },
+    "events": [
+      {
+        "year": 1035,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "king",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Became the first King of Aragon",
+        "labelCn": "成为首位阿拉贡国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ramiro_I_of_Aragon"
+      },
+      {
+        "year": 1036,
+        "month": 8,
+        "day": 22,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 70,
+        "label": "Married Ermesinda (Gisberga) of Bigorre",
+        "labelCn": "与比戈尔的埃尔梅辛达（吉斯贝加）成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ramiro_I_of_Aragon"
+      },
+      {
+        "year": 1043,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "territory"
+        ],
+        "weight": 76,
+        "label": "Annexed Sobrarbe and Ribagorza",
+        "labelCn": "兼并索夫拉韦与里瓦戈萨",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ramiro_I_of_Aragon"
+      },
+      {
+        "year": 1063,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "commander",
+          "campaign"
+        ],
+        "weight": 88,
+        "label": "Fought the taifa of Zaragoza at the Battle of Graus",
+        "labelCn": "在格劳斯之战与萨拉戈萨泰法作战",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Graus"
+      },
+      {
+        "year": 1063,
+        "month": 5,
+        "day": 8,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 95,
+        "label": "Killed in the Battle of Graus",
+        "labelCn": "在格劳斯之战中战死",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ramiro_I_of_Aragon"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Ramiro_I_of_Aragon",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Ramiro_I_of_Aragon",
+    "sourceNote": "Basic card for the Kingdom of Aragon succession.",
+    "notes": "Illegitimate son of Sancho III Garcés of Pamplona; first King of Aragon (1035-1063), receiving the county of Aragon in the partition of his father's realm and raising it to a kingdom.",
+    "createdDate": "20260823",
+    "createdOrder": 86
+  },
+  {
+    "id": "e1010000-0000-4000-8000-000000000002",
+    "firstName": "Ramiro",
+    "lastName": "of Aragon",
+    "displayName": "Ramiro II of Aragon",
+    "fullName": "Ramiro II, King of Aragon",
+    "nickname": "the Monk",
+    "nicknameCn": "修士",
+    "alsoKnownAs": [
+      "Ramiro II"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "阿拉贡的拉米罗二世",
+    "fullNameCn": "阿拉贡国王拉米罗二世",
+    "birthYear": 1086,
+    "deathYear": 1157,
+    "birthPlace": "Kingdom of Aragon",
+    "birthPlaceCn": "阿拉贡王国",
+    "deathPlace": "Huesca, Kingdom of Aragon",
+    "deathPlaceCn": "阿拉贡王国韦斯卡",
+    "gender": "male",
+    "dynasty": "Jiménez dynasty",
+    "house": "House of Jiménez",
+    "culture": "Aragonese",
+    "faith": "Catholic",
+    "primaryTitle": "King of Aragon",
+    "primaryTitleCn": "阿拉贡国王",
+    "titles": [
+      {
+        "title": "King of Aragon",
+        "titleCn": "阿拉贡国王",
+        "startYear": 1134,
+        "endYear": 1137
+      }
+    ],
+    "tags": [
+      "monarch",
+      "noble",
+      "clergy"
+    ],
+    "rank": "king",
+    "importanceScore": 65,
+    "historicalRating": 7,
+    "relationships": {
+      "fatherId": "d1010000-0000-4000-8000-000000000008",
+      "motherId": "",
+      "spouseIds": [
+        "e1010000-0000-4000-8000-000000000003"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "e1010000-0000-4000-8000-000000000004"
+      ]
+    },
+    "events": [
+      {
+        "year": 1134,
+        "type": "election",
+        "tags": [
+          "election",
+          "king",
+          "monarch"
+        ],
+        "weight": 78,
+        "label": "Elected King of Aragon after Alfonso I's death",
+        "labelCn": "在阿方索一世去世后当选阿拉贡国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ramiro_II_of_Aragon"
+      },
+      {
+        "year": 1135,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 72,
+        "label": "Married Agnes of Aquitaine to secure an heir",
+        "labelCn": "为获继承人迎娶阿基坦的阿格内丝",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Agnes_of_Aquitaine,_Queen_of_Aragon"
+      },
+      {
+        "year": 1136,
+        "type": "childbirth",
+        "tags": [
+          "dynasty",
+          "succession"
+        ],
+        "weight": 66,
+        "label": "Birth of his daughter and heir Petronilla",
+        "labelCn": "女儿及继承人佩特罗妮拉出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Petronilla_of_Aragon"
+      },
+      {
+        "year": 1137,
+        "type": "abdication",
+        "tags": [
+          "abdication",
+          "dynasty",
+          "succession"
+        ],
+        "weight": 82,
+        "label": "Betrothed Petronilla to Ramon Berenguer IV and withdrew from rule",
+        "labelCn": "将佩特罗妮拉许配给拉蒙·贝伦格尔四世并退出统治",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ramiro_II_of_Aragon"
+      },
+      {
+        "year": 1157,
+        "month": 8,
+        "day": 16,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 88,
+        "label": "Died at Huesca",
+        "labelCn": "在韦斯卡去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ramiro_II_of_Aragon"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Ramiro_II_of_Aragon",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Ramiro_II_of_Aragon",
+    "sourceNote": "Basic card for the Kingdom of Aragon succession.",
+    "notes": "Son of Sancho Ramírez; a monk elected king after Alfonso I died childless. Married Agnes of Aquitaine to produce an heir, then abdicated in 1137, leaving the crown to his daughter Petronilla.",
+    "createdDate": "20260823",
+    "createdOrder": 87
+  },
+  {
+    "id": "e1010000-0000-4000-8000-000000000004",
+    "firstName": "Petronilla",
+    "lastName": "of Aragon",
+    "displayName": "Petronilla of Aragon",
+    "fullName": "Petronilla, Queen of Aragon",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [
+      "Petronila"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "阿拉贡的佩特罗妮拉",
+    "fullNameCn": "阿拉贡女王佩特罗妮拉",
+    "birthYear": 1136,
+    "deathYear": 1173,
+    "birthPlace": "Kingdom of Aragon",
+    "birthPlaceCn": "阿拉贡王国",
+    "deathPlace": "Barcelona, County of Barcelona",
+    "deathPlaceCn": "巴塞罗那伯国巴塞罗那",
+    "gender": "female",
+    "dynasty": "Jiménez dynasty",
+    "house": "House of Jiménez",
+    "culture": "Aragonese",
+    "faith": "Catholic",
+    "primaryTitle": "Queen of Aragon",
+    "primaryTitleCn": "阿拉贡女王",
+    "titles": [
+      {
+        "title": "Queen of Aragon",
+        "titleCn": "阿拉贡女王",
+        "startYear": 1137,
+        "endYear": 1164
+      }
+    ],
+    "tags": [
+      "monarch",
+      "queen",
+      "noble"
+    ],
+    "rank": "queen",
+    "importanceScore": 70,
+    "historicalRating": 7,
+    "relationships": {
+      "fatherId": "e1010000-0000-4000-8000-000000000002",
+      "motherId": "e1010000-0000-4000-8000-000000000003",
+      "spouseIds": [
+        "e1010000-0000-4000-8000-000000000005"
+      ],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1137,
+        "month": 8,
+        "day": 11,
+        "type": "dynasty",
+        "tags": [
+          "dynasty",
+          "succession",
+          "queen"
+        ],
+        "weight": 80,
+        "label": "Betrothed to Ramon Berenguer IV, uniting Aragon and Barcelona",
+        "labelCn": "与拉蒙·贝伦格尔四世订婚，阿拉贡与巴塞罗那合并",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Petronilla_of_Aragon"
+      },
+      {
+        "year": 1150,
+        "month": 8,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 74,
+        "label": "Married Ramon Berenguer IV at Lleida",
+        "labelCn": "在莱里达与拉蒙·贝伦格尔四世成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Petronilla_of_Aragon"
+      },
+      {
+        "year": 1162,
+        "type": "government",
+        "tags": [
+          "government",
+          "regency",
+          "queen"
+        ],
+        "weight": 72,
+        "label": "Ruled Aragon during her son Alfonso II's minority",
+        "labelCn": "在儿子阿方索二世年幼时统治阿拉贡",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Petronilla_of_Aragon"
+      },
+      {
+        "year": 1164,
+        "type": "abdication",
+        "tags": [
+          "abdication",
+          "succession"
+        ],
+        "weight": 80,
+        "label": "Abdicated in favour of her son Alfonso II",
+        "labelCn": "禅位给儿子阿方索二世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Petronilla_of_Aragon"
+      },
+      {
+        "year": 1173,
+        "month": 10,
+        "day": 15,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 88,
+        "label": "Died at Barcelona",
+        "labelCn": "在巴塞罗那去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Petronilla_of_Aragon"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Petronilla_of_Aragon",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Petronilla_of_Aragon",
+    "sourceNote": "Basic card for the Kingdom of Aragon succession.",
+    "notes": "Ruling queen in her own right, succeeding her father Ramiro II in 1137. Her marriage to Ramon Berenguer IV joined Aragon and Barcelona in a dynastic union without immediately merging the two realms.",
+    "createdDate": "20260823",
+    "createdOrder": 89
+  }
+]

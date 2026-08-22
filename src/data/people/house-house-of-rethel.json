@@ -1,0 +1,305 @@
+[
+  {
+    "id": "c9390000-0000-4000-8000-000000000035",
+    "firstName": "Melisende",
+    "lastName": "of Jerusalem",
+    "displayName": "Melisende of Jerusalem",
+    "fullName": "Melisende, Queen of Jerusalem",
+    "displayNameCn": "耶路撒冷的梅丽桑德",
+    "fullNameCn": "耶路撒冷女王梅丽桑德",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1105,
+    "deathYear": 1161,
+    "birthPlace": "Latin East",
+    "birthPlaceCn": "拉丁东方",
+    "deathPlace": "Jerusalem",
+    "deathPlaceCn": "耶路撒冷",
+    "gender": "female",
+    "dynasty": "House of Rethel",
+    "house": "House of Rethel",
+    "culture": "Frankish",
+    "faith": "Catholic",
+    "primaryTitle": "Queen of Jerusalem",
+    "primaryTitleCn": "耶路撒冷女王",
+    "titles": [
+      {
+        "title": "Queen of Jerusalem",
+        "titleCn": "耶路撒冷女王",
+        "startYear": "",
+        "endYear": 1161
+      }
+    ],
+    "tags": [
+      "queen",
+      "consort",
+      "noble"
+    ],
+    "rank": "queen",
+    "importanceScore": 80,
+    "historicalRating": 8,
+    "relationships": {
+      "fatherId": "c9490000-0000-4000-8000-000000000000",
+      "motherId": "",
+      "spouseIds": [
+        "c9300000-0000-4000-8000-000000000026"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "c9400000-0000-4000-8000-000000000036",
+        "c9410000-0000-4000-8000-000000000037"
+      ]
+    },
+    "events": [
+      {
+        "year": 1129,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance",
+          "queen"
+        ],
+        "weight": 78,
+        "label": "Marriage to Fulk V of Anjou",
+        "labelCn": "与安茹的富尔克五世成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Fulk,_King_of_Jerusalem",
+        "note": "Baldwin II arranged Melisende's marriage to Fulk V of Anjou to secure the succession; Fulk was to rule jointly with her after Baldwin's death."
+      },
+      {
+        "year": 1131,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "queen",
+          "monarch"
+        ],
+        "weight": 85,
+        "label": "Crowned queen of Jerusalem",
+        "labelCn": "加冕为耶路撒冷女王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Melisende,_Queen_of_Jerusalem",
+        "note": "On Baldwin II's death Melisende was crowned joint ruler alongside her husband Fulk and their infant son Baldwin III."
+      },
+      {
+        "year": 1134,
+        "type": "political_crisis",
+        "tags": [
+          "political_crisis",
+          "rebellion",
+          "politics"
+        ],
+        "weight": 72,
+        "label": "Rebellion of Hugh II of Jaffa",
+        "labelCn": "雅法的休二世叛乱",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Hugh_II_of_Jaffa",
+        "note": "Count Hugh II of Jaffa revolted against Fulk; rumors of an affair with Melisende circulated, and her supporters forced Fulk to grant her a larger share of authority."
+      },
+      {
+        "year": 1138,
+        "type": "religion",
+        "tags": [
+          "religion",
+          "faith"
+        ],
+        "weight": 70,
+        "label": "Founded the convent of Bethany",
+        "labelCn": "创建伯大尼修女院",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Melisende,_Queen_of_Jerusalem",
+        "note": "Melisende founded the convent of St Lazarus at Bethany and installed her sister Ioveta as abbess; she was a major patron of religious houses and the arts (the Melisende Psalter)."
+      },
+      {
+        "year": 1143,
+        "type": "regency",
+        "tags": [
+          "regency",
+          "queen",
+          "monarch"
+        ],
+        "weight": 75,
+        "label": "Regency for Baldwin III after Fulk's death",
+        "labelCn": "富尔克去世后为鲍德温三世摄政",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Melisende,_Queen_of_Jerusalem",
+        "note": "Fulk died in a hunting accident in 1143; Melisende ruled as regent for the young Baldwin III and continued to govern alongside him."
+      },
+      {
+        "year": 1148,
+        "type": "crusade",
+        "tags": [
+          "crusade",
+          "politics"
+        ],
+        "weight": 80,
+        "label": "Council of Acre during the Second Crusade",
+        "labelCn": "第二次十字军东征期间的阿卡会议",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Council_of_Acre",
+        "note": "In 1148 Melisende hosted the Council of Acre, where the crusader leadership decided to attack Damascus, a decision that ended in failure."
+      },
+      {
+        "year": 1152,
+        "type": "war",
+        "tags": [
+          "war",
+          "political_crisis",
+          "queen"
+        ],
+        "weight": 82,
+        "label": "Civil war with Baldwin III and division of the kingdom",
+        "labelCn": "与鲍德温三世的王位之争与王国分治",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Melisende,_Queen_of_Jerusalem",
+        "note": "Baldwin III demanded sole rule; Melisende resisted and was besieged in Jerusalem, ultimately yielding and retaining Nablus and adjacent lands."
+      },
+      {
+        "year": 1153,
+        "type": "diplomacy",
+        "tags": [
+          "diplomacy",
+          "politics",
+          "queen"
+        ],
+        "weight": 62,
+        "label": "Reconciliation with Baldwin III",
+        "labelCn": "与鲍德温三世和解",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Melisende,_Queen_of_Jerusalem",
+        "note": "After the 1152 conflict mother and son reconciled, and Melisende resumed advising Baldwin III during his later reign."
+      },
+      {
+        "year": 1161,
+        "month": 9,
+        "day": 11,
+        "type": "death",
+        "tags": [
+          "death",
+          "queen",
+          "monarch"
+        ],
+        "weight": 88,
+        "label": "Death at Jerusalem",
+        "labelCn": "在耶路撒冷去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Melisende,_Queen_of_Jerusalem",
+        "note": "Melisende fell ill in 1161, probably after a stroke, and died on 11 September; she was buried beside her mother Morphia at the shrine of Our Lady of Josaphat."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Fulk_V,_Count_of_Anjou",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Fulk_V,_Count_of_Anjou",
+    "sourceNote": "Runciman, A History of the Crusades; Riley-Smith, The Crusades; Mayer, The Crusades.",
+    "notes": "Queen regnant of Jerusalem, co-ruler with her husband Fulk and later her son Baldwin III, and the most powerful woman of the crusader states. She defended her authority against Fulk (1134) and Baldwin III (1152) and was a major patron of the Church and the arts, commissioning the Melisende Psalter. Her exact role in some episodes — such as the rumored affair with Hugh II of Jaffa — is disputed in the sources.",
+    "createdDate": "20260822",
+    "createdOrder": 47,
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died of illness, probably after a stroke",
+      "summaryCn": "病逝，可能因中风",
+      "detail": "Melisende fell ill in 1161 — probably after a stroke that impaired her memory — and died on 11 September 1161 at Jerusalem; she was buried beside her mother Morphia at the shrine of Our Lady of Josaphat.",
+      "detailCn": "1161 年梅丽桑德病倒，可能是中风导致记忆受损；同年 9 月 11 日于耶路撒冷去世，葬于约沙法圣母圣龛，与母亲莫尔菲娅相邻。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Melisende,_Queen_of_Jerusalem"
+    }
+  },
+  {
+    "id": "c9490000-0000-4000-8000-000000000000",
+    "firstName": "Baldwin",
+    "lastName": "of Jerusalem",
+    "displayName": "Baldwin II of Jerusalem",
+    "fullName": "Baldwin II, King of Jerusalem",
+    "displayNameCn": "耶路撒冷的鲍德温二世",
+    "fullNameCn": "耶路撒冷国王鲍德温二世",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1075,
+    "deathYear": 1131,
+    "birthPlace": "Latin East",
+    "birthPlaceCn": "拉丁东方",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "House of Rethel",
+    "house": "House of Rethel",
+    "culture": "Frankish",
+    "faith": "Catholic",
+    "primaryTitle": "King of Jerusalem",
+    "primaryTitleCn": "耶路撒冷国王",
+    "titles": [
+      {
+        "title": "King of Jerusalem",
+        "titleCn": "耶路撒冷国王",
+        "startYear": "",
+        "endYear": 1131
+      }
+    ],
+    "tags": [
+      "monarch",
+      "commander",
+      "noble"
+    ],
+    "rank": "king",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "c9390000-0000-4000-8000-000000000035"
+      ]
+    },
+    "events": [
+      {
+        "year": 1118,
+        "month": 4,
+        "day": 14,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "king",
+          "monarch"
+        ],
+        "weight": 85,
+        "label": "Crowned King of Jerusalem",
+        "labelCn": "加冕为耶路撒冷国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Baldwin_II_of_Jerusalem",
+        "note": "A former count of Edessa, he succeeded Baldwin I and was crowned on 14 April 1118."
+      },
+      {
+        "year": 1123,
+        "type": "imprisonment",
+        "tags": [
+          "imprisonment",
+          "political_crisis",
+          "politics"
+        ],
+        "weight": 78,
+        "label": "Captured and imprisoned by the Artuqids",
+        "labelCn": "被阿尔图格王朝俘虏囚禁",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Baldwin_II_of_Jerusalem",
+        "note": "Taken prisoner by the Artuqid lord Balak in 1123 and held until ransomed in 1124."
+      },
+      {
+        "year": 1131,
+        "month": 8,
+        "day": 21,
+        "type": "death",
+        "tags": [
+          "death",
+          "king",
+          "monarch"
+        ],
+        "weight": 74,
+        "label": "Death",
+        "labelCn": "去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Baldwin_II_of_Jerusalem",
+        "note": "Died on 21 August 1131; he had arranged his daughter Melisende's marriage to Fulk V of Anjou to secure the succession."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Fulk_V,_Count_of_Anjou",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Fulk_V,_Count_of_Anjou",
+    "sourceNote": "Basic family card for the Kingdom of Jerusalem lineage.",
+    "notes": "Added for the Jerusalem title lineage.",
+    "createdDate": "20260822",
+    "createdOrder": 57
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "id": "d177d56f-bfee-4ad1-8aa4-bd1b09df2a8a",
+    "firstName": "Lothair",
+    "lastName": "",
+    "displayName": "Lothair III",
+    "fullName": "Lothair III, Holy Roman Emperor",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Lothair III",
+      "Lothair of Supplinburg"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "洛泰尔三世",
+    "fullNameCn": "洛泰尔三世",
+    "birthYear": 1075,
+    "deathYear": 1137,
+    "birthPlace": "",
+    "deathPlace": "Breitenwang, Germany",
+    "deathPlaceCn": "德意志布赖滕旺",
+    "gender": "male",
+    "dynasty": "Supplinburger dynasty",
+    "house": "Supplinburger dynasty",
+    "culture": "German",
+    "faith": "Catholic",
+    "primaryTitle": "Holy Roman Emperor",
+    "primaryTitleCn": "神圣罗马帝国皇帝",
+    "titles": [
+      {
+        "title": "King of the Romans",
+        "startYear": 1125,
+        "endYear": 1133,
+        "titleCn": "罗马人的国王"
+      },
+      {
+        "title": "Holy Roman Emperor",
+        "startYear": 1133,
+        "endYear": 1137,
+        "titleCn": "神圣罗马帝国皇帝"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "emperor",
+      "king"
+    ],
+    "rank": "emperor",
+    "importanceScore": 64,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1075,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Lothair_III,_Holy_Roman_Emperor"
+      },
+      {
+        "year": 1125,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Began rule as King of the Romans",
+        "labelCn": "开始担任罗马人的国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Lothair_III,_Holy_Roman_Emperor"
+      },
+      {
+        "year": 1137,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Lothair_III,_Holy_Roman_Emperor"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Lothair_III,_Holy_Roman_Emperor",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Lothair_III,_Holy_Roman_Emperor",
+    "sourceNote": "King of the Romans from 1125, crowned Emperor in 1133. Core timeline generated from recorded lifespan and titles on 2026-08-20.",
+    "notes": "Holy Roman Emperor between the Salians and the Hohenstaufen; died childless.",
+    "createdDate": "20260820",
+    "createdOrder": 6
+  }
+]

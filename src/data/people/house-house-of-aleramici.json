@@ -1,0 +1,658 @@
+[
+  {
+    "id": "c9640000-0000-4000-8000-000000000000",
+    "firstName": "William",
+    "lastName": "of Montferrat",
+    "displayName": "William V of Montferrat",
+    "fullName": "William V, Marquis of Montferrat",
+    "displayNameCn": "蒙费拉托的威廉五世（长者）",
+    "fullNameCn": "蒙费拉托侯爵威廉五世（长者）",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1115,
+    "deathYear": 1191,
+    "birthPlace": "Latin East",
+    "birthPlaceCn": "拉丁东方",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "House of Aleramici",
+    "house": "House of Aleramici",
+    "culture": "Frankish",
+    "faith": "Catholic",
+    "primaryTitle": "Marquis of Montferrat",
+    "primaryTitleCn": "蒙费拉托侯爵",
+    "titles": [
+      {
+        "title": "Marquis of Montferrat",
+        "titleCn": "蒙费拉托侯爵",
+        "startYear": "",
+        "endYear": 1191
+      }
+    ],
+    "tags": [
+      "noble",
+      "commander"
+    ],
+    "rank": "marquis",
+    "importanceScore": 45,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "c9650000-0000-4000-8000-000000000000"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "c9500000-0000-4000-8000-000000000000",
+        "c9560000-0000-4000-8000-000000000000",
+        "c9660000-0000-4000-8000-000000000000",
+        "c9670000-0000-4000-8000-000000000000",
+        "c9680000-0000-4000-8000-000000000000",
+        "c9690000-0000-4000-8000-000000000000",
+        "c9700000-0000-4000-8000-000000000000",
+        "c9710000-0000-4000-8000-000000000000"
+      ]
+    },
+    "events": [
+      {
+        "year": 1136,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title",
+          "noble"
+        ],
+        "weight": 76,
+        "label": "Succeeded as Marquis of Montferrat",
+        "labelCn": "继承蒙费拉托侯爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/William_V,_Marquis_of_Montferrat",
+        "note": "Succeeded his father Renier as marquis of Montferrat around 1136."
+      },
+      {
+        "year": 1147,
+        "type": "crusade",
+        "tags": [
+          "crusade",
+          "faith",
+          "campaign"
+        ],
+        "weight": 72,
+        "label": "Second Crusade",
+        "labelCn": "参加第二次十字军东征",
+        "wikiUrl": "https://en.wikipedia.org/wiki/William_V,_Marquis_of_Montferrat",
+        "note": "Took part in the Second Crusade (1147–1149)."
+      },
+      {
+        "year": 1187,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "defeat",
+          "commander"
+        ],
+        "weight": 84,
+        "label": "Battle of Hattin — captured",
+        "labelCn": "哈丁战役被俘",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Hattin",
+        "note": "Fought at the Battle of Hattin (4 July 1187) and was captured when the Frankish army was destroyed; he was later ransomed and died in 1191."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Fulk_V,_Count_of_Anjou",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Fulk_V,_Count_of_Anjou",
+    "sourceNote": "Basic family card for the Montferrat and Jerusalem lineage.",
+    "notes": "Added while completing the Montferrat family.",
+    "createdDate": "20260822",
+    "createdOrder": 72
+  },
+  {
+    "id": "c9660000-0000-4000-8000-000000000000",
+    "firstName": "Boniface",
+    "lastName": "of Montferrat",
+    "displayName": "Boniface I of Montferrat",
+    "fullName": "Boniface I, King of Thessalonica and Marquis of Montferrat",
+    "displayNameCn": "蒙费拉托的博尼法斯一世",
+    "fullNameCn": "塞萨洛尼基国王兼蒙费拉托侯爵博尼法斯一世",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1150,
+    "deathYear": 1207,
+    "birthPlace": "Latin East",
+    "birthPlaceCn": "拉丁东方",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "House of Aleramici",
+    "house": "House of Aleramici",
+    "culture": "Frankish",
+    "faith": "Catholic",
+    "primaryTitle": "King of Thessalonica",
+    "primaryTitleCn": "塞萨洛尼基国王",
+    "titles": [
+      {
+        "title": "Marquis of Montferrat",
+        "titleCn": "蒙费拉托侯爵",
+        "startYear": "",
+        "endYear": 1207
+      },
+      {
+        "title": "King of Thessalonica",
+        "titleCn": "塞萨洛尼基国王",
+        "startYear": 1205,
+        "endYear": 1207
+      }
+    ],
+    "tags": [
+      "monarch",
+      "noble",
+      "commander"
+    ],
+    "rank": "marquis",
+    "importanceScore": 45,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "c9640000-0000-4000-8000-000000000000",
+      "motherId": "c9650000-0000-4000-8000-000000000000",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1201,
+        "type": "crusade",
+        "tags": [
+          "crusade",
+          "commander",
+          "main_commander"
+        ],
+        "weight": 88,
+        "label": "Elected leader of the Fourth Crusade",
+        "labelCn": "被推选为第四次十字军领袖",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Boniface_I,_Marquis_of_Montferrat",
+        "note": "After Theobald of Champagne's death, Boniface was chosen to lead the Fourth Crusade in 1201."
+      },
+      {
+        "year": 1204,
+        "type": "conquest",
+        "tags": [
+          "conquest",
+          "king",
+          "monarch"
+        ],
+        "weight": 90,
+        "label": "Conquered Thessalonica and became its king",
+        "labelCn": "攻占塞萨洛尼基并称王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Boniface_I,_Marquis_of_Montferrat",
+        "note": "After the fall of Constantinople he received Thessalonica and ruled it as king from 1204/1205."
+      },
+      {
+        "year": 1207,
+        "type": "death",
+        "tags": [
+          "death",
+          "battle",
+          "defeat"
+        ],
+        "weight": 86,
+        "label": "Killed in battle against the Bulgarians",
+        "labelCn": "与保加利亚人交战时阵亡",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Boniface_I,_Marquis_of_Montferrat",
+        "note": "Killed on 4 September 1207 in an ambush by the forces of Tsar Kaloyan of Bulgaria."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Fulk_V,_Count_of_Anjou",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Fulk_V,_Count_of_Anjou",
+    "sourceNote": "Basic family card for the Montferrat and Jerusalem lineage.",
+    "notes": "Added while completing the Montferrat family.",
+    "createdDate": "20260822",
+    "createdOrder": 74
+  },
+  {
+    "id": "c9670000-0000-4000-8000-000000000000",
+    "firstName": "Frederick",
+    "lastName": "of Montferrat",
+    "displayName": "Frederick of Montferrat",
+    "fullName": "Frederick of Montferrat, Bishop of Alba",
+    "displayNameCn": "蒙费拉托的腓特烈",
+    "fullNameCn": "阿尔巴主教蒙费拉托的腓特烈",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1155,
+    "deathYear": 1180,
+    "birthPlace": "Latin East",
+    "birthPlaceCn": "拉丁东方",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "House of Aleramici",
+    "house": "House of Aleramici",
+    "culture": "Frankish",
+    "faith": "Catholic",
+    "primaryTitle": "Bishop of Alba",
+    "primaryTitleCn": "阿尔巴主教",
+    "titles": [
+      {
+        "title": "Bishop of Alba",
+        "titleCn": "阿尔巴主教",
+        "startYear": "",
+        "endYear": 1180
+      }
+    ],
+    "tags": [
+      "noble"
+    ],
+    "rank": "bishop",
+    "importanceScore": 45,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "c9640000-0000-4000-8000-000000000000",
+      "motherId": "c9650000-0000-4000-8000-000000000000",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1175,
+        "type": "religion",
+        "tags": [
+          "religion",
+          "faith",
+          "uncertain"
+        ],
+        "weight": 62,
+        "label": "Became Bishop of Alba",
+        "labelCn": "出任阿尔巴主教",
+        "wikiUrl": "https://en.wikipedia.org/wiki/William_V,_Marquis_of_Montferrat",
+        "note": "Entered the Church and became bishop of Alba; the dates are uncertain and the identification is debated."
+      },
+      {
+        "year": 1180,
+        "type": "death",
+        "tags": [
+          "death",
+          "uncertain"
+        ],
+        "weight": 58,
+        "label": "Death",
+        "labelCn": "去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/William_V,_Marquis_of_Montferrat",
+        "note": "Died around 1180; details are poorly documented."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Fulk_V,_Count_of_Anjou",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Fulk_V,_Count_of_Anjou",
+    "sourceNote": "Basic family card for the Montferrat and Jerusalem lineage.",
+    "notes": "Added while completing the Montferrat family.",
+    "createdDate": "20260822",
+    "createdOrder": 75
+  },
+  {
+    "id": "c9680000-0000-4000-8000-000000000000",
+    "firstName": "Renier",
+    "lastName": "of Montferrat",
+    "displayName": "Renier of Montferrat",
+    "fullName": "Renier of Montferrat, Caesar of the Byzantine Empire",
+    "displayNameCn": "蒙费拉托的雷涅尔",
+    "fullNameCn": "拜占庭帝国的凯撒蒙费拉托的雷涅尔",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1162,
+    "deathYear": 1183,
+    "birthPlace": "Latin East",
+    "birthPlaceCn": "拉丁东方",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "House of Aleramici",
+    "house": "House of Aleramici",
+    "culture": "Frankish",
+    "faith": "Catholic",
+    "primaryTitle": "Caesar of the Byzantine Empire",
+    "primaryTitleCn": "拜占庭帝国的凯撒",
+    "titles": [
+      {
+        "title": "Caesar of the Byzantine Empire",
+        "titleCn": "拜占庭帝国的凯撒",
+        "startYear": "",
+        "endYear": 1183
+      }
+    ],
+    "tags": [
+      "noble"
+    ],
+    "rank": "noble",
+    "importanceScore": 45,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "c9640000-0000-4000-8000-000000000000",
+      "motherId": "c9650000-0000-4000-8000-000000000000",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1180,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "title",
+          "noble"
+        ],
+        "weight": 82,
+        "label": "Married Maria Komnene and became Caesar",
+        "labelCn": "与玛丽亚·科穆宁成婚并受封凯撒",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Renier_of_Montferrat",
+        "note": "Married Maria Komnene, daughter of Emperor Manuel I, and received the title of Caesar."
+      },
+      {
+        "year": 1182,
+        "type": "political_crisis",
+        "tags": [
+          "political_crisis",
+          "politics"
+        ],
+        "weight": 74,
+        "label": "Opposed the regency for Alexios II",
+        "labelCn": "反对阿莱克修斯二世的摄政",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Renier_of_Montferrat",
+        "note": "After Manuel I's death he and Maria contested the regency, later coming into conflict with Andronikos I Komnenos."
+      },
+      {
+        "year": 1183,
+        "type": "death",
+        "tags": [
+          "death",
+          "political_crisis"
+        ],
+        "weight": 78,
+        "label": "Killed in Constantinople",
+        "labelCn": "在君士坦丁堡遇害",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Renier_of_Montferrat",
+        "note": "Died in 1183 in Constantinople during Andronikos I's seizure of power."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Fulk_V,_Count_of_Anjou",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Fulk_V,_Count_of_Anjou",
+    "sourceNote": "Basic family card for the Montferrat and Jerusalem lineage.",
+    "notes": "Added while completing the Montferrat family.",
+    "createdDate": "20260822",
+    "createdOrder": 76
+  },
+  {
+    "id": "c9690000-0000-4000-8000-000000000000",
+    "firstName": "Agnes",
+    "lastName": "of Montferrat",
+    "displayName": "Agnes of Montferrat",
+    "fullName": "Agnes of Montferrat, Countess of Modigliana",
+    "displayNameCn": "蒙费拉托的阿涅丝",
+    "fullNameCn": "莫迪利亚纳伯爵夫人蒙费拉托的阿涅丝",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1155,
+    "deathYear": 1202,
+    "birthPlace": "Latin East",
+    "birthPlaceCn": "拉丁东方",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "female",
+    "dynasty": "House of Aleramici",
+    "house": "House of Aleramici",
+    "culture": "Frankish",
+    "faith": "Catholic",
+    "primaryTitle": "Countess of Modigliana",
+    "primaryTitleCn": "莫迪利亚纳伯爵夫人",
+    "titles": [
+      {
+        "title": "Countess of Modigliana",
+        "titleCn": "莫迪利亚纳伯爵夫人",
+        "startYear": "",
+        "endYear": 1202
+      }
+    ],
+    "tags": [
+      "noble"
+    ],
+    "rank": "countess",
+    "importanceScore": 45,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "c9640000-0000-4000-8000-000000000000",
+      "motherId": "c9650000-0000-4000-8000-000000000000",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1170,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "noble",
+          "uncertain"
+        ],
+        "weight": 66,
+        "label": "Married Guido Guerra III of Modigliana",
+        "labelCn": "与莫迪利亚纳的圭多·圭拉三世成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/William_V,_Marquis_of_Montferrat",
+        "note": "Married Count Guido Guerra III Guidi of Modigliana; the date is uncertain."
+      },
+      {
+        "year": 1180,
+        "type": "annulment",
+        "tags": [
+          "religion",
+          "uncertain"
+        ],
+        "weight": 62,
+        "label": "Marriage annulled; entered a convent",
+        "labelCn": "婚姻被废，进入修女院",
+        "wikiUrl": "https://en.wikipedia.org/wiki/William_V,_Marquis_of_Montferrat",
+        "note": "The marriage was annulled before 1180 on grounds of childlessness; Agnes then entered the convent of Santa Maria di Rocca delle Donne."
+      },
+      {
+        "year": 1202,
+        "type": "death",
+        "tags": [
+          "death",
+          "noble"
+        ],
+        "weight": 60,
+        "label": "Death",
+        "labelCn": "去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/William_V,_Marquis_of_Montferrat",
+        "note": "Died in 1202."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Fulk_V,_Count_of_Anjou",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Fulk_V,_Count_of_Anjou",
+    "sourceNote": "Basic family card for the Montferrat and Jerusalem lineage.",
+    "notes": "Added while completing the Montferrat family.",
+    "createdDate": "20260822",
+    "createdOrder": 77
+  },
+  {
+    "id": "c9700000-0000-4000-8000-000000000000",
+    "firstName": "Azalaïs",
+    "lastName": "of Montferrat",
+    "displayName": "Azalaïs of Montferrat",
+    "fullName": "Azalaïs of Montferrat, Marchioness of Saluzzo",
+    "displayNameCn": "蒙费拉托的阿扎莱",
+    "fullNameCn": "萨卢佐侯爵夫人蒙费拉托的阿扎莱",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1160,
+    "deathYear": 1232,
+    "birthPlace": "Latin East",
+    "birthPlaceCn": "拉丁东方",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "female",
+    "dynasty": "House of Aleramici",
+    "house": "House of Aleramici",
+    "culture": "Frankish",
+    "faith": "Catholic",
+    "primaryTitle": "Marchioness of Saluzzo",
+    "primaryTitleCn": "萨卢佐侯爵夫人",
+    "titles": [
+      {
+        "title": "Marchioness of Saluzzo",
+        "titleCn": "萨卢佐侯爵夫人",
+        "startYear": "",
+        "endYear": 1232
+      }
+    ],
+    "tags": [
+      "noble"
+    ],
+    "rank": "marchioness",
+    "importanceScore": 45,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "c9640000-0000-4000-8000-000000000000",
+      "motherId": "c9650000-0000-4000-8000-000000000000",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1182,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 72,
+        "label": "Married Manfred II of Saluzzo",
+        "labelCn": "与萨卢佐的曼弗雷德二世成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Azala%C3%AFs_of_Montferrat",
+        "note": "Married Marquis Manfred II of Saluzzo before 1182, becoming marchioness consort."
+      },
+      {
+        "year": 1215,
+        "type": "regency",
+        "tags": [
+          "regency",
+          "government",
+          "noble"
+        ],
+        "weight": 76,
+        "label": "Regent of Saluzzo",
+        "labelCn": "摄政萨卢佐",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Azala%C3%AFs_of_Montferrat",
+        "note": "After her husband's death in 1215 she served as regent of Saluzzo for her grandson Manfred III until 1218."
+      },
+      {
+        "year": 1232,
+        "type": "death",
+        "tags": [
+          "death",
+          "noble"
+        ],
+        "weight": 64,
+        "label": "Death",
+        "labelCn": "去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Azala%C3%AFs_of_Montferrat",
+        "note": "A patron of troubadours (notably Peire Vidal); died 1232 and was buried at Santa Maria di Staffarda."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Fulk_V,_Count_of_Anjou",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Fulk_V,_Count_of_Anjou",
+    "sourceNote": "Basic family card for the Montferrat and Jerusalem lineage.",
+    "notes": "Added while completing the Montferrat family.",
+    "createdDate": "20260822",
+    "createdOrder": 78
+  },
+  {
+    "id": "c9710000-0000-4000-8000-000000000000",
+    "firstName": "Unnamed",
+    "lastName": "of Montferrat",
+    "displayName": "Unnamed daughter of William V",
+    "fullName": "Unnamed daughter of William V of Montferrat",
+    "displayNameCn": "威廉五世的无名女儿",
+    "fullNameCn": "蒙费拉托的威廉五世的无名女儿",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": "",
+    "deathYear": "",
+    "birthPlace": "Latin East",
+    "birthPlaceCn": "拉丁东方",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "female",
+    "dynasty": "House of Aleramici",
+    "house": "House of Aleramici",
+    "culture": "Frankish",
+    "faith": "Catholic",
+    "primaryTitle": "Noblewoman of Montferrat",
+    "primaryTitleCn": "蒙费拉托女贵族",
+    "titles": [
+      {
+        "title": "Noblewoman of Montferrat",
+        "titleCn": "蒙费拉托女贵族",
+        "startYear": "",
+        "endYear": ""
+      }
+    ],
+    "tags": [
+      "noble"
+    ],
+    "rank": "noble",
+    "importanceScore": 45,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "c9640000-0000-4000-8000-000000000000",
+      "motherId": "c9650000-0000-4000-8000-000000000000",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": "",
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "uncertain"
+        ],
+        "weight": 56,
+        "label": "Married Alberto Malaspina",
+        "labelCn": "与马拉斯皮纳的阿尔贝托成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/William_V,_Marquis_of_Montferrat",
+        "note": "Married Alberto 'the Moor' Malaspina, a marquess of the Malaspina family and a noted troubadour patron; the date is not recorded and she may be the trobairitz known as Ysabella."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Fulk_V,_Count_of_Anjou",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Fulk_V,_Count_of_Anjou",
+    "sourceNote": "Wikipedia (William V, Marquis of Montferrat; Albert Malaspina), used for navigation.",
+    "notes": "Daughter of William V of Montferrat and Judith of Babenberg, known only through her marriage to Alberto Malaspina; her name and dates are unrecorded.",
+    "createdDate": "20260822",
+    "createdOrder": 79
+  }
+]

@@ -18,6 +18,7 @@ import countyOfToulouseData from "../data/titles/county-of-toulouse.json";
 import countyOfAnjouData from "../data/titles/county-of-anjou.json";
 import kingdomOfJerusalemData from "../data/titles/kingdom-of-jerusalem.json";
 import countyOfFlandersData from "../data/titles/county-of-flanders.json";
+import countyOfHainautData from "../data/titles/county-of-hainaut.json";
 import countyOfProvenceData from "../data/titles/county-of-provence.json";
 import duchyOfBrabantData from "../data/titles/duchy-of-brabant.json";
 import duchyOfBavariaData from "../data/titles/duchy-of-bavaria.json";
@@ -53,6 +54,7 @@ const kingOfNavarre = kingOfNavarreData as unknown as TitleLineage;
 const duchyOfAquitaine = duchyOfAquitaineData as unknown as TitleLineage;
 const countyOfToulouse = countyOfToulouseData as unknown as TitleLineage;
 const countyOfAnjou = countyOfAnjouData as unknown as TitleLineage;
+const countyOfHainaut = countyOfHainautData as unknown as TitleLineage;
 const duchyOfBrabant = duchyOfBrabantData as unknown as TitleLineage;
 const duchyOfBavaria = duchyOfBavariaData as unknown as TitleLineage;
 const kingdomOfDenmark = kingdomOfDenmarkData as unknown as TitleLineage;
@@ -90,6 +92,7 @@ const LINEAGES: LineageEntry[] = [
   { lineage: countyOfProvenceData as unknown as TitleLineage, name: "County of Provence", nameCn: "普罗旺斯伯国", anchorId: "c9910000-0000-4000-8000-000000000001", isDefault: false, directoryGroup: "france" },
   { lineage: duchyOfBrabant, name: "Duchy of Brabant", nameCn: "布拉班特公国", anchorId: "c1006000-0000-4000-8000-000000000000", isDefault: false, directoryGroup: "hre" },
   { lineage: duchyOfBavaria, name: "Duchy of Bavaria", nameCn: "巴伐利亚公国", anchorId: "58be4d4c-d7ff-470a-953f-48e5a9401cec", isDefault: false, directoryGroup: "hre" },
+  { lineage: countyOfHainaut, name: "County of Hainaut", nameCn: "埃诺伯国", anchorId: "f1010000-0000-4000-8000-000000000001", isDefault: false, directoryGroup: "hre" },
 ];
 
 export function TitlePage({

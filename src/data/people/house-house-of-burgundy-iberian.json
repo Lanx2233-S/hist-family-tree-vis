@@ -1,0 +1,682 @@
+[
+  {
+    "id": "c9010000-0000-4000-8000-000000000001",
+    "displayName": "Constance of Castile",
+    "fullName": "Constance of Castile, Queen of France",
+    "displayNameCn": "卡斯蒂利亚的康斯坦萨",
+    "primaryTitle": "Queen of France",
+    "birthYear": 1136,
+    "deathYear": 1160,
+    "rank": "queen",
+    "order": 1,
+    "firstName": "Constance of Castile",
+    "lastName": "Capet",
+    "fullNameCn": "法兰西王后卡斯蒂利亚的康斯坦萨",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthPlace": "Kingdom of France",
+    "birthPlaceCn": "法兰西王国",
+    "deathPlace": "Kingdom of France",
+    "deathPlaceCn": "法兰西王国",
+    "gender": "female",
+    "dynasty": "Ivrea dynasty",
+    "house": "House of Burgundy (Iberian)",
+    "culture": "Castilian",
+    "faith": "Catholic",
+    "primaryTitleCn": "法兰西王后",
+    "titles": [
+      {
+        "title": "Queen of France",
+        "titleCn": "法兰西王后",
+        "startYear": "",
+        "endYear": 1160
+      }
+    ],
+    "tags": [
+      "queen",
+      "consort",
+      "noble"
+    ],
+    "importanceScore": 70,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "c1032000-0000-4000-8000-000000000007",
+      "motherId": "c1033000-0000-4000-8000-000000000008",
+      "spouseIds": [
+        "6ae9afe1-d639-482e-b9ea-13d27778f842"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "c9020000-0000-4000-8000-000000000002",
+        "c9030000-0000-4000-8000-000000000003"
+      ]
+    },
+    "events": [
+      {
+        "year": 1136,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "dynasty"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Louis_VII_of_France"
+      },
+      {
+        "year": 1160,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 55,
+        "label": "Died",
+        "labelCn": "去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Louis_VII_of_France"
+      },
+      {
+        "year": 1154,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "queen"
+        ],
+        "weight": 75,
+        "label": "Marriage to Louis VII",
+        "labelCn": "与路易七世结婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Constance_of_Castile",
+        "note": "Became second wife of Louis VII of France, married at Orléans."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Louis_VII_of_France",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Louis_VII_of_France",
+    "sourceNote": "Daughter of Alfonso VII and Berengaria of Barcelona; basic card for Louis VII's second marriage.",
+    "notes": "Daughter of Alfonso VII and Berengaria of Barcelona; Alfonso VIII's paternal aunt and second wife of Louis VII of France.",
+    "createdDate": "20260822",
+    "createdOrder": 9
+  },
+  {
+    "id": "c1030000-0000-4000-8000-000000000005",
+    "firstName": "Raymond",
+    "lastName": "of Burgundy",
+    "displayName": "Raymond of Burgundy",
+    "fullName": "Raymond of Burgundy",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "勃艮第的雷蒙",
+    "fullNameCn": "勃艮第的雷蒙",
+    "birthYear": 1065,
+    "deathYear": 1107,
+    "birthPlace": "Kingdom of Castile",
+    "birthPlaceCn": "卡斯蒂利亚王国",
+    "deathPlace": "Grajal de Campos",
+    "deathPlaceCn": "格拉哈尔德坎波斯",
+    "gender": "male",
+    "dynasty": "Ivrea dynasty",
+    "house": "House of Burgundy (Iberian)",
+    "culture": "Burgundian",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Galicia",
+    "primaryTitleCn": "加利西亚伯爵",
+    "titles": [
+      {
+        "title": "Count of Galicia",
+        "titleCn": "加利西亚伯爵",
+        "startYear": 1090,
+        "endYear": 1107
+      }
+    ],
+    "tags": [
+      "count",
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 60,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "c1029000-0000-4000-8000-000000000004"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "c1032000-0000-4000-8000-000000000007"
+      ]
+    },
+    "events": [
+      {
+        "year": 1090,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance",
+          "dynasty"
+        ],
+        "weight": 76,
+        "label": "Marriage to Urraca of León",
+        "labelCn": "与莱昂的乌拉卡结婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Raymond_of_Burgundy",
+        "note": "Married Urraca, daughter and heiress of Alfonso VI; the marriage brought Raymond the government of Galicia."
+      },
+      {
+        "year": 1090,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "government",
+          "noble"
+        ],
+        "weight": 78,
+        "label": "Made Count of Galicia",
+        "labelCn": "出任加利西亚伯爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Raymond_of_Burgundy",
+        "note": "Received Galicia as a fief from Alfonso VI, ruling it with near-absolute authority."
+      },
+      {
+        "year": 1107,
+        "month": 5,
+        "day": 24,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 80,
+        "label": "Death at Grajal de Campos",
+        "labelCn": "在格拉哈尔德坎波斯去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Raymond_of_Burgundy",
+        "note": "Died at Grajal de Campos; most sources give 24 May 1107. He was buried in the Cathedral of Santiago de Compostela."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Raymond_of_Burgundy",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Raymond_of_Burgundy",
+    "sourceNote": "Wikipedia 'Raymond of Burgundy'; Bernard F. Reilly, The Kingdom of León-Castilla under King Alfonso VI (cross-checked).",
+    "notes": "Burgundian nobleman who came to Iberia and, through his marriage to Urraca, became Count of Galicia and father of the future Alfonso VII. His paternal House of Burgundy (Iberian) determined the dynasty of Alfonso VII and his successors. The precise date of his death is given variously as May or September 1107.",
+    "createdDate": "20260823",
+    "createdOrder": 68
+  },
+  {
+    "id": "c1032000-0000-4000-8000-000000000007",
+    "firstName": "Alfonso",
+    "lastName": "of León and Castile",
+    "displayName": "Alfonso VII of León and Castile",
+    "fullName": "Alfonso VII of León and Castile",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "莱昂与卡斯蒂利亚的阿方索七世",
+    "fullNameCn": "莱昂与卡斯蒂利亚的阿方索七世",
+    "birthYear": 1105,
+    "deathYear": 1157,
+    "birthPlace": "Kingdom of Castile",
+    "birthPlaceCn": "卡斯蒂利亚王国",
+    "deathPlace": "Fresneda (Sierra Morena)",
+    "deathPlaceCn": "弗雷斯内达（莫雷纳山脉）",
+    "gender": "male",
+    "dynasty": "Ivrea dynasty",
+    "house": "House of Burgundy (Iberian)",
+    "culture": "Castilian",
+    "faith": "Catholic",
+    "primaryTitle": "King of Castile",
+    "primaryTitleCn": "卡斯蒂利亚国王",
+    "titles": [
+      {
+        "title": "King of Castile",
+        "titleCn": "卡斯蒂利亚国王",
+        "startYear": 1126,
+        "endYear": 1157
+      }
+    ],
+    "tags": [
+      "monarch",
+      "noble"
+    ],
+    "rank": "king",
+    "importanceScore": 80,
+    "historicalRating": 8,
+    "relationships": {
+      "fatherId": "c1030000-0000-4000-8000-000000000005",
+      "motherId": "c1029000-0000-4000-8000-000000000004",
+      "spouseIds": [
+        "c1033000-0000-4000-8000-000000000008"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "c9010000-0000-4000-8000-000000000001",
+        "c1034000-0000-4000-8000-000000000009"
+      ]
+    },
+    "events": [
+      {
+        "year": 1111,
+        "month": 9,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "succession",
+          "king"
+        ],
+        "weight": 78,
+        "label": "Crowned King of Galicia",
+        "labelCn": "加冕为加利西亚国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Alfonso_VII_of_Le%C3%B3n_and_Castile",
+        "note": "Crowned in Santiago de Compostela by Bishop Diego Gelmírez while still a child."
+      },
+      {
+        "year": 1126,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "government",
+          "king"
+        ],
+        "weight": 88,
+        "label": "Succeeded as King of León and Castile",
+        "labelCn": "继位为莱昂与卡斯蒂利亚国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Alfonso_VII_of_Le%C3%B3n_and_Castile",
+        "note": "Inherited León and Castile on the death of his mother Urraca."
+      },
+      {
+        "year": 1128,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance",
+          "dynasty"
+        ],
+        "weight": 72,
+        "label": "Marriage to Berengaria of Barcelona",
+        "labelCn": "与巴塞罗那的贝伦加丽亚结婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Alfonso_VII_of_Le%C3%B3n_and_Castile",
+        "note": "Married the daughter of Count Ramon Berenguer III of Barcelona, strengthening ties with Catalonia."
+      },
+      {
+        "year": 1135,
+        "month": 5,
+        "day": 26,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "title",
+          "king",
+          "government"
+        ],
+        "weight": 95,
+        "label": "Imperial coronation as Imperator totius Hispaniae",
+        "labelCn": "加冕为全西班牙皇帝",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Alfonso_VII_of_Le%C3%B3n_and_Castile",
+        "note": "Crowned 'Emperor of All Spain' in León Cathedral, asserting supremacy over the whole peninsula."
+      },
+      {
+        "year": 1143,
+        "type": "treaty",
+        "tags": [
+          "treaty",
+          "diplomacy",
+          "politics"
+        ],
+        "weight": 85,
+        "label": "Treaty of Zamora",
+        "labelCn": "萨莫拉条约",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Treaty_of_Zamora",
+        "note": "Recognized Afonso Henriques as king, acknowledging the independence of Portugal."
+      },
+      {
+        "year": 1147,
+        "type": "conquest",
+        "tags": [
+          "conquest",
+          "campaign",
+          "territory",
+          "war"
+        ],
+        "weight": 90,
+        "label": "Conquest of Almería",
+        "labelCn": "攻克阿尔梅里亚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Alfonso_VII_of_Le%C3%B3n_and_Castile",
+        "note": "Led a combined Christian fleet and army that took the Almoravid port of Almería."
+      },
+      {
+        "year": 1157,
+        "month": 8,
+        "day": 21,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 85,
+        "label": "Death in the Sierra Morena",
+        "labelCn": "在莫雷纳山脉去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Alfonso_VII_of_Le%C3%B3n_and_Castile",
+        "note": "Died on 21 August 1157 while returning from an expedition against the Almohads."
+      },
+      {
+        "year": 1157,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "dynasty",
+          "government"
+        ],
+        "weight": 80,
+        "label": "Division of the realm",
+        "labelCn": "王国再次分封",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Alfonso_VII_of_Le%C3%B3n_and_Castile",
+        "note": "Split his dominions: Sancho III received Castile and Ferdinand II received León, ending the union."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Alfonso_VII_of_Le%C3%B3n_and_Castile",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Alfonso_VII_of_Le%C3%B3n_and_Castile",
+    "sourceNote": "Encyclopædia Britannica; Bernard F. Reilly, The Kingdom of León-Castilla under King Alfonso VII; Wikipedia (cross-checked).",
+    "notes": "Crowned Emperor of Spain (Imperator totius Hispaniae) in 1135, asserting his supremacy over the Christian kingdoms of the peninsula. He pressed the Reconquista against the Almoravids, taking Almería in 1147, and recognized the independence of Portugal by the Treaty of Zamora in 1143. His death in 1157 divided Castile and León between his sons Sancho III and Ferdinand II, undoing the unity of the realm.",
+    "createdDate": "20260823",
+    "createdOrder": 69,
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died of natural causes",
+      "summaryCn": "自然死亡",
+      "detail": "Died on 21 August 1157 while returning from an expedition against the Almohads, in the pass of Muradal in the Sierra Morena; the exact location is uncertain.",
+      "detailCn": "1157年8月21日在讨伐阿尔摩哈德人后返回途中去世，地点在莫雷纳山脉的穆拉达尔山口一带，确切地点尚有争议。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Alfonso_VII_of_Le%C3%B3n_and_Castile"
+    }
+  },
+  {
+    "id": "c1034000-0000-4000-8000-000000000009",
+    "firstName": "Sancho",
+    "lastName": "of Castile",
+    "displayName": "Sancho III of Castile",
+    "fullName": "Sancho III of Castile",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "卡斯蒂利亚的桑乔三世",
+    "fullNameCn": "卡斯蒂利亚的桑乔三世",
+    "birthYear": 1134,
+    "deathYear": 1158,
+    "birthPlace": "Kingdom of Castile",
+    "birthPlaceCn": "卡斯蒂利亚王国",
+    "deathPlace": "Toledo",
+    "deathPlaceCn": "托莱多",
+    "gender": "male",
+    "dynasty": "Ivrea dynasty",
+    "house": "House of Burgundy (Iberian)",
+    "culture": "Castilian",
+    "faith": "Catholic",
+    "primaryTitle": "King of Castile",
+    "primaryTitleCn": "卡斯蒂利亚国王",
+    "titles": [
+      {
+        "title": "King of Castile",
+        "titleCn": "卡斯蒂利亚国王",
+        "startYear": 1157,
+        "endYear": 1158
+      }
+    ],
+    "tags": [
+      "monarch",
+      "noble"
+    ],
+    "rank": "king",
+    "importanceScore": 60,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "c1032000-0000-4000-8000-000000000007",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "c1035000-0000-4000-8000-000000000010"
+      ]
+    },
+    "events": [
+      {
+        "year": 1151,
+        "month": 1,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance",
+          "dynasty"
+        ],
+        "weight": 74,
+        "label": "Marriage to Blanche of Navarre",
+        "labelCn": "与纳瓦拉的布兰卡结婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Sancho_III_of_Castile",
+        "note": "Married Blanche, daughter of García Ramírez of Navarre, in January 1151."
+      },
+      {
+        "year": 1157,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "dynasty",
+          "king"
+        ],
+        "weight": 82,
+        "label": "Received Castile in the division",
+        "labelCn": "在王国分封中继承卡斯蒂利亚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Sancho_III_of_Castile",
+        "note": "On Alfonso VII's death the realm was divided, Sancho III receiving Castile while his brother Ferdinand II received León."
+      },
+      {
+        "year": 1158,
+        "month": 8,
+        "day": 31,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 85,
+        "label": "Death at Toledo",
+        "labelCn": "在托莱多去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Sancho_III_of_Castile",
+        "note": "Died on 31 August 1158 at Toledo, leaving the crown to his young son Alfonso VIII."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Sancho_III_of_Castile",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Sancho_III_of_Castile",
+    "sourceNote": "Wikipedia 'Sancho III of Castile'; Encyclopædia Britannica (cross-checked).",
+    "notes": "Eldest son of Alfonso VII, he received Castile in the 1157 partition and reigned only a year before his death in 1158. His early death left his three-year-old son Alfonso VIII on the throne under a disputed regency.",
+    "createdDate": "20260823",
+    "createdOrder": 71
+  },
+  {
+    "id": "c1035000-0000-4000-8000-000000000010",
+    "firstName": "Alfonso",
+    "lastName": "of Castile",
+    "displayName": "Alfonso VIII of Castile",
+    "fullName": "Alfonso VIII of Castile",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "卡斯蒂利亚的阿方索八世",
+    "fullNameCn": "卡斯蒂利亚的阿方索八世",
+    "birthYear": 1155,
+    "deathYear": 1214,
+    "birthPlace": "Kingdom of Castile",
+    "birthPlaceCn": "卡斯蒂利亚王国",
+    "deathPlace": "Gutierre-Muñoz, Ávila",
+    "deathPlaceCn": "古铁雷-穆尼奥斯（阿维拉）",
+    "gender": "male",
+    "dynasty": "Ivrea dynasty",
+    "house": "House of Burgundy (Iberian)",
+    "culture": "Castilian",
+    "faith": "Catholic",
+    "primaryTitle": "King of Castile",
+    "primaryTitleCn": "卡斯蒂利亚国王",
+    "titles": [
+      {
+        "title": "King of Castile",
+        "titleCn": "卡斯蒂利亚国王",
+        "startYear": 1158,
+        "endYear": 1214
+      }
+    ],
+    "tags": [
+      "monarch",
+      "noble"
+    ],
+    "rank": "king",
+    "importanceScore": 80,
+    "historicalRating": 8,
+    "relationships": {
+      "fatherId": "c1034000-0000-4000-8000-000000000009",
+      "motherId": "",
+      "spouseIds": [
+        "389f5949-fcb8-4bd6-a394-f4523a0d69af"
+      ],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1158,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "regency",
+          "king"
+        ],
+        "weight": 82,
+        "label": "Accession as a child king",
+        "labelCn": "幼年即位",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Alfonso_VIII_of_Castile",
+        "note": "Became king at about age three on the death of his father Sancho III, in a minority disputed by the Lara and Castro families."
+      },
+      {
+        "year": 1170,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance",
+          "diplomacy"
+        ],
+        "weight": 80,
+        "label": "Marriage to Eleanor of England",
+        "labelCn": "与英格兰的埃莉诺结婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Alfonso_VIII_of_Castile",
+        "note": "Married Eleanor, daughter of Henry II of England, in Burgos, bringing a claim to Gascony and ties to the Plantagenets."
+      },
+      {
+        "year": 1177,
+        "month": 9,
+        "day": 21,
+        "type": "conquest",
+        "tags": [
+          "conquest",
+          "territory",
+          "war",
+          "king"
+        ],
+        "weight": 90,
+        "label": "Conquest of Cuenca",
+        "labelCn": "攻克昆卡",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Cuenca,_Spain",
+        "note": "Captured the strong city of Cuenca from the Almohads, a major gain on the Castilian frontier."
+      },
+      {
+        "year": 1195,
+        "month": 7,
+        "day": 19,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "commander",
+          "defeat",
+          "war"
+        ],
+        "weight": 93,
+        "label": "Battle of Alarcos",
+        "labelCn": "阿拉尔科斯战役",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Alarcos",
+        "note": "Suffered a crushing defeat at the hands of the Almohad caliph Yaqub al-Mansur."
+      },
+      {
+        "year": 1206,
+        "type": "treaty",
+        "tags": [
+          "treaty",
+          "diplomacy",
+          "politics"
+        ],
+        "weight": 75,
+        "label": "Treaty of Cabreros",
+        "labelCn": "卡夫雷罗斯条约",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Treaty_of_Cabreros",
+        "note": "Made peace with his cousin Alfonso IX of León, settling territorial disputes between the kingdoms."
+      },
+      {
+        "year": 1212,
+        "month": 7,
+        "day": 16,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "main_commander",
+          "crusade",
+          "war"
+        ],
+        "weight": 100,
+        "label": "Battle of Las Navas de Tolosa",
+        "labelCn": "拉斯纳瓦斯·德托洛萨战役",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Las_Navas_de_Tolosa",
+        "note": "Led a crusading coalition that routed the Almohad caliph Muhammad al-Nasir, breaking Almohad power in Iberia."
+      },
+      {
+        "year": 1214,
+        "month": 10,
+        "day": 5,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 85,
+        "label": "Death at Gutierre-Muñoz",
+        "labelCn": "在古铁雷-穆尼奥斯去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Alfonso_VIII_of_Castile",
+        "note": "Died on 5 October 1214 after a short illness, aged about 58."
+      },
+      {
+        "year": 1214,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "regency",
+          "king"
+        ],
+        "weight": 75,
+        "label": "Succeeded by Henry I",
+        "labelCn": "由恩里克一世继位",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Alfonso_VIII_of_Castile",
+        "note": "The crown passed to his young son Henry I, again under a contested regency."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Alfonso_VIII_of_Castile",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Alfonso_VIII_of_Castile",
+    "sourceNote": "Encyclopædia Britannica; Wikipedia (cross-checked).",
+    "notes": "Became king as a small child and spent his early years in a disputed regency before emerging as the leading Christian ruler of Iberia. His crushing defeat at Alarcos (1195) was avenged at Las Navas de Tolosa (1212), the battle that broke Almohad power and turned the tide of the Reconquista. He died in 1214 leaving the crown to his young son Henry I.",
+    "createdDate": "20260823",
+    "createdOrder": 72,
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died of illness",
+      "summaryCn": "病逝",
+      "detail": "Died on 5 October 1214 at Gutierre-Muñoz (near Arévalo) after a short illness, aged about 58.",
+      "detailCn": "1214年10月5日在古铁雷-穆尼奥斯（阿雷瓦洛附近）因病去世，享年约58岁。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Alfonso_VIII_of_Castile"
+    }
+  }
+]

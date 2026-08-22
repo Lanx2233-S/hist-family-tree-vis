@@ -1,0 +1,1475 @@
+[
+  {
+    "id": "086c99e5-0a45-493c-aee1-4dc08057197f",
+    "firstName": "Kenneth",
+    "lastName": "",
+    "displayName": "Kenneth I",
+    "fullName": "Kenneth MacAlpin",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Cináed mac Ailpin",
+      "Kenneth MacAlpin"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "肯尼思一世",
+    "fullNameCn": "肯尼思一世",
+    "birthYear": 810,
+    "deathYear": 858,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "male",
+    "dynasty": "House of Alpin",
+    "house": "House of Alpin",
+    "culture": "Scottish",
+    "faith": "Catholic",
+    "primaryTitle": "King of Alba",
+    "primaryTitleCn": "阿尔巴国王",
+    "titles": [
+      {
+        "title": "King of Alba",
+        "startYear": 843,
+        "endYear": 858,
+        "titleCn": "阿尔巴国王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 70,
+    "historicalRating": 7,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "6f901b6f-62b2-4ebc-b631-fa960cb6cc4a",
+        "4ac06665-f420-4756-8fab-38316e1ce5a1"
+      ]
+    },
+    "events": [
+      {
+        "year": 810,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Kenneth_MacAlpin"
+      },
+      {
+        "year": 843,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Began rule as King of Alba",
+        "labelCn": "开始担任阿尔巴国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Kenneth_MacAlpin"
+      },
+      {
+        "year": 858,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Kenneth_MacAlpin"
+      },
+      {
+        "year": 843,
+        "type": "conquest",
+        "tags": [
+          "conquest",
+          "territory"
+        ],
+        "weight": 85,
+        "label": "United the Picts and Scots as Alba",
+        "labelCn": "统一皮克特人与苏格兰人为阿尔巴",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Kenneth_MacAlpin",
+        "note": "Traditionally dated 843; this union of Picts and Scots is the traditional foundation of Scotland."
+      },
+      {
+        "year": 849,
+        "type": "religion",
+        "tags": [
+          "religion"
+        ],
+        "weight": 68,
+        "label": "Moved St Columba's relics to Dunkeld",
+        "labelCn": "将圣科伦巴遗物迁至邓凯尔德",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Kenneth_MacAlpin"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Kenneth_MacAlpin",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Kenneth_MacAlpin",
+    "sourceNote": "Core timeline generated from recorded lifespan and titles on 2026-08-20.",
+    "notes": "Traditionally regarded as the first king of a unified Pictish and Scottish kingdom (Alba) and the ancestor of the later Scottish kings. Much of his life is known only through later chronicle and legend.",
+    "createdDate": "20260819",
+    "createdOrder": 1
+  },
+  {
+    "id": "fb77aa5c-25b0-4680-9104-746abb34d649",
+    "firstName": "Donald",
+    "lastName": "",
+    "displayName": "Donald I",
+    "fullName": "Donald I of Scotland",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Domnall mac Ailpin"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "唐纳德一世",
+    "fullNameCn": "唐纳德一世",
+    "birthYear": 812,
+    "deathYear": 862,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "male",
+    "dynasty": "House of Alpin",
+    "house": "House of Alpin",
+    "culture": "Scottish",
+    "faith": "Catholic",
+    "primaryTitle": "King of Alba",
+    "primaryTitleCn": "阿尔巴国王",
+    "titles": [
+      {
+        "title": "King of Alba",
+        "startYear": 858,
+        "endYear": 862,
+        "titleCn": "阿尔巴国王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 812,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Donald_I_of_Scotland"
+      },
+      {
+        "year": 858,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Began rule as King of Alba",
+        "labelCn": "开始担任阿尔巴国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Donald_I_of_Scotland"
+      },
+      {
+        "year": 862,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Donald_I_of_Scotland"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Donald_I_of_Scotland",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Donald_I_of_Scotland",
+    "sourceNote": "Core timeline generated from recorded lifespan and titles on 2026-08-20.",
+    "notes": "",
+    "createdDate": "20260819",
+    "createdOrder": 2
+  },
+  {
+    "id": "6f901b6f-62b2-4ebc-b631-fa960cb6cc4a",
+    "firstName": "Constantine",
+    "lastName": "",
+    "displayName": "Constantine I",
+    "fullName": "Constantine I of Scotland",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Causantín mac Cináeda"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "康斯坦丁一世",
+    "fullNameCn": "康斯坦丁一世",
+    "birthYear": 836,
+    "deathYear": 877,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "male",
+    "dynasty": "House of Alpin",
+    "house": "House of Alpin",
+    "culture": "Scottish",
+    "faith": "Catholic",
+    "primaryTitle": "King of Alba",
+    "primaryTitleCn": "阿尔巴国王",
+    "titles": [
+      {
+        "title": "King of Alba",
+        "startYear": 862,
+        "endYear": 877,
+        "titleCn": "阿尔巴国王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "086c99e5-0a45-493c-aee1-4dc08057197f",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "ce525dab-f6d2-48eb-809c-ee7ec1aced1e"
+      ]
+    },
+    "events": [
+      {
+        "year": 836,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Constantine_I_of_Scotland"
+      },
+      {
+        "year": 862,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Began rule as King of Alba",
+        "labelCn": "开始担任阿尔巴国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Constantine_I_of_Scotland"
+      },
+      {
+        "year": 877,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Constantine_I_of_Scotland"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Constantine_I_of_Scotland",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Constantine_I_of_Scotland",
+    "sourceNote": "Core timeline generated from recorded lifespan and titles on 2026-08-20.",
+    "notes": "",
+    "createdDate": "20260819",
+    "createdOrder": 3
+  },
+  {
+    "id": "4ac06665-f420-4756-8fab-38316e1ce5a1",
+    "firstName": "Áed",
+    "lastName": "",
+    "displayName": "Áed",
+    "fullName": "Áed mac Cináeda",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Áed mac Cináeda"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "艾德",
+    "fullNameCn": "艾德",
+    "birthYear": 840,
+    "deathYear": 878,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "male",
+    "dynasty": "House of Alpin",
+    "house": "House of Alpin",
+    "culture": "Scottish",
+    "faith": "Catholic",
+    "primaryTitle": "King of Alba",
+    "primaryTitleCn": "阿尔巴国王",
+    "titles": [
+      {
+        "title": "King of Alba",
+        "startYear": 877,
+        "endYear": 878,
+        "titleCn": "阿尔巴国王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "086c99e5-0a45-493c-aee1-4dc08057197f",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "16cfffe8-e175-4120-ac96-44103215ac0d"
+      ]
+    },
+    "events": [
+      {
+        "year": 840,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Áed_mac_Cináeda"
+      },
+      {
+        "year": 877,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Began rule as King of Alba",
+        "labelCn": "开始担任阿尔巴国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Áed_mac_Cináeda"
+      },
+      {
+        "year": 878,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Áed_mac_Cináeda"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Áed_mac_Cináeda",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Áed_mac_Cináeda",
+    "sourceNote": "Core timeline generated from recorded lifespan and titles on 2026-08-20.",
+    "notes": "",
+    "createdDate": "20260819",
+    "createdOrder": 4
+  },
+  {
+    "id": "95b17056-2bb8-4de5-aa7f-3ed8440d4c98",
+    "firstName": "Giric",
+    "lastName": "",
+    "displayName": "Giric",
+    "fullName": "Giric mac Dúngail",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Giric mac Dúngail"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "吉里克",
+    "fullNameCn": "吉里克",
+    "birthYear": 832,
+    "deathYear": 889,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "male",
+    "dynasty": "House of Alpin",
+    "house": "House of Alpin",
+    "culture": "Scottish",
+    "faith": "Catholic",
+    "primaryTitle": "King of Alba",
+    "primaryTitleCn": "阿尔巴国王",
+    "titles": [
+      {
+        "title": "King of Alba",
+        "startYear": 878,
+        "endYear": 889,
+        "titleCn": "阿尔巴国王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 40,
+    "historicalRating": 4,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Giric",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Giric",
+    "sourceNote": "",
+    "notes": "",
+    "createdDate": "20260819",
+    "createdOrder": 5
+  },
+  {
+    "id": "5b06faf9-39cb-4f79-b398-1f02f10425ee",
+    "firstName": "Eochaid",
+    "lastName": "",
+    "displayName": "Eochaid",
+    "fullName": "Eochaid mac Run",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Eochaid mac Run"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "埃奥凯德",
+    "fullNameCn": "埃奥凯德",
+    "birthYear": 858,
+    "deathYear": 889,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "male",
+    "dynasty": "House of Alpin",
+    "house": "House of Alpin",
+    "culture": "Scottish",
+    "faith": "Catholic",
+    "primaryTitle": "King of Alba",
+    "primaryTitleCn": "阿尔巴国王",
+    "titles": [
+      {
+        "title": "King of Alba",
+        "startYear": 878,
+        "endYear": 889,
+        "titleCn": "阿尔巴国王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 40,
+    "historicalRating": 4,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Eochaid",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Eochaid",
+    "sourceNote": "",
+    "notes": "",
+    "createdDate": "20260819",
+    "createdOrder": 6
+  },
+  {
+    "id": "ce525dab-f6d2-48eb-809c-ee7ec1aced1e",
+    "firstName": "Donald",
+    "lastName": "",
+    "displayName": "Donald II",
+    "fullName": "Donald II of Scotland",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Domnall mac Causantín"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "唐纳德二世",
+    "fullNameCn": "唐纳德二世",
+    "birthYear": 860,
+    "deathYear": 900,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "male",
+    "dynasty": "House of Alpin",
+    "house": "House of Alpin",
+    "culture": "Scottish",
+    "faith": "Catholic",
+    "primaryTitle": "King of Alba",
+    "primaryTitleCn": "阿尔巴国王",
+    "titles": [
+      {
+        "title": "King of Alba",
+        "startYear": 889,
+        "endYear": 900,
+        "titleCn": "阿尔巴国王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "6f901b6f-62b2-4ebc-b631-fa960cb6cc4a",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "1171990b-b5c9-440a-975e-48a5986674a8"
+      ]
+    },
+    "events": [
+      {
+        "year": 860,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Donald_II_of_Scotland"
+      },
+      {
+        "year": 889,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Began rule as King of Alba",
+        "labelCn": "开始担任阿尔巴国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Donald_II_of_Scotland"
+      },
+      {
+        "year": 900,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Donald_II_of_Scotland"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Donald_II_of_Scotland",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Donald_II_of_Scotland",
+    "sourceNote": "Core timeline generated from recorded lifespan and titles on 2026-08-20.",
+    "notes": "",
+    "createdDate": "20260819",
+    "createdOrder": 7
+  },
+  {
+    "id": "16cfffe8-e175-4120-ac96-44103215ac0d",
+    "firstName": "Constantine",
+    "lastName": "",
+    "displayName": "Constantine II",
+    "fullName": "Constantine II of Scotland",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Causantín mac Áeda"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "康斯坦丁二世",
+    "fullNameCn": "康斯坦丁二世",
+    "birthYear": 879,
+    "deathYear": 952,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "male",
+    "dynasty": "House of Alpin",
+    "house": "House of Alpin",
+    "culture": "Scottish",
+    "faith": "Catholic",
+    "primaryTitle": "King of Alba",
+    "primaryTitleCn": "阿尔巴国王",
+    "titles": [
+      {
+        "title": "King of Alba",
+        "startYear": 900,
+        "endYear": 943,
+        "titleCn": "阿尔巴国王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 60,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "4ac06665-f420-4756-8fab-38316e1ce5a1",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "b75eaf1f-d1a7-40aa-93c4-d48ad828bf02"
+      ]
+    },
+    "events": [
+      {
+        "year": 879,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Constantine_II_of_Scotland"
+      },
+      {
+        "year": 900,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Began rule as King of Alba",
+        "labelCn": "开始担任阿尔巴国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Constantine_II_of_Scotland"
+      },
+      {
+        "year": 952,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Constantine_II_of_Scotland"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Constantine_II_of_Scotland",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Constantine_II_of_Scotland",
+    "sourceNote": "Core timeline generated from recorded lifespan and titles on 2026-08-20.",
+    "notes": "",
+    "createdDate": "20260819",
+    "createdOrder": 8
+  },
+  {
+    "id": "1171990b-b5c9-440a-975e-48a5986674a8",
+    "firstName": "Malcolm",
+    "lastName": "",
+    "displayName": "Malcolm I",
+    "fullName": "Malcolm I of Scotland",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Máel Coluim mac Domnaill"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "马尔科姆一世",
+    "fullNameCn": "马尔科姆一世",
+    "birthYear": 897,
+    "deathYear": 954,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "male",
+    "dynasty": "House of Alpin",
+    "house": "House of Alpin",
+    "culture": "Scottish",
+    "faith": "Catholic",
+    "primaryTitle": "King of Alba",
+    "primaryTitleCn": "阿尔巴国王",
+    "titles": [
+      {
+        "title": "King of Alba",
+        "startYear": 943,
+        "endYear": 954,
+        "titleCn": "阿尔巴国王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "ce525dab-f6d2-48eb-809c-ee7ec1aced1e",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "73d8a154-9a8a-49b6-8413-566e25840f8e",
+        "5ad2dad2-489f-4434-9d17-890dbeb45376"
+      ]
+    },
+    "events": [
+      {
+        "year": 897,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Malcolm_I_of_Scotland"
+      },
+      {
+        "year": 943,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Began rule as King of Alba",
+        "labelCn": "开始担任阿尔巴国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Malcolm_I_of_Scotland"
+      },
+      {
+        "year": 954,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Malcolm_I_of_Scotland"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Malcolm_I_of_Scotland",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Malcolm_I_of_Scotland",
+    "sourceNote": "Core timeline generated from recorded lifespan and titles on 2026-08-20.",
+    "notes": "",
+    "createdDate": "20260819",
+    "createdOrder": 9
+  },
+  {
+    "id": "b75eaf1f-d1a7-40aa-93c4-d48ad828bf02",
+    "firstName": "Indulf",
+    "lastName": "",
+    "displayName": "Indulf",
+    "fullName": "Indulf of Scotland",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Ildulb mac Causantín"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "因达尔夫",
+    "fullNameCn": "因达尔夫",
+    "birthYear": 927,
+    "deathYear": 962,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "male",
+    "dynasty": "House of Alpin",
+    "house": "House of Alpin",
+    "culture": "Scottish",
+    "faith": "Catholic",
+    "primaryTitle": "King of Alba",
+    "primaryTitleCn": "阿尔巴国王",
+    "titles": [
+      {
+        "title": "King of Alba",
+        "startYear": 954,
+        "endYear": 962,
+        "titleCn": "阿尔巴国王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "16cfffe8-e175-4120-ac96-44103215ac0d",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "0dafd036-b43a-4bed-a232-a27881ecbc01",
+        "5f31a043-e9fb-461f-b596-8db96e101d83"
+      ]
+    },
+    "events": [
+      {
+        "year": 927,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Indulf"
+      },
+      {
+        "year": 954,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Began rule as King of Alba",
+        "labelCn": "开始担任阿尔巴国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Indulf"
+      },
+      {
+        "year": 962,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Indulf"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Indulf",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Indulf",
+    "sourceNote": "Core timeline generated from recorded lifespan and titles on 2026-08-20.",
+    "notes": "",
+    "createdDate": "20260819",
+    "createdOrder": 10
+  },
+  {
+    "id": "73d8a154-9a8a-49b6-8413-566e25840f8e",
+    "firstName": "Dub",
+    "lastName": "",
+    "displayName": "Dub",
+    "fullName": "Dub, King of Scotland",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Dub mac Maíl Coluim"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "杜布",
+    "fullNameCn": "杜布",
+    "birthYear": 928,
+    "deathYear": 967,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "male",
+    "dynasty": "House of Alpin",
+    "house": "House of Alpin",
+    "culture": "Scottish",
+    "faith": "Catholic",
+    "primaryTitle": "King of Alba",
+    "primaryTitleCn": "阿尔巴国王",
+    "titles": [
+      {
+        "title": "King of Alba",
+        "startYear": 962,
+        "endYear": 967,
+        "titleCn": "阿尔巴国王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "1171990b-b5c9-440a-975e-48a5986674a8",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "3b7a20ad-bef6-40f7-8ae1-0f1f6cf16840"
+      ]
+    },
+    "events": [
+      {
+        "year": 928,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Dub,_King_of_Scotland"
+      },
+      {
+        "year": 962,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Began rule as King of Alba",
+        "labelCn": "开始担任阿尔巴国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Dub,_King_of_Scotland"
+      },
+      {
+        "year": 967,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Dub,_King_of_Scotland"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Dub,_King_of_Scotland",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Dub,_King_of_Scotland",
+    "sourceNote": "Core timeline generated from recorded lifespan and titles on 2026-08-20.",
+    "notes": "",
+    "createdDate": "20260819",
+    "createdOrder": 11
+  },
+  {
+    "id": "0dafd036-b43a-4bed-a232-a27881ecbc01",
+    "firstName": "Cuilén",
+    "lastName": "",
+    "displayName": "Cuilén",
+    "fullName": "Cuilén of Scotland",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Cuilén mac Ilduilb"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "库伦",
+    "fullNameCn": "库伦",
+    "birthYear": 954,
+    "deathYear": 971,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "male",
+    "dynasty": "House of Alpin",
+    "house": "House of Alpin",
+    "culture": "Scottish",
+    "faith": "Catholic",
+    "primaryTitle": "King of Alba",
+    "primaryTitleCn": "阿尔巴国王",
+    "titles": [
+      {
+        "title": "King of Alba",
+        "startYear": 967,
+        "endYear": 971,
+        "titleCn": "阿尔巴国王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "b75eaf1f-d1a7-40aa-93c4-d48ad828bf02",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "6988263e-1a43-44a5-a1c6-bcbb3be4de9b"
+      ]
+    },
+    "events": [
+      {
+        "year": 954,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Cuilén"
+      },
+      {
+        "year": 967,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Began rule as King of Alba",
+        "labelCn": "开始担任阿尔巴国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Cuilén"
+      },
+      {
+        "year": 971,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Cuilén"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Cuilén",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Cuilén",
+    "sourceNote": "Core timeline generated from recorded lifespan and titles on 2026-08-20.",
+    "notes": "",
+    "createdDate": "20260819",
+    "createdOrder": 12
+  },
+  {
+    "id": "5f31a043-e9fb-461f-b596-8db96e101d83",
+    "firstName": "Amlaíb",
+    "lastName": "",
+    "displayName": "Amlaíb",
+    "fullName": "Amlaíb of Scotland",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Amlaíb mac Ilduilb"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "阿姆莱布",
+    "fullNameCn": "阿姆莱布",
+    "birthYear": 957,
+    "deathYear": 977,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "male",
+    "dynasty": "House of Alpin",
+    "house": "House of Alpin",
+    "culture": "Scottish",
+    "faith": "Catholic",
+    "primaryTitle": "King of Alba",
+    "primaryTitleCn": "阿尔巴国王",
+    "titles": [
+      {
+        "title": "King of Alba",
+        "startYear": 973,
+        "endYear": 977,
+        "titleCn": "阿尔巴国王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 40,
+    "historicalRating": 4,
+    "relationships": {
+      "fatherId": "b75eaf1f-d1a7-40aa-93c4-d48ad828bf02",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Amlaíb,_King_of_Scotland",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Amlaíb,_King_of_Scotland",
+    "sourceNote": "",
+    "notes": "",
+    "createdDate": "20260819",
+    "createdOrder": 13
+  },
+  {
+    "id": "5ad2dad2-489f-4434-9d17-890dbeb45376",
+    "firstName": "Kenneth",
+    "lastName": "",
+    "displayName": "Kenneth II",
+    "fullName": "Kenneth II of Scotland",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Cináed mac Maíl Coluim"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "肯尼思二世",
+    "fullNameCn": "肯尼思二世",
+    "birthYear": 932,
+    "deathYear": 995,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "male",
+    "dynasty": "House of Alpin",
+    "house": "House of Alpin",
+    "culture": "Scottish",
+    "faith": "Catholic",
+    "primaryTitle": "King of Alba",
+    "primaryTitleCn": "阿尔巴国王",
+    "titles": [
+      {
+        "title": "King of Alba",
+        "startYear": 971,
+        "endYear": 995,
+        "titleCn": "阿尔巴国王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 60,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "1171990b-b5c9-440a-975e-48a5986674a8",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "1643ee9c-fcc6-48fb-b25f-085d3f239e85"
+      ]
+    },
+    "events": [
+      {
+        "year": 932,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Kenneth_II_of_Scotland"
+      },
+      {
+        "year": 971,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Began rule as King of Alba",
+        "labelCn": "开始担任阿尔巴国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Kenneth_II_of_Scotland"
+      },
+      {
+        "year": 995,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Kenneth_II_of_Scotland"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Kenneth_II_of_Scotland",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Kenneth_II_of_Scotland",
+    "sourceNote": "Core timeline generated from recorded lifespan and titles on 2026-08-20.",
+    "notes": "",
+    "createdDate": "20260819",
+    "createdOrder": 14
+  },
+  {
+    "id": "6988263e-1a43-44a5-a1c6-bcbb3be4de9b",
+    "firstName": "Constantine",
+    "lastName": "",
+    "displayName": "Constantine III",
+    "fullName": "Constantine III of Scotland",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Causantín mac Cuiléin"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "康斯坦丁三世",
+    "fullNameCn": "康斯坦丁三世",
+    "birthYear": 970,
+    "deathYear": 997,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "male",
+    "dynasty": "House of Alpin",
+    "house": "House of Alpin",
+    "culture": "Scottish",
+    "faith": "Catholic",
+    "primaryTitle": "King of Alba",
+    "primaryTitleCn": "阿尔巴国王",
+    "titles": [
+      {
+        "title": "King of Alba",
+        "startYear": 995,
+        "endYear": 997,
+        "titleCn": "阿尔巴国王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "0dafd036-b43a-4bed-a232-a27881ecbc01",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 970,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Constantine_III_of_Scotland"
+      },
+      {
+        "year": 995,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Began rule as King of Alba",
+        "labelCn": "开始担任阿尔巴国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Constantine_III_of_Scotland"
+      },
+      {
+        "year": 997,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Constantine_III_of_Scotland"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Constantine_III_of_Scotland",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Constantine_III_of_Scotland",
+    "sourceNote": "Core timeline generated from recorded lifespan and titles on 2026-08-20.",
+    "notes": "",
+    "createdDate": "20260819",
+    "createdOrder": 15
+  },
+  {
+    "id": "3b7a20ad-bef6-40f7-8ae1-0f1f6cf16840",
+    "firstName": "Kenneth",
+    "lastName": "",
+    "displayName": "Kenneth III",
+    "fullName": "Kenneth III of Scotland",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Cináed mac Duib"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "肯尼思三世",
+    "fullNameCn": "肯尼思三世",
+    "birthYear": 966,
+    "deathYear": 1005,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "male",
+    "dynasty": "House of Alpin",
+    "house": "House of Alpin",
+    "culture": "Scottish",
+    "faith": "Catholic",
+    "primaryTitle": "King of Alba",
+    "primaryTitleCn": "阿尔巴国王",
+    "titles": [
+      {
+        "title": "King of Alba",
+        "startYear": 997,
+        "endYear": 1005,
+        "titleCn": "阿尔巴国王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "73d8a154-9a8a-49b6-8413-566e25840f8e",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 966,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Kenneth_III_of_Scotland"
+      },
+      {
+        "year": 997,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Began rule as King of Alba",
+        "labelCn": "开始担任阿尔巴国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Kenneth_III_of_Scotland"
+      },
+      {
+        "year": 1005,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Kenneth_III_of_Scotland"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Kenneth_III_of_Scotland",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Kenneth_III_of_Scotland",
+    "sourceNote": "Core timeline generated from recorded lifespan and titles on 2026-08-20.",
+    "notes": "",
+    "createdDate": "20260819",
+    "createdOrder": 16
+  },
+  {
+    "id": "1643ee9c-fcc6-48fb-b25f-085d3f239e85",
+    "firstName": "Malcolm",
+    "lastName": "",
+    "displayName": "Malcolm II",
+    "fullName": "Malcolm II of Scotland",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Máel Coluim mac Cináeda"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "马尔科姆二世",
+    "fullNameCn": "马尔科姆二世",
+    "birthYear": 954,
+    "deathYear": 1034,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "male",
+    "dynasty": "House of Alpin",
+    "house": "House of Alpin",
+    "culture": "Scottish",
+    "faith": "Catholic",
+    "primaryTitle": "King of Alba",
+    "primaryTitleCn": "阿尔巴国王",
+    "titles": [
+      {
+        "title": "King of Alba",
+        "startYear": 1005,
+        "endYear": 1034,
+        "titleCn": "阿尔巴国王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 60,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "5ad2dad2-489f-4434-9d17-890dbeb45376",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 954,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Malcolm_II_of_Scotland"
+      },
+      {
+        "year": 1005,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Began rule as King of Alba",
+        "labelCn": "开始担任阿尔巴国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Malcolm_II_of_Scotland"
+      },
+      {
+        "year": 1034,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Malcolm_II_of_Scotland"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Malcolm_II_of_Scotland",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Malcolm_II_of_Scotland",
+    "sourceNote": "Core timeline generated from recorded lifespan and titles on 2026-08-20.",
+    "notes": "",
+    "createdDate": "20260819",
+    "createdOrder": 17
+  }
+]

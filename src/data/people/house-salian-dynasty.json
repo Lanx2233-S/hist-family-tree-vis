@@ -1,0 +1,857 @@
+[
+  {
+    "id": "9fd77e98-145c-4153-b806-768ff1d76ba6",
+    "firstName": "Heinrich",
+    "lastName": "Salian",
+    "displayName": "Heinrich V",
+    "fullName": "Heinrich V, Holy Roman Emperor",
+    "nickname": "the Proud",
+    "alsoKnownAs": [],
+    "nicknameTags": [
+      "proud"
+    ],
+    "birthYear": 1081,
+    "deathYear": 1125,
+    "birthPlace": "Goslar, Saxony",
+    "birthPlaceCn": "萨克森戈斯拉尔",
+    "deathPlace": "Utrecht, Lower Lorraine",
+    "deathPlaceCn": "下洛林乌得勒支",
+    "gender": "male",
+    "dynasty": "Salian dynasty",
+    "house": "Salian dynasty",
+    "culture": "German",
+    "faith": "Catholic",
+    "primaryTitle": "Holy Roman Emperor",
+    "primaryTitleCn": "神圣罗马帝国皇帝",
+    "titles": [
+      {
+        "title": "King of the Romans",
+        "startYear": 1099,
+        "endYear": 1125,
+        "titleCn": "罗马人的国王"
+      },
+      {
+        "title": "Holy Roman Emperor",
+        "startYear": 1111,
+        "endYear": 1125,
+        "titleCn": "神圣罗马帝国皇帝"
+      }
+    ],
+    "tags": [
+      "emperor",
+      "monarch",
+      "noble"
+    ],
+    "rank": "emperor",
+    "importanceScore": 78,
+    "relationships": {
+      "fatherId": "3dd7dc1c-7473-495d-aac7-0c145d147ed9",
+      "motherId": "ba76233c-7910-4e75-b696-e5ac22dc7082",
+      "spouseIds": [
+        "f194f118-96af-4ad4-af2b-f8449720cff1"
+      ],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1105,
+        "type": "rebellion",
+        "tags": [
+          "rebellion",
+          "king",
+          "succession"
+        ],
+        "weight": 84,
+        "label": "Revolt against Emperor Henry IV",
+        "labelCn": "起兵反对皇帝亨利四世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_V,_Holy_Roman_Emperor",
+        "note": "Forced his father to abdicate on 31 December 1105."
+      },
+      {
+        "year": 1106,
+        "month": 1,
+        "day": 5,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "king",
+          "succession"
+        ],
+        "weight": 86,
+        "label": "King of Germany",
+        "labelCn": "成为德意志国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_V,_Holy_Roman_Emperor",
+        "note": "Anointed and crowned on 5-6 January 1106 after his father's forced abdication; he had first been crowned co-ruler at Aachen on 6 January 1099."
+      },
+      {
+        "year": 1111,
+        "month": 2,
+        "type": "political_crisis",
+        "tags": [
+          "imprisonment",
+          "church",
+          "king"
+        ],
+        "weight": 88,
+        "label": "Seizure of Pope Paschal II",
+        "labelCn": "拘押教皇帕斯卡尔二世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Pope_Paschal_II",
+        "note": "The pope was captured in February 1111 after the cancelled coronation of 12 February; the Treaty of Ponte Mammolo followed on 12 April 1111."
+      },
+      {
+        "year": 1111,
+        "month": 4,
+        "day": 13,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch",
+          "church"
+        ],
+        "weight": 97,
+        "label": "Imperial coronation",
+        "labelCn": "加冕为神圣罗马帝国皇帝",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_V,_Holy_Roman_Emperor"
+      },
+      {
+        "year": 1114,
+        "month": 1,
+        "day": 7,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 82,
+        "label": "Marriage to Matilda of England",
+        "labelCn": "与英格兰的玛蒂尔达成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Empress_Matilda",
+        "note": "Wedding celebrations in Mainz; the engagement had been made at Utrecht at Easter 1110."
+      },
+      {
+        "year": 1122,
+        "month": 9,
+        "day": 23,
+        "type": "diplomacy",
+        "tags": [
+          "diplomacy",
+          "church",
+          "treaty",
+          "religion"
+        ],
+        "weight": 95,
+        "label": "Concordat of Worms",
+        "labelCn": "《沃尔姆斯宗教协定》",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Concordat_of_Worms",
+        "note": "Ended the Investiture Controversy between emperor and papacy."
+      },
+      {
+        "year": 1125,
+        "month": 5,
+        "day": 23,
+        "type": "death",
+        "tags": [
+          "death",
+          "monarch",
+          "king"
+        ],
+        "weight": 96,
+        "label": "Death at Utrecht",
+        "labelCn": "在乌得勒支去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_V,_Holy_Roman_Emperor",
+        "note": "Died of disease; modern accounts often attribute it to cancer. He was the last Salian emperor; the marriage produced no surviving legitimate heirs."
+      }
+    ],
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died of disease at Utrecht (commonly attributed to cancer)",
+      "detail": "Henry V died on 23 May 1125 at Utrecht. Contemporary sources record death from disease; later accounts commonly attribute it to cancer. His body was buried at Speyer. As the last Salian emperor he left no surviving legitimate heirs, and the crown passed to Lothair of Supplinburg.",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Henry_V,_Holy_Roman_Emperor",
+      "summaryCn": "在乌得勒支因病去世（常归因于癌症）",
+      "detailCn": "1125 年 5 月 23 日，亨利五世在乌得勒支去世。时人记载为疾病所致，后世常归因于癌症。其遗体葬于施派尔。作为萨利安王朝最后一位皇帝，他没有留下存活的合法继承人，王位转由洛泰尔三世继承。"
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Henry_V,_Holy_Roman_Emperor",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Henry_V,_Holy_Roman_Emperor",
+    "sourceNote": "First husband of Empress Matilda; marriage ended after his death.",
+    "notes": "Holy Roman Emperor and first husband of Empress Matilda. Birth date uncertain: probably 11 August 1081 or 1086 (sources disagree). German spelling 'Heinrich' is preserved per project convention.",
+    "createdDate": "20260815",
+    "createdOrder": 9,
+    "displayNameCn": "海因里希五世",
+    "fullNameCn": "神圣罗马帝国皇帝海因里希五世",
+    "nicknameCn": "骄傲者",
+    "historicalRating": 7
+  },
+  {
+    "id": "f1675c1f-68d7-43cb-b465-842711cbc175",
+    "firstName": "Conrad",
+    "lastName": "",
+    "displayName": "Conrad II",
+    "fullName": "Conrad II, Holy Roman Emperor",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Conrad II",
+      "Konrad II"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "康拉德二世",
+    "fullNameCn": "康拉德二世",
+    "birthYear": 990,
+    "deathYear": 1039,
+    "birthPlace": "",
+    "deathPlace": "Utrecht, Germany",
+    "deathPlaceCn": "德意志乌得勒支",
+    "gender": "male",
+    "dynasty": "Salian dynasty",
+    "house": "Salian dynasty",
+    "culture": "German",
+    "faith": "Catholic",
+    "primaryTitle": "Holy Roman Emperor",
+    "primaryTitleCn": "神圣罗马帝国皇帝",
+    "titles": [
+      {
+        "title": "King of the Romans",
+        "startYear": 1024,
+        "endYear": 1027,
+        "titleCn": "罗马人的国王"
+      },
+      {
+        "title": "Holy Roman Emperor",
+        "startYear": 1027,
+        "endYear": 1039,
+        "titleCn": "神圣罗马帝国皇帝"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "emperor",
+      "king"
+    ],
+    "rank": "emperor",
+    "importanceScore": 72,
+    "historicalRating": 7,
+    "relationships": {
+      "fatherId": "1371cc73-3603-45db-a736-39e2da347927",
+      "motherId": "7ec07e10-b39e-4f1d-a770-7062a2a071d3",
+      "spouseIds": [
+        "bf8ee3fc-16d1-4788-aa89-1b460680632a"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "3067525b-9ffb-43a7-bb87-0a582c20a7fa"
+      ]
+    },
+    "events": [
+      {
+        "year": 990,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Conrad_II,_Holy_Roman_Emperor"
+      },
+      {
+        "year": 1024,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Began rule as King of the Romans",
+        "labelCn": "开始担任罗马人的国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Conrad_II,_Holy_Roman_Emperor"
+      },
+      {
+        "year": 1039,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Conrad_II,_Holy_Roman_Emperor"
+      },
+      {
+        "year": 1027,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Crowned Holy Roman Emperor",
+        "labelCn": "加冕为神圣罗马帝国皇帝",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Conrad_II,_Holy_Roman_Emperor",
+        "note": "Crowned emperor by Pope John XIX in Rome."
+      },
+      {
+        "year": 1032,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "territory"
+        ],
+        "weight": 75,
+        "label": "Inherited the Kingdom of Burgundy",
+        "labelCn": "继承勃艮第王国",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Conrad_II,_Holy_Roman_Emperor",
+        "note": "Succeeded to the Burgundian kingdom after the death of Rudolf III, bringing it into the empire."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Conrad_II,_Holy_Roman_Emperor",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Conrad_II,_Holy_Roman_Emperor",
+    "sourceNote": "First Salian emperor; King of Germany from 1024, crowned Emperor in 1027. Core timeline generated from recorded lifespan and titles on 2026-08-20.",
+    "notes": "Founder of the Salian dynasty; king of Germany from 1024 and Holy Roman Emperor from 1027.",
+    "createdDate": "20260820",
+    "createdOrder": 1
+  },
+  {
+    "id": "3067525b-9ffb-43a7-bb87-0a582c20a7fa",
+    "firstName": "Heinrich",
+    "lastName": "",
+    "displayName": "Heinrich III",
+    "fullName": "Heinrich III, Holy Roman Emperor",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Heinrich III",
+      "Henry III"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "海因里希三世",
+    "fullNameCn": "海因里希三世",
+    "birthYear": 1016,
+    "deathYear": 1056,
+    "birthPlace": "",
+    "deathPlace": "Bodfeld, Germany",
+    "deathPlaceCn": "德意志博德费尔德",
+    "gender": "male",
+    "dynasty": "Salian dynasty",
+    "house": "Salian dynasty",
+    "culture": "German",
+    "faith": "Catholic",
+    "primaryTitle": "Holy Roman Emperor",
+    "primaryTitleCn": "神圣罗马帝国皇帝",
+    "titles": [
+      {
+        "title": "King of the Romans",
+        "startYear": 1039,
+        "endYear": 1046,
+        "titleCn": "罗马人的国王"
+      },
+      {
+        "title": "Holy Roman Emperor",
+        "startYear": 1046,
+        "endYear": 1056,
+        "titleCn": "神圣罗马帝国皇帝"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "emperor",
+      "king"
+    ],
+    "rank": "emperor",
+    "importanceScore": 72,
+    "historicalRating": 7,
+    "relationships": {
+      "fatherId": "f1675c1f-68d7-43cb-b465-842711cbc175",
+      "motherId": "bf8ee3fc-16d1-4788-aa89-1b460680632a",
+      "spouseIds": [
+        "d021956c-c200-47ab-9462-f1fa220df458"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "3dd7dc1c-7473-495d-aac7-0c145d147ed9"
+      ]
+    },
+    "events": [
+      {
+        "year": 1016,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_III,_Holy_Roman_Emperor"
+      },
+      {
+        "year": 1039,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Began rule as King of the Romans",
+        "labelCn": "开始担任罗马人的国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_III,_Holy_Roman_Emperor"
+      },
+      {
+        "year": 1056,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_III,_Holy_Roman_Emperor"
+      },
+      {
+        "year": 1046,
+        "type": "religion",
+        "tags": [
+          "religion",
+          "political_crisis"
+        ],
+        "weight": 75,
+        "label": "Synod of Sutri: deposed the rival popes",
+        "labelCn": "苏特里宗教会议：废黜对立教皇",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Synod_of_Sutri",
+        "note": "Deposed three rival claimants to the papacy and secured the appointment of Clement II, the first of the German reforming popes."
+      },
+      {
+        "year": 1046,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Crowned Holy Roman Emperor",
+        "labelCn": "加冕为神圣罗马帝国皇帝",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_III,_Holy_Roman_Emperor",
+        "note": "Crowned emperor by Pope Clement II, whom he had helped install after the Synod of Sutri."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Henry_III,_Holy_Roman_Emperor",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Henry_III,_Holy_Roman_Emperor",
+    "sourceNote": "Son of Conrad II; King of Germany from 1039, crowned Emperor in 1046. Core timeline generated from recorded lifespan and titles on 2026-08-20.",
+    "notes": "King of Germany from 1039 and Holy Roman Emperor from 1046; the empire's power reached its height under him.",
+    "createdDate": "20260820",
+    "createdOrder": 2
+  },
+  {
+    "id": "3dd7dc1c-7473-495d-aac7-0c145d147ed9",
+    "firstName": "Heinrich",
+    "lastName": "",
+    "displayName": "Heinrich IV",
+    "fullName": "Heinrich IV, Holy Roman Emperor",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Heinrich IV",
+      "Henry IV"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "海因里希四世",
+    "fullNameCn": "海因里希四世",
+    "birthYear": 1050,
+    "deathYear": 1106,
+    "birthPlace": "Goslar, Germany",
+    "birthPlaceCn": "德意志戈斯拉尔",
+    "deathPlace": "Liège, Germany",
+    "deathPlaceCn": "德意志列日",
+    "gender": "male",
+    "dynasty": "Salian dynasty",
+    "house": "Salian dynasty",
+    "culture": "German",
+    "faith": "Catholic",
+    "primaryTitle": "Holy Roman Emperor",
+    "primaryTitleCn": "神圣罗马帝国皇帝",
+    "titles": [
+      {
+        "title": "King of the Romans",
+        "startYear": 1056,
+        "endYear": 1084,
+        "titleCn": "罗马人的国王"
+      },
+      {
+        "title": "Holy Roman Emperor",
+        "startYear": 1084,
+        "endYear": 1105,
+        "titleCn": "神圣罗马帝国皇帝"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "emperor",
+      "king"
+    ],
+    "rank": "emperor",
+    "importanceScore": 80,
+    "historicalRating": 8,
+    "relationships": {
+      "fatherId": "3067525b-9ffb-43a7-bb87-0a582c20a7fa",
+      "motherId": "d021956c-c200-47ab-9462-f1fa220df458",
+      "spouseIds": [
+        "ba76233c-7910-4e75-b696-e5ac22dc7082",
+        "98c03fcc-014c-4d29-a188-66c67e5a4b9c"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "9fd77e98-145c-4153-b806-768ff1d76ba6",
+        "cc4490a7-cc6f-4764-912b-61d31ec8b22d"
+      ]
+    },
+    "events": [
+      {
+        "year": 1050,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 60,
+        "label": "Born in Goslar",
+        "labelCn": "出生于戈斯拉尔",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_IV,_Holy_Roman_Emperor"
+      },
+      {
+        "year": 1056,
+        "type": "coronation",
+        "tags": [
+          "coronation"
+        ],
+        "weight": 67,
+        "label": "Succeeded as King of the Romans",
+        "labelCn": "继承罗马人的国王之位",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_IV,_Holy_Roman_Emperor"
+      },
+      {
+        "year": 1076,
+        "type": "government",
+        "tags": [
+          "government"
+        ],
+        "weight": 74,
+        "label": "Excommunicated during the Investiture Controversy",
+        "labelCn": "授职权斗争中被绝罚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_IV,_Holy_Roman_Emperor"
+      },
+      {
+        "year": 1077,
+        "type": "government",
+        "tags": [
+          "government"
+        ],
+        "weight": 81,
+        "label": "Penance at Canossa",
+        "labelCn": "卡诺莎悔罪",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_IV,_Holy_Roman_Emperor"
+      },
+      {
+        "year": 1084,
+        "type": "coronation",
+        "tags": [
+          "coronation"
+        ],
+        "weight": 88,
+        "label": "Crowned Holy Roman Emperor",
+        "labelCn": "加冕为神圣罗马帝国皇帝",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_IV,_Holy_Roman_Emperor"
+      },
+      {
+        "year": 1106,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 95,
+        "label": "Died at Liège",
+        "labelCn": "逝世于列日",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_IV,_Holy_Roman_Emperor"
+      },
+      {
+        "year": 1062,
+        "type": "political_crisis",
+        "tags": [
+          "political_crisis",
+          "regency"
+        ],
+        "weight": 74,
+        "label": "Coup of Kaiserswerth",
+        "labelCn": "凯泽斯韦尔特政变",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_IV,_Holy_Roman_Emperor",
+        "note": "The young king was seized by Archbishop Anno II of Cologne during his minority."
+      },
+      {
+        "year": 1073,
+        "type": "rebellion",
+        "tags": [
+          "rebellion",
+          "war"
+        ],
+        "weight": 78,
+        "label": "Outbreak of the Saxon Rebellion",
+        "labelCn": "萨克森叛乱爆发",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_IV,_Holy_Roman_Emperor"
+      },
+      {
+        "year": 1080,
+        "type": "religion",
+        "tags": [
+          "religion",
+          "political_crisis"
+        ],
+        "weight": 80,
+        "label": "Second excommunication; declared Gregory VII deposed",
+        "labelCn": "再次被绝罚并宣布废黜格列高利七世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_IV,_Holy_Roman_Emperor"
+      },
+      {
+        "year": 1105,
+        "type": "abdication",
+        "tags": [
+          "succession",
+          "political_crisis"
+        ],
+        "weight": 82,
+        "label": "Forced to abdicate by his son Heinrich V",
+        "labelCn": "被其子海因里希五世逼迫退位",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_IV,_Holy_Roman_Emperor"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Henry_IV,_Holy_Roman_Emperor",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Henry_IV,_Holy_Roman_Emperor",
+    "sourceNote": "Son of Heinrich III; King of Germany from 1056, Emperor from 1084. Central figure of the Investiture Controversy and the Walk to Canossa. Core chronology completed 2026-08-20.",
+    "notes": "Holy Roman Emperor remembered for the Investiture Controversy and his penance at Canossa; deposed by his son Heinrich V.",
+    "createdDate": "20260820",
+    "createdOrder": 3,
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died of illness at Liège",
+      "summaryCn": "在列日病逝",
+      "detail": "Deposed by his son Heinrich V, Heinrich IV died at Liège on 7 August 1106; his death is recorded as from illness.",
+      "detailCn": "被其子海因里希五世废黜后，海因里希四世于1106年8月7日在列日病逝。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Henry_IV,_Holy_Roman_Emperor"
+    }
+  },
+  {
+    "id": "1371cc73-3603-45db-a736-39e2da347927",
+    "firstName": "Henry",
+    "lastName": "of Speyer",
+    "displayName": "Henry of Speyer",
+    "fullName": "Henry of Speyer (Henry of Worms)",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Henry of Worms",
+      "Heinrich von Speyer",
+      "Heinrich von Worms"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "施派尔的亨利",
+    "fullNameCn": "施派尔的亨利（沃尔姆斯的亨利）",
+    "nicknameCn": "",
+    "birthYear": 970,
+    "deathYear": "",
+    "birthPlace": "",
+    "birthPlaceCn": "",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "Salian dynasty",
+    "house": "Salian dynasty",
+    "culture": "Rhenish Franconian",
+    "faith": "Catholic",
+    "primaryTitle": "Count in the Wormsgau",
+    "primaryTitleCn": "沃尔姆斯高伯爵",
+    "titles": [
+      {
+        "title": "Count in the Wormsgau",
+        "titleCn": "沃尔姆斯高伯爵",
+        "startYear": "",
+        "endYear": ""
+      }
+    ],
+    "tags": [
+      "noble",
+      "count"
+    ],
+    "rank": "count",
+    "importanceScore": 48,
+    "historicalRating": 4,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "7ec07e10-b39e-4f1d-a770-7062a2a071d3"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "f1675c1f-68d7-43cb-b465-842711cbc175"
+      ]
+    },
+    "events": [
+      {
+        "year": 990,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "dynasty"
+        ],
+        "weight": 80,
+        "label": "Fathered the future emperor Conrad II",
+        "labelCn": "成为后来皇帝康拉德二世之父",
+        "wikiUrl": "https://www.deutsche-biographie.de/gnd13877109X.html",
+        "note": "Conrad II was born around 990 into the Salian family; Henry's own death is variously dated to 990/991, 989–992, or in older tradition 997."
+      }
+    ],
+    "wikiUrl": "https://www.deutsche-biographie.de/gnd13877109X.html",
+    "portraitUrl": "",
+    "sourceUrl": "https://www.deutsche-biographie.de/gnd13877109X.html",
+    "sourceNote": "Deutsche Biographie, 'Heinrich von Worms/Heinrich von Speyer'; Herwig Wolfram, Conrad II, 990–1039; Peter H. Wilson, Heart of Europe; Wikipedia used only as a supplementary cross-check.",
+    "notes": "A short-lived Salian nobleman whose principal dynastic importance is as the father of Emperor Conrad II. He died before the Salian rise to kingship and never held a royal title.\n\nConfidence / caveats: His chronology is unusually uncertain: modern reference works give death in 990 or 991, while other traditions broaden it to 989–992 or place it as late as 997. Birth c.970 is approximate. His mother's identity and his precise comital jurisdiction are not uniformly presented in the sources; 'Count in the Wormsgau' is safer than assigning a later territorial title. Because his independent career is poorly documented, he is rated below 5 rather than padding the timeline with conjectural events.\n\nUnlinked family (not in roster): father: Otto of Worms; mother: Judith; child: Judith of Speyer",
+    "createdDate": "20260823",
+    "createdOrder": 107
+  },
+  {
+    "id": "cc4490a7-cc6f-4764-912b-61d31ec8b22d",
+    "firstName": "Agnes",
+    "lastName": "of Waiblingen",
+    "displayName": "Agnes of Waiblingen",
+    "fullName": "Agnes of Waiblingen",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Agnes of Germany",
+      "Agnes von Waiblingen"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "瓦伊布林根的阿格尼丝",
+    "fullNameCn": "瓦伊布林根的阿格尼丝",
+    "nicknameCn": "",
+    "birthYear": "",
+    "deathYear": 1143,
+    "birthPlace": "",
+    "birthPlaceCn": "",
+    "deathPlace": "Klosterneuburg",
+    "deathPlaceCn": "克洛斯特新堡",
+    "gender": "female",
+    "dynasty": "Salian dynasty",
+    "house": "Salian dynasty",
+    "culture": "German-Salian",
+    "faith": "Catholic",
+    "primaryTitle": "Duchess of Swabia and Margravine of Austria",
+    "primaryTitleCn": "士瓦本公爵夫人兼奥地利边区侯夫人",
+    "titles": [
+      {
+        "title": "Duchess consort of Swabia",
+        "titleCn": "士瓦本公爵夫人",
+        "startYear": 1086,
+        "endYear": 1105
+      },
+      {
+        "title": "Margravine consort of Austria",
+        "titleCn": "奥地利边区侯夫人",
+        "startYear": 1106,
+        "endYear": 1136
+      }
+    ],
+    "tags": [
+      "duchess",
+      "consort",
+      "noble"
+    ],
+    "rank": "duchess",
+    "importanceScore": 68,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "3dd7dc1c-7473-495d-aac7-0c145d147ed9",
+      "motherId": "ba76233c-7910-4e75-b696-e5ac22dc7082",
+      "spouseIds": [
+        "f9819d64-fa7e-40da-85f5-dfd70e7fcf98"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "5d9f38da-aa48-42e8-96cf-a87ed75db93f",
+        "b9252f8f-d6cd-48eb-8a6a-8072d819d78e"
+      ]
+    },
+    "events": [
+      {
+        "year": 1079,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 95,
+        "label": "Betrothed to Frederick of Staufen as he received the Duchy of Swabia",
+        "labelCn": "在腓特烈获授士瓦本公国之际与其订婚",
+        "wikiUrl": "https://www.deutsche-biographie.de/gnd118722301.html",
+        "month": 3,
+        "day": 24,
+        "note": "The betrothal tied Emperor Henry IV's Salian dynasty directly to Frederick of Staufen as he received the Duchy of Swabia."
+      },
+      {
+        "year": 1086,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 90,
+        "label": "Married Frederick I, Duke of Swabia",
+        "labelCn": "与士瓦本公爵腓特烈一世结婚",
+        "wikiUrl": "https://www.deutsche-biographie.de/gnd118722301.html",
+        "note": "The marriage joined the Salian princess Agnes to the rising Hohenstaufen ducal house in Swabia."
+      },
+      {
+        "year": 1105,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynasty"
+        ],
+        "weight": 80,
+        "label": "Was widowed by Frederick I's death",
+        "labelCn": "腓特烈一世去世后守寡",
+        "wikiUrl": "https://www.deutsche-biographie.de/gnd118722301.html",
+        "note": "After Frederick I's death, their sons Frederick II and Conrad III carried the Salian bloodline into the Hohenstaufen dynasty."
+      },
+      {
+        "year": 1106,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 90,
+        "label": "Married Leopold III, Margrave of Austria",
+        "labelCn": "与奥地利边区侯利奥波德三世结婚",
+        "wikiUrl": "https://www.deutsche-biographie.de/gnd118722301.html",
+        "note": "The second marriage linked the Salian imperial family to Leopold III and the Babenberg dynasty in Austria."
+      },
+      {
+        "year": 1143,
+        "type": "death",
+        "tags": [
+          "death",
+          "noble"
+        ],
+        "weight": 65,
+        "label": "Died at Klosterneuburg",
+        "labelCn": "在克洛斯特新堡去世",
+        "wikiUrl": "https://www.deutsche-biographie.de/gnd118722301.html",
+        "month": 9,
+        "day": 24,
+        "note": "Agnes died at Klosterneuburg after decades as a dynastic link between the Salian, Hohenstaufen and Babenberg houses."
+      }
+    ],
+    "wikiUrl": "https://www.deutsche-biographie.de/gnd118722301.html",
+    "portraitUrl": "",
+    "sourceUrl": "https://www.deutsche-biographie.de/gnd118722301.html",
+    "sourceNote": "Deutsche Biographie, 'Agnes von Waiblingen'; Peter Csendes and Austrian Babenberg scholarship; Karl Lechner, Die Babenberger; Wolfgang Muschka, Agnes von Waiblingen; Wikipedia only for cross-checking exact dates.",
+    "notes": "Agnes is the crucial female bridge from the Salian emperors to the Hohenstaufen kings: her son Conrad III became the first Hohenstaufen king of Germany, while Frederick II of Swabia fathered Barbarossa. Her second marriage also connected the Salian inheritance to the Babenbergs.\n\nConfidence / caveats: Her birth date is disputed: modern works variously give 1072/73 or 1074/75, so birthYear is left null rather than selecting a false precision. Medieval sources attribute a very large number of children to her second marriage, and exact child lists vary; the family list includes the principal securely identifiable offspring rather than attempting every disputed child.\n\nUnlinked family (not in roster): spouse: Leopold III, Margrave of Austria; child: Leopold IV, Duke of Bavaria; child: Henry II, Duke of Austria; child: Otto of Freising; child: Conrad II, Archbishop of Salzburg; child: Agnes of Austria; child: Judith of Austria; child: Gertrude of Austria",
+    "createdDate": "20260823",
+    "createdOrder": 113
+  }
+]

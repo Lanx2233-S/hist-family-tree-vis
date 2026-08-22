@@ -1,0 +1,107 @@
+[
+  {
+    "id": "c1021000-0000-4000-8000-000000000000",
+    "firstName": "Magnus",
+    "lastName": "of Norway",
+    "displayName": "Magnus the Good",
+    "fullName": "Magnus the Good, King of Norway",
+    "displayNameCn": "善良的马格努斯",
+    "fullNameCn": "挪威国王善良的马格努斯",
+    "nickname": "the Good",
+    "nicknameCn": "善良",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1024,
+    "deathYear": 1047,
+    "birthPlace": "Norway",
+    "birthPlaceCn": "挪威",
+    "deathPlace": "Denmark",
+    "deathPlaceCn": "丹麦",
+    "gender": "male",
+    "dynasty": "Fairhair dynasty",
+    "house": "House of Fairhair",
+    "culture": "Norwegian",
+    "faith": "Catholic",
+    "primaryTitle": "King of Norway",
+    "primaryTitleCn": "挪威国王",
+    "titles": [
+      {
+        "title": "King of Denmark",
+        "titleCn": "丹麦国王",
+        "startYear": 1042,
+        "endYear": 1047
+      },
+      {
+        "title": "King of Norway",
+        "titleCn": "挪威国王",
+        "startYear": 1035,
+        "endYear": 1047
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 60,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1035,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "king",
+          "monarch"
+        ],
+        "weight": 82,
+        "label": "Elected King of Norway",
+        "labelCn": "当选挪威国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Magnus_the_Good",
+        "note": "Recalled from exile in Rus' and elected king of Norway at about age eleven after the death of Cnut the Great."
+      },
+      {
+        "year": 1042,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "king",
+          "succession"
+        ],
+        "weight": 80,
+        "label": "Became King of Denmark",
+        "labelCn": "成为丹麦国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Magnus_the_Good",
+        "note": "On Harthacnut's death in June 1042 he also became king of Denmark, though his rival Sweyn Estridsson disputed the claim."
+      },
+      {
+        "year": 1047,
+        "month": 10,
+        "day": 25,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 85,
+        "label": "Death in Denmark",
+        "labelCn": "在丹麦去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Magnus_the_Good",
+        "note": "Died on 25 October 1047 while campaigning in Denmark; accounts give his death as a fall from a horse or from a ship."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Magnus_the_Good",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Magnus_the_Good",
+    "sourceNote": "Wikipedia 'Magnus the Good'; Encyclopædia Britannica 'Magnus I Olafsson' (cross-checked).",
+    "notes": "Son of Olaf II (St Olaf), he became king of Norway in 1035 and of Denmark in 1042, and his victory over the Wends at Lyrskov Hede in 1043 is said to have earned him the byname 'the Good'. His death in 1047 left Norway to Harald Hardrada and Denmark to Sweyn II Estridsen.",
+    "createdDate": "20260823",
+    "createdOrder": 52
+  }
+]

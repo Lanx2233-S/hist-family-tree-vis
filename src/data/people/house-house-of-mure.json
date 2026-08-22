@@ -1,0 +1,77 @@
+[
+  {
+    "id": "cdae6d46-09e0-416c-bfed-e2bdc534c316",
+    "firstName": "Elizabeth",
+    "lastName": "Mure",
+    "displayName": "Elizabeth Mure",
+    "fullName": "Elizabeth Mure",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Elizabeth Mure"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "伊丽莎白·缪尔",
+    "fullNameCn": "伊丽莎白·缪尔",
+    "birthYear": 1320,
+    "deathYear": 1355,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "female",
+    "dynasty": "House of Mure",
+    "house": "House of Mure",
+    "culture": "Scottish",
+    "faith": "Catholic",
+    "primaryTitle": "Countess of Strathearn",
+    "primaryTitleCn": "斯特拉森伯爵夫人",
+    "titles": [],
+    "tags": [
+      "noble"
+    ],
+    "rank": "noble",
+    "importanceScore": 44,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "ddb68158-583c-4e4d-84ca-5b04befd2261"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "84eb5f03-22b3-4efe-a5ab-566148c2b283"
+      ]
+    },
+    "events": [
+      {
+        "year": 1347,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 74,
+        "label": "Marriage to Robert Stewart legitimized",
+        "labelCn": "与罗伯特·斯图亚特的婚姻获承认",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Elizabeth_Mure"
+      },
+      {
+        "year": 1355,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 86,
+        "label": "Died before Robert II's accession",
+        "labelCn": "在罗贝尔二世即位前去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Elizabeth_Mure"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Elizabeth_Mure",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Elizabeth_Mure",
+    "sourceNote": "First wife of Robert II (before his accession) and mother of Robert III; never queen consort as she died in 1355.",
+    "notes": "First wife of Robert Stewart (later Robert II) and mother of Robert III; her marriage was legitimized in 1347.",
+    "createdDate": "20260819",
+    "createdOrder": 42
+  }
+]

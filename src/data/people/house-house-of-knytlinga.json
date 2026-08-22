@@ -1,0 +1,1163 @@
+[
+  {
+    "id": "01da1402-5d85-4186-859a-34f8cb06182d",
+    "firstName": "Sweyn",
+    "lastName": "Denmark",
+    "displayName": "Sweyn Forkbeard",
+    "fullName": "Sweyn Forkbeard",
+    "displayNameCn": "斯温八字胡",
+    "fullNameCn": "八字胡斯温",
+    "nickname": "Forkbeard",
+    "nicknameCn": "八字胡",
+    "alsoKnownAs": [
+      "Svend Tveskæg",
+      "Sweyn I of Denmark"
+    ],
+    "nicknameTags": [
+      "forkbeard"
+    ],
+    "birthYear": 960,
+    "deathYear": 1014,
+    "birthPlace": "Denmark",
+    "deathPlace": "Gainsborough, England",
+    "birthPlaceCn": "丹麦",
+    "deathPlaceCn": "英格兰盖恩斯伯勒",
+    "gender": "male",
+    "dynasty": "Knýtlinga dynasty",
+    "house": "House of Knýtlinga",
+    "culture": "Danish",
+    "faith": "Catholic",
+    "primaryTitle": "King of Denmark",
+    "primaryTitleCn": "丹麦国王",
+    "titles": [
+      {
+        "title": "King of Denmark",
+        "titleCn": "丹麦国王",
+        "startYear": 986,
+        "endYear": 1014
+      },
+      {
+        "title": "King of England",
+        "titleCn": "英格兰国王",
+        "startYear": 1013,
+        "endYear": 1014
+      }
+    ],
+    "tags": [
+      "monarch",
+      "commander",
+      "conqueror"
+    ],
+    "rank": "king",
+    "importanceScore": 88,
+    "historicalRating": 8,
+    "relationships": {
+      "fatherId": "ca7b3d35-0d29-4a9b-bf79-7d87046adaee",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "c1020000-0000-4000-8000-000000000000",
+        "0fb64530-ea06-47ec-9570-6166155b53ba",
+        "c1022000-0000-4000-8000-000000000000"
+      ]
+    },
+    "events": [
+      {
+        "year": 986,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "monarch"
+        ],
+        "weight": 86,
+        "label": "Became King of Denmark",
+        "labelCn": "成为丹麦国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Sweyn_Forkbeard"
+      },
+      {
+        "year": 1003,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "conquest"
+        ],
+        "weight": 88,
+        "label": "Renewed Danish invasion of England",
+        "labelCn": "重启对英格兰的丹麦入侵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Sweyn_Forkbeard"
+      },
+      {
+        "year": 1013,
+        "type": "conquest",
+        "tags": [
+          "conquest",
+          "monarch"
+        ],
+        "weight": 99,
+        "label": "Conquered England",
+        "labelCn": "征服英格兰",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Sweyn_Forkbeard",
+        "note": "Æthelred fled to Normandy and Sweyn was acknowledged as king late in 1013."
+      },
+      {
+        "year": 1014,
+        "month": 2,
+        "day": 3,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 92,
+        "label": "Died at Gainsborough",
+        "labelCn": "在盖恩斯伯勒去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Sweyn_Forkbeard"
+      },
+      {
+        "year": 986,
+        "type": "rebellion",
+        "tags": [
+          "rebellion",
+          "succession"
+        ],
+        "weight": 78,
+        "label": "Rebellion against his father Harald Bluetooth",
+        "labelCn": "起兵反抗其父蓝牙王哈拉尔",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Sweyn_Forkbeard"
+      },
+      {
+        "year": 994,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "battle"
+        ],
+        "weight": 72,
+        "label": "Raided England and attacked London",
+        "labelCn": "劫掠英格兰并攻打伦敦",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Sweyn_Forkbeard",
+        "note": "Sweyn campaigned in England alongside Olaf Tryggvason."
+      },
+      {
+        "year": 1000,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "commander",
+          "conquest"
+        ],
+        "weight": 84,
+        "label": "Battle of Svolder",
+        "labelCn": "斯沃尔德海战",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Svolder",
+        "note": "Sweyn helped defeat Olaf Tryggvason, securing Danish control over much of Norway."
+      },
+      {
+        "year": 1002,
+        "type": "political_crisis",
+        "tags": [
+          "political_crisis"
+        ],
+        "weight": 74,
+        "label": "St Brice's Day massacre of Danish settlers",
+        "labelCn": "圣布赖斯日对丹麦移民的大屠杀",
+        "wikiUrl": "https://en.wikipedia.org/wiki/St_Brice%27s_Day_massacre",
+        "note": "Æthelred's order killed Danish settlers in England, including Sweyn's sister Gunnhild, prompting his revenge campaigns."
+      }
+    ],
+    "deathCause": {
+      "kind": "uncertain",
+      "summary": "Died suddenly after conquering England",
+      "summaryCn": "征服英格兰后突然去世",
+      "detail": "Sweyn died at Gainsborough on 3 February 1014; the cause is not securely recorded.",
+      "detailCn": "1014年2月3日，斯温在盖恩斯伯勒去世；确切死因无可靠记载。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Sweyn_Forkbeard"
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Sweyn_Forkbeard",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Sweyn_Forkbeard",
+    "sourceNote": "King of Denmark and briefly king of England; father of Cnut.",
+    "notes": "North Sea imperial background card; basic family links are limited to the roster.",
+    "createdDate": "20260817",
+    "createdOrder": 41
+  },
+  {
+    "id": "0fb64530-ea06-47ec-9570-6166155b53ba",
+    "firstName": "Cnut",
+    "lastName": "Denmark",
+    "displayName": "Cnut the Great",
+    "fullName": "Cnut the Great",
+    "displayNameCn": "克努特大帝",
+    "fullNameCn": "克努特大帝",
+    "nickname": "the Great",
+    "nicknameCn": "大帝",
+    "alsoKnownAs": [
+      "Canute the Great",
+      "Cnut I of England"
+    ],
+    "nicknameTags": [
+      "great"
+    ],
+    "birthYear": 990,
+    "deathYear": 1035,
+    "birthPlace": "Denmark",
+    "deathPlace": "Shaftesbury, England",
+    "birthPlaceCn": "丹麦",
+    "deathPlaceCn": "英格兰沙夫茨伯里",
+    "gender": "male",
+    "dynasty": "Knýtlinga dynasty",
+    "house": "House of Knýtlinga",
+    "culture": "Danish",
+    "faith": "Catholic",
+    "primaryTitle": "King of England",
+    "primaryTitleCn": "英格兰国王",
+    "titles": [
+      {
+        "title": "Duke of Normandy",
+        "titleCn": "诺曼底公爵",
+        "startYear": 1135,
+        "endYear": 1144
+      },
+      {
+        "title": "King of England",
+        "titleCn": "英格兰国王",
+        "startYear": 1016,
+        "endYear": 1035
+      },
+      {
+        "title": "King of Denmark",
+        "titleCn": "丹麦国王",
+        "startYear": 1018,
+        "endYear": 1035
+      },
+      {
+        "title": "King of Norway",
+        "titleCn": "挪威国王",
+        "startYear": 1028,
+        "endYear": 1035
+      }
+    ],
+    "tags": [
+      "monarch",
+      "commander",
+      "conqueror"
+    ],
+    "rank": "king",
+    "importanceScore": 94,
+    "historicalRating": 9,
+    "relationships": {
+      "fatherId": "01da1402-5d85-4186-859a-34f8cb06182d",
+      "motherId": "",
+      "spouseIds": [
+        "11999429-e764-4ed2-9c8c-cf95cfbbdecc",
+        "282ca949-3e4e-460c-b438-2c40887812e4"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "d539abe5-c27d-4b1a-a3b3-e16d93ce2344",
+        "0a5b30a1-051e-41ea-a10a-1c37ce523603",
+        "5e955633-278a-4885-9d19-41012011016c"
+      ]
+    },
+    "events": [
+      {
+        "year": 1016,
+        "month": 10,
+        "day": 18,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "conquest",
+          "commander"
+        ],
+        "weight": 98,
+        "label": "Battle of Assandun",
+        "labelCn": "阿桑顿战役",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Assandun"
+      },
+      {
+        "year": 1016,
+        "month": 11,
+        "day": 30,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "monarch"
+        ],
+        "weight": 99,
+        "label": "Became sole king of England",
+        "labelCn": "成为唯一的英格兰国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Cnut_the_Great"
+      },
+      {
+        "year": 1017,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynasty"
+        ],
+        "weight": 91,
+        "label": "Marriage to Emma of Normandy",
+        "labelCn": "与诺曼底的埃玛结婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Emma_of_Normandy"
+      },
+      {
+        "year": 1018,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "monarch"
+        ],
+        "weight": 88,
+        "label": "Became King of Denmark",
+        "labelCn": "成为丹麦国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Cnut_the_Great"
+      },
+      {
+        "year": 1028,
+        "type": "conquest",
+        "tags": [
+          "conquest",
+          "monarch"
+        ],
+        "weight": 88,
+        "label": "Became King of Norway",
+        "labelCn": "成为挪威国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Cnut_the_Great"
+      },
+      {
+        "year": 1035,
+        "month": 11,
+        "day": 12,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 94,
+        "label": "Died at Shaftesbury",
+        "labelCn": "在沙夫茨伯里去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Cnut_the_Great"
+      },
+      {
+        "year": 1014,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "monarch"
+        ],
+        "weight": 74,
+        "label": "Proclaimed king of England by the Danish army",
+        "labelCn": "被丹麦军队拥立为英格兰国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Cnut_the_Great",
+        "note": "After Sweyn Forkbeard's death Cnut was acclaimed king, but Æthelred's return forced him to withdraw to Denmark."
+      },
+      {
+        "year": 1015,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "conquest"
+        ],
+        "weight": 82,
+        "label": "Invasion of England",
+        "labelCn": "入侵英格兰",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Cnut_the_Great"
+      },
+      {
+        "year": 1016,
+        "type": "treaty",
+        "tags": [
+          "treaty",
+          "succession"
+        ],
+        "weight": 78,
+        "label": "Divided England with Edmund Ironside",
+        "labelCn": "与勇敢者埃德蒙瓜分英格兰",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Cnut_the_Great",
+        "note": "After Assandun the two kings agreed to divide the realm; Edmund's death on 30 November left Cnut sole king."
+      },
+      {
+        "year": 1026,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "commander"
+        ],
+        "weight": 80,
+        "label": "Battle of the Helgeå",
+        "labelCn": "赫尔格河战役",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_the_Helge%C3%A5",
+        "note": "Cnut defeated the combined forces of Norway and Sweden at the Helgeå."
+      },
+      {
+        "year": 1027,
+        "type": "journey",
+        "tags": [
+          "journey",
+          "religion",
+          "diplomacy"
+        ],
+        "weight": 76,
+        "label": "Pilgrimage to Rome",
+        "labelCn": "前往罗马朝圣",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Cnut_the_Great",
+        "note": "Cnut travelled to Rome for the imperial coronation of Conrad II, securing concessions for English pilgrims and merchants."
+      }
+    ],
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died at Shaftesbury",
+      "summaryCn": "在沙夫茨伯里去世",
+      "detail": "Cnut died at Shaftesbury on 12 November 1035 after ruling England, Denmark and Norway.",
+      "detailCn": "1035年11月12日，克努特在统治英格兰、丹麦与挪威期间去世。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Cnut_the_Great"
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Cnut_the_Great",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Cnut_the_Great",
+    "sourceNote": "Son of Sweyn Forkbeard; ruler of the North Sea Empire.",
+    "notes": "Full North Sea Empire anchor card. Harold Harefoot and Harthacnut are represented in the roster; their mothers are intentionally not both modeled.",
+    "createdDate": "20260817",
+    "createdOrder": 42
+  },
+  {
+    "id": "d539abe5-c27d-4b1a-a3b3-e16d93ce2344",
+    "firstName": "Harold",
+    "lastName": "Denmark",
+    "displayName": "Harold Harefoot",
+    "fullName": "Harold Harefoot",
+    "displayNameCn": "野兔脚哈罗德",
+    "fullNameCn": "野兔脚哈罗德",
+    "nickname": "Harefoot",
+    "nicknameCn": "野兔脚",
+    "alsoKnownAs": [
+      "Harold I"
+    ],
+    "nicknameTags": [
+      "harefoot"
+    ],
+    "birthYear": 1015,
+    "deathYear": 1040,
+    "birthPlace": "England",
+    "deathPlace": "Oxford, England",
+    "birthPlaceCn": "英格兰",
+    "deathPlaceCn": "英格兰牛津",
+    "gender": "male",
+    "dynasty": "Knýtlinga dynasty",
+    "house": "House of Knýtlinga",
+    "culture": "Danish",
+    "faith": "Catholic",
+    "primaryTitle": "King of England",
+    "primaryTitleCn": "英格兰国王",
+    "titles": [
+      {
+        "title": "King of England",
+        "titleCn": "英格兰国王",
+        "startYear": 1037,
+        "endYear": 1040
+      }
+    ],
+    "tags": [
+      "monarch"
+    ],
+    "rank": "king",
+    "importanceScore": 72,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "0fb64530-ea06-47ec-9570-6166155b53ba",
+      "motherId": "282ca949-3e4e-460c-b438-2c40887812e4",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1015,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Harold_Harefoot"
+      },
+      {
+        "year": 1037,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Began rule as King of England",
+        "labelCn": "开始担任英格兰国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Harold_Harefoot"
+      },
+      {
+        "year": 1040,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Harold_Harefoot"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Harold_Harefoot",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Harold_Harefoot",
+    "sourceNote": "Son of Cnut and Ælfgifu of Northampton; ruled England from 1037 to 1040. Core timeline generated from recorded lifespan and titles on 2026-08-20.",
+    "notes": "Basic North Sea Empire succession card; his mother is not yet in the roster.",
+    "createdDate": "20260817",
+    "createdOrder": 44,
+    "deathCause": {
+      "kind": "uncertain",
+      "summary": "Died young, cause uncertain",
+      "summaryCn": "早逝，死因不明",
+      "detail": "Harold Harefoot died in 1040 at Oxford; the cause is uncertain, with illness and murder both suggested in the sources.",
+      "detailCn": "1040 年，野兔脚哈罗德在牛津去世，死因不明，史料中有病故与被害两种说法。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Harold_Harefoot"
+    }
+  },
+  {
+    "id": "0a5b30a1-051e-41ea-a10a-1c37ce523603",
+    "firstName": "Harthacnut",
+    "lastName": "Denmark",
+    "displayName": "Harthacnut",
+    "fullName": "Harthacnut, King of England",
+    "displayNameCn": "哈德克努特",
+    "fullNameCn": "英格兰国王哈德克努特",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [
+      "Harthacanute",
+      "Cnut III of Denmark"
+    ],
+    "nicknameTags": [],
+    "birthYear": 1018,
+    "deathYear": 1042,
+    "birthPlace": "England",
+    "deathPlace": "Lambeth, England",
+    "birthPlaceCn": "英格兰",
+    "deathPlaceCn": "英格兰兰贝斯",
+    "gender": "male",
+    "dynasty": "Knýtlinga dynasty",
+    "house": "House of Knýtlinga",
+    "culture": "Danish",
+    "faith": "Catholic",
+    "primaryTitle": "King of England",
+    "primaryTitleCn": "英格兰国王",
+    "titles": [
+      {
+        "title": "King of Denmark",
+        "titleCn": "丹麦国王",
+        "startYear": 1035,
+        "endYear": 1042
+      },
+      {
+        "title": "King of England",
+        "titleCn": "英格兰国王",
+        "startYear": 1040,
+        "endYear": 1042
+      }
+    ],
+    "tags": [
+      "monarch"
+    ],
+    "rank": "king",
+    "importanceScore": 75,
+    "historicalRating": 7,
+    "relationships": {
+      "fatherId": "0fb64530-ea06-47ec-9570-6166155b53ba",
+      "motherId": "11999429-e764-4ed2-9c8c-cf95cfbbdecc",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1018,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Harthacnut"
+      },
+      {
+        "year": 1035,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Began rule as King of Denmark",
+        "labelCn": "开始担任丹麦国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Harthacnut"
+      },
+      {
+        "year": 1042,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Harthacnut"
+      },
+      {
+        "year": 1040,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "monarch"
+        ],
+        "weight": 82,
+        "label": "Succeeded Harold Harefoot as King of England",
+        "labelCn": "继哈罗德一世之后成为英格兰国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Harthacnut"
+      },
+      {
+        "year": 1041,
+        "type": "diplomacy",
+        "tags": [
+          "diplomacy",
+          "succession"
+        ],
+        "weight": 70,
+        "label": "Invited Edward the Confessor to England",
+        "labelCn": "邀请忏悔者爱德华返回英格兰",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Harthacnut",
+        "note": "Named his half-brother Edward, later the Confessor, as his successor."
+      }
+    ],
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died suddenly at Lambeth",
+      "summaryCn": "在兰贝斯突然去世",
+      "detail": "Harthacnut died suddenly at a wedding feast in Lambeth on 8 June 1042.",
+      "detailCn": "1042年6月8日，哈德克努特在兰贝斯的一场婚宴上突然去世。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Harthacnut"
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Harthacnut",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Harthacnut",
+    "sourceNote": "Son of Cnut and Emma; king of Denmark and England, succeeded in England by Edward the Confessor. Core timeline generated from recorded lifespan and titles on 2026-08-20.",
+    "notes": "Basic North Sea Empire succession card.",
+    "createdDate": "20260817",
+    "createdOrder": 45
+  },
+  {
+    "id": "ca7b3d35-0d29-4a9b-bf79-7d87046adaee",
+    "firstName": "Harald",
+    "lastName": "",
+    "displayName": "Harald Bluetooth",
+    "fullName": "Harald Bluetooth",
+    "nickname": "Bluetooth",
+    "alsoKnownAs": [
+      "Harald Bluetooth",
+      "Harald Gormsson"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "蓝牙哈拉尔",
+    "fullNameCn": "蓝牙哈拉尔",
+    "nicknameCn": "蓝牙",
+    "birthYear": 958,
+    "deathYear": 986,
+    "birthPlace": "Jelling, Denmark",
+    "birthPlaceCn": "丹麦耶灵",
+    "deathPlace": "Jomsborg, Denmark",
+    "deathPlaceCn": "丹麦约姆斯堡",
+    "gender": "male",
+    "dynasty": "Knýtlinga dynasty",
+    "house": "House of Knýtlinga",
+    "culture": "Danish",
+    "faith": "Catholic",
+    "primaryTitle": "King of Denmark",
+    "primaryTitleCn": "丹麦国王",
+    "titles": [
+      {
+        "title": "King of Denmark",
+        "startYear": 958,
+        "endYear": 986,
+        "titleCn": "丹麦国王"
+      },
+      {
+        "title": "King of Norway",
+        "startYear": 970,
+        "endYear": 986,
+        "titleCn": "挪威国王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 78,
+    "relationships": {
+      "fatherId": "c1019000-0000-4000-8000-000000000000",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "01da1402-5d85-4186-859a-34f8cb06182d"
+      ]
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Harald_Bluetooth",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Harald_Bluetooth",
+    "sourceNote": "Father Gorm the Old is not yet in the roster. Birth year is uncertain (traditionally c. 958).",
+    "notes": "King of Denmark and Norway who unified the Danes and converted them to Christianity, commemorated at the Jelling stones. Father of Sweyn Forkbeard.",
+    "historicalRating": 7,
+    "createdDate": "20260818",
+    "createdOrder": 36,
+    "deathCause": {
+      "kind": "violent",
+      "summary": "Killed in a rebellion",
+      "summaryCn": "在叛乱中被杀",
+      "detail": "Harald Bluetooth was killed in 986 during a rebellion, reportedly with the involvement of his son Sweyn Forkbeard.",
+      "detailCn": "986 年，蓝牙哈拉尔在一场叛乱中被杀，据称其子斯温八字胡亦有参与。",
+      "culprit": "reportedly Sweyn Forkbeard",
+      "culpritCn": "据称斯温八字胡",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Harald_Bluetooth"
+    },
+    "events": [
+      {
+        "year": 958,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 60,
+        "label": "Born, son of Gorm the Old",
+        "labelCn": "出生，老王高姆之子",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Harald_Bluetooth",
+        "note": "Birth year uncertain, traditionally c. 958."
+      },
+      {
+        "year": 965,
+        "type": "coronation",
+        "tags": [
+          "church",
+          "religion"
+        ],
+        "weight": 82,
+        "label": "Converted the Danes to Christianity",
+        "labelCn": "使丹麦人皈依基督教",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Harald_Bluetooth"
+      },
+      {
+        "year": 970,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "king"
+        ],
+        "weight": 78,
+        "label": "Became King of Norway",
+        "labelCn": "成为挪威国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Harald_Bluetooth"
+      },
+      {
+        "year": 986,
+        "type": "death",
+        "tags": [
+          "death",
+          "violent"
+        ],
+        "weight": 92,
+        "label": "Killed in a rebellion",
+        "labelCn": "在叛乱中被杀",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Harald_Bluetooth"
+      },
+      {
+        "year": 965,
+        "type": "religion",
+        "tags": [
+          "religion",
+          "uncertain"
+        ],
+        "weight": 75,
+        "label": "Raised the Jelling stones",
+        "labelCn": "立耶灵石碑",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Jelling_stones",
+        "note": "The larger rune stone proclaims his unification of Denmark and conversion of the Danes; dated c. 965."
+      }
+    ]
+  },
+  {
+    "id": "5e955633-278a-4885-9d19-41012011016c",
+    "firstName": "Svein",
+    "lastName": "",
+    "displayName": "Svein Knutsson",
+    "fullName": "Svein Knutsson",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Svein Knutsson",
+      "Sweyn Knutsson"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "斯韦恩·克努特松",
+    "fullNameCn": "斯韦恩·克努特松",
+    "birthYear": 1016,
+    "deathYear": 1035,
+    "birthPlace": "",
+    "deathPlace": "Denmark",
+    "deathPlaceCn": "丹麦",
+    "gender": "male",
+    "dynasty": "Knýtlinga dynasty",
+    "house": "House of Knýtlinga",
+    "culture": "Danish",
+    "faith": "Catholic",
+    "primaryTitle": "King of Norway",
+    "primaryTitleCn": "挪威国王",
+    "titles": [
+      {
+        "title": "King of Norway",
+        "startYear": 1030,
+        "endYear": 1035,
+        "titleCn": "挪威国王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 48,
+    "relationships": {
+      "fatherId": "0fb64530-ea06-47ec-9570-6166155b53ba",
+      "motherId": "282ca949-3e4e-460c-b438-2c40887812e4",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Sweyn_Knutsson",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Sweyn_Knutsson",
+    "sourceNote": "Son of Cnut the Great and Ælfgifu of Northampton, half-brother of Harold Harefoot and Harthacnut.",
+    "notes": "Son of Cnut by Ælfgifu of Northampton; king of Norway under his father's overlordship. Died young.",
+    "historicalRating": 5,
+    "createdDate": "20260818",
+    "createdOrder": 39,
+    "events": [
+      {
+        "year": 1016,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 60,
+        "label": "Born, son of Cnut and Ælfgifu",
+        "labelCn": "出生，克努特与埃尔夫吉芙之子",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Sweyn_Knutsson"
+      },
+      {
+        "year": 1030,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "king"
+        ],
+        "weight": 74,
+        "label": "Made King of Norway",
+        "labelCn": "受封挪威国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Sweyn_Knutsson"
+      },
+      {
+        "year": 1035,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 88,
+        "label": "Died young",
+        "labelCn": "早逝",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Sweyn_Knutsson"
+      }
+    ]
+  },
+  {
+    "id": "c1019000-0000-4000-8000-000000000000",
+    "firstName": "Gorm",
+    "lastName": "the Old",
+    "displayName": "Gorm the Old",
+    "fullName": "Gorm the Old, King of Denmark",
+    "displayNameCn": "老戈姆",
+    "fullNameCn": "丹麦国王老戈姆",
+    "nickname": "the Old",
+    "nicknameCn": "老",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 908,
+    "deathYear": 958,
+    "birthPlace": "Denmark",
+    "birthPlaceCn": "丹麦",
+    "deathPlace": "Jelling, Denmark",
+    "deathPlaceCn": "丹麦耶灵",
+    "gender": "male",
+    "dynasty": "Knýtlinga dynasty",
+    "house": "House of Knýtlinga",
+    "culture": "Danish",
+    "faith": "Norse paganism",
+    "primaryTitle": "King of Denmark",
+    "primaryTitleCn": "丹麦国王",
+    "titles": [
+      {
+        "title": "King of Denmark",
+        "titleCn": "丹麦国王",
+        "startYear": 936,
+        "endYear": 958
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 60,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "ca7b3d35-0d29-4a9b-bf79-7d87046adaee"
+      ]
+    },
+    "events": [
+      {
+        "year": 936,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "king",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Became King of Denmark",
+        "labelCn": "成为丹麦国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Gorm_the_Old",
+        "note": "Traditionally held to be the first historically recognized king of Denmark, reigning from c. 936 and ruling from Jelling."
+      },
+      {
+        "year": 950,
+        "type": "dynasty",
+        "tags": [
+          "dynasty",
+          "religion",
+          "uncertain"
+        ],
+        "weight": 65,
+        "label": "Raised the Jelling runestone for Queen Thyra",
+        "labelCn": "为妻子蒂拉竖立耶灵石刻",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Gorm_the_Old",
+        "note": "Raised the older of the Jelling Stones in memory of his wife Thyra, described on it as 'Denmark's adornment'; the exact year is unknown."
+      },
+      {
+        "year": 958,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 85,
+        "label": "Death at Jelling",
+        "labelCn": "在耶灵去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Gorm_the_Old",
+        "note": "Died in the winter of 958/959 and was buried in the north mound at Jelling; his son Harald Bluetooth succeeded him."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Gorm_the_Old",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Gorm_the_Old",
+    "sourceNote": "Wikipedia 'Gorm the Old'; Encyclopædia Britannica (cross-checked).",
+    "notes": "First historically recognized king of Denmark and founder of the House of Gorm (Knýtlinga), ruling from Jelling in Jutland. His son Harald Bluetooth, who raised the larger Jelling Stone in his parents' memory, brought about Denmark's conversion to Christianity.",
+    "createdDate": "20260823",
+    "createdOrder": 50
+  },
+  {
+    "id": "c1020000-0000-4000-8000-000000000000",
+    "firstName": "Harald",
+    "lastName": "of Denmark",
+    "displayName": "Harald II of Denmark",
+    "fullName": "Harald II of Denmark",
+    "displayNameCn": "丹麦的哈拉尔二世",
+    "fullNameCn": "丹麦国王哈拉尔二世",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 994,
+    "deathYear": 1018,
+    "birthPlace": "Denmark",
+    "birthPlaceCn": "丹麦",
+    "deathPlace": "Denmark",
+    "deathPlaceCn": "丹麦",
+    "gender": "male",
+    "dynasty": "Knýtlinga dynasty",
+    "house": "House of Knýtlinga",
+    "culture": "Danish",
+    "faith": "Catholic",
+    "primaryTitle": "King of Denmark",
+    "primaryTitleCn": "丹麦国王",
+    "titles": [
+      {
+        "title": "King of Denmark",
+        "titleCn": "丹麦国王",
+        "startYear": 1014,
+        "endYear": 1018
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 45,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "01da1402-5d85-4186-859a-34f8cb06182d",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1014,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "king",
+          "monarch"
+        ],
+        "weight": 78,
+        "label": "Became King of Denmark",
+        "labelCn": "成为丹麦国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Harald_II_of_Denmark",
+        "note": "Succeeded his father Sweyn Forkbeard in 1014; he ruled Denmark while his brother Cnut pressed the conquest of England."
+      },
+      {
+        "year": 1018,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 74,
+        "label": "Died, and Cnut succeeded",
+        "labelCn": "去世，克努特继位",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Harald_II_of_Denmark",
+        "note": "Died in 1018, whereupon Cnut the Great became sole king of Denmark."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Harald_II_of_Denmark",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Harald_II_of_Denmark",
+    "sourceNote": "Basic card for the early Danish royal line.",
+    "notes": "Succeeded Sweyn Forkbeard in Denmark before Cnut's accession.",
+    "createdDate": "20260823",
+    "createdOrder": 51
+  },
+  {
+    "id": "c1022000-0000-4000-8000-000000000000",
+    "firstName": "Estrid",
+    "lastName": "Svendsdatter",
+    "displayName": "Estrid Svendsdatter",
+    "fullName": "Estrid Svendsdatter",
+    "displayNameCn": "埃斯特丽德·斯文斯多蒂尔",
+    "fullNameCn": "埃斯特丽德·斯文斯多蒂尔",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 990,
+    "deathYear": 1057,
+    "birthPlace": "Denmark",
+    "birthPlaceCn": "丹麦",
+    "deathPlace": "Denmark",
+    "deathPlaceCn": "丹麦",
+    "gender": "female",
+    "dynasty": "Knýtlinga dynasty",
+    "house": "House of Knýtlinga",
+    "culture": "Danish",
+    "faith": "Catholic",
+    "primaryTitle": "Danish princess",
+    "primaryTitleCn": "丹麦公主",
+    "titles": [],
+    "tags": [
+      "noble"
+    ],
+    "rank": "noble",
+    "importanceScore": 55,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "01da1402-5d85-4186-859a-34f8cb06182d",
+      "motherId": "",
+      "spouseIds": [
+        "c1023000-0000-4000-8000-000000000000"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "c1024000-0000-4000-8000-000000000000"
+      ]
+    },
+    "events": [
+      {
+        "year": 1015,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance",
+          "uncertain"
+        ],
+        "weight": 72,
+        "label": "Marriage to Ulf Thorgilsson",
+        "labelCn": "与乌尔夫·索吉尔松结婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Estrid_Svendsdatter",
+        "note": "Married the Danish jarl Ulf Thorgilsson; the date is uncertain, and their son Sweyn II was born about 1019."
+      },
+      {
+        "year": 1047,
+        "type": "dynasty",
+        "tags": [
+          "dynasty",
+          "succession"
+        ],
+        "weight": 72,
+        "label": "Her son Sweyn II took the Danish throne",
+        "labelCn": "其子斯温二世登上丹麦王位",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Estrid_Svendsdatter",
+        "note": "With Sweyn II's accession the Danish royal line descended from her, giving the Estridsen dynasty its name."
+      },
+      {
+        "year": 1057,
+        "type": "death",
+        "tags": [
+          "death",
+          "uncertain"
+        ],
+        "weight": 80,
+        "label": "Death",
+        "labelCn": "去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Estrid_Svendsdatter",
+        "note": "The traditional date of her death is 1057, though some scholars place it as late as 1073."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Estrid_Svendsdatter",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Estrid_Svendsdatter",
+    "sourceNote": "Wikipedia 'Estrid Svendsdatter' (cross-checked).",
+    "notes": "Daughter of Sweyn Forkbeard and sister of Cnut the Great, she married the jarl Ulf Thorgilsson and was the mother of Sweyn II Estridsen, through whom the later Danish kings traced their Knýtlinga descent. Her death date is disputed, placed between 1057 and 1073.",
+    "createdDate": "20260823",
+    "createdOrder": 53
+  }
+]

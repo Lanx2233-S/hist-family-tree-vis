@@ -1,0 +1,638 @@
+[
+  {
+    "id": "ddb68158-583c-4e4d-84ca-5b04befd2261",
+    "firstName": "Robert",
+    "lastName": "Stewart",
+    "displayName": "Robert II",
+    "fullName": "Robert II of Scotland",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Robert II of Scotland",
+      "Robert Stewart"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "罗贝尔二世",
+    "fullNameCn": "罗贝尔二世",
+    "birthYear": 1316,
+    "deathYear": 1390,
+    "birthPlace": "Paisley, Scotland",
+    "birthPlaceCn": "苏格兰佩斯利",
+    "deathPlace": "Dundonald, Scotland",
+    "deathPlaceCn": "苏格兰邓唐纳德",
+    "gender": "male",
+    "dynasty": "House of Stewart",
+    "house": "House of Stewart",
+    "culture": "Scottish",
+    "faith": "Catholic",
+    "primaryTitle": "King of Scots",
+    "primaryTitleCn": "苏格兰人之王",
+    "titles": [
+      {
+        "title": "King of Scots",
+        "startYear": 1371,
+        "endYear": 1390,
+        "titleCn": "苏格兰人之王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 60,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "cdae6d46-09e0-416c-bfed-e2bdc534c316"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "84eb5f03-22b3-4efe-a5ab-566148c2b283"
+      ]
+    },
+    "events": [
+      {
+        "year": 1316,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 60,
+        "label": "Born, grandson of Robert the Bruce",
+        "labelCn": "出生，罗伯特·布鲁斯的外孙",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Robert_II_of_Scotland"
+      },
+      {
+        "year": 1371,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "monarch"
+        ],
+        "weight": 84,
+        "label": "First Stewart king",
+        "labelCn": "首任斯图亚特国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Robert_II_of_Scotland"
+      },
+      {
+        "year": 1390,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 90,
+        "label": "Died at Dundonald",
+        "labelCn": "在邓唐纳德去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Robert_II_of_Scotland"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Robert_II_of_Scotland",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Robert_II_of_Scotland",
+    "sourceNote": "Grandson of Robert the Bruce through his mother Marjorie; father Walter Stewart is not yet in the roster.",
+    "notes": "First Stewart king, succeeding his maternal uncle David II and founding the Stewart dynasty.",
+    "createdDate": "20260819",
+    "createdOrder": 34
+  },
+  {
+    "id": "84eb5f03-22b3-4efe-a5ab-566148c2b283",
+    "firstName": "Robert",
+    "lastName": "Stewart",
+    "displayName": "Robert III",
+    "fullName": "Robert III of Scotland",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Robert III of Scotland",
+      "John Stewart"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "罗贝尔三世",
+    "fullNameCn": "罗贝尔三世",
+    "birthYear": 1337,
+    "deathYear": 1406,
+    "birthPlace": "",
+    "deathPlace": "Rothesay, Scotland",
+    "deathPlaceCn": "苏格兰罗思塞",
+    "gender": "male",
+    "dynasty": "House of Stewart",
+    "house": "House of Stewart",
+    "culture": "Scottish",
+    "faith": "Catholic",
+    "primaryTitle": "King of Scots",
+    "primaryTitleCn": "苏格兰人之王",
+    "titles": [
+      {
+        "title": "King of Scots",
+        "startYear": 1390,
+        "endYear": 1406,
+        "titleCn": "苏格兰人之王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "ddb68158-583c-4e4d-84ca-5b04befd2261",
+      "motherId": "cdae6d46-09e0-416c-bfed-e2bdc534c316",
+      "spouseIds": [
+        "02ff9afd-875a-42ad-868f-d3ac32fb8741"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "c6a85386-8891-481a-b7ca-63696a75c4b9"
+      ]
+    },
+    "events": [
+      {
+        "year": 1337,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 60,
+        "label": "Born, son of Robert II",
+        "labelCn": "出生，罗贝尔二世之子",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Robert_III_of_Scotland",
+        "note": "Birth year uncertain, traditionally c. 1337."
+      },
+      {
+        "year": 1390,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Succeeded his father Robert II",
+        "labelCn": "继承其父罗贝尔二世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Robert_III_of_Scotland"
+      },
+      {
+        "year": 1406,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 90,
+        "label": "Died at Rothesay",
+        "labelCn": "在罗思塞去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Robert_III_of_Scotland"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Robert_III_of_Scotland",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Robert_III_of_Scotland",
+    "sourceNote": "Born John Stewart, took the name Robert on succession; power largely held by his brother Albany.",
+    "notes": "King of Scots during a period of weak royal authority; power was exercised by his brother the Duke of Albany.",
+    "createdDate": "20260819",
+    "createdOrder": 35
+  },
+  {
+    "id": "c6a85386-8891-481a-b7ca-63696a75c4b9",
+    "firstName": "James",
+    "lastName": "Stewart",
+    "displayName": "James I",
+    "fullName": "James I of Scotland",
+    "nickname": "",
+    "alsoKnownAs": [
+      "James I of Scotland"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "詹姆斯一世",
+    "fullNameCn": "詹姆斯一世",
+    "birthYear": 1394,
+    "deathYear": 1437,
+    "birthPlace": "Dunfermline, Scotland",
+    "birthPlaceCn": "苏格兰邓弗姆林",
+    "deathPlace": "Perth, Scotland",
+    "deathPlaceCn": "苏格兰珀斯",
+    "gender": "male",
+    "dynasty": "House of Stewart",
+    "house": "House of Stewart",
+    "culture": "Scottish",
+    "faith": "Catholic",
+    "primaryTitle": "King of Scots",
+    "primaryTitleCn": "苏格兰人之王",
+    "titles": [
+      {
+        "title": "King of Scots",
+        "startYear": 1406,
+        "endYear": 1437,
+        "titleCn": "苏格兰人之王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 70,
+    "historicalRating": 7,
+    "relationships": {
+      "fatherId": "84eb5f03-22b3-4efe-a5ab-566148c2b283",
+      "motherId": "02ff9afd-875a-42ad-868f-d3ac32fb8741",
+      "spouseIds": [
+        "e8cb8c18-f166-498e-b567-e111c0cb8970"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "307b6e6f-00f4-4a74-ba48-6868626c8f0f"
+      ]
+    },
+    "events": [
+      {
+        "year": 1394,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 60,
+        "label": "Born, son of Robert III",
+        "labelCn": "出生，罗贝尔三世之子",
+        "wikiUrl": "https://en.wikipedia.org/wiki/James_I_of_Scotland"
+      },
+      {
+        "year": 1406,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "imprisonment"
+        ],
+        "weight": 82,
+        "label": "Became king, captured by the English",
+        "labelCn": "继位后被英格兰人俘获",
+        "wikiUrl": "https://en.wikipedia.org/wiki/James_I_of_Scotland"
+      },
+      {
+        "year": 1424,
+        "type": "government",
+        "tags": [
+          "government",
+          "law"
+        ],
+        "weight": 84,
+        "label": "Returned from captivity and reasserted royal authority",
+        "labelCn": "自囚禁归来并重振王权",
+        "wikiUrl": "https://en.wikipedia.org/wiki/James_I_of_Scotland"
+      },
+      {
+        "year": 1437,
+        "type": "death",
+        "tags": [
+          "death",
+          "violent"
+        ],
+        "weight": 92,
+        "label": "Murdered at Perth",
+        "labelCn": "在珀斯被谋杀",
+        "wikiUrl": "https://en.wikipedia.org/wiki/James_I_of_Scotland"
+      },
+      {
+        "year": 1424,
+        "month": 2,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 76,
+        "label": "Marriage to Joan Beaufort",
+        "labelCn": "与琼·博福特成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/James_I_of_Scotland",
+        "note": "Married Joan Beaufort in February 1424, shortly before his ransom and return to Scotland; she was the mother of his children."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/James_I_of_Scotland",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/James_I_of_Scotland",
+    "sourceNote": "Held captive in England 1406–1424; author of The Kingis Quair.",
+    "notes": "Strong king held captive in England for eighteen years before his ransom; later murdered by conspirators.",
+    "createdDate": "20260819",
+    "createdOrder": 36
+  },
+  {
+    "id": "307b6e6f-00f4-4a74-ba48-6868626c8f0f",
+    "firstName": "James",
+    "lastName": "Stewart",
+    "displayName": "James II",
+    "fullName": "James II of Scotland",
+    "nickname": "",
+    "alsoKnownAs": [
+      "James II of Scotland"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "詹姆斯二世",
+    "fullNameCn": "詹姆斯二世",
+    "birthYear": 1430,
+    "deathYear": 1460,
+    "birthPlace": "Holyrood, Scotland",
+    "birthPlaceCn": "苏格兰霍利鲁德",
+    "deathPlace": "Roxburgh, Scotland",
+    "deathPlaceCn": "苏格兰罗克斯堡",
+    "gender": "male",
+    "dynasty": "House of Stewart",
+    "house": "House of Stewart",
+    "culture": "Scottish",
+    "faith": "Catholic",
+    "primaryTitle": "King of Scots",
+    "primaryTitleCn": "苏格兰人之王",
+    "titles": [
+      {
+        "title": "King of Scots",
+        "startYear": 1437,
+        "endYear": 1460,
+        "titleCn": "苏格兰人之王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 60,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "c6a85386-8891-481a-b7ca-63696a75c4b9",
+      "motherId": "e8cb8c18-f166-498e-b567-e111c0cb8970",
+      "spouseIds": [
+        "619c6c80-d85a-47e6-a1f3-cd3dd4769a51"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "896125f6-36ae-4969-a767-7f9e4863373b"
+      ]
+    },
+    "events": [
+      {
+        "year": 1430,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 60,
+        "label": "Born, son of James I",
+        "labelCn": "出生，詹姆斯一世之子",
+        "wikiUrl": "https://en.wikipedia.org/wiki/James_II_of_Scotland"
+      },
+      {
+        "year": 1437,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Became king as a child",
+        "labelCn": "幼年继位",
+        "wikiUrl": "https://en.wikipedia.org/wiki/James_II_of_Scotland"
+      },
+      {
+        "year": 1460,
+        "type": "death",
+        "tags": [
+          "death",
+          "violent"
+        ],
+        "weight": 92,
+        "label": "Killed by an exploding cannon at Roxburgh",
+        "labelCn": "在罗克斯堡被炸膛的火炮炸死",
+        "wikiUrl": "https://en.wikipedia.org/wiki/James_II_of_Scotland"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/James_II_of_Scotland",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/James_II_of_Scotland",
+    "sourceNote": "Killed at the siege of Roxburgh when a cannon burst.",
+    "notes": "King of Scots who curbed the Black Douglases and died at the siege of Roxburgh.",
+    "createdDate": "20260819",
+    "createdOrder": 37
+  },
+  {
+    "id": "896125f6-36ae-4969-a767-7f9e4863373b",
+    "firstName": "James",
+    "lastName": "Stewart",
+    "displayName": "James III",
+    "fullName": "James III of Scotland",
+    "nickname": "",
+    "alsoKnownAs": [
+      "James III of Scotland"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "詹姆斯三世",
+    "fullNameCn": "詹姆斯三世",
+    "birthYear": 1451,
+    "deathYear": 1488,
+    "birthPlace": "Stirling, Scotland",
+    "birthPlaceCn": "苏格兰斯特灵",
+    "deathPlace": "Sauchieburn, Scotland",
+    "deathPlaceCn": "苏格兰索奇伯恩",
+    "gender": "male",
+    "dynasty": "House of Stewart",
+    "house": "House of Stewart",
+    "culture": "Scottish",
+    "faith": "Catholic",
+    "primaryTitle": "King of Scots",
+    "primaryTitleCn": "苏格兰人之王",
+    "titles": [
+      {
+        "title": "King of Scots",
+        "startYear": 1460,
+        "endYear": 1488,
+        "titleCn": "苏格兰人之王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "307b6e6f-00f4-4a74-ba48-6868626c8f0f",
+      "motherId": "619c6c80-d85a-47e6-a1f3-cd3dd4769a51",
+      "spouseIds": [
+        "31b9d25c-7816-49a5-a0d2-41dd07ba5b47"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "0f7eebb4-756f-4120-a042-47ca23805d8e"
+      ]
+    },
+    "events": [
+      {
+        "year": 1451,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 60,
+        "label": "Born, son of James II",
+        "labelCn": "出生，詹姆斯二世之子",
+        "wikiUrl": "https://en.wikipedia.org/wiki/James_III_of_Scotland",
+        "note": "Birth year uncertain, traditionally 1451."
+      },
+      {
+        "year": 1460,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Became king as a child",
+        "labelCn": "幼年继位",
+        "wikiUrl": "https://en.wikipedia.org/wiki/James_III_of_Scotland"
+      },
+      {
+        "year": 1488,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "defeat",
+          "death",
+          "violent"
+        ],
+        "weight": 92,
+        "label": "Killed at the Battle of Sauchieburn",
+        "labelCn": "索奇伯恩之战被杀",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Sauchieburn"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/James_III_of_Scotland",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/James_III_of_Scotland",
+    "sourceNote": "Killed at Sauchieburn fighting rebels led by his son, the future James IV.",
+    "notes": "Unpopular king who was killed at Sauchieburn fighting rebels backing his own son.",
+    "createdDate": "20260819",
+    "createdOrder": 38
+  },
+  {
+    "id": "0f7eebb4-756f-4120-a042-47ca23805d8e",
+    "firstName": "James",
+    "lastName": "Stewart",
+    "displayName": "James IV",
+    "fullName": "James IV of Scotland",
+    "nickname": "",
+    "alsoKnownAs": [
+      "James IV of Scotland"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "詹姆斯四世",
+    "fullNameCn": "詹姆斯四世",
+    "birthYear": 1473,
+    "deathYear": 1513,
+    "birthPlace": "Stirling, Scotland",
+    "birthPlaceCn": "苏格兰斯特灵",
+    "deathPlace": "Flodden, England",
+    "deathPlaceCn": "英格兰弗洛登",
+    "gender": "male",
+    "dynasty": "House of Stewart",
+    "house": "House of Stewart",
+    "culture": "Scottish",
+    "faith": "Catholic",
+    "primaryTitle": "King of Scots",
+    "primaryTitleCn": "苏格兰人之王",
+    "titles": [
+      {
+        "title": "King of Scots",
+        "startYear": 1488,
+        "endYear": 1513,
+        "titleCn": "苏格兰人之王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 70,
+    "historicalRating": 7,
+    "relationships": {
+      "fatherId": "896125f6-36ae-4969-a767-7f9e4863373b",
+      "motherId": "31b9d25c-7816-49a5-a0d2-41dd07ba5b47",
+      "spouseIds": [
+        "d68e6d12-f78b-45c9-ab9d-27faba1b1e11"
+      ],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1473,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 60,
+        "label": "Born, son of James III",
+        "labelCn": "出生，詹姆斯三世之子",
+        "wikiUrl": "https://en.wikipedia.org/wiki/James_IV_of_Scotland"
+      },
+      {
+        "year": 1488,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "monarch"
+        ],
+        "weight": 82,
+        "label": "Became king after Sauchieburn",
+        "labelCn": "索奇伯恩之战后继位",
+        "wikiUrl": "https://en.wikipedia.org/wiki/James_IV_of_Scotland"
+      },
+      {
+        "year": 1493,
+        "type": "government",
+        "tags": [
+          "government",
+          "conquest"
+        ],
+        "weight": 80,
+        "label": "Brought the Lords of the Isles under royal control",
+        "labelCn": "将群岛领主纳入王权",
+        "wikiUrl": "https://en.wikipedia.org/wiki/James_IV_of_Scotland"
+      },
+      {
+        "year": 1503,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 78,
+        "label": "Married Margaret Tudor",
+        "labelCn": "迎娶玛格丽特·都铎",
+        "wikiUrl": "https://en.wikipedia.org/wiki/James_IV_of_Scotland",
+        "note": "The dynastic union that later led to the Union of the Crowns."
+      },
+      {
+        "year": 1513,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "defeat",
+          "death",
+          "violent"
+        ],
+        "weight": 94,
+        "label": "Killed at the Battle of Flodden",
+        "labelCn": "弗洛登之战阵亡",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Flodden"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/James_IV_of_Scotland",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/James_IV_of_Scotland",
+    "sourceNote": "Killed at Flodden, the last British monarch to die in battle; his marriage to Margaret Tudor later united the crowns.",
+    "notes": "Renaissance king killed at Flodden; his marriage to Margaret Tudor laid the ground for the Union of the Crowns.",
+    "createdDate": "20260819",
+    "createdOrder": 39
+  }
+]

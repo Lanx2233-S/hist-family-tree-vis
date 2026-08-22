@@ -1,0 +1,1904 @@
+[
+  {
+    "id": "c9040000-0000-4000-8000-000000000004",
+    "firstName": "Raymond",
+    "lastName": "de Toulouse",
+    "displayName": "Raymond V de Toulouse",
+    "fullName": "Raymond V, Count of Toulouse",
+    "displayNameCn": "图卢兹的雷蒙五世",
+    "fullNameCn": "图卢兹伯爵雷蒙五世",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [
+      "Raymond V of Toulouse"
+    ],
+    "nicknameTags": [],
+    "birthYear": 1134,
+    "deathYear": 1194,
+    "birthPlace": "Toulouse, County of Toulouse",
+    "birthPlaceCn": "图卢兹伯国图卢兹",
+    "deathPlace": "Nîmes, County of Toulouse",
+    "deathPlaceCn": "图卢兹伯国尼姆",
+    "gender": "male",
+    "dynasty": "House of Toulouse",
+    "house": "House of Toulouse",
+    "culture": "Occitan",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Toulouse",
+    "primaryTitleCn": "图卢兹伯爵",
+    "titles": [
+      {
+        "title": "Count of Toulouse",
+        "titleCn": "图卢兹伯爵",
+        "startYear": 1148,
+        "endYear": 1194
+      }
+    ],
+    "tags": [
+      "count",
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 72,
+    "historicalRating": 7,
+    "relationships": {
+      "fatherId": "c9170000-0000-4000-8000-000000000013",
+      "motherId": "",
+      "spouseIds": [
+        "c8060000-0000-4000-8000-000000000006"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "c9180000-0000-4000-8000-000000000014"
+      ]
+    },
+    "events": [
+      {
+        "year": 1148,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 78,
+        "label": "Succeeded as Count of Toulouse",
+        "labelCn": "继承图卢兹伯爵之位",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Raymond_V,_Count_of_Toulouse"
+      },
+      {
+        "year": 1154,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 82,
+        "label": "Married Constance of France",
+        "labelCn": "与法兰西的康斯坦丝成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Constance_of_France,_Countess_of_Toulouse"
+      },
+      {
+        "year": 1194,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 66,
+        "label": "Died",
+        "labelCn": "去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Raymond_V,_Count_of_Toulouse"
+      },
+      {
+        "year": 1159,
+        "type": "war",
+        "tags": [
+          "war",
+          "territory"
+        ],
+        "weight": 88,
+        "label": "Defended Toulouse against Henry II of England's siege",
+        "labelCn": "抵御英格兰国王亨利二世对图卢兹的围攻",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Raymond_V,_Count_of_Toulouse",
+        "note": "Henry II claimed Toulouse through Eleanor of Aquitaine but withdrew after Louis VII entered the city."
+      },
+      {
+        "year": 1178,
+        "type": "religion",
+        "tags": [
+          "religion",
+          "political_crisis",
+          "faith"
+        ],
+        "weight": 78,
+        "label": "Sought Cistercian help against the Cathar heresy",
+        "labelCn": "请求西多会协助镇压清洁派异端",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Raymond_V,_Count_of_Toulouse"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Raymond_V,_Count_of_Toulouse",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Raymond_V,_Count_of_Toulouse",
+    "sourceNote": "Count of Toulouse from 1148 to 1194; husband of Constance of France.",
+    "notes": "Married Constance of France in 1154; the marriage was later annulled for consanguinity.",
+    "createdDate": "20260822",
+    "createdOrder": 12
+  },
+  {
+    "id": "c9050000-0000-4000-8000-000000000001",
+    "firstName": "Frédelon",
+    "lastName": "de Toulouse",
+    "displayName": "Frédelon de Toulouse",
+    "fullName": "Frédelon, Count of Toulouse",
+    "displayNameCn": "图卢兹的弗里德隆",
+    "fullNameCn": "图卢兹伯爵弗里德隆",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 810,
+    "deathYear": 852,
+    "birthPlace": "County of Toulouse",
+    "birthPlaceCn": "图卢兹伯国",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "House of Toulouse",
+    "house": "House of Toulouse",
+    "culture": "Occitan",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Toulouse",
+    "primaryTitleCn": "图卢兹伯爵",
+    "titles": [
+      {
+        "title": "Count of Toulouse",
+        "titleCn": "图卢兹伯爵",
+        "startYear": 849,
+        "endYear": 852
+      }
+    ],
+    "tags": [
+      "count",
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 849,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "territory",
+          "noble"
+        ],
+        "weight": 76,
+        "label": "Became Count of Toulouse",
+        "labelCn": "成为图卢兹伯爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Toulouse",
+        "note": "Received Toulouse from Charles the Bald after the fall of William of Septimania; the exact date (c. 849-850) is uncertain."
+      },
+      {
+        "year": 852,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 66,
+        "label": "Died",
+        "labelCn": "去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Toulouse",
+        "note": "Died in 852; his brother Raymond I succeeded him in Toulouse."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Toulouse",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Count_of_Toulouse",
+    "sourceNote": "Basic card for the County of Toulouse succession. The ninth- and tenth-century succession and numbering are partly disputed in modern scholarship.",
+    "notes": "Added for the Toulouse main succession from Frédelon to Raymond V.",
+    "createdDate": "20260822",
+    "createdOrder": 13
+  },
+  {
+    "id": "c9060000-0000-4000-8000-000000000002",
+    "firstName": "Raymond",
+    "lastName": "de Toulouse",
+    "displayName": "Raymond I de Toulouse",
+    "fullName": "Raymond I, Count of Toulouse",
+    "displayNameCn": "图卢兹的雷蒙一世",
+    "fullNameCn": "图卢兹伯爵雷蒙一世",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 815,
+    "deathYear": 865,
+    "birthPlace": "County of Toulouse",
+    "birthPlaceCn": "图卢兹伯国",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "House of Toulouse",
+    "house": "House of Toulouse",
+    "culture": "Occitan",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Toulouse",
+    "primaryTitleCn": "图卢兹伯爵",
+    "titles": [
+      {
+        "title": "Count of Toulouse",
+        "titleCn": "图卢兹伯爵",
+        "startYear": 852,
+        "endYear": 863
+      }
+    ],
+    "tags": [
+      "count",
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 60,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "c9070000-0000-4000-8000-000000000003",
+        "c9090000-0000-4000-8000-000000000005"
+      ]
+    },
+    "events": [
+      {
+        "year": 852,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title",
+          "noble"
+        ],
+        "weight": 76,
+        "label": "Succeeded as Count of Toulouse",
+        "labelCn": "继位为图卢兹伯爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Raymond_I,_Count_of_Toulouse",
+        "note": "Succeeded his brother Frédelon as count of Toulouse and Albi, adding to his holdings of Rouergue and Quercy."
+      },
+      {
+        "year": 863,
+        "type": "abdication",
+        "tags": [
+          "political_crisis",
+          "territory",
+          "noble"
+        ],
+        "weight": 70,
+        "label": "Deprived of Rouergue and Toulouse",
+        "labelCn": "被剥夺鲁埃格与图卢兹",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Raymond_I,_Count_of_Toulouse",
+        "note": "Forced to abdicate Rouergue and Toulouse by Humfrid, Count of Barcelona."
+      },
+      {
+        "year": 865,
+        "type": "death",
+        "tags": [
+          "death",
+          "war"
+        ],
+        "weight": 66,
+        "label": "Died fighting to recover his lands",
+        "labelCn": "在收复领地的战斗中去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Raymond_I,_Count_of_Toulouse",
+        "note": "Died in 865 while campaigning against the new count, Sunifred I."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Toulouse",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Count_of_Toulouse",
+    "sourceNote": "Basic card for the County of Toulouse succession. The ninth- and tenth-century succession and numbering are partly disputed in modern scholarship.",
+    "notes": "Added for the Toulouse main succession from Frédelon to Raymond V.",
+    "createdDate": "20260822",
+    "createdOrder": 14
+  },
+  {
+    "id": "c9070000-0000-4000-8000-000000000003",
+    "firstName": "Bernard",
+    "lastName": "de Toulouse",
+    "displayName": "Bernard II de Toulouse",
+    "fullName": "Bernard II, Count of Toulouse",
+    "displayNameCn": "图卢兹的贝尔纳二世",
+    "fullNameCn": "图卢兹伯爵贝尔纳二世",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 840,
+    "deathYear": 877,
+    "birthPlace": "County of Toulouse",
+    "birthPlaceCn": "图卢兹伯国",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "House of Toulouse",
+    "house": "House of Toulouse",
+    "culture": "Occitan",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Toulouse",
+    "primaryTitleCn": "图卢兹伯爵",
+    "titles": [
+      {
+        "title": "Count of Toulouse",
+        "titleCn": "图卢兹伯爵",
+        "startYear": 865,
+        "endYear": 877
+      }
+    ],
+    "tags": [
+      "count",
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "c9060000-0000-4000-8000-000000000002",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 865,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title",
+          "noble"
+        ],
+        "weight": 76,
+        "label": "Succeeded as Count of Toulouse",
+        "labelCn": "继位为图卢兹伯爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Toulouse",
+        "note": "Succeeded his father Raymond I in Toulouse and its associated counties; also known as Bernard the Calf (Bernard le Veau)."
+      },
+      {
+        "year": 877,
+        "type": "death",
+        "tags": [
+          "death",
+          "political_crisis"
+        ],
+        "weight": 80,
+        "label": "Died amid the Carolingian power struggles",
+        "labelCn": "在加洛林权力斗争中去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Toulouse",
+        "note": "Died in 877 during the factional struggles after Charles the Bald's death; Bernard Plantevelue then obtained Toulouse."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Toulouse",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Count_of_Toulouse",
+    "sourceNote": "Basic card for the County of Toulouse succession. The ninth- and tenth-century succession and numbering are partly disputed in modern scholarship.",
+    "notes": "Added for the Toulouse main succession from Frédelon to Raymond V.",
+    "createdDate": "20260822",
+    "createdOrder": 15
+  },
+  {
+    "id": "c9080000-0000-4000-8000-000000000004",
+    "firstName": "Bernard",
+    "lastName": "de Toulouse",
+    "displayName": "Bernard Plantevelue",
+    "fullName": "Bernard Plantevelue, Count of Toulouse",
+    "displayNameCn": "贝尔纳·普朗特韦吕",
+    "fullNameCn": "图卢兹伯爵贝尔纳·普朗特韦吕",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 841,
+    "deathYear": 886,
+    "birthPlace": "County of Toulouse",
+    "birthPlaceCn": "图卢兹伯国",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "House of Toulouse",
+    "house": "House of Toulouse",
+    "culture": "Occitan",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Toulouse",
+    "primaryTitleCn": "图卢兹伯爵",
+    "titles": [
+      {
+        "title": "Count of Toulouse",
+        "titleCn": "图卢兹伯爵",
+        "startYear": 877,
+        "endYear": 886
+      }
+    ],
+    "tags": [
+      "count",
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 877,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "territory",
+          "noble"
+        ],
+        "weight": 78,
+        "label": "Obtained the County of Toulouse",
+        "labelCn": "取得图卢兹伯国",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Bernard_Plantapilosa",
+        "note": "Already count of Auvergne, he obtained Toulouse after Bernard the Calf's fall; some sources date this to 872."
+      },
+      {
+        "year": 886,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 66,
+        "label": "Died",
+        "labelCn": "去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Bernard_Plantapilosa",
+        "note": "Died in 886; Eudes recovered Toulouse for Raymond I's line, while Plantevelue's son William the Pious succeeded in Auvergne."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Toulouse",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Count_of_Toulouse",
+    "sourceNote": "Basic card for the County of Toulouse succession. The ninth- and tenth-century succession and numbering are partly disputed in modern scholarship.",
+    "notes": "Added for the Toulouse main succession from Frédelon to Raymond V.",
+    "createdDate": "20260822",
+    "createdOrder": 16
+  },
+  {
+    "id": "c9090000-0000-4000-8000-000000000005",
+    "firstName": "Eudes",
+    "lastName": "de Toulouse",
+    "displayName": "Eudes de Toulouse",
+    "fullName": "Eudes, Count of Toulouse",
+    "displayNameCn": "图卢兹的厄德",
+    "fullNameCn": "图卢兹伯爵厄德",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 845,
+    "deathYear": 918,
+    "birthPlace": "County of Toulouse",
+    "birthPlaceCn": "图卢兹伯国",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "House of Toulouse",
+    "house": "House of Toulouse",
+    "culture": "Occitan",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Toulouse",
+    "primaryTitleCn": "图卢兹伯爵",
+    "titles": [
+      {
+        "title": "Count of Toulouse",
+        "titleCn": "图卢兹伯爵",
+        "startYear": 886,
+        "endYear": 918
+      }
+    ],
+    "tags": [
+      "count",
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "c9060000-0000-4000-8000-000000000002",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "c9100000-0000-4000-8000-000000000006"
+      ]
+    },
+    "events": [
+      {
+        "year": 886,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title",
+          "noble"
+        ],
+        "weight": 76,
+        "label": "Recovered Toulouse as Count",
+        "labelCn": "夺回图卢兹伯爵之位",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Toulouse",
+        "note": "Son of Raymond I, he succeeded Bernard Plantevelue in Toulouse in 886, restoring the main line."
+      },
+      {
+        "year": 918,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 66,
+        "label": "Died",
+        "labelCn": "去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Toulouse",
+        "note": "Died in 918; his son Raymond II succeeded him."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Toulouse",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Count_of_Toulouse",
+    "sourceNote": "Basic card for the County of Toulouse succession. The ninth- and tenth-century succession and numbering are partly disputed in modern scholarship.",
+    "notes": "Added for the Toulouse main succession from Frédelon to Raymond V.",
+    "createdDate": "20260822",
+    "createdOrder": 17
+  },
+  {
+    "id": "c9100000-0000-4000-8000-000000000006",
+    "firstName": "Raymond",
+    "lastName": "de Toulouse",
+    "displayName": "Raymond II de Toulouse",
+    "fullName": "Raymond II, Count of Toulouse",
+    "displayNameCn": "图卢兹的雷蒙二世",
+    "fullNameCn": "图卢兹伯爵雷蒙二世",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 880,
+    "deathYear": 924,
+    "birthPlace": "County of Toulouse",
+    "birthPlaceCn": "图卢兹伯国",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "House of Toulouse",
+    "house": "House of Toulouse",
+    "culture": "Occitan",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Toulouse",
+    "primaryTitleCn": "图卢兹伯爵",
+    "titles": [
+      {
+        "title": "Count of Toulouse",
+        "titleCn": "图卢兹伯爵",
+        "startYear": 918,
+        "endYear": 924
+      }
+    ],
+    "tags": [
+      "count",
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "c9090000-0000-4000-8000-000000000005",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "c9110000-0000-4000-8000-000000000007"
+      ]
+    },
+    "events": [
+      {
+        "year": 918,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title",
+          "noble"
+        ],
+        "weight": 76,
+        "label": "Succeeded as Count of Toulouse",
+        "labelCn": "继位为图卢兹伯爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Toulouse",
+        "note": "Succeeded his father Eudes; the early tenth-century succession is partly obscure."
+      },
+      {
+        "year": 924,
+        "type": "death",
+        "tags": [
+          "death",
+          "uncertain"
+        ],
+        "weight": 64,
+        "label": "Death",
+        "labelCn": "去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Toulouse",
+        "note": "Died in 924; his son Raymond Pons succeeded, though the numbering of this period is disputed."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Toulouse",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Count_of_Toulouse",
+    "sourceNote": "Basic card for the County of Toulouse succession. The ninth- and tenth-century succession and numbering are partly disputed in modern scholarship.",
+    "notes": "Added for the Toulouse main succession from Frédelon to Raymond V.",
+    "createdDate": "20260822",
+    "createdOrder": 18
+  },
+  {
+    "id": "c9110000-0000-4000-8000-000000000007",
+    "firstName": "Raymond",
+    "lastName": "de Toulouse",
+    "displayName": "Raymond Pons de Toulouse",
+    "fullName": "Raymond Pons, Count of Toulouse",
+    "displayNameCn": "图卢兹的雷蒙·蓬斯",
+    "fullNameCn": "图卢兹伯爵雷蒙·蓬斯",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 900,
+    "deathYear": 950,
+    "birthPlace": "County of Toulouse",
+    "birthPlaceCn": "图卢兹伯国",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "House of Toulouse",
+    "house": "House of Toulouse",
+    "culture": "Occitan",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Toulouse",
+    "primaryTitleCn": "图卢兹伯爵",
+    "titles": [
+      {
+        "title": "Count of Toulouse",
+        "titleCn": "图卢兹伯爵",
+        "startYear": 924,
+        "endYear": 950
+      }
+    ],
+    "tags": [
+      "count",
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 60,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "c9100000-0000-4000-8000-000000000006",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "c9120000-0000-4000-8000-000000000008"
+      ]
+    },
+    "events": [
+      {
+        "year": 924,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title",
+          "noble"
+        ],
+        "weight": 76,
+        "label": "Succeeded as Count of Toulouse",
+        "labelCn": "继位为图卢兹伯爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Raymond_Pons,_Count_of_Toulouse",
+        "note": "Also numbered Raymond III or Pons I; his reign is partly obscured by disputed early succession."
+      },
+      {
+        "year": 932,
+        "type": "diplomacy",
+        "tags": [
+          "diplomacy",
+          "politics",
+          "noble"
+        ],
+        "weight": 60,
+        "label": "Did homage to King Rudolph",
+        "labelCn": "向国王鲁道夫效忠",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Raymond_Pons,_Count_of_Toulouse",
+        "note": "Travelled north with his uncle Ermengol of Rouergue and Duke Sancho IV of Gascony to do homage to the West Frankish king."
+      },
+      {
+        "year": 950,
+        "type": "death",
+        "tags": [
+          "death",
+          "uncertain"
+        ],
+        "weight": 60,
+        "label": "Death",
+        "labelCn": "去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Raymond_Pons,_Count_of_Toulouse",
+        "note": "Last attested in 944; his death is conventionally placed c.950."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Toulouse",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Count_of_Toulouse",
+    "sourceNote": "Basic card for the County of Toulouse succession. The ninth- and tenth-century succession and numbering are partly disputed in modern scholarship.",
+    "notes": "Added for the Toulouse main succession from Frédelon to Raymond V.",
+    "createdDate": "20260822",
+    "createdOrder": 19
+  },
+  {
+    "id": "c9120000-0000-4000-8000-000000000008",
+    "firstName": "Guillaume",
+    "lastName": "de Toulouse",
+    "displayName": "Guillaume III Taillefer",
+    "fullName": "Guillaume III Taillefer, Count of Toulouse",
+    "displayNameCn": "图卢兹的吉耶姆三世·塔耶费尔",
+    "fullNameCn": "图卢兹伯爵吉耶姆三世·塔耶费尔",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 930,
+    "deathYear": 1037,
+    "birthPlace": "County of Toulouse",
+    "birthPlaceCn": "图卢兹伯国",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "House of Toulouse",
+    "house": "House of Toulouse",
+    "culture": "Occitan",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Toulouse",
+    "primaryTitleCn": "图卢兹伯爵",
+    "titles": [
+      {
+        "title": "Count of Toulouse",
+        "titleCn": "图卢兹伯爵",
+        "startYear": 950,
+        "endYear": 1037
+      }
+    ],
+    "tags": [
+      "count",
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 60,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "c9110000-0000-4000-8000-000000000007",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "c9130000-0000-4000-8000-000000000009"
+      ]
+    },
+    "events": [
+      {
+        "year": 950,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title",
+          "uncertain"
+        ],
+        "weight": 74,
+        "label": "Succeeded as Count of Toulouse",
+        "labelCn": "继位为图卢兹伯爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/William_III,_Count_of_Toulouse",
+        "note": "The project lineage dates his accession c.950; some scholarship places it c.972-978 because of disputed intermediate counts."
+      },
+      {
+        "year": "",
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance",
+          "uncertain"
+        ],
+        "weight": 70,
+        "label": "Marriage to Emma of Provence",
+        "labelCn": "与普罗旺斯的埃玛成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/William_III,_Count_of_Toulouse",
+        "note": "Daughter of Rotbold III of Provence; through her the counts of Toulouse acquired the margraviate of Provence. Date unknown."
+      },
+      {
+        "year": 1037,
+        "month": 9,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 64,
+        "label": "Death",
+        "labelCn": "去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/William_III,_Count_of_Toulouse",
+        "note": "Died September 1037; his nickname Taillefer means 'cut iron'."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Toulouse",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Count_of_Toulouse",
+    "sourceNote": "Basic card for the County of Toulouse succession. The ninth- and tenth-century succession and numbering are partly disputed in modern scholarship.",
+    "notes": "Added for the Toulouse main succession from Frédelon to Raymond V.",
+    "createdDate": "20260822",
+    "createdOrder": 20
+  },
+  {
+    "id": "c9130000-0000-4000-8000-000000000009",
+    "firstName": "Pons",
+    "lastName": "de Toulouse",
+    "displayName": "Pons de Toulouse",
+    "fullName": "Pons, Count of Toulouse",
+    "displayNameCn": "图卢兹的蓬斯",
+    "fullNameCn": "图卢兹伯爵蓬斯",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 990,
+    "deathYear": 1060,
+    "birthPlace": "County of Toulouse",
+    "birthPlaceCn": "图卢兹伯国",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "House of Toulouse",
+    "house": "House of Toulouse",
+    "culture": "Occitan",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Toulouse",
+    "primaryTitleCn": "图卢兹伯爵",
+    "titles": [
+      {
+        "title": "Count of Toulouse",
+        "titleCn": "图卢兹伯爵",
+        "startYear": 1037,
+        "endYear": 1060
+      }
+    ],
+    "tags": [
+      "count",
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 60,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "c9120000-0000-4000-8000-000000000008",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "c9140000-0000-4000-8000-000000000010",
+        "c9150000-0000-4000-8000-000000000011"
+      ]
+    },
+    "events": [
+      {
+        "year": 1037,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title",
+          "noble"
+        ],
+        "weight": 76,
+        "label": "Succeeded as Count of Toulouse",
+        "labelCn": "继位为图卢兹伯爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Pons,_Count_of_Toulouse",
+        "note": "Eldest son of William III Taillefer and Emma of Provence."
+      },
+      {
+        "year": 1037,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 70,
+        "label": "Marriage to Mayor of Navarre",
+        "labelCn": "与纳瓦拉的玛约尔成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Pons,_Count_of_Toulouse",
+        "note": "Daughter of Sancho III of Navarre, the dominant Christian ruler of his day."
+      },
+      {
+        "year": 1060,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 64,
+        "label": "Death",
+        "labelCn": "去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Pons,_Count_of_Toulouse",
+        "note": "Died late 1060 or early 1061; buried at Saint-Sernin, Toulouse."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Toulouse",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Count_of_Toulouse",
+    "sourceNote": "Basic card for the County of Toulouse succession. The ninth- and tenth-century succession and numbering are partly disputed in modern scholarship.",
+    "notes": "Added for the Toulouse main succession from Frédelon to Raymond V.",
+    "createdDate": "20260822",
+    "createdOrder": 21
+  },
+  {
+    "id": "c9140000-0000-4000-8000-000000000010",
+    "firstName": "Guillaume",
+    "lastName": "de Toulouse",
+    "displayName": "Guillaume IV de Toulouse",
+    "fullName": "Guillaume IV, Count of Toulouse",
+    "displayNameCn": "图卢兹的吉耶姆四世",
+    "fullNameCn": "图卢兹伯爵吉耶姆四世",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1040,
+    "deathYear": 1094,
+    "birthPlace": "County of Toulouse",
+    "birthPlaceCn": "图卢兹伯国",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "House of Toulouse",
+    "house": "House of Toulouse",
+    "culture": "Occitan",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Toulouse",
+    "primaryTitleCn": "图卢兹伯爵",
+    "titles": [
+      {
+        "title": "Count of Toulouse",
+        "titleCn": "图卢兹伯爵",
+        "startYear": 1060,
+        "endYear": 1094
+      }
+    ],
+    "tags": [
+      "count",
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 60,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "c9130000-0000-4000-8000-000000000009",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1060,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title",
+          "noble"
+        ],
+        "weight": 76,
+        "label": "Succeeded as Count of Toulouse",
+        "labelCn": "继位为图卢兹伯爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/William_IV,_Count_of_Toulouse",
+        "note": "Succeeded his father Pons in Toulouse, Albi and Quercy (some sources give 1061)."
+      },
+      {
+        "year": 1088,
+        "type": "journey",
+        "tags": [
+          "religion",
+          "faith"
+        ],
+        "weight": 68,
+        "label": "Departed on pilgrimage to the Holy Land",
+        "labelCn": "启程前往圣地朝圣",
+        "wikiUrl": "https://en.wikipedia.org/wiki/William_IV,_Count_of_Toulouse",
+        "note": "Left for the Holy Land in 1088, leaving his brother Raymond of Saint-Gilles to govern in his stead; he never returned."
+      },
+      {
+        "year": 1094,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 66,
+        "label": "Died while abroad",
+        "labelCn": "客死他乡",
+        "wikiUrl": "https://en.wikipedia.org/wiki/William_IV,_Count_of_Toulouse",
+        "note": "Died in 1094 while still away, whereupon his brother Raymond IV took power."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Toulouse",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Count_of_Toulouse",
+    "sourceNote": "Basic card for the County of Toulouse succession. The ninth- and tenth-century succession and numbering are partly disputed in modern scholarship.",
+    "notes": "Added for the Toulouse main succession from Frédelon to Raymond V.",
+    "createdDate": "20260822",
+    "createdOrder": 22
+  },
+  {
+    "id": "c9150000-0000-4000-8000-000000000011",
+    "firstName": "Raymond",
+    "lastName": "de Toulouse",
+    "displayName": "Raymond IV de Toulouse",
+    "fullName": "Raymond IV of Saint-Gilles, Count of Toulouse",
+    "displayNameCn": "图卢兹的雷蒙四世（圣吉尔）",
+    "fullNameCn": "图卢兹伯爵雷蒙四世（圣吉尔）",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1042,
+    "deathYear": 1105,
+    "birthPlace": "County of Toulouse",
+    "birthPlaceCn": "图卢兹伯国",
+    "deathPlace": "Mons Peregrinus (Mount Pilgrim), near Tripoli",
+    "deathPlaceCn": "的黎波里附近的朝圣者山",
+    "gender": "male",
+    "dynasty": "House of Toulouse",
+    "house": "House of Toulouse",
+    "culture": "Occitan",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Toulouse",
+    "primaryTitleCn": "图卢兹伯爵",
+    "titles": [
+      {
+        "title": "Count of Toulouse",
+        "titleCn": "图卢兹伯爵",
+        "startYear": 1094,
+        "endYear": 1105
+      }
+    ],
+    "tags": [
+      "count",
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 80,
+    "historicalRating": 8,
+    "relationships": {
+      "fatherId": "c9130000-0000-4000-8000-000000000009",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "c9160000-0000-4000-8000-000000000012",
+        "c9170000-0000-4000-8000-000000000013"
+      ]
+    },
+    "events": [
+      {
+        "year": 1094,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 78,
+        "label": "Succeeded as Count of Toulouse",
+        "labelCn": "继承图卢兹伯爵之位",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Raymond_IV,_Count_of_Toulouse"
+      },
+      {
+        "year": 1094,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 72,
+        "label": "Married Elvira of Castile",
+        "labelCn": "与卡斯蒂利亚的埃尔维拉成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Raymond_IV,_Count_of_Toulouse"
+      },
+      {
+        "year": 1096,
+        "type": "crusade",
+        "tags": [
+          "crusade",
+          "campaign",
+          "commander"
+        ],
+        "weight": 92,
+        "label": "Took the cross and led the Provençal contingent of the First Crusade",
+        "labelCn": "参加十字军并率领普罗旺斯军团",
+        "wikiUrl": "https://en.wikipedia.org/wiki/First_Crusade"
+      },
+      {
+        "year": 1098,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "crusade",
+          "commander"
+        ],
+        "weight": 88,
+        "label": "Fought at the siege and capture of Antioch",
+        "labelCn": "参加安条克围城并参与攻克该城",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Siege_of_Antioch"
+      },
+      {
+        "year": 1099,
+        "type": "conquest",
+        "tags": [
+          "conquest",
+          "crusade",
+          "commander"
+        ],
+        "weight": 95,
+        "label": "Captured Jerusalem in the First Crusade",
+        "labelCn": "十字军攻占耶路撒冷",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Siege_of_Jerusalem_(1099)"
+      },
+      {
+        "year": 1099,
+        "type": "religion",
+        "tags": [
+          "religion",
+          "title",
+          "uncertain"
+        ],
+        "weight": 68,
+        "label": "Refused the offered crown of Jerusalem",
+        "labelCn": "拒绝接受耶路撒冷王位",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Raymond_IV,_Count_of_Toulouse",
+        "note": "Tradition holds he declined to be crowned king of the city where Christ died."
+      },
+      {
+        "year": 1102,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "territory",
+          "conquest"
+        ],
+        "weight": 86,
+        "label": "Began the siege of Tripoli to found the County of Tripoli",
+        "labelCn": "开始围攻的黎波里以建立的黎波里伯国",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Siege_of_Tripoli"
+      },
+      {
+        "year": 1105,
+        "month": 2,
+        "day": 28,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 95,
+        "label": "Died during the siege of Tripoli",
+        "labelCn": "在围攻的黎波里期间去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Raymond_IV,_Count_of_Toulouse"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Toulouse",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Count_of_Toulouse",
+    "sourceNote": "Count of Toulouse from 1094 and leader of the First Crusade; sources: Britannica 'Raymond IV' and Wikipedia 'Raymond IV, Count of Toulouse'.",
+    "notes": "Known as Raymond of Saint-Gilles, he was the wealthiest and one of the oldest leaders of the First Crusade, marching with the largest of its contingents. After the capture of Jerusalem he reputedly refused the offered crown, and he spent his last years besieging Tripoli to found the County of Tripoli, dying before the city fell. Details of his several marriages and the Jerusalem episode are partly debated.",
+    "createdDate": "20260822",
+    "createdOrder": 23,
+    "deathCause": {
+      "kind": "violent",
+      "summary": "Died of injuries from burns during the siege of Tripoli",
+      "summaryCn": "在围攻的黎波里期间因烧伤伤重不治",
+      "detail": "In September 1104 the defenders of Tripoli set fire to his castle of Mount Pilgrim (Mons Peregrinus); Raymond escaped but was badly burned and died of his injuries on 28 February 1105, before the city fell.",
+      "detailCn": "1104年9月，的黎波里守军纵火焚烧其在朝圣者山的城堡；雷蒙虽逃出但严重烧伤，于1105年2月28日伤重去世，此时尚未攻克的黎波里。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Raymond_IV,_Count_of_Toulouse"
+    }
+  },
+  {
+    "id": "c9160000-0000-4000-8000-000000000012",
+    "firstName": "Bertrand",
+    "lastName": "de Toulouse",
+    "displayName": "Bertrand de Toulouse",
+    "fullName": "Bertrand, Count of Toulouse",
+    "displayNameCn": "图卢兹的贝特朗",
+    "fullNameCn": "图卢兹伯爵贝特朗",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1065,
+    "deathYear": 1112,
+    "birthPlace": "County of Toulouse",
+    "birthPlaceCn": "图卢兹伯国",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "House of Toulouse",
+    "house": "House of Toulouse",
+    "culture": "Occitan",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Toulouse",
+    "primaryTitleCn": "图卢兹伯爵",
+    "titles": [
+      {
+        "title": "Count of Toulouse",
+        "titleCn": "图卢兹伯爵",
+        "startYear": 1105,
+        "endYear": 1112
+      }
+    ],
+    "tags": [
+      "count",
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "c9150000-0000-4000-8000-000000000011",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1105,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 78,
+        "label": "Succeeded as Count of Toulouse",
+        "labelCn": "继承图卢兹伯爵之位",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Bertrand,_Count_of_Toulouse",
+        "note": "Elder son of Raymond IV, he took over Toulouse after his father's death while his half-brother Alphonse Jourdain was still a child."
+      },
+      {
+        "year": 1109,
+        "type": "conquest",
+        "tags": [
+          "conquest",
+          "crusade",
+          "commander"
+        ],
+        "weight": 90,
+        "label": "Captured Tripoli and became its first count",
+        "labelCn": "攻占的黎波里并成为首位伯爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Siege_of_Tripoli",
+        "note": "Arrived in the Holy Land to claim his father's conquest; with a Genoese fleet he captured Tripoli in July 1109 and founded the County of Tripoli."
+      },
+      {
+        "year": 1112,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 80,
+        "label": "Died in the Holy Land",
+        "labelCn": "在圣地去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Bertrand,_Count_of_Toulouse",
+        "note": "Died in April 1112; Tripoli passed to his son Pons, while Toulouse went to his half-brother Alphonse Jourdain."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Toulouse",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Count_of_Toulouse",
+    "sourceNote": "Basic card for the County of Toulouse succession. The ninth- and tenth-century succession and numbering are partly disputed in modern scholarship.",
+    "notes": "Added for the Toulouse main succession from Frédelon to Raymond V.",
+    "createdDate": "20260822",
+    "createdOrder": 24
+  },
+  {
+    "id": "c9170000-0000-4000-8000-000000000013",
+    "firstName": "Alphonse",
+    "lastName": "de Toulouse",
+    "displayName": "Alphonse Jourdain",
+    "fullName": "Alphonse Jourdain, Count of Toulouse",
+    "displayNameCn": "阿方斯·茹尔丹",
+    "fullNameCn": "图卢兹伯爵阿方斯·茹尔丹",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1103,
+    "deathYear": 1148,
+    "birthPlace": "County of Toulouse",
+    "birthPlaceCn": "图卢兹伯国",
+    "deathPlace": "Caesarea, Kingdom of Jerusalem",
+    "deathPlaceCn": "耶路撒冷王国凯撒里亚",
+    "gender": "male",
+    "dynasty": "House of Toulouse",
+    "house": "House of Toulouse",
+    "culture": "Occitan",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Toulouse",
+    "primaryTitleCn": "图卢兹伯爵",
+    "titles": [
+      {
+        "title": "Count of Toulouse",
+        "titleCn": "图卢兹伯爵",
+        "startYear": 1112,
+        "endYear": 1148
+      }
+    ],
+    "tags": [
+      "count",
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 70,
+    "historicalRating": 7,
+    "relationships": {
+      "fatherId": "c9150000-0000-4000-8000-000000000011",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "c9040000-0000-4000-8000-000000000004"
+      ]
+    },
+    "events": [
+      {
+        "year": 1112,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 78,
+        "label": "Succeeded as Count of Toulouse and Marquess of Provence",
+        "labelCn": "继承图卢兹伯爵与普罗旺斯侯爵之位",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Alphonse_Jourdain"
+      },
+      {
+        "year": 1123,
+        "type": "conquest",
+        "tags": [
+          "conquest",
+          "territory",
+          "rebellion"
+        ],
+        "weight": 82,
+        "label": "Recovered Toulouse from the dukes of Aquitaine",
+        "labelCn": "从阿基坦公爵手中收复图卢兹",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Alphonse_Jourdain"
+      },
+      {
+        "year": 1125,
+        "month": 9,
+        "type": "treaty",
+        "tags": [
+          "treaty",
+          "diplomacy",
+          "territory"
+        ],
+        "weight": 70,
+        "label": "Made peace with Ramon Berenguer III, dividing Provence",
+        "labelCn": "与拉蒙·贝伦格尔三世议和，分割普罗旺斯",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Alphonse_Jourdain"
+      },
+      {
+        "year": 1147,
+        "type": "crusade",
+        "tags": [
+          "crusade",
+          "campaign"
+        ],
+        "weight": 84,
+        "label": "Joined the Second Crusade",
+        "labelCn": "参加第二次十字军东征",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Second_Crusade"
+      },
+      {
+        "year": 1148,
+        "month": 4,
+        "day": 16,
+        "type": "death",
+        "tags": [
+          "death",
+          "uncertain"
+        ],
+        "weight": 90,
+        "label": "Died at Caesarea, allegedly poisoned",
+        "labelCn": "在凯撒里亚去世，据传被毒杀",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Alphonse_Jourdain",
+        "note": "Rumours blamed Eleanor of Aquitaine or Melisende of Jerusalem; the claim is unproven."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Toulouse",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Count_of_Toulouse",
+    "sourceNote": "Basic card for the County of Toulouse succession. The ninth- and tenth-century succession and numbering are partly disputed in modern scholarship.",
+    "notes": "Added for the Toulouse main succession from Frédelon to Raymond V.",
+    "createdDate": "20260822",
+    "createdOrder": 25
+  },
+  {
+    "id": "c9180000-0000-4000-8000-000000000014",
+    "displayName": "Raymond VI de Toulouse",
+    "fullName": "Raymond VI, Count of Toulouse",
+    "displayNameCn": "图卢兹的雷蒙六世",
+    "birthYear": 1156,
+    "deathYear": 1222,
+    "startYear": 1194,
+    "endYear": 1222,
+    "historicalRating": 8,
+    "fatherId": "c9040000-0000-4000-8000-000000000004",
+    "childIds": [
+      "c9190000-0000-4000-8000-000000000015"
+    ],
+    "firstName": "Raymond",
+    "lastName": "de Toulouse",
+    "fullNameCn": "图卢兹伯爵雷蒙六世",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthPlace": "County of Toulouse",
+    "birthPlaceCn": "图卢兹伯国",
+    "deathPlace": "Toulouse, County of Toulouse",
+    "deathPlaceCn": "图卢兹伯国图卢兹",
+    "gender": "male",
+    "dynasty": "House of Toulouse",
+    "house": "House of Toulouse",
+    "culture": "Occitan",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Toulouse",
+    "primaryTitleCn": "图卢兹伯爵",
+    "titles": [
+      {
+        "title": "Count of Toulouse",
+        "titleCn": "图卢兹伯爵",
+        "startYear": 1194,
+        "endYear": 1222
+      }
+    ],
+    "tags": [
+      "count",
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 80,
+    "relationships": {
+      "fatherId": "c9040000-0000-4000-8000-000000000004",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "c9190000-0000-4000-8000-000000000015"
+      ]
+    },
+    "events": [
+      {
+        "year": 1194,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 78,
+        "label": "Succeeded as Count of Toulouse",
+        "labelCn": "继承图卢兹伯爵之位",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Raymond_VI,_Count_of_Toulouse"
+      },
+      {
+        "year": 1196,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 72,
+        "label": "Married Joan of England",
+        "labelCn": "与英格兰的琼成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Raymond_VI,_Count_of_Toulouse"
+      },
+      {
+        "year": 1208,
+        "type": "religion",
+        "tags": [
+          "religion",
+          "political_crisis",
+          "uncertain"
+        ],
+        "weight": 82,
+        "label": "Excommunicated after the murder of Peter of Castelnau",
+        "labelCn": "在彼得·德·卡斯特尔诺遇害后被绝罚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Peter_of_Castelnau",
+        "note": "Blamed for the papal legate's murder in January 1208; his direct responsibility remains debated."
+      },
+      {
+        "year": 1209,
+        "type": "war",
+        "tags": [
+          "war",
+          "crusade",
+          "religion"
+        ],
+        "weight": 88,
+        "label": "Albigensian Crusade launched against Languedoc",
+        "labelCn": "针对朗格多克的阿尔比十字军爆发",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Albigensian_Crusade"
+      },
+      {
+        "year": 1213,
+        "month": 9,
+        "day": 12,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "defeat",
+          "commander"
+        ],
+        "weight": 92,
+        "label": "Defeated with Peter II of Aragon at Muret",
+        "labelCn": "与阿拉贡的佩德罗二世同败于穆雷之战",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Muret"
+      },
+      {
+        "year": 1215,
+        "type": "political_crisis",
+        "tags": [
+          "political_crisis",
+          "religion",
+          "succession"
+        ],
+        "weight": 84,
+        "label": "Dispossessed by the Fourth Lateran Council",
+        "labelCn": "被第四次拉特兰公会议剥夺领地",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Fourth_Council_of_the_Lateran"
+      },
+      {
+        "year": 1217,
+        "type": "rebellion",
+        "tags": [
+          "rebellion",
+          "war",
+          "territory"
+        ],
+        "weight": 86,
+        "label": "Recovered Toulouse from the crusaders",
+        "labelCn": "从十字军手中夺回图卢兹",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Raymond_VI,_Count_of_Toulouse"
+      },
+      {
+        "year": 1222,
+        "type": "death",
+        "tags": [
+          "death",
+          "religion"
+        ],
+        "weight": 88,
+        "label": "Died excommunicated",
+        "labelCn": "在绝罚中去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Raymond_VI,_Count_of_Toulouse",
+        "note": "Refused burial in consecrated ground because he died unreconciled with the Church."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Toulouse",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Count_of_Toulouse",
+    "sourceNote": "Count of Toulouse 1194-1222; central figure of the Albigensian Crusade; sources: Wikipedia 'Raymond VI, Count of Toulouse' and standard crusade literature.",
+    "notes": "Count of Toulouse whose toleration of the Cathars and suspected complicity in the murder of the papal legate Peter of Castelnau brought the Albigensian Crusade down on Languedoc. Defeated at Muret (1213) and dispossessed by the Fourth Lateran Council (1215), he recovered Toulouse before dying excommunicated and denied burial in consecrated ground. His personal responsibility for the legate's murder remains debated.",
+    "createdDate": "20260822",
+    "createdOrder": 26
+  },
+  {
+    "id": "c9190000-0000-4000-8000-000000000015",
+    "displayName": "Raymond VII de Toulouse",
+    "fullName": "Raymond VII, Count of Toulouse",
+    "displayNameCn": "图卢兹的雷蒙七世",
+    "birthYear": 1197,
+    "deathYear": 1249,
+    "startYear": 1222,
+    "endYear": 1249,
+    "historicalRating": 8,
+    "fatherId": "c9180000-0000-4000-8000-000000000014",
+    "childIds": [
+      "c9200000-0000-4000-8000-000000000016"
+    ],
+    "firstName": "Raymond",
+    "lastName": "de Toulouse",
+    "fullNameCn": "图卢兹伯爵雷蒙七世",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthPlace": "County of Toulouse",
+    "birthPlaceCn": "图卢兹伯国",
+    "deathPlace": "Millau, Rouergue",
+    "deathPlaceCn": "鲁埃格米约",
+    "gender": "male",
+    "dynasty": "House of Toulouse",
+    "house": "House of Toulouse",
+    "culture": "Occitan",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Toulouse",
+    "primaryTitleCn": "图卢兹伯爵",
+    "titles": [
+      {
+        "title": "Count of Toulouse",
+        "titleCn": "图卢兹伯爵",
+        "startYear": 1222,
+        "endYear": 1249
+      }
+    ],
+    "tags": [
+      "count",
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 80,
+    "relationships": {
+      "fatherId": "c9180000-0000-4000-8000-000000000014",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "c9200000-0000-4000-8000-000000000016"
+      ]
+    },
+    "events": [
+      {
+        "year": 1211,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 68,
+        "label": "Married Sanchia of Aragon",
+        "labelCn": "与阿拉贡的桑夏成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Raymond_VII,_Count_of_Toulouse"
+      },
+      {
+        "year": 1216,
+        "type": "war",
+        "tags": [
+          "war",
+          "campaign",
+          "territory"
+        ],
+        "weight": 82,
+        "label": "Retook Beaucaire from the crusaders",
+        "labelCn": "从十字军手中收复博凯尔",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Raymond_VII,_Count_of_Toulouse"
+      },
+      {
+        "year": 1217,
+        "type": "rebellion",
+        "tags": [
+          "rebellion",
+          "war",
+          "territory"
+        ],
+        "weight": 80,
+        "label": "Fought to recover Toulouse alongside his father",
+        "labelCn": "与父亲并肩作战夺回图卢兹",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Raymond_VII,_Count_of_Toulouse"
+      },
+      {
+        "year": 1222,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 78,
+        "label": "Succeeded as Count of Toulouse",
+        "labelCn": "继承图卢兹伯爵之位",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Raymond_VII,_Count_of_Toulouse"
+      },
+      {
+        "year": 1226,
+        "type": "war",
+        "tags": [
+          "war",
+          "crusade",
+          "defeat"
+        ],
+        "weight": 84,
+        "label": "Faced Louis VIII's royal crusade in Languedoc",
+        "labelCn": "面对路易八世对朗格多克的王室十字军",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Albigensian_Crusade"
+      },
+      {
+        "year": 1229,
+        "month": 4,
+        "day": 12,
+        "type": "treaty",
+        "tags": [
+          "treaty",
+          "diplomacy",
+          "succession"
+        ],
+        "weight": 90,
+        "label": "Submitted to Louis IX at the Treaty of Paris (Meaux)",
+        "labelCn": "依《巴黎条约》（莫城和约）向路易九世臣服",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Treaty_of_Paris_(1229)"
+      },
+      {
+        "year": 1243,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 68,
+        "label": "Married Margaret of Lusignan",
+        "labelCn": "与吕西尼昂的玛格丽特成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Raymond_VII,_Count_of_Toulouse"
+      },
+      {
+        "year": 1249,
+        "month": 9,
+        "day": 27,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 88,
+        "label": "Died at Millau",
+        "labelCn": "在米约去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Raymond_VII,_Count_of_Toulouse",
+        "note": "Died while preparing to join Louis IX on the Seventh Crusade."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Toulouse",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Count_of_Toulouse",
+    "sourceNote": "Count of Toulouse 1222-1249; submitted at the Treaty of Paris (1229); sources: Wikipedia 'Raymond VII, Count of Toulouse' and 'Treaty of Paris (1229)'.",
+    "notes": "Son of Raymond VI and Joan of England, he fought to recover his inheritance from Simon de Montfort's crusaders before the Treaty of Paris (1229) forced his submission to Louis IX. The treaty betrothed his only daughter Jeanne to Alphonse of Poitiers, programming the eventual annexation of Toulouse to the French crown. He died in 1249 while preparing to join Louis IX on crusade.",
+    "createdDate": "20260822",
+    "createdOrder": 27
+  },
+  {
+    "id": "c9200000-0000-4000-8000-000000000016",
+    "displayName": "Jeanne of Toulouse",
+    "fullName": "Jeanne, Countess of Toulouse",
+    "displayNameCn": "图卢兹的让娜",
+    "birthYear": 1220,
+    "deathYear": 1271,
+    "startYear": 1249,
+    "endYear": 1271,
+    "historicalRating": 7,
+    "fatherId": "c9190000-0000-4000-8000-000000000015",
+    "childIds": [],
+    "spouseIds": [
+      "c9210000-0000-4000-8000-000000000017"
+    ],
+    "rank": "countess",
+    "primaryTitle": "Countess of Toulouse",
+    "primaryTitleCn": "图卢兹女伯爵",
+    "firstName": "Jeanne",
+    "lastName": "de Toulouse",
+    "fullNameCn": "图卢兹伯爵夫人让娜",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthPlace": "County of Toulouse",
+    "birthPlaceCn": "图卢兹伯国",
+    "deathPlace": "Corneto, near Siena",
+    "deathPlaceCn": "锡耶纳附近科尔内托",
+    "gender": "female",
+    "dynasty": "House of Toulouse",
+    "house": "House of Toulouse",
+    "culture": "Occitan",
+    "faith": "Catholic",
+    "titles": [
+      {
+        "title": "Countess of Toulouse",
+        "titleCn": "图卢兹女伯爵",
+        "startYear": 1249,
+        "endYear": 1271
+      }
+    ],
+    "tags": [
+      "count",
+      "noble"
+    ],
+    "importanceScore": 70,
+    "relationships": {
+      "fatherId": "c9190000-0000-4000-8000-000000000015",
+      "motherId": "",
+      "spouseIds": [
+        "c9210000-0000-4000-8000-000000000017"
+      ],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1229,
+        "type": "treaty",
+        "tags": [
+          "treaty",
+          "dynastic_alliance",
+          "succession"
+        ],
+        "weight": 80,
+        "label": "Betrothed to Alphonse of Poitiers by the Treaty of Paris",
+        "labelCn": "依《巴黎条约》许配给普瓦捷的阿方斯",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Treaty_of_Paris_(1229)"
+      },
+      {
+        "year": 1237,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance",
+          "uncertain"
+        ],
+        "weight": 70,
+        "label": "Married Alphonse of Poitiers",
+        "labelCn": "与普瓦捷的阿方斯成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Alphonse,_Count_of_Poitiers",
+        "note": "The exact year is disputed; 1234, 1237 and 1241 have all been suggested."
+      },
+      {
+        "year": 1249,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 78,
+        "label": "Succeeded her father as Countess of Toulouse",
+        "labelCn": "继承父亲成为图卢兹女伯爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Joan,_Countess_of_Toulouse"
+      },
+      {
+        "year": 1270,
+        "type": "crusade",
+        "tags": [
+          "crusade",
+          "journey"
+        ],
+        "weight": 74,
+        "label": "Accompanied Alphonse on the Eighth Crusade",
+        "labelCn": "随阿方斯参加第八次十字军东征",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Eighth_Crusade"
+      },
+      {
+        "year": 1271,
+        "month": 8,
+        "day": 25,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 90,
+        "label": "Died at Corneto; Toulouse passed to the French crown",
+        "labelCn": "在科尔内托去世，图卢兹并入法国王室",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Joan,_Countess_of_Toulouse"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Toulouse",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Count_of_Toulouse",
+    "sourceNote": "Basic card for the final Toulouse succession; after 1229 the county was subject to the Meaux-Paris settlement and prepared for Capetian annexation.",
+    "notes": "Added for the Toulouse succession from Raymond VI through Jeanne's 1271 inheritance.",
+    "createdDate": "20260822",
+    "createdOrder": 28
+  }
+]

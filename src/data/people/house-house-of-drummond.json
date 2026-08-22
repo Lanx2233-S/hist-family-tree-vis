@@ -1,0 +1,98 @@
+[
+  {
+    "id": "02ff9afd-875a-42ad-868f-d3ac32fb8741",
+    "firstName": "Annabella",
+    "lastName": "Drummond",
+    "displayName": "Annabella Drummond",
+    "fullName": "Annabella Drummond",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Annabella Drummond"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "安娜贝拉·德拉蒙德",
+    "fullNameCn": "安娜贝拉·德拉蒙德",
+    "birthYear": 1350,
+    "deathYear": 1401,
+    "birthPlace": "",
+    "deathPlace": "Scone, Scotland",
+    "deathPlaceCn": "苏格兰斯昆",
+    "gender": "female",
+    "dynasty": "House of Drummond",
+    "house": "House of Drummond",
+    "culture": "Scottish",
+    "faith": "Catholic",
+    "primaryTitle": "Queen consort of Scotland",
+    "primaryTitleCn": "苏格兰王后",
+    "titles": [
+      {
+        "title": "Queen consort of Scotland",
+        "startYear": 1390,
+        "endYear": 1401,
+        "titleCn": "苏格兰王后"
+      }
+    ],
+    "tags": [
+      "queen",
+      "consort"
+    ],
+    "rank": "queen",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "84eb5f03-22b3-4efe-a5ab-566148c2b283"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "c6a85386-8891-481a-b7ca-63696a75c4b9"
+      ]
+    },
+    "events": [
+      {
+        "year": 1350,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 60,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Annabella_Drummond",
+        "note": "Birth year approximate."
+      },
+      {
+        "year": 1367,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 76,
+        "label": "Married Robert III",
+        "labelCn": "嫁给罗贝尔三世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Annabella_Drummond"
+      },
+      {
+        "year": 1401,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 88,
+        "label": "Died",
+        "labelCn": "去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Annabella_Drummond"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Annabella_Drummond",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Annabella_Drummond",
+    "sourceNote": "Wife of Robert III and mother of James I.",
+    "notes": "Queen consort of Robert III and mother of James I.",
+    "createdDate": "20260819",
+    "createdOrder": 43
+  }
+]

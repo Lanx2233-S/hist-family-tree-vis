@@ -1,0 +1,629 @@
+[
+  {
+    "id": "501a63f5-b331-4e97-9e92-ddb129d3f494",
+    "firstName": "Ingeborg",
+    "lastName": "of Denmark",
+    "displayName": "Ingeborg of Denmark",
+    "fullName": "Ingeborg of Denmark, Queen of France",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "丹麦的英格堡",
+    "fullNameCn": "法兰西王后丹麦的英格堡",
+    "nicknameCn": null,
+    "birthYear": 1174,
+    "deathYear": 1237,
+    "birthPlace": "",
+    "deathPlace": "Priory of Saint-Jean-de-l'Île, near Corbeil, Kingdom of France",
+    "birthPlaceCn": "",
+    "deathPlaceCn": "法兰西王国科尔贝附近的圣让岛修道院",
+    "gender": "female",
+    "dynasty": "Estridsen dynasty",
+    "house": "House of Estridsen",
+    "culture": "Danish",
+    "faith": "Catholic",
+    "primaryTitle": "Queen of France",
+    "primaryTitleCn": "法兰西王后",
+    "titles": [
+      {
+        "title": "Queen of France",
+        "startYear": 1193,
+        "endYear": 1223,
+        "titleCn": "法兰西王后"
+      }
+    ],
+    "tags": [
+      "queen",
+      "consort",
+      "noble"
+    ],
+    "rank": "queen",
+    "importanceScore": 76,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "7cc009b6-08d8-459b-b40e-2921bf3e4580"
+      ],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Ingeborg_of_Denmark,_Queen_of_France",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Ingeborg_of_Denmark,_Queen_of_France",
+    "sourceNote": "Birth year uncertain (c. 1174/75); birthplace not recorded. Death date varies across sources (1236–1238; Wikipedia infobox gives 29 July 1237). Parents (Valdemar I of Denmark and Sofia of Minsk) are not yet in the roster.",
+    "notes": "Second wife of Philippe II Augustus. Married 1193, repudiated the same day; the annulment was never canonically granted, and after the interdict crisis she was restored and remained queen until Philippe's death. The estrangement is modelled in events, not as a former marriage.",
+    "historicalRating": 7,
+    "createdDate": "20260817",
+    "createdOrder": 23,
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died at the Priory of Saint-Jean-de-l'Île",
+      "summaryCn": "在圣让岛修道院去世",
+      "detail": "Ingeborg died on 29 July 1237 (some sources give 1236 or 1238) at the Priory of Saint-Jean-de-l'Île near Corbeil, and was buried in the church of the Order of St John in Corbeil.",
+      "detailCn": "1237 年 7 月 29 日（有资料作 1236 或 1238 年），英格堡在科尔贝附近的圣让岛修道院去世，葬于科尔贝圣约翰骑士团教堂。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Ingeborg_of_Denmark,_Queen_of_France"
+    },
+    "events": [
+      {
+        "year": 1174,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "uncertain"
+        ],
+        "weight": 60,
+        "label": "Born in Denmark",
+        "labelCn": "出生于丹麦",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ingeborg_of_Denmark,_Queen_of_France",
+        "note": "Birth year uncertain (c. 1174/75); birthplace not recorded. Daughter of Valdemar I of Denmark and Sofia of Minsk."
+      },
+      {
+        "year": 1193,
+        "month": 8,
+        "day": 14,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 90,
+        "label": "Marriage to Philippe II",
+        "labelCn": "与腓力二世成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ingeborg_of_Denmark,_Queen_of_France",
+        "note": "Married at Amiens on 14 August 1193 (the infobox gives 15 August); Philippe repudiated her the very next day, but the repudiation never obtained canonical validity."
+      },
+      {
+        "year": 1193,
+        "month": 8,
+        "day": 25,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "queen"
+        ],
+        "weight": 82,
+        "label": "Coronation as Queen of France",
+        "labelCn": "加冕为法兰西王后",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ingeborg_of_Denmark,_Queen_of_France"
+      },
+      {
+        "year": 1193,
+        "month": 11,
+        "type": "political_crisis",
+        "tags": [
+          "politics",
+          "uncertain"
+        ],
+        "weight": 75,
+        "label": "Council of Compiègne annulment attempt",
+        "labelCn": "贡比涅会议企图宣告婚姻无效",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ingeborg_of_Denmark,_Queen_of_France",
+        "note": "About three months after the wedding Philippe summoned a council at Compiègne to annul the marriage; Danish envoys carried her appeal to Rome."
+      },
+      {
+        "year": 1200,
+        "type": "religion",
+        "tags": [
+          "religion",
+          "uncertain"
+        ],
+        "weight": 85,
+        "label": "Interdict on France over the repudiation",
+        "labelCn": "法国因休妻事件被施以禁罚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ingeborg_of_Denmark,_Queen_of_France",
+        "note": "Innocent III placed France under interdict (sources give 1199 or 1200); it was lifted in September 1200 when Philippe agreed to obey the pope."
+      },
+      {
+        "year": 1200,
+        "month": 9,
+        "type": "government",
+        "tags": [
+          "government",
+          "queen"
+        ],
+        "weight": 84,
+        "label": "Restored as Queen of France",
+        "labelCn": "恢复法兰西王后身份",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ingeborg_of_Denmark,_Queen_of_France"
+      },
+      {
+        "year": 1213,
+        "type": "diplomacy",
+        "tags": [
+          "diplomacy",
+          "queen"
+        ],
+        "weight": 72,
+        "label": "Full reconciliation with Philippe II",
+        "labelCn": "与腓力二世完全和解",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ingeborg_of_Denmark,_Queen_of_France",
+        "note": "Philippe reconciled with Ingeborg in 1213, after Agnes of Meran's death; she remained queen until his death in 1223."
+      },
+      {
+        "year": 1237,
+        "month": 7,
+        "day": 29,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 88,
+        "label": "Died at Saint-Jean-de-l'Île",
+        "labelCn": "在圣让岛修道院去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ingeborg_of_Denmark,_Queen_of_France",
+        "note": "Died 29 July 1237 (some sources 1236 or 1238) near Corbeil."
+      }
+    ]
+  },
+  {
+    "id": "c9870000-0000-4000-8000-000000000000",
+    "firstName": "Charles",
+    "lastName": "the Good",
+    "displayName": "Charles the Good",
+    "fullName": "Charles the Good",
+    "displayNameCn": "善良的查理",
+    "fullNameCn": "佛兰德伯爵善良的查理",
+    "nickname": "the Good",
+    "nicknameCn": "善良",
+    "nicknameTags": [],
+    "alsoKnownAs": [],
+    "gender": "male",
+    "birthYear": 1084,
+    "deathYear": 1127,
+    "birthPlace": "Denmark",
+    "deathPlace": "Bruges",
+    "birthPlaceCn": "Denmark",
+    "deathPlaceCn": "Bruges",
+    "dynasty": "Estridsen dynasty",
+    "house": "House of Estridsen",
+    "culture": "Danish",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Flanders",
+    "primaryTitleCn": "佛兰德伯爵",
+    "titles": [
+      {
+        "title": "Count of Flanders",
+        "startYear": 1119,
+        "endYear": 1127,
+        "titleCn": "佛兰德伯爵"
+      }
+    ],
+    "tags": [
+      "count",
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 40,
+    "wikiUrl": "https://en.wikipedia.org/wiki/Charles_the_Good",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Charles_the_Good",
+    "sourceNote": "Son of King Canute IV of Denmark; raised in Flanders and chosen count in 1119. Assassinated in 1127 and venerated as a martyr. Events cross-checked against Britannica and Wikipedia.",
+    "notes": "Danish prince and cousin of Baldwin VII; selected as count after Baldwin's death and murdered in Bruges.",
+    "relationships": {
+      "fatherId": "c9910000-0000-4000-8000-000000000000",
+      "motherId": "c9920000-0000-4000-8000-000000000000",
+      "spouseIds": [
+        "c9930000-0000-4000-8000-000000000000"
+      ],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1084,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Charles_the_Good",
+        "note": "Son of King Canute IV of Denmark."
+      },
+      {
+        "year": 1086,
+        "type": "exile",
+        "tags": [
+          "political_crisis",
+          "noble"
+        ],
+        "weight": 60,
+        "label": "Fled Denmark after his father's murder",
+        "labelCn": "父王遇害后逃离丹麦",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Charles_the_Good",
+        "note": "After Canute IV was murdered in Odense, Charles was taken to Flanders and raised at the Flemish court."
+      },
+      {
+        "year": 1119,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title",
+          "noble"
+        ],
+        "weight": 80,
+        "label": "Became Count of Flanders",
+        "labelCn": "成为佛兰德伯爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Charles_the_Good",
+        "note": "Chosen to succeed his cousin Baldwin VII as Count of Flanders."
+      },
+      {
+        "year": 1125,
+        "type": "government",
+        "tags": [
+          "government",
+          "faith"
+        ],
+        "weight": 70,
+        "label": "Relieved the great famine of Flanders",
+        "labelCn": "赈济佛兰德的饥荒",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Charles_the_Good",
+        "note": "Distributed bread to the poor and fixed grain prices during the famine, earning his reputation as 'the Good'."
+      },
+      {
+        "year": 1127,
+        "month": 3,
+        "day": 2,
+        "type": "death",
+        "tags": [
+          "death",
+          "political_crisis"
+        ],
+        "weight": 90,
+        "label": "Assassinated in Bruges",
+        "labelCn": "在布鲁日遇刺身亡",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Charles_the_Good",
+        "note": "Murdered while praying in the Church of St. Donatian by members of the Erembald family, triggering a revolt."
+      }
+    ],
+    "historicalRating": 7,
+    "createdDate": "20260823",
+    "deathCause": {
+      "kind": "violent",
+      "summary": "Assassinated while praying in Bruges",
+      "summaryCn": "在布鲁日祈祷时遇刺",
+      "detail": "Charles the Good was assassinated on 2 March 1127 while praying in the Church of St. Donatian in Bruges, by the Erembald family whose privileges he had threatened. His murder sparked a popular uprising and he was venerated as a martyr.",
+      "detailCn": "1127年3月2日，善良的查理在布鲁日圣多纳廷教堂祈祷时被埃伦博德家族刺杀，因其威胁到该家族的特权。他的遇害引发了民众起义，他随后被尊为殉道者。",
+      "culprit": "the Erembald family",
+      "culpritCn": "埃伦博德家族",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Charles_the_Good"
+    },
+    "createdOrder": 15
+  },
+  {
+    "id": "c9910000-0000-4000-8000-000000000000",
+    "firstName": "Canute",
+    "lastName": "IV of Denmark",
+    "displayName": "Canute IV of Denmark",
+    "fullName": "Canute IV of Denmark",
+    "displayNameCn": "丹麦的克努特四世",
+    "fullNameCn": "丹麦国王克努特四世",
+    "nickname": "",
+    "nicknameCn": "",
+    "nicknameTags": [],
+    "alsoKnownAs": [],
+    "gender": "male",
+    "birthYear": 1043,
+    "deathYear": 1086,
+    "birthPlace": "Denmark",
+    "deathPlace": "Odense",
+    "birthPlaceCn": "Denmark",
+    "deathPlaceCn": "Odense",
+    "dynasty": "Estridsen dynasty",
+    "house": "House of Estridsen",
+    "culture": "Danish",
+    "faith": "Catholic",
+    "primaryTitle": "King of Denmark",
+    "primaryTitleCn": "丹麦国王",
+    "titles": [
+      {
+        "title": "King of Denmark",
+        "startYear": 1080,
+        "endYear": 1086,
+        "titleCn": "丹麦国王"
+      }
+    ],
+    "tags": [
+      "king",
+      "noble"
+    ],
+    "rank": "king",
+    "importanceScore": 40,
+    "wikiUrl": "https://en.wikipedia.org/wiki/Canute_IV_of_Denmark",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Canute_IV_of_Denmark",
+    "sourceNote": "",
+    "notes": "King of Denmark and father of Charles the Good.",
+    "relationships": {
+      "fatherId": "c1024000-0000-4000-8000-000000000000",
+      "motherId": "",
+      "spouseIds": [
+        "c9920000-0000-4000-8000-000000000000"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "c9870000-0000-4000-8000-000000000000"
+      ]
+    },
+    "events": [
+      {
+        "year": 1080,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "succession",
+          "king"
+        ],
+        "weight": 80,
+        "label": "Became King of Denmark",
+        "labelCn": "成为丹麦国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Canute_IV_of_Denmark"
+      },
+      {
+        "year": 1085,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "war"
+        ],
+        "weight": 74,
+        "label": "Planned invasion of England",
+        "labelCn": "筹划入侵英格兰",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Canute_IV_of_Denmark",
+        "note": "Assembled a fleet against William the Conqueror, but the campaign never sailed."
+      },
+      {
+        "year": 1086,
+        "month": 7,
+        "day": 10,
+        "type": "death",
+        "tags": [
+          "death",
+          "rebellion"
+        ],
+        "weight": 84,
+        "label": "Murdered at Odense",
+        "labelCn": "在欧登塞遇害",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Canute_IV_of_Denmark",
+        "note": "Killed by rebels in the church of St Alban; later canonised as a saint."
+      }
+    ],
+    "historicalRating": 5,
+    "createdDate": "20260823",
+    "createdOrder": 33
+  },
+  {
+    "id": "c1024000-0000-4000-8000-000000000000",
+    "firstName": "Sweyn",
+    "lastName": "Estridsen",
+    "displayName": "Sweyn II Estridsen",
+    "fullName": "Sweyn II Estridsen, King of Denmark",
+    "displayNameCn": "斯温二世·埃斯特里森",
+    "fullNameCn": "丹麦国王斯温二世·埃斯特里森",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1019,
+    "deathYear": 1076,
+    "birthPlace": "Denmark",
+    "birthPlaceCn": "丹麦",
+    "deathPlace": "Denmark",
+    "deathPlaceCn": "丹麦",
+    "gender": "male",
+    "dynasty": "Estridsen dynasty",
+    "house": "House of Estridsen",
+    "culture": "Danish",
+    "faith": "Catholic",
+    "primaryTitle": "King of Denmark",
+    "primaryTitleCn": "丹麦国王",
+    "titles": [
+      {
+        "title": "King of Denmark",
+        "titleCn": "丹麦国王",
+        "startYear": 1047,
+        "endYear": 1074
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 65,
+    "historicalRating": 7,
+    "relationships": {
+      "fatherId": "c1023000-0000-4000-8000-000000000000",
+      "motherId": "c1022000-0000-4000-8000-000000000000",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "c1025000-0000-4000-8000-000000000000",
+        "c9910000-0000-4000-8000-000000000000"
+      ]
+    },
+    "events": [
+      {
+        "year": 1047,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "king",
+          "monarch"
+        ],
+        "weight": 78,
+        "label": "Acclaimed King of Denmark after Magnus the Good's death",
+        "labelCn": "马格努斯一世去世后被拥立为丹麦国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Sweyn_II_of_Denmark"
+      },
+      {
+        "year": 1062,
+        "month": 8,
+        "day": 9,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "defeat",
+          "king"
+        ],
+        "weight": 85,
+        "label": "Battle of Niså — defeated by Harald Hardrada",
+        "labelCn": "尼萨河之战——败于哈拉尔·哈德拉达",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Nis%C3%A5"
+      },
+      {
+        "year": 1064,
+        "type": "treaty",
+        "tags": [
+          "treaty",
+          "diplomacy",
+          "king"
+        ],
+        "weight": 64,
+        "label": "Made peace with Harald Hardrada",
+        "labelCn": "与哈拉尔·哈德拉达议和",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Sweyn_II_of_Denmark"
+      },
+      {
+        "year": 1070,
+        "type": "war",
+        "tags": [
+          "war",
+          "diplomacy",
+          "politics"
+        ],
+        "weight": 70,
+        "label": "Led the Danish claim to England and reached agreement with William I",
+        "labelCn": "率丹麦军队争夺英格兰并与威廉一世达成协议",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Sweyn_II_of_Denmark"
+      },
+      {
+        "year": 1076,
+        "month": 4,
+        "day": 28,
+        "type": "death",
+        "tags": [
+          "death",
+          "king",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Death",
+        "labelCn": "去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Sweyn_II_of_Denmark"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Sweyn_II_of_Denmark",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Sweyn_II_of_Denmark",
+    "sourceNote": "Britannica (Sweyn II Estridsen); Wikipedia (Sweyn II of Denmark), used for navigation.",
+    "notes": "First of the Estridsen kings (1047–1076), whose claim ran through his mother Estrid, daughter of Sweyn Forkbeard. He fought Harald Hardrada to a stalemate, intervened in England in 1069–70, and fostered the church's organisation in Denmark.",
+    "createdDate": "20260823",
+    "createdOrder": 55
+  },
+  {
+    "id": "c1025000-0000-4000-8000-000000000000",
+    "firstName": "Harald",
+    "lastName": "Hen",
+    "displayName": "Harald III Hen",
+    "fullName": "Harald III Hen, King of Denmark",
+    "displayNameCn": "哈拉尔三世·亨",
+    "fullNameCn": "丹麦国王哈拉尔三世·亨",
+    "nickname": "Hen",
+    "nicknameCn": "亨",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1040,
+    "deathYear": 1080,
+    "birthPlace": "Denmark",
+    "birthPlaceCn": "丹麦",
+    "deathPlace": "Denmark",
+    "deathPlaceCn": "丹麦",
+    "gender": "male",
+    "dynasty": "Estridsen dynasty",
+    "house": "House of Estridsen",
+    "culture": "Danish",
+    "faith": "Catholic",
+    "primaryTitle": "King of Denmark",
+    "primaryTitleCn": "丹麦国王",
+    "titles": [
+      {
+        "title": "King of Denmark",
+        "titleCn": "丹麦国王",
+        "startYear": 1074,
+        "endYear": 1080
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 48,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "c1024000-0000-4000-8000-000000000000",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1074,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "king",
+          "monarch"
+        ],
+        "weight": 76,
+        "label": "Became King of Denmark",
+        "labelCn": "成为丹麦国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Harald_III_of_Denmark",
+        "note": "Succeeded his father Sweyn II Estridsen in 1074; known as 'Hen' (whetstone) for his mild, peaceful disposition."
+      },
+      {
+        "year": 1080,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 74,
+        "label": "Died",
+        "labelCn": "去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Harald_III_of_Denmark",
+        "note": "Died in 1080 and was succeeded by his brother Canute IV (the Holy)."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Harald_III_of_Denmark",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Harald_III_of_Denmark",
+    "sourceNote": "Basic card for the Estridsen royal line.",
+    "notes": "Succeeded Sweyn II before his brother Canute IV.",
+    "createdDate": "20260823",
+    "createdOrder": 56
+  }
+]

@@ -1,0 +1,127 @@
+[
+  {
+    "id": "c9910000-0000-4000-8000-000000000001",
+    "firstName": "Douce",
+    "lastName": "of Provence",
+    "displayName": "Douce I of Provence",
+    "fullName": "Douce I of Provence",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "普罗旺斯的杜丝一世",
+    "fullNameCn": "普罗旺斯的杜丝一世",
+    "nicknameCn": "",
+    "birthYear": 1090,
+    "deathYear": 1127,
+    "birthPlace": "Provence",
+    "birthPlaceCn": "普罗旺斯",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "female",
+    "dynasty": "House of Gévaudan",
+    "house": "House of Gévaudan",
+    "culture": "Occitan",
+    "faith": "Catholic",
+    "primaryTitle": "Countess of Provence",
+    "primaryTitleCn": "普罗旺斯女伯爵",
+    "titles": [
+      {
+        "title": "Countess of Provence",
+        "titleCn": "普罗旺斯女伯爵",
+        "startYear": 1112,
+        "endYear": 1131
+      }
+    ],
+    "tags": [
+      "count",
+      "ruler",
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 70,
+    "historicalRating": 7,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "c9920000-0000-4000-8000-000000000002"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "c9930000-0000-4000-8000-000000000003"
+      ]
+    },
+    "events": [
+      {
+        "year": 1112,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "territory",
+          "noble"
+        ],
+        "weight": 80,
+        "label": "Inherited the counties of Provence and Gévaudan",
+        "labelCn": "继承普罗旺斯与热沃当伯国",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Douce_I,_Countess_of_Provence"
+      },
+      {
+        "year": 1112,
+        "month": 2,
+        "day": 3,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 78,
+        "label": "Married Ramon Berenguer III of Barcelona at Arles",
+        "labelCn": "在阿尔勒与巴塞罗那的拉蒙·贝伦格尔三世成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ramon_Berenguer_III,_Count_of_Barcelona"
+      },
+      {
+        "year": 1113,
+        "type": "government",
+        "tags": [
+          "government",
+          "territory"
+        ],
+        "weight": 68,
+        "label": "Ceded her rights in Provence, Gévaudan and Millau to her husband",
+        "labelCn": "将普罗旺斯、热沃当与米约的权利让渡给丈夫",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Douce_I,_Countess_of_Provence"
+      },
+      {
+        "year": 1125,
+        "type": "treaty",
+        "tags": [
+          "treaty",
+          "diplomacy",
+          "territory"
+        ],
+        "weight": 72,
+        "label": "Signed a partition of Provence with the counts of Toulouse",
+        "labelCn": "与图卢兹伯爵签订普罗旺斯分割协议",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Douce_I,_Countess_of_Provence"
+      },
+      {
+        "year": 1127,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 88,
+        "label": "Died, opening a period of instability in Provence",
+        "labelCn": "去世，普罗旺斯进入动荡时期",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Douce_I,_Countess_of_Provence"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Douce_I,_Countess_of_Provence",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Douce_I,_Countess_of_Provence",
+    "sourceNote": "Basic card for the County of Provence succession.",
+    "notes": "Ruling countess in her own right. Her marriage brought the county into the Barcelona dynastic sphere.",
+    "createdDate": "20260823",
+    "createdOrder": 19
+  }
+]

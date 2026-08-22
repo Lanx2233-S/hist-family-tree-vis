@@ -1,0 +1,383 @@
+[
+  {
+    "id": "bda45606-c290-4f2a-8425-3c974a91ee60",
+    "firstName": "Béatrice",
+    "lastName": "Vermandois",
+    "displayName": "Béatrice of Vermandois",
+    "fullName": "Béatrice of Vermandois",
+    "displayNameCn": "韦尔芒杜瓦的贝阿特丽丝",
+    "fullNameCn": "韦尔芒杜瓦的贝阿特丽丝",
+    "nickname": "",
+    "nicknameCn": "",
+    "nicknameTags": [],
+    "alsoKnownAs": [
+      "Beatrice of Vermandois"
+    ],
+    "gender": "female",
+    "birthYear": 880,
+    "deathYear": 931,
+    "birthPlace": "Vermandois, West Francia",
+    "deathPlace": "West Francia",
+    "birthPlaceCn": "西法兰克韦尔芒杜瓦",
+    "deathPlaceCn": "西法兰克",
+    "dynasty": "Capetian dynasty",
+    "house": "House of Vermandois",
+    "culture": "Frankish",
+    "faith": "Catholic",
+    "rank": "queen",
+    "primaryTitle": "Queen of the Franks",
+    "primaryTitleCn": "法兰克王后",
+    "titles": [
+      {
+        "title": "Queen of the Franks",
+        "startYear": 922,
+        "endYear": 923,
+        "titleCn": "法兰克王后"
+      }
+    ],
+    "tags": [
+      "queen",
+      "noble",
+      "consort"
+    ],
+    "importanceScore": 68,
+    "historicalRating": 7,
+    "wikiUrl": "https://en.wikipedia.org/wiki/Beatrice_of_Vermandois",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Beatrice_of_Vermandois",
+    "sourceNote": "Daughter of Herbert I of Vermandois and mother of Hugh the Great; wife of Robert I of France.",
+    "notes": "Her descent from the Carolingian line is through her father. Married c. 890 as the second wife of Robert of Neustria (later King Robert I); ancestress of the Capetian dynasty through her son Hugh the Great. Died after 26 March 931.",
+    "deathCause": {
+      "kind": "uncertain",
+      "summary": "Death date unknown (after 931)",
+      "detail": "Béatrice's last known attestation is 26 March 931; she died after that date, but the exact year, place and circumstances are not documented.",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Beatrice_of_Vermandois",
+      "summaryCn": "去世时间不详（931年之后）",
+      "detailCn": "贝阿特丽丝最后一次见于记载是931年3月26日；她在此之后去世，但确切年份、地点与情形均无记载。"
+    },
+    "relationships": {
+      "fatherId": "61fe4e30-9ec1-4495-8c4c-caf8df47c913",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "ea16a35b-9d3b-44c8-b8c3-72598e0e4362"
+      ]
+    },
+    "events": [
+      {
+        "year": 880,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "uncertain"
+        ],
+        "weight": 60,
+        "label": "Birth of Béatrice of Vermandois (c. 880)",
+        "labelCn": "韦尔芒杜瓦的贝阿特丽丝出生（约880年）",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Beatrice_of_Vermandois",
+        "note": "Born c. 880; exact date and place unknown."
+      },
+      {
+        "year": 890,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance",
+          "uncertain"
+        ],
+        "weight": 75,
+        "label": "Marriage to Robert of Neustria",
+        "labelCn": "与纽斯特里亚的罗贝尔成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Beatrice_of_Vermandois",
+        "note": "Married c. 890 as the second wife of Robert of Neustria, who later reigned as King Robert I of France (922-923)."
+      },
+      {
+        "year": 922,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "queen"
+        ],
+        "weight": 72,
+        "label": "Became Queen of the Franks",
+        "labelCn": "成为法兰克王后",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Beatrice_of_Vermandois",
+        "note": "Robert was elected king in 922; Béatrice was queen consort 922-923."
+      },
+      {
+        "year": 923,
+        "month": 6,
+        "day": 15,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "death"
+        ],
+        "weight": 68,
+        "label": "Robert I killed at the Battle of Soissons",
+        "labelCn": "罗贝尔一世在苏瓦松之战中阵亡",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Soissons_(923)",
+        "note": "Her husband was killed on 15 June 923; their son Hugh the Great was offered the crown but refused. Béatrice was left a widow."
+      },
+      {
+        "year": 931,
+        "type": "death",
+        "tags": [
+          "death",
+          "uncertain"
+        ],
+        "weight": 60,
+        "label": "Death of Béatrice of Vermandois (after 931)",
+        "labelCn": "韦尔芒杜瓦的贝阿特丽丝去世（931年之后）",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Beatrice_of_Vermandois",
+        "note": "Last attested 26 March 931; died after that date, exact date unknown."
+      }
+    ],
+    "createdDate": "20260816",
+    "createdOrder": 38
+  },
+  {
+    "id": "61fe4e30-9ec1-4495-8c4c-caf8df47c913",
+    "firstName": "Herbert",
+    "lastName": "Vermandois",
+    "displayName": "Herbert I of Vermandois",
+    "fullName": "Herbert I, Count of Vermandois",
+    "displayNameCn": "韦尔芒杜瓦的赫伯特一世",
+    "fullNameCn": "韦尔芒杜瓦伯爵赫伯特一世",
+    "nickname": "",
+    "nicknameCn": "",
+    "nicknameTags": [],
+    "alsoKnownAs": [
+      "Herbert I of Vermandois",
+      "Herbert I, Count of Vermandois"
+    ],
+    "gender": "male",
+    "birthYear": 848,
+    "deathYear": 907,
+    "birthPlace": "Vermandois, West Francia",
+    "deathPlace": "Vermandois, West Francia",
+    "birthPlaceCn": "西法兰克韦尔芒杜瓦",
+    "deathPlaceCn": "西法兰克韦尔芒杜瓦",
+    "dynasty": "Capetian dynasty",
+    "house": "House of Vermandois",
+    "culture": "Frankish",
+    "faith": "Catholic",
+    "rank": "count",
+    "primaryTitle": "Count of Vermandois",
+    "primaryTitleCn": "韦尔芒杜瓦伯爵",
+    "titles": [
+      {
+        "title": "Count of Vermandois",
+        "startYear": 896,
+        "endYear": 907,
+        "titleCn": "韦尔芒杜瓦伯爵"
+      }
+    ],
+    "tags": [
+      "noble",
+      "commander"
+    ],
+    "importanceScore": 64,
+    "historicalRating": 6,
+    "wikiUrl": "https://en.wikipedia.org/wiki/Herbert_I,_Count_of_Vermandois",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Herbert_I,_Count_of_Vermandois",
+    "sourceNote": "Son of Pepin of Vermandois and father of Béatrice of Vermandois.",
+    "notes": "Carolingian male-line descendant through Pepin of Italy. Count of Vermandois and Soissons; his dates of accession vary by source (text: before 889; infobox: 893; existing record: 896). His capture and murder of his brother Raoul in 896 may have led Baldwin II of Flanders to have him killed in 907 (speculative).",
+    "deathCause": {
+      "kind": "uncertain",
+      "summary": "Possibly assassinated on Baldwin II's orders",
+      "detail": "Herbert died in 907. Some historians speculate that Baldwin II of Flanders had him assassinated, possibly in retaliation for Herbert's capture and murder of his own brother Raoul in 896; the accounts are uncertain, and no battle or natural cause is recorded.",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Herbert_I,_Count_of_Vermandois",
+      "summaryCn": "疑遭暗杀（不确定）",
+      "detailCn": "赫伯特于907年去世。有史家推测他是被佛兰德伯爵鲍德温二世派人暗杀的，可能与896年赫伯特俘杀亲兄弟拉乌尔一事有关；此说尚不确定，史料亦未记载战斗或自然死亡。"
+    },
+    "relationships": {
+      "fatherId": "f1f472eb-b141-42d4-9590-bc9700c40e6f",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "bda45606-c290-4f2a-8425-3c974a91ee60"
+      ]
+    },
+    "events": [
+      {
+        "year": 848,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "uncertain"
+        ],
+        "weight": 60,
+        "label": "Birth of Herbert I (c. 848)",
+        "labelCn": "赫伯特一世出生（约848年）",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Herbert_I,_Count_of_Vermandois",
+        "note": "Born c. 848/850; exact date unknown."
+      },
+      {
+        "year": 889,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "uncertain"
+        ],
+        "weight": 65,
+        "label": "Became Count of Vermandois and Soissons",
+        "labelCn": "成为韦尔芒杜瓦与苏瓦松伯爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Herbert_I,_Count_of_Vermandois",
+        "note": "Accession date uncertain: Wikipedia text says before 889, the infobox gives 893, the existing record uses 896."
+      },
+      {
+        "year": 896,
+        "type": "political_crisis",
+        "tags": [
+          "violent",
+          "uncertain"
+        ],
+        "weight": 60,
+        "label": "Capture and murder of his brother Raoul",
+        "labelCn": "俘杀其兄弟拉乌尔",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Herbert_I,_Count_of_Vermandois",
+        "note": "Herbert captured his brother Raoul in the upper Somme valley and had him murdered rather than ransomed; some historians link this to his own later death."
+      },
+      {
+        "year": 907,
+        "type": "death",
+        "tags": [
+          "death",
+          "violent",
+          "uncertain"
+        ],
+        "weight": 70,
+        "label": "Death of Herbert I",
+        "labelCn": "赫伯特一世去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Herbert_I,_Count_of_Vermandois",
+        "note": "Died 907; possibly assassinated on the orders of Baldwin II of Flanders (speculative)."
+      }
+    ],
+    "createdDate": "20260816",
+    "createdOrder": 39
+  },
+  {
+    "id": "f1f472eb-b141-42d4-9590-bc9700c40e6f",
+    "firstName": "Pepin",
+    "lastName": "Vermandois",
+    "displayName": "Pepin of Vermandois",
+    "fullName": "Pepin, Count of Vermandois",
+    "displayNameCn": "韦尔芒杜瓦的丕平",
+    "fullNameCn": "韦尔芒杜瓦伯爵丕平",
+    "nickname": "",
+    "nicknameCn": "",
+    "nicknameTags": [],
+    "alsoKnownAs": [
+      "Pepin I of Vermandois"
+    ],
+    "gender": "male",
+    "birthYear": 815,
+    "deathYear": 850,
+    "birthPlace": "Italy",
+    "deathPlace": "Vermandois, West Francia",
+    "birthPlaceCn": "意大利",
+    "deathPlaceCn": "西法兰克韦尔芒杜瓦",
+    "dynasty": "Capetian dynasty",
+    "house": "House of Vermandois",
+    "culture": "Frankish",
+    "faith": "Catholic",
+    "rank": "count",
+    "primaryTitle": "Count of Vermandois",
+    "primaryTitleCn": "韦尔芒杜瓦伯爵",
+    "titles": [
+      {
+        "title": "Count of Vermandois",
+        "startYear": 834,
+        "endYear": 850,
+        "titleCn": "韦尔芒杜瓦伯爵"
+      }
+    ],
+    "tags": [
+      "noble"
+    ],
+    "importanceScore": 58,
+    "historicalRating": 6,
+    "wikiUrl": "https://en.wikipedia.org/wiki/Pepin_I,_Count_of_Vermandois",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Pepin_I,_Count_of_Vermandois",
+    "sourceNote": "Son of Bernard of Italy and ancestor of the Vermandois branch.",
+    "notes": "Often styled Pepin I of Vermandois in genealogical references. Son of Bernard of Italy and great-grandson of Charlemagne; held Vermandois, Senlis, Péronne and Saint-Quentin. NOTE: this is Pepin I, who died c. 850 (after 850 in some genealogies) — not Pepin II (d. c. 893) nor the 'after 922' figure. Death year corrected from 845 to c. 850 per Wikipedia.",
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died c. 850; circumstances unknown",
+      "detail": "Pepin died c. 850 (some genealogies say after 850). No violent or suspicious circumstances are recorded; the exact date and cause are not documented.",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Pepin_I,_Count_of_Vermandois",
+      "summaryCn": "约850年去世，死因不详",
+      "detailCn": "丕平约于850年去世（部分谱系记载为850年之后）。史料未记载暴力或可疑的情形，确切日期与死因均无记载。"
+    },
+    "relationships": {
+      "fatherId": "ca47aef7-9566-469b-acb4-098529825888",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "61fe4e30-9ec1-4495-8c4c-caf8df47c913"
+      ]
+    },
+    "events": [
+      {
+        "year": 815,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "uncertain"
+        ],
+        "weight": 60,
+        "label": "Birth of Pepin of Vermandois (c. 815)",
+        "labelCn": "韦尔芒杜瓦的丕平出生（约815年）",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Pepin_I,_Count_of_Vermandois",
+        "note": "Born c. 815 (Wikipedia infobox: c. 817); exact date unknown."
+      },
+      {
+        "year": 834,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "uncertain"
+        ],
+        "weight": 60,
+        "label": "Count of Vermandois, Senlis, Péronne and Saint-Quentin",
+        "labelCn": "任韦尔芒杜瓦、桑利、佩罗讷与圣康坦伯爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Pepin_I,_Count_of_Vermandois",
+        "note": "Date of succession uncertain; Wikipedia notes his son Pepin II held the county from 850."
+      },
+      {
+        "year": 840,
+        "type": "political_crisis",
+        "tags": [
+          "succession",
+          "uncertain"
+        ],
+        "weight": 60,
+        "label": "Supported Emperor Lothar after Louis the Pious's death",
+        "labelCn": "虔诚者路易去世后支持皇帝洛泰尔",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Pepin_I,_Count_of_Vermandois",
+        "note": "Despite earlier allegiance to Charles the Bald, Pepin supported Emperor Lothar in the succession struggle after Louis the Pious died (840)."
+      },
+      {
+        "year": 850,
+        "type": "death",
+        "tags": [
+          "death",
+          "uncertain"
+        ],
+        "weight": 60,
+        "label": "Death of Pepin of Vermandois",
+        "labelCn": "韦尔芒杜瓦的丕平去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Pepin_I,_Count_of_Vermandois",
+        "note": "Died c. 850 (some sources: after 850); exact date unknown."
+      }
+    ],
+    "createdDate": "20260816",
+    "createdOrder": 40
+  }
+]

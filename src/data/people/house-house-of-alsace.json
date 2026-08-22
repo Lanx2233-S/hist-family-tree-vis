@@ -1,0 +1,193 @@
+[
+  {
+    "id": "c9890000-0000-4000-8000-000000000000",
+    "firstName": "Thierry",
+    "lastName": "of Alsace",
+    "displayName": "Thierry of Alsace",
+    "fullName": "Thierry of Alsace",
+    "displayNameCn": "阿尔萨斯的蒂埃里",
+    "fullNameCn": "佛兰德伯爵阿尔萨斯的蒂埃里",
+    "nickname": "",
+    "nicknameCn": "",
+    "nicknameTags": [],
+    "alsoKnownAs": [],
+    "gender": "male",
+    "birthYear": 1099,
+    "deathYear": 1168,
+    "birthPlace": "Alsace",
+    "deathPlace": "Gravelines",
+    "birthPlaceCn": "Alsace",
+    "deathPlaceCn": "Gravelines",
+    "dynasty": "House of Alsace",
+    "house": "House of Alsace",
+    "culture": "Flemish",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Flanders",
+    "primaryTitleCn": "佛兰德伯爵",
+    "titles": [
+      {
+        "title": "Count of Flanders",
+        "startYear": 1128,
+        "endYear": 1168,
+        "titleCn": "佛兰德伯爵"
+      }
+    ],
+    "tags": [
+      "noble"
+    ],
+    "rank": "noble",
+    "importanceScore": 40,
+    "wikiUrl": "https://en.wikipedia.org/wiki/Thierry,_Count_of_Flanders",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Thierry,_Count_of_Flanders",
+    "sourceNote": "",
+    "notes": "Founded the Alsatian line of the Flemish counts after defeating William Clito's claim.",
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "c9900000-0000-4000-8000-000000000000"
+      ]
+    },
+    "events": [
+      {
+        "year": 1128,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "succession"
+        ],
+        "weight": 80,
+        "label": "Recognised as Count of Flanders",
+        "labelCn": "被承认为佛兰德伯爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Thierry,_Count_of_Flanders",
+        "note": "Won the county after William Clito's death, founding the House of Alsace line."
+      },
+      {
+        "year": 1147,
+        "type": "crusade",
+        "tags": [
+          "crusade",
+          "commander"
+        ],
+        "weight": 82,
+        "label": "Joined the Second Crusade",
+        "labelCn": "参加第二次十字军东征",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Second_Crusade",
+        "note": "Fought in the East and laid claim to Damascus at its siege (1148)."
+      },
+      {
+        "year": 1168,
+        "month": 1,
+        "day": 17,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 60,
+        "label": "Death",
+        "labelCn": "去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Thierry,_Count_of_Flanders"
+      }
+    ],
+    "historicalRating": 5,
+    "createdDate": "20260823",
+    "createdOrder": 17
+  },
+  {
+    "id": "c9900000-0000-4000-8000-000000000000",
+    "firstName": "Philip",
+    "lastName": "of Alsace",
+    "displayName": "Philip of Alsace",
+    "fullName": "Philip of Alsace",
+    "displayNameCn": "阿尔萨斯的腓力",
+    "fullNameCn": "佛兰德伯爵阿尔萨斯的腓力",
+    "nickname": "",
+    "nicknameCn": "",
+    "nicknameTags": [],
+    "alsoKnownAs": [],
+    "gender": "male",
+    "birthYear": 1142,
+    "deathYear": 1191,
+    "birthPlace": "Flanders",
+    "deathPlace": "Acre",
+    "birthPlaceCn": "Flanders",
+    "deathPlaceCn": "Acre",
+    "dynasty": "House of Alsace",
+    "house": "House of Alsace",
+    "culture": "Flemish",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Flanders",
+    "primaryTitleCn": "佛兰德伯爵",
+    "titles": [
+      {
+        "title": "Count of Flanders",
+        "startYear": 1168,
+        "endYear": 1191,
+        "titleCn": "佛兰德伯爵"
+      }
+    ],
+    "tags": [
+      "noble"
+    ],
+    "rank": "noble",
+    "importanceScore": 40,
+    "wikiUrl": "https://en.wikipedia.org/wiki/Philip,_Count_of_Flanders",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Philip,_Count_of_Flanders",
+    "sourceNote": "",
+    "notes": "Succeeded Thierry of Alsace and died during the Third Crusade.",
+    "relationships": {
+      "fatherId": "c9890000-0000-4000-8000-000000000000",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1168,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "succession"
+        ],
+        "weight": 80,
+        "label": "Succeeded as Count of Flanders",
+        "labelCn": "继任佛兰德伯爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Philip,_Count_of_Flanders"
+      },
+      {
+        "year": 1180,
+        "type": "regency",
+        "tags": [
+          "regency",
+          "government"
+        ],
+        "weight": 78,
+        "label": "Guardian of the young Philip II of France",
+        "labelCn": "成为法兰西腓力二世的监护人",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Philip,_Count_of_Flanders",
+        "note": "Named guardian by the dying Louis VII and arranged Philip II's marriage to his niece Isabelle of Hainaut."
+      },
+      {
+        "year": 1191,
+        "type": "death",
+        "tags": [
+          "death",
+          "crusade"
+        ],
+        "weight": 72,
+        "label": "Died at Acre on the Third Crusade",
+        "labelCn": "第三次十字军东征中死于阿卡",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Third_Crusade",
+        "note": "Succumbed to disease during the siege of Acre."
+      }
+    ],
+    "historicalRating": 5,
+    "createdDate": "20260823",
+    "createdOrder": 18
+  }
+]

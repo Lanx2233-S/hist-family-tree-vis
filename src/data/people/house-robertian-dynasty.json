@@ -1,0 +1,550 @@
+[
+  {
+    "id": "ea16a35b-9d3b-44c8-b8c3-72598e0e4362",
+    "firstName": "Hugh",
+    "lastName": "Robertian",
+    "displayName": "Hugh the Great",
+    "fullName": "Hugh the Great, Duke of the Franks",
+    "nickname": "the Great",
+    "alsoKnownAs": [
+      "Hugh Magnus",
+      "Hugues le Grand"
+    ],
+    "nicknameTags": [],
+    "birthYear": 898,
+    "deathYear": 956,
+    "birthPlace": "Paris, West Francia",
+    "birthPlaceCn": "西法兰克巴黎",
+    "deathPlace": "Dourdan, West Francia",
+    "deathPlaceCn": "西法兰克杜尔当",
+    "gender": "male",
+    "dynasty": "Robertian dynasty",
+    "house": "Robertian dynasty",
+    "culture": "Frankish",
+    "faith": "Catholic",
+    "primaryTitle": "Duke of the Franks",
+    "primaryTitleCn": "法兰克公爵",
+    "titles": [
+      {
+        "title": "Count of Paris",
+        "startYear": 923,
+        "endYear": 956,
+        "titleCn": "巴黎伯爵"
+      },
+      {
+        "title": "Duke of the Franks",
+        "startYear": 936,
+        "endYear": 956,
+        "titleCn": "法兰克公爵"
+      }
+    ],
+    "tags": [
+      "noble",
+      "commander"
+    ],
+    "rank": "duke",
+    "importanceScore": 76,
+    "relationships": {
+      "fatherId": "1894e7be-c18e-4182-9bca-927c9cbfa333",
+      "motherId": "bda45606-c290-4f2a-8425-3c974a91ee60",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "6f92645c-bd9a-414d-9402-749dce748343"
+      ]
+    },
+    "events": [
+      {
+        "year": 923,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "duke",
+          "territory"
+        ],
+        "weight": 80,
+        "label": "Count of Paris and Margrave of Neustria",
+        "labelCn": "成为巴黎伯爵与纽斯特里亚侯爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Hugh_the_Great",
+        "note": "Succeeded his father Robert I, who died at Soissons in 923; the exact dates are approximate."
+      },
+      {
+        "year": 923,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "king",
+          "dynasty"
+        ],
+        "weight": 76,
+        "label": "Declined the Frankish crown",
+        "labelCn": "拒绝法兰克王位",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Hugh_the_Great",
+        "note": "After Robert I's death the crown passed to his brother-in-law Rudolph instead of Hugh."
+      },
+      {
+        "year": 936,
+        "type": "diplomacy",
+        "tags": [
+          "diplomacy",
+          "king",
+          "regency"
+        ],
+        "weight": 88,
+        "label": "Restored Louis IV from England",
+        "labelCn": "迎路易四世自英格兰归国为王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Louis_IV_of_France",
+        "note": "Took a very active part in bringing Louis IV (d'Outremer) back from the Kingdom of England in 936."
+      },
+      {
+        "year": 936,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "duke",
+          "government"
+        ],
+        "weight": 82,
+        "label": "Duke of the Franks",
+        "labelCn": "受封法兰克公爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Hugh_the_Great"
+      },
+      {
+        "year": 937,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 78,
+        "label": "Marriage to Hedwig of Saxony",
+        "labelCn": "与萨克森的哈德维希成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Hedwige_of_Saxony",
+        "note": "Daughter of Henry the Fowler; mother of his five children, including Hugh Capet."
+      },
+      {
+        "year": 948,
+        "type": "religion",
+        "tags": [
+          "religion",
+          "church",
+          "duke"
+        ],
+        "weight": 70,
+        "label": "Excommunicated at the Council of Ingelheim",
+        "labelCn": "在英格尔海姆会议上被处以绝罚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Hugh_the_Great",
+        "note": "Excommunicated in absentia at the Council of Ingelheim over his conflicts with Louis IV."
+      },
+      {
+        "year": 953,
+        "type": "diplomacy",
+        "tags": [
+          "diplomacy",
+          "religion",
+          "treaty"
+        ],
+        "weight": 72,
+        "label": "Peace with Louis IV",
+        "labelCn": "与路易四世修和",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Hugh_the_Great",
+        "note": "Made peace with the king and the church."
+      },
+      {
+        "year": 954,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "territory",
+          "duke",
+          "government"
+        ],
+        "weight": 84,
+        "label": "Invested with Burgundy and Aquitaine",
+        "labelCn": "受封勃艮第与阿基坦",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Hugh_the_Great",
+        "note": "After Louis IV's death he backed Lothair's coronation and was invested with the two duchies; by April 956 he was master of Burgundy."
+      },
+      {
+        "year": 956,
+        "month": 6,
+        "day": 16,
+        "type": "death",
+        "tags": [
+          "death",
+          "duke",
+          "noble"
+        ],
+        "weight": 95,
+        "label": "Death at Dourdan",
+        "labelCn": "在杜尔当去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Hugh_the_Great",
+        "note": "16 or 17 June 956; buried at the Basilica of Saint-Denis."
+      }
+    ],
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died of natural causes at Dourdan",
+      "detail": "Hugh died at Dourdan on 16 June (some sources say 17 June) 956, at the height of his power, about two months after becoming master of Burgundy. No violent or suspicious cause is recorded.",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Hugh_the_Great",
+      "summaryCn": "在杜尔当自然死亡",
+      "detailCn": "956 年 6 月 16 日（一说 17 日）大于格在杜尔当去世，时值其权力巅峰，距其成为勃艮第实际主宰仅两个月左右。史料未载暴力或可疑死因。"
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Hugh_the_Great",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Hugh_the_Great",
+    "sourceNote": "Father of Hugh Capet; son of Robert I of France and Béatrice of Vermandois.",
+    "notes": "The maternal link to Béatrice opens the documented Vermandois-Carolingian descent. Duke of the Franks and the most powerful magnate of West Francia; father of Hugh Capet, founder of the Capetian dynasty.",
+    "createdDate": "20260816",
+    "createdOrder": 37,
+    "displayNameCn": "大于格",
+    "fullNameCn": "法兰克公爵大于格",
+    "nicknameCn": "大者",
+    "historicalRating": 7
+  },
+  {
+    "id": "6bec1a5d-e19f-43eb-a2c6-b8f6d223a9a5",
+    "firstName": "Odo",
+    "lastName": "",
+    "displayName": "Odo of Paris",
+    "fullName": "Odo of Paris",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Odo of Paris",
+      "Eudes of France"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "巴黎的厄德",
+    "fullNameCn": "巴黎的厄德",
+    "birthYear": 857,
+    "deathYear": 898,
+    "birthPlace": "",
+    "deathPlace": "La Fère, West Francia",
+    "deathPlaceCn": "西法兰克拉费尔",
+    "gender": "male",
+    "dynasty": "Robertian dynasty",
+    "house": "Robertian dynasty",
+    "culture": "Frankish",
+    "faith": "Catholic",
+    "primaryTitle": "King of West Francia",
+    "primaryTitleCn": "西法兰克国王",
+    "titles": [
+      {
+        "title": "Count of Paris",
+        "startYear": 882,
+        "endYear": 888,
+        "titleCn": "巴黎伯爵"
+      },
+      {
+        "title": "King of West Francia",
+        "startYear": 888,
+        "endYear": 898,
+        "titleCn": "西法兰克国王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 62,
+    "relationships": {
+      "fatherId": "dd399b70-7bdf-4583-8c5d-a8db2b8b9bdc",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Odo_of_France",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Odo_of_France",
+    "sourceNote": "Robertian; son of Robert the Strong (not in roster) and elder brother of Robert I of France. Birth year is uncertain (traditionally c. 857).",
+    "notes": "Count of Paris of the Robertian dynasty; celebrated for the defence of Paris against the Vikings, he was elected king of West Francia in 888 — the first non-Carolingian to hold it.",
+    "historicalRating": 6,
+    "createdDate": "20260818",
+    "createdOrder": 18,
+    "events": [
+      {
+        "year": 857,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 60,
+        "label": "Born, son of Robert the Strong",
+        "labelCn": "出生，强者罗贝尔之子",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Odo_of_France",
+        "note": "Birth year uncertain, traditionally c. 857."
+      },
+      {
+        "year": 885,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "defense",
+          "main_commander"
+        ],
+        "weight": 84,
+        "label": "Defence of Paris against the Vikings",
+        "labelCn": "保卫巴黎抵御维京人",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Siege_of_Paris_(885%E2%80%93886)"
+      },
+      {
+        "year": 888,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Elected King of West Francia",
+        "labelCn": "当选西法兰克国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Odo_of_France"
+      },
+      {
+        "year": 898,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 92,
+        "label": "Died at La Fère",
+        "labelCn": "在拉费尔去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Odo_of_France"
+      }
+    ],
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died of illness at La Fère",
+      "summaryCn": "在拉费尔因病去世",
+      "detail": "Odo of Paris died in 898 at La Fère after a winter campaign; the cause is usually given as illness.",
+      "detailCn": "898 年，巴黎的厄德在一次冬季战事后于拉费尔去世，通常记为因病而亡。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Odo_of_France"
+    }
+  },
+  {
+    "id": "1894e7be-c18e-4182-9bca-927c9cbfa333",
+    "firstName": "Robert",
+    "lastName": "",
+    "displayName": "Robert I of France",
+    "fullName": "Robert I of France",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Robert I",
+      "Robert I of France"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "法兰西的罗贝尔一世",
+    "fullNameCn": "法兰西的罗贝尔一世",
+    "birthYear": 866,
+    "deathYear": 923,
+    "birthPlace": "",
+    "deathPlace": "Soissons, West Francia",
+    "deathPlaceCn": "西法兰克苏瓦松",
+    "gender": "male",
+    "dynasty": "Robertian dynasty",
+    "house": "Robertian dynasty",
+    "culture": "Frankish",
+    "faith": "Catholic",
+    "primaryTitle": "King of West Francia",
+    "primaryTitleCn": "西法兰克国王",
+    "titles": [
+      {
+        "title": "Count of Paris",
+        "startYear": 898,
+        "endYear": 922,
+        "titleCn": "巴黎伯爵"
+      },
+      {
+        "title": "King of West Francia",
+        "startYear": 922,
+        "endYear": 923,
+        "titleCn": "西法兰克国王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 62,
+    "relationships": {
+      "fatherId": "dd399b70-7bdf-4583-8c5d-a8db2b8b9bdc",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "ea16a35b-9d3b-44c8-b8c3-72598e0e4362"
+      ]
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Robert_I_of_France",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Robert_I_of_France",
+    "sourceNote": "Robertian; son of Robert the Strong (not in roster) and younger brother of Odo of Paris. Father of Hugh the Great (in roster). Birth year is uncertain (traditionally c. 866).",
+    "notes": "Younger brother of Odo of Paris; elected king of West Francia in 922 in opposition to Charles the Simple, and killed the following year at Soissons. Father of Hugh the Great.",
+    "historicalRating": 6,
+    "createdDate": "20260818",
+    "createdOrder": 19,
+    "events": [
+      {
+        "year": 866,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 60,
+        "label": "Born, son of Robert the Strong",
+        "labelCn": "出生，强者罗贝尔之子",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Robert_I_of_France",
+        "note": "Birth year uncertain, traditionally c. 866."
+      },
+      {
+        "year": 922,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "monarch"
+        ],
+        "weight": 78,
+        "label": "Elected King of West Francia",
+        "labelCn": "当选西法兰克国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Robert_I_of_France"
+      },
+      {
+        "year": 923,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "defeat",
+          "death"
+        ],
+        "weight": 90,
+        "label": "Killed at the Battle of Soissons",
+        "labelCn": "苏瓦松之战阵亡",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Soissons_(923)"
+      }
+    ],
+    "deathCause": {
+      "kind": "violent",
+      "summary": "Killed at the Battle of Soissons",
+      "summaryCn": "苏瓦松之战阵亡",
+      "detail": "Robert I was killed in 923 at the Battle of Soissons, fighting against the forces of Charles the Simple.",
+      "detailCn": "923 年，罗贝尔一世在苏瓦松之战中与天真者查理的军队交战时阵亡。",
+      "culprit": "Forces of Charles the Simple",
+      "culpritCn": "天真者查理的军队",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Robert_I_of_France"
+    }
+  },
+  {
+    "id": "dd399b70-7bdf-4583-8c5d-a8db2b8b9bdc",
+    "firstName": "Robert",
+    "lastName": "",
+    "displayName": "Robert the Strong",
+    "fullName": "Robert the Strong",
+    "nickname": "the Strong",
+    "alsoKnownAs": [
+      "Robert the Strong",
+      "Robert le Fort"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "强者罗贝尔",
+    "fullNameCn": "强者罗贝尔",
+    "nicknameCn": "强者",
+    "birthYear": 830,
+    "deathYear": 866,
+    "birthPlace": "",
+    "deathPlace": "Brissarthe, West Francia",
+    "deathPlaceCn": "西法兰克布里萨尔泰",
+    "gender": "male",
+    "dynasty": "Robertian dynasty",
+    "house": "Robertian dynasty",
+    "culture": "Frankish",
+    "faith": "Catholic",
+    "primaryTitle": "Marquis of Neustria",
+    "primaryTitleCn": "纽斯特里亚侯爵",
+    "titles": [
+      {
+        "title": "Count of Anjou",
+        "startYear": 853,
+        "endYear": 866,
+        "titleCn": "安茹伯爵"
+      },
+      {
+        "title": "Marquis of Neustria",
+        "startYear": 861,
+        "endYear": 866,
+        "titleCn": "纽斯特里亚侯爵"
+      }
+    ],
+    "tags": [
+      "noble"
+    ],
+    "rank": "noble",
+    "importanceScore": 60,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "6bec1a5d-e19f-43eb-a2c6-b8f6d223a9a5",
+        "1894e7be-c18e-4182-9bca-927c9cbfa333"
+      ]
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Robert_the_Strong",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Robert_the_Strong",
+    "sourceNote": "Wife Adelaide of Tours and father Robert III of Worms are not yet in the roster. Birth year is uncertain (traditionally c. 830).",
+    "notes": "Founder of the Robertian line and Marquis of Neustria, the most powerful Frankish magnate of his day. Ancestor of the Capetian kings through his sons Odo and Robert I.",
+    "historicalRating": 6,
+    "createdDate": "20260818",
+    "createdOrder": 21,
+    "deathCause": {
+      "kind": "violent",
+      "summary": "Killed at Brissarthe",
+      "summaryCn": "在布里萨尔泰阵亡",
+      "detail": "Robert the Strong was killed on 15 September 866 at the Battle of Brissarthe while fighting a Viking raid.",
+      "detailCn": "866 年 9 月 15 日，强者罗贝尔在布里萨尔泰之战中抗击维京人时阵亡。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Robert_the_Strong"
+    },
+    "events": [
+      {
+        "year": 830,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 60,
+        "label": "Born, of the Robertian family",
+        "labelCn": "出生，罗贝尔家族",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Robert_the_Strong",
+        "note": "Birth year uncertain, traditionally c. 830."
+      },
+      {
+        "year": 861,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "noble"
+        ],
+        "weight": 74,
+        "label": "Made Marquis of Neustria",
+        "labelCn": "受封纽斯特里亚侯爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Robert_the_Strong"
+      },
+      {
+        "year": 866,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "defense",
+          "death"
+        ],
+        "weight": 90,
+        "label": "Killed at the Battle of Brissarthe",
+        "labelCn": "布里萨尔泰之战阵亡",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Robert_the_Strong"
+      }
+    ]
+  }
+]

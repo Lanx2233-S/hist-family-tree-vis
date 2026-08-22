@@ -1,0 +1,788 @@
+[
+  {
+    "id": "8da6a92d-40c5-47c0-8c42-9858db5cf61d",
+    "firstName": "Stephen",
+    "lastName": "Blois",
+    "displayName": "Stephen",
+    "fullName": "Stephen, King of England",
+    "displayNameCn": "斯蒂芬",
+    "fullNameCn": "英格兰国王斯蒂芬",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [
+      "Stephen of Blois"
+    ],
+    "nicknameTags": [],
+    "birthYear": 1092,
+    "deathYear": 1154,
+    "birthPlace": "Blois, France",
+    "deathPlace": "Dover, England",
+    "birthPlaceCn": "法国布卢瓦",
+    "deathPlaceCn": "英格兰多佛",
+    "gender": "male",
+    "dynasty": "Blois dynasty",
+    "house": "House of Blois",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "King of England",
+    "primaryTitleCn": "英格兰国王",
+    "titles": [
+      {
+        "title": "King of England",
+        "titleCn": "英格兰国王",
+        "startYear": 1135,
+        "endYear": 1154
+      }
+    ],
+    "tags": [
+      "monarch",
+      "noble"
+    ],
+    "rank": "king",
+    "importanceScore": 78,
+    "historicalRating": 7,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1092,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Stephen,_King_of_England"
+      },
+      {
+        "year": 1135,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Began rule as King of England",
+        "labelCn": "开始担任英格兰国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Stephen,_King_of_England"
+      },
+      {
+        "year": 1154,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Stephen,_King_of_England"
+      },
+      {
+        "year": 1141,
+        "month": 2,
+        "day": 2,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "defeat",
+          "imprisonment"
+        ],
+        "weight": 92,
+        "label": "Captured at the Battle of Lincoln",
+        "labelCn": "在林肯战役中被俘",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Lincoln_(1141)",
+        "note": "Defeated and imprisoned by the forces of Empress Matilda."
+      },
+      {
+        "year": 1153,
+        "type": "treaty",
+        "tags": [
+          "treaty",
+          "succession"
+        ],
+        "weight": 85,
+        "label": "Treaty of Wallingford",
+        "labelCn": "《沃灵福德条约》",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Treaty_of_Wallingford",
+        "note": "Recognized Henry of Anjou as his heir, bringing the Anarchy to a close."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Stephen,_King_of_England",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Stephen,_King_of_England",
+    "sourceNote": "King during the Anarchy; succeeded by Henry II under the Treaty of Wallingford. Core timeline generated from recorded lifespan and titles on 2026-08-20.",
+    "notes": "Basic main-line succession card. His parent generation is outside the current roster.",
+    "createdDate": "20260817",
+    "createdOrder": 46,
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died of stomach illness at Dover",
+      "summaryCn": "在多佛尔因胃疾去世",
+      "detail": "Stephen died in 1154 at Dover, reportedly of a stomach complaint, and was succeeded by Henry II under the Treaty of Wallingford.",
+      "detailCn": "1154 年，斯蒂芬在多佛尔因胃疾去世，依《沃灵福德条约》由亨利二世继位。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Stephen,_King_of_England"
+    }
+  },
+  {
+    "id": "c7010000-0000-4000-8000-000000000001",
+    "firstName": "Stephen I of Troyes",
+    "lastName": "Champagne",
+    "displayName": "Stephen I of Troyes",
+    "fullName": "Stephen I, Count of Troyes",
+    "displayNameCn": "斯蒂芬一世（特鲁瓦）",
+    "fullNameCn": "特鲁瓦伯爵斯蒂芬一世",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 970,
+    "deathYear": 1022,
+    "birthPlace": "County of Champagne",
+    "birthPlaceCn": "香槟伯国",
+    "deathPlace": "France",
+    "deathPlaceCn": "法兰西",
+    "gender": "male",
+    "dynasty": "Blois dynasty",
+    "house": "House of Blois",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Troyes",
+    "primaryTitleCn": "特鲁瓦伯爵",
+    "titles": [
+      {
+        "title": "Count of Troyes",
+        "titleCn": "特鲁瓦伯爵",
+        "startYear": 995,
+        "endYear": 1022
+      }
+    ],
+    "tags": [
+      "count",
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 70,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 995,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 72,
+        "label": "Succeeded as Count of Troyes",
+        "labelCn": "继承特鲁瓦伯爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Champagne"
+      },
+      {
+        "year": 1022,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 60,
+        "label": "Died",
+        "labelCn": "去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Champagne"
+      },
+      {
+        "year": 1022,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "dynasty"
+        ],
+        "weight": 65,
+        "label": "Died without heirs; Troyes and Meaux passed to Odo II of Blois",
+        "labelCn": "无嗣而终，特鲁瓦与莫城转归布卢瓦的厄德二世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Stephen_I,_Count_of_Troyes",
+        "note": "Last of his line in Troyes; the counties passed to his cousin Odo II of Blois, bringing Troyes and Meaux into the Blois orbit."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Champagne",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Count_of_Champagne",
+    "sourceNote": "Wikipedia (Stephen I, Count of Troyes), used for navigation.",
+    "notes": "Count of Troyes and Meaux (995–c.1022) whose death without heirs passed both counties to his cousin Odo II of Blois, the transfer that anchored the future Blois-Champagne comital complex.",
+    "createdDate": "20260821",
+    "createdOrder": 2
+  },
+  {
+    "id": "c7020000-0000-4000-8000-000000000002",
+    "firstName": "Odo I of Meaux",
+    "lastName": "Champagne",
+    "displayName": "Odo I of Meaux",
+    "fullName": "Odo I, Count of Meaux and Troyes",
+    "displayNameCn": "厄德一世（莫城与特鲁瓦）",
+    "fullNameCn": "莫城与特鲁瓦伯爵厄德一世",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 997,
+    "deathYear": 1037,
+    "birthPlace": "County of Champagne",
+    "birthPlaceCn": "香槟伯国",
+    "deathPlace": "France",
+    "deathPlaceCn": "法兰西",
+    "gender": "male",
+    "dynasty": "Blois dynasty",
+    "house": "House of Blois",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Meaux and Troyes",
+    "primaryTitleCn": "莫城与特鲁瓦伯爵",
+    "titles": [
+      {
+        "title": "Count of Meaux and Troyes",
+        "titleCn": "莫城与特鲁瓦伯爵",
+        "startYear": 1022,
+        "endYear": 1037
+      }
+    ],
+    "tags": [
+      "count",
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 70,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1022,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 72,
+        "label": "Succeeded as Count of Meaux and Troyes",
+        "labelCn": "继承莫城与特鲁瓦伯爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Champagne"
+      },
+      {
+        "year": 1037,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 60,
+        "label": "Died",
+        "labelCn": "去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Champagne"
+      },
+      {
+        "year": 1037,
+        "month": 11,
+        "day": 15,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "death",
+          "defeat"
+        ],
+        "weight": 90,
+        "label": "Killed at the Battle of Bar-le-Duc",
+        "labelCn": "巴勒迪克之战中阵亡",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Bar-le-Duc",
+        "note": "Invaded Lorraine while Emperor Conrad II was in Italy; defeated and killed by Duke Gothelo I, ending his Burgundian ambitions."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Champagne",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Count_of_Champagne",
+    "sourceNote": "Wikipedia (Odo II, Count of Blois; Battle of Bar-le-Duc), used for navigation.",
+    "notes": "Count of Blois, Chartres, Meaux and Troyes (1022–1037), who added Troyes and Meaux to the Blois inheritance and repeatedly contested the crown of Burgundy. He was killed at Bar-le-Duc (15 Nov 1037) fighting Duke Gothelo I of Lorraine.",
+    "createdDate": "20260821",
+    "createdOrder": 3
+  },
+  {
+    "id": "c7030000-0000-4000-8000-000000000003",
+    "firstName": "Stephen II of Meaux",
+    "lastName": "Champagne",
+    "displayName": "Stephen II of Meaux",
+    "fullName": "Stephen II, Count of Meaux",
+    "displayNameCn": "斯蒂芬二世（莫城）",
+    "fullNameCn": "莫城伯爵斯蒂芬二世",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1012,
+    "deathYear": 1048,
+    "birthPlace": "County of Champagne",
+    "birthPlaceCn": "香槟伯国",
+    "deathPlace": "France",
+    "deathPlaceCn": "法兰西",
+    "gender": "male",
+    "dynasty": "Blois dynasty",
+    "house": "House of Blois",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Meaux",
+    "primaryTitleCn": "莫城伯爵",
+    "titles": [
+      {
+        "title": "Count of Meaux",
+        "titleCn": "莫城伯爵",
+        "startYear": 1037,
+        "endYear": 1048
+      }
+    ],
+    "tags": [
+      "count",
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 70,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1037,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 72,
+        "label": "Succeeded as Count of Meaux",
+        "labelCn": "继承莫城伯爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Champagne"
+      },
+      {
+        "year": 1048,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 60,
+        "label": "Died",
+        "labelCn": "去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Champagne"
+      },
+      {
+        "year": "",
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "uncertain"
+        ],
+        "weight": 60,
+        "label": "Married Adèle",
+        "labelCn": "娶阿黛勒",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Stephen_II_of_Troyes",
+        "note": "Wife Adèle (sometimes identified as Adèle of Vexin); the date is unrecorded. Their son Odo II of Troyes later married Adelaide of Normandy."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Champagne",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Count_of_Champagne",
+    "sourceNote": "Wikipedia (Stephen II of Troyes), used for navigation.",
+    "notes": "Count of Troyes and Meaux (1037–1047), son of Odo II of Blois. His short rule is poorly documented; his son Odo (Eudes) II carried the line into Normandy through his marriage to Adelaide of Normandy.",
+    "createdDate": "20260821",
+    "createdOrder": 4
+  },
+  {
+    "id": "c7040000-0000-4000-8000-000000000004",
+    "firstName": "Odo II of Troyes",
+    "lastName": "Champagne",
+    "displayName": "Odo II of Troyes",
+    "fullName": "Odo II, Count of Troyes",
+    "displayNameCn": "厄德二世（特鲁瓦）",
+    "fullNameCn": "特鲁瓦伯爵厄德二世",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1023,
+    "deathYear": 1066,
+    "birthPlace": "County of Champagne",
+    "birthPlaceCn": "香槟伯国",
+    "deathPlace": "France",
+    "deathPlaceCn": "法兰西",
+    "gender": "male",
+    "dynasty": "Blois dynasty",
+    "house": "House of Blois",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Troyes",
+    "primaryTitleCn": "特鲁瓦伯爵",
+    "titles": [
+      {
+        "title": "Count of Troyes",
+        "titleCn": "特鲁瓦伯爵",
+        "startYear": 1048,
+        "endYear": 1066
+      }
+    ],
+    "tags": [
+      "count",
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 70,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1048,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 72,
+        "label": "Succeeded as Count of Troyes",
+        "labelCn": "继承特鲁瓦伯爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Champagne"
+      },
+      {
+        "year": 1066,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 60,
+        "label": "Died",
+        "labelCn": "去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Champagne"
+      },
+      {
+        "year": 1060,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 76,
+        "label": "Married Adelaide of Normandy",
+        "labelCn": "迎娶诺曼底的阿德莱德",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Odo,_Count_of_Champagne",
+        "note": "Sister of William the Conqueror; through her he gained the county of Aumale, and he later fought beside William in the conquest of England (1066)."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Champagne",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Count_of_Champagne",
+    "sourceNote": "Wikipedia (Odo, Count of Champagne), used for navigation.",
+    "notes": "Count of Troyes and Meaux (1047–1066) who, through his marriage to Adelaide of Normandy, gained the Norman county of Aumale and took part in the Norman conquest of England in 1066.",
+    "createdDate": "20260821",
+    "createdOrder": 5
+  },
+  {
+    "id": "c7050000-0000-4000-8000-000000000005",
+    "firstName": "Theobald I of Champagne",
+    "lastName": "Champagne",
+    "displayName": "Theobald I of Champagne",
+    "fullName": "Theobald I, Count of Champagne",
+    "displayNameCn": "蒂博一世（香槟）",
+    "fullNameCn": "香槟伯爵蒂博一世",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1041,
+    "deathYear": 1089,
+    "birthPlace": "County of Champagne",
+    "birthPlaceCn": "香槟伯国",
+    "deathPlace": "France",
+    "deathPlaceCn": "法兰西",
+    "gender": "male",
+    "dynasty": "Blois dynasty",
+    "house": "House of Blois",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Champagne",
+    "primaryTitleCn": "香槟伯爵",
+    "titles": [
+      {
+        "title": "Count of Champagne",
+        "titleCn": "香槟伯爵",
+        "startYear": 1066,
+        "endYear": 1089
+      }
+    ],
+    "tags": [
+      "count",
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 70,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1066,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 72,
+        "label": "Succeeded as Count of Champagne",
+        "labelCn": "继承香槟伯爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Champagne"
+      },
+      {
+        "year": 1089,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 60,
+        "label": "Died",
+        "labelCn": "去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Champagne"
+      },
+      {
+        "year": 1060,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance",
+          "uncertain"
+        ],
+        "weight": 72,
+        "label": "Married Adela of Valois",
+        "labelCn": "迎娶瓦卢瓦的阿德拉",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Theobald_III,_Count_of_Blois",
+        "note": "Married before 1061; daughter of Raoul IV of Valois and mother of Hugh of Champagne."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Champagne",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Count_of_Champagne",
+    "sourceNote": "Wikipedia (Theobald III, Count of Blois), used for navigation.",
+    "notes": "Count of Blois and Troyes (d. 1089), usually counted as Theobald III of Blois, who consolidated the Blois-Champagne comital complex. His marriage to Adela of Valois produced Hugh of Champagne.",
+    "createdDate": "20260821",
+    "createdOrder": 6
+  },
+  {
+    "id": "c7060000-0000-4000-8000-000000000006",
+    "firstName": "Stephen-Henry of Blois",
+    "lastName": "Champagne",
+    "displayName": "Stephen-Henry of Blois",
+    "fullName": "Stephen-Henry, Count of Blois and Chartres",
+    "displayNameCn": "斯蒂芬·亨利（布卢瓦）",
+    "fullNameCn": "布卢瓦与沙特尔伯爵斯蒂芬·亨利",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1064,
+    "deathYear": 1102,
+    "birthPlace": "County of Champagne",
+    "birthPlaceCn": "香槟伯国",
+    "deathPlace": "France",
+    "deathPlaceCn": "法兰西",
+    "gender": "male",
+    "dynasty": "Blois dynasty",
+    "house": "House of Blois",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Blois and Chartres",
+    "primaryTitleCn": "布卢瓦与沙特尔伯爵",
+    "titles": [
+      {
+        "title": "Count of Blois and Chartres",
+        "titleCn": "布卢瓦与沙特尔伯爵",
+        "startYear": 1089,
+        "endYear": 1102
+      }
+    ],
+    "tags": [
+      "count",
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 70,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1089,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 72,
+        "label": "Succeeded as Count of Blois and Chartres",
+        "labelCn": "继承布卢瓦与沙特尔伯爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Champagne"
+      },
+      {
+        "year": 1102,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 60,
+        "label": "Died",
+        "labelCn": "去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Champagne"
+      },
+      {
+        "year": 1080,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance",
+          "uncertain"
+        ],
+        "weight": 78,
+        "label": "Married Adela of Normandy",
+        "labelCn": "迎娶诺曼底的阿德拉",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Stephen,_Count_of_Blois",
+        "note": "Daughter of William the Conqueror; their son Stephen later became King of England."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Champagne",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Count_of_Champagne",
+    "sourceNote": "Wikipedia (Stephen, Count of Blois), used for navigation.",
+    "notes": "Count of Blois and Chartres (1089–1102), a leader of the First Crusade who later returned and was killed at the Second Battle of Ramla (1102). His marriage to Adela of Normandy made him a son-in-law of William the Conqueror and father of King Stephen of England.",
+    "createdDate": "20260821",
+    "createdOrder": 7
+  },
+  {
+    "id": "c7070000-0000-4000-8000-000000000007",
+    "firstName": "Hugh of Champagne",
+    "lastName": "Champagne",
+    "displayName": "Hugh of Champagne",
+    "fullName": "Hugh, Count of Troyes",
+    "displayNameCn": "于格（特鲁瓦）",
+    "fullNameCn": "特鲁瓦伯爵于格",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1077,
+    "deathYear": 1125,
+    "birthPlace": "County of Champagne",
+    "birthPlaceCn": "香槟伯国",
+    "deathPlace": "France",
+    "deathPlaceCn": "法兰西",
+    "gender": "male",
+    "dynasty": "Blois dynasty",
+    "house": "House of Blois",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Troyes",
+    "primaryTitleCn": "特鲁瓦伯爵",
+    "titles": [
+      {
+        "title": "Count of Troyes",
+        "titleCn": "特鲁瓦伯爵",
+        "startYear": 1102,
+        "endYear": 1125
+      }
+    ],
+    "tags": [
+      "count",
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 70,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1102,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 72,
+        "label": "Succeeded as Count of Troyes",
+        "labelCn": "继承特鲁瓦伯爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Champagne"
+      },
+      {
+        "year": 1125,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 60,
+        "label": "Died",
+        "labelCn": "去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Champagne"
+      },
+      {
+        "year": 1125,
+        "type": "abdication",
+        "tags": [
+          "religion",
+          "faith"
+        ],
+        "weight": 76,
+        "label": "Abdicated to join the Knights Templar",
+        "labelCn": "退位加入圣殿骑士团",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Hugh,_Count_of_Champagne",
+        "note": "Renounced his lands to his nephew Theobald II and went to Jerusalem, becoming one of the earliest members of the Templar order."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Champagne",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Count_of_Champagne",
+    "sourceNote": "Wikipedia (Hugh, Count of Champagne), used for navigation.",
+    "notes": "First to unite the county of Champagne; he abdicated in 1125 to join the Knights Templar in Jerusalem, leaving Champagne to his nephew Theobald II.",
+    "createdDate": "20260821",
+    "createdOrder": 8
+  }
+]

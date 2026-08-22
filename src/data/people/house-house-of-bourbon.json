@@ -1,0 +1,83 @@
+[
+  {
+    "id": "0a4d4bdc-13c6-4f01-81bf-8e049c4bddca",
+    "firstName": "Joanna",
+    "lastName": "",
+    "displayName": "Joanna of Bourbon",
+    "fullName": "Joanna of Bourbon",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "波旁的让娜",
+    "fullNameCn": "波旁的让娜",
+    "nicknameCn": "",
+    "birthYear": 1338,
+    "deathYear": 1378,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "female",
+    "dynasty": "Capetian dynasty",
+    "house": "House of Bourbon",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Queen of France",
+    "primaryTitleCn": "法兰西王后",
+    "titles": [
+      {
+        "title": "Queen of France",
+        "startYear": "",
+        "endYear": 1378,
+        "titleCn": "法兰西王后"
+      }
+    ],
+    "tags": [
+      "queen",
+      "consort"
+    ],
+    "rank": "queen",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "04c2ad7c-d296-4338-af7c-05fd1d730cfe"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "084fdbfa-b040-4629-98f4-5af678d317db"
+      ]
+    },
+    "events": [
+      {
+        "year": 1338,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Joanna_of_Bourbon"
+      },
+      {
+        "year": 1378,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Joanna_of_Bourbon"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Joanna_of_Bourbon",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Joanna_of_Bourbon",
+    "sourceNote": "Basic queen-consort card; relationship links synchronized with the French royal line.",
+    "notes": "Queen consort in the French royal succession.",
+    "createdDate": "20260820",
+    "createdOrder": 56
+  }
+]

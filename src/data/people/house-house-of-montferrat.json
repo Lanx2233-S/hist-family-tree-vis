@@ -1,0 +1,318 @@
+[
+  {
+    "id": "c9500000-0000-4000-8000-000000000000",
+    "firstName": "William",
+    "lastName": "of Jerusalem",
+    "displayName": "William of Montferrat",
+    "fullName": "William of Montferrat, Count of Jaffa and Ascalon",
+    "displayNameCn": "蒙费拉托的威廉",
+    "fullNameCn": "雅法与阿斯卡隆伯爵蒙费拉托的威廉",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1136,
+    "deathYear": 1177,
+    "birthPlace": "Latin East",
+    "birthPlaceCn": "拉丁东方",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "House of Montferrat",
+    "house": "House of Montferrat",
+    "culture": "Frankish",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Jaffa and Ascalon",
+    "primaryTitleCn": "雅法与阿斯卡隆伯爵",
+    "titles": [
+      {
+        "title": "Count of Jaffa and Ascalon",
+        "titleCn": "雅法与阿斯卡隆伯爵",
+        "startYear": "",
+        "endYear": 1177
+      }
+    ],
+    "tags": [
+      "noble",
+      "commander"
+    ],
+    "rank": "count",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "c9640000-0000-4000-8000-000000000000",
+      "motherId": "c9650000-0000-4000-8000-000000000000",
+      "spouseIds": [
+        "c9450000-0000-4000-8000-000000000041"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "c9520000-0000-4000-8000-000000000000"
+      ]
+    },
+    "events": [
+      {
+        "year": 1176,
+        "month": 11,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 78,
+        "label": "Married Sibylla of Jerusalem",
+        "labelCn": "与耶路撒冷的西比拉成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/William_of_Montferrat,_Count_of_Jaffa_and_Ascalon",
+        "note": "Eldest son of William V of Montferrat; married Sibylla, sister of King Baldwin IV, in November 1176."
+      },
+      {
+        "year": 1176,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "noble"
+        ],
+        "weight": 72,
+        "label": "Created Count of Jaffa and Ascalon",
+        "labelCn": "受封为雅法与阿斯卡隆伯爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/William_of_Montferrat,_Count_of_Jaffa_and_Ascalon",
+        "note": "Received the county of Jaffa and Ascalon from Baldwin IV."
+      },
+      {
+        "year": 1177,
+        "month": 6,
+        "type": "death",
+        "tags": [
+          "death",
+          "noble"
+        ],
+        "weight": 72,
+        "label": "Death",
+        "labelCn": "去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/William_of_Montferrat,_Count_of_Jaffa_and_Ascalon",
+        "note": "Died in June 1177, probably of malaria, leaving a posthumous son, the future Baldwin V."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Fulk_V,_Count_of_Anjou",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Fulk_V,_Count_of_Anjou",
+    "sourceNote": "Basic family card for the Kingdom of Jerusalem lineage.",
+    "notes": "Added for the Jerusalem title lineage.",
+    "createdDate": "20260822",
+    "createdOrder": 58
+  },
+  {
+    "id": "c9560000-0000-4000-8000-000000000000",
+    "firstName": "Conrad",
+    "lastName": "of Jerusalem",
+    "displayName": "Conrad of Montferrat",
+    "fullName": "Conrad of Montferrat, King of Jerusalem",
+    "displayNameCn": "蒙费拉托的康拉德",
+    "fullNameCn": "耶路撒冷国王蒙费拉托的康拉德",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1145,
+    "deathYear": 1192,
+    "birthPlace": "Latin East",
+    "birthPlaceCn": "拉丁东方",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "House of Montferrat",
+    "house": "House of Montferrat",
+    "culture": "Frankish",
+    "faith": "Catholic",
+    "primaryTitle": "King of Jerusalem",
+    "primaryTitleCn": "耶路撒冷国王",
+    "titles": [
+      {
+        "title": "King of Jerusalem",
+        "titleCn": "耶路撒冷国王",
+        "startYear": "",
+        "endYear": 1192
+      }
+    ],
+    "tags": [
+      "monarch",
+      "commander",
+      "noble"
+    ],
+    "rank": "king",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "c9640000-0000-4000-8000-000000000000",
+      "motherId": "c9650000-0000-4000-8000-000000000000",
+      "spouseIds": [
+        "c9720000-0000-4000-8000-000000000000",
+        "c9460000-0000-4000-8000-000000000042"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "c9590000-0000-4000-8000-000000000000"
+      ]
+    },
+    "events": [
+      {
+        "year": 1187,
+        "month": 7,
+        "type": "conquest",
+        "tags": [
+          "conquest",
+          "commander",
+          "crusade",
+          "main_commander"
+        ],
+        "weight": 94,
+        "label": "Defended Tyre against Saladin",
+        "labelCn": "抵御萨拉丁、守住提尔",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Siege_of_Tyre_(1187)",
+        "note": "Arriving after Hattin, Conrad rallied the defence of Tyre and repulsed Saladin, keeping the city as the last major Christian stronghold on the coast."
+      },
+      {
+        "year": 1190,
+        "month": 11,
+        "day": 24,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance",
+          "political_crisis"
+        ],
+        "weight": 78,
+        "label": "Married Isabella I of Jerusalem",
+        "labelCn": "与耶路撒冷的伊莎贝拉一世成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Conrad_of_Montferrat",
+        "note": "After Isabella's annulment from Humphrey IV, Conrad married her on 24 November 1190 and claimed the kingship in her right."
+      },
+      {
+        "year": 1192,
+        "month": 4,
+        "day": 28,
+        "type": "death",
+        "tags": [
+          "death",
+          "king",
+          "monarch",
+          "political_crisis"
+        ],
+        "weight": 90,
+        "label": "Assassinated at Tyre",
+        "labelCn": "在提尔遇刺身亡",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Conrad_of_Montferrat",
+        "note": "Elected king jure uxoris but assassinated by two Assassins in the streets of Tyre on 28 April 1192, days before his coronation."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Fulk_V,_Count_of_Anjou",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Fulk_V,_Count_of_Anjou",
+    "sourceNote": "Basic family card for the Kingdom of Jerusalem lineage.",
+    "notes": "Added for the Jerusalem title lineage.",
+    "createdDate": "20260822",
+    "createdOrder": 64
+  },
+  {
+    "id": "c9590000-0000-4000-8000-000000000000",
+    "firstName": "Maria",
+    "lastName": "of Jerusalem",
+    "displayName": "Maria of Montferrat",
+    "fullName": "Maria of Montferrat, Queen of Jerusalem",
+    "displayNameCn": "蒙费拉托的玛丽亚",
+    "fullNameCn": "耶路撒冷女王蒙费拉托的玛丽亚",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1192,
+    "deathYear": 1212,
+    "birthPlace": "Latin East",
+    "birthPlaceCn": "拉丁东方",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "female",
+    "dynasty": "House of Montferrat",
+    "house": "House of Montferrat",
+    "culture": "Frankish",
+    "faith": "Catholic",
+    "primaryTitle": "Queen of Jerusalem",
+    "primaryTitleCn": "耶路撒冷女王",
+    "titles": [
+      {
+        "title": "Queen of Jerusalem",
+        "titleCn": "耶路撒冷女王",
+        "startYear": "",
+        "endYear": 1212
+      }
+    ],
+    "tags": [
+      "monarch",
+      "queen",
+      "noble"
+    ],
+    "rank": "queen",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "c9560000-0000-4000-8000-000000000000",
+      "motherId": "c9460000-0000-4000-8000-000000000042",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "d69c4068-f30d-4515-b599-4e281bb7e60c"
+      ]
+    },
+    "events": [
+      {
+        "year": 1205,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "queen",
+          "monarch"
+        ],
+        "weight": 82,
+        "label": "Succeeded as Queen of Jerusalem",
+        "labelCn": "继位为耶路撒冷女王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Maria_of_Montferrat",
+        "note": "On her mother Isabella I's death in 1205, Maria succeeded as queen under the regency of her half-uncle John of Ibelin, lord of Beirut."
+      },
+      {
+        "year": 1210,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "queen",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Married John of Brienne",
+        "labelCn": "与布里耶讷的约翰成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Maria_of_Montferrat",
+        "note": "Her marriage to John of Brienne (14 September 1210) made him king of Jerusalem jure uxoris."
+      },
+      {
+        "year": 1212,
+        "type": "death",
+        "tags": [
+          "death",
+          "queen",
+          "monarch"
+        ],
+        "weight": 76,
+        "label": "Death after childbirth",
+        "labelCn": "产后去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Maria_of_Montferrat",
+        "note": "Died in 1212 shortly after the birth of her daughter and heiress Isabella II (Yolande)."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Fulk_V,_Count_of_Anjou",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Fulk_V,_Count_of_Anjou",
+    "sourceNote": "Basic family card for the Kingdom of Jerusalem lineage.",
+    "notes": "Added for the Jerusalem title lineage.",
+    "createdDate": "20260822",
+    "createdOrder": 67
+  }
+]

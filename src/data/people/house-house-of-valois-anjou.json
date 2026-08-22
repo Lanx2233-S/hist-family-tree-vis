@@ -1,0 +1,213 @@
+[
+  {
+    "id": "d2f6c728-92c2-49e8-98f0-8c9c78393a12",
+    "firstName": "Margaret",
+    "lastName": "",
+    "displayName": "Margaret of Anjou",
+    "fullName": "Margaret of Anjou",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Margaret of Anjou"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "安茹的玛格丽特",
+    "fullNameCn": "安茹的玛格丽特",
+    "birthYear": 1430,
+    "deathYear": 1482,
+    "birthPlace": "Pont-à-Mousson, Lorraine",
+    "birthPlaceCn": "洛林蓬塔穆松",
+    "deathPlace": "Dampierre-sur-Loire, France",
+    "deathPlaceCn": "法国当皮埃尔",
+    "gender": "female",
+    "dynasty": "Capetian dynasty",
+    "house": "House of Valois-Anjou",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Queen consort of England",
+    "primaryTitleCn": "英格兰王后",
+    "titles": [
+      {
+        "title": "Queen consort of England",
+        "startYear": 1445,
+        "endYear": 1471,
+        "titleCn": "英格兰王后"
+      }
+    ],
+    "tags": [
+      "queen",
+      "consort"
+    ],
+    "rank": "queen",
+    "importanceScore": 72,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "0a1a85b3-53e9-45fa-a90f-2b07d78191c4"
+      ],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Margaret_of_Anjou",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Margaret_of_Anjou",
+    "sourceNote": "Father René of Anjou and son Edward of Westminster are not yet in the roster.",
+    "notes": "Queen consort of Henry VI and a driving force of the Lancastrian cause in the Wars of the Roses. Her son Edward of Westminster died at Tewkesbury.",
+    "historicalRating": 7,
+    "createdDate": "20260818",
+    "createdOrder": 32,
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died in exile in France",
+      "summaryCn": "在法国流亡中去世",
+      "detail": "Margaret of Anjou died in 1482 at Dampierre-sur-Loire after years in exile following the Lancastrian defeat.",
+      "detailCn": "1482 年，兰开斯特败北后流亡多年的玛格丽特在当皮埃尔去世。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Margaret_of_Anjou"
+    },
+    "events": [
+      {
+        "year": 1430,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 60,
+        "label": "Born in Lorraine",
+        "labelCn": "出生于洛林",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Margaret_of_Anjou"
+      },
+      {
+        "year": 1445,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 80,
+        "label": "Married Henry VI of England",
+        "labelCn": "嫁给英格兰亨利六世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Margaret_of_Anjou"
+      },
+      {
+        "year": 1471,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "defeat"
+        ],
+        "weight": 82,
+        "label": "Lancastrian defeat at Tewkesbury",
+        "labelCn": "兰开斯特在蒂克斯伯里败北",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Tewkesbury",
+        "note": "Her son Edward of Westminster was killed."
+      },
+      {
+        "year": 1482,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 90,
+        "label": "Died in exile",
+        "labelCn": "流亡中去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Margaret_of_Anjou"
+      },
+      {
+        "year": 1461,
+        "month": 2,
+        "day": 17,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "war"
+        ],
+        "weight": 82,
+        "label": "Lancastrian victory at the Second Battle of St Albans",
+        "labelCn": "第二次圣奥尔本斯战役兰开斯特获胜",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Second_Battle_of_St_Albans",
+        "note": "Her army defeated the Earl of Warwick and recovered Henry VI."
+      }
+    ]
+  },
+  {
+    "id": "6f145993-e643-4673-b39f-80e8a3430f97",
+    "firstName": "Marie",
+    "lastName": "",
+    "displayName": "Marie of Anjou",
+    "fullName": "Marie of Anjou",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "安茹的玛丽",
+    "fullNameCn": "安茹的玛丽",
+    "nicknameCn": "",
+    "birthYear": 1404,
+    "deathYear": 1463,
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "female",
+    "dynasty": "Capetian dynasty",
+    "house": "House of Valois-Anjou",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Queen of France",
+    "primaryTitleCn": "法兰西王后",
+    "titles": [
+      {
+        "title": "Queen of France",
+        "startYear": "",
+        "endYear": 1463,
+        "titleCn": "法兰西王后"
+      }
+    ],
+    "tags": [
+      "queen",
+      "consort"
+    ],
+    "rank": "queen",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "4482439c-eae6-4ec6-885a-ac48721ec552"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "896ab071-dc40-43ec-b961-a1ca40574102"
+      ]
+    },
+    "events": [
+      {
+        "year": 1404,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Marie_of_Anjou"
+      },
+      {
+        "year": 1463,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Marie_of_Anjou"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Marie_of_Anjou",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Marie_of_Anjou",
+    "sourceNote": "Basic queen-consort card; relationship links synchronized with the French royal line.",
+    "notes": "Queen consort in the French royal succession.",
+    "createdDate": "20260820",
+    "createdOrder": 58
+  }
+]

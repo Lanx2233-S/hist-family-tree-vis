@@ -1,0 +1,53 @@
+[
+  {
+    "id": "de7af180-4027-4b64-a5c5-9c7c1ac271ae",
+    "firstName": "Nest",
+    "lastName": "",
+    "displayName": "Nest",
+    "fullName": "Nest",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Nesta"
+    ],
+    "nicknameTags": [],
+    "birthYear": "",
+    "deathYear": "",
+    "birthPlace": "",
+    "deathPlace": "",
+    "gender": "female",
+    "dynasty": "Dinefwr dynasty",
+    "house": "House of Dinefwr",
+    "culture": "Welsh",
+    "faith": "Catholic",
+    "primaryTitle": "Partner of Henry II",
+    "titles": [],
+    "tags": [
+      "partner"
+    ],
+    "rank": "untitled",
+    "importanceScore": 34,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [
+        "29e2abba-321e-4090-a35d-10f0bd6a420a"
+      ],
+      "childIds": [
+        "d3b4b5d0-b6ac-4319-831a-d186be9e3bc3"
+      ]
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Morgan_(bishop-elect_of_Durham)",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Morgan_(bishop-elect_of_Durham)",
+    "sourceNote": "",
+    "notes": "Blank MVP person card; probable mother of Morgan FitzRoy.",
+    "createdDate": "20260815",
+    "createdOrder": 45,
+    "displayNameCn": "内丝特",
+    "fullNameCn": "内丝特",
+    "primaryTitleCn": "亨利二世的伴侣",
+    "historicalRating": 3
+  }
+]

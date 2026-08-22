@@ -325,6 +325,22 @@ const cultureCnMap: Record<string, string> = {
   "Norman-Sicilian": "诺曼-西西里人",
   "Aragonese": "阿拉贡人",
   "Catalan": "加泰罗尼亚人",
+  "Rhenish Franconian": "莱茵法兰克人",
+  "Lotharingian-Frankish": "洛林-法兰克人",
+  "Swabian-German": "士瓦本-德意志人",
+  "Aquitanian-French": "阿基坦-法兰西人",
+  "Savoyard-Burgundian": "萨伏依-勃艮第人",
+  "Kyivan Rus'": "基辅罗斯人",
+  "German-Salian": "德意志-萨利安人",
+  "Swabian": "士瓦本人",
+  "Bavarian-German": "巴伐利亚-德意志人",
+  "Burgundian": "勃艮第人",
+  "Aragonese-Catalan": "阿拉贡-加泰罗尼亚人",
+  "Frankish Outremer": "法兰克海外领地人",
+  "Italian/Sicilian-Piedmontese": "意大利/西西里-皮埃蒙特人",
+  "Sicilian-German": "西西里-德意志人",
+  "Austrian-German": "奥地利-德意志人",
+  "Sicilian-German/Italo-Hohenstaufen": "西西里-德意志/意大利-霍亨斯陶芬人",
 };
 
 const faithCnMap: Record<string, string> = {
@@ -334,6 +350,8 @@ const faithCnMap: Record<string, string> = {
 };
 
 const dynastyCnMap: Record<string, string> = {
+  "Avesnes dynasty": "阿韦讷王朝",
+  "Baldwinid dynasty": "鲍德温王朝",
   "House of Normandy": "诺曼王朝",
   "House of Flanders": "佛兰德家族",
   "Salian dynasty": "萨利安王朝",
@@ -407,10 +425,31 @@ const dynastyCnMap: Record<string, string> = {
   "House of Vermandois": "韦芒杜瓦家族",
   "House of Welf": "韦尔夫家族",
   "House of Wittelsbach": "维特尔斯巴赫王朝",
+  "House of Wittelsbach-Straubing": "维特尔斯巴赫-施特劳宾支",
   "House of Woodville": "伍德维尔家族",
   "Ottonian dynasty": "奥托王朝",
   "Supplinburger dynasty": "苏普林堡王朝",
   "Unruoching dynasty": "翁鲁奥兴王朝",
+  "Matfriding": "马特弗里丁",
+  "Conradines": "康拉丁",
+  "Ramnulfids": "拉姆努尔夫",
+  "Savoy": "萨伏依",
+  "Rurikid": "留里克",
+  "Welf": "韦尔夫",
+  "Ivrea": "伊夫雷亚",
+  "Barcelona": "巴塞罗那",
+  "Brienne": "布里埃纳",
+  "Lancia": "兰恰",
+  "Babenberg": "巴本堡",
+  "Wittelsbach": "维特尔斯巴赫",
+  "Matfriding family of Metz": "梅斯的马特弗里丁家族",
+  "House of Conradines": "康拉丁家族",
+  "House of Savoy": "萨伏依家族",
+  "Rurikid dynasty, Kyivan line": "基辅支系留里克王朝",
+  "House of Ivrea, Burgundian comital branch": "伊夫雷亚家族勃艮第伯国支系",
+  "House of Barcelona, Aragonese royal branch": "巴塞罗那家族阿拉贡王室支系",
+  "House of Brienne": "布里埃纳家族",
+  "House of Lancia (attribution uncertain)": "兰恰家族（归属存疑）",
 };
 
 export function titleCn(title: string) {

@@ -1,0 +1,537 @@
+[
+  {
+    "id": "ecd24389-ba7c-40f0-a0a4-4635da2e4385",
+    "firstName": "Philippa",
+    "lastName": "",
+    "displayName": "Philippa of Hainault",
+    "fullName": "Philippa of Hainault",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Philippa of Hainault"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "埃诺的菲利帕",
+    "fullNameCn": "埃诺的菲利帕",
+    "birthYear": 1310,
+    "deathYear": 1369,
+    "birthPlace": "Valenciennes, Hainault",
+    "birthPlaceCn": "埃诺瓦朗谢讷",
+    "deathPlace": "Windsor, England",
+    "deathPlaceCn": "英格兰温莎",
+    "gender": "female",
+    "dynasty": "Avesnes dynasty",
+    "house": "House of Avesnes",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Queen consort of England",
+    "primaryTitleCn": "英格兰王后",
+    "titles": [
+      {
+        "title": "Queen consort of England",
+        "startYear": 1328,
+        "endYear": 1369,
+        "titleCn": "英格兰王后"
+      }
+    ],
+    "tags": [
+      "queen",
+      "consort"
+    ],
+    "rank": "queen",
+    "importanceScore": 70,
+    "relationships": {
+      "fatherId": "f1010000-0000-4000-8000-000000000010",
+      "motherId": "",
+      "spouseIds": [
+        "304dcda5-adf6-4a79-9147-ff8fd69301b5"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "dc177bb0-0adf-45da-937a-8bd55c29826e",
+        "99624b56-5c00-405f-83c3-d7ff73eb4bb9",
+        "638b81ae-0e2f-4ce8-b657-ca030206e668"
+      ]
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Philippa_of_Hainault",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Philippa_of_Hainault",
+    "sourceNote": "Father William I of Hainault is not yet in the roster; sons Edward the Black Prince and John of Gaunt are in the roster.",
+    "notes": "Queen consort of Edward III and mother of the Black Prince and John of Gaunt. Remembered for her gentleness and as a patron of the arts.",
+    "historicalRating": 7,
+    "createdDate": "20260818",
+    "createdOrder": 34,
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died at Windsor",
+      "summaryCn": "在温莎去世",
+      "detail": "Philippa of Hainault died in 1369 at Windsor Castle after a long illness.",
+      "detailCn": "1369 年，埃诺的菲利帕在温莎城堡久病后去世。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Philippa_of_Hainault"
+    },
+    "events": [
+      {
+        "year": 1310,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 60,
+        "label": "Born in Hainault",
+        "labelCn": "出生于埃诺",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Philippa_of_Hainault",
+        "note": "Birth year uncertain, traditionally 1310."
+      },
+      {
+        "year": 1328,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 80,
+        "label": "Married Edward III of England",
+        "labelCn": "嫁给英格兰爱德华三世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Philippa_of_Hainault"
+      },
+      {
+        "year": 1369,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 90,
+        "label": "Died at Windsor",
+        "labelCn": "在温莎去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Philippa_of_Hainault"
+      },
+      {
+        "year": 1330,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 66,
+        "label": "Gave birth to Edward the Black Prince",
+        "labelCn": "生下黑太子爱德华",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Philippa_of_Hainault"
+      },
+      {
+        "year": 1347,
+        "type": "diplomacy",
+        "tags": [
+          "diplomacy",
+          "queen"
+        ],
+        "weight": 82,
+        "label": "Interceded for the Burghers of Calais",
+        "labelCn": "为加来市民求情",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Burghers_of_Calais",
+        "note": "Pleaded with Edward III to spare the six burghers of Calais."
+      }
+    ]
+  },
+  {
+    "id": "f1010000-0000-4000-8000-000000000009",
+    "firstName": "John",
+    "lastName": "of Hainaut",
+    "displayName": "John II of Hainaut",
+    "fullName": "John II of Hainaut, John I of Holland",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [
+      "John II of Avesnes",
+      "John I of Holland",
+      "Jean II d'Avesnes"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "埃诺的约翰二世",
+    "fullNameCn": "埃诺伯爵约翰二世、荷兰伯爵约翰一世",
+    "birthYear": 1247,
+    "deathYear": 1304,
+    "birthPlace": "",
+    "birthPlaceCn": "",
+    "deathPlace": "Valenciennes",
+    "deathPlaceCn": "瓦朗谢讷",
+    "gender": "male",
+    "dynasty": "Avesnes dynasty",
+    "house": "House of Avesnes",
+    "culture": "Hainaut / Low Countries",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Hainaut",
+    "primaryTitleCn": "埃诺伯爵",
+    "titles": [
+      {
+        "title": "Count of Hainaut",
+        "titleCn": "埃诺伯爵",
+        "startYear": 1280,
+        "endYear": 1304
+      },
+      {
+        "title": "Count of Holland",
+        "titleCn": "荷兰伯爵",
+        "startYear": 1299,
+        "endYear": 1304
+      },
+      {
+        "title": "Count of Zeeland",
+        "titleCn": "泽兰伯爵",
+        "startYear": 1299,
+        "endYear": 1304
+      }
+    ],
+    "tags": [
+      "count",
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "f1010000-0000-4000-8000-000000000010"
+      ]
+    },
+    "events": [
+      {
+        "year": 1280,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 82,
+        "label": "Succeeded as Count of Hainaut",
+        "labelCn": "继承埃诺伯爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Hainaut"
+      },
+      {
+        "year": 1299,
+        "type": "title_acquired",
+        "tags": [
+          "title_acquired",
+          "title"
+        ],
+        "weight": 78,
+        "label": "Became Count of Holland and Zeeland",
+        "labelCn": "成为荷兰与泽兰伯爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Hainaut"
+      }
+    ],
+    "wikiUrl": "",
+    "portraitUrl": "",
+    "sourceUrl": "",
+    "sourceNote": "Treccani, Avesnes; Nicholas J. Mayhew on the chronology of the coinage of Jean d'Avesnes; standard Low Countries regnal catalogues.",
+    "notes": "John inherited Hainaut from his grandmother Margaret in 1280, completing the effective transition to the House of Avesnes. In 1299 he also inherited Holland and Zeeland, creating a personal union with Hainaut. The requested label 'John I of Hainaut (1247–1304)' is not the usual Hainaut numbering. This ruler is normally John II of Hainaut and John I of Holland. His father John I of Avesnes was Margaret II of Flanders's son and had obtained the Avesnes claim to Hainaut but died in 1257, before John II became sole count in 1280.",
+    "createdDate": "20260823",
+    "createdOrder": 99
+  },
+  {
+    "id": "f1010000-0000-4000-8000-000000000010",
+    "firstName": "William",
+    "lastName": "of Hainaut",
+    "displayName": "William I of Hainaut",
+    "fullName": "William I of Hainaut, William III of Holland",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [
+      "William the Good",
+      "William III of Holland",
+      "Guillaume le Bon",
+      "Willem III"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "埃诺的威廉一世",
+    "fullNameCn": "埃诺伯爵威廉一世、荷兰伯爵威廉三世",
+    "birthYear": 1286,
+    "deathYear": 1337,
+    "birthPlace": "",
+    "birthPlaceCn": "",
+    "deathPlace": "Valenciennes",
+    "deathPlaceCn": "瓦朗谢讷",
+    "gender": "male",
+    "dynasty": "Avesnes dynasty",
+    "house": "House of Avesnes",
+    "culture": "Hainaut / Low Countries",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Hainaut",
+    "primaryTitleCn": "埃诺伯爵",
+    "titles": [
+      {
+        "title": "Count of Hainaut",
+        "titleCn": "埃诺伯爵",
+        "startYear": 1304,
+        "endYear": 1337
+      },
+      {
+        "title": "Count of Holland",
+        "titleCn": "荷兰伯爵",
+        "startYear": 1304,
+        "endYear": 1337
+      },
+      {
+        "title": "Count of Zeeland",
+        "titleCn": "泽兰伯爵",
+        "startYear": 1304,
+        "endYear": 1337
+      }
+    ],
+    "tags": [
+      "count",
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "f1010000-0000-4000-8000-000000000009",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "f1010000-0000-4000-8000-000000000011",
+        "f1010000-0000-4000-8000-000000000012",
+        "ecd24389-ba7c-40f0-a0a4-4635da2e4385"
+      ]
+    },
+    "events": [
+      {
+        "year": 1304,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 82,
+        "label": "Succeeded as Count of Hainaut",
+        "labelCn": "继承埃诺伯爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Hainaut"
+      },
+      {
+        "year": 1328,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "title"
+        ],
+        "weight": 74,
+        "label": "Daughter Philippa married Edward III of England",
+        "labelCn": "女儿菲利帕与英格兰的爱德华三世成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Hainaut"
+      }
+    ],
+    "wikiUrl": "",
+    "portraitUrl": "",
+    "sourceUrl": "",
+    "sourceNote": "Detlev Schwennicke, Europäische Stammtafeln; historical numismatic catalogues of Hainaut; Encyclopaedia Britannica references.",
+    "notes": "William maintained the Avesnes personal union of Hainaut, Holland and Zeeland. His daughter Philippa became queen of Edward III of England, while his son William II and daughter Margaret II successively inherited Hainaut. His birth is commonly dated c.1286, with 1287 also appearing in catalogues. Numbering differs by territory: William I in Hainaut, William III in Holland and usually William II in Zeeland.",
+    "createdDate": "20260823",
+    "createdOrder": 100
+  },
+  {
+    "id": "f1010000-0000-4000-8000-000000000011",
+    "firstName": "William",
+    "lastName": "of Hainaut",
+    "displayName": "William II of Hainaut",
+    "fullName": "William II of Hainaut, William IV of Holland",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [
+      "William IV of Holland",
+      "William the Bold",
+      "Willem IV"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "埃诺的威廉二世",
+    "fullNameCn": "埃诺伯爵威廉二世、荷兰伯爵威廉四世",
+    "birthYear": 1307,
+    "deathYear": 1345,
+    "birthPlace": "",
+    "birthPlaceCn": "",
+    "deathPlace": "Warns near Stavoren",
+    "deathPlaceCn": "斯塔福伦附近瓦恩斯",
+    "gender": "male",
+    "dynasty": "Avesnes dynasty",
+    "house": "House of Avesnes",
+    "culture": "Hainaut / Low Countries",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Hainaut",
+    "primaryTitleCn": "埃诺伯爵",
+    "titles": [
+      {
+        "title": "Count of Hainaut",
+        "titleCn": "埃诺伯爵",
+        "startYear": 1337,
+        "endYear": 1345
+      },
+      {
+        "title": "Count of Holland",
+        "titleCn": "荷兰伯爵",
+        "startYear": 1337,
+        "endYear": 1345
+      },
+      {
+        "title": "Count of Zeeland",
+        "titleCn": "泽兰伯爵",
+        "startYear": 1337,
+        "endYear": 1345
+      }
+    ],
+    "tags": [
+      "count",
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "f1010000-0000-4000-8000-000000000010",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1337,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 82,
+        "label": "Succeeded as Count of Hainaut",
+        "labelCn": "继承埃诺伯爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Hainaut"
+      },
+      {
+        "year": 1345,
+        "type": "death",
+        "tags": [
+          "death",
+          "title"
+        ],
+        "weight": 82,
+        "label": "Died in the Battle of Warns",
+        "labelCn": "在瓦尔讷斯战役中阵亡",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Hainaut"
+      }
+    ],
+    "wikiUrl": "",
+    "portraitUrl": "",
+    "sourceUrl": "",
+    "sourceNote": "Detlev Schwennicke, Europäische Stammtafeln; Hainaut numismatic catalogues; standard Low Countries regnal chronologies.",
+    "notes": "William succeeded his father in the three counties in 1337. He died without legitimate issue during the Frisian campaign in 1345, causing the inheritance to pass to his sister Margaret. He is William II in Hainaut but William IV in Holland, illustrating the territory-specific numbering used by the same ruler.",
+    "createdDate": "20260823",
+    "createdOrder": 101
+  },
+  {
+    "id": "f1010000-0000-4000-8000-000000000012",
+    "firstName": "Margaret",
+    "lastName": "of Hainaut",
+    "displayName": "Margaret II of Hainaut",
+    "fullName": "Margaret II of Hainaut, Margaret I of Holland",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [
+      "Margaret I of Holland",
+      "Margaret of Avesnes",
+      "Holy Roman Empress Margaret"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "埃诺的玛格丽特二世",
+    "fullNameCn": "埃诺女伯爵玛格丽特二世、荷兰女伯爵玛格丽特一世",
+    "birthYear": 1311,
+    "deathYear": 1356,
+    "birthPlace": "",
+    "birthPlaceCn": "",
+    "deathPlace": "Le Quesnoy",
+    "deathPlaceCn": "勒凯努瓦",
+    "gender": "female",
+    "dynasty": "Avesnes dynasty",
+    "house": "House of Avesnes",
+    "culture": "Hainaut / Low Countries",
+    "faith": "Catholic",
+    "primaryTitle": "Countess of Hainaut",
+    "primaryTitleCn": "埃诺女伯爵",
+    "titles": [
+      {
+        "title": "Holy Roman Empress",
+        "titleCn": "神圣罗马帝国皇后",
+        "startYear": 1328,
+        "endYear": 1347
+      },
+      {
+        "title": "Countess of Hainaut",
+        "titleCn": "埃诺女伯爵",
+        "startYear": 1345,
+        "endYear": 1356
+      },
+      {
+        "title": "Countess of Holland",
+        "titleCn": "荷兰女伯爵",
+        "startYear": 1345,
+        "endYear": 1354
+      },
+      {
+        "title": "Countess of Zeeland",
+        "titleCn": "泽兰女伯爵",
+        "startYear": 1345,
+        "endYear": 1354
+      }
+    ],
+    "tags": [
+      "countess",
+      "noble"
+    ],
+    "rank": "countess",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "f1010000-0000-4000-8000-000000000010",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "f1010000-0000-4000-8000-000000000013",
+        "f1010000-0000-4000-8000-000000000016"
+      ]
+    },
+    "events": [
+      {
+        "year": 1345,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 82,
+        "label": "Succeeded as Countess of Hainaut",
+        "labelCn": "继承埃诺女伯爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Hainaut"
+      },
+      {
+        "year": 1356,
+        "type": "death",
+        "tags": [
+          "death",
+          "title"
+        ],
+        "weight": 68,
+        "label": "Died",
+        "labelCn": "去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Count_of_Hainaut"
+      }
+    ],
+    "wikiUrl": "",
+    "portraitUrl": "",
+    "sourceUrl": "",
+    "sourceNote": "Standard Avesnes/Wittelsbach regnal catalogues; F. P. van Oostrom, Court and Culture; numismatic evidence from Hainaut.",
+    "notes": "Margaret inherited Hainaut, Holland and Zeeland after William II's childless death. Her marriage to Emperor Louis IV carried the inheritance into the Wittelsbach dynasty; after conflict with her son William, she retained Hainaut until her death in 1356. The requested name 'Margaret I of Hainaut' is potentially misleading. She is normally Margaret II of Hainaut but Margaret I of Holland. The Wittelsbach successor in Hainaut in 1356 was her son William III of Hainaut (1330–1389), not Albert I. William III is missing from the requested 15-person list and must not be replaced by a fictional direct Margaret-to-Albert succession.",
+    "createdDate": "20260823",
+    "createdOrder": 102
+  }
+]

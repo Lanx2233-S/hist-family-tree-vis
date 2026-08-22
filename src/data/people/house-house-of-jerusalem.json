@@ -1,0 +1,271 @@
+[
+  {
+    "id": "c9520000-0000-4000-8000-000000000000",
+    "firstName": "Baldwin",
+    "lastName": "of Jerusalem",
+    "displayName": "Baldwin V of Jerusalem",
+    "fullName": "Baldwin V, King of Jerusalem",
+    "displayNameCn": "耶路撒冷的鲍德温五世",
+    "fullNameCn": "耶路撒冷国王鲍德温五世",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1177,
+    "deathYear": 1186,
+    "birthPlace": "Latin East",
+    "birthPlaceCn": "拉丁东方",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "House of Jerusalem",
+    "house": "House of Jerusalem",
+    "culture": "Frankish",
+    "faith": "Catholic",
+    "primaryTitle": "King of Jerusalem",
+    "primaryTitleCn": "耶路撒冷国王",
+    "titles": [
+      {
+        "title": "King of Jerusalem",
+        "titleCn": "耶路撒冷国王",
+        "startYear": "",
+        "endYear": 1186
+      }
+    ],
+    "tags": [
+      "monarch",
+      "noble"
+    ],
+    "rank": "king",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "c9500000-0000-4000-8000-000000000000",
+      "motherId": "c9450000-0000-4000-8000-000000000041",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1183,
+        "month": 11,
+        "day": 20,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "king",
+          "monarch"
+        ],
+        "weight": 78,
+        "label": "Crowned co-king by Baldwin IV",
+        "labelCn": "被鲍德温四世加冕为共治国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Baldwin_V_of_Jerusalem",
+        "note": "A sick Baldwin IV had the child Baldwin V crowned co-king on 20 November 1183 to block Guy of Lusignan's ambition."
+      },
+      {
+        "year": 1185,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "king",
+          "regency"
+        ],
+        "weight": 80,
+        "label": "Became sole king under Raymond III's regency",
+        "labelCn": "在雷蒙三世摄政下成为唯一国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Baldwin_V_of_Jerusalem",
+        "note": "On Baldwin IV's death in March 1185 the boy became sole king with Raymond III of Tripoli as regent."
+      },
+      {
+        "year": 1186,
+        "type": "death",
+        "tags": [
+          "death",
+          "king",
+          "monarch"
+        ],
+        "weight": 74,
+        "label": "Death as a child",
+        "labelCn": "幼年去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Baldwin_V_of_Jerusalem",
+        "note": "Died at Acre in the late summer of 1186, aged about nine; his death reopened the succession between Sibylla and Isabella."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Fulk_V,_Count_of_Anjou",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Fulk_V,_Count_of_Anjou",
+    "sourceNote": "Basic family card for the Kingdom of Jerusalem lineage.",
+    "notes": "Added for the Jerusalem title lineage.",
+    "createdDate": "20260822",
+    "createdOrder": 60
+  },
+  {
+    "id": "c9530000-0000-4000-8000-000000000000",
+    "firstName": "Alice",
+    "lastName": "of Jerusalem",
+    "displayName": "Alice of Jerusalem",
+    "fullName": "Alice of Jerusalem",
+    "displayNameCn": "耶路撒冷的爱丽丝",
+    "fullNameCn": "耶路撒冷的爱丽丝",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1180,
+    "deathYear": 1233,
+    "birthPlace": "Latin East",
+    "birthPlaceCn": "拉丁东方",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "female",
+    "dynasty": "House of Jerusalem",
+    "house": "House of Jerusalem",
+    "culture": "Frankish",
+    "faith": "Catholic",
+    "primaryTitle": "Princess of Jerusalem",
+    "primaryTitleCn": "耶路撒冷公主",
+    "titles": [
+      {
+        "title": "Princess of Jerusalem",
+        "titleCn": "耶路撒冷公主",
+        "startYear": "",
+        "endYear": 1233
+      }
+    ],
+    "tags": [
+      "princess",
+      "noble"
+    ],
+    "rank": "princess",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "c9510000-0000-4000-8000-000000000000",
+      "motherId": "c9450000-0000-4000-8000-000000000041",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1180,
+        "type": "dynasty",
+        "tags": [
+          "dynasty",
+          "uncertain",
+          "noble"
+        ],
+        "weight": 55,
+        "label": "Princess of Jerusalem, daughter of Guy and Sibylla",
+        "labelCn": "耶路撒冷公主，居伊与西比拉之女",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Sibylla,_Queen_of_Jerusalem",
+        "note": "Daughter of King Guy of Lusignan and Queen Sibylla; her birth year is approximate."
+      },
+      {
+        "year": 1190,
+        "type": "death",
+        "tags": [
+          "death",
+          "uncertain"
+        ],
+        "weight": 70,
+        "label": "Died in the epidemic at the siege of Acre",
+        "labelCn": "死于阿卡围城期间的瘟疫",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Sibylla,_Queen_of_Jerusalem",
+        "note": "She and her sister Maria died of disease in the crusader camp at Acre in 1190, shortly before their mother Sibylla."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Fulk_V,_Count_of_Anjou",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Fulk_V,_Count_of_Anjou",
+    "sourceNote": "Basic family card for the Kingdom of Jerusalem lineage.",
+    "notes": "Little is recorded of Alice; she and her sister Maria died young during the 1190 epidemic at the siege of Acre. The card's death year (1233) appears to conflict with the chronicle record of her death in 1190.",
+    "createdDate": "20260822",
+    "createdOrder": 61
+  },
+  {
+    "id": "c9540000-0000-4000-8000-000000000000",
+    "firstName": "Maria",
+    "lastName": "of Jerusalem",
+    "displayName": "Maria of Jerusalem",
+    "fullName": "Maria of Jerusalem",
+    "displayNameCn": "耶路撒冷的玛丽亚",
+    "fullNameCn": "耶路撒冷的玛丽亚",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1182,
+    "deathYear": 1212,
+    "birthPlace": "Latin East",
+    "birthPlaceCn": "拉丁东方",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "female",
+    "dynasty": "House of Jerusalem",
+    "house": "House of Jerusalem",
+    "culture": "Frankish",
+    "faith": "Catholic",
+    "primaryTitle": "Princess of Jerusalem",
+    "primaryTitleCn": "耶路撒冷公主",
+    "titles": [
+      {
+        "title": "Princess of Jerusalem",
+        "titleCn": "耶路撒冷公主",
+        "startYear": "",
+        "endYear": 1212
+      }
+    ],
+    "tags": [
+      "princess",
+      "noble"
+    ],
+    "rank": "princess",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "c9510000-0000-4000-8000-000000000000",
+      "motherId": "c9450000-0000-4000-8000-000000000041",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1182,
+        "type": "dynasty",
+        "tags": [
+          "dynasty",
+          "uncertain",
+          "noble"
+        ],
+        "weight": 55,
+        "label": "Princess of Jerusalem, daughter of Guy and Sibylla",
+        "labelCn": "耶路撒冷公主，居伊与西比拉之女",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Sibylla,_Queen_of_Jerusalem",
+        "note": "Daughter of King Guy of Lusignan and Queen Sibylla; her birth year is approximate."
+      },
+      {
+        "year": 1190,
+        "type": "death",
+        "tags": [
+          "death",
+          "uncertain"
+        ],
+        "weight": 70,
+        "label": "Died in the epidemic at the siege of Acre",
+        "labelCn": "死于阿卡围城期间的瘟疫",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Sibylla,_Queen_of_Jerusalem",
+        "note": "She and her sister Alice died of disease in the crusader camp at Acre in 1190, shortly before their mother Sibylla."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Fulk_V,_Count_of_Anjou",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Fulk_V,_Count_of_Anjou",
+    "sourceNote": "Basic family card for the Kingdom of Jerusalem lineage.",
+    "notes": "Little is recorded of Maria; she died young during the 1190 epidemic at the siege of Acre. The card's death year (1212) appears to conflict with the chronicle record and may be a confusion with Maria of Montferrat.",
+    "createdDate": "20260822",
+    "createdOrder": 62
+  }
+]

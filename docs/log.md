@@ -1400,3 +1400,118 @@ Split by responsibility and keep data, derived presentation, interaction state, 
 ### 验收
 
 - `npm run data:build` 通过（519 人）；`npm run build`、`git diff --check` 通过。
+
+## 2026-08-23：10–8 星人物卡详情补全（第一批）
+
+- 范围：以 `historicalRating` 为准，全库 519 人中 ≥8 星共 77 人（10 星 6、9 星 13、8 星 58），本批全部补全；不新建人物、不扩张 title 链、不改 UUID。
+- 流程：Flash 子代理分批检索并输出 JSON patch，主模型合并、校验、抽检。共 7 个子代理处理 42 人（0 事件卡 18 + 事件不足/deathCause 15 + 顶补 9），其余 35 人经核对已达标未动。
+- 覆盖：10 星 6 人全达 15+ 事件（均 15.3）、9 星 13 人全达 10+（均 13.5）、8 星 58 人全达 7+（均 9.0）；deathCause 覆盖 10/9 星 100%、8 星 93%（其余死因无可靠记载按规范留空）。中文名/主头衔/地点、notes、来源字段同步补齐。
+- 资料标准：优先 Britannica/学术百科交叉核对，Wikipedia 仅作导航；不确定日期只填年份或加 `uncertain` tag；死因无据不补造（如桑乔三世「布尔巴谋杀」存疑故留空、布鲁斯死因标 uncertain、鲍德温三世病逝/毒杀存疑）。
+
+### 验收
+
+- 事件类型/tag/deathCause 枚举全部合法；无缺失 labelCn/wikiUrl；无重复 UUID；亲子关系双向无损；title holder UUID 全部存在。
+- `npm run data:build`（519 人）、`npm run build`、`git diff --check` 通过。
+
+### 遗留
+
+- 7/6/5 星（共 398 人）未在本批处理，待后续批次按同样流程补全。
+
+## 2026-08-23：7–6 星人物卡详情补全（第二批）
+
+- 范围：≥5 星继续，本批 7 星 121 人、6 星 126 人，共 247 人；不新建人物、不改 UUID、不扩张 title 链。
+- 流程：10 个 Flash 子代理分文件批处理并输出 patch，主模型合并、校验、抽检。实际补全 129 人（7★ 63、6★ 66），其余已达标未动。
+- 覆盖：7★ 120/121 达 5 事件下限（均 6.0），6★ 126/126 达 3 事件下限（均 3.3）；唯一未达标的 Philippe de France（路易六世之子）15 岁早夭、仅 3 条可考事件，按「绝不编造」不凑数。
+- 资料标准同第一批：Britannica/学术来源交叉核对、Wikipedia 导航；不确定日期仅写年份或加 `uncertain` tag；死因仅在著名且可考时补（如善良的查理被刺杀、桑乔二世/加西亚三世/桑乔四世/桑乔五世的非自然死亡）。
+
+### 史实修正（单列）
+
+- Maria Komnene（c943…039）`deathYear` 1182 → 1217：她历经 1187 年耶路撒冷围城、后隐修，卒于 1217（少数来源作 1208）；原 1182 显系错误，已按主流记载修正并保留不确定性说明。
+
+### 质量修正（子代理输出缺陷）
+
+- 香槟子代理将 14 处 `labelCn` 直接复制英文未译（如「继承Count of Champagne」），已统一改译为中文。
+- Theobald I of Navarre 1201 事件 label 误写「King of Navarre / Count of Champagne」（彼时仅继香槟伯爵，1234 年方为纳瓦拉国王），已改为「Succeeded as Count of Champagne」。
+
+### 验收
+
+- 事件 type/tag/deathCause 枚举合法；无缺失 labelCn/wikiUrl；无重复 UUID；亲子关系双向无损；title holder UUID 全存在。
+- `npm run data:build`（519 人）、`npm run build`、`git diff --check` 通过。
+
+### 遗留
+
+- 5 星 151 人未处理，待下一批。
+
+## 2026-08-23：5 星人物卡详情补全（第三批，≥5 星全库收尾）
+
+- 范围：5 星 151 人，本批补全 71 人（其余 80 人已达标）；不新建人物、不改 UUID、不扩张 title 链。
+- 流程：6 个 Flash 子代理分文件批处理（安茹/耶路撒冷×2、佛兰德×2、图卢兹/普罗旺斯/丹麦/杂项、布拉班特 4 公爵），主模型合并、校验、抽检。
+- 覆盖：5★ 150/151 达 2 事件下限（均 2.8）；唯一未达标「Unnamed daughter of William V」仅 1 条可考（匿名、婚姻日期无载），按「绝不编造」不凑数。至此 **≥5 星 475 人中 473 人达标**（10★ 6、9★ 13、8★ 58、7★ 120、6★ 126、5★ 150；仅 Philippe de France 与匿名之女 2 人因史料所限不达标）。
+
+### 数据问题（发现但未改，待用户决定是否收敛）
+
+- **Henry II of Champagne 重复卡**：`temporary-anjou.json` 5★（c957…000，1166–1197，配偶=伊莎贝拉一世）与 `temporary-champagne.json` 6★（c710…010，1156–1197，无配偶）为同一人，且出生年不一致（正确 1166）。需仿照 Alfonso I 收敛。
+- **Elias II of Maine 性别误标 "female"**（`c938…034`，实际为男性伯爵）。
+- 其余子代理标注的存疑（Theodora Angelina 为 Isaac II 之妹/之女争议、Alice/Maria of Jerusalem 卒年与编年史冲突）仅在 notes/事件中说明，未改字段。
+
+### 验收
+
+- 事件 type/tag/deathCause 枚举合法；无缺失 labelCn/wikiUrl；无重复 UUID；亲子关系双向无损；title holder UUID 全存在。
+- `npm run data:build`（519 人）、`npm run build`、`git diff --check` 通过。
+
+## 2026-08-23：Henry II of Champagne 去重 + Elias II 修正
+
+- **Henry II of Champagne 双卡收敛**：保留 `c957…000`（`temporary-anjou.json`）为唯一规范卡，将 `c710…010`（`temporary-champagne.json`）的香槟伯爵资料迁入后删除。合并结果：出生年统一 1166、补 `Count of Champagne (1181–1197)` 头衔与 1181 继位事件、house 改 `House of Blois-Champagne`、lastName/birthPlace/deathPlace 清理、primaryTitle 改「Count of Champagne and King of Jerusalem」、修正误沿用的 Fulk V 来源链接。`county-of-champagne.json` 持有者引用改指 `c957…000`；manifest.order 移除 `c710…010`；全库无 `c710…010` 残留。
+- **Elias II of Maine（c938…034）修正**：`gender` female→male；清理模板残留 `lastName: of Jerusalem`→`of Maine`、`birthPlace: Latin East`→`Maine`、`culture: Frankish`→`Angevin`；修正 Fulk V 来源链接。
+
+### 验收
+
+- `npm run data:build`（**518 人**）、`npm run build`、`git diff --check` 通过；无重复 UUID、亲子关系双向无损、title holder UUID 全存在。
+
+## 2026-08-23：埃诺伯国（County of Hainaut）人物主链与头衔
+
+- 范围：新增埃诺伯国世系主链人物 15 人（Richilde → Jacqueline），严格按暂存资料建基础卡、不编造事件。按 House 归档：Richilde 入 `house-house-of-hainaut-mons-attributed.json`；Baldwin II–IV 入 `house-house-of-flanders-hainaut-branch.json`；Baldwin V–VI、Joan、Margaret II of Flanders 入 `house-house-of-flanders.json`；John II、William I–II、Margaret II of Hainaut 入 `house-house-of-avesnes.json`；Albert I、William IV、Jacqueline 入 `house-bavaria-straubing-branch-of-the-house-of-wittelsbach.json`。
+- 复用锚点：Baldwin VI of Flanders（Richilde 以妻权共治节点）、Philip the Good（1433 转入勃艮第体系收束）、Isabella of Hainaut（Baldwin V 之女）、Philippa of Hainault（William I 之女）。
+- 双向关系回填：Baldwin V → Isabella of Hainaut、William I → Philippa of Hainault、Richilde ↔ Baldwin VI of Flanders 及主链内亲子关系；主链外亲属（Louis IV、William III of Hainaut 等）按资料缺失留空并在 notes 注明（William III 1356–1389 缺口未虚构）。
+- 头衔：新建 `county-of-hainaut.json`（hereditary county，17 个 holder，Richilde 1051 起至 Philip the Good 1467 收束）；TitlePage 登记为 HRE 分区非王国头衔。
+- 人数：518 → 533（+15）。
+
+### 验收
+
+- `npm run data:build`（533 人）、`npm run build`、`git diff --check` 通过；无重复 UUID、亲子关系双向无损、title holder UUID 全存在。
+
+## 2026-08-23：埃诺伯国主链补全与事件规范对齐
+
+- 补入埃诺的威廉三世（1356–1389）：1356 年继承玛格丽特二世，1358 年失能后由阿尔布雷希特一世摄政，1389 年后才转为阿尔布雷希特本人继位；埃诺主链不再有 1356–1389 的空缺。
+- 为本链先前新增的 15 张 5★人物卡补入各 2 条具日期的核心事件；新补威廉三世含 3 条事件，符合 5★首次录入的事件下限。
+- 支系名称统一为 `House of Wittelsbach-Straubing`，中文显示为「维特尔斯巴赫-施特劳宾支」，并登记入 `Wittelsbach dynasty`。
+
+## 2026-08-23：人物录入自定义序号重排
+
+- 全库自定义序号改为 `YYYYMMDDNNN`：日期取 `createdDate`，同日流水号严格按 `manifest.order` 的总序号先后从 001 连续重排；不再沿用不同批次遗留的全局或异常流水号。
+- 核验：534 张人物卡与 `manifest.order` 均为 534 个唯一 UUID，双集合完全一致，无重复或孤立记录。
+
+## 2026-08-23：腓特烈一世·巴巴罗萨子女补全
+
+- 在既有亨利六世与施瓦本的腓力之外，补入 9 名具名子女；均为 5★基础卡，含可考死因与 1–2 条非出生／死亡事件。
+- 未建立施瓦本公国头衔链；姓名存疑的朱迪丝及幼年去世的雷纳尔德、威廉均在卡内标注不确定性。
+
+## 2026-08-23：萨利安—霍恩斯陶芬宗族补全
+
+- 依 `temporary-person-research.md` 暂存区录入萨利安—霍恩斯陶芬宗族补全卡：21 条研究记录中 20 张为新增卡，1 张（Constance of Sicily）与既有 `Constance I of Sicily` 重复，仅复用不改写（其父 Roger II、夫 Henry VI、子 Frederick II 关系已在库中，无需回填）。
+- 萨利安经 Agnes of Waiblingen 连接霍恩斯陶芬：Henry of Speyer → Conrad II → Henry III → Henry IV → Agnes of Waiblingen → Frederick I/II of Swabia → Barbarossa → Henry VI → Frederick II → Henry (VII) / Manfred / Conradin，并补入 Conrad III、Conrad IV 的施瓦本祖系与西西里终局。
+- 直系萨利安沿用 `Salian dynasty` / 直系霍恩斯陶芬沿用 `Hohenstaufen dynasty`；外来配偶（Gisela、Agnes of Poitou、Bertha、Eupraxia、Judith、Beatrice I、Constance of Aragon、Isabella II、Bianca、Margaret、Elisabeth、Adelaide of Metz）保留研究记录自身 dynasty / house，未重构 dynasty-house 系统。
+- 14 张既有卡回填双向父/母/配偶/子女关系（Conrad II、Heinrich III/IV/V、Conrad III、Barbarossa、Heinrich VI、Philip、Frederick II、Conrad IV、Guilhem V、Alfonso II、Maria of Montferrat、Otto II）。
+- 事件 120 条全部导入：`release`/`exile`/`renunciation`/`abdication` 统一为 `politics`，tags 均保持 UI 词表，未把人名/地名/王朝名塞回 tags；空 deathCause 不写卡，仅 Henry (VII)/Manfred/Conradin 写入结构化死因。
+- 归档按现有 house 分文件习惯：新增 7 个 house 文件（Matfriding、House of Conradines、Rurikid、House of Ivrea 勃艮第伯国支系、House of Barcelona 阿拉贡王室支系、House of Brienne、House of Lancia）；manifest.order 末尾按暂存区顺序加入 20 个 UUID，`createdDate=20260823` 后运行 `reindex-entry-orders.mjs` 与 `generate-entry-log.mjs`。
+
+### 验收
+
+- `npm run data:build` 通过（554 人 / 98 文件）；`npm run build`、`git diff --check` 通过。
+- 20 个新 UUID 唯一且均入 manifest.order；可解析关系双向一致；20 人 120 条 events 均有 wikiUrl 且 tags 均在 UI 词表。
+- 未新建 title，未扩展 title 页面。
+
+## 2026-08-23：巴巴罗萨子女星级校准
+
+- 上调：施瓦本的腓特烈六世、勃艮第的奥托一世为 6★，分别补入两条非出生／死亡事件。
+- 下调：贝阿特丽斯、腓特烈五世、阿格妮丝为 4★；姓名存疑或仅见幼年记录的朱迪丝、雷纳尔德、威廉为 3★；施瓦本的康拉德二世保持 5★。

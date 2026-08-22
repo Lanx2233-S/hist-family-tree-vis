@@ -1,0 +1,99 @@
+[
+  {
+    "id": "619c6c80-d85a-47e6-a1f3-cd3dd4769a51",
+    "firstName": "Mary",
+    "lastName": "of Guelders",
+    "displayName": "Mary of Guelders",
+    "fullName": "Mary of Guelders",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Mary of Guelders"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "海尔德的玛丽",
+    "fullNameCn": "海尔德的玛丽",
+    "birthYear": 1434,
+    "deathYear": 1463,
+    "birthPlace": "Grave, Guelders",
+    "birthPlaceCn": "海尔德赫拉弗",
+    "deathPlace": "Roxburgh, Scotland",
+    "deathPlaceCn": "苏格兰罗克斯堡",
+    "gender": "female",
+    "dynasty": "House of Egmond",
+    "house": "House of Egmond",
+    "culture": "Dutch",
+    "faith": "Catholic",
+    "primaryTitle": "Queen consort of Scotland",
+    "primaryTitleCn": "苏格兰王后",
+    "titles": [
+      {
+        "title": "Queen consort of Scotland",
+        "startYear": 1449,
+        "endYear": 1460,
+        "titleCn": "苏格兰王后"
+      }
+    ],
+    "tags": [
+      "queen",
+      "consort"
+    ],
+    "rank": "queen",
+    "importanceScore": 52,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "307b6e6f-00f4-4a74-ba48-6868626c8f0f"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "896125f6-36ae-4969-a767-7f9e4863373b"
+      ]
+    },
+    "events": [
+      {
+        "year": 1434,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 60,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Mary_of_Guelders",
+        "note": "Birth year approximate."
+      },
+      {
+        "year": 1449,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 76,
+        "label": "Married James II",
+        "labelCn": "嫁给詹姆斯二世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Mary_of_Guelders"
+      },
+      {
+        "year": 1463,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 88,
+        "label": "Died",
+        "labelCn": "去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Mary_of_Guelders"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Mary_of_Guelders",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Mary_of_Guelders",
+    "sourceNote": "Wife of James II and mother of James III; served as regent after James II's death.",
+    "notes": "Queen consort of James II and mother of James III; acted as regent for her son.",
+    "createdDate": "20260819",
+    "createdOrder": 45
+  }
+]

@@ -1,0 +1,84 @@
+[
+  {
+    "id": "7ec07e10-b39e-4f1d-a770-7062a2a071d3",
+    "firstName": "Adelaide",
+    "lastName": "of Metz",
+    "displayName": "Adelaide of Metz",
+    "fullName": "Adelaide of Metz",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Adelheid of Metz",
+      "Adelheid von Metz"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "梅斯的阿德莱德",
+    "fullNameCn": "梅斯的阿德莱德",
+    "nicknameCn": "",
+    "birthYear": 970,
+    "deathYear": "",
+    "birthPlace": "Eguisheim, Alsace",
+    "birthPlaceCn": "阿尔萨斯埃吉赛姆",
+    "deathPlace": "Öhringen",
+    "deathPlaceCn": "厄林根",
+    "gender": "female",
+    "dynasty": "Matfriding dynasty",
+    "house": "Matfriding family of Metz",
+    "culture": "Lotharingian-Frankish",
+    "faith": "Catholic",
+    "primaryTitle": "Matfriding noblewoman",
+    "primaryTitleCn": "马特弗里丁家族贵族女性",
+    "titles": [],
+    "tags": [
+      "noble"
+    ],
+    "rank": "noble",
+    "importanceScore": 52,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "1371cc73-3603-45db-a736-39e2da347927"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "f1675c1f-68d7-43cb-b465-842711cbc175"
+      ]
+    },
+    "events": [
+      {
+        "year": 990,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "dynasty"
+        ],
+        "weight": 85,
+        "label": "Gave birth to the future emperor Conrad II",
+        "labelCn": "生下后来成为皇帝的康拉德二世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Adelaide_of_Metz",
+        "note": "Conrad's birth is conventionally placed around 990; Adelaide became the maternal link by which the next Salian generation survived Henry of Speyer."
+      },
+      {
+        "year": 1037,
+        "type": "church",
+        "tags": [
+          "church",
+          "noble"
+        ],
+        "weight": 75,
+        "label": "Founded the collegiate church at Öhringen",
+        "labelCn": "创建厄林根协同教堂",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Adelaide_of_Metz",
+        "note": "The foundation at Öhringen is one of the clearest independently attested acts of Adelaide's later life."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Adelaide_of_Metz",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Adelaide_of_Metz",
+    "sourceNote": "German regional and genealogical scholarship summarized in Deutsche Biographie-linked materials; Peter H. Wilson, Heart of Europe; Herwig Wolfram, Conrad II, 990–1039; Wikipedia used as a supplementary reference for the Öhringen tradition.",
+    "notes": "Adelaide connects the Matfriding aristocracy of Lorraine with the Salian line through her son Conrad II. Her later foundation at Öhringen gives her a clearer independent documentary footprint than her first husband.\n\nConfidence / caveats: Her parentage is not securely known; she is usually identified as sister of the Matfriding counts Adalbert and Gerhard. Birth c.970 is approximate. Her death is traditionally placed on 19 May, but the year is disputed chiefly between 1039 and 1046, so deathYear is left null and no death event is assigned a false year. The identity of her second husband is disputed, with Poppo of the Lobdengau only a probable identification.\n\nUnlinked family (not in roster): spouse: Poppo of the Lobdengau (?); child: Judith of Speyer; child: Gebhard III, Bishop of Regensburg",
+    "createdDate": "20260823",
+    "createdOrder": 108
+  }
+]

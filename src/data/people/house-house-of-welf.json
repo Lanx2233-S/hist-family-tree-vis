@@ -1,0 +1,207 @@
+[
+  {
+    "id": "0b708330-7b13-45ad-88a9-22e8e6e79fe8",
+    "firstName": "Otto",
+    "lastName": "",
+    "displayName": "Otto IV",
+    "fullName": "Otto IV, Holy Roman Emperor",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Otto IV",
+      "Otto of Brunswick"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "奥托四世",
+    "fullNameCn": "奥托四世",
+    "birthYear": 1175,
+    "deathYear": 1218,
+    "birthPlace": "",
+    "deathPlace": "Harzburg, Germany",
+    "deathPlaceCn": "德意志哈尔茨堡",
+    "gender": "male",
+    "dynasty": "House of Welf",
+    "house": "House of Welf",
+    "culture": "German",
+    "faith": "Catholic",
+    "primaryTitle": "Holy Roman Emperor",
+    "primaryTitleCn": "神圣罗马帝国皇帝",
+    "titles": [
+      {
+        "title": "King of the Romans",
+        "startYear": 1198,
+        "endYear": 1209,
+        "titleCn": "罗马人的国王"
+      },
+      {
+        "title": "Holy Roman Emperor",
+        "startYear": 1209,
+        "endYear": 1215,
+        "titleCn": "神圣罗马帝国皇帝"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "emperor",
+      "king"
+    ],
+    "rank": "emperor",
+    "importanceScore": 62,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1175,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Otto_IV,_Holy_Roman_Emperor"
+      },
+      {
+        "year": 1198,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 80,
+        "label": "Began rule as King of the Romans",
+        "labelCn": "开始担任罗马人的国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Otto_IV,_Holy_Roman_Emperor"
+      },
+      {
+        "year": 1218,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Otto_IV,_Holy_Roman_Emperor"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Otto_IV,_Holy_Roman_Emperor",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Otto_IV,_Holy_Roman_Emperor",
+    "sourceNote": "Welf rival of the Hohenstaufen; crowned Emperor in 1209 but deposed in 1215. Core timeline generated from recorded lifespan and titles on 2026-08-20.",
+    "notes": "The only Welf Holy Roman Emperor, rival of Philip of Swabia and Frederick II.",
+    "createdDate": "20260820",
+    "createdOrder": 11
+  },
+  {
+    "id": "a21ea92f-95d3-4fbe-a626-a662557225b4",
+    "firstName": "Judith",
+    "lastName": "of Bavaria",
+    "displayName": "Judith of Bavaria",
+    "fullName": "Judith of Bavaria",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Judith of Welf",
+      "Judith von Bayern"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "巴伐利亚的尤迪特",
+    "fullNameCn": "巴伐利亚的尤迪特",
+    "nicknameCn": "",
+    "birthYear": 1100,
+    "deathYear": 1130,
+    "birthPlace": "Bavaria",
+    "birthPlaceCn": "巴伐利亚",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "female",
+    "dynasty": "House of Welf",
+    "house": "House of Welf",
+    "culture": "Bavarian-German",
+    "faith": "Catholic",
+    "primaryTitle": "Duchess consort of Swabia",
+    "primaryTitleCn": "士瓦本公爵夫人",
+    "titles": [
+      {
+        "title": "Duchess consort of Swabia",
+        "titleCn": "士瓦本公爵夫人",
+        "startYear": "",
+        "endYear": 1130
+      }
+    ],
+    "tags": [
+      "duchess",
+      "consort",
+      "noble"
+    ],
+    "rank": "duchess",
+    "importanceScore": 58,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "5d9f38da-aa48-42e8-96cf-a87ed75db93f"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "727f5266-97af-45ee-8a21-c986aaf039dd"
+      ]
+    },
+    "events": [
+      {
+        "year": 1122,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "dynasty"
+        ],
+        "weight": 95,
+        "label": "Gave birth to Frederick Barbarossa",
+        "labelCn": "生下腓特烈·巴巴罗萨",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Judith_of_Bavaria,_Duchess_of_Swabia",
+        "note": "Frederick Barbarossa's birth united Hohenstaufen and Welf ancestry in the future emperor, an important element in later dynastic reconciliation."
+      },
+      {
+        "year": 1123,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "dynasty"
+        ],
+        "weight": 60,
+        "label": "Gave birth to Bertha of Swabia",
+        "labelCn": "生下士瓦本的贝尔塔",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Judith_of_Bavaria,_Duchess_of_Swabia",
+        "note": "Bertha of Swabia was born into the Hohenstaufen ducal family."
+      },
+      {
+        "year": 1130,
+        "type": "death",
+        "tags": [
+          "death",
+          "noble"
+        ],
+        "weight": 55,
+        "label": "Died while still Duchess of Swabia",
+        "labelCn": "以士瓦本公爵夫人身份去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Judith_of_Bavaria,_Duchess_of_Swabia",
+        "month": 8,
+        "day": 27,
+        "note": "Judith died while still the consort of Frederick II, Duke of Swabia."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Judith_of_Bavaria,_Duchess_of_Swabia",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Judith_of_Bavaria,_Duchess_of_Swabia",
+    "sourceNote": "John B. Freed, Frederick Barbarossa: The Prince and the Myth; Marcel Pacaut, Frederick Barbarossa; Welf and Staufer genealogical material in German biographical reference works; Wikipedia used as a supplementary date index.",
+    "notes": "Judith's principal dynastic significance is the union of the Welf and Hohenstaufen houses in her son Frederick Barbarossa. She died long before her son's royal election.\n\nConfidence / caveats: The exact date of her marriage to Frederick II is uncertain, commonly placed in 1119–1121, so the title start year is left null rather than choosing an arbitrary year. Her birthplace is only securely given at the regional level in common references, and the medical cause of death is not established.\n\nUnlinked family (not in roster): father: Henry IX, Duke of Bavaria; mother: Wulfhilde of Saxony; child: Bertha of Swabia",
+    "createdDate": "20260823",
+    "createdOrder": 117
+  }
+]
