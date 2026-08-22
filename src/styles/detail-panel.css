@@ -99,6 +99,35 @@
   text-underline-offset: 4px;
 }
 
+.detail-lineage-context {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px 20px;
+  margin: 0 0 10px;
+}
+
+.detail-lineage-context > div {
+  display: grid;
+  gap: 2px;
+}
+
+.detail-lineage-context span {
+  color: #7a321f;
+  font-size: 0.68rem;
+  font-weight: 900;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.detail-lineage-context strong,
+.detail-lineage-context .detail-context-link {
+  color: #4c3020;
+  font-size: 0.82rem;
+  font-weight: 850;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+}
+
 .title-lineage-link {
   color: inherit;
   font: inherit;
@@ -350,7 +379,7 @@
 
 .modal-backdrop {
   position: fixed;
-  z-index: 20;
+  z-index: 100;
   inset: 0;
   display: grid;
   place-items: center;

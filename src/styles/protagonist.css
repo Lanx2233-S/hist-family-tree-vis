@@ -78,14 +78,17 @@
   max-width: 300px;
   margin-top: 22px;
 }
+.realm-pagination { display:flex; align-items:center; justify-content:space-between; color:#6a4930; font-size:12px; font-weight:800; }
+.realm-pagination button { border:0; background:transparent; color:#7a321f; cursor:pointer; font:inherit; font-size:18px; font-weight:900; }
+.realm-pagination button:disabled { opacity:.35; cursor:default; }
 
 .realm-entry {
   display: grid;
   gap: 5px;
   border: 2px solid #8b6b43;
   border-radius: 8px;
-  background: rgba(255, 248, 232, 0.62);
-  color: #22170f;
+  background: var(--realm-color, #243f3e);
+  color: #fffdf5;
   cursor: pointer;
   font: inherit;
   padding: 10px 13px;
@@ -95,11 +98,21 @@
 
 .realm-entry:hover,
 .realm-entry.active {
-  background: #243f3e;
+  background: var(--realm-hover, #243f3e);
   box-shadow: 0 14px 28px rgba(55, 35, 20, 0.18);
   color: #fff8e8;
   transform: translateX(4px);
 }
+
+.realm-england { --realm-color: #7b1f2a; --realm-hover: #5f1420; }
+.realm-france { --realm-color: #183b70; --realm-hover: #102c56; }
+.realm-germany { --realm-color: #53655a; --realm-hover: #3d4d43; }
+.realm-castile { --realm-color: #d59a12; --realm-hover: #aa7808; }
+.realm-castile { color: #2d1b05; }
+.realm-castile .realm-entry-kicker { color: rgba(45, 27, 5, 0.72); }
+.realm-castile.active .realm-entry-kicker,
+.realm-castile:hover .realm-entry-kicker { color: #2d1b05; }
+.realm-byzantium { --realm-color: #72264f; --realm-hover: #561a3a; }
 
 .realm-entry strong {
   font-family: Georgia, Cambria, "Times New Roman", serif;
@@ -113,7 +126,7 @@
 }
 
 .realm-entry-kicker {
-  color: #8f1f26;
+  color: rgba(255, 253, 245, 0.78);
   font-size: 10px;
   font-weight: 900;
   letter-spacing: 0.12em;
@@ -122,7 +135,7 @@
 
 .realm-entry.active .realm-entry-kicker,
 .realm-entry:hover .realm-entry-kicker {
-  color: #e9c983;
+  color: #fffdf5;
 }
 
 .protagonist-selection {

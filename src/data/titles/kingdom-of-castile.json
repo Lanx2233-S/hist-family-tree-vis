@@ -1,0 +1,26 @@
+{
+  "id": "kingdom-of-castile",
+  "canonicalName": "Kingdom of Castile",
+  "canonicalNameCn": "卡斯蒂利亚王国",
+  "form": "kingdom",
+  "aliases": ["King of Castile", "Kings of Castile", "Castile", "Kingdom of Castile / 卡斯蒂利亚王国"],
+  "nameForms": [
+    {
+      "name": "Kingdom of Castile",
+      "nameCn": "卡斯蒂利亚王国",
+      "fromYear": 1037,
+      "untilYear": "",
+      "note": "This recorded royal line begins with Ferdinand I of León and Castile and ends here with Alfonso VIII; it does not extend into the earlier Navarrese or Leonese background.",
+      "noteCn": "本王位记录始于莱昂与卡斯蒂利亚的费尔南多一世，并止于阿方索八世；不向更早的纳瓦拉或莱昂前史延伸。"
+    }
+  ],
+  "holders": [
+    { "kind": "person", "personId": "c1026000-0000-4000-8000-000000000001", "startYear": 1037, "endYear": 1065, "titleForm": "King of Castile", "note": "First Jiménez king in this Castilian royal line.", "noteCn": "本卡斯蒂利亚王位链的首位希梅纳国王。", "tierOverride": "king" },
+    { "kind": "person", "personId": "c1027000-0000-4000-8000-000000000002", "startYear": 1065, "endYear": 1072, "titleForm": "King of Castile", "note": "Received Castile in Ferdinand I's 1065 partition.", "noteCn": "在1065年费尔南多一世分封中取得卡斯蒂利亚。", "tierOverride": "king" },
+    { "kind": "person", "personId": "c1028000-0000-4000-8000-000000000003", "startYear": 1072, "endYear": 1109, "titleForm": "King of León and Castile", "note": "Succeeded Sancho II and reunited the León-Castile monarchy.", "noteCn": "继承桑乔二世，并重新统一莱昂—卡斯蒂利亚王权。", "tierOverride": "king" },
+    { "kind": "person", "personId": "c1029000-0000-4000-8000-000000000004", "startYear": 1109, "endYear": 1126, "titleForm": "Queen of León and Castile", "note": "Ruling queen in her own right, succeeding her father Alfonso VI.", "noteCn": "以自身权利继承父亲阿方索六世的实权女王。", "tierOverride": "king" },
+    { "kind": "person", "personId": "c1032000-0000-4000-8000-000000000007", "startYear": 1126, "endYear": 1157, "titleForm": "King of León and Castile", "note": "The crown passed through Urraca; Alfonso VII's paternal house was Iberian Burgundy.", "noteCn": "王位经乌拉卡继承；阿方索七世的父系家族转为伊比利亚勃艮第支。", "tierOverride": "king" },
+    { "kind": "person", "personId": "c1034000-0000-4000-8000-000000000009", "startYear": 1157, "endYear": 1158, "titleForm": "King of Castile", "note": "After Alfonso VII's death, Castile and León were divided again.", "noteCn": "阿方索七世去世后，卡斯蒂利亚与莱昂再次分治。", "tierOverride": "king" },
+    { "kind": "person", "personId": "c1035000-0000-4000-8000-000000000010", "startYear": 1158, "endYear": 1214, "titleForm": "King of Castile", "note": "Succeeded his father Sancho III as king of the separate Castilian realm.", "noteCn": "继承父亲桑乔三世，成为分治后卡斯蒂利亚王国的国王。", "tierOverride": "king" }
+  ]
+}

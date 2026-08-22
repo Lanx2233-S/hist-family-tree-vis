@@ -18,7 +18,7 @@
     "deathPlace": "Tower of London, England",
     "birthPlaceCn": "英格兰威斯敏斯特",
     "deathPlaceCn": "英格兰伦敦塔",
-    "dynasty": "House of York",
+    "dynasty": "Plantagenet dynasty",
     "house": "House of York",
     "culture": "English",
     "faith": "Catholic",
@@ -182,5 +182,697 @@
     ],
     "createdDate": "20260816",
     "createdOrder": 13
+  },
+  {
+    "id": "1299a0d9-153e-4a1d-a90f-27ae608c44ae",
+    "firstName": "Richard",
+    "lastName": "Plantagenet",
+    "displayName": "Richard of York",
+    "fullName": "Richard of York, 3rd Duke of York",
+    "displayNameCn": "约克的理查",
+    "fullNameCn": "第三代约克公爵理查",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1411,
+    "deathYear": 1460,
+    "birthPlace": "Conisbrough Castle, Yorkshire, England",
+    "birthPlaceCn": "英格兰约克郡科尼斯伯勒城堡",
+    "deathPlace": "Wakefield, Yorkshire, England",
+    "deathPlaceCn": "英格兰约克郡韦克菲尔德",
+    "gender": "male",
+    "dynasty": "Plantagenet dynasty",
+    "house": "House of York",
+    "culture": "English",
+    "faith": "Catholic",
+    "rank": "duke",
+    "primaryTitle": "Duke of York",
+    "primaryTitleCn": "约克公爵",
+    "tags": [
+      "duke",
+      "noble",
+      "commander"
+    ],
+    "titles": [
+      {
+        "title": "Duke of York",
+        "startYear": 1415,
+        "endYear": 1460,
+        "titleCn": "约克公爵"
+      },
+      {
+        "title": "Earl of March and Ulster",
+        "startYear": 1425,
+        "endYear": 1460,
+        "titleCn": "马奇伯爵与阿尔斯特伯爵"
+      }
+    ],
+    "importanceScore": 84,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "38e14a5d-17a3-4c5a-8ee3-3d4d39d911af",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "423d8a6a-a3f5-4502-abc7-5b6943dcfac6",
+        "62f8458b-9497-45fd-8ccc-7930f38c7ae8"
+      ]
+    },
+    "events": [
+      {
+        "year": 1411,
+        "month": 9,
+        "day": 21,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "dynasty"
+        ],
+        "weight": 82,
+        "label": "Birth of Richard of York",
+        "labelCn": "约克的理查出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Richard_of_York,_3rd_Duke_of_York",
+        "note": "Born 21 September 1411 (some sources say 22 September) at Conisbrough Castle, son of Richard of Conisburgh and Anne Mortimer; his mother died during or shortly after his birth."
+      },
+      {
+        "year": 1415,
+        "month": 10,
+        "day": 25,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "succession",
+          "duke"
+        ],
+        "weight": 88,
+        "label": "Inherited the Dukedom of York",
+        "labelCn": "继承约克公爵爵位",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Richard_of_York,_3rd_Duke_of_York",
+        "note": "His father Richard of Conisburgh was executed in August 1415 for the Southampton Plot, and his childless uncle Edward, 2nd Duke of York, fell at Agincourt on 25 October 1415, leaving Richard the dukedom. On the death of his maternal uncle Edmund Mortimer in 1425 he also inherited the earldoms of March and Ulster, becoming the greatest magnate in England."
+      },
+      {
+        "year": 1436,
+        "month": 5,
+        "day": 8,
+        "type": "government",
+        "tags": [
+          "government",
+          "campaign",
+          "main_commander"
+        ],
+        "weight": 80,
+        "label": "Appointed Lieutenant of France",
+        "labelCn": "被任命为法兰西代理总督",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Richard_of_York,_3rd_Duke_of_York",
+        "note": "First French lieutenancy 8 May 1436 - 16 July 1437; a second term followed on 2 July 1440 - 29 September 1445."
+      },
+      {
+        "year": 1447,
+        "month": 7,
+        "day": 30,
+        "type": "government",
+        "tags": [
+          "government",
+          "territory"
+        ],
+        "weight": 82,
+        "label": "Appointed Lieutenant of Ireland",
+        "labelCn": "被任命为爱尔兰代理总督",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Richard_of_York,_3rd_Duke_of_York",
+        "note": "Given a ten-year lieutenancy of Ireland on 30 July 1447; he landed there in June 1449 and returned to England on 7 September 1450."
+      },
+      {
+        "year": 1454,
+        "month": 3,
+        "day": 27,
+        "type": "government",
+        "tags": [
+          "government",
+          "regency",
+          "succession"
+        ],
+        "weight": 90,
+        "label": "Appointed Lord Protector",
+        "labelCn": "被任命为护国公",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Richard,_Duke_of_York",
+        "note": "Appointed Protector of the Realm on 27 March 1454 during Henry VI's incapacity; he resumed the office in November 1455 and surrendered it in February 1456. (The existing event year of 1453 was corrected to 1454.)"
+      },
+      {
+        "year": 1455,
+        "month": 5,
+        "day": 22,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "commander"
+        ],
+        "weight": 94,
+        "label": "First Battle of St Albans",
+        "labelCn": "第一次圣奥尔本斯战役",
+        "wikiUrl": "https://en.wikipedia.org/wiki/First_Battle_of_St_Albans",
+        "note": "On 22 May 1455 York, Warwick and Salisbury defeated a royal army of about 2,000; the Duke of Somerset and Earls of Northumberland and Clifford were killed — the first battle of the Wars of the Roses."
+      },
+      {
+        "year": 1459,
+        "month": 10,
+        "day": 12,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "defeat",
+          "rebellion"
+        ],
+        "weight": 88,
+        "label": "Defeat at Ludford Bridge; fled to Ireland",
+        "labelCn": "拉德福德桥之败，逃亡爱尔兰",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Ludford_Bridge",
+        "note": "On 12 October 1459 Warwick's Calais troops refused to fight; York fled to Ireland and was attainted, while his wife and younger sons were captured at Ludlow."
+      },
+      {
+        "year": 1460,
+        "month": 7,
+        "day": 10,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "commander"
+        ],
+        "weight": 90,
+        "label": "Battle of Northampton",
+        "labelCn": "北安普顿战役",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Northampton_(1460)",
+        "note": "The Yorkist allies captured Henry VI on 10 July 1460, opening the way for York's return from Ireland and his claim to the throne."
+      },
+      {
+        "year": 1460,
+        "month": 10,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "dynasty"
+        ],
+        "weight": 96,
+        "label": "Act of Accord named him heir to the throne",
+        "labelCn": "《协议法案》确立其王位继承人身份",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Act_of_Accord",
+        "note": "At the parliament meeting from 7 October 1460, York and his heirs were recognised as Henry VI's successors, and York was made Protector again."
+      },
+      {
+        "year": 1460,
+        "month": 12,
+        "day": 30,
+        "type": "death",
+        "tags": [
+          "death",
+          "battle",
+          "violent"
+        ],
+        "weight": 96,
+        "label": "Killed at the Battle of Wakefield",
+        "labelCn": "在韦克菲尔德战役中阵亡",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Wakefield",
+        "note": "Sortieing from Sandal Castle on 30 December 1460, York was killed; accounts differ between death fighting to the last and capture followed by beheading. His head was displayed over Micklegate Bar at York wearing a paper crown."
+      }
+    ],
+    "deathCause": {
+      "kind": "violent",
+      "summary": "Killed in battle",
+      "detail": "Richard of York was killed after the Battle of Wakefield in 1460 while fighting the Lancastrian army.",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Wakefield",
+      "summaryCn": "战死",
+      "detailCn": "1460 年约克的理查在与兰开斯特军交战后于韦克菲尔德战役中被杀。"
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Richard_of_York,_3rd_Duke_of_York",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Richard_of_York,_3rd_Duke_of_York",
+    "sourceNote": "Dates and facts from the English Wikipedia article 'Richard of York, 3rd Duke of York' (text, infobox and offices list), fetched 2026-08-17.",
+    "notes": "Son of Richard of Conisburgh and Anne Mortimer; became 3rd Duke of York on his uncle's death at Agincourt (1415) and inherited the Mortimer estates in 1425, making him England's most powerful magnate. Served as Lieutenant of France (1436-37, 1440-45) and of Ireland (1447). Twice Lord Protector during Henry VI's incapacity. Claimed the throne in October 1460 under the Act of Accord and was killed at Wakefield on 30 December 1460. His son Edward IV carried the claim to the crown.",
+    "createdDate": "20260815",
+    "createdOrder": 40,
+    "historicalRating": 7
+  },
+  {
+    "id": "423d8a6a-a3f5-4502-abc7-5b6943dcfac6",
+    "firstName": "Edward",
+    "lastName": "Plantagenet",
+    "displayName": "Edward IV",
+    "fullName": "Edward IV of England",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1442,
+    "deathYear": 1483,
+    "birthPlace": "Rouen, Normandy, France",
+    "deathPlace": "Westminster, London, England",
+    "birthPlaceCn": "法国诺曼底鲁昂",
+    "deathPlaceCn": "英格兰伦敦威斯敏斯特",
+    "gender": "male",
+    "dynasty": "Plantagenet dynasty",
+    "house": "House of York",
+    "culture": "English",
+    "faith": "Catholic",
+    "primaryTitle": "King of England",
+    "titles": [
+      {
+        "title": "King of England",
+        "startYear": 1461,
+        "endYear": 1483,
+        "titleCn": "英格兰国王"
+      }
+    ],
+    "tags": [
+      "monarch",
+      "commander"
+    ],
+    "rank": "king",
+    "importanceScore": 90,
+    "relationships": {
+      "fatherId": "1299a0d9-153e-4a1d-a90f-27ae608c44ae",
+      "motherId": "",
+      "spouseIds": [
+        "2b1f74cd-3853-48c0-b048-aa8c3dd1d59d"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "738a5858-9506-4f77-b5ed-7539c01d7bbc",
+        "6c6619a1-067a-4f2b-a410-c882d6b794f7"
+      ]
+    },
+    "events": [
+      {
+        "year": 1442,
+        "month": 4,
+        "day": 28,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "dynasty"
+        ],
+        "weight": 60,
+        "label": "Born at Rouen",
+        "labelCn": "出生于鲁昂",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Edward_IV_of_England"
+      },
+      {
+        "year": 1461,
+        "type": "title",
+        "tags": [
+          "title",
+          "monarch"
+        ],
+        "weight": 98,
+        "label": "Became King of England",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Edward_IV_of_England",
+        "month": 3,
+        "day": 4,
+        "labelCn": "成为英格兰国王"
+      },
+      {
+        "year": 1461,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "commander"
+        ],
+        "weight": 100,
+        "label": "Battle of Towton",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Towton",
+        "month": 3,
+        "day": 29,
+        "labelCn": "陶顿战役"
+      },
+      {
+        "year": 1461,
+        "month": 6,
+        "day": 28,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "king"
+        ],
+        "weight": 76,
+        "label": "Crowned King of England at Westminster",
+        "labelCn": "在威斯敏斯特加冕为英格兰国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Edward_IV_of_England"
+      },
+      {
+        "year": 1464,
+        "month": 5,
+        "day": 1,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 84,
+        "label": "Secretly married Elizabeth Woodville",
+        "labelCn": "秘密迎娶伊丽莎白·伍德维尔",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Elizabeth_Woodville"
+      },
+      {
+        "year": 1470,
+        "month": 10,
+        "type": "political_crisis",
+        "tags": [
+          "defeat",
+          "dynasty"
+        ],
+        "weight": 88,
+        "label": "Deposed by Warwick's readeption; fled to Burgundy",
+        "labelCn": "被沃里克复辟废黜，流亡勃艮第",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Readeption_of_Henry_VI",
+        "note": "Warwick restored Henry VI (the readeption) in October 1470; Edward narrowly escaped capture and took refuge in Bruges."
+      },
+      {
+        "year": 1471,
+        "month": 3,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "commander",
+          "dynasty"
+        ],
+        "weight": 86,
+        "label": "Returned from exile and reclaimed the throne",
+        "labelCn": "流亡归来并重夺王位",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Edward_IV_of_England",
+        "note": "Landed near Hull in March 1471, entered London and took Henry VI prisoner."
+      },
+      {
+        "year": 1471,
+        "month": 4,
+        "day": 14,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "commander"
+        ],
+        "weight": 92,
+        "label": "Victory at the Battle of Barnet (Warwick killed)",
+        "labelCn": "巴尼特战役获胜（沃里克阵亡）",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Barnet"
+      },
+      {
+        "year": 1471,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "commander"
+        ],
+        "weight": 94,
+        "label": "Battle of Tewkesbury",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Tewkesbury",
+        "month": 5,
+        "day": 4,
+        "labelCn": "蒂克斯伯里战役"
+      },
+      {
+        "year": 1475,
+        "type": "diplomacy",
+        "tags": [
+          "diplomacy",
+          "treaty"
+        ],
+        "weight": 78,
+        "label": "Treaty of Picquigny",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Treaty_of_Picquigny",
+        "month": 8,
+        "day": 29,
+        "labelCn": "《皮基尼条约》"
+      },
+      {
+        "year": 1483,
+        "month": 4,
+        "day": 9,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 96,
+        "label": "Died at Westminster after a short illness",
+        "labelCn": "短暂病痛后在威斯敏斯特去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Edward_IV_of_England"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Edward_IV_of_England",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Edward_IV_of_England",
+    "sourceNote": "English Wikipedia biography (Edward IV of England); dates verified against the article's chronology and infobox.",
+    "notes": "Enriched Plantagenet king record. Edward IV won the English crown in the Wars of the Roses at Mortimer's Cross and Towton (1461), was briefly deposed by Warwick's readeption (1470-71), and recovered it at Barnet and Tewkesbury (1471). His sudden death on 9 April 1483 at age 40 left his 12-year-old son Edward V as king, enabling Richard III's usurpation.",
+    "createdDate": "20260815",
+    "createdOrder": 41,
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Natural death after a short illness; exact disease debated",
+      "detail": "Edward IV died suddenly at Westminster on 9 April 1483 after a short illness. The precise diagnosis is debated (pneumonia, malaria, typhoid, apoplexy or even poisoning have been suggested), but the death itself was of natural causes; he was only 40.",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Edward_IV_of_England",
+      "summaryCn": "短暂病痛后自然死亡；具体病因有争议",
+      "detailCn": "1483年4月9日，爱德华四世在短暂病痛后于威斯敏斯特突然去世。具体病因说法不一（肺炎、疟疾、伤寒、中风或中毒之说均有人提出），但属自然死亡；年仅40岁。"
+    },
+    "displayNameCn": "爱德华四世",
+    "fullNameCn": "英格兰国王爱德华四世",
+    "primaryTitleCn": "英格兰国王",
+    "historicalRating": 8
+  },
+  {
+    "id": "738a5858-9506-4f77-b5ed-7539c01d7bbc",
+    "firstName": "Edward",
+    "lastName": "Plantagenet",
+    "displayName": "Edward V",
+    "fullName": "Edward V of England",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1470,
+    "deathYear": 1483,
+    "birthPlace": "Westminster (Cheyneygates), London, England",
+    "deathPlace": "Tower of London, London, England",
+    "birthPlaceCn": "英格兰伦敦威斯敏斯特（切尼盖茨）",
+    "deathPlaceCn": "英格兰伦敦塔",
+    "gender": "male",
+    "dynasty": "Plantagenet dynasty",
+    "house": "House of York",
+    "culture": "English",
+    "faith": "Catholic",
+    "primaryTitle": "King of England",
+    "titles": [
+      {
+        "title": "King of England",
+        "startYear": 1483,
+        "endYear": 1483,
+        "titleCn": "英格兰国王"
+      }
+    ],
+    "tags": [
+      "monarch"
+    ],
+    "rank": "king",
+    "importanceScore": 82,
+    "relationships": {
+      "fatherId": "423d8a6a-a3f5-4502-abc7-5b6943dcfac6",
+      "motherId": "2b1f74cd-3853-48c0-b048-aa8c3dd1d59d",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1470,
+        "month": 11,
+        "day": 2,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "dynasty"
+        ],
+        "weight": 70,
+        "label": "Born in sanctuary at Westminster",
+        "labelCn": "出生于威斯敏斯特的避难所中",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Edward_V_of_England",
+        "note": "Born at Cheyneygates, the abbot of Westminster's house, while his mother Elizabeth Woodville sheltered from the Lancastrian readeption."
+      },
+      {
+        "year": 1483,
+        "type": "title",
+        "tags": [
+          "title",
+          "monarch"
+        ],
+        "weight": 96,
+        "label": "Became King of England",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Edward_V_of_England",
+        "month": 4,
+        "day": 9,
+        "labelCn": "成为英格兰国王"
+      },
+      {
+        "year": 1483,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "dynasty"
+        ],
+        "weight": 92,
+        "label": "Declared illegitimate and displaced from the succession",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Titulus_Regius",
+        "month": 6,
+        "labelCn": "被宣布为私生子女并被排除出继承序列"
+      },
+      {
+        "year": 1483,
+        "type": "death",
+        "tags": [
+          "death",
+          "uncertain"
+        ],
+        "weight": 100,
+        "label": "Disappeared in the Tower of London",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Princes_in_the_Tower",
+        "note": "His fate remains unresolved.",
+        "labelCn": "在伦敦塔中失踪"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Edward_V_of_England",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Edward_V_of_England",
+    "sourceNote": "English Wikipedia biography (Edward V of England); dates verified against the article's chronology and infobox.",
+    "notes": "Enriched Plantagenet king record. Edward V reigned for only 78 days (9 April - 25 June 1483) as a boy of 12. After Titulus Regius declared him illegitimate, his uncle Richard III took the throne. Edward and his younger brother Richard, Duke of York, disappeared in the Tower of London in the summer of 1483 and were presumably murdered on Richard's orders, though conclusive evidence is lacking; presumed remains were reburied in Westminster Abbey in 1678. The death year 1483 is retained as a convention: the precise date and manner of death are unknown.",
+    "createdDate": "20260815",
+    "createdOrder": 42,
+    "deathCause": {
+      "kind": "uncertain",
+      "summary": "Death and fate uncertain",
+      "detail": "Edward V disappeared in the Tower of London in the summer of 1483 after being deposed by his uncle Richard III. No confirmed remains or definitive account establishes when or how he died; the princes were presumably murdered, most likely on Richard's orders, but other theories persist.",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Edward_V_of_England",
+      "summaryCn": "生死下落存疑",
+      "detailCn": "1483年夏，爱德华五世在被叔父理查三世废黜后于伦敦塔中失踪。没有确认的遗骸或确凿记载能说明其何时、如何死亡；王子们很可能遭谋杀，最可能系理查下令，但其他说法仍然存在。"
+    },
+    "displayNameCn": "爱德华五世",
+    "fullNameCn": "英格兰国王爱德华五世",
+    "primaryTitleCn": "英格兰国王",
+    "historicalRating": 7
+  },
+  {
+    "id": "62f8458b-9497-45fd-8ccc-7930f38c7ae8",
+    "firstName": "Richard",
+    "lastName": "York",
+    "displayName": "Richard III",
+    "fullName": "Richard III of England",
+    "displayNameCn": "理查三世",
+    "fullNameCn": "英格兰国王理查三世",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [
+      "Richard of Gloucester"
+    ],
+    "nicknameTags": [],
+    "birthYear": 1452,
+    "deathYear": 1485,
+    "birthPlace": "Fotheringhay Castle, England",
+    "deathPlace": "Bosworth Field, England",
+    "birthPlaceCn": "英格兰福瑟林盖城堡",
+    "deathPlaceCn": "英格兰博斯沃思原野",
+    "gender": "male",
+    "dynasty": "Plantagenet dynasty",
+    "house": "House of York",
+    "culture": "English",
+    "faith": "Catholic",
+    "primaryTitle": "King of England",
+    "primaryTitleCn": "英格兰国王",
+    "titles": [
+      {
+        "title": "King of England",
+        "titleCn": "英格兰国王",
+        "startYear": 1483,
+        "endYear": 1485
+      }
+    ],
+    "tags": [
+      "monarch",
+      "commander"
+    ],
+    "rank": "king",
+    "importanceScore": 84,
+    "historicalRating": 8,
+    "relationships": {
+      "fatherId": "1299a0d9-153e-4a1d-a90f-27ae608c44ae",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1452,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 60,
+        "label": "Born at Fotheringhay Castle",
+        "labelCn": "出生于福瑟林盖城堡",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Richard_III_of_England"
+      },
+      {
+        "year": 1483,
+        "type": "government",
+        "tags": [
+          "government"
+        ],
+        "weight": 67,
+        "label": "Became Lord Protector for Edward V",
+        "labelCn": "出任爱德华五世的护国公",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Richard_III_of_England"
+      },
+      {
+        "year": 1483,
+        "type": "coronation",
+        "tags": [
+          "coronation"
+        ],
+        "weight": 74,
+        "label": "Crowned King of England",
+        "labelCn": "加冕为英格兰国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Richard_III_of_England"
+      },
+      {
+        "year": 1483,
+        "type": "battle",
+        "tags": [
+          "battle"
+        ],
+        "weight": 81,
+        "label": "Defeated Buckingham's rebellion",
+        "labelCn": "平定白金汉叛乱",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Richard_III_of_England"
+      },
+      {
+        "year": 1485,
+        "type": "battle",
+        "tags": [
+          "battle"
+        ],
+        "weight": 88,
+        "label": "Killed at the Battle of Bosworth Field",
+        "labelCn": "在博斯沃思原野战役阵亡",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Richard_III_of_England"
+      }
+    ],
+    "deathCause": {
+      "kind": "violent",
+      "summary": "Killed at the Battle of Bosworth Field",
+      "summaryCn": "在博斯沃思原野战役中阵亡",
+      "detail": "Richard III was killed in battle on 22 August 1485.",
+      "detailCn": "1485年8月22日，理查三世在战斗中阵亡。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Richard_III_of_England"
+    },
+    "wikiUrl": "https://en.wikipedia.org/wiki/Richard_III_of_England",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Richard_III_of_England",
+    "sourceNote": "Younger brother of Edward IV; last Plantagenet king of England. Core chronology completed 2026-08-20.",
+    "notes": "Basic main-line succession card.",
+    "createdDate": "20260817",
+    "createdOrder": 47
   }
 ]

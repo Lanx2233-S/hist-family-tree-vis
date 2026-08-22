@@ -1,0 +1,20 @@
+{
+  "id": "c9700000-0000-4000-8000-000000000000",
+  "canonicalName": "King of Jerusalem",
+  "canonicalNameCn": "耶路撒冷国王",
+  "form": "evolving",
+  "aliases": ["Kingdom of Jerusalem"],
+  "nameForms": [{"name":"King of Jerusalem","nameCn":"耶路撒冷国王","fromYear":1099,"untilYear":1291,"note":"Latin Christian monarchy established after the First Crusade.","noteCn":"第一次十字军东征后建立的拉丁基督教君主国。"}],
+  "holders": [
+    {"personId":"c9470000-0000-4000-8000-000000000000","startYear":1099,"endYear":1100,"titleForm":"King of Jerusalem","note":"Elected after the capture of Jerusalem; he declined the royal title and used Defender of the Holy Sepulchre.","noteCn":"耶路撒冷攻占后被推举；他拒绝使用国王称号，采用圣墓守护者称号。","kind":"person"},
+    {"personId":"c9480000-0000-4000-8000-000000000000","startYear":1100,"endYear":1118,"titleForm":"King of Jerusalem","note":"Succeeded his brother Godfrey and accepted the royal title.","noteCn":"继承其兄戈弗雷并正式接受王号。","kind":"person"},
+    {"personId":"c9490000-0000-4000-8000-000000000000","startYear":1118,"endYear":1131,"titleForm":"King of Jerusalem","note":"Succeeded Baldwin I through the established royal succession.","noteCn":"依照既定王室继承顺序继承鲍德温一世。","kind":"person"},
+    {"personId":"c9390000-0000-4000-8000-000000000035","startYear":1131,"endYear":1161,"titleForm":"Queen of Jerusalem","note":"Inherited the crown from her father and ruled with Fulk, then with Baldwin III as co-ruler.","noteCn":"继承父亲的王冠，先与富尔克共治，后与鲍德温三世共治。","kind":"person"},
+    {"personId":"c9400000-0000-4000-8000-000000000036","startYear":1143,"endYear":1163,"titleForm":"King of Jerusalem","note":"Crowned as Melisende's co-ruler while still a minor.","noteCn":"幼年加冕，与母亲梅利桑德共治。","kind":"person"},
+    {"personId":"c9410000-0000-4000-8000-000000000037","startYear":1163,"endYear":1174,"titleForm":"King of Jerusalem","note":"Succeeded his brother Baldwin III.","noteCn":"继承其兄鲍德温三世。","kind":"person"},
+    {"personId":"c9440000-0000-4000-8000-000000000040","startYear":1174,"endYear":1185,"titleForm":"King of Jerusalem","note":"Succeeded his father Amalric I.","noteCn":"继承其父阿马尔里克一世。","kind":"person"},
+    {"personId":"c9520000-0000-4000-8000-000000000000","startYear":1185,"endYear":1186,"titleForm":"King of Jerusalem","note":"Succeeded his uncle Baldwin IV as a child under regency.","noteCn":"幼年继承其舅舅鲍德温四世，并由摄政辅政。","kind":"person"},
+    {"personId":"c9450000-0000-4000-8000-000000000041","startYear":1186,"endYear":1190,"titleForm":"Queen of Jerusalem","note":"Inherited the crown after Baldwin V's death and was crowned with Guy of Lusignan.","noteCn":"鲍德温五世去世后继承王位，并与居伊·德·吕西尼昂共同加冕。","kind":"person"},
+    {"personId":"c9460000-0000-4000-8000-000000000042","startYear":1190,"endYear":1205,"titleForm":"Queen of Jerusalem","note":"Inherited the crown after Sibylla's death and was recognized through successive royal marriages.","noteCn":"西比拉去世后继承王位，并通过连续的王室婚姻维持王位继承。","kind":"person"}
+  ]
+}

@@ -889,6 +889,30 @@ Split by responsibility and keep data, derived presentation, interaction state, 
 - `npm run build` 通过（数据构建、TypeScript、Vite）。
 - `git diff --check` 通过。
 
+## 2026-08-22：梅利桑德家族归属修正
+
+- Melisende of Jerusalem 的 `dynasty/house` 从 House of Anjou 修正为父系 House of Rethel；House of Anjou 仅属于其丈夫 Fulk V。
+
+## 2026-08-23：蒙费拉托—耶路撒冷关系补全
+
+- 新增 William V of Montferrat 与 Judith of Babenberg，并补入五子三女：William Longsword、Conrad、Boniface、Frederick、Renier、Agnes、Azalaïs，以及一位姓名不详的女儿占位卡。
+- 完善 William Longsword 与 Sibylla、Conrad 与 Isabella 的父母、配偶、子女 UUID；Conrad 的 Theodora Angelina 婚姻也予以记录。其无名首任妻子没有可用姓名，未虚构人物卡。
+- 通过生成器与构建校验；人物总数由 420 增至 429。
+- Marquis / Marchioness 在人物卡等级中按侯爵级贵族处理为公爵级视觉层，不降为伯爵。
+- Boniface I 补入 `King of Thessalonica`（1205–1207），并保留 `Marquis of Montferrat` 双头衔。
+
+## 2026-08-22：耶路撒冷王国头衔链与王室关系
+
+- 复用 `temporary-anjou.json` 中已有的梅利桑德、鲍德温三世、阿马尔里克一世、巴里安四世、西比拉与伊莎贝拉卡片。
+- 新增戈弗雷、鲍德温一世、鲍德温二世、西比拉两任丈夫及子女、伊莎贝拉四任丈夫及女儿的基础卡；补齐父母、配偶、子女 UUID 双向关系。
+- 新建 `kingdom-of-jerusalem.json` 并接入 Title Page；梅利桑德与鲍德温三世的共治以重叠持有段表示，不误写为线性继承。
+- 蒙费拉的威廉保留英语主名，并加入意大利语别名 `Guglielmo Lungaspada`。
+
+### 验收
+
+- `npm run build` 通过；数据构建输出 420 人。
+- 父子关系、配偶关系与 manifest 顺序校验通过；`git diff --check` 通过。
+
 ## 2026-08-22：Foulques V 家族与耶路撒冷王室桥接
 
 - 完善 Foulques V le Jeune：补入两段婚姻（Ermengarde of Maine、Melisende of Jerusalem），并连接 Geoffrey V、Matilda、Sibylla、Elias II、Baldwin III 与 Amalric I。
@@ -900,6 +924,13 @@ Split by responsibility and keep data, derived presentation, interaction state, 
 
 - `npm run build` 通过（403 people、TypeScript、Vite）。
 - `git diff --check` 通过；manifest、JSON 与 entry log 的 UUID 和总序号一致。
+
+## 2026-08-23：金雀花大宗族与支系拆分
+
+- 统一金雀花人物的 `dynasty` 为 `Plantagenet dynasty`，以共同大宗族表达 Geoffroy V 以来的血缘连续性。
+- 人员 JSON 按出生 House 拆分：`plantagenet.json`（主 House）、新增 `lancaster.json`、扩充 `york.json`；不改变 UUID、关系或总人数。
+- John of Gaunt 至 Henry VI 归 `House of Lancaster`；Richard of York、Edward IV/V、Richard III、Elizabeth of York 归 `House of York`。Richard III 从 `other.json` 迁入 `york.json`。
+- 新增 `src/data/dynasties.ts`，集中维护 `Plantagenet dynasty → { Plantagenet, Lancaster, York }` 的 House 映射，作为维特尔斯巴赫等大宗族拆分的后续范式。
 
 ## 2026-08-22：图卢兹伯国主链（Frédelon → Raymond V）
 
@@ -1204,3 +1235,168 @@ Split by responsibility and keep data, derived presentation, interaction state, 
 
 - `npm run build` 通过（数据构建、TypeScript、Vite）。
 - `git diff --check` 通过。
+
+## 2026-08-23：全局中文显示 UI 复查与修正
+
+- 扫描 429 人（18 文件）、14 头衔链。修正 3 处「蒙费拉」→「蒙费拉托」、2 处「博杜安」→「鲍德温」、1 处「（古列尔莫）」删除；统一 Montferrat=蒙费拉托、Baldwin=鲍德温、Guglielmo=威廉、Rethel=勒泰勒。
+- 补 presentation 层映射：dynastyCnMap +44（Habsburg/Luxembourg/Wittelsbach/Hohenstaufen/Ottonian/Stewart/Hauteville/Babenberg/Lusignan/Montferrat/Rethel/Jerusalem/Toulouse 等）、cultureCnMap +7、faithCnMap +1（Protestant=新教）。
+- flash 填充 226 个中文字段（fullNameCn 103 / primaryTitleCn 47 / titleCn 46 / displayNameCn 12 / deathPlaceCn 8 / birthPlaceCn 7 / nicknameCn 3），全部人名/头衔/地名按约定译法补齐。
+- 验收：错误译名残留 0、纯拉丁中文字段残留 0、关键词一致（鲍德温8/博杜安0、蒙费拉托11/蒙费拉0、古列尔莫0）、`data:build` 429、`npm run build`、`git diff --check` 通过。
+- 遗留（可选字段，不强制）：4 处 gap 缺 arrowNoteCn/sideNoteCn（toulouse/normandy/scotland/hre 各 1–2 处）；事件 noteCn 大量缺（825，可选、回退英文 note）。
+
+## 2026-08-23：佛兰德伯国与诺曼底联结
+
+- 补入佛兰德主线人物：朱迪丝、鲍德温一世、二世、阿努尔夫一世、鲍德温三世、阿努尔夫二世、鲍德温四世、鲍德温五世；并补入玛蒂尔达的母亲阿黛拉、兄弟鲍德温六世与罗贝尔一世。
+- Matilda of Flanders 回填父母 UUID（Baldwin V + Adela of France），保持其与 William I 的既有婚姻及子女关系；Baldwin I–Judith–Charles the Bald 建立上溯链，Baldwin II 与 Ælfthryth 建立跨佛兰德/威塞克斯关系。
+- Judith 与 Æthelwulf、Æthelbald 的婚姻关系保留无子女，避免把她与 William I 的 Matilda 混淆；佛兰德伯国主线不另造头衔页。
+- 数据通过 `npm run data:build`（441 人）、`npm run build` 与 `git diff --check`；构建期双向父子校验曾拦截一处错误子女指向，修正后通过。
+
+## 2026-08-23：佛兰德伯国头衔入口
+
+- 新增 `County of Flanders / 佛兰德伯国`，归入 Title Page 的 Non-kingdom titles。
+- 头衔链展示 862–1093 的佛兰德侯国/伯国承袭：Baldwin I、Baldwin II、Arnulf I、Baldwin III、Arnulf II、Baldwin IV、Baldwin V、Baldwin VI、Robert I；Baldwin VI 后的 1070–1071 继承危机以虚线占位段表示。
+- 入口复用佛兰德人物 UUID，默认锚点为 Baldwin I，不加入国家入口。
+- 验收：`npm run build`、`git diff --check` 通过。
+
+## 2026-08-23：佛兰德伯国续至 1191
+
+- 延伸头衔链：Robert I → Robert II（1093–1111）→ Baldwin VII（1111–1119）→ Charles the Good（1119–1127）→ William Clito（1127–1128）→ Thierry of Alsace（1128–1168）→ Philip of Alsace（1168–1191）。
+- 新增 6 张基础人物卡；Robert I→Robert II、Robert Curthose→William Clito、Thierry→Philip 的父子关系已补回并通过双向校验。
+- William Clito 与 Thierry 的交接以竞争性继承/短暂争夺备注；Thierry 起标为 House of Alsace。
+- 验收：`npm run build`（447 人）、`git diff --check` 通过。
+
+## 2026-08-23：佛兰德侯爵与伯爵填充区分
+
+- 佛兰德早期 Baldwin I/II 保留 `Margrave` 的侯爵级（公爵层）填充；918 年起的 `Count of Flanders` 持有者统一改为 `count` 伯爵级填充。
+- 头衔链视觉与人物卡的 Count 语义一致，未改变历史称号文字。
+- 验收：`npm run build`、`git diff --check` 通过。
+
+## 2026-08-23：朱迪丝王后配偶色修正
+
+- Judith of Flanders 补充 `queen + consort + noble` 标签，沿用项目浅红色王后配偶填充；不改变其头衔、父系或婚姻关系。
+- 验收：`npm run build`、`git diff --check` 通过。
+
+## 2026-08-23：布拉班特公国主线与法兰西联姻
+
+- 新建 `Duchy of Brabant / 布拉班特公国` 头衔链：以戈弗雷三世的鲁汶／下洛林身份承接，正式公爵线自亨利一世（1190）连续至腓力善人（1430 起）；乔安娜与卢森堡的瓦茨拉夫一世按共治显示，末段使用“转入勃艮第体系”表述。
+- 新增 14 张基础人物卡（戈弗雷三世，亨利一世至四世，约翰一世至三世，乔安娜，瓦茨拉夫一世，安托万，约翰四世，圣波尔的腓力与腓力善人），补齐已列父子、父女及乔安娜—瓦茨拉夫婚姻的双向关系。
+- Marie of Brabant 改归 House of Reginar / House of Leuven，回填 Henry III 为父亲并保持其与 Philippe III 的既有婚姻；另补 Marie of France 与 Henry I 的双向婚姻。
+- Title Page 目录新增“德意志”分区，布拉班特按 1190 正式起点排序；公爵节点沿用现有公国蓝色语义。
+
+### 验收
+
+- `npm run data:build` 通过（478 人）。
+- `npm run build`、`git diff --check` 通过；布拉班特与 Marie 的已记录父母、子女、配偶关系均为双向。
+
+## 2026-08-23：丹麦王国早期王位主链
+
+- 新建 `Kingdom of Denmark / 丹麦王国` 可搜索头衔链，按 Gorm the Old（约 936）→ Harald Bluetooth → Sweyn Forkbeard → Harald II → Cnut → Harthacnut → Magnus the Good → Sweyn II → Harald III → Canute IV（1086）排列；Charles the Good 仅保留为 Canute IV 通往佛兰德的儿子，不进入王位持有者链。
+- 复用既有 Harald Bluetooth、Sweyn Forkbeard、Cnut the Great、Harthacnut、Canute IV，以及 Charles、Adela、Gytha、Godwin；新增 Gorm、Harald II、Magnus、Estrid Svendsdatter、Ulf Thorgilsson、Sweyn II、Harald III 共 7 张基础卡。
+- 补齐 Gorm—Harald—Sweyn、Sweyn 的三名子女、Estrid—Ulf—Sweyn II、Sweyn II—Harald III／Canute IV 等已录入双向关系；不为 Ulf／Gytha增设无证据父母，也不建立 Estridsen 至 Sigurd Ring 的人物父子关系。
+- Knýtlinga 与 Estridsen 相关卡统一为 dynasty + house 两层；Magnus 保持挪威 Fairhair 出身。Harthacnut—Magnus 与 Sweyn II 的链备注明确北欧王权转换和母系 Knýtlinga 合法性。
+
+### 验收
+
+- `npm run data:build` 通过（492 人）；丹麦相关 13 人的已记录亲属／婚姻关系双向检查通过。
+
+## 2026-08-23：善良的查理与埃斯特里德森王朝
+
+- Charles the Good（善良的查理）修正为 `House of Estridsen / 埃斯特里德森王朝`；他是丹麦王克努特四世之子，而不是佛兰德伯爵家族成员。其佛兰德伯爵头衔保持不变。
+- 新增父亲 Canute IV of Denmark、母亲 Adela of Flanders、配偶 Margaret of Clermont；补齐双向父子与配偶 UUID。查理与玛格丽特无存活子女，因此不虚构子女卡。
+- 查理人物卡补充 `the Good / 善良` 绰号、Danish 文化、Count 等基础显示信息；新增卡仍采用无事件的基础卡策略。
+- 验收：`npm run data:build`、`npm run build`、`git diff --check` 通过；当前工作副本构建产物为 478 人、20 个拆分数据文件（含此前并行加入的封建主数据）。
+
+## 2026-08-23：普罗旺斯伯国与四姐妹联姻线
+
+- 新建可搜索的 `County of Provence / 普罗旺斯伯国` 头衔链，Title Page 目录登记于「France / 法兰西」分区并按 1112 起始排序；目录显示为“普罗旺斯伯国”。
+- 补入杜丝一世起的巴塞罗那—阿拉贡—安茹主线基础人物卡，并将杜丝一世、普罗旺斯的贝亚特丽斯与那不勒斯的乔万娜一世明确建模为以自身权利统治的女伯爵。
+- Marguerite de Provence 与 Eleanor of Provence 回填 Ramon Berenguer V 和 Béatrice of Savoy 父母 UUID；补入 Sanchia 与 Beatrice，使四姐妹通过共同父母连接。Louis IX 的既有婚姻关系保持不变；Richard of Cornwall 未入库，未为其制造重复配偶卡。
+- 头衔与人物说明明确保留普罗旺斯作为帝国封建伯国的定位：贝亚特丽斯与安茹的查理的婚姻令其进入法国王室势力圈，并不等于并入法王直属领地。
+
+### 验收
+
+- `npm run data:build` 通过（478 人）；`npm run build` 与 `git diff --check` 通过。
+
+## 2026-08-23：卡斯蒂利亚王国主链（费尔南多一世至阿方索八世）
+
+- 新建 `Kingdom of Castile / 卡斯蒂利亚王国` 可搜索王位链，归入 Title Page 的 Kingdoms 并以 1037 排序；主线为费尔南多一世→桑乔二世→阿方索六世→乌拉卡一世→阿方索七世→桑乔三世→阿方索八世。
+- 新增 10 张基础卡：7 位主链持有者，以及关系所必需的 Raymond of Burgundy、Alfonso I of Aragon、Berengaria of Barcelona；未扩展至更早的纳瓦拉或莱昂前史。
+- Urraca I 以自身权利的实权女王建模（`monarch + queen`，不含 `consort`）；1126 节点明确标出王位经乌拉卡继承、阿方索七世父系 House 转为 `House of Burgundy (Iberian)`。
+- 按史实回填 Constance of Castile：父为 Alfonso VII、母为 Berengaria of Barcelona；保留其与 Louis VII 的既有婚姻。Alfonso VIII 作为其侄辈，未篡改为父女关系；其与既有 Eleanor of England 的婚姻已双向连接。
+- `src/data/dynasties.ts` 登记 `Ivrea dynasty → House of Burgundy (Iberian)`，并与 Elder/Valois Burgundy 保持分离。
+
+### 验收
+
+- `npm run data:build` 通过（502 人）；`npm run build` 与 `git diff --check` 通过。
+
+## 2026-08-23：卡斯蒂利亚 Title Page 正式入口
+
+- 将 `Kingdom of Castile / 卡斯蒂利亚王国` 标为 Title Page 默认展示的正式入口；同时保留在 Kingdoms 目录分区及按 1037 的排序。
+
+## 2026-08-23：Dynasty／House 全库规范
+
+- 统一字段语义：`dynasty` 表示共同的大宗族／血缘谱系，`house` 表示人物所属的领地支系或具体家族；尚未形成可辨认分支的家族，两字段可暂时同名。
+- 全库 478 张人物卡均已补齐两个字段。17 张曾以 `Capetian France` 占位的法兰西王后改为其出生宗族，例如 Ivrea、Barcelona、Blois-Navarre、Évreux、Bourbon、Luxembourg、Savoy 与 Bavaria-Ingolstadt；其余 7 张家世资料不足的卡明确标为 `Unknown dynasty`／`Unknown house`，不再错误按配偶王朝归类。
+- 已登记可并列维护的多支宗族：Capetian（Capet、Valois、Vermandois、Anjou、Évreux、Bourbon、两支 Burgundy）、Blois（Blois、Champagne、Blois-Champagne、Blois-Navarre）、Plantagenet（本支、Lancaster、York）、Wittelsbach（本支、Bavaria-Ingolstadt）以及 Reginar／Leuven。
+- Elder House of Burgundy 归入 Capetian dynasty；Valois-Burgundy 也保留为同一大宗族的另一支系。详情页继续同时显示简写 Dynasty 与完整 House。
+
+### 验收
+
+- 空 `dynasty`／`house` 字段：0；`npm run data:build`（478 人）、`npm run build` 与 `git diff --check` 通过。
+
+## 2026-08-23：巴伐利亚公爵主链
+
+- 新建 `Duchy of Bavaria / 巴伐利亚公国` 可搜索头衔链：以奥托一世（1180，狮子亨利被剥夺后获授）承接，经路易一世、奥托二世、路易二世、路易四世（1328 起兼神圣罗马帝国皇帝）、斯蒂芬二世，至斯蒂芬三世（1392 分割后沿因戈尔施塔特支）；头衔别名收录 `Duke of Bavaria-Ingolstadt`。
+- 新增 6 张维特尔斯巴赫公爵基础卡（奥托一世／路易一世／奥托二世／路易二世／斯蒂芬二世／斯蒂芬三世）与 1 张配偶卡（Taddea Visconti），补齐父子双向关系；路易四世复用 `other.json` 既有皇帝卡，斯蒂芬三世之女伊莎贝拉复用 `temporary-france-queens.json` 既有卡。
+- 头衔链登记：Title Page 目录加入「德意志」分区（directoryGroup `hre`，锚点奥托一世）；DetailPanel 补 `duchyOfBavariaData.canonicalName, ...duchyOfBavariaData.aliases` 到头衔识别集合，持有者详情页显示头衔谱系入口。
+- Dynasty／House：`Wittelsbach dynasty` 登记 `House of Wittelsbach` 与 `House of Wittelsbach — Bavaria-Ingolstadt` 两支。
+
+### 验收
+
+- `npm run data:build` 通过（492 人）；`npm run build` 与 `git diff --check` 通过。
+
+### 遗留
+
+- 头衔链止于斯蒂芬三世（1413）；1392 分割后的兰茨胡特、慕尼黑支及 1413 年后巴伐利亚公爵未建卡。
+
+## 2026-08-23：阿拉贡王国主链
+
+- 新建 `Kingdom of Aragon / 阿拉贡王国` 可搜索王位链，归入 Title Page 的 Kingdoms 目录并按 1035 排序；canonical `King of Aragon / 阿拉贡国王`，form `hereditary kingdom`，别名含 `Kingdom of Aragon`、`Queen of Aragon`、`阿拉贡王国`。
+- 王位链：Ramiro I（1035）→ Sancho Ramírez → Peter I → Alfonso I → Ramiro II → Petronilla（1137–1164，`tierOverride: queen-regnant`）。Ramón Berenguer IV 作为 1137–1162 的配偶/王朝联合节点附在 Petronilla 旁，titleForm `Prince of Aragon`、`tierOverride: queen-consort`，绝不用国王红色、绝不称 King of Aragon；1134 与 1137 节点以说明标出「Alfonso I 无合法子嗣→Ramiro II 被推举」与「Ramiro II 退位→Petronilla 以自身权利即位、Ramón 以亲王身份共同治理」。
+- 复用并行任务已建的 Jiménez 卡（`temporary-navarre.json`）：Sancho III（d101…005）、Sancho Ramírez（d101…008）、Peter I（d101…009）、Alfonso I（d101…010）；新增 5 张阿拉贡专属卡入 `temporary-aragon.json`（Ramiro I、Ramiro II、Agnes of Aquitaine、Petronilla、Ramon Berenguer IV）。
+- 关系接线双向：Sancho III → Ramiro I（非婚生子，notes 明确）→ Sancho Ramírez → Peter I／Alfonso I／Ramiro II；Ramiro II ↔ Agnes → Petronilla；Petronilla ↔ Ramón Berenguer IV；Ramón Berenguer IV 父接 Ramon Berenguer III（复用 `temporary-provence.json` 既有卡）。Agnes of Aquitaine 作为关键配偶补基础卡（House of Poitiers）。
+- Dynasty／House：阿拉贡王室至 Petronilla 保持 `Jiménez dynasty / House of Jiménez`；Ramón Berenguer IV 保持 `Barcelona dynasty / House of Barcelona`；补 presentation 层 `dynastyCnMap`（Barcelona dynasty→巴塞罗那宗族）与 `cultureCnMap`（Aragonese→阿拉贡人、Catalan→加泰罗尼亚人）。
+
+### 验收
+
+- `npm run data:build` 通过（520 人）；`npm run build` 与 `git diff --check` 通过。
+
+### 遗留 / 注意
+
+- 本批止于 Ramón Berenguer IV，未接 Alfonso II 及其后代（其卡已在 `temporary-provence.json`，父系未回填）。
+- 并行 Navarre 任务已建重叠 Jiménez 卡，本批按「不得重复建卡」复用；但并行任务自身存在 Alfonso I 双卡（castile `c1031000…006` 与 navarre `d101…010`），本批标题引用 navarre 版（父系正确），该重复需并行任务统一收敛。
+
+## 2026-08-23：纳瓦拉王位主链补全（桑乔一世 → 蒂博一世）
+
+- 补齐 `King of Navarre / 纳瓦拉国王` 头衔链在 Theobald I 之前的 13 位国王：Sancho I Garcés（905）→ García Sánchez I → Sancho II Garcés Abarca → García Sánchez II → Sancho III the Great → García Sánchez III → Sancho IV → Sancho V（Sancho Ramírez）→ Peter I → Alfonso I the Battler → García IV the Restorer → Sancho VI the Wise → Sancho VII the Strong（1234）；Theobald I 复用既有香槟卡 c7120000-...012，不重复创建。
+- 同一连续王权，仿「西法兰克 → 法兰西」处理：canonical 保持 `King of Navarre / 纳瓦拉国王`，nameForms 增补 `King of Pamplona（905–1162）` 与 `King of Navarre（1162–至今）`；aliases 增补 `Kingdom of Pamplona`、`Pamplona`、`潘普洛纳王国`、`King of Pamplona`。
+- 史实节点：Sancho IV 1076 年死后以 holder 备注说明「与阿拉贡形成联合王权」（非空位）；García IV 1134 年备注「恢复独立纳瓦拉王权」（非断链）；Sancho VI 约 1162 年切换 Navarre 称谓；Theobald I 标注母系继承与王朝转换，不改其 Blois-Champagne 父系宗族。
+- 13 位国王统一 `Jiménez dynasty / House of Jiménez`，国王红色填充（tierOverride king）；Peter I、Alfonso I 保留 King of Pamplona 并附 King of Aragon 头衔，未并入阿拉贡 title。
+- 新人物卡置于 `temporary-navarre.json`，只做基础卡与主链父子关系（未扩展旁支配偶子女）；`dynasties.ts` 登记 Jiménez dynasty → House of Jiménez，presentation 层补 Jiménez / House of Jiménez / Basque 中文映射。
+
+### 验收
+
+- 新增 13 人；temporary-navarre.json 主链父子关系双向一致，无孤儿 / 单向引用。
+- `npm run data:build` 通过（520 人，含并行的卡斯蒂利亚与阿拉贡支线）；`npm run build`、`git diff --check` 通过。
+- 并行的阿拉贡支线将 Ramiro I、Ramiro II 跨链回填到本任务的 Sancho III Garcés 与 Sancho V 关系，双向校验通过，未改动 Theobald I 的父系宗族。
+
+## 2026-08-23：Alfonso I 重复卡收敛
+
+- 以 Navarre 的 `Alfonso I the Battler`（d101…010）作为唯一规范卡，删除 Castile 的重复卡 `c1031000…006`。
+- 将 Urraca I 的 `spouseIds` 中 `c1031000…006` 替换为 `d101…010`；反向回填 `d101…010` 的 `spouseIds = [Urraca I（c1029000…004）]`，双向一致。全库无 title／event／note 内的 `personId` 引用残留（唯一残留为一次性生成脚本 `scripts/add-castile-line.mjs`，不参与运行时数据）。
+- 同步 `manifest.order`（移除 c1031000…006）、`people-entry-log.md`（删除该行并将总序号重排为连续 1→519）、生成数据 `people.normandy.json`、本文档。
+- 复查 Sancho III、Sancho Ramírez、Peter I、Alfonso I 四位全库各仅一张卡，阿拉贡／纳瓦拉 title holder 引用均未受影响。
+
+### 验收
+
+- `npm run data:build` 通过（519 人）；`npm run build`、`git diff --check` 通过。

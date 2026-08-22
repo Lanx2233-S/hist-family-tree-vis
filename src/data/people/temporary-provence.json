@@ -1,0 +1,828 @@
+[
+  {
+    "id": "c9910000-0000-4000-8000-000000000001",
+    "firstName": "Douce",
+    "lastName": "of Provence",
+    "displayName": "Douce I of Provence",
+    "fullName": "Douce I of Provence",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "普罗旺斯的杜丝一世",
+    "fullNameCn": "普罗旺斯的杜丝一世",
+    "nicknameCn": "",
+    "birthYear": 1090,
+    "deathYear": 1127,
+    "birthPlace": "Provence",
+    "birthPlaceCn": "普罗旺斯",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "female",
+    "dynasty": "House of Gévaudan",
+    "house": "House of Gévaudan",
+    "culture": "Occitan",
+    "faith": "Catholic",
+    "primaryTitle": "Countess of Provence",
+    "primaryTitleCn": "普罗旺斯女伯爵",
+    "titles": [
+      {
+        "title": "Countess of Provence",
+        "titleCn": "普罗旺斯女伯爵",
+        "startYear": 1112,
+        "endYear": 1131
+      }
+    ],
+    "tags": [
+      "count",
+      "ruler",
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 70,
+    "historicalRating": 7,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "c9920000-0000-4000-8000-000000000002"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "c9930000-0000-4000-8000-000000000003"
+      ]
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Douce_I,_Countess_of_Provence",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Douce_I,_Countess_of_Provence",
+    "sourceNote": "Basic card for the County of Provence succession.",
+    "notes": "Ruling countess in her own right. Her marriage brought the county into the Barcelona dynastic sphere.",
+    "createdDate": "20260823",
+    "createdOrder": 57
+  },
+  {
+    "id": "c9920000-0000-4000-8000-000000000002",
+    "firstName": "Ramon Berenguer",
+    "lastName": "of Barcelona",
+    "displayName": "Ramon Berenguer III of Barcelona",
+    "fullName": "Ramon Berenguer III of Barcelona",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "巴塞罗那的拉蒙·贝伦格尔三世",
+    "fullNameCn": "巴塞罗那的拉蒙·贝伦格尔三世",
+    "nicknameCn": "",
+    "birthYear": 1082,
+    "deathYear": 1131,
+    "birthPlace": "Provence",
+    "birthPlaceCn": "普罗旺斯",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "Barcelona dynasty",
+    "house": "House of Barcelona",
+    "culture": "Occitan",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Barcelona and Provence",
+    "primaryTitleCn": "巴塞罗那与普罗旺斯伯爵",
+    "titles": [
+      {
+        "title": "Count of Provence",
+        "titleCn": "普罗旺斯伯爵",
+        "startYear": 1112,
+        "endYear": 1131
+      }
+    ],
+    "tags": [
+      "count",
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 70,
+    "historicalRating": 7,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "c9910000-0000-4000-8000-000000000001"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "c9930000-0000-4000-8000-000000000003",
+        "e1010000-0000-4000-8000-000000000005"
+      ]
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Ramon_Berenguer_III,_Count_of_Barcelona",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Ramon_Berenguer_III,_Count_of_Barcelona",
+    "sourceNote": "Basic card for the County of Provence succession.",
+    "notes": "Co-ruled Provence through his marriage to the ruling countess Douce I.",
+    "createdDate": "20260823",
+    "createdOrder": 58
+  },
+  {
+    "id": "c9930000-0000-4000-8000-000000000003",
+    "firstName": "Berenguer Ramon",
+    "lastName": "of Provence",
+    "displayName": "Berenguer Ramon I of Provence",
+    "fullName": "Berenguer Ramon I of Provence",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "普罗旺斯的贝伦格尔·拉蒙一世",
+    "fullNameCn": "普罗旺斯的贝伦格尔·拉蒙一世",
+    "nicknameCn": "",
+    "birthYear": 1114,
+    "deathYear": 1144,
+    "birthPlace": "Provence",
+    "birthPlaceCn": "普罗旺斯",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "Barcelona dynasty",
+    "house": "House of Barcelona",
+    "culture": "Occitan",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Provence",
+    "primaryTitleCn": "普罗旺斯伯爵",
+    "titles": [
+      {
+        "title": "Count of Provence",
+        "titleCn": "普罗旺斯伯爵",
+        "startYear": 1131,
+        "endYear": 1144
+      }
+    ],
+    "tags": [
+      "count",
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "c9920000-0000-4000-8000-000000000002",
+      "motherId": "c9910000-0000-4000-8000-000000000001",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "c9940000-0000-4000-8000-000000000004"
+      ]
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Berenguer_Ramon_I,_Count_of_Provence",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Berenguer_Ramon_I,_Count_of_Provence",
+    "sourceNote": "Basic card for the County of Provence succession.",
+    "notes": "Succeeded his parents in Provence after Ramon Berenguer III's death.",
+    "createdDate": "20260823",
+    "createdOrder": 59
+  },
+  {
+    "id": "c9940000-0000-4000-8000-000000000004",
+    "firstName": "Ramon Berenguer",
+    "lastName": "of Provence",
+    "displayName": "Ramon Berenguer II of Provence",
+    "fullName": "Ramon Berenguer II of Provence",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "普罗旺斯的拉蒙·贝伦格尔二世",
+    "fullNameCn": "普罗旺斯的拉蒙·贝伦格尔二世",
+    "nicknameCn": "",
+    "birthYear": 1135,
+    "deathYear": 1166,
+    "birthPlace": "Provence",
+    "birthPlaceCn": "普罗旺斯",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "Barcelona dynasty",
+    "house": "House of Barcelona",
+    "culture": "Occitan",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Provence",
+    "primaryTitleCn": "普罗旺斯伯爵",
+    "titles": [
+      {
+        "title": "Count of Provence",
+        "titleCn": "普罗旺斯伯爵",
+        "startYear": 1144,
+        "endYear": 1166
+      }
+    ],
+    "tags": [
+      "count",
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "c9930000-0000-4000-8000-000000000003",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Ramon_Berenguer_II,_Count_of_Provence",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Ramon_Berenguer_II,_Count_of_Provence",
+    "sourceNote": "Basic card for the County of Provence succession.",
+    "notes": "Barcelona dynast who held Provence until the county passed to the Aragonese branch.",
+    "createdDate": "20260823",
+    "createdOrder": 60
+  },
+  {
+    "id": "c9950000-0000-4000-8000-000000000005",
+    "firstName": "Alfonso",
+    "lastName": "of Aragon",
+    "displayName": "Alfonso II of Aragon",
+    "fullName": "Alfonso II of Aragon",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "阿拉贡的阿方索二世",
+    "fullNameCn": "阿拉贡的阿方索二世",
+    "nicknameCn": "",
+    "birthYear": 1157,
+    "deathYear": 1196,
+    "birthPlace": "Provence",
+    "birthPlaceCn": "普罗旺斯",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "Barcelona dynasty",
+    "house": "House of Barcelona",
+    "culture": "Occitan",
+    "faith": "Catholic",
+    "primaryTitle": "King of Aragon and Count of Provence",
+    "primaryTitleCn": "阿拉贡国王兼普罗旺斯伯爵",
+    "titles": [
+      {
+        "title": "Count of Provence",
+        "titleCn": "普罗旺斯伯爵",
+        "startYear": 1166,
+        "endYear": 1196
+      }
+    ],
+    "tags": [
+      "count",
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 70,
+    "historicalRating": 7,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "c9960000-0000-4000-8000-000000000006"
+      ]
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Alfonso_II_of_Aragon",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Alfonso_II_of_Aragon",
+    "sourceNote": "Basic card for the County of Provence succession.",
+    "notes": "Held Provence through the Barcelona-Aragon inheritance after the earlier Provençal line ended.",
+    "createdDate": "20260823",
+    "createdOrder": 61
+  },
+  {
+    "id": "c9960000-0000-4000-8000-000000000006",
+    "firstName": "Peter",
+    "lastName": "of Aragon",
+    "displayName": "Peter II of Aragon",
+    "fullName": "Peter II of Aragon",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "阿拉贡的佩德罗二世",
+    "fullNameCn": "阿拉贡的佩德罗二世",
+    "nicknameCn": "",
+    "birthYear": 1178,
+    "deathYear": 1213,
+    "birthPlace": "Provence",
+    "birthPlaceCn": "普罗旺斯",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "Barcelona dynasty",
+    "house": "House of Barcelona",
+    "culture": "Occitan",
+    "faith": "Catholic",
+    "primaryTitle": "King of Aragon and Count of Provence",
+    "primaryTitleCn": "阿拉贡国王兼普罗旺斯伯爵",
+    "titles": [
+      {
+        "title": "Count of Provence",
+        "titleCn": "普罗旺斯伯爵",
+        "startYear": 1196,
+        "endYear": 1209
+      }
+    ],
+    "tags": [
+      "count",
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 60,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "c9950000-0000-4000-8000-000000000005",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Peter_II_of_Aragon",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Peter_II_of_Aragon",
+    "sourceNote": "Basic card for the County of Provence succession.",
+    "notes": "Temporarily held the Provençal county within the Barcelona-Aragon dynastic complex.",
+    "createdDate": "20260823",
+    "createdOrder": 62
+  },
+  {
+    "id": "c9970000-0000-4000-8000-000000000007",
+    "firstName": "Ramon Berenguer",
+    "lastName": "of Provence",
+    "displayName": "Ramon Berenguer V of Provence",
+    "fullName": "Ramon Berenguer V of Provence",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "普罗旺斯的拉蒙·贝伦格尔五世",
+    "fullNameCn": "普罗旺斯的拉蒙·贝伦格尔五世",
+    "nicknameCn": "",
+    "birthYear": 1198,
+    "deathYear": 1245,
+    "birthPlace": "Provence",
+    "birthPlaceCn": "普罗旺斯",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "Barcelona dynasty",
+    "house": "House of Barcelona",
+    "culture": "Occitan",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Provence",
+    "primaryTitleCn": "普罗旺斯伯爵",
+    "titles": [
+      {
+        "title": "Count of Provence",
+        "titleCn": "普罗旺斯伯爵",
+        "startYear": 1209,
+        "endYear": 1245
+      }
+    ],
+    "tags": [
+      "count",
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 70,
+    "historicalRating": 7,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "c9980000-0000-4000-8000-000000000008"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "5927afa9-324c-4528-a78b-cd60518f5437",
+        "75962d8f-fcb5-4eb5-8b8c-46271504a66d",
+        "c9990000-0000-4000-8000-000000000009",
+        "c1000000-0000-4000-8000-000000000010"
+      ]
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Ramon_Berenguer_IV,_Count_of_Provence",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Ramon_Berenguer_IV,_Count_of_Provence",
+    "sourceNote": "Basic card for the County of Provence succession.",
+    "notes": "Father of the four celebrated Provençal sisters; his dynastic marriages linked Provence to the French and English royal worlds.",
+    "createdDate": "20260823",
+    "createdOrder": 63
+  },
+  {
+    "id": "c9980000-0000-4000-8000-000000000008",
+    "firstName": "Béatrice",
+    "lastName": "of Savoy",
+    "displayName": "Béatrice of Savoy",
+    "fullName": "Béatrice of Savoy",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "萨伏依的贝亚特丽斯",
+    "fullNameCn": "萨伏依的贝亚特丽斯",
+    "nicknameCn": "",
+    "birthYear": 1205,
+    "deathYear": 1267,
+    "birthPlace": "Provence",
+    "birthPlaceCn": "普罗旺斯",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "female",
+    "dynasty": "Savoy dynasty",
+    "house": "House of Savoy",
+    "culture": "Occitan",
+    "faith": "Catholic",
+    "primaryTitle": "Countess of Provence",
+    "primaryTitleCn": "普罗旺斯伯爵夫人",
+    "titles": [
+      {
+        "title": "Countess of Provence",
+        "titleCn": "普罗旺斯伯爵夫人",
+        "startYear": 1219,
+        "endYear": 1245
+      }
+    ],
+    "tags": [
+      "count",
+      "consort",
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 60,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "c9970000-0000-4000-8000-000000000007"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "5927afa9-324c-4528-a78b-cd60518f5437",
+        "75962d8f-fcb5-4eb5-8b8c-46271504a66d",
+        "c9990000-0000-4000-8000-000000000009",
+        "c1000000-0000-4000-8000-000000000010"
+      ]
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Beatrice_of_Savoy",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Beatrice_of_Savoy",
+    "sourceNote": "Basic card for the County of Provence succession.",
+    "notes": "Savoyard countess consort and mother of the four Provençal sisters.",
+    "createdDate": "20260823",
+    "createdOrder": 64
+  },
+  {
+    "id": "c9990000-0000-4000-8000-000000000009",
+    "firstName": "Sanchia",
+    "lastName": "of Provence",
+    "displayName": "Sanchia of Provence",
+    "fullName": "Sanchia of Provence",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "普罗旺斯的桑夏",
+    "fullNameCn": "普罗旺斯的桑夏",
+    "nicknameCn": "",
+    "birthYear": 1225,
+    "deathYear": 1261,
+    "birthPlace": "Provence",
+    "birthPlaceCn": "普罗旺斯",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "female",
+    "dynasty": "Barcelona dynasty",
+    "house": "House of Barcelona",
+    "culture": "Occitan",
+    "faith": "Catholic",
+    "primaryTitle": "Queen of the Romans",
+    "primaryTitleCn": "罗马人的王后",
+    "titles": [
+      {
+        "title": "Queen of the Romans",
+        "titleCn": "罗马人的王后",
+        "startYear": 1257,
+        "endYear": 1261
+      }
+    ],
+    "tags": [
+      "queen",
+      "consort",
+      "noble"
+    ],
+    "rank": "queen",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "c9970000-0000-4000-8000-000000000007",
+      "motherId": "c9980000-0000-4000-8000-000000000008",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Sanchia_of_Provence",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Sanchia_of_Provence",
+    "sourceNote": "Basic card for the County of Provence succession.",
+    "notes": "Third of the Provençal sisters; married Richard, Earl of Cornwall. No duplicate spouse card is created because he is not in the current roster.",
+    "createdDate": "20260823",
+    "createdOrder": 65
+  },
+  {
+    "id": "c1000000-0000-4000-8000-000000000010",
+    "firstName": "Beatrice",
+    "lastName": "of Provence",
+    "displayName": "Beatrice of Provence",
+    "fullName": "Beatrice of Provence",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "普罗旺斯的贝亚特丽斯",
+    "fullNameCn": "普罗旺斯的贝亚特丽斯",
+    "nicknameCn": "",
+    "birthYear": 1234,
+    "deathYear": 1267,
+    "birthPlace": "Provence",
+    "birthPlaceCn": "普罗旺斯",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "female",
+    "dynasty": "Barcelona dynasty",
+    "house": "House of Barcelona",
+    "culture": "Occitan",
+    "faith": "Catholic",
+    "primaryTitle": "Countess of Provence",
+    "primaryTitleCn": "普罗旺斯女伯爵",
+    "titles": [
+      {
+        "title": "Countess of Provence",
+        "titleCn": "普罗旺斯女伯爵",
+        "startYear": 1245,
+        "endYear": 1267
+      }
+    ],
+    "tags": [
+      "count",
+      "ruler",
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 70,
+    "historicalRating": 7,
+    "relationships": {
+      "fatherId": "c9970000-0000-4000-8000-000000000007",
+      "motherId": "c9980000-0000-4000-8000-000000000008",
+      "spouseIds": [
+        "c1001000-0000-4000-8000-000000000011"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "c1002000-0000-4000-8000-000000000012"
+      ]
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Beatrice_of_Provence",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Beatrice_of_Provence",
+    "sourceNote": "Basic card for the County of Provence succession.",
+    "notes": "Ruling countess in her own right; her marriage to Charles of Anjou brought Provence into the French royal orbit, not the French royal domain.",
+    "createdDate": "20260823",
+    "createdOrder": -834
+  },
+  {
+    "id": "c1001000-0000-4000-8000-000000000011",
+    "firstName": "Charles",
+    "lastName": "of Anjou",
+    "displayName": "Charles I of Anjou",
+    "fullName": "Charles I of Anjou",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "安茹的查理一世",
+    "fullNameCn": "安茹的查理一世",
+    "nicknameCn": "",
+    "birthYear": 1226,
+    "deathYear": 1285,
+    "birthPlace": "Provence",
+    "birthPlaceCn": "普罗旺斯",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "Capetian dynasty",
+    "house": "Capetian House of Anjou",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Provence",
+    "primaryTitleCn": "普罗旺斯伯爵",
+    "titles": [
+      {
+        "title": "Count of Provence",
+        "titleCn": "普罗旺斯伯爵",
+        "startYear": 1246,
+        "endYear": 1285
+      }
+    ],
+    "tags": [
+      "count",
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 80,
+    "historicalRating": 8,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "c1000000-0000-4000-8000-000000000010"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "c1002000-0000-4000-8000-000000000012"
+      ]
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Charles_I_of_Anjou",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Charles_I_of_Anjou",
+    "sourceNote": "Basic card for the County of Provence succession.",
+    "notes": "Held Provence by marriage to its ruling countess Beatrice; this created Angevin influence within an imperial fief.",
+    "createdDate": "20260823",
+    "createdOrder": -834
+  },
+  {
+    "id": "c1002000-0000-4000-8000-000000000012",
+    "firstName": "Charles",
+    "lastName": "of Anjou",
+    "displayName": "Charles II of Anjou",
+    "fullName": "Charles II of Anjou",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "安茹的查理二世",
+    "fullNameCn": "安茹的查理二世",
+    "nicknameCn": "",
+    "birthYear": 1254,
+    "deathYear": 1309,
+    "birthPlace": "Provence",
+    "birthPlaceCn": "普罗旺斯",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "Capetian dynasty",
+    "house": "Capetian House of Anjou",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Provence",
+    "primaryTitleCn": "普罗旺斯伯爵",
+    "titles": [
+      {
+        "title": "Count of Provence",
+        "titleCn": "普罗旺斯伯爵",
+        "startYear": 1285,
+        "endYear": 1309
+      }
+    ],
+    "tags": [
+      "count",
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 60,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "c1001000-0000-4000-8000-000000000011",
+      "motherId": "c1000000-0000-4000-8000-000000000010",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "c1003000-0000-4000-8000-000000000013"
+      ]
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Charles_II_of_Naples",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Charles_II_of_Naples",
+    "sourceNote": "Basic card for the County of Provence succession.",
+    "notes": "Succeeded his father in the Angevin Provençal inheritance.",
+    "createdDate": "20260823",
+    "createdOrder": -834
+  },
+  {
+    "id": "c1003000-0000-4000-8000-000000000013",
+    "firstName": "Robert",
+    "lastName": "of Anjou",
+    "displayName": "Robert of Anjou",
+    "fullName": "Robert of Anjou",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "安茹的罗贝尔",
+    "fullNameCn": "安茹的罗贝尔",
+    "nicknameCn": "",
+    "birthYear": 1277,
+    "deathYear": 1343,
+    "birthPlace": "Provence",
+    "birthPlaceCn": "普罗旺斯",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "Capetian dynasty",
+    "house": "Capetian House of Anjou",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Provence",
+    "primaryTitleCn": "普罗旺斯伯爵",
+    "titles": [
+      {
+        "title": "Count of Provence",
+        "titleCn": "普罗旺斯伯爵",
+        "startYear": 1309,
+        "endYear": 1343
+      }
+    ],
+    "tags": [
+      "count",
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 70,
+    "historicalRating": 7,
+    "relationships": {
+      "fatherId": "c1002000-0000-4000-8000-000000000012",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Robert,_King_of_Naples",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Robert,_King_of_Naples",
+    "sourceNote": "Basic card for the County of Provence succession.",
+    "notes": "Angevin ruler of Naples and Provence; the county remained a distinct imperial fief in the Angevin inheritance.",
+    "createdDate": "20260823",
+    "createdOrder": -834
+  },
+  {
+    "id": "c1004000-0000-4000-8000-000000000014",
+    "firstName": "Joanna",
+    "lastName": "of Naples",
+    "displayName": "Joanna I of Naples",
+    "fullName": "Joanna I of Naples",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "那不勒斯的乔万娜一世",
+    "fullNameCn": "那不勒斯的乔万娜一世",
+    "nicknameCn": "",
+    "birthYear": 1325,
+    "deathYear": 1382,
+    "birthPlace": "Provence",
+    "birthPlaceCn": "普罗旺斯",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "female",
+    "dynasty": "Capetian dynasty",
+    "house": "Capetian House of Anjou",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Countess of Provence",
+    "primaryTitleCn": "普罗旺斯女伯爵",
+    "titles": [
+      {
+        "title": "Countess of Provence",
+        "titleCn": "普罗旺斯女伯爵",
+        "startYear": 1343,
+        "endYear": 1382
+      }
+    ],
+    "tags": [
+      "count",
+      "ruler",
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 80,
+    "historicalRating": 8,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Joanna_I_of_Naples",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Joanna_I_of_Naples",
+    "sourceNote": "Basic card for the County of Provence succession.",
+    "notes": "Ruling countess of Provence by Angevin inheritance, alongside her Neapolitan queenship; the county was not a direct French royal possession.",
+    "createdDate": "20260823",
+    "createdOrder": -834
+  }
+]

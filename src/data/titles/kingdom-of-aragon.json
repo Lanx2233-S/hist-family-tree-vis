@@ -1,0 +1,89 @@
+{
+  "id": "kingdom-of-aragon",
+  "canonicalName": "King of Aragon",
+  "canonicalNameCn": "阿拉贡国王",
+  "form": "hereditary kingdom",
+  "aliases": ["Kingdom of Aragon", "Queen of Aragon", "阿拉贡王国"],
+  "nameForms": [
+    {
+      "name": "King of Aragon",
+      "nameCn": "阿拉贡国王",
+      "fromYear": 1035,
+      "untilYear": "",
+      "note": "The Aragonese royal line begins with Ramiro I, illegitimate son of Sancho III of Pamplona, and descends through Petronilla to the dynastic union with the House of Barcelona.",
+      "noteCn": "阿拉贡王位链始于桑乔三世的非婚生子拉米罗一世，经佩特罗妮拉与巴塞罗那家族达成王朝联合。"
+    }
+  ],
+  "holders": [
+    {
+      "kind": "person",
+      "personId": "e1010000-0000-4000-8000-000000000001",
+      "startYear": 1035,
+      "endYear": 1063,
+      "titleForm": "King of Aragon",
+      "note": "Illegitimate son of Sancho III of Pamplona; first King of Aragon.",
+      "noteCn": "桑乔三世的非婚生子；阿拉贡首位国王。",
+      "tierOverride": "king"
+    },
+    {
+      "kind": "person",
+      "personId": "d1010000-0000-4000-8000-000000000008",
+      "startYear": 1063,
+      "endYear": 1094,
+      "titleForm": "King of Aragon",
+      "note": "Succeeded his father Ramiro I; also King of Pamplona from 1076.",
+      "noteCn": "继承其父拉米罗一世；1076 年起兼潘普洛纳国王。",
+      "tierOverride": "king"
+    },
+    {
+      "kind": "person",
+      "personId": "d1010000-0000-4000-8000-000000000009",
+      "startYear": 1094,
+      "endYear": 1104,
+      "titleForm": "King of Aragon",
+      "note": "Succeeded his father Sancho Ramírez; died without surviving issue.",
+      "noteCn": "继承其父桑乔·拉米雷斯；无存活子嗣而终。",
+      "tierOverride": "king"
+    },
+    {
+      "kind": "person",
+      "personId": "d1010000-0000-4000-8000-000000000010",
+      "startYear": 1104,
+      "endYear": 1134,
+      "titleForm": "King of Aragon",
+      "note": "Succeeded his brother Peter I; died without legitimate issue.",
+      "noteCn": "继承其兄佩德罗一世；无合法子嗣而终。",
+      "tierOverride": "king"
+    },
+    {
+      "kind": "person",
+      "personId": "e1010000-0000-4000-8000-000000000002",
+      "startYear": 1134,
+      "endYear": 1137,
+      "titleForm": "King of Aragon",
+      "note": "Alfonso I died without legitimate issue, so his brother Ramiro, a monk, was elected king; he abdicated in 1137.",
+      "noteCn": "阿方索一世无合法子嗣而终，其兄、身为修士的拉米罗被推举为王；后于 1137 年退位。",
+      "tierOverride": "king"
+    },
+    {
+      "kind": "person",
+      "personId": "e1010000-0000-4000-8000-000000000004",
+      "startYear": 1137,
+      "endYear": 1164,
+      "titleForm": "Queen of Aragon",
+      "note": "Ramiro II abdicated in her favor; she ruled as queen in her own right.",
+      "noteCn": "拉米罗二世让位；她以自身权利成为在位女王。",
+      "tierOverride": "queen-regnant"
+    },
+    {
+      "kind": "person",
+      "personId": "e1010000-0000-4000-8000-000000000005",
+      "startYear": 1137,
+      "endYear": 1162,
+      "titleForm": "Prince of Aragon",
+      "note": "Count of Barcelona and Prince of Aragon through his marriage to Petronilla; the union joined Aragon and Barcelona, but he never bore the title King of Aragon.",
+      "noteCn": "巴塞罗那伯爵，因与佩特罗妮拉的婚姻而称阿拉贡亲王并共同治理；婚姻促成两地王朝联合但并未立刻合并，且他从未称阿拉贡国王。",
+      "tierOverride": "queen-consort"
+    }
+  ]
+}

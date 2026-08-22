@@ -16,6 +16,14 @@ import kingOfNavarreData from "../data/titles/king-of-navarre.json";
 import duchyOfAquitaineData from "../data/titles/duchy-of-aquitaine.json";
 import countyOfToulouseData from "../data/titles/county-of-toulouse.json";
 import countyOfAnjouData from "../data/titles/county-of-anjou.json";
+import kingdomOfJerusalemData from "../data/titles/kingdom-of-jerusalem.json";
+import countyOfFlandersData from "../data/titles/county-of-flanders.json";
+import countyOfProvenceData from "../data/titles/county-of-provence.json";
+import duchyOfBrabantData from "../data/titles/duchy-of-brabant.json";
+import duchyOfBavariaData from "../data/titles/duchy-of-bavaria.json";
+import kingdomOfDenmarkData from "../data/titles/kingdom-of-denmark.json";
+import kingdomOfCastileData from "../data/titles/kingdom-of-castile.json";
+import kingdomOfAragonData from "../data/titles/kingdom-of-aragon.json";
 
 type TitleHolder =
   | { kind?: "person"; personId: string; startYear: number | ""; endYear: number | ""; titleForm: string; note: string; noteCn: string; tierOverride?: string; }
@@ -45,6 +53,11 @@ const kingOfNavarre = kingOfNavarreData as unknown as TitleLineage;
 const duchyOfAquitaine = duchyOfAquitaineData as unknown as TitleLineage;
 const countyOfToulouse = countyOfToulouseData as unknown as TitleLineage;
 const countyOfAnjou = countyOfAnjouData as unknown as TitleLineage;
+const duchyOfBrabant = duchyOfBrabantData as unknown as TitleLineage;
+const duchyOfBavaria = duchyOfBavariaData as unknown as TitleLineage;
+const kingdomOfDenmark = kingdomOfDenmarkData as unknown as TitleLineage;
+const kingdomOfCastile = kingdomOfCastileData as unknown as TitleLineage;
+const kingdomOfAragon = kingdomOfAragonData as unknown as TitleLineage;
 
 type LineageEntry = {
   lineage: TitleLineage;
@@ -52,7 +65,7 @@ type LineageEntry = {
   nameCn: string;
   anchorId: string;
   isDefault: boolean;
-  directoryGroup: "kingdom" | "fief";
+  directoryGroup: "kingdom" | "france" | "hre";
 };
 
 const LINEAGES: LineageEntry[] = [
@@ -62,13 +75,21 @@ const LINEAGES: LineageEntry[] = [
   { lineage: holyRomanEmperor, name: "Holy Roman Empire", nameCn: "神圣罗马帝国", anchorId: "3dd7dc1c-7473-495d-aac7-0c145d147ed9", isDefault: true, directoryGroup: "kingdom" },
   { lineage: kingOfEastFrancia, name: "East Francia", nameCn: "东法兰克", anchorId: "140ea34c-2546-4e55-bed6-fa8b7fbd9848", isDefault: false, directoryGroup: "kingdom" },
   { lineage: kingdomOfSicily, name: "Kingdom of Sicily", nameCn: "西西里王国", anchorId: "5b57dd7c-5717-4f3a-8a6c-e8c26a2bbaef", isDefault: false, directoryGroup: "kingdom" },
-  { lineage: duchyOfBurgundy, name: "Duchy of Burgundy", nameCn: "勃艮第公国", anchorId: duchyOfBurgundy.holders[0].personId ?? "", isDefault: false, directoryGroup: "fief" },
-  { lineage: duchyOfNormandy, name: "Duchy of Normandy", nameCn: "诺曼底公国", anchorId: duchyOfNormandy.holders[0].personId ?? "", isDefault: false, directoryGroup: "fief" },
-  { lineage: countyOfChampagne, name: "County of Champagne", nameCn: "香槟伯国", anchorId: "c7080000-0000-4000-8000-000000000008", isDefault: false, directoryGroup: "fief" },
+  { lineage: kingdomOfDenmark, name: "Kingdom of Denmark", nameCn: "丹麦王国", anchorId: "c1019000-0000-4000-8000-000000000000", isDefault: false, directoryGroup: "kingdom" },
+  { lineage: kingdomOfCastile, name: "Kingdom of Castile", nameCn: "卡斯蒂利亚王国", anchorId: "c1026000-0000-4000-8000-000000000001", isDefault: true, directoryGroup: "kingdom" },
+  { lineage: kingdomOfAragon, name: "Kingdom of Aragon", nameCn: "阿拉贡王国", anchorId: "e1010000-0000-4000-8000-000000000001", isDefault: false, directoryGroup: "kingdom" },
+  { lineage: duchyOfBurgundy, name: "Duchy of Burgundy", nameCn: "勃艮第公国", anchorId: duchyOfBurgundy.holders[0].personId ?? "", isDefault: false, directoryGroup: "france" },
+  { lineage: duchyOfNormandy, name: "Duchy of Normandy", nameCn: "诺曼底公国", anchorId: duchyOfNormandy.holders[0].personId ?? "", isDefault: false, directoryGroup: "france" },
+  { lineage: countyOfChampagne, name: "County of Champagne", nameCn: "香槟伯国", anchorId: "c7080000-0000-4000-8000-000000000008", isDefault: false, directoryGroup: "france" },
   { lineage: kingOfNavarre, name: "Kingdom of Navarre", nameCn: "纳瓦拉王国", anchorId: kingOfNavarre.holders[0].personId ?? "", isDefault: false, directoryGroup: "kingdom" },
-  { lineage: duchyOfAquitaine, name: "Duchy of Aquitaine", nameCn: "阿基坦公国", anchorId: duchyOfAquitaine.holders[0].personId ?? "", isDefault: false, directoryGroup: "fief" },
-  { lineage: countyOfToulouse, name: "County of Toulouse", nameCn: "图卢兹伯国", anchorId: "c9040000-0000-4000-8000-000000000004", isDefault: false, directoryGroup: "fief" },
-  { lineage: countyOfAnjou, name: "County of Anjou", nameCn: "安茹伯国", anchorId: "cc0cb400-e684-4bdb-b477-9a8fb578f4f5", isDefault: false, directoryGroup: "fief" },
+  { lineage: duchyOfAquitaine, name: "Duchy of Aquitaine", nameCn: "阿基坦公国", anchorId: duchyOfAquitaine.holders[0].personId ?? "", isDefault: false, directoryGroup: "france" },
+  { lineage: countyOfToulouse, name: "County of Toulouse", nameCn: "图卢兹伯国", anchorId: "c9040000-0000-4000-8000-000000000004", isDefault: false, directoryGroup: "france" },
+  { lineage: countyOfAnjou, name: "County of Anjou", nameCn: "安茹伯国", anchorId: "cc0cb400-e684-4bdb-b477-9a8fb578f4f5", isDefault: false, directoryGroup: "france" },
+  { lineage: kingdomOfJerusalemData as unknown as TitleLineage, name: "Kingdom of Jerusalem", nameCn: "耶路撒冷王国", anchorId: "c9390000-0000-4000-8000-000000000035", isDefault: false, directoryGroup: "kingdom" },
+  { lineage: countyOfFlandersData as unknown as TitleLineage, name: "County of Flanders", nameCn: "佛兰德伯国", anchorId: "c9740000-0000-4000-8000-000000000000", isDefault: false, directoryGroup: "france" },
+  { lineage: countyOfProvenceData as unknown as TitleLineage, name: "County of Provence", nameCn: "普罗旺斯伯国", anchorId: "c9910000-0000-4000-8000-000000000001", isDefault: false, directoryGroup: "france" },
+  { lineage: duchyOfBrabant, name: "Duchy of Brabant", nameCn: "布拉班特公国", anchorId: "c1006000-0000-4000-8000-000000000000", isDefault: false, directoryGroup: "hre" },
+  { lineage: duchyOfBavaria, name: "Duchy of Bavaria", nameCn: "巴伐利亚公国", anchorId: "58be4d4c-d7ff-470a-953f-48e5a9401cec", isDefault: false, directoryGroup: "hre" },
 ];
 
 export function TitlePage({
@@ -300,10 +321,10 @@ export function TitlePage({
                   <button type="button" onClick={() => setDirectoryOpen(false)}>{t.close}</button>
                 </header>
                 <p className="title-directory-hint">{t.titleDirectoryHint}</p>
-                {(["kingdom", "fief"] as const).map((group) => {
+                {(["kingdom", "france", "hre"] as const).map((group) => {
                   const entries = directoryLineages(group);
                   return <section key={group} className="title-directory-group">
-                    <h4>{group === "kingdom" ? t.titleDirectoryKingdoms : t.titleDirectoryFiefs}</h4>
+                    <h4>{group === "kingdom" ? t.titleDirectoryKingdoms : group === "france" ? "Kingdom of France / 法兰西王国" : "Holy Roman Empire / 神圣罗马帝国"}</h4>
                     <div className="title-directory-list">
                       {entries.length > 0 ? entries.map((entry) => (
                         <button key={entry.lineage.id} type="button" className="title-directory-entry" onClick={() => openLineage(entry)}>

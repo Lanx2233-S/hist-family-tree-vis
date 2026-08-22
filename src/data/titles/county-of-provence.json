@@ -1,0 +1,31 @@
+{
+  "id": "county-of-provence",
+  "canonicalName": "County of Provence",
+  "canonicalNameCn": "普罗旺斯伯国",
+  "form": "imperial hereditary county",
+  "aliases": ["Count of Provence", "Counts of Provence", "Comté de Provence", "County of Provence / 普罗旺斯伯国"],
+  "nameForms": [
+    {
+      "name": "County of Provence",
+      "nameCn": "普罗旺斯伯国",
+      "fromYear": 1112,
+      "untilYear": "",
+      "note": "An imperial fief of the Holy Roman Empire. From 1112 it passed into the Barcelona dynastic sphere; Beatrice's marriage to Charles of Anjou later drew it into the French royal orbit without making it a direct French royal possession.",
+      "noteCn": "神圣罗马帝国的封建伯国。1112 年后进入巴塞罗那家族的王朝势力圈；贝亚特丽斯与安茹的查理联姻后，伯国进入法国王室势力范围，但并未成为法王直属领地。"
+    }
+  ],
+  "holders": [
+    { "kind": "person", "personId": "c9910000-0000-4000-8000-000000000001", "startYear": 1112, "endYear": 1131, "titleForm": "Countess of Provence", "note": "Ruling countess in her own right; her marriage opened the Barcelona connection.", "noteCn": "以自身权利统治的女伯爵；其婚姻开启巴塞罗那家族的联系。", "tierOverride": "count" },
+    { "kind": "person", "personId": "c9920000-0000-4000-8000-000000000002", "startYear": 1112, "endYear": 1131, "titleForm": "Count of Provence", "note": "Co-ruler through his marriage to Douce I.", "noteCn": "因与杜丝一世成婚而共同统治。", "tierOverride": "count" },
+    { "kind": "person", "personId": "c9930000-0000-4000-8000-000000000003", "startYear": 1131, "endYear": 1144, "titleForm": "Count of Provence", "note": "Succeeded the Barcelona-Provençal co-rulers.", "noteCn": "继承巴塞罗那—普罗旺斯共同统治者。", "tierOverride": "count" },
+    { "kind": "person", "personId": "c9940000-0000-4000-8000-000000000004", "startYear": 1144, "endYear": 1166, "titleForm": "Count of Provence", "note": "Last holder of this direct Provençal Barcelona branch.", "noteCn": "巴塞罗那家族普罗旺斯直系的最后一位持有人。", "tierOverride": "count" },
+    { "kind": "person", "personId": "c9950000-0000-4000-8000-000000000005", "startYear": 1166, "endYear": 1196, "titleForm": "Count of Provence", "note": "The Aragonese branch continued the Barcelona dynastic succession.", "noteCn": "阿拉贡支系延续巴塞罗那家族的王朝继承。", "tierOverride": "count" },
+    { "kind": "person", "personId": "c9960000-0000-4000-8000-000000000006", "startYear": 1196, "endYear": 1209, "titleForm": "Count of Provence", "note": "Held the county within the Barcelona-Aragon dynastic complex.", "noteCn": "在巴塞罗那—阿拉贡王朝体系内持有伯国。", "tierOverride": "count" },
+    { "kind": "person", "personId": "c9970000-0000-4000-8000-000000000007", "startYear": 1209, "endYear": 1245, "titleForm": "Count of Provence", "note": "Father of the four Provençal sisters, whose marriages connected England, France, and the Empire.", "noteCn": "四位普罗旺斯姐妹之父；她们的联姻连接英格兰、法国与帝国。", "tierOverride": "count" },
+    { "kind": "person", "personId": "c1000000-0000-4000-8000-000000000010", "startYear": 1245, "endYear": 1267, "titleForm": "Countess of Provence", "note": "Ruling countess in her own right; her marriage began Angevin influence.", "noteCn": "以自身权利统治的女伯爵；其婚姻开启安茹势力的影响。", "tierOverride": "count" },
+    { "kind": "person", "personId": "c1001000-0000-4000-8000-000000000011", "startYear": 1246, "endYear": 1285, "titleForm": "Count of Provence", "note": "Held by marriage to Beatrice, not as a French royal-domain grant.", "noteCn": "因与贝亚特丽斯的婚姻而持有，并非作为法国王室领地的授予。", "tierOverride": "count" },
+    { "kind": "person", "personId": "c1002000-0000-4000-8000-000000000012", "startYear": 1285, "endYear": 1309, "titleForm": "Count of Provence", "note": "Angevin succession within the distinct Provençal fief.", "noteCn": "独立的普罗旺斯封地内的安茹继承。", "tierOverride": "count" },
+    { "kind": "person", "personId": "c1003000-0000-4000-8000-000000000013", "startYear": 1309, "endYear": 1343, "titleForm": "Count of Provence", "note": "Held with the Angevin kingdom of Naples.", "noteCn": "与安茹的那不勒斯王国一并持有。", "tierOverride": "count" },
+    { "kind": "person", "personId": "c1004000-0000-4000-8000-000000000014", "startYear": 1343, "endYear": 1382, "titleForm": "Countess of Provence", "note": "Ruling countess by Angevin inheritance, retaining Provence alongside her Neapolitan succession.", "noteCn": "通过安茹继承成为实权女伯爵，在那不勒斯继承之外保有普罗旺斯。", "tierOverride": "count" }
+  ]
+}

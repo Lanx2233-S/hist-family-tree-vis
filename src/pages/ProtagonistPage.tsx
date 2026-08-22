@@ -8,7 +8,8 @@ export function ProtagonistPage({ onEnter, onTree, onTitles }: { onEnter: (id: s
   const people = useFamilyStore((state) => state.people);
   const setLanguage = useFamilyStore((state) => state.setLanguage);
   const language = useFamilyStore((state) => state.language);
-  const [realm, setRealm] = useState<"england" | "france" | "germany" | null>(null);
+  const [realm, setRealm] = useState<"england" | "france" | "germany" | "castile" | "byzantium" | null>(null);
+  const [realmPage, setRealmPage] = useState(0);
   const [page, setPage] = useState(0);
   const t = copyFor(language);
   const picks = [
@@ -36,7 +37,15 @@ export function ProtagonistPage({ onEnter, onTree, onTitles }: { onEnter: (id: s
     { id: "db91c543-8aa9-43fa-b19b-b09be69989ed", phase: "VI", hook: "The Habsburg ascent", hookCn: "哈布斯堡崛起", toneKey: "pickToneMaximilian" as const },
     { id: "adb801cd-8a69-4de3-92d8-107f7e11a1e6", phase: "VII", hook: "An empire on which the sun never sets", hookCn: "日不落帝国", toneKey: "pickToneCharlesV" as const },
   ];
-  const activePicks = realm === "france" ? francePicks : realm === "germany" ? germanyPicks : picks;
+  const castilePicks = [{ id: "c1026000-0000-4000-8000-000000000001", phase: "I", hook: "The Leonese-Castilian Crown", hookCn: "莱昂—卡斯蒂利亚王冠", toneKey: "pickToneFrenchLouis" as const }];
+  const realms = [
+    { key: "england", label: t.england, lines: t.englandLines },
+    { key: "france", label: t.france, lines: t.frenchLines },
+    { key: "germany", label: t.germany, lines: t.germanyLines },
+    { key: "castile", label: language === "cn" ? "西班牙" : "Spain", lines: language === "cn" ? "莱昂、卡斯蒂利亚与阿拉贡世系" : "León, Castile, and Aragonese lines" },
+    { key: "byzantium", label: language === "cn" ? "拜占庭帝国" : "Byzantine Empire", lines: language === "cn" ? "人物卡即将加入" : "Figures coming soon" },
+  ] as const;
+  const activePicks = realm === "france" ? francePicks : realm === "germany" ? germanyPicks : realm === "castile" ? castilePicks : picks;
   const visiblePicks = activePicks.slice(page * 4, page * 4 + 4);
   const pageCount = Math.ceil(activePicks.length / 4);
 
@@ -58,26 +67,15 @@ export function ProtagonistPage({ onEnter, onTree, onTitles }: { onEnter: (id: s
           <h1>{t.chooseYourHistoricalFocus}</h1>
           <p>{t.startFromFeaturedRuler}</p>
           <div className="realm-entrances" aria-label={t.historicalRegions}>
-            <button type="button" aria-expanded={realm === "england"} className={`realm-entry ${realm === "england" ? "active" : ""}`} onClick={() => { setRealm(realm === "england" ? null : "england"); setPage(0); }}>
-              <span className="realm-entry-kicker">{t.realm} I</span>
-              <strong>{t.england}</strong>
-              <span>{t.englandLines}</span>
-            </button>
-            <button type="button" aria-expanded={realm === "france"} className={`realm-entry ${realm === "france" ? "active" : ""}`} onClick={() => { setRealm(realm === "france" ? null : "france"); setPage(0); }}>
-              <span className="realm-entry-kicker">{t.realm} II</span>
-              <strong>{t.france}</strong>
-              <span>{t.frenchLines}</span>
-            </button>
-            <button type="button" aria-expanded={realm === "germany"} className={`realm-entry ${realm === "germany" ? "active" : ""}`} onClick={() => { setRealm(realm === "germany" ? null : "germany"); setPage(0); }}>
-              <span className="realm-entry-kicker">{t.realm} III</span>
-              <strong>{t.germany}</strong>
-              <span>{t.germanyLines}</span>
-            </button>
+            {realms.slice(realmPage * 3, realmPage * 3 + 3).map((entry, index) => <button key={entry.key} type="button" aria-expanded={realm === entry.key} className={`realm-entry realm-${entry.key} ${realm === entry.key ? "active" : ""}`} onClick={() => { if (entry.key !== "byzantium") setRealm(realm === entry.key ? null : entry.key); setPage(0); }}>
+              <span className="realm-entry-kicker">{t.realm} {realmPage * 3 + index + 1}</span><strong>{entry.label}</strong><span>{entry.lines}</span>
+            </button>)}
+            <div className="realm-pagination"><button disabled={realmPage === 0} onClick={() => setRealmPage(0)}>←</button><span>{realmPage + 1} / 2</span><button disabled={realmPage === 1} onClick={() => setRealmPage(1)}>→</button></div>
           </div>
         </div>
         {realm && <div className="protagonist-selection">
           {<>
-            <div className="realm-heading"><span>{realm === "france" ? t.france : realm === "germany" ? t.germany : t.england}</span><small>{page + 1} / {pageCount}</small></div>
+            <div className="realm-heading"><span>{realm === "france" ? t.france : realm === "germany" ? t.germany : realm === "castile" ? (language === "cn" ? "西班牙" : "Spain") : t.england}</span><small>{page + 1} / {pageCount}</small></div>
             <div className="protagonist-grid">
           {visiblePicks.map((pick) => {
             const person = people.find((item) => item.id === pick.id);

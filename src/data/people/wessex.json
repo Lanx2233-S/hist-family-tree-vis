@@ -1028,7 +1028,9 @@
     "displayNameCn": "埃尔夫吉芙",
     "fullNameCn": "威塞克斯公主埃尔夫吉芙",
     "primaryTitleCn": "威塞克斯公主",
-    "historicalRating": 3
+    "historicalRating": 3,
+    "birthPlaceCn": "威塞克斯",
+    "deathPlaceCn": "威塞克斯"
   },
   {
     "id": "9b63d20d-6b16-4569-b2cf-86a9a180a715",
@@ -2356,7 +2358,9 @@
     "relationships": {
       "fatherId": "a82fd20d-3b23-44dd-9009-4f0184844ced",
       "motherId": "",
-      "spouseIds": [],
+      "spouseIds": [
+        "c9730000-0000-4000-8000-000000000000"
+      ],
       "partnerIds": [],
       "childIds": [
         "d1e0d029-8a32-4592-a4ad-7d0743d7b792",
@@ -2854,7 +2858,9 @@
     "displayNameCn": "埃塞尔斯坦",
     "fullNameCn": "威塞克斯的埃塞尔斯坦",
     "primaryTitleCn": "威塞克斯王子",
-    "historicalRating": 3
+    "historicalRating": 3,
+    "birthPlaceCn": "威塞克斯",
+    "deathPlaceCn": "威塞克斯"
   },
   {
     "id": "c19deaa7-e7ab-4a50-8fe1-a2d24dfa80bf",
@@ -2910,7 +2916,9 @@
     "relationships": {
       "fatherId": "019f2067-839d-4480-b345-744fb9af428b",
       "motherId": "",
-      "spouseIds": [],
+      "spouseIds": [
+        "c9730000-0000-4000-8000-000000000000"
+      ],
       "partnerIds": [],
       "childIds": []
     },
@@ -3494,7 +3502,9 @@
     "displayNameCn": "埃塞尔吉夫",
     "fullNameCn": "沙夫茨伯里女修道院院长埃塞尔吉夫",
     "primaryTitleCn": "沙夫茨伯里女修道院院长",
-    "historicalRating": 4
+    "historicalRating": 4,
+    "birthPlaceCn": "威塞克斯",
+    "deathPlaceCn": "沙夫茨伯里"
   },
   {
     "id": "4906de6b-cdef-468c-b602-411e4bbe3c03",
@@ -3536,9 +3546,13 @@
     "relationships": {
       "fatherId": "aed34407-7ca3-4fcc-9255-ce1b908f9b72",
       "motherId": "",
-      "spouseIds": [],
+      "spouseIds": [
+        "c9750000-0000-4000-8000-000000000000"
+      ],
       "partnerIds": [],
-      "childIds": []
+      "childIds": [
+        "c9770000-0000-4000-8000-000000000000"
+      ]
     },
     "events": [
       {
@@ -3669,7 +3683,9 @@
     "displayNameCn": "埃塞尔韦尔德",
     "fullNameCn": "威塞克斯的埃塞尔韦尔德",
     "primaryTitleCn": "威塞克斯王子",
-    "historicalRating": 4
+    "historicalRating": 4,
+    "birthPlaceCn": "威塞克斯",
+    "deathPlaceCn": "威塞克斯"
   },
   {
     "id": "cfef312f-94c3-4e88-8778-6b90f70a8690",
@@ -3723,7 +3739,9 @@
     "displayNameCn": "埃尔夫温",
     "fullNameCn": "麦西亚夫人埃尔夫温",
     "primaryTitleCn": "麦西亚夫人",
-    "historicalRating": 4
+    "historicalRating": 4,
+    "birthPlaceCn": "麦西亚",
+    "deathPlaceCn": "未知"
   },
   {
     "id": "a9d5b087-d9a5-4970-8f5c-6701fdb0463c",

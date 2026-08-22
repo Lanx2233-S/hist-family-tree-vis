@@ -1,0 +1,24 @@
+{
+  "id": "duchy-of-brabant",
+  "canonicalName": "Duchy of Brabant",
+  "canonicalNameCn": "布拉班特公国",
+  "form": "hereditary duchy",
+  "aliases": ["Duke of Brabant", "Brabant"],
+  "nameForms": [{"name":"Duchy of Brabant","nameCn":"布拉班特公国","fromYear":1190,"untilYear":1430,"note":"The formal ducal line begins in 1190 and enters the Burgundian system in 1430.","noteCn":"正式公爵线自 1190 年开始，1430 年转入勃艮第体系。"}],
+  "holders": [
+    {"kind":"person","personId":"c1005000-0000-4000-8000-000000000000","startYear":1142,"endYear":1190,"titleForm":"Duke of Lower Lotharingia / Count of Leuven","note":"Godfrey III provides the Leuven and Lower Lotharingian inheritance.","noteCn":"戈弗雷三世承接鲁汶与下洛林的继承基础。"},
+    {"kind":"person","personId":"c1006000-0000-4000-8000-000000000000","startYear":1190,"endYear":1235,"titleForm":"Duke of Brabant","note":"Succeeded Godfrey III as the first Duke of Brabant.","noteCn":"继承戈弗雷三世，成为首位布拉班特公爵。"},
+    {"kind":"person","personId":"c1007000-0000-4000-8000-000000000000","startYear":1235,"endYear":1248,"titleForm":"Duke of Brabant","note":"Succeeded Henry I.","noteCn":"继承亨利一世。"},
+    {"kind":"person","personId":"c1008000-0000-4000-8000-000000000000","startYear":1248,"endYear":1261,"titleForm":"Duke of Brabant","note":"Succeeded Henry II.","noteCn":"继承亨利二世。"},
+    {"kind":"person","personId":"c1009000-0000-4000-8000-000000000000","startYear":1261,"endYear":1267,"titleForm":"Duke of Brabant","note":"Succeeded Henry III and abdicated in favour of John I.","noteCn":"继承亨利三世，后让位于约翰一世。"},
+    {"kind":"person","personId":"c1010000-0000-4000-8000-000000000000","startYear":1267,"endYear":1294,"titleForm":"Duke of Brabant","note":"Succeeded his brother Henry IV.","noteCn":"继承其兄亨利四世。"},
+    {"kind":"person","personId":"c1011000-0000-4000-8000-000000000000","startYear":1294,"endYear":1312,"titleForm":"Duke of Brabant","note":"Succeeded John I.","noteCn":"继承约翰一世。"},
+    {"kind":"person","personId":"c1012000-0000-4000-8000-000000000000","startYear":1312,"endYear":1355,"titleForm":"Duke of Brabant","note":"Succeeded John II.","noteCn":"继承约翰二世。"},
+    {"kind":"person","personId":"c1013000-0000-4000-8000-000000000000","startYear":1355,"endYear":1406,"titleForm":"Duchess of Brabant","note":"Succeeded John III; ruled with Wenceslaus I.","noteCn":"继承约翰三世；与瓦茨拉夫一世共治。"},
+    {"kind":"person","personId":"c1014000-0000-4000-8000-000000000000","startYear":1355,"endYear":1383,"titleForm":"Duke of Brabant (co-ruler)","note":"Co-ruled through marriage to Joanna.","noteCn":"因与乔安娜的婚姻而共治。"},
+    {"kind":"person","personId":"c1015000-0000-4000-8000-000000000000","startYear":1406,"endYear":1415,"titleForm":"Duke of Brabant","note":"Succeeded his aunt Joanna.","noteCn":"继承其姑母乔安娜。"},
+    {"kind":"person","personId":"c1016000-0000-4000-8000-000000000000","startYear":1415,"endYear":1427,"titleForm":"Duke of Brabant","note":"Succeeded Antony.","noteCn":"继承安托万。"},
+    {"kind":"person","personId":"c1017000-0000-4000-8000-000000000000","startYear":1427,"endYear":1430,"titleForm":"Duke of Brabant","note":"Succeeded John IV.","noteCn":"继承约翰四世。"},
+    {"kind":"person","personId":"c1018000-0000-4000-8000-000000000000","startYear":1430,"endYear":1467,"titleForm":"Duke of Brabant","note":"Succeeded Philip of Saint-Pol; Brabant entered the Burgundian system.","noteCn":"继承圣波尔的腓力；布拉班特转入勃艮第体系。"}
+  ]
+}

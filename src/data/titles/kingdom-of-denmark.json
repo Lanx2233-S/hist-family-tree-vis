@@ -1,0 +1,21 @@
+{
+  "id": "kingdom-of-denmark",
+  "canonicalName": "Kingdom of Denmark",
+  "canonicalNameCn": "丹麦王国",
+  "form": "kingdom",
+  "aliases": ["King of Denmark", "Denmark"],
+  "nameForms": [{"name":"Kingdom of Denmark","nameCn":"丹麦王国","fromYear":936,"untilYear":1086,"note":"Early Danish royal line through Canute IV.","noteCn":"至克努特四世止的早期丹麦王位主线。"}],
+  "holders": [
+    {"kind":"person","personId":"c1019000-0000-4000-8000-000000000000","startYear":936,"endYear":958,"titleForm":"King of Denmark","note":"Gorm the Old begins this early royal line.","noteCn":"老戈姆开启本早期王位主线。"},
+    {"kind":"person","personId":"ca7b3d35-0d29-4a9b-bf79-7d87046adaee","startYear":958,"endYear":986,"titleForm":"King of Denmark","note":"Succeeded Gorm the Old.","noteCn":"继承老戈姆。"},
+    {"kind":"person","personId":"01da1402-5d85-4186-859a-34f8cb06182d","startYear":986,"endYear":1014,"titleForm":"King of Denmark","note":"Succeeded Harald Bluetooth.","noteCn":"继承蓝牙哈拉尔。"},
+    {"kind":"person","personId":"c1020000-0000-4000-8000-000000000000","startYear":1014,"endYear":1018,"titleForm":"King of Denmark","note":"Succeeded Sweyn Forkbeard.","noteCn":"继承斯温八字胡。"},
+    {"kind":"person","personId":"0fb64530-ea06-47ec-9570-6166155b53ba","startYear":1018,"endYear":1035,"titleForm":"King of Denmark","note":"Succeeded Harald II.","noteCn":"继承哈拉尔二世。"},
+    {"kind":"person","personId":"0a5b30a1-051e-41ea-a10a-1c37ce523603","startYear":1035,"endYear":1042,"titleForm":"King of Denmark","note":"North Sea and Nordic royal transition; not a single-family smooth direct succession.","noteCn":"跨北海与北欧王权转换，不伪装为单一家族平稳直系继承。"},
+    {"kind":"person","personId":"c1021000-0000-4000-8000-000000000000","startYear":1042,"endYear":1047,"titleForm":"King of Denmark","note":"Norwegian royal transition after Harthacnut; not an Estridsen agnate.","noteCn":"哈德克努特之后的挪威王室过渡统治者，并非埃斯特里森父系。"},
+    {"kind":"person","personId":"c1024000-0000-4000-8000-000000000000","startYear":1047,"endYear":1074,"titleForm":"King of Denmark","note":"Succeeded through his mother Estrid, daughter of Sweyn Forkbeard; his paternal house remained Ulf's line.","noteCn":"经母亲埃斯特丽德（斯温八字胡之女）取得王位；其父系仍属乌尔夫家系。"},
+    {"kind":"person","personId":"c1025000-0000-4000-8000-000000000000","startYear":1074,"endYear":1080,"titleForm":"King of Denmark","note":"Succeeded Sweyn II.","noteCn":"继承斯温二世。"},
+    {"kind":"person","personId":"c9910000-0000-4000-8000-000000000000","startYear":1080,"endYear":1086,"titleForm":"King of Denmark","note":"Succeeded Harald III; Charles the Good is his son, not a Danish king.","noteCn":"继承哈拉尔三世；其子善良的查理并非丹麦国王。"},
+    {"kind":"gap","personId":null,"startYear":1086,"endYear":"","titleForm":"Later genealogy note","titleFormCn":"后世谱系说明","note":"Later genealogies traced the Estridsen ancestry to the legendary Sigurd Ring; the link lacks contemporary evidence and is not a parent-child relationship in this database.","noteCn":"后世谱系曾把 Estridsen 的祖源推至传说中的 Sigurd Ring；该联系缺乏同时代证据，不作为本库父子关系。"}
+  ]
+}

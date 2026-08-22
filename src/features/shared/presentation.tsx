@@ -118,8 +118,8 @@ export const copy = {
   selectHighlightedProtagonist: { en: "Select Highlighted Protagonist", cn: "选择主角人物" },
   chooseYourHistoricalFocus: { en: "Choose Your Historical Focus", cn: "选择你的历史焦点" },
   startFromFeaturedRuler: { en: "Start from a featured ruler or queen, then enter the family tree with that character centered.", cn: "从一位知名统治者或王后开始，随后以该人物为中心进入家谱。" },
-  historicalRegions: { en: "Historical regions", cn: "历史区域" },
-  realm: { en: "Realm", cn: "王国" },
+  historicalRegions: { en: "Historical spheres", cn: "历史版图" },
+  realm: { en: "Sphere", cn: "版图" },
   england: { en: "England", cn: "英格兰" },
   france: { en: "France", cn: "法兰西" },
   germany: { en: "Germany", cn: "德意志" },
@@ -133,7 +133,7 @@ export const copy = {
   previousProtagonists: { en: "Previous protagonists", cn: "上一组主角" },
   nextProtagonists: { en: "Next protagonists", cn: "下一组主角" },
   frenchFamilyTrees: { en: "French family trees", cn: "法国家族树" },
-  realmReserved: { en: "This realm is reserved for the next collection.", cn: "此区域保留给下一批收藏。" },
+  realmReserved: { en: "This historical sphere is reserved for the next collection.", cn: "此历史版图保留给下一批收藏。" },
   returnToEngland: { en: "Return to England", cn: "返回英格兰" },
   enterTree: { en: "Enter tree", cn: "进入家谱" },
   phase: { en: "Phase", cn: "阶段" },
@@ -163,6 +163,7 @@ export const copy = {
   gender: { en: "Gender", cn: "性别" },
   rank: { en: "Rank", cn: "等级" },
   dynasty: { en: "Dynasty", cn: "王朝" },
+  house: { en: "House", cn: "家族支系" },
   primaryTitle: { en: "Primary title", cn: "主头衔" },
   father: { en: "Father", cn: "父亲" },
   mother: { en: "Mother", cn: "母亲" },
@@ -314,11 +315,22 @@ const cultureCnMap: Record<string, string> = {
   Norse: "诺斯人",
   "Anglo-Saxon": "盎格鲁-撒克逊人",
   Scottish: "苏格兰人",
+  "Anglo-Irish": "盎格鲁-爱尔兰人",
+  Bohemian: "波希米亚人",
+  Basque: "巴斯克人",
+  Castilian: "卡斯蒂利亚人",
+  Danish: "丹麦人",
+  Dutch: "荷兰人",
+  Frankish: "法兰克人",
+  "Norman-Sicilian": "诺曼-西西里人",
+  "Aragonese": "阿拉贡人",
+  "Catalan": "加泰罗尼亚人",
 };
 
 const faithCnMap: Record<string, string> = {
   Catholic: "天主教",
   Anglican: "圣公会",
+  Protestant: "新教",
 };
 
 const dynastyCnMap: Record<string, string> = {
@@ -326,6 +338,8 @@ const dynastyCnMap: Record<string, string> = {
   "House of Flanders": "佛兰德家族",
   "Salian dynasty": "萨利安王朝",
   "House of Plantagenet": "金雀花王朝",
+  "Plantagenet dynasty": "金雀花宗族",
+  "House of Lancaster": "兰开斯特家族",
   "House of Poitiers": "普瓦捷家族",
   "House of Capet": "卡佩王朝",
   "House of Mortimer": "莫蒂默家族",
@@ -335,6 +349,11 @@ const dynastyCnMap: Record<string, string> = {
   "House of Tudor": "都铎王朝",
   "House of Godwin": "戈德温家族",
   "House of Knýtlinga": "克尼特林加王朝",
+  "Knýtlinga dynasty": "克尼特林加王朝",
+  "Estridsen dynasty": "埃斯特里森王朝",
+  "Fairhair dynasty": "金发王朝",
+  "House of Fairhair": "金发家族",
+  "House of Thorgil": "索吉尔家族",
   "House of Blois": "布卢瓦家族",
   "Carolingian dynasty": "加洛林王朝",
   "Robertian dynasty": "罗贝尔王朝",
@@ -343,6 +362,55 @@ const dynastyCnMap: Record<string, string> = {
   "House of Alpin": "阿尔平王朝",
   "House of Moray": "莫里王朝",
   "House of Balliol": "巴里奥家族",
+  "Capetian France": "卡佩王朝",
+  "Conradine dynasty": "康拉丁王朝",
+  "Elder House of Burgundy": "老勃艮第家族",
+  "Hauteville dynasty": "欧特维尔王朝",
+  "Hohenstaufen dynasty": "霍亨斯陶芬王朝",
+  "House of Aleramici": "阿莱拉米奇家族",
+  "House of Andechs": "安德希斯家族",
+  "House of Angelos": "安格洛斯家族",
+  "House of Anjou": "安茹家族",
+  "House of Avesnes": "阿韦讷家族",
+  "House of Babenberg": "巴本堡家族",
+  "House of Barcelona": "巴塞罗那家族",
+  "Barcelona dynasty": "巴塞罗那宗族",
+  "House of Beaufort": "博福特家族",
+  "House of Blois-Champagne": "布卢瓦-香槟家族",
+  "House of Bouillon": "布永家族",
+  "House of Boulogne": "布洛涅家族",
+  "House of Bruce": "布鲁斯家族",
+  "House of Burgh": "伯格家族",
+  "House of Champagne": "香槟家族",
+  "House of Drummond": "德拉蒙德家族",
+  "House of Egmond": "埃格蒙德家族",
+  "House of Estridsen": "埃斯特里德森王朝",
+  "House of Habsburg": "哈布斯堡王朝",
+  "House of Ivrea": "伊夫雷亚家族",
+  "House of Jiménez": "希梅内斯家族",
+  "Jiménez dynasty": "希梅内斯王朝",
+  "House of Jerusalem": "耶路撒冷家族",
+  "House of Lusignan": "吕西尼昂家族",
+  "House of Luxembourg": "卢森堡王朝",
+  "House of Leuven": "鲁汶家族",
+  "House of Reginar": "雷尼耶家族",
+  "House of Montferrat": "蒙费拉托家族",
+  "House of Mure": "缪尔家族",
+  "House of Nassau": "拿骚家族",
+  "House of Oldenburg": "奥尔登堡王朝",
+  "House of Rethel": "勒泰勒家族",
+  "House of Stewart": "斯图亚特王朝",
+  "House of Taillefer": "泰勒费尔家族",
+  "House of Toron": "托伦家族",
+  "House of Toulouse": "图卢兹家族",
+  "House of Valois-Anjou": "瓦卢瓦-安茹家族",
+  "House of Vermandois": "韦芒杜瓦家族",
+  "House of Welf": "韦尔夫家族",
+  "House of Wittelsbach": "维特尔斯巴赫王朝",
+  "House of Woodville": "伍德维尔家族",
+  "Ottonian dynasty": "奥托王朝",
+  "Supplinburger dynasty": "苏普林堡王朝",
+  "Unruoching dynasty": "翁鲁奥兴王朝",
 };
 
 export function titleCn(title: string) {
@@ -361,7 +429,16 @@ export function dynastyCn(dynasty: string) {
   return dynastyCnMap[dynasty] ?? dynasty;
 }
 
-const heraldryByDynasty: Record<string, string> = {
+/** Compact lineage label for person cards: the dynasty is the shared clan,
+ * while the full territorial branch remains visible in the separate House field. */
+export function dynastyShortName(dynasty: string, language: Language) {
+  const localized = language === "cn" ? dynastyCn(dynasty) : dynasty;
+  return language === "cn"
+    ? localized.replace(/(王朝|宗族|家族)$/, "")
+    : localized.replace(/^House of\s+/i, "").replace(/\s+dynasty$/i, "");
+}
+
+const heraldryByLineage: Record<string, string> = {
   "House of Normandy": "/images/Normandy.png",
   "House of Plantagenet": "/images/Plantagenet.png",
   "House of Capet": "/images/Capet.png",
@@ -374,8 +451,11 @@ const heraldryByDynasty: Record<string, string> = {
 // so do not substitute the later English three-lions arms for him.
 export function heraldryFor(person: Person) {
   if (person.id === "cc0cb400-e684-4bdb-b477-9a8fb578f4f5") return undefined;
-  const src = heraldryByDynasty[person.dynasty];
-  return src ? { src, alt: `${person.dynasty} heraldry` } : undefined;
+  // Arms belong to a concrete house first. Dynasty remains a fallback for
+  // undivided lines such as the Carolingians, after the two concepts split.
+  const lineage = heraldryByLineage[person.house] ? person.house : person.dynasty;
+  const src = heraldryByLineage[lineage];
+  return src ? { src, alt: `${lineage} heraldry` } : undefined;
 }
 
 // The single source of localized person display. In CN mode every field uses
@@ -390,6 +470,7 @@ export function textFor(person: Person, language: Language) {
     nickname: useCn ? person.nicknameCn || person.nickname : person.nickname,
     primaryTitle: useCn ? person.primaryTitleCn || titleCn(person.primaryTitle) : person.primaryTitle,
     dynasty: useCn ? dynastyCn(person.dynasty) : person.dynasty,
+    house: useCn ? dynastyCn(person.house) : person.house,
     culture: useCn ? cultureCn(person.culture) : person.culture,
     faith: useCn ? faithCn(person.faith) : person.faith,
     birthPlace: useCn ? person.birthPlaceCn || person.birthPlace : person.birthPlace,
@@ -428,6 +509,7 @@ export function titleTier(person: Person) {
   if (combined.includes("queen of france")) return "france-queen";
   if (combined.includes("grand duke") || combined.includes("grand duchess")) return "king";
   if (combined.includes("king") || combined.includes("queen")) return "king";
+  if (combined.includes("marquis") || combined.includes("marchioness")) return "duke";
   if (combined.includes("duke") || combined.includes("duchess")) return "duke";
   if (combined.includes("count") || combined.includes("countess") || combined.includes("earl")) return "count";
   return "untitled";

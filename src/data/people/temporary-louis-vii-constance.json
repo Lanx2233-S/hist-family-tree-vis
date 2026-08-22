@@ -11,7 +11,7 @@
     "order": 1,
     "firstName": "Constance of Castile",
     "lastName": "Capet",
-    "fullNameCn": "Constance of Castile, Queen of France",
+    "fullNameCn": "法兰西王后卡斯蒂利亚的康斯坦萨",
     "nickname": "",
     "nicknameCn": "",
     "alsoKnownAs": [],
@@ -21,15 +21,15 @@
     "deathPlace": "Kingdom of France",
     "deathPlaceCn": "法兰西王国",
     "gender": "female",
-    "dynasty": "House of Capet",
-    "house": "House of Capet",
-    "culture": "French",
+    "dynasty": "Ivrea dynasty",
+    "house": "House of Burgundy (Iberian)",
+    "culture": "Castilian",
     "faith": "Catholic",
-    "primaryTitleCn": "Queen of France",
+    "primaryTitleCn": "法兰西王后",
     "titles": [
       {
         "title": "Queen of France",
-        "titleCn": "Queen of France",
+        "titleCn": "法兰西王后",
         "startYear": "",
         "endYear": 1160
       }
@@ -42,8 +42,8 @@
     "importanceScore": 70,
     "historicalRating": 6,
     "relationships": {
-      "fatherId": "",
-      "motherId": "",
+      "fatherId": "c1032000-0000-4000-8000-000000000007",
+      "motherId": "c1033000-0000-4000-8000-000000000008",
       "spouseIds": [
         "6ae9afe1-d639-482e-b9ea-13d27778f842"
       ],
@@ -81,8 +81,8 @@
     "wikiUrl": "https://en.wikipedia.org/wiki/Louis_VII_of_France",
     "portraitUrl": "",
     "sourceUrl": "https://en.wikipedia.org/wiki/Louis_VII_of_France",
-    "sourceNote": "Basic family card for Louis VII's second marriage and its children.",
-    "notes": "Child or spouse in the Louis VII / Constance of Castile branch.",
+    "sourceNote": "Daughter of Alfonso VII and Berengaria of Barcelona; basic card for Louis VII's second marriage.",
+    "notes": "Daughter of Alfonso VII and Berengaria of Barcelona; Alfonso VIII's paternal aunt and second wife of Louis VII of France.",
     "createdDate": "20260822",
     "createdOrder": 9
   },
@@ -98,7 +98,7 @@
     "order": 2,
     "firstName": "Margaret of France",
     "lastName": "Capet",
-    "fullNameCn": "Margaret of France, Queen of England and Hungary",
+    "fullNameCn": "英格兰与匈牙利王后法兰西的玛格丽特",
     "nickname": "",
     "nicknameCn": "",
     "alsoKnownAs": [],
@@ -108,15 +108,15 @@
     "deathPlace": "Kingdom of France",
     "deathPlaceCn": "法兰西王国",
     "gender": "female",
-    "dynasty": "House of Capet",
+    "dynasty": "Capetian dynasty",
     "house": "House of Capet",
     "culture": "French",
     "faith": "Catholic",
-    "primaryTitleCn": "Queen of England and Hungary",
+    "primaryTitleCn": "英格兰与匈牙利王后",
     "titles": [
       {
         "title": "Queen of England and Hungary",
-        "titleCn": "Queen of England and Hungary",
+        "titleCn": "英格兰与匈牙利王后",
         "startYear": "",
         "endYear": 1197
       }
@@ -178,7 +178,7 @@
     "order": 3,
     "firstName": "Alys of France",
     "lastName": "Capet",
-    "fullNameCn": "Alys of France, Countess of Ponthieu",
+    "fullNameCn": "蓬蒂厄伯爵夫人法兰西的阿莉丝",
     "nickname": "",
     "nicknameCn": "",
     "alsoKnownAs": [
@@ -190,15 +190,15 @@
     "deathPlace": "Kingdom of France",
     "deathPlaceCn": "法兰西王国",
     "gender": "female",
-    "dynasty": "House of Capet",
+    "dynasty": "Capetian dynasty",
     "house": "House of Capet",
     "culture": "French",
     "faith": "Catholic",
-    "primaryTitleCn": "Countess of Ponthieu",
+    "primaryTitleCn": "蓬蒂厄伯爵夫人",
     "titles": [
       {
         "title": "Countess of Ponthieu",
-        "titleCn": "Countess of Ponthieu",
+        "titleCn": "蓬蒂厄伯爵夫人",
         "startYear": "",
         "endYear": 1220
       }

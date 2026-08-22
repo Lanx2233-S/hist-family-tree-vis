@@ -6,7 +6,7 @@
     "displayName": "Philippe de France",
     "fullName": "Philip, King of the Franks",
     "displayNameCn": "腓力（法兰克国王）",
-    "fullNameCn": "Philip, King of the Franks",
+    "fullNameCn": "法兰克人国王腓力",
     "nickname": "",
     "nicknameCn": "",
     "alsoKnownAs": [],
@@ -18,16 +18,16 @@
     "deathPlace": "Kingdom of France",
     "deathPlaceCn": "法兰西王国",
     "gender": "male",
-    "dynasty": "House of Capet",
+    "dynasty": "Capetian dynasty",
     "house": "House of Capet",
     "culture": "French",
     "faith": "Catholic",
     "primaryTitle": "King of the Franks",
-    "primaryTitleCn": "King of the Franks",
+    "primaryTitleCn": "法兰克人国王",
     "titles": [
       {
         "title": "King of the Franks",
-        "titleCn": "King of the Franks",
+        "titleCn": "法兰克人国王",
         "startYear": "",
         "endYear": ""
       }
@@ -85,7 +85,7 @@
     "displayName": "Henri de France",
     "fullName": "Henry, Archbishop of Reims",
     "displayNameCn": "亨利（兰斯大主教）",
-    "fullNameCn": "Henry, Archbishop of Reims",
+    "fullNameCn": "兰斯大主教亨利",
     "nickname": "",
     "nicknameCn": "",
     "alsoKnownAs": [],
@@ -97,16 +97,16 @@
     "deathPlace": "Kingdom of France",
     "deathPlaceCn": "法兰西王国",
     "gender": "male",
-    "dynasty": "House of Capet",
+    "dynasty": "Capetian dynasty",
     "house": "House of Capet",
     "culture": "French",
     "faith": "Catholic",
     "primaryTitle": "Archbishop of Reims",
-    "primaryTitleCn": "Archbishop of Reims",
+    "primaryTitleCn": "兰斯大主教",
     "titles": [
       {
         "title": "Archbishop of Reims",
-        "titleCn": "Archbishop of Reims",
+        "titleCn": "兰斯大主教",
         "startYear": "",
         "endYear": ""
       }
@@ -164,7 +164,7 @@
     "displayName": "Hugues de France",
     "fullName": "Hugh, son of Louis VI",
     "displayNameCn": "于格（路易六世之子）",
-    "fullNameCn": "Hugh, son of Louis VI",
+    "fullNameCn": "路易六世之子于格",
     "nickname": "",
     "nicknameCn": "",
     "alsoKnownAs": [],
@@ -176,16 +176,16 @@
     "deathPlace": "Kingdom of France",
     "deathPlaceCn": "法兰西王国",
     "gender": "male",
-    "dynasty": "House of Capet",
+    "dynasty": "Capetian dynasty",
     "house": "House of Capet",
     "culture": "French",
     "faith": "Catholic",
     "primaryTitle": "French prince",
-    "primaryTitleCn": "French prince",
+    "primaryTitleCn": "法兰西王子",
     "titles": [
       {
         "title": "French prince",
-        "titleCn": "French prince",
+        "titleCn": "法兰西王子",
         "startYear": "",
         "endYear": ""
       }
@@ -243,7 +243,7 @@
     "displayName": "Robert I of Dreux",
     "fullName": "Robert I, Count of Dreux",
     "displayNameCn": "德勒伯爵罗贝尔一世",
-    "fullNameCn": "Robert I, Count of Dreux",
+    "fullNameCn": "德勒伯爵罗贝尔一世",
     "nickname": "",
     "nicknameCn": "",
     "alsoKnownAs": [],
@@ -255,16 +255,16 @@
     "deathPlace": "Kingdom of France",
     "deathPlaceCn": "法兰西王国",
     "gender": "male",
-    "dynasty": "House of Capet",
+    "dynasty": "Capetian dynasty",
     "house": "House of Capet",
     "culture": "French",
     "faith": "Catholic",
     "primaryTitle": "Count of Dreux",
-    "primaryTitleCn": "Count of Dreux",
+    "primaryTitleCn": "德勒伯爵",
     "titles": [
       {
         "title": "Count of Dreux",
-        "titleCn": "Count of Dreux",
+        "titleCn": "德勒伯爵",
         "startYear": "",
         "endYear": ""
       }
@@ -322,7 +322,7 @@
     "displayName": "Pierre de Courtenay",
     "fullName": "Pierre de Courtenay",
     "displayNameCn": "皮埃尔·德·库尔特奈",
-    "fullNameCn": "Pierre de Courtenay",
+    "fullNameCn": "皮埃尔·德·库尔特奈",
     "nickname": "",
     "nicknameCn": "",
     "alsoKnownAs": [],
@@ -334,16 +334,16 @@
     "deathPlace": "Kingdom of France",
     "deathPlaceCn": "法兰西王国",
     "gender": "male",
-    "dynasty": "House of Capet",
+    "dynasty": "Capetian dynasty",
     "house": "House of Capet",
     "culture": "French",
     "faith": "Catholic",
     "primaryTitle": "Lord of Courtenay",
-    "primaryTitleCn": "Lord of Courtenay",
+    "primaryTitleCn": "库尔特奈领主",
     "titles": [
       {
         "title": "Lord of Courtenay",
-        "titleCn": "Lord of Courtenay",
+        "titleCn": "库尔特奈领主",
         "startYear": "",
         "endYear": ""
       }
@@ -413,7 +413,7 @@
     "deathPlace": "Kingdom of France",
     "deathPlaceCn": "法兰西王国",
     "gender": "female",
-    "dynasty": "House of Capet",
+    "dynasty": "Capetian dynasty",
     "house": "House of Capet",
     "culture": "French",
     "faith": "Catholic",
@@ -482,7 +482,7 @@
     "displayName": "Philippe de Paris",
     "fullName": "Philip, Archdeacon of Paris",
     "displayNameCn": "腓力（巴黎副主教）",
-    "fullNameCn": "Philip, Archdeacon of Paris",
+    "fullNameCn": "巴黎副主教腓力",
     "nickname": "",
     "nicknameCn": "",
     "alsoKnownAs": [],
@@ -494,16 +494,16 @@
     "deathPlace": "Kingdom of France",
     "deathPlaceCn": "法兰西王国",
     "gender": "male",
-    "dynasty": "House of Capet",
+    "dynasty": "Capetian dynasty",
     "house": "House of Capet",
     "culture": "French",
     "faith": "Catholic",
     "primaryTitle": "Archdeacon of Paris",
-    "primaryTitleCn": "Archdeacon of Paris",
+    "primaryTitleCn": "巴黎副主教",
     "titles": [
       {
         "title": "Archdeacon of Paris",
-        "titleCn": "Archdeacon of Paris",
+        "titleCn": "巴黎副主教",
         "startYear": "",
         "endYear": ""
       }
@@ -561,7 +561,7 @@
     "displayName": "Isabelle of France",
     "fullName": "Isabelle of France",
     "displayNameCn": "法兰西的伊莎贝尔",
-    "fullNameCn": "Isabelle of France",
+    "fullNameCn": "法兰西的伊莎贝尔",
     "nickname": "",
     "nicknameCn": "",
     "alsoKnownAs": [],
@@ -573,16 +573,16 @@
     "deathPlace": "Kingdom of France",
     "deathPlaceCn": "法兰西王国",
     "gender": "female",
-    "dynasty": "House of Capet",
+    "dynasty": "Capetian dynasty",
     "house": "House of Capet",
     "culture": "French",
     "faith": "Catholic",
     "primaryTitle": "Lady of Chaumont",
-    "primaryTitleCn": "Lady of Chaumont",
+    "primaryTitleCn": "肖蒙夫人",
     "titles": [
       {
         "title": "Lady of Chaumont",
-        "titleCn": "Lady of Chaumont",
+        "titleCn": "肖蒙夫人",
         "startYear": "",
         "endYear": ""
       }

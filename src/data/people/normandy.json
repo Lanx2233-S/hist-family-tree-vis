@@ -498,7 +498,9 @@
       "motherId": "2a19d3aa-7968-4c0b-9870-fe3db9c9b575",
       "spouseIds": [],
       "partnerIds": [],
-      "childIds": []
+      "childIds": [
+        "c9880000-0000-4000-8000-000000000000"
+      ]
     },
     "events": [
       {
@@ -1143,10 +1145,10 @@
       "motherId": "5f92a3cf-4044-4892-8f05-d8959a80451d",
       "spouseIds": [],
       "partnerIds": [],
-    "childIds": [
-      "da51f613-00e2-42ff-9027-a052fac5fc07",
-      "1bb582c5-37e0-41ac-a945-513056827219"
-    ]
+      "childIds": [
+        "da51f613-00e2-42ff-9027-a052fac5fc07",
+        "1bb582c5-37e0-41ac-a945-513056827219"
+      ]
     },
     "events": [
       {
@@ -2260,7 +2262,9 @@
     "fullNameCn": "诺曼底公爵理查三世",
     "nickname": "",
     "nicknameCn": "",
-    "alsoKnownAs": ["Richard III"],
+    "alsoKnownAs": [
+      "Richard III"
+    ],
     "nicknameTags": [],
     "birthYear": 997,
     "deathYear": 1027,
@@ -2284,7 +2288,10 @@
         "endYear": 1027
       }
     ],
-    "tags": ["duke", "noble"],
+    "tags": [
+      "duke",
+      "noble"
+    ],
     "importanceScore": 68,
     "historicalRating": 6,
     "relationships": {
@@ -2298,7 +2305,10 @@
       {
         "year": 997,
         "type": "childbirth",
-        "tags": ["childbirth", "dynasty"],
+        "tags": [
+          "childbirth",
+          "dynasty"
+        ],
         "weight": 55,
         "label": "Born, eldest son of Richard II",
         "labelCn": "出生，为理查二世长子",
@@ -2307,7 +2317,11 @@
       {
         "year": 1026,
         "type": "succession",
-        "tags": ["succession", "title", "dynasty"],
+        "tags": [
+          "succession",
+          "title",
+          "dynasty"
+        ],
         "weight": 82,
         "label": "Succeeded Richard II as Duke of Normandy",
         "labelCn": "继承理查二世成为诺曼底公爵",
@@ -2320,7 +2334,10 @@
         "month": 8,
         "day": 6,
         "type": "death",
-        "tags": ["death", "uncertain"],
+        "tags": [
+          "death",
+          "uncertain"
+        ],
         "weight": 78,
         "label": "Died after a brief reign",
         "labelCn": "短暂统治后去世",

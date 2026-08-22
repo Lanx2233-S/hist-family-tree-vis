@@ -1,0 +1,29 @@
+{
+  "id": "county-of-flanders",
+  "canonicalName": "County of Flanders",
+  "canonicalNameCn": "佛兰德伯国",
+  "form": "evolving",
+  "aliases": ["Count of Flanders", "Counts of Flanders", "Flanders", "Margraviate of Flanders"],
+  "nameForms": [
+    { "name": "Margraviate of Flanders", "nameCn": "佛兰德侯国", "fromYear": 862, "untilYear": 1071, "note": "The early Flemish territory was held as a margraviate before the comital title became customary.", "noteCn": "早期佛兰德领地以侯国形式存在，后来伯爵头衔成为惯例。" },
+    { "name": "County of Flanders", "nameCn": "佛兰德伯国", "fromYear": 1071, "untilYear": "", "note": "The comital designation became standard for the Flemish succession.", "noteCn": "伯国称谓成为佛兰德继承体系的标准名称。" }
+  ],
+  "holders": [
+    { "kind": "person", "personId": "c9740000-0000-4000-8000-000000000000", "startYear": 862, "endYear": 879, "titleForm": "Margrave of Flanders", "note": "Established the Flemish margraviate through his marriage to Judith.", "noteCn": "通过与朱迪丝的婚姻确立佛兰德侯国。", "tierOverride": "duke" },
+    { "kind": "person", "personId": "c9750000-0000-4000-8000-000000000000", "startYear": 879, "endYear": 918, "titleForm": "Margrave of Flanders", "note": "Succeeded his father Baldwin I.", "noteCn": "继承其父鲍德温一世。", "tierOverride": "duke" },
+    { "kind": "person", "personId": "c9770000-0000-4000-8000-000000000000", "startYear": 918, "endYear": 964, "titleForm": "Count of Flanders", "note": "Succeeded Baldwin II as the Flemish ruler.", "noteCn": "继承鲍德温二世，成为佛兰德统治者。", "tierOverride": "count" },
+    { "kind": "person", "personId": "c9780000-0000-4000-8000-000000000000", "startYear": 958, "endYear": 962, "titleForm": "Count of Flanders", "note": "Ruled jointly with his father Arnulf I.", "noteCn": "与父亲阿努尔夫一世共同统治。", "tierOverride": "count" },
+    { "kind": "person", "personId": "c9790000-0000-4000-8000-000000000000", "startYear": 965, "endYear": 987, "titleForm": "Count of Flanders", "note": "Succeeded to the Flemish county after the joint-rule generation.", "noteCn": "在共同统治的一代之后继承佛兰德伯国。", "tierOverride": "count" },
+    { "kind": "person", "personId": "c9800000-0000-4000-8000-000000000000", "startYear": 987, "endYear": 1035, "titleForm": "Count of Flanders", "note": "Succeeded his father Arnulf II.", "noteCn": "继承其父阿努尔夫二世。", "tierOverride": "count" },
+    { "kind": "person", "personId": "c9810000-0000-4000-8000-000000000000", "startYear": 1035, "endYear": 1067, "titleForm": "Count of Flanders", "note": "Succeeded Baldwin IV and became Matilda of Flanders's father.", "noteCn": "继承鲍德温四世，并成为佛兰德的玛蒂尔达之父。", "tierOverride": "count" },
+    { "kind": "person", "personId": "c9830000-0000-4000-8000-000000000000", "startYear": 1067, "endYear": 1070, "titleForm": "Count of Flanders", "note": "Succeeded his father Baldwin V.", "noteCn": "继承其父鲍德温五世。", "tierOverride": "count" },
+    { "kind": "gap", "personId": null, "startYear": 1070, "endYear": 1071, "titleForm": "Interregnum", "titleFormCn": "过渡期", "note": "A short succession crisis followed Baldwin VI's death.", "noteCn": "鲍德温六世去世后出现短暂继承危机。", "sideNote": "The county passed to Robert I after the succession conflict.", "sideNoteCn": "继承冲突后，伯国转入罗贝尔一世手中。" },
+    { "kind": "person", "personId": "c9840000-0000-4000-8000-000000000000", "startYear": 1071, "endYear": 1093, "titleForm": "Count of Flanders", "note": "Succeeded after the succession conflict of 1071.", "noteCn": "在1071年继承冲突后继承伯国。", "tierOverride": "count" },
+    { "kind": "person", "personId": "c9850000-0000-4000-8000-000000000000", "startYear": 1093, "endYear": 1111, "titleForm": "Count of Flanders", "note": "Succeeded his father Robert I and joined the First Crusade.", "noteCn": "继承其父罗贝尔一世，并参加第一次十字军东征。", "tierOverride": "count" },
+    { "kind": "person", "personId": "c9860000-0000-4000-8000-000000000000", "startYear": 1111, "endYear": 1119, "titleForm": "Count of Flanders", "note": "Succeeded Robert II and died without a surviving heir.", "noteCn": "继承罗贝尔二世，去世时没有存活的继承人。", "tierOverride": "count" },
+    { "kind": "person", "personId": "c9870000-0000-4000-8000-000000000000", "startYear": 1119, "endYear": 1127, "titleForm": "Count of Flanders", "note": "A Danish prince selected as count after Baldwin VII's death.", "noteCn": "鲍德温七世去世后，由丹麦王子继任伯爵。", "tierOverride": "count" },
+    { "kind": "person", "personId": "c9880000-0000-4000-8000-000000000000", "startYear": 1127, "endYear": 1128, "titleForm": "Count of Flanders", "note": "Installed with French support after Charles the Good's murder, but faced a rival claim.", "noteCn": "善良的查理遇害后，在法国支持下继任，但面对竞争性继承主张。", "tierOverride": "count" },
+    { "kind": "person", "personId": "c9890000-0000-4000-8000-000000000000", "startYear": 1128, "endYear": 1168, "titleForm": "Count of Flanders", "note": "Won the succession struggle and began the Alsatian line.", "noteCn": "赢得继承斗争，开启阿尔萨斯王朝支系。", "tierOverride": "count" },
+    { "kind": "person", "personId": "c9900000-0000-4000-8000-000000000000", "startYear": 1168, "endYear": 1191, "titleForm": "Count of Flanders", "note": "Succeeded Thierry of Alsace and held the county until his death on crusade.", "noteCn": "继承阿尔萨斯的蒂埃里，直至十字军东征期间去世。", "tierOverride": "count" }
+  ]
+}

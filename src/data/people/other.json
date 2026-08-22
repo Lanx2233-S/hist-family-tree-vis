@@ -62,8 +62,8 @@
       "detailCn": "1083年11月2日玛蒂尔达在诺曼底去世。通行史料未记载暴力或可疑的死因。"
     },
     "relationships": {
-      "fatherId": "",
-      "motherId": "",
+      "fatherId": "c9810000-0000-4000-8000-000000000000",
+      "motherId": "c9820000-0000-4000-8000-000000000000",
       "spouseIds": [
         "21b5ec21-1812-4731-8b03-721988be302f"
       ],
@@ -1518,8 +1518,8 @@
     "birthPlace": "",
     "deathPlace": "",
     "gender": "female",
-    "dynasty": "",
-    "house": "",
+    "dynasty": "Tosny dynasty",
+    "house": "House of Tosny",
     "culture": "Anglo-Norman",
     "faith": "Catholic",
     "primaryTitle": "Partner of Henry II",
@@ -1569,8 +1569,8 @@
     "birthPlace": "",
     "deathPlace": "",
     "gender": "female",
-    "dynasty": "",
-    "house": "",
+    "dynasty": "Unknown dynasty",
+    "house": "Unknown house",
     "culture": "Anglo-Norman",
     "faith": "Catholic",
     "primaryTitle": "Partner of Henry II",
@@ -1620,8 +1620,8 @@
     "birthPlace": "",
     "deathPlace": "",
     "gender": "female",
-    "dynasty": "",
-    "house": "",
+    "dynasty": "Dinefwr dynasty",
+    "house": "House of Dinefwr",
     "culture": "Welsh",
     "faith": "Catholic",
     "primaryTitle": "Partner of Henry II",
@@ -2116,7 +2116,8 @@
     "createdOrder": 20,
     "displayNameCn": "拉姆努尔夫三世",
     "fullNameCn": "阿基坦的拉姆努尔夫三世",
-    "historicalRating": 2
+    "historicalRating": 2,
+    "primaryTitleCn": "普瓦捷伯爵"
   },
   {
     "id": "b6d90909-ed70-4fd5-93c6-e5726538138a",
@@ -2788,7 +2789,8 @@
     "fullNameCn": "普瓦捷伯爵吉勒姆六世·肥胖者",
     "nicknameCn": "肥胖者",
     "primaryTitleCn": "普瓦捷伯爵",
-    "historicalRating": 4
+    "historicalRating": 4,
+    "deathPlaceCn": "普瓦捷"
   },
   {
     "id": "5a4206df-24a9-4d12-a44d-770c0e803ba8",
@@ -2811,15 +2813,15 @@
     "culture": "Occitan",
     "faith": "Catholic",
     "primaryTitle": "Count of Gascony",
-  "titles": [
-    {
-      "title": "Duke of Aquitaine",
-      "titleCn": "阿基坦公爵",
-      "startYear": 1038,
-      "endYear": 1039
-    },
-    {
-      "title": "Count of Gascony",
+    "titles": [
+      {
+        "title": "Duke of Aquitaine",
+        "titleCn": "阿基坦公爵",
+        "startYear": 1038,
+        "endYear": 1039
+      },
+      {
+        "title": "Count of Gascony",
         "startYear": 1032,
         "endYear": 1039,
         "titleCn": "加斯科涅伯爵"
@@ -2854,7 +2856,9 @@
     "displayNameCn": "加斯科涅的奥多",
     "fullNameCn": "普瓦捷伯爵加斯科涅的奥多",
     "primaryTitleCn": "加斯科涅伯爵",
-    "historicalRating": 4
+    "historicalRating": 4,
+    "birthPlaceCn": "加斯科涅",
+    "deathPlaceCn": "普瓦捷"
   },
   {
     "id": "e3b35bf6-5798-4c8a-8eca-f541d2d7d12f",
@@ -3174,7 +3178,7 @@
     "deathPlace": "Paris, France",
     "birthPlaceCn": "法国布卢瓦",
     "deathPlaceCn": "法国巴黎",
-    "dynasty": "House of Champagne",
+    "dynasty": "Blois dynasty",
     "house": "House of Champagne",
     "culture": "French",
     "faith": "Catholic",
@@ -3522,7 +3526,7 @@
     "deathPlace": "West Francia",
     "birthPlaceCn": "西法兰克韦尔芒杜瓦",
     "deathPlaceCn": "西法兰克",
-    "dynasty": "House of Vermandois",
+    "dynasty": "Capetian dynasty",
     "house": "House of Vermandois",
     "culture": "Frankish",
     "faith": "Catholic",
@@ -3661,7 +3665,7 @@
     "deathPlace": "Vermandois, West Francia",
     "birthPlaceCn": "西法兰克韦尔芒杜瓦",
     "deathPlaceCn": "西法兰克韦尔芒杜瓦",
-    "dynasty": "House of Vermandois",
+    "dynasty": "Capetian dynasty",
     "house": "House of Vermandois",
     "culture": "Frankish",
     "faith": "Catholic",
@@ -3783,7 +3787,7 @@
     "deathPlace": "Vermandois, West Francia",
     "birthPlaceCn": "意大利",
     "deathPlaceCn": "西法兰克韦尔芒杜瓦",
-    "dynasty": "House of Vermandois",
+    "dynasty": "Capetian dynasty",
     "house": "House of Vermandois",
     "culture": "Frankish",
     "faith": "Catholic",
@@ -4062,7 +4066,7 @@
     "birthPlaceCn": "",
     "deathPlaceCn": "法兰西王国科尔贝附近的圣让岛修道院",
     "gender": "female",
-    "dynasty": "House of Estridsen",
+    "dynasty": "Estridsen dynasty",
     "house": "House of Estridsen",
     "culture": "Danish",
     "faith": "Catholic",
@@ -4388,7 +4392,7 @@
     "birthPlaceCn": "丹麦",
     "deathPlaceCn": "英格兰盖恩斯伯勒",
     "gender": "male",
-    "dynasty": "House of Knýtlinga",
+    "dynasty": "Knýtlinga dynasty",
     "house": "House of Knýtlinga",
     "culture": "Danish",
     "faith": "Catholic",
@@ -4422,7 +4426,9 @@
       "spouseIds": [],
       "partnerIds": [],
       "childIds": [
-        "0fb64530-ea06-47ec-9570-6166155b53ba"
+        "c1020000-0000-4000-8000-000000000000",
+        "0fb64530-ea06-47ec-9570-6166155b53ba",
+        "c1022000-0000-4000-8000-000000000000"
       ]
     },
     "events": [
@@ -4517,21 +4523,21 @@
     "birthPlaceCn": "丹麦",
     "deathPlaceCn": "英格兰沙夫茨伯里",
     "gender": "male",
-    "dynasty": "House of Knýtlinga",
+    "dynasty": "Knýtlinga dynasty",
     "house": "House of Knýtlinga",
     "culture": "Danish",
     "faith": "Catholic",
     "primaryTitle": "King of England",
     "primaryTitleCn": "英格兰国王",
-  "titles": [
-    {
-      "title": "Duke of Normandy",
-      "titleCn": "诺曼底公爵",
-      "startYear": 1135,
-      "endYear": 1144
-    },
-    {
-      "title": "King of England",
+    "titles": [
+      {
+        "title": "Duke of Normandy",
+        "titleCn": "诺曼底公爵",
+        "startYear": 1135,
+        "endYear": 1144
+      },
+      {
+        "title": "King of England",
         "titleCn": "英格兰国王",
         "startYear": 1016,
         "endYear": 1035
@@ -4690,7 +4696,7 @@
     "birthPlaceCn": "英格兰",
     "deathPlaceCn": "英格兰牛津",
     "gender": "male",
-    "dynasty": "House of Knýtlinga",
+    "dynasty": "Knýtlinga dynasty",
     "house": "House of Knýtlinga",
     "culture": "Danish",
     "faith": "Catholic",
@@ -4791,7 +4797,7 @@
     "birthPlaceCn": "英格兰",
     "deathPlaceCn": "英格兰兰贝斯",
     "gender": "male",
-    "dynasty": "House of Knýtlinga",
+    "dynasty": "Knýtlinga dynasty",
     "house": "House of Knýtlinga",
     "culture": "Danish",
     "faith": "Catholic",
@@ -4897,7 +4903,7 @@
     "birthPlaceCn": "法国布卢瓦",
     "deathPlaceCn": "英格兰多佛",
     "gender": "male",
-    "dynasty": "House of Blois",
+    "dynasty": "Blois dynasty",
     "house": "House of Blois",
     "culture": "French",
     "faith": "Catholic",
@@ -4976,128 +4982,6 @@
       "detailCn": "1154 年，斯蒂芬在多佛尔因胃疾去世，依《沃灵福德条约》由亨利二世继位。",
       "wikiUrl": "https://en.wikipedia.org/wiki/Stephen,_King_of_England"
     }
-  },
-  {
-    "id": "62f8458b-9497-45fd-8ccc-7930f38c7ae8",
-    "firstName": "Richard",
-    "lastName": "York",
-    "displayName": "Richard III",
-    "fullName": "Richard III of England",
-    "displayNameCn": "理查三世",
-    "fullNameCn": "英格兰国王理查三世",
-    "nickname": "",
-    "nicknameCn": "",
-    "alsoKnownAs": [
-      "Richard of Gloucester"
-    ],
-    "nicknameTags": [],
-    "birthYear": 1452,
-    "deathYear": 1485,
-    "birthPlace": "Fotheringhay Castle, England",
-    "deathPlace": "Bosworth Field, England",
-    "birthPlaceCn": "英格兰福瑟林盖城堡",
-    "deathPlaceCn": "英格兰博斯沃思原野",
-    "gender": "male",
-    "dynasty": "House of Plantagenet",
-    "house": "House of York",
-    "culture": "English",
-    "faith": "Catholic",
-    "primaryTitle": "King of England",
-    "primaryTitleCn": "英格兰国王",
-    "titles": [
-      {
-        "title": "King of England",
-        "titleCn": "英格兰国王",
-        "startYear": 1483,
-        "endYear": 1485
-      }
-    ],
-    "tags": [
-      "monarch",
-      "commander"
-    ],
-    "rank": "king",
-    "importanceScore": 84,
-    "historicalRating": 8,
-    "relationships": {
-      "fatherId": "1299a0d9-153e-4a1d-a90f-27ae608c44ae",
-      "motherId": "",
-      "spouseIds": [],
-      "partnerIds": [],
-      "childIds": []
-    },
-    "events": [
-      {
-        "year": 1452,
-        "type": "childbirth",
-        "tags": [
-          "childbirth"
-        ],
-        "weight": 60,
-        "label": "Born at Fotheringhay Castle",
-        "labelCn": "出生于福瑟林盖城堡",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Richard_III_of_England"
-      },
-      {
-        "year": 1483,
-        "type": "government",
-        "tags": [
-          "government"
-        ],
-        "weight": 67,
-        "label": "Became Lord Protector for Edward V",
-        "labelCn": "出任爱德华五世的护国公",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Richard_III_of_England"
-      },
-      {
-        "year": 1483,
-        "type": "coronation",
-        "tags": [
-          "coronation"
-        ],
-        "weight": 74,
-        "label": "Crowned King of England",
-        "labelCn": "加冕为英格兰国王",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Richard_III_of_England"
-      },
-      {
-        "year": 1483,
-        "type": "battle",
-        "tags": [
-          "battle"
-        ],
-        "weight": 81,
-        "label": "Defeated Buckingham's rebellion",
-        "labelCn": "平定白金汉叛乱",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Richard_III_of_England"
-      },
-      {
-        "year": 1485,
-        "type": "battle",
-        "tags": [
-          "battle"
-        ],
-        "weight": 88,
-        "label": "Killed at the Battle of Bosworth Field",
-        "labelCn": "在博斯沃思原野战役阵亡",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Richard_III_of_England"
-      }
-    ],
-    "deathCause": {
-      "kind": "violent",
-      "summary": "Killed at the Battle of Bosworth Field",
-      "summaryCn": "在博斯沃思原野战役中阵亡",
-      "detail": "Richard III was killed in battle on 22 August 1485.",
-      "detailCn": "1485年8月22日，理查三世在战斗中阵亡。",
-      "wikiUrl": "https://en.wikipedia.org/wiki/Richard_III_of_England"
-    },
-    "wikiUrl": "https://en.wikipedia.org/wiki/Richard_III_of_England",
-    "portraitUrl": "",
-    "sourceUrl": "https://en.wikipedia.org/wiki/Richard_III_of_England",
-    "sourceNote": "Younger brother of Edward IV; last Plantagenet king of England. Core chronology completed 2026-08-20.",
-    "notes": "Basic main-line succession card.",
-    "createdDate": "20260817",
-    "createdOrder": 47
   },
   {
     "id": "b9454199-88cf-4506-af5b-c5fa13282c19",
@@ -5695,7 +5579,7 @@
     "deathPlace": "Nogent-le-Roi, France",
     "deathPlaceCn": "法国诺让勒鲁瓦",
     "gender": "male",
-    "dynasty": "House of Valois",
+    "dynasty": "Capetian dynasty",
     "house": "House of Valois",
     "culture": "French",
     "faith": "Catholic",
@@ -5828,7 +5712,7 @@
     "deathPlace": "London, England",
     "deathPlaceCn": "英格兰伦敦",
     "gender": "male",
-    "dynasty": "House of Valois",
+    "dynasty": "Capetian dynasty",
     "house": "House of Valois",
     "culture": "French",
     "faith": "Catholic",
@@ -5960,7 +5844,7 @@
     "deathPlace": "Beauté-sur-Marne, France",
     "deathPlaceCn": "法国博泰叙马恩",
     "gender": "male",
-    "dynasty": "House of Valois",
+    "dynasty": "Capetian dynasty",
     "house": "House of Valois",
     "culture": "French",
     "faith": "Catholic",
@@ -6102,7 +5986,7 @@
     "deathPlace": "Paris, France",
     "deathPlaceCn": "法国巴黎",
     "gender": "male",
-    "dynasty": "House of Valois",
+    "dynasty": "Capetian dynasty",
     "house": "House of Valois",
     "culture": "French",
     "faith": "Catholic",
@@ -6246,7 +6130,7 @@
     "deathPlace": "Mehun-sur-Yèvre, France",
     "deathPlaceCn": "法国默安叙耶夫尔",
     "gender": "male",
-    "dynasty": "House of Valois",
+    "dynasty": "Capetian dynasty",
     "house": "House of Valois",
     "culture": "French",
     "faith": "Catholic",
@@ -6390,7 +6274,7 @@
     "deathPlace": "Plessis-lès-Tours, France",
     "deathPlaceCn": "法国普莱西莱图尔",
     "gender": "male",
-    "dynasty": "House of Valois",
+    "dynasty": "Capetian dynasty",
     "house": "House of Valois",
     "culture": "French",
     "faith": "Catholic",
@@ -6530,7 +6414,7 @@
     "deathPlace": "Amesbury, England",
     "deathPlaceCn": "英格兰埃姆斯伯里",
     "gender": "female",
-    "dynasty": "House of Barcelona",
+    "dynasty": "Barcelona dynasty",
     "house": "House of Barcelona",
     "culture": "Occitan",
     "faith": "Catholic",
@@ -6551,8 +6435,8 @@
     "rank": "queen",
     "importanceScore": 62,
     "relationships": {
-      "fatherId": "",
-      "motherId": "",
+      "fatherId": "c9970000-0000-4000-8000-000000000007",
+      "motherId": "c9980000-0000-4000-8000-000000000008",
       "spouseIds": [
         "eaec18d2-b486-457f-9336-ab403f1586ca"
       ],
@@ -6564,8 +6448,8 @@
     "wikiUrl": "https://en.wikipedia.org/wiki/Eleanor_of_Provence",
     "portraitUrl": "",
     "sourceUrl": "https://en.wikipedia.org/wiki/Eleanor_of_Provence",
-    "sourceNote": "Father Ramon Berenguer IV of Provence is not yet in the roster. Birth year is uncertain (traditionally 1223).",
-    "notes": "Queen consort of Henry III of England and mother of Edward I. Her Provençal and Savoyard relatives became influential at the English court.",
+    "sourceNote": "Parents synchronized with the Provençal succession. Birth year is uncertain (traditionally 1223).",
+    "notes": "Queen consort of Henry III of England and sister of Marguerite, Sanchia, and Beatrice of Provence.",
     "historicalRating": 6,
     "createdDate": "20260818",
     "createdOrder": 30,
@@ -6646,7 +6530,7 @@
     "deathPlace": "Dampierre-sur-Loire, France",
     "deathPlaceCn": "法国当皮埃尔",
     "gender": "female",
-    "dynasty": "House of Valois-Anjou",
+    "dynasty": "Capetian dynasty",
     "house": "House of Valois-Anjou",
     "culture": "French",
     "faith": "Catholic",
@@ -6761,7 +6645,7 @@
     "deathPlace": "London, England",
     "deathPlaceCn": "英格兰伦敦",
     "gender": "female",
-    "dynasty": "House of Valois",
+    "dynasty": "Capetian dynasty",
     "house": "House of Valois",
     "culture": "French",
     "faith": "Catholic",
@@ -6986,7 +6870,7 @@
     "deathPlace": "Jomsborg, Denmark",
     "deathPlaceCn": "丹麦约姆斯堡",
     "gender": "male",
-    "dynasty": "House of Knýtlinga",
+    "dynasty": "Knýtlinga dynasty",
     "house": "House of Knýtlinga",
     "culture": "Danish",
     "faith": "Catholic",
@@ -7013,7 +6897,7 @@
     "rank": "king",
     "importanceScore": 78,
     "relationships": {
-      "fatherId": "",
+      "fatherId": "c1019000-0000-4000-8000-000000000000",
       "motherId": "",
       "spouseIds": [],
       "partnerIds": [],
@@ -7109,8 +6993,8 @@
     "birthPlace": "",
     "deathPlace": "",
     "gender": "female",
-    "dynasty": "",
-    "house": "",
+    "dynasty": "Unknown dynasty",
+    "house": "House of Northampton",
     "culture": "Anglo-Saxon",
     "faith": "Catholic",
     "primaryTitle": "Queen consort of England",
@@ -7196,8 +7080,8 @@
     "deathPlace": "Normandy",
     "deathPlaceCn": "诺曼底",
     "gender": "female",
-    "dynasty": "",
-    "house": "",
+    "dynasty": "Crépon dynasty",
+    "house": "House of Crépon",
     "culture": "Norman",
     "faith": "Catholic",
     "primaryTitle": "Duchess of Normandy",
@@ -7282,7 +7166,7 @@
     "deathPlace": "Denmark",
     "deathPlaceCn": "丹麦",
     "gender": "male",
-    "dynasty": "House of Knýtlinga",
+    "dynasty": "Knýtlinga dynasty",
     "house": "House of Knýtlinga",
     "culture": "Danish",
     "faith": "Catholic",
@@ -7372,8 +7256,8 @@
     "birthPlace": "",
     "deathPlace": "",
     "gender": "female",
-    "dynasty": "",
-    "house": "",
+    "dynasty": "Unknown dynasty",
+    "house": "House of Thorkell",
     "culture": "Danish",
     "faith": "Catholic",
     "primaryTitle": "Countess of Wessex",
@@ -7850,7 +7734,7 @@
     "deathPlace": "Sheen, England",
     "deathPlaceCn": "英格兰希恩",
     "gender": "female",
-    "dynasty": "House of Luxembourg",
+    "dynasty": "Luxembourg dynasty",
     "house": "House of Luxembourg",
     "culture": "Bohemian",
     "faith": "Catholic",
@@ -7941,8 +7825,8 @@
     "birthPlace": "",
     "deathPlace": "",
     "gender": "female",
-    "dynasty": "",
-    "house": "",
+    "dynasty": "Unknown dynasty",
+    "house": "Unknown house",
     "culture": "Anglo-Saxon",
     "faith": "Catholic",
     "primaryTitle": "",
@@ -7980,7 +7864,8 @@
         "labelCn": "相传黑斯廷斯之战后辨认哈罗德遗体",
         "wikiUrl": "https://en.wikipedia.org/wiki/Edith_the_Fair"
       }
-    ]
+    ],
+    "nicknameCn": "斯万内莎"
   },
   {
     "id": "086c99e5-0a45-493c-aee1-4dc08057197f",
@@ -12495,7 +12380,7 @@
     "deathPlace": "Speyer, Germany",
     "deathPlaceCn": "德意志施派尔",
     "gender": "male",
-    "dynasty": "House of Habsburg",
+    "dynasty": "Habsburg dynasty",
     "house": "House of Habsburg",
     "culture": "German",
     "faith": "Catholic",
@@ -12681,7 +12566,7 @@
     "deathPlace": "Windisch, Switzerland",
     "deathPlaceCn": "瑞士温迪施",
     "gender": "male",
-    "dynasty": "House of Habsburg",
+    "dynasty": "Habsburg dynasty",
     "house": "House of Habsburg",
     "culture": "German",
     "faith": "Catholic",
@@ -12774,7 +12659,7 @@
     "deathPlace": "Buonconvento, Italy",
     "deathPlaceCn": "意大利布翁孔文托",
     "gender": "male",
-    "dynasty": "House of Luxembourg",
+    "dynasty": "Luxembourg dynasty",
     "house": "House of Luxembourg",
     "culture": "German",
     "faith": "Catholic",
@@ -12875,7 +12760,7 @@
     "deathPlace": "Fürstenfeldbruck, Germany",
     "deathPlaceCn": "德意志菲尔斯滕费尔德布鲁克",
     "gender": "male",
-    "dynasty": "House of Wittelsbach",
+    "dynasty": "Wittelsbach dynasty",
     "house": "House of Wittelsbach",
     "culture": "German",
     "faith": "Catholic",
@@ -12904,11 +12789,13 @@
     "importanceScore": 72,
     "historicalRating": 7,
     "relationships": {
-      "fatherId": "",
+      "fatherId": "603e7aa9-1520-4412-b6aa-c949cc871d4f",
       "motherId": "",
       "spouseIds": [],
       "partnerIds": [],
-      "childIds": []
+      "childIds": [
+        "c3a4c21b-7783-4f3d-8528-2b8962e1d9cc"
+      ]
     },
     "events": [
       {
@@ -12975,7 +12862,7 @@
     "deathPlace": "Prague, Bohemia",
     "deathPlaceCn": "波希米亚布拉格",
     "gender": "male",
-    "dynasty": "House of Luxembourg",
+    "dynasty": "Luxembourg dynasty",
     "house": "House of Luxembourg",
     "culture": "German",
     "faith": "Catholic",
@@ -13109,7 +12996,7 @@
     "deathPlace": "Prague, Bohemia",
     "deathPlaceCn": "波希米亚布拉格",
     "gender": "male",
-    "dynasty": "House of Luxembourg",
+    "dynasty": "Luxembourg dynasty",
     "house": "House of Luxembourg",
     "culture": "German",
     "faith": "Catholic",
@@ -13201,7 +13088,7 @@
     "deathPlace": "Oppenheim, Germany",
     "deathPlaceCn": "德意志奥彭海姆",
     "gender": "male",
-    "dynasty": "House of Wittelsbach",
+    "dynasty": "Wittelsbach dynasty",
     "house": "House of Wittelsbach",
     "culture": "German",
     "faith": "Catholic",
@@ -13294,7 +13181,7 @@
     "deathPlace": "Znojmo, Bohemia",
     "deathPlaceCn": "波希米亚兹诺伊莫",
     "gender": "male",
-    "dynasty": "House of Luxembourg",
+    "dynasty": "Luxembourg dynasty",
     "house": "House of Luxembourg",
     "culture": "German",
     "faith": "Catholic",
@@ -13393,7 +13280,7 @@
     "deathPlace": "Neszmély, Hungary",
     "deathPlaceCn": "匈牙利内斯梅伊",
     "gender": "male",
-    "dynasty": "House of Habsburg",
+    "dynasty": "Habsburg dynasty",
     "house": "House of Habsburg",
     "culture": "German",
     "faith": "Catholic",
@@ -13486,7 +13373,7 @@
     "deathPlace": "Linz, Austria",
     "deathPlaceCn": "奥地利林茨",
     "gender": "male",
-    "dynasty": "House of Habsburg",
+    "dynasty": "Habsburg dynasty",
     "house": "House of Habsburg",
     "culture": "German",
     "faith": "Catholic",
@@ -13588,7 +13475,7 @@
     "deathPlace": "Wels, Austria",
     "deathPlaceCn": "奥地利韦尔斯",
     "gender": "male",
-    "dynasty": "House of Habsburg",
+    "dynasty": "Habsburg dynasty",
     "house": "House of Habsburg",
     "culture": "German",
     "faith": "Catholic",
@@ -13723,7 +13610,7 @@
     "deathPlace": "Burgos, Castile",
     "deathPlaceCn": "卡斯蒂利亚布尔戈斯",
     "gender": "male",
-    "dynasty": "House of Habsburg",
+    "dynasty": "Habsburg dynasty",
     "house": "House of Habsburg",
     "culture": "German",
     "faith": "Catholic",
@@ -13819,7 +13706,7 @@
     "deathPlace": "Cuacos de Yuste, Spain",
     "deathPlaceCn": "西班牙尤斯特修道院",
     "gender": "male",
-    "dynasty": "House of Habsburg",
+    "dynasty": "Habsburg dynasty",
     "house": "House of Habsburg",
     "culture": "Flemish",
     "faith": "Catholic",
@@ -13903,27 +13790,302 @@
       "childIds": []
     },
     "events": [
-      { "year": 1500, "month": 2, "day": 24, "type": "childbirth", "tags": ["childbirth"], "weight": 60, "label": "Born in Ghent", "labelCn": "出生于根特", "wikiUrl": "https://en.wikipedia.org/wiki/Charles_V,_Holy_Roman_Emperor" },
-      { "year": 1506, "month": 9, "day": 25, "type": "succession", "tags": ["succession", "title"], "weight": 82, "label": "Inherited the Burgundian Netherlands after Philip the Handsome's death", "labelCn": "腓力一世去世后继承勃艮第尼德兰", "wikiUrl": "https://en.wikipedia.org/wiki/Charles_V,_Holy_Roman_Emperor" },
-      { "year": 1515, "month": 1, "day": 5, "type": "government", "tags": ["government", "majority"], "weight": 72, "label": "Proclaimed ruler of the Netherlands", "labelCn": "宣布亲政尼德兰", "wikiUrl": "https://www.emperorcharlesv.com/timeline/" },
-      { "year": 1516, "month": 3, "day": 14, "type": "succession", "tags": ["succession", "monarch"], "weight": 92, "label": "Proclaimed joint king of Castile and Aragon", "labelCn": "宣布与胡安娜共治卡斯蒂利亚和阿拉贡", "wikiUrl": "https://en.wikipedia.org/wiki/Charles_V,_Holy_Roman_Emperor" },
-      { "year": 1517, "month": 9, "day": 8, "type": "journey", "tags": ["journey", "government"], "weight": 68, "label": "Landed in Spain for his first royal visit", "labelCn": "首次抵达西班牙亲自执政", "wikiUrl": "https://www.emperorcharlesv.com/timeline/" },
-      { "year": 1519, "month": 6, "day": 28, "type": "election", "tags": ["election", "monarch"], "weight": 96, "label": "Elected King of the Romans", "labelCn": "当选罗马人的国王", "wikiUrl": "https://en.wikipedia.org/wiki/Charles_V,_Holy_Roman_Emperor" },
-      { "year": 1520, "month": 10, "day": 23, "type": "coronation", "tags": ["coronation", "monarch"], "weight": 90, "label": "Crowned King of the Romans at Aachen", "labelCn": "在亚琛加冕为罗马人的国王", "wikiUrl": "https://en.wikipedia.org/wiki/Charles_V,_Holy_Roman_Emperor" },
-      { "year": 1521, "month": 4, "day": 18, "type": "religion", "tags": ["religion", "reformation", "diet"], "weight": 94, "label": "Confronted Martin Luther at the Diet of Worms", "labelCn": "在沃尔姆斯帝国议会面对马丁·路德", "wikiUrl": "https://en.wikipedia.org/wiki/Diet_of_Worms" },
-      { "year": 1525, "month": 2, "day": 24, "type": "battle", "tags": ["battle", "war"], "weight": 94, "label": "Imperial victory at the Battle of Pavia; Francis I captured", "labelCn": "帕维亚战役获胜并俘虏法王弗朗索瓦一世", "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Pavia" },
-      { "year": 1526, "month": 1, "day": 14, "type": "treaty", "tags": ["treaty", "diplomacy"], "weight": 82, "label": "Concluded the Treaty of Madrid with Francis I", "labelCn": "与弗朗索瓦一世缔结《马德里条约》", "wikiUrl": "https://en.wikipedia.org/wiki/Treaty_of_Madrid_(1526)" },
-      { "year": 1527, "month": 5, "day": 6, "type": "war", "tags": ["war", "italian_wars"], "weight": 88, "label": "Imperial troops sacked Rome", "labelCn": "帝国军洗劫罗马", "wikiUrl": "https://en.wikipedia.org/wiki/Sack_of_Rome_(1527)" },
-      { "year": 1529, "month": 8, "day": 5, "type": "treaty", "tags": ["treaty", "diplomacy"], "weight": 78, "label": "Concluded the Peace of Cambrai with France", "labelCn": "与法国缔结《康布雷和约》", "wikiUrl": "https://en.wikipedia.org/wiki/Peace_of_Cambrai" },
-      { "year": 1530, "month": 2, "day": 22, "type": "coronation", "tags": ["coronation", "monarch"], "weight": 88, "label": "Crowned King of Italy at Bologna", "labelCn": "在博洛尼亚加冕为意大利国王", "wikiUrl": "https://en.wikipedia.org/wiki/Charles_V,_Holy_Roman_Emperor" },
-      { "year": 1530, "month": 2, "day": 24, "type": "coronation", "tags": ["coronation", "emperor"], "weight": 100, "label": "Crowned Holy Roman Emperor at Bologna", "labelCn": "在博洛尼亚加冕为神圣罗马帝国皇帝", "wikiUrl": "https://en.wikipedia.org/wiki/Charles_V,_Holy_Roman_Emperor" },
-      { "year": 1535, "month": 7, "day": 21, "type": "battle", "tags": ["battle", "crusade", "mediterranean"], "weight": 84, "label": "Captured Tunis in the imperial expedition", "labelCn": "亲率远征军攻占突尼斯", "wikiUrl": "https://en.wikipedia.org/wiki/Conquest_of_Tunis_(1535)" },
-      { "year": 1547, "month": 4, "day": 24, "type": "battle", "tags": ["battle", "reformation"], "weight": 90, "label": "Defeated the Schmalkaldic League at Mühlberg", "labelCn": "米尔贝格战役击败施马尔卡尔登同盟", "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_M%C3%BChlberg" },
-      { "year": 1555, "month": 9, "day": 25, "type": "treaty", "tags": ["treaty", "reformation", "government"], "weight": 92, "label": "Peace of Augsburg established confessional settlement in the Empire", "labelCn": "《奥格斯堡和约》确立帝国内的宗教和解", "wikiUrl": "https://en.wikipedia.org/wiki/Peace_of_Augsburg" },
-      { "year": 1555, "month": 10, "day": 25, "type": "abdication", "tags": ["abdication", "succession"], "weight": 88, "label": "Abdicated the Netherlands to Philip", "labelCn": "将尼德兰让与腓力", "wikiUrl": "https://en.wikipedia.org/wiki/Charles_V,_Holy_Roman_Emperor" },
-      { "year": 1556, "month": 1, "day": 16, "type": "abdication", "tags": ["abdication", "succession"], "weight": 92, "label": "Abdicated the Spanish crowns to Philip", "labelCn": "将西班牙诸王冠让与腓力", "wikiUrl": "https://en.wikipedia.org/wiki/Charles_V,_Holy_Roman_Emperor" },
-      { "year": 1556, "month": 8, "day": 3, "type": "abdication", "tags": ["abdication", "succession", "emperor"], "weight": 90, "label": "Announced abdication of the imperial crown in favour of Ferdinand", "labelCn": "宣布将帝位让与斐迪南", "wikiUrl": "https://en.wikipedia.org/wiki/Charles_V,_Holy_Roman_Emperor" },
-      { "year": 1558, "month": 9, "day": 21, "type": "death", "tags": ["death"], "weight": 75, "label": "Died at Yuste", "labelCn": "逝世于尤斯特", "wikiUrl": "https://en.wikipedia.org/wiki/Charles_V,_Holy_Roman_Emperor" }
+      {
+        "year": 1500,
+        "month": 2,
+        "day": 24,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 60,
+        "label": "Born in Ghent",
+        "labelCn": "出生于根特",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Charles_V,_Holy_Roman_Emperor"
+      },
+      {
+        "year": 1506,
+        "month": 9,
+        "day": 25,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 82,
+        "label": "Inherited the Burgundian Netherlands after Philip the Handsome's death",
+        "labelCn": "腓力一世去世后继承勃艮第尼德兰",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Charles_V,_Holy_Roman_Emperor"
+      },
+      {
+        "year": 1515,
+        "month": 1,
+        "day": 5,
+        "type": "government",
+        "tags": [
+          "government",
+          "majority"
+        ],
+        "weight": 72,
+        "label": "Proclaimed ruler of the Netherlands",
+        "labelCn": "宣布亲政尼德兰",
+        "wikiUrl": "https://www.emperorcharlesv.com/timeline/"
+      },
+      {
+        "year": 1516,
+        "month": 3,
+        "day": 14,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "monarch"
+        ],
+        "weight": 92,
+        "label": "Proclaimed joint king of Castile and Aragon",
+        "labelCn": "宣布与胡安娜共治卡斯蒂利亚和阿拉贡",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Charles_V,_Holy_Roman_Emperor"
+      },
+      {
+        "year": 1517,
+        "month": 9,
+        "day": 8,
+        "type": "journey",
+        "tags": [
+          "journey",
+          "government"
+        ],
+        "weight": 68,
+        "label": "Landed in Spain for his first royal visit",
+        "labelCn": "首次抵达西班牙亲自执政",
+        "wikiUrl": "https://www.emperorcharlesv.com/timeline/"
+      },
+      {
+        "year": 1519,
+        "month": 6,
+        "day": 28,
+        "type": "election",
+        "tags": [
+          "election",
+          "monarch"
+        ],
+        "weight": 96,
+        "label": "Elected King of the Romans",
+        "labelCn": "当选罗马人的国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Charles_V,_Holy_Roman_Emperor"
+      },
+      {
+        "year": 1520,
+        "month": 10,
+        "day": 23,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 90,
+        "label": "Crowned King of the Romans at Aachen",
+        "labelCn": "在亚琛加冕为罗马人的国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Charles_V,_Holy_Roman_Emperor"
+      },
+      {
+        "year": 1521,
+        "month": 4,
+        "day": 18,
+        "type": "religion",
+        "tags": [
+          "religion",
+          "reformation",
+          "diet"
+        ],
+        "weight": 94,
+        "label": "Confronted Martin Luther at the Diet of Worms",
+        "labelCn": "在沃尔姆斯帝国议会面对马丁·路德",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Diet_of_Worms"
+      },
+      {
+        "year": 1525,
+        "month": 2,
+        "day": 24,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "war"
+        ],
+        "weight": 94,
+        "label": "Imperial victory at the Battle of Pavia; Francis I captured",
+        "labelCn": "帕维亚战役获胜并俘虏法王弗朗索瓦一世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Pavia"
+      },
+      {
+        "year": 1526,
+        "month": 1,
+        "day": 14,
+        "type": "treaty",
+        "tags": [
+          "treaty",
+          "diplomacy"
+        ],
+        "weight": 82,
+        "label": "Concluded the Treaty of Madrid with Francis I",
+        "labelCn": "与弗朗索瓦一世缔结《马德里条约》",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Treaty_of_Madrid_(1526)"
+      },
+      {
+        "year": 1527,
+        "month": 5,
+        "day": 6,
+        "type": "war",
+        "tags": [
+          "war",
+          "italian_wars"
+        ],
+        "weight": 88,
+        "label": "Imperial troops sacked Rome",
+        "labelCn": "帝国军洗劫罗马",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Sack_of_Rome_(1527)"
+      },
+      {
+        "year": 1529,
+        "month": 8,
+        "day": 5,
+        "type": "treaty",
+        "tags": [
+          "treaty",
+          "diplomacy"
+        ],
+        "weight": 78,
+        "label": "Concluded the Peace of Cambrai with France",
+        "labelCn": "与法国缔结《康布雷和约》",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Peace_of_Cambrai"
+      },
+      {
+        "year": 1530,
+        "month": 2,
+        "day": 22,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 88,
+        "label": "Crowned King of Italy at Bologna",
+        "labelCn": "在博洛尼亚加冕为意大利国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Charles_V,_Holy_Roman_Emperor"
+      },
+      {
+        "year": 1530,
+        "month": 2,
+        "day": 24,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "emperor"
+        ],
+        "weight": 100,
+        "label": "Crowned Holy Roman Emperor at Bologna",
+        "labelCn": "在博洛尼亚加冕为神圣罗马帝国皇帝",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Charles_V,_Holy_Roman_Emperor"
+      },
+      {
+        "year": 1535,
+        "month": 7,
+        "day": 21,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "crusade",
+          "mediterranean"
+        ],
+        "weight": 84,
+        "label": "Captured Tunis in the imperial expedition",
+        "labelCn": "亲率远征军攻占突尼斯",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Conquest_of_Tunis_(1535)"
+      },
+      {
+        "year": 1547,
+        "month": 4,
+        "day": 24,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "reformation"
+        ],
+        "weight": 90,
+        "label": "Defeated the Schmalkaldic League at Mühlberg",
+        "labelCn": "米尔贝格战役击败施马尔卡尔登同盟",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_M%C3%BChlberg"
+      },
+      {
+        "year": 1555,
+        "month": 9,
+        "day": 25,
+        "type": "treaty",
+        "tags": [
+          "treaty",
+          "reformation",
+          "government"
+        ],
+        "weight": 92,
+        "label": "Peace of Augsburg established confessional settlement in the Empire",
+        "labelCn": "《奥格斯堡和约》确立帝国内的宗教和解",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Peace_of_Augsburg"
+      },
+      {
+        "year": 1555,
+        "month": 10,
+        "day": 25,
+        "type": "abdication",
+        "tags": [
+          "abdication",
+          "succession"
+        ],
+        "weight": 88,
+        "label": "Abdicated the Netherlands to Philip",
+        "labelCn": "将尼德兰让与腓力",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Charles_V,_Holy_Roman_Emperor"
+      },
+      {
+        "year": 1556,
+        "month": 1,
+        "day": 16,
+        "type": "abdication",
+        "tags": [
+          "abdication",
+          "succession"
+        ],
+        "weight": 92,
+        "label": "Abdicated the Spanish crowns to Philip",
+        "labelCn": "将西班牙诸王冠让与腓力",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Charles_V,_Holy_Roman_Emperor"
+      },
+      {
+        "year": 1556,
+        "month": 8,
+        "day": 3,
+        "type": "abdication",
+        "tags": [
+          "abdication",
+          "succession",
+          "emperor"
+        ],
+        "weight": 90,
+        "label": "Announced abdication of the imperial crown in favour of Ferdinand",
+        "labelCn": "宣布将帝位让与斐迪南",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Charles_V,_Holy_Roman_Emperor"
+      },
+      {
+        "year": 1558,
+        "month": 9,
+        "day": 21,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 75,
+        "label": "Died at Yuste",
+        "labelCn": "逝世于尤斯特",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Charles_V,_Holy_Roman_Emperor"
+      }
     ],
     "wikiUrl": "https://en.wikipedia.org/wiki/Charles_V,_Holy_Roman_Emperor",
     "portraitUrl": "",
@@ -13932,5 +14094,1203 @@
     "notes": "Holy Roman Emperor and King of Spain who ruled an empire spanning Europe and the Americas.",
     "createdDate": "20260820",
     "createdOrder": 27
+  },
+  {
+    "id": "c9730000-0000-4000-8000-000000000000",
+    "firstName": "Judith",
+    "lastName": "",
+    "displayName": "Judith of Flanders",
+    "fullName": "Judith of Flanders",
+    "displayNameCn": "佛兰德的朱迪丝",
+    "fullNameCn": "佛兰德的朱迪丝",
+    "nickname": "",
+    "nicknameCn": "",
+    "nicknameTags": [],
+    "alsoKnownAs": [],
+    "gender": "female",
+    "birthYear": 843,
+    "deathYear": 870,
+    "birthPlace": "West Francia",
+    "deathPlace": "Flanders",
+    "birthPlaceCn": "West Francia",
+    "deathPlaceCn": "Flanders",
+    "dynasty": "Carolingian dynasty",
+    "house": "Carolingian dynasty",
+    "culture": "Frankish",
+    "faith": "Catholic",
+    "primaryTitle": "Queen of Wessex",
+    "primaryTitleCn": "威塞克斯王后",
+    "titles": [
+      {
+        "title": "Queen of Wessex",
+        "startYear": 856,
+        "endYear": 860,
+        "titleCn": "威塞克斯王后"
+      },
+      {
+        "title": "Countess of Flanders",
+        "startYear": 863,
+        "endYear": 870,
+        "titleCn": "佛兰德伯爵夫人"
+      }
+    ],
+    "tags": [
+      "queen",
+      "consort",
+      "noble"
+    ],
+    "rank": "queen",
+    "importanceScore": 40,
+    "wikiUrl": "https://en.wikipedia.org/wiki/Judith_of_Flanders",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Judith_of_Flanders",
+    "sourceNote": "",
+    "notes": "Daughter of Charles the Bald; her marriages to Æthelwulf and Æthelbald were childless. She later married Baldwin I of Flanders.",
+    "relationships": {
+      "fatherId": "da77a416-665f-4fe8-bf64-bc42e258e27f",
+      "motherId": "",
+      "spouseIds": [
+        "019f2067-839d-4480-b345-744fb9af428b",
+        "c19deaa7-e7ab-4a50-8fe1-a2d24dfa80bf",
+        "c9740000-0000-4000-8000-000000000000"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "c9750000-0000-4000-8000-000000000000",
+        "c9760000-0000-4000-8000-000000000000"
+      ]
+    },
+    "events": [],
+    "historicalRating": 5,
+    "createdDate": "20260823"
+  },
+  {
+    "id": "c9740000-0000-4000-8000-000000000000",
+    "firstName": "Baldwin",
+    "lastName": "of Flanders",
+    "displayName": "Baldwin I of Flanders",
+    "fullName": "Baldwin I of Flanders",
+    "displayNameCn": "佛兰德的鲍德温一世",
+    "fullNameCn": "佛兰德的鲍德温一世",
+    "nickname": "",
+    "nicknameCn": "",
+    "nicknameTags": [],
+    "alsoKnownAs": [],
+    "gender": "male",
+    "birthYear": 830,
+    "deathYear": 879,
+    "birthPlace": "Flanders",
+    "deathPlace": "Arras",
+    "birthPlaceCn": "Flanders",
+    "deathPlaceCn": "Arras",
+    "dynasty": "House of Flanders",
+    "house": "House of Flanders",
+    "culture": "Flemish",
+    "faith": "Catholic",
+    "primaryTitle": "Margrave of Flanders",
+    "primaryTitleCn": "佛兰德侯爵",
+    "titles": [
+      {
+        "title": "Margrave of Flanders",
+        "startYear": 862,
+        "endYear": 879,
+        "titleCn": "佛兰德侯爵"
+      }
+    ],
+    "tags": [
+      "noble"
+    ],
+    "rank": "noble",
+    "importanceScore": 40,
+    "wikiUrl": "https://en.wikipedia.org/wiki/Baldwin_I,_Margrave_of_Flanders",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Baldwin_I,_Margrave_of_Flanders",
+    "sourceNote": "",
+    "notes": "Rose to prominence through his marriage to Judith, daughter of Charles the Bald; the Flemish margraviate later developed into the County of Flanders.",
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "c9730000-0000-4000-8000-000000000000"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "c9750000-0000-4000-8000-000000000000",
+        "c9760000-0000-4000-8000-000000000000"
+      ]
+    },
+    "events": [],
+    "historicalRating": 5,
+    "createdDate": "20260823"
+  },
+  {
+    "id": "c9750000-0000-4000-8000-000000000000",
+    "firstName": "Baldwin",
+    "lastName": "of Flanders",
+    "displayName": "Baldwin II of Flanders",
+    "fullName": "Baldwin II of Flanders",
+    "displayNameCn": "佛兰德的鲍德温二世",
+    "fullNameCn": "佛兰德的鲍德温二世",
+    "nickname": "",
+    "nicknameCn": "",
+    "nicknameTags": [],
+    "alsoKnownAs": [],
+    "gender": "male",
+    "birthYear": 865,
+    "deathYear": 918,
+    "birthPlace": "Flanders",
+    "deathPlace": "Ghent",
+    "birthPlaceCn": "Flanders",
+    "deathPlaceCn": "Ghent",
+    "dynasty": "House of Flanders",
+    "house": "House of Flanders",
+    "culture": "Flemish",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Flanders",
+    "primaryTitleCn": "佛兰德伯爵",
+    "titles": [
+      {
+        "title": "Count of Flanders",
+        "startYear": 879,
+        "endYear": 918,
+        "titleCn": "佛兰德伯爵"
+      }
+    ],
+    "tags": [
+      "noble"
+    ],
+    "rank": "noble",
+    "importanceScore": 40,
+    "wikiUrl": "https://en.wikipedia.org/wiki/Baldwin_II,_Margrave_of_Flanders",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Baldwin_II,_Margrave_of_Flanders",
+    "sourceNote": "",
+    "notes": "Son of Baldwin I and Judith; his marriage to Ælfthryth linked the Flemish and West Saxon dynasties.",
+    "relationships": {
+      "fatherId": "c9740000-0000-4000-8000-000000000000",
+      "motherId": "c9730000-0000-4000-8000-000000000000",
+      "spouseIds": [
+        "4906de6b-cdef-468c-b602-411e4bbe3c03"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "c9770000-0000-4000-8000-000000000000"
+      ]
+    },
+    "events": [],
+    "historicalRating": 5,
+    "createdDate": "20260823"
+  },
+  {
+    "id": "c9760000-0000-4000-8000-000000000000",
+    "firstName": "Ralph",
+    "lastName": "of Cambrai",
+    "displayName": "Ralph of Cambrai",
+    "fullName": "Ralph of Cambrai",
+    "displayNameCn": "康布雷的拉乌尔",
+    "fullNameCn": "康布雷的拉乌尔",
+    "nickname": "",
+    "nicknameCn": "",
+    "nicknameTags": [],
+    "alsoKnownAs": [],
+    "gender": "male",
+    "birthYear": 868,
+    "deathYear": 896,
+    "birthPlace": "Flanders",
+    "deathPlace": "Vermandois",
+    "birthPlaceCn": "Flanders",
+    "deathPlaceCn": "Vermandois",
+    "dynasty": "House of Flanders",
+    "house": "House of Flanders",
+    "culture": "Flemish",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Cambrai",
+    "primaryTitleCn": "康布雷伯爵",
+    "titles": [
+      {
+        "title": "Count of Cambrai",
+        "startYear": 888,
+        "endYear": 896,
+        "titleCn": "康布雷伯爵"
+      }
+    ],
+    "tags": [
+      "noble"
+    ],
+    "rank": "noble",
+    "importanceScore": 40,
+    "wikiUrl": "https://en.wikipedia.org/wiki/Baldwin_I,_Margrave_of_Flanders",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Baldwin_I,_Margrave_of_Flanders",
+    "sourceNote": "",
+    "notes": "Younger son of Baldwin I and Judith; his later career is recorded separately from the main Flemish succession.",
+    "relationships": {
+      "fatherId": "c9740000-0000-4000-8000-000000000000",
+      "motherId": "c9730000-0000-4000-8000-000000000000",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [],
+    "historicalRating": 5,
+    "createdDate": "20260823"
+  },
+  {
+    "id": "c9770000-0000-4000-8000-000000000000",
+    "firstName": "Arnulf",
+    "lastName": "of Flanders",
+    "displayName": "Arnulf I of Flanders",
+    "fullName": "Arnulf I of Flanders",
+    "displayNameCn": "佛兰德的阿努尔夫一世",
+    "fullNameCn": "佛兰德的阿努尔夫一世",
+    "nickname": "",
+    "nicknameCn": "",
+    "nicknameTags": [],
+    "alsoKnownAs": [],
+    "gender": "male",
+    "birthYear": 890,
+    "deathYear": 964,
+    "birthPlace": "Flanders",
+    "deathPlace": "Flanders",
+    "birthPlaceCn": "Flanders",
+    "deathPlaceCn": "Flanders",
+    "dynasty": "House of Flanders",
+    "house": "House of Flanders",
+    "culture": "Flemish",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Flanders",
+    "primaryTitleCn": "佛兰德伯爵",
+    "titles": [
+      {
+        "title": "Count of Flanders",
+        "startYear": 918,
+        "endYear": 964,
+        "titleCn": "佛兰德伯爵"
+      }
+    ],
+    "tags": [
+      "noble"
+    ],
+    "rank": "noble",
+    "importanceScore": 40,
+    "wikiUrl": "https://en.wikipedia.org/wiki/Arnulf_I,_Count_of_Flanders",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Arnulf_I,_Count_of_Flanders",
+    "sourceNote": "",
+    "notes": "Succeeded Baldwin II and consolidated the Flemish county amid conflict with neighbouring powers.",
+    "relationships": {
+      "fatherId": "c9750000-0000-4000-8000-000000000000",
+      "motherId": "4906de6b-cdef-468c-b602-411e4bbe3c03",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "c9780000-0000-4000-8000-000000000000"
+      ]
+    },
+    "events": [],
+    "historicalRating": 5,
+    "createdDate": "20260823"
+  },
+  {
+    "id": "c9780000-0000-4000-8000-000000000000",
+    "firstName": "Baldwin",
+    "lastName": "of Flanders",
+    "displayName": "Baldwin III of Flanders",
+    "fullName": "Baldwin III of Flanders",
+    "displayNameCn": "佛兰德的鲍德温三世",
+    "fullNameCn": "佛兰德的鲍德温三世",
+    "nickname": "",
+    "nicknameCn": "",
+    "nicknameTags": [],
+    "alsoKnownAs": [],
+    "gender": "male",
+    "birthYear": 940,
+    "deathYear": 962,
+    "birthPlace": "Flanders",
+    "deathPlace": "Flanders",
+    "birthPlaceCn": "Flanders",
+    "deathPlaceCn": "Flanders",
+    "dynasty": "House of Flanders",
+    "house": "House of Flanders",
+    "culture": "Flemish",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Flanders",
+    "primaryTitleCn": "佛兰德伯爵",
+    "titles": [
+      {
+        "title": "Count of Flanders",
+        "startYear": 958,
+        "endYear": 962,
+        "titleCn": "佛兰德伯爵"
+      }
+    ],
+    "tags": [
+      "noble"
+    ],
+    "rank": "noble",
+    "importanceScore": 40,
+    "wikiUrl": "https://en.wikipedia.org/wiki/Arnulf_I,_Count_of_Flanders",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Arnulf_I,_Count_of_Flanders",
+    "sourceNote": "",
+    "notes": "Ruled jointly with his father Arnulf I; the succession returned to his father after his early death.",
+    "relationships": {
+      "fatherId": "c9770000-0000-4000-8000-000000000000",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "c9790000-0000-4000-8000-000000000000"
+      ]
+    },
+    "events": [],
+    "historicalRating": 5,
+    "createdDate": "20260823"
+  },
+  {
+    "id": "c9790000-0000-4000-8000-000000000000",
+    "firstName": "Arnulf",
+    "lastName": "of Flanders",
+    "displayName": "Arnulf II of Flanders",
+    "fullName": "Arnulf II of Flanders",
+    "displayNameCn": "佛兰德的阿努尔夫二世",
+    "fullNameCn": "佛兰德的阿努尔夫二世",
+    "nickname": "",
+    "nicknameCn": "",
+    "nicknameTags": [],
+    "alsoKnownAs": [],
+    "gender": "male",
+    "birthYear": 961,
+    "deathYear": 987,
+    "birthPlace": "Flanders",
+    "deathPlace": "Flanders",
+    "birthPlaceCn": "Flanders",
+    "deathPlaceCn": "Flanders",
+    "dynasty": "House of Flanders",
+    "house": "House of Flanders",
+    "culture": "Flemish",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Flanders",
+    "primaryTitleCn": "佛兰德伯爵",
+    "titles": [
+      {
+        "title": "Count of Flanders",
+        "startYear": 965,
+        "endYear": 987,
+        "titleCn": "佛兰德伯爵"
+      }
+    ],
+    "tags": [
+      "noble"
+    ],
+    "rank": "noble",
+    "importanceScore": 40,
+    "wikiUrl": "https://en.wikipedia.org/wiki/Arnulf_II,_Count_of_Flanders",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Arnulf_II,_Count_of_Flanders",
+    "sourceNote": "",
+    "notes": "Son of Baldwin III and successor to the Flemish county.",
+    "relationships": {
+      "fatherId": "c9780000-0000-4000-8000-000000000000",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "c9800000-0000-4000-8000-000000000000"
+      ]
+    },
+    "events": [],
+    "historicalRating": 5,
+    "createdDate": "20260823"
+  },
+  {
+    "id": "c9800000-0000-4000-8000-000000000000",
+    "firstName": "Baldwin",
+    "lastName": "of Flanders",
+    "displayName": "Baldwin IV of Flanders",
+    "fullName": "Baldwin IV of Flanders",
+    "displayNameCn": "佛兰德的鲍德温四世",
+    "fullNameCn": "佛兰德的鲍德温四世",
+    "nickname": "",
+    "nicknameCn": "",
+    "nicknameTags": [],
+    "alsoKnownAs": [],
+    "gender": "male",
+    "birthYear": 980,
+    "deathYear": 1035,
+    "birthPlace": "Flanders",
+    "deathPlace": "Flanders",
+    "birthPlaceCn": "Flanders",
+    "deathPlaceCn": "Flanders",
+    "dynasty": "House of Flanders",
+    "house": "House of Flanders",
+    "culture": "Flemish",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Flanders",
+    "primaryTitleCn": "佛兰德伯爵",
+    "titles": [
+      {
+        "title": "Count of Flanders",
+        "startYear": 987,
+        "endYear": 1035,
+        "titleCn": "佛兰德伯爵"
+      }
+    ],
+    "tags": [
+      "noble"
+    ],
+    "rank": "noble",
+    "importanceScore": 40,
+    "wikiUrl": "https://en.wikipedia.org/wiki/Baldwin_IV,_Count_of_Flanders",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Baldwin_IV,_Count_of_Flanders",
+    "sourceNote": "",
+    "notes": "Known as Baldwin the Bearded; father of Baldwin V by Ogive of Luxembourg and of Judith by Eleanor of Normandy.",
+    "relationships": {
+      "fatherId": "c9790000-0000-4000-8000-000000000000",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "c9810000-0000-4000-8000-000000000000"
+      ]
+    },
+    "events": [],
+    "historicalRating": 5,
+    "createdDate": "20260823"
+  },
+  {
+    "id": "c9810000-0000-4000-8000-000000000000",
+    "firstName": "Baldwin",
+    "lastName": "of Flanders",
+    "displayName": "Baldwin V of Flanders",
+    "fullName": "Baldwin V of Flanders",
+    "displayNameCn": "佛兰德的鲍德温五世",
+    "fullNameCn": "佛兰德的鲍德温五世",
+    "nickname": "",
+    "nicknameCn": "",
+    "nicknameTags": [],
+    "alsoKnownAs": [],
+    "gender": "male",
+    "birthYear": 1012,
+    "deathYear": 1067,
+    "birthPlace": "Flanders",
+    "deathPlace": "Lille",
+    "birthPlaceCn": "Flanders",
+    "deathPlaceCn": "Lille",
+    "dynasty": "House of Flanders",
+    "house": "House of Flanders",
+    "culture": "Flemish",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Flanders",
+    "primaryTitleCn": "佛兰德伯爵",
+    "titles": [
+      {
+        "title": "Count of Flanders",
+        "startYear": 1035,
+        "endYear": 1067,
+        "titleCn": "佛兰德伯爵"
+      }
+    ],
+    "tags": [
+      "noble"
+    ],
+    "rank": "noble",
+    "importanceScore": 40,
+    "wikiUrl": "https://en.wikipedia.org/wiki/Baldwin_V,_Count_of_Flanders",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Baldwin_V,_Count_of_Flanders",
+    "sourceNote": "",
+    "notes": "Father of Matilda of Flanders, who married William the Conqueror; also father of Baldwin VI and Robert I.",
+    "relationships": {
+      "fatherId": "c9800000-0000-4000-8000-000000000000",
+      "motherId": "",
+      "spouseIds": [
+        "c9820000-0000-4000-8000-000000000000"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "2a19d3aa-7968-4c0b-9870-fe3db9c9b575"
+      ]
+    },
+    "events": [],
+    "historicalRating": 5,
+    "createdDate": "20260823"
+  },
+  {
+    "id": "c9820000-0000-4000-8000-000000000000",
+    "firstName": "Adela",
+    "lastName": "of France",
+    "displayName": "Adela of France",
+    "fullName": "Adela of France",
+    "displayNameCn": "法兰西的阿黛拉",
+    "fullNameCn": "法兰德伯爵夫人法兰西的阿黛拉",
+    "nickname": "",
+    "nicknameCn": "",
+    "nicknameTags": [],
+    "alsoKnownAs": [],
+    "gender": "female",
+    "birthYear": 1009,
+    "deathYear": 1079,
+    "birthPlace": "France",
+    "deathPlace": "Messines",
+    "birthPlaceCn": "France",
+    "deathPlaceCn": "Messines",
+    "dynasty": "House of Flanders",
+    "house": "House of Flanders",
+    "culture": "Flemish",
+    "faith": "Catholic",
+    "primaryTitle": "Countess of Flanders",
+    "primaryTitleCn": "佛兰德伯爵夫人",
+    "titles": [
+      {
+        "title": "Countess of Flanders",
+        "startYear": 1035,
+        "endYear": 1067,
+        "titleCn": "佛兰德伯爵夫人"
+      }
+    ],
+    "tags": [
+      "noble"
+    ],
+    "rank": "noble",
+    "importanceScore": 40,
+    "wikiUrl": "https://en.wikipedia.org/wiki/Adela_of_France,_Countess_of_Flanders",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Adela_of_France,_Countess_of_Flanders",
+    "sourceNote": "",
+    "notes": "Daughter of Robert II of France and wife of Baldwin V; mother of Matilda of Flanders.",
+    "relationships": {
+      "fatherId": "fb8cf6a9-fad8-46e6-87aa-99dd01fe3ce9",
+      "motherId": "",
+      "spouseIds": [
+        "c9810000-0000-4000-8000-000000000000"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "2a19d3aa-7968-4c0b-9870-fe3db9c9b575"
+      ]
+    },
+    "events": [],
+    "historicalRating": 5,
+    "createdDate": "20260823"
+  },
+  {
+    "id": "c9830000-0000-4000-8000-000000000000",
+    "firstName": "Baldwin",
+    "lastName": "of Flanders",
+    "displayName": "Baldwin VI of Flanders",
+    "fullName": "Baldwin VI of Flanders",
+    "displayNameCn": "佛兰德的鲍德温六世",
+    "fullNameCn": "佛兰德的鲍德温六世",
+    "nickname": "",
+    "nicknameCn": "",
+    "nicknameTags": [],
+    "alsoKnownAs": [],
+    "gender": "male",
+    "birthYear": 1030,
+    "deathYear": 1070,
+    "birthPlace": "Flanders",
+    "deathPlace": "Flanders",
+    "birthPlaceCn": "Flanders",
+    "deathPlaceCn": "Flanders",
+    "dynasty": "House of Flanders",
+    "house": "House of Flanders",
+    "culture": "Flemish",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Flanders",
+    "primaryTitleCn": "佛兰德伯爵",
+    "titles": [
+      {
+        "title": "Count of Flanders",
+        "startYear": 1067,
+        "endYear": 1070,
+        "titleCn": "佛兰德伯爵"
+      }
+    ],
+    "tags": [
+      "noble"
+    ],
+    "rank": "noble",
+    "importanceScore": 40,
+    "wikiUrl": "https://en.wikipedia.org/wiki/Baldwin_VI,_Count_of_Flanders",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Baldwin_VI,_Count_of_Flanders",
+    "sourceNote": "",
+    "notes": "Matilda of Flanders's brother; succeeded their father as Count of Flanders.",
+    "relationships": {
+      "fatherId": "c9810000-0000-4000-8000-000000000000",
+      "motherId": "c9820000-0000-4000-8000-000000000000",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [],
+    "historicalRating": 5,
+    "createdDate": "20260823"
+  },
+  {
+    "id": "c9840000-0000-4000-8000-000000000000",
+    "firstName": "Robert",
+    "lastName": "of Flanders",
+    "displayName": "Robert I of Flanders",
+    "fullName": "Robert I of Flanders",
+    "displayNameCn": "佛兰德的罗贝尔一世",
+    "fullNameCn": "佛兰德的罗贝尔一世",
+    "nickname": "",
+    "nicknameCn": "",
+    "nicknameTags": [],
+    "alsoKnownAs": [],
+    "gender": "male",
+    "birthYear": 1029,
+    "deathYear": 1093,
+    "birthPlace": "Flanders",
+    "deathPlace": "Flanders",
+    "birthPlaceCn": "Flanders",
+    "deathPlaceCn": "Flanders",
+    "dynasty": "House of Flanders",
+    "house": "House of Flanders",
+    "culture": "Flemish",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Flanders",
+    "primaryTitleCn": "佛兰德伯爵",
+    "titles": [
+      {
+        "title": "Count of Flanders",
+        "startYear": 1071,
+        "endYear": 1093,
+        "titleCn": "佛兰德伯爵"
+      }
+    ],
+    "tags": [
+      "noble"
+    ],
+    "rank": "noble",
+    "importanceScore": 40,
+    "wikiUrl": "https://en.wikipedia.org/wiki/Robert_I,_Count_of_Flanders",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Robert_I,_Count_of_Flanders",
+    "sourceNote": "",
+    "notes": "Matilda of Flanders's brother; became Count of Flanders after the succession crisis of 1071.",
+    "relationships": {
+      "fatherId": "c9810000-0000-4000-8000-000000000000",
+      "motherId": "c9820000-0000-4000-8000-000000000000",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "c9850000-0000-4000-8000-000000000000",
+        "c9920000-0000-4000-8000-000000000000"
+      ]
+    },
+    "events": [],
+    "historicalRating": 5,
+    "createdDate": "20260823"
+  },
+  {
+    "id": "c9850000-0000-4000-8000-000000000000",
+    "firstName": "Robert",
+    "lastName": "of Flanders",
+    "displayName": "Robert II of Flanders",
+    "fullName": "Robert II of Flanders",
+    "displayNameCn": "佛兰德的罗贝尔二世",
+    "fullNameCn": "佛兰德的罗贝尔二世",
+    "nickname": "",
+    "nicknameCn": "",
+    "nicknameTags": [],
+    "alsoKnownAs": [],
+    "gender": "male",
+    "birthYear": 1065,
+    "deathYear": 1111,
+    "birthPlace": "Flanders",
+    "deathPlace": "Meaux",
+    "birthPlaceCn": "Flanders",
+    "deathPlaceCn": "Meaux",
+    "dynasty": "House of Flanders",
+    "house": "House of Flanders",
+    "culture": "Flemish",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Flanders",
+    "primaryTitleCn": "佛兰德伯爵",
+    "titles": [
+      {
+        "title": "Count of Flanders",
+        "startYear": 1093,
+        "endYear": 1111,
+        "titleCn": "佛兰德伯爵"
+      }
+    ],
+    "tags": [
+      "noble"
+    ],
+    "rank": "noble",
+    "importanceScore": 40,
+    "wikiUrl": "https://en.wikipedia.org/wiki/Robert_II,_Count_of_Flanders",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Robert_II,_Count_of_Flanders",
+    "sourceNote": "",
+    "notes": "Succeeded his father Robert I and joined the First Crusade.",
+    "relationships": {
+      "fatherId": "c9840000-0000-4000-8000-000000000000",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "c9860000-0000-4000-8000-000000000000"
+      ]
+    },
+    "events": [],
+    "historicalRating": 5,
+    "createdDate": "20260823"
+  },
+  {
+    "id": "c9860000-0000-4000-8000-000000000000",
+    "firstName": "Baldwin",
+    "lastName": "of Flanders",
+    "displayName": "Baldwin VII of Flanders",
+    "fullName": "Baldwin VII of Flanders",
+    "displayNameCn": "佛兰德的鲍德温七世",
+    "fullNameCn": "佛兰德的鲍德温七世",
+    "nickname": "",
+    "nicknameCn": "",
+    "nicknameTags": [],
+    "alsoKnownAs": [],
+    "gender": "male",
+    "birthYear": 1093,
+    "deathYear": 1119,
+    "birthPlace": "Flanders",
+    "deathPlace": "Bures-en-Bray",
+    "birthPlaceCn": "Flanders",
+    "deathPlaceCn": "Bures-en-Bray",
+    "dynasty": "House of Flanders",
+    "house": "House of Flanders",
+    "culture": "Flemish",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Flanders",
+    "primaryTitleCn": "佛兰德伯爵",
+    "titles": [
+      {
+        "title": "Count of Flanders",
+        "startYear": 1111,
+        "endYear": 1119,
+        "titleCn": "佛兰德伯爵"
+      }
+    ],
+    "tags": [
+      "noble"
+    ],
+    "rank": "noble",
+    "importanceScore": 40,
+    "wikiUrl": "https://en.wikipedia.org/wiki/Baldwin_VII,_Count_of_Flanders",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Baldwin_VII,_Count_of_Flanders",
+    "sourceNote": "",
+    "notes": "Succeeded Robert II and died without a surviving heir.",
+    "relationships": {
+      "fatherId": "c9850000-0000-4000-8000-000000000000",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [],
+    "historicalRating": 5,
+    "createdDate": "20260823"
+  },
+  {
+    "id": "c9870000-0000-4000-8000-000000000000",
+    "firstName": "Charles",
+    "lastName": "the Good",
+    "displayName": "Charles the Good",
+    "fullName": "Charles the Good",
+    "displayNameCn": "善良的查理",
+    "fullNameCn": "佛兰德伯爵善良的查理",
+    "nickname": "the Good",
+    "nicknameCn": "善良",
+    "nicknameTags": [],
+    "alsoKnownAs": [],
+    "gender": "male",
+    "birthYear": 1084,
+    "deathYear": 1127,
+    "birthPlace": "Denmark",
+    "deathPlace": "Bruges",
+    "birthPlaceCn": "Denmark",
+    "deathPlaceCn": "Bruges",
+    "dynasty": "Estridsen dynasty",
+    "house": "House of Estridsen",
+    "culture": "Danish",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Flanders",
+    "primaryTitleCn": "佛兰德伯爵",
+    "titles": [
+      {
+        "title": "Count of Flanders",
+        "startYear": 1119,
+        "endYear": 1127,
+        "titleCn": "佛兰德伯爵"
+      }
+    ],
+    "tags": [
+      "count",
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 40,
+    "wikiUrl": "https://en.wikipedia.org/wiki/Charles_the_Good",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Charles_the_Good",
+    "sourceNote": "",
+    "notes": "Danish prince and cousin of Baldwin VII; selected as count after Baldwin's death and murdered in Bruges.",
+    "relationships": {
+      "fatherId": "c9910000-0000-4000-8000-000000000000",
+      "motherId": "c9920000-0000-4000-8000-000000000000",
+      "spouseIds": [
+        "c9930000-0000-4000-8000-000000000000"
+      ],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [],
+    "historicalRating": 7,
+    "createdDate": "20260823"
+  },
+  {
+    "id": "c9880000-0000-4000-8000-000000000000",
+    "firstName": "William",
+    "lastName": "Clito",
+    "displayName": "William Clito",
+    "fullName": "William Clito",
+    "displayNameCn": "威廉·克利顿",
+    "fullNameCn": "威廉·克利顿，佛兰德伯爵",
+    "nickname": "",
+    "nicknameCn": "",
+    "nicknameTags": [],
+    "alsoKnownAs": [],
+    "gender": "male",
+    "birthYear": 1102,
+    "deathYear": 1128,
+    "birthPlace": "Rouen",
+    "deathPlace": "Alost",
+    "birthPlaceCn": "Rouen",
+    "deathPlaceCn": "Alost",
+    "dynasty": "House of Flanders",
+    "house": "House of Flanders",
+    "culture": "Flemish",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Flanders",
+    "primaryTitleCn": "佛兰德伯爵",
+    "titles": [
+      {
+        "title": "Count of Flanders",
+        "startYear": 1127,
+        "endYear": 1128,
+        "titleCn": "佛兰德伯爵"
+      }
+    ],
+    "tags": [
+      "noble"
+    ],
+    "rank": "noble",
+    "importanceScore": 40,
+    "wikiUrl": "https://en.wikipedia.org/wiki/William_Clito",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/William_Clito",
+    "sourceNote": "",
+    "notes": "Son of Robert Curthose; installed with French support after Charles the Good's death, but faced a competing Flemish succession.",
+    "relationships": {
+      "fatherId": "bea83a88-2399-4eb7-a496-9cfcee8599a6",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [],
+    "historicalRating": 5,
+    "createdDate": "20260823"
+  },
+  {
+    "id": "c9890000-0000-4000-8000-000000000000",
+    "firstName": "Thierry",
+    "lastName": "of Alsace",
+    "displayName": "Thierry of Alsace",
+    "fullName": "Thierry of Alsace",
+    "displayNameCn": "阿尔萨斯的蒂埃里",
+    "fullNameCn": "佛兰德伯爵阿尔萨斯的蒂埃里",
+    "nickname": "",
+    "nicknameCn": "",
+    "nicknameTags": [],
+    "alsoKnownAs": [],
+    "gender": "male",
+    "birthYear": 1099,
+    "deathYear": 1168,
+    "birthPlace": "Alsace",
+    "deathPlace": "Gravelines",
+    "birthPlaceCn": "Alsace",
+    "deathPlaceCn": "Gravelines",
+    "dynasty": "House of Alsace",
+    "house": "House of Alsace",
+    "culture": "Flemish",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Flanders",
+    "primaryTitleCn": "佛兰德伯爵",
+    "titles": [
+      {
+        "title": "Count of Flanders",
+        "startYear": 1128,
+        "endYear": 1168,
+        "titleCn": "佛兰德伯爵"
+      }
+    ],
+    "tags": [
+      "noble"
+    ],
+    "rank": "noble",
+    "importanceScore": 40,
+    "wikiUrl": "https://en.wikipedia.org/wiki/Thierry,_Count_of_Flanders",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Thierry,_Count_of_Flanders",
+    "sourceNote": "",
+    "notes": "Founded the Alsatian line of the Flemish counts after defeating William Clito's claim.",
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "c9900000-0000-4000-8000-000000000000"
+      ]
+    },
+    "events": [],
+    "historicalRating": 5,
+    "createdDate": "20260823"
+  },
+  {
+    "id": "c9900000-0000-4000-8000-000000000000",
+    "firstName": "Philip",
+    "lastName": "of Alsace",
+    "displayName": "Philip of Alsace",
+    "fullName": "Philip of Alsace",
+    "displayNameCn": "阿尔萨斯的腓力",
+    "fullNameCn": "佛兰德伯爵阿尔萨斯的腓力",
+    "nickname": "",
+    "nicknameCn": "",
+    "nicknameTags": [],
+    "alsoKnownAs": [],
+    "gender": "male",
+    "birthYear": 1142,
+    "deathYear": 1191,
+    "birthPlace": "Flanders",
+    "deathPlace": "Acre",
+    "birthPlaceCn": "Flanders",
+    "deathPlaceCn": "Acre",
+    "dynasty": "House of Alsace",
+    "house": "House of Alsace",
+    "culture": "Flemish",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Flanders",
+    "primaryTitleCn": "佛兰德伯爵",
+    "titles": [
+      {
+        "title": "Count of Flanders",
+        "startYear": 1168,
+        "endYear": 1191,
+        "titleCn": "佛兰德伯爵"
+      }
+    ],
+    "tags": [
+      "noble"
+    ],
+    "rank": "noble",
+    "importanceScore": 40,
+    "wikiUrl": "https://en.wikipedia.org/wiki/Philip,_Count_of_Flanders",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Philip,_Count_of_Flanders",
+    "sourceNote": "",
+    "notes": "Succeeded Thierry of Alsace and died during the Third Crusade.",
+    "relationships": {
+      "fatherId": "c9890000-0000-4000-8000-000000000000",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [],
+    "historicalRating": 5,
+    "createdDate": "20260823"
+  },
+  {
+    "id": "c9910000-0000-4000-8000-000000000000",
+    "firstName": "Canute",
+    "lastName": "IV of Denmark",
+    "displayName": "Canute IV of Denmark",
+    "fullName": "Canute IV of Denmark",
+    "displayNameCn": "丹麦的克努特四世",
+    "fullNameCn": "丹麦国王克努特四世",
+    "nickname": "",
+    "nicknameCn": "",
+    "nicknameTags": [],
+    "alsoKnownAs": [],
+    "gender": "male",
+    "birthYear": 1043,
+    "deathYear": 1086,
+    "birthPlace": "Denmark",
+    "deathPlace": "Odense",
+    "birthPlaceCn": "Denmark",
+    "deathPlaceCn": "Odense",
+    "dynasty": "Estridsen dynasty",
+    "house": "House of Estridsen",
+    "culture": "Danish",
+    "faith": "Catholic",
+    "primaryTitle": "King of Denmark",
+    "primaryTitleCn": "丹麦国王",
+    "titles": [
+      {
+        "title": "King of Denmark",
+        "startYear": 1080,
+        "endYear": 1086,
+        "titleCn": "丹麦国王"
+      }
+    ],
+    "tags": [
+      "king",
+      "noble"
+    ],
+    "rank": "king",
+    "importanceScore": 40,
+    "wikiUrl": "https://en.wikipedia.org/wiki/Canute_IV_of_Denmark",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Canute_IV_of_Denmark",
+    "sourceNote": "",
+    "notes": "King of Denmark and father of Charles the Good.",
+    "relationships": {
+      "fatherId": "c1024000-0000-4000-8000-000000000000",
+      "motherId": "",
+      "spouseIds": [
+        "c9920000-0000-4000-8000-000000000000"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "c9870000-0000-4000-8000-000000000000"
+      ]
+    },
+    "events": [],
+    "historicalRating": 5,
+    "createdDate": "20260823"
+  },
+  {
+    "id": "c9920000-0000-4000-8000-000000000000",
+    "firstName": "Adela",
+    "lastName": "of Flanders",
+    "displayName": "Adela of Flanders",
+    "fullName": "Adela of Flanders",
+    "displayNameCn": "佛兰德的阿德拉",
+    "fullNameCn": "佛兰德的阿德拉，丹麦王后",
+    "nickname": "",
+    "nicknameCn": "",
+    "nicknameTags": [],
+    "alsoKnownAs": [],
+    "gender": "female",
+    "birthYear": 1064,
+    "deathYear": 1115,
+    "birthPlace": "Flanders",
+    "deathPlace": "Flanders",
+    "birthPlaceCn": "Flanders",
+    "deathPlaceCn": "Flanders",
+    "dynasty": "House of Flanders",
+    "house": "House of Flanders",
+    "culture": "Flemish",
+    "faith": "Catholic",
+    "primaryTitle": "Queen of Denmark",
+    "primaryTitleCn": "丹麦王后",
+    "titles": [
+      {
+        "title": "Queen of Denmark",
+        "startYear": 1080,
+        "endYear": 1086,
+        "titleCn": "丹麦王后"
+      }
+    ],
+    "tags": [
+      "queen",
+      "consort",
+      "noble"
+    ],
+    "rank": "queen",
+    "importanceScore": 40,
+    "wikiUrl": "https://en.wikipedia.org/wiki/Adela_of_Flanders",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Adela_of_Flanders",
+    "sourceNote": "",
+    "notes": "Daughter of Robert I, Count of Flanders, and wife of Canute IV of Denmark.",
+    "relationships": {
+      "fatherId": "c9840000-0000-4000-8000-000000000000",
+      "motherId": "",
+      "spouseIds": [
+        "c9910000-0000-4000-8000-000000000000"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "c9870000-0000-4000-8000-000000000000"
+      ]
+    },
+    "events": [],
+    "historicalRating": 5,
+    "createdDate": "20260823"
+  },
+  {
+    "id": "c9930000-0000-4000-8000-000000000000",
+    "firstName": "Margaret",
+    "lastName": "of Clermont",
+    "displayName": "Margaret of Clermont",
+    "fullName": "Margaret of Clermont",
+    "displayNameCn": "克莱蒙的玛格丽特",
+    "fullNameCn": "克莱蒙的玛格丽特，佛兰德伯爵夫人",
+    "nickname": "",
+    "nicknameCn": "",
+    "nicknameTags": [],
+    "alsoKnownAs": [],
+    "gender": "female",
+    "birthYear": 1104,
+    "deathYear": 1145,
+    "birthPlace": "Clermont-en-Beauvaisis",
+    "deathPlace": "Flanders",
+    "birthPlaceCn": "Clermont-en-Beauvaisis",
+    "deathPlaceCn": "Flanders",
+    "dynasty": "House of Clermont",
+    "house": "House of Clermont",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "Countess of Flanders",
+    "primaryTitleCn": "佛兰德伯爵夫人",
+    "titles": [
+      {
+        "title": "Countess of Flanders",
+        "startYear": 1118,
+        "endYear": 1127,
+        "titleCn": "佛兰德伯爵夫人"
+      }
+    ],
+    "tags": [
+      "consort",
+      "noble"
+    ],
+    "rank": "noble",
+    "importanceScore": 40,
+    "wikiUrl": "https://en.wikipedia.org/wiki/Margaret_of_Clermont",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Margaret_of_Clermont",
+    "sourceNote": "",
+    "notes": "Wife of Charles the Good; their marriage produced no surviving children.",
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "c9870000-0000-4000-8000-000000000000"
+      ],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [],
+    "historicalRating": 5,
+    "createdDate": "20260823"
   }
 ]

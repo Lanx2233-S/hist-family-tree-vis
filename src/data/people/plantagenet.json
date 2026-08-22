@@ -21,7 +21,7 @@
     "deathPlace": "Château-du-Loir, Anjou, France",
     "deathPlaceCn": "法国安茹卢瓦尔堡",
     "gender": "male",
-    "dynasty": "House of Plantagenet",
+    "dynasty": "Plantagenet dynasty",
     "house": "House of Plantagenet",
     "culture": "Angevin",
     "faith": "Catholic",
@@ -302,7 +302,7 @@
     "birthYear": 1133,
     "deathYear": 1189,
     "gender": "male",
-    "dynasty": "House of Plantagenet",
+    "dynasty": "Plantagenet dynasty",
     "house": "House of Plantagenet",
     "culture": "Angevin",
     "faith": "Catholic",
@@ -408,7 +408,7 @@
     "birthPlaceCn": "英格兰牛津博蒙特宫",
     "deathPlace": "Chalus, Duchy of Aquitaine",
     "deathPlaceCn": "阿基坦公国沙吕",
-    "dynasty": "House of Plantagenet",
+    "dynasty": "Plantagenet dynasty",
     "house": "House of Plantagenet",
     "culture": "Angevin",
     "faith": "Catholic",
@@ -920,7 +920,7 @@
     "birthYear": 1166,
     "deathYear": 1216,
     "gender": "male",
-    "dynasty": "House of Plantagenet",
+    "dynasty": "Plantagenet dynasty",
     "house": "House of Plantagenet",
     "culture": "Angevin",
     "faith": "Catholic",
@@ -1004,7 +1004,7 @@
     "birthPlaceCn": "英格兰汉普郡温彻斯特城堡",
     "deathPlaceCn": "英格兰伦敦威斯敏斯特",
     "gender": "male",
-    "dynasty": "House of Plantagenet",
+    "dynasty": "Plantagenet dynasty",
     "house": "House of Plantagenet",
     "culture": "English",
     "faith": "Catholic",
@@ -1216,7 +1216,7 @@
     "deathPlace": "Burgh by Sands, England",
     "deathPlaceCn": "英格兰伯格桑兹",
     "gender": "male",
-    "dynasty": "House of Plantagenet",
+    "dynasty": "Plantagenet dynasty",
     "house": "House of Plantagenet",
     "culture": "English",
     "faith": "Catholic",
@@ -1517,7 +1517,7 @@
     "deathPlace": "Wallingford Castle, Berkshire, England",
     "deathPlaceCn": "英格兰伯克郡沃灵福德城堡",
     "gender": "male",
-    "dynasty": "House of Plantagenet",
+    "dynasty": "Plantagenet dynasty",
     "house": "House of Plantagenet",
     "culture": "Angevin",
     "faith": "Catholic",
@@ -1623,7 +1623,7 @@
     "deathPlace": "Martel Castle, Lot, France",
     "deathPlaceCn": "法国洛特省马尔泰勒城堡",
     "gender": "male",
-    "dynasty": "House of Plantagenet",
+    "dynasty": "Plantagenet dynasty",
     "house": "House of Plantagenet",
     "culture": "Angevin",
     "faith": "Catholic",
@@ -1803,7 +1803,7 @@
     "deathPlace": "Brunswick, Saxony",
     "deathPlaceCn": "萨克森不伦瑞克",
     "gender": "female",
-    "dynasty": "House of Plantagenet",
+    "dynasty": "Plantagenet dynasty",
     "house": "House of Plantagenet",
     "culture": "Angevin",
     "faith": "Catholic",
@@ -1942,7 +1942,7 @@
     "deathPlace": "Paris, France",
     "deathPlaceCn": "法国巴黎",
     "gender": "male",
-    "dynasty": "House of Plantagenet",
+    "dynasty": "Plantagenet dynasty",
     "house": "House of Plantagenet",
     "culture": "Angevin",
     "faith": "Catholic",
@@ -2112,7 +2112,7 @@
     "deathPlace": "Burgos, Castile",
     "deathPlaceCn": "卡斯蒂利亚布尔戈斯",
     "gender": "female",
-    "dynasty": "House of Plantagenet",
+    "dynasty": "Plantagenet dynasty",
     "house": "House of Plantagenet",
     "culture": "Angevin",
     "faith": "Catholic",
@@ -2136,7 +2136,9 @@
     "relationships": {
       "fatherId": "29e2abba-321e-4090-a35d-10f0bd6a420a",
       "motherId": "cbb11a70-0b0f-40ca-b9c6-95426b904bf6",
-      "spouseIds": [],
+      "spouseIds": [
+        "c1035000-0000-4000-8000-000000000010"
+      ],
       "partnerIds": [],
       "childIds": []
     },
@@ -2251,7 +2253,7 @@
     "deathPlace": "Rouen, Normandy",
     "deathPlaceCn": "诺曼底鲁昂",
     "gender": "female",
-    "dynasty": "House of Plantagenet",
+    "dynasty": "Plantagenet dynasty",
     "house": "House of Plantagenet",
     "culture": "Angevin",
     "faith": "Catholic",
@@ -2410,7 +2412,7 @@
     "birthPlaceCn": "威尔士圭内斯卡那封城堡",
     "deathPlaceCn": "英格兰格洛斯特郡伯克利城堡",
     "gender": "male",
-    "dynasty": "House of Plantagenet",
+    "dynasty": "Plantagenet dynasty",
     "house": "House of Plantagenet",
     "culture": "English",
     "faith": "Catholic",
@@ -2596,7 +2598,7 @@
     "birthPlaceCn": "英格兰伯克郡温莎城堡",
     "deathPlaceCn": "英格兰萨里郡里士满希恩宫",
     "gender": "male",
-    "dynasty": "House of Plantagenet",
+    "dynasty": "Plantagenet dynasty",
     "house": "House of Plantagenet",
     "culture": "English",
     "faith": "Catholic",
@@ -2826,7 +2828,7 @@
     "birthPlaceCn": "法国阿基坦公国波尔多",
     "deathPlaceCn": "英格兰约克郡庞特弗拉克特城堡",
     "gender": "male",
-    "dynasty": "House of Plantagenet",
+    "dynasty": "Plantagenet dynasty",
     "house": "House of Plantagenet",
     "culture": "English",
     "faith": "Catholic",
@@ -3013,7 +3015,7 @@
     "birthPlaceCn": "英格兰牛津郡伍德斯托克宫",
     "deathPlaceCn": "英格兰伦敦威斯敏斯特宫",
     "gender": "male",
-    "dynasty": "House of Plantagenet",
+    "dynasty": "Plantagenet dynasty",
     "house": "House of Plantagenet",
     "culture": "English",
     "faith": "Catholic",
@@ -3210,852 +3212,6 @@
     "historicalRating": 8
   },
   {
-    "id": "99624b56-5c00-405f-83c3-d7ff73eb4bb9",
-    "firstName": "John",
-    "lastName": "Plantagenet",
-    "displayName": "John of Gaunt",
-    "fullName": "John of Gaunt, Duke of Lancaster",
-    "nickname": "Gaunt",
-    "alsoKnownAs": [
-      "John of Ghent"
-    ],
-    "nicknameTags": [
-      "gaunt"
-    ],
-    "birthYear": 1340,
-    "deathYear": 1399,
-    "birthPlace": "Ghent, Flanders (now Belgium)",
-    "deathPlace": "Leicester Castle, Leicestershire, England",
-    "birthPlaceCn": "佛兰德斯根特（今比利时）",
-    "deathPlaceCn": "英格兰莱斯特郡莱斯特城堡",
-    "gender": "male",
-    "dynasty": "House of Plantagenet",
-    "house": "House of Plantagenet",
-    "culture": "English",
-    "faith": "Catholic",
-    "primaryTitle": "Duke of Lancaster",
-    "titles": [
-      {
-        "title": "Duke of Lancaster",
-        "startYear": 1362,
-        "endYear": 1399,
-        "titleCn": "兰开斯特公爵"
-      },
-      {
-        "title": "King of Castile and León (jure uxoris, claimed)",
-        "startYear": 1372,
-        "endYear": 1388,
-        "titleCn": "卡斯蒂利亚与莱昂国王（以妻权宣称）"
-      }
-    ],
-    "tags": [
-      "duke",
-      "noble"
-    ],
-    "rank": "duke",
-    "importanceScore": 82,
-    "relationships": {
-      "fatherId": "304dcda5-adf6-4a79-9147-ff8fd69301b5",
-      "motherId": "ecd24389-ba7c-40f0-a0a4-4635da2e4385",
-      "spouseIds": [],
-      "partnerIds": [],
-      "childIds": [
-        "2254ea97-3d35-4264-a60e-3b9e9f78eaab"
-      ]
-    },
-    "events": [
-      {
-        "year": 1340,
-        "month": 3,
-        "day": 6,
-        "type": "childbirth",
-        "tags": [
-          "childbirth",
-          "dynasty"
-        ],
-        "weight": 60,
-        "label": "Born at Ghent (hence 'Gaunt')",
-        "labelCn": "出生于根特（故称'冈特'）",
-        "wikiUrl": "https://en.wikipedia.org/wiki/John_of_Gaunt"
-      },
-      {
-        "year": 1362,
-        "type": "title",
-        "tags": [
-          "title",
-          "noble"
-        ],
-        "weight": 88,
-        "label": "Became Duke of Lancaster",
-        "wikiUrl": "https://en.wikipedia.org/wiki/John_of_Gaunt",
-        "month": 11,
-        "day": 13,
-        "labelCn": "成为兰开斯特公爵",
-        "note": "Created Duke of Lancaster at parliament on 13 November 1362; the title made him the richest noble in England."
-      },
-      {
-        "year": 1371,
-        "type": "marriage",
-        "tags": [
-          "marriage",
-          "diplomacy"
-        ],
-        "weight": 82,
-        "label": "Marriage to Constance of Castile",
-        "wikiUrl": "https://en.wikipedia.org/wiki/John_of_Gaunt",
-        "month": 9,
-        "day": 21,
-        "labelCn": "与卡斯蒂利亚的康斯坦丝成婚",
-        "note": "Through Constance he assumed the claim to the Crown of Castile and León (officially from 29 January 1372)."
-      },
-      {
-        "year": 1373,
-        "type": "campaign",
-        "tags": [
-          "campaign",
-          "commander"
-        ],
-        "weight": 86,
-        "label": "Great Chevauchée in France",
-        "wikiUrl": "https://en.wikipedia.org/wiki/John_of_Gaunt",
-        "labelCn": "法兰西大骑士突袭"
-      },
-      {
-        "year": 1376,
-        "type": "government",
-        "tags": [
-          "government",
-          "noble"
-        ],
-        "weight": 80,
-        "label": "Good Parliament challenged the court",
-        "labelCn": "好议会抨击宫廷",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Good_Parliament",
-        "note": "The Good Parliament (April-July 1376) attacked the corrupt court circle around Edward III. Gaunt, the dominant figure during the king's decline, was a target and later reversed its measures through the Bad Parliament of 1377."
-      },
-      {
-        "year": 1388,
-        "month": 7,
-        "day": 8,
-        "type": "diplomacy",
-        "tags": [
-          "diplomacy",
-          "treaty",
-          "dynasty"
-        ],
-        "weight": 78,
-        "label": "Treaty of Bayonne: relinquished claim to Castile",
-        "labelCn": "《巴约讷条约》：放弃对卡斯蒂利亚的王位宣称",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Treaty_of_Bayonne_(1388)",
-        "note": "Corrected event: the earlier record misdated the Castilian claim to 1390. Gaunt's expedition to Castile (1386-87) failed; in the Treaty of Bayonne of 8 July 1388 he formally renounced the claim in return for an annual payment."
-      },
-      {
-        "year": 1399,
-        "month": 2,
-        "day": 3,
-        "type": "death",
-        "tags": [
-          "death"
-        ],
-        "weight": 84,
-        "label": "Died at Leicester Castle",
-        "labelCn": "在莱斯特城堡去世",
-        "wikiUrl": "https://en.wikipedia.org/wiki/John_of_Gaunt",
-        "note": "His death triggered the crisis of 1399: Richard II seized the Lancaster inheritance, driving Gaunt's son Henry to invade and take the throne."
-      },
-      {
-        "year": 1390,
-        "type": "title",
-        "tags": [
-          "title",
-          "diplomacy"
-        ],
-        "weight": 78,
-        "label": "Claimed the Crown of Castile",
-        "wikiUrl": "https://en.wikipedia.org/wiki/John_of_Gaunt",
-        "labelCn": "宣称卡斯蒂利亚王位"
-      }
-    ],
-    "wikiUrl": "https://en.wikipedia.org/wiki/John_of_Gaunt",
-    "portraitUrl": "",
-    "sourceUrl": "https://en.wikipedia.org/wiki/John_of_Gaunt",
-    "sourceNote": "English Wikipedia biography (John of Gaunt); dates verified against the article's chronology and infobox.",
-    "notes": "Enriched Plantagenet prince record. John of Gaunt, third surviving son of Edward III, was the effective ruler of England during his father's decline (c. 1374-1377) - de facto power, never a formal regency - and the founder of the Lancastrian dynasty through his son Henry IV. His second marriage gave him a claim to Castile, renounced in 1388. His children by Katherine Swynford, the Beauforts, were legitimised in 1397.",
-    "createdDate": "20260815",
-    "createdOrder": 32,
-    "deathCause": {
-      "kind": "normal",
-      "summary": "Natural death after declining health",
-      "detail": "John of Gaunt died at Leicester Castle on 3 February 1399 of natural causes, with his third wife Katherine Swynford at his side.",
-      "wikiUrl": "https://en.wikipedia.org/wiki/John_of_Gaunt",
-      "summaryCn": "自然死亡",
-      "detailCn": "1399年2月3日，冈特的约翰在莱斯特城堡自然去世，第三任妻子凯瑟琳·斯温福德陪伴在侧。"
-    },
-    "displayNameCn": "冈特的约翰",
-    "fullNameCn": "兰开斯特公爵冈特的约翰",
-    "nicknameCn": "冈特",
-    "primaryTitleCn": "兰开斯特公爵",
-    "historicalRating": 7
-  },
-  {
-    "id": "2254ea97-3d35-4264-a60e-3b9e9f78eaab",
-    "firstName": "Henry",
-    "lastName": "Plantagenet",
-    "displayName": "Henry IV",
-    "fullName": "Henry IV of England",
-    "nickname": "Bolingbroke",
-    "alsoKnownAs": [
-      "Henry Bolingbroke",
-      "Henry of Bolingbroke"
-    ],
-    "nicknameTags": [
-      "bolingbroke"
-    ],
-    "birthYear": 1367,
-    "deathYear": 1413,
-    "birthPlace": "Bolingbroke Castle, Lincolnshire, England",
-    "deathPlace": "Jerusalem Chamber, Westminster Abbey, London, England",
-    "birthPlaceCn": "英格兰林肯郡博林布鲁克城堡",
-    "deathPlaceCn": "英格兰伦敦威斯敏斯特教堂耶路撒冷厅",
-    "gender": "male",
-    "dynasty": "House of Plantagenet",
-    "house": "House of Plantagenet",
-    "culture": "English",
-    "faith": "Catholic",
-    "primaryTitle": "King of England",
-    "titles": [
-      {
-        "title": "King of England",
-        "startYear": 1399,
-        "endYear": 1413,
-        "titleCn": "英格兰国王"
-      }
-    ],
-    "tags": [
-      "monarch",
-      "commander"
-    ],
-    "rank": "king",
-    "importanceScore": 86,
-    "relationships": {
-      "fatherId": "99624b56-5c00-405f-83c3-d7ff73eb4bb9",
-      "motherId": "",
-      "spouseIds": [],
-      "partnerIds": [],
-      "childIds": [
-        "631cfa58-52bf-4273-b3b5-38ae2abed850"
-      ]
-    },
-    "events": [
-      {
-        "year": 1367,
-        "month": 4,
-        "day": 15,
-        "type": "childbirth",
-        "tags": [
-          "childbirth",
-          "dynasty"
-        ],
-        "weight": 60,
-        "label": "Born at Bolingbroke Castle (hence 'Henry Bolingbroke')",
-        "labelCn": "出生于博林布鲁克城堡（故称'博林布鲁克的亨利'）",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_IV_of_England",
-        "note": "Born c. April 1367; the exact day is uncertain."
-      },
-      {
-        "year": 1398,
-        "month": 10,
-        "type": "political_crisis",
-        "tags": [
-          "dynasty",
-          "government"
-        ],
-        "weight": 78,
-        "label": "Exiled by Richard II",
-        "labelCn": "被理查二世放逐",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_IV_of_England",
-        "note": "Banished for ten years (later reduced to six) after his quarrel with Thomas de Mowbray; the exile and the seizure of his Lancaster inheritance after John of Gaunt's death drove him to invade in 1399."
-      },
-      {
-        "year": 1399,
-        "type": "succession",
-        "tags": [
-          "title",
-          "succession"
-        ],
-        "weight": 100,
-        "label": "Deposed Richard II and became King of England",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_IV_of_England",
-        "month": 9,
-        "day": 30,
-        "labelCn": "废黜理查二世并成为英格兰国王"
-      },
-      {
-        "year": 1399,
-        "month": 10,
-        "day": 13,
-        "type": "coronation",
-        "tags": [
-          "coronation",
-          "king"
-        ],
-        "weight": 84,
-        "label": "Crowned King of England",
-        "labelCn": "加冕为英格兰国王",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_IV_of_England",
-        "note": "Possibly the first coronation address in English since the Norman Conquest."
-      },
-      {
-        "year": 1400,
-        "month": 9,
-        "type": "rebellion",
-        "tags": [
-          "rebellion",
-          "commander"
-        ],
-        "weight": 80,
-        "label": "Owain Glyndŵr's rebellion broke out in Wales",
-        "labelCn": "威尔士爆发欧文·格林多尔叛乱",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Glynd%C5%B5r_rebellion"
-      },
-      {
-        "year": 1401,
-        "month": 3,
-        "day": 10,
-        "type": "religion",
-        "tags": [
-          "religion",
-          "law"
-        ],
-        "weight": 76,
-        "label": "De heretico comburendo sanctioned burning of heretics",
-        "labelCn": "颁布《异端火刑令》允许火刑处决异端",
-        "wikiUrl": "https://en.wikipedia.org/wiki/De_heretico_comburendo"
-      },
-      {
-        "year": 1403,
-        "type": "battle",
-        "tags": [
-          "battle",
-          "commander"
-        ],
-        "weight": 94,
-        "label": "Battle of Shrewsbury",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Shrewsbury",
-        "month": 7,
-        "day": 21,
-        "labelCn": "什鲁斯伯里战役",
-        "note": "Hotspur was killed and Henry's son (the future Henry V) was wounded in the face by an arrow."
-      },
-      {
-        "year": 1405,
-        "type": "campaign",
-        "tags": [
-          "campaign",
-          "rebellion"
-        ],
-        "weight": 82,
-        "label": "Suppressed the Percy and Glyndŵr rebellions",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_IV_of_England",
-        "labelCn": "镇压珀西与格林多尔叛乱"
-      },
-      {
-        "year": 1413,
-        "month": 3,
-        "day": 20,
-        "type": "death",
-        "tags": [
-          "death"
-        ],
-        "weight": 90,
-        "label": "Died after long illness at Westminster",
-        "labelCn": "久病后在威斯敏斯特去世",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_IV_of_England",
-        "note": "Died in the Jerusalem Chamber, fulfilling the prophecy that he would die in Jerusalem; succeeded by his son Henry V."
-      }
-    ],
-    "wikiUrl": "https://en.wikipedia.org/wiki/Henry_IV_of_England",
-    "portraitUrl": "",
-    "sourceUrl": "https://en.wikipedia.org/wiki/Henry_IV_of_England",
-    "sourceNote": "English Wikipedia biography (Henry IV of England); dates verified against the article's chronology and infobox.",
-    "notes": "Enriched Plantagenet king record. Henry IV was the first Lancastrian king, usurping the crown from Richard II in 1399. His reign was consumed by rebellions (the Percy rising and Owain Glyndŵr's Welsh revolt), by the first persecutions of the Lollards, and by his own declining health from 1405 until his death on 20 March 1413.",
-    "createdDate": "20260815",
-    "createdOrder": 33,
-    "deathCause": {
-      "kind": "normal",
-      "summary": "Natural death after long illness",
-      "detail": "Henry IV died at the Jerusalem Chamber, Westminster, on 20 March 1413 after years of recurring illness (June 1405 - March 1413) variously diagnosed as leprosy, psoriasis, epilepsy or cardiovascular disease. The exact diagnosis is uncertain, but the death was of natural causes.",
-      "wikiUrl": "https://en.wikipedia.org/wiki/Henry_IV_of_England",
-      "summaryCn": "久病后自然去世",
-      "detailCn": "1413年3月20日，亨利四世在威斯敏斯特耶路撒冷厅去世。自1405年6月起他反复患病，后世推测为麻风病、银屑病、癫痫或心血管疾病；确切诊断存疑，但属自然死亡。"
-    },
-    "displayNameCn": "亨利四世",
-    "fullNameCn": "英格兰国王亨利四世",
-    "nicknameCn": "博林布鲁克",
-    "primaryTitleCn": "英格兰国王",
-    "historicalRating": 8
-  },
-  {
-    "id": "631cfa58-52bf-4273-b3b5-38ae2abed850",
-    "firstName": "Henry",
-    "lastName": "Plantagenet",
-    "displayName": "Henry V",
-    "fullName": "Henry V of England",
-    "nickname": "",
-    "alsoKnownAs": [
-      "Henry of Monmouth"
-    ],
-    "nicknameTags": [],
-    "birthYear": 1386,
-    "deathYear": 1422,
-    "birthPlace": "Monmouth, Wales",
-    "birthPlaceCn": "威尔士蒙茅斯",
-    "deathPlace": "Vincennes, France",
-    "deathPlaceCn": "法国万塞讷",
-    "gender": "male",
-    "dynasty": "House of Plantagenet",
-    "house": "House of Plantagenet",
-    "culture": "English",
-    "faith": "Catholic",
-    "primaryTitle": "King of England",
-    "titles": [
-      {
-        "title": "King of England",
-        "startYear": 1413,
-        "endYear": 1422,
-        "titleCn": "英格兰国王"
-      }
-    ],
-    "tags": [
-      "monarch",
-      "commander",
-      "conquest"
-    ],
-    "rank": "king",
-    "importanceScore": 90,
-    "relationships": {
-      "fatherId": "2254ea97-3d35-4264-a60e-3b9e9f78eaab",
-      "motherId": "",
-      "spouseIds": [
-        "13bf8c44-3cf2-45e5-9d97-47c1e912c094"
-      ],
-      "partnerIds": [],
-      "childIds": [
-        "0a1a85b3-53e9-45fa-a90f-2b07d78191c4"
-      ]
-    },
-    "events": [
-      {
-        "year": 1399,
-        "month": 10,
-        "type": "title_acquired",
-        "tags": [
-          "title",
-          "noble",
-          "succession"
-        ],
-        "weight": 80,
-        "label": "Created Prince of Wales and Duke of Lancaster",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_V_of_England",
-        "labelCn": "受封威尔士亲王与兰开斯特公爵",
-        "note": "Invested October–November 1399 after his father Henry IV's accession, together with the duchy of Cornwall and earldom of Chester."
-      },
-      {
-        "year": 1403,
-        "month": 7,
-        "day": 21,
-        "type": "battle",
-        "tags": [
-          "battle",
-          "commander"
-        ],
-        "weight": 84,
-        "label": "Battle of Shrewsbury",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Shrewsbury",
-        "labelCn": "什鲁斯伯里战役",
-        "note": "21 July 1403; aged sixteen, Henry commanded part of the royal army and was wounded in the face by an arrow; the rebellion of the Percys was crushed."
-      },
-      {
-        "year": 1413,
-        "month": 3,
-        "day": 20,
-        "type": "title",
-        "tags": [
-          "title",
-          "monarch",
-          "succession"
-        ],
-        "weight": 96,
-        "label": "Accession as King of England",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_V_of_England",
-        "labelCn": "即位为英格兰国王",
-        "note": "Henry IV died 20 March 1413; Henry succeeded unchallenged."
-      },
-      {
-        "year": 1413,
-        "month": 4,
-        "day": 9,
-        "type": "coronation",
-        "tags": [
-          "coronation",
-          "king"
-        ],
-        "weight": 88,
-        "label": "Coronation as King of England",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_V_of_England",
-        "labelCn": "加冕为英格兰国王"
-      },
-      {
-        "year": 1414,
-        "month": 1,
-        "type": "rebellion",
-        "tags": [
-          "rebellion",
-          "religion"
-        ],
-        "weight": 78,
-        "label": "Oldcastle's Lollard rising suppressed",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Oldcastle_Revolt",
-        "labelCn": "镇压罗拉德派旧城堡起义",
-        "note": "January 1414; Sir John Oldcastle's Lollard rising was swiftly crushed; Oldcastle was later captured and executed in 1417."
-      },
-      {
-        "year": 1415,
-        "month": 9,
-        "day": 22,
-        "type": "campaign",
-        "tags": [
-          "campaign",
-          "conquest"
-        ],
-        "weight": 86,
-        "label": "Siege and capture of Harfleur",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Siege_of_Harfleur",
-        "labelCn": "围攻并攻占阿夫勒尔",
-        "note": "Landed near Harfleur on 14 August 1415; the town surrendered on 22 September 1415 after a costly siege."
-      },
-      {
-        "year": 1415,
-        "month": 10,
-        "day": 25,
-        "type": "battle",
-        "tags": [
-          "battle",
-          "main_commander"
-        ],
-        "weight": 100,
-        "label": "Battle of Agincourt",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Agincourt",
-        "labelCn": "阿金库尔战役",
-        "note": "25 October 1415; Henry led a depleted army of archers and men-at-arms to a crushing victory over a much larger French force."
-      },
-      {
-        "year": 1417,
-        "month": 8,
-        "day": 1,
-        "type": "campaign",
-        "tags": [
-          "campaign",
-          "conquest"
-        ],
-        "weight": 94,
-        "label": "Conquest of Normandy",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_V_of_England",
-        "labelCn": "征服诺曼底",
-        "note": "Landed at Touques on 1 August 1417; Caen fell in September 1417 and the conquest proceeded methodically."
-      },
-      {
-        "year": 1419,
-        "month": 1,
-        "day": 19,
-        "type": "campaign",
-        "tags": [
-          "campaign",
-          "conquest"
-        ],
-        "weight": 90,
-        "label": "Fall of Rouen",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_V_of_England",
-        "labelCn": "鲁昂陷落",
-        "note": "Rouen surrendered on 19 January 1419 after a long siege begun in summer 1418; the conquest of Normandy was then effectively complete."
-      },
-      {
-        "year": 1420,
-        "month": 5,
-        "day": 21,
-        "type": "diplomacy",
-        "tags": [
-          "diplomacy",
-          "succession",
-          "treaty"
-        ],
-        "weight": 98,
-        "label": "Treaty of Troyes",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Treaty_of_Troyes",
-        "labelCn": "《特鲁瓦条约》",
-        "note": "Signed 21 May 1420; Charles VI disinherited his son, making Henry heir and regent of France and marrying him to Catherine of Valois."
-      },
-      {
-        "year": 1420,
-        "month": 6,
-        "day": 2,
-        "type": "marriage",
-        "tags": [
-          "marriage",
-          "queen",
-          "dynastic_alliance"
-        ],
-        "weight": 88,
-        "label": "Marriage to Catherine of Valois",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Catherine_of_Valois",
-        "labelCn": "与瓦卢瓦的凯瑟琳结婚",
-        "note": "Married at Troyes Cathedral on 2 June 1420, sealing the treaty."
-      },
-      {
-        "year": 1421,
-        "month": 12,
-        "day": 6,
-        "type": "childbirth",
-        "tags": [
-          "childbirth",
-          "dynasty"
-        ],
-        "weight": 82,
-        "label": "Birth of son Henry VI at Windsor",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_V_of_England",
-        "labelCn": "王储亨利六世于温莎诞生",
-        "note": "The future Henry VI was born at Windsor on 6 December 1421. Earlier in 1421 the campaign had suffered the defeat at Baugé (22 March), where the Duke of Clarence was killed."
-      },
-      {
-        "year": 1422,
-        "month": 8,
-        "day": 31,
-        "type": "death",
-        "tags": [
-          "death"
-        ],
-        "weight": 92,
-        "label": "Death at Vincennes",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_V_of_England",
-        "labelCn": "于万塞讷去世",
-        "note": "Died at the Château de Vincennes on 31 August 1422, aged 35; scholars regard dysentery as the most probable cause, though contemporary sources also suggested smallpox, leprosy or erysipelas."
-      }
-    ],
-    "wikiUrl": "https://en.wikipedia.org/wiki/Henry_V_of_England",
-    "portraitUrl": "",
-    "sourceUrl": "https://en.wikipedia.org/wiki/Henry_V_of_England",
-    "sourceNote": "Born 16 September 1386 at Monmouth Castle; the year 1386 is the mainstream date (a few sources suggest 1386/87).",
-    "notes": "Soldier-king of the Hundred Years' War: won Agincourt (1415), conquered Normandy, and was made heir to France by the Treaty of Troyes (1420). Died of illness aged 35, leaving the dual crown to a nine-month-old son, Henry VI.",
-    "createdDate": "20260815",
-    "createdOrder": 34,
-    "deathCause": {
-      "kind": "normal",
-      "summary": "Died of dysentery",
-      "detail": "Henry V died at the Château de Vincennes on 31 August 1422 after contracting dysentery during the campaign in France; scholars regard dysentery as the most probable cause, though contemporary sources also suggested smallpox, leprosy or erysipelas.",
-      "wikiUrl": "https://en.wikipedia.org/wiki/Henry_V_of_England",
-      "summaryCn": "死于痢疾",
-      "detailCn": "1422 年 8 月 31 日亨利五世在法兰西战役期间感染痢疾，于万塞讷城堡去世；学者认为痢疾最为可能，当代史料亦提及天花、麻风或丹毒之说。"
-    },
-    "displayNameCn": "亨利五世",
-    "fullNameCn": "英格兰国王亨利五世",
-    "primaryTitleCn": "英格兰国王",
-    "historicalRating": 9
-  },
-  {
-    "id": "0a1a85b3-53e9-45fa-a90f-2b07d78191c4",
-    "firstName": "Henry",
-    "lastName": "Plantagenet",
-    "displayName": "Henry VI",
-    "fullName": "Henry VI of England",
-    "nickname": "",
-    "alsoKnownAs": [],
-    "nicknameTags": [],
-    "birthYear": 1421,
-    "deathYear": 1471,
-    "birthPlace": "Windsor Castle, Berkshire, England",
-    "deathPlace": "Tower of London, London, England",
-    "birthPlaceCn": "英格兰伯克郡温莎城堡",
-    "deathPlaceCn": "英格兰伦敦塔",
-    "gender": "male",
-    "dynasty": "House of Plantagenet",
-    "house": "House of Plantagenet",
-    "culture": "English",
-    "faith": "Catholic",
-    "primaryTitle": "King of England",
-    "titles": [
-      {
-        "title": "King of England",
-        "startYear": 1422,
-        "endYear": 1461,
-        "titleCn": "英格兰国王"
-      },
-      {
-        "title": "King of France",
-        "startYear": 1422,
-        "endYear": 1453,
-        "titleCn": "法兰西国王"
-      }
-    ],
-    "tags": [
-      "monarch"
-    ],
-    "rank": "king",
-    "importanceScore": 84,
-    "relationships": {
-      "fatherId": "631cfa58-52bf-4273-b3b5-38ae2abed850",
-      "motherId": "13bf8c44-3cf2-45e5-9d97-47c1e912c094",
-      "spouseIds": [
-        "d2f6c728-92c2-49e8-98f0-8c9c78393a12"
-      ],
-      "partnerIds": [],
-      "childIds": []
-    },
-    "events": [
-      {
-        "year": 1421,
-        "month": 12,
-        "day": 6,
-        "type": "childbirth",
-        "tags": [
-          "childbirth",
-          "dynasty"
-        ],
-        "weight": 62,
-        "label": "Born at Windsor Castle",
-        "labelCn": "出生于温莎城堡",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_VI_of_England"
-      },
-      {
-        "year": 1422,
-        "type": "title",
-        "tags": [
-          "title",
-          "monarch"
-        ],
-        "weight": 96,
-        "label": "Became King of England as an infant",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_VI_of_England",
-        "month": 9,
-        "day": 1,
-        "labelCn": "幼年即成为英格兰国王",
-        "note": "Succeeded Henry V at eight months old, the youngest person ever to take the English throne."
-      },
-      {
-        "year": 1431,
-        "type": "coronation",
-        "tags": [
-          "coronation",
-          "king"
-        ],
-        "weight": 88,
-        "label": "Crowned King of France at Paris",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_VI_of_England",
-        "month": 12,
-        "day": 16,
-        "labelCn": "在巴黎加冕为法兰西国王",
-        "note": "The only English king crowned in both kingdoms (England at Westminster, 6 November 1429; France at Paris, 16 December 1431)."
-      },
-      {
-        "year": 1453,
-        "type": "government",
-        "tags": [
-          "government",
-          "succession"
-        ],
-        "weight": 92,
-        "label": "First major episode of mental illness",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_VI_of_England",
-        "month": 8,
-        "labelCn": "首次严重精神疾病发作",
-        "note": "From August 1453 he became completely unresponsive for more than a year, prompting Richard of York's protectorate and the Wars of the Roses."
-      },
-      {
-        "year": 1455,
-        "month": 5,
-        "day": 22,
-        "type": "battle",
-        "tags": [
-          "battle",
-          "defeat",
-          "succession"
-        ],
-        "weight": 90,
-        "label": "First Battle of St Albans opened the Wars of the Roses",
-        "labelCn": "第一次圣奥尔本斯战役揭开玫瑰战争序幕",
-        "wikiUrl": "https://en.wikipedia.org/wiki/First_Battle_of_St_Albans",
-        "note": "Yorkist victory; the Duke of Somerset was killed and Henry was captured."
-      },
-      {
-        "year": 1461,
-        "month": 3,
-        "day": 29,
-        "type": "succession",
-        "tags": [
-          "succession",
-          "defeat",
-          "dynasty"
-        ],
-        "weight": 92,
-        "label": "Deposed after the Battle of Towton",
-        "labelCn": "陶顿战役后遭废黜",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Towton",
-        "note": "The decisive Lancastrian defeat at Towton ended Henry's first reign; Edward IV took the throne. Henry was captured in 1465 and imprisoned in the Tower."
-      },
-      {
-        "year": 1471,
-        "type": "battle",
-        "tags": [
-          "battle",
-          "succession"
-        ],
-        "weight": 94,
-        "label": "Battle of Tewkesbury",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Tewkesbury",
-        "month": 5,
-        "day": 4,
-        "labelCn": "蒂克斯伯里战役",
-        "note": "His son Edward of Westminster was killed at Tewkesbury, ending Lancastrian resistance; Henry was briefly restored to the throne in the readeption of October 1470 - April 1471."
-      },
-      {
-        "year": 1471,
-        "month": 5,
-        "day": 21,
-        "type": "death",
-        "tags": [
-          "death",
-          "violent",
-          "uncertain"
-        ],
-        "weight": 96,
-        "label": "Died in the Tower of London, probably murdered",
-        "labelCn": "在伦敦塔去世，疑遭谋杀",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_VI_of_England",
-        "note": "Officially reported as dying of 'pure displeasure and melancholy' on the night of 21 May 1471; widely suspected to have been murdered on Edward IV's orders (traditionally at the hand of Richard of Gloucester)."
-      }
-    ],
-    "wikiUrl": "https://en.wikipedia.org/wiki/Henry_VI_of_England",
-    "portraitUrl": "",
-    "sourceUrl": "https://en.wikipedia.org/wiki/Henry_VI_of_England",
-    "sourceNote": "English Wikipedia biography (Henry VI of England); dates verified against the article's chronology and infobox.",
-    "notes": "Enriched Plantagenet king record. Henry VI became king at nine months old in 1422, was crowned in both England (1429) and France (1431), and lost the English conquests in France during his minority and early reign. His mental collapse in 1453 and weak rule produced the Wars of the Roses: he was deposed in 1461, briefly restored in the readeption (1470-71), and died (probably murdered) in the Tower of London on 21 May 1471.",
-    "createdDate": "20260815",
-    "createdOrder": 35,
-    "deathCause": {
-      "kind": "violent_uncertain",
-      "summary": "Died violently; circumstances disputed",
-      "detail": "Henry VI died in the Tower of London on the night of 21 May 1471, shortly after the Yorkist victory at Tewkesbury. He was probably murdered on the orders of Edward IV, but the precise killer and circumstances remain disputed.",
-      "culprit": "Traditionally associated with Richard, Duke of Gloucester; not proven",
-      "wikiUrl": "https://en.wikipedia.org/wiki/Henry_VI_of_England",
-      "summaryCn": "死于暴力；具体情形存疑",
-      "detailCn": "1471年5月21日夜，亨利六世在约克派赢得蒂克斯伯里战役后不久死于伦敦塔。他很可能被爱德华四世下令谋杀，但具体凶手与情形仍有争议。",
-      "culpritCn": "传统上与格洛斯特公爵理查有关；未经证实"
-    },
-    "displayNameCn": "亨利六世",
-    "fullNameCn": "英格兰国王亨利六世",
-    "primaryTitleCn": "英格兰国王",
-    "historicalRating": 7
-  },
-  {
     "id": "638b81ae-0e2f-4ce8-b657-ca030206e668",
     "firstName": "Lionel",
     "lastName": "Plantagenet",
@@ -4073,7 +3229,7 @@
     "birthPlaceCn": "布拉班特公国安特卫普（今比利时）",
     "deathPlaceCn": "意大利皮埃蒙特阿尔巴",
     "gender": "male",
-    "dynasty": "House of Plantagenet",
+    "dynasty": "Plantagenet dynasty",
     "house": "House of Plantagenet",
     "culture": "English",
     "faith": "Catholic",
@@ -4246,7 +3402,7 @@
     "birthPlaceCn": "英格兰肯特郡埃尔特姆宫",
     "deathPlaceCn": "英格兰（葬于赫里福德郡威格莫尔修道院）",
     "gender": "female",
-    "dynasty": "House of Plantagenet",
+    "dynasty": "Plantagenet dynasty",
     "house": "House of Plantagenet",
     "culture": "English",
     "faith": "Catholic",
@@ -4365,576 +3521,6 @@
     "historicalRating": 7
   },
   {
-    "id": "1299a0d9-153e-4a1d-a90f-27ae608c44ae",
-    "firstName": "Richard",
-    "lastName": "Plantagenet",
-    "displayName": "Richard of York",
-    "fullName": "Richard of York, 3rd Duke of York",
-    "displayNameCn": "约克的理查",
-    "fullNameCn": "第三代约克公爵理查",
-    "nickname": "",
-    "nicknameCn": "",
-    "alsoKnownAs": [],
-    "nicknameTags": [],
-    "birthYear": 1411,
-    "deathYear": 1460,
-    "birthPlace": "Conisbrough Castle, Yorkshire, England",
-    "birthPlaceCn": "英格兰约克郡科尼斯伯勒城堡",
-    "deathPlace": "Wakefield, Yorkshire, England",
-    "deathPlaceCn": "英格兰约克郡韦克菲尔德",
-    "gender": "male",
-    "dynasty": "House of Plantagenet",
-    "house": "House of Plantagenet",
-    "culture": "English",
-    "faith": "Catholic",
-    "rank": "duke",
-    "primaryTitle": "Duke of York",
-    "primaryTitleCn": "约克公爵",
-    "tags": [
-      "duke",
-      "noble",
-      "commander"
-    ],
-    "titles": [
-      {
-        "title": "Duke of York",
-        "startYear": 1415,
-        "endYear": 1460,
-        "titleCn": "约克公爵"
-      },
-      {
-        "title": "Earl of March and Ulster",
-        "startYear": 1425,
-        "endYear": 1460,
-        "titleCn": "马奇伯爵与阿尔斯特伯爵"
-      }
-    ],
-    "importanceScore": 84,
-    "relationships": {
-      "fatherId": "",
-      "motherId": "38e14a5d-17a3-4c5a-8ee3-3d4d39d911af",
-      "spouseIds": [],
-      "partnerIds": [],
-      "childIds": [
-        "423d8a6a-a3f5-4502-abc7-5b6943dcfac6",
-        "62f8458b-9497-45fd-8ccc-7930f38c7ae8"
-      ]
-    },
-    "events": [
-      {
-        "year": 1411,
-        "month": 9,
-        "day": 21,
-        "type": "childbirth",
-        "tags": [
-          "childbirth",
-          "dynasty"
-        ],
-        "weight": 82,
-        "label": "Birth of Richard of York",
-        "labelCn": "约克的理查出生",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Richard_of_York,_3rd_Duke_of_York",
-        "note": "Born 21 September 1411 (some sources say 22 September) at Conisbrough Castle, son of Richard of Conisburgh and Anne Mortimer; his mother died during or shortly after his birth."
-      },
-      {
-        "year": 1415,
-        "month": 10,
-        "day": 25,
-        "type": "title_acquired",
-        "tags": [
-          "title",
-          "succession",
-          "duke"
-        ],
-        "weight": 88,
-        "label": "Inherited the Dukedom of York",
-        "labelCn": "继承约克公爵爵位",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Richard_of_York,_3rd_Duke_of_York",
-        "note": "His father Richard of Conisburgh was executed in August 1415 for the Southampton Plot, and his childless uncle Edward, 2nd Duke of York, fell at Agincourt on 25 October 1415, leaving Richard the dukedom. On the death of his maternal uncle Edmund Mortimer in 1425 he also inherited the earldoms of March and Ulster, becoming the greatest magnate in England."
-      },
-      {
-        "year": 1436,
-        "month": 5,
-        "day": 8,
-        "type": "government",
-        "tags": [
-          "government",
-          "campaign",
-          "main_commander"
-        ],
-        "weight": 80,
-        "label": "Appointed Lieutenant of France",
-        "labelCn": "被任命为法兰西代理总督",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Richard_of_York,_3rd_Duke_of_York",
-        "note": "First French lieutenancy 8 May 1436 - 16 July 1437; a second term followed on 2 July 1440 - 29 September 1445."
-      },
-      {
-        "year": 1447,
-        "month": 7,
-        "day": 30,
-        "type": "government",
-        "tags": [
-          "government",
-          "territory"
-        ],
-        "weight": 82,
-        "label": "Appointed Lieutenant of Ireland",
-        "labelCn": "被任命为爱尔兰代理总督",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Richard_of_York,_3rd_Duke_of_York",
-        "note": "Given a ten-year lieutenancy of Ireland on 30 July 1447; he landed there in June 1449 and returned to England on 7 September 1450."
-      },
-      {
-        "year": 1454,
-        "month": 3,
-        "day": 27,
-        "type": "government",
-        "tags": [
-          "government",
-          "regency",
-          "succession"
-        ],
-        "weight": 90,
-        "label": "Appointed Lord Protector",
-        "labelCn": "被任命为护国公",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Richard,_Duke_of_York",
-        "note": "Appointed Protector of the Realm on 27 March 1454 during Henry VI's incapacity; he resumed the office in November 1455 and surrendered it in February 1456. (The existing event year of 1453 was corrected to 1454.)"
-      },
-      {
-        "year": 1455,
-        "month": 5,
-        "day": 22,
-        "type": "battle",
-        "tags": [
-          "battle",
-          "commander"
-        ],
-        "weight": 94,
-        "label": "First Battle of St Albans",
-        "labelCn": "第一次圣奥尔本斯战役",
-        "wikiUrl": "https://en.wikipedia.org/wiki/First_Battle_of_St_Albans",
-        "note": "On 22 May 1455 York, Warwick and Salisbury defeated a royal army of about 2,000; the Duke of Somerset and Earls of Northumberland and Clifford were killed — the first battle of the Wars of the Roses."
-      },
-      {
-        "year": 1459,
-        "month": 10,
-        "day": 12,
-        "type": "battle",
-        "tags": [
-          "battle",
-          "defeat",
-          "rebellion"
-        ],
-        "weight": 88,
-        "label": "Defeat at Ludford Bridge; fled to Ireland",
-        "labelCn": "拉德福德桥之败，逃亡爱尔兰",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Ludford_Bridge",
-        "note": "On 12 October 1459 Warwick's Calais troops refused to fight; York fled to Ireland and was attainted, while his wife and younger sons were captured at Ludlow."
-      },
-      {
-        "year": 1460,
-        "month": 7,
-        "day": 10,
-        "type": "battle",
-        "tags": [
-          "battle",
-          "commander"
-        ],
-        "weight": 90,
-        "label": "Battle of Northampton",
-        "labelCn": "北安普顿战役",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Northampton_(1460)",
-        "note": "The Yorkist allies captured Henry VI on 10 July 1460, opening the way for York's return from Ireland and his claim to the throne."
-      },
-      {
-        "year": 1460,
-        "month": 10,
-        "type": "succession",
-        "tags": [
-          "succession",
-          "dynasty"
-        ],
-        "weight": 96,
-        "label": "Act of Accord named him heir to the throne",
-        "labelCn": "《协议法案》确立其王位继承人身份",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Act_of_Accord",
-        "note": "At the parliament meeting from 7 October 1460, York and his heirs were recognised as Henry VI's successors, and York was made Protector again."
-      },
-      {
-        "year": 1460,
-        "month": 12,
-        "day": 30,
-        "type": "death",
-        "tags": [
-          "death",
-          "battle",
-          "violent"
-        ],
-        "weight": 96,
-        "label": "Killed at the Battle of Wakefield",
-        "labelCn": "在韦克菲尔德战役中阵亡",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Wakefield",
-        "note": "Sortieing from Sandal Castle on 30 December 1460, York was killed; accounts differ between death fighting to the last and capture followed by beheading. His head was displayed over Micklegate Bar at York wearing a paper crown."
-      }
-    ],
-    "deathCause": {
-      "kind": "violent",
-      "summary": "Killed in battle",
-      "detail": "Richard of York was killed after the Battle of Wakefield in 1460 while fighting the Lancastrian army.",
-      "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Wakefield",
-      "summaryCn": "战死",
-      "detailCn": "1460 年约克的理查在与兰开斯特军交战后于韦克菲尔德战役中被杀。"
-    },
-    "wikiUrl": "https://en.wikipedia.org/wiki/Richard_of_York,_3rd_Duke_of_York",
-    "portraitUrl": "",
-    "sourceUrl": "https://en.wikipedia.org/wiki/Richard_of_York,_3rd_Duke_of_York",
-    "sourceNote": "Dates and facts from the English Wikipedia article 'Richard of York, 3rd Duke of York' (text, infobox and offices list), fetched 2026-08-17.",
-    "notes": "Son of Richard of Conisburgh and Anne Mortimer; became 3rd Duke of York on his uncle's death at Agincourt (1415) and inherited the Mortimer estates in 1425, making him England's most powerful magnate. Served as Lieutenant of France (1436-37, 1440-45) and of Ireland (1447). Twice Lord Protector during Henry VI's incapacity. Claimed the throne in October 1460 under the Act of Accord and was killed at Wakefield on 30 December 1460. His son Edward IV carried the claim to the crown.",
-    "createdDate": "20260815",
-    "createdOrder": 40,
-    "historicalRating": 7
-  },
-  {
-    "id": "423d8a6a-a3f5-4502-abc7-5b6943dcfac6",
-    "firstName": "Edward",
-    "lastName": "Plantagenet",
-    "displayName": "Edward IV",
-    "fullName": "Edward IV of England",
-    "nickname": "",
-    "alsoKnownAs": [],
-    "nicknameTags": [],
-    "birthYear": 1442,
-    "deathYear": 1483,
-    "birthPlace": "Rouen, Normandy, France",
-    "deathPlace": "Westminster, London, England",
-    "birthPlaceCn": "法国诺曼底鲁昂",
-    "deathPlaceCn": "英格兰伦敦威斯敏斯特",
-    "gender": "male",
-    "dynasty": "House of Plantagenet",
-    "house": "House of Plantagenet",
-    "culture": "English",
-    "faith": "Catholic",
-    "primaryTitle": "King of England",
-    "titles": [
-      {
-        "title": "King of England",
-        "startYear": 1461,
-        "endYear": 1483,
-        "titleCn": "英格兰国王"
-      }
-    ],
-    "tags": [
-      "monarch",
-      "commander"
-    ],
-    "rank": "king",
-    "importanceScore": 90,
-    "relationships": {
-      "fatherId": "1299a0d9-153e-4a1d-a90f-27ae608c44ae",
-      "motherId": "",
-      "spouseIds": [
-        "2b1f74cd-3853-48c0-b048-aa8c3dd1d59d"
-      ],
-      "partnerIds": [],
-      "childIds": [
-        "738a5858-9506-4f77-b5ed-7539c01d7bbc",
-        "6c6619a1-067a-4f2b-a410-c882d6b794f7"
-      ]
-    },
-    "events": [
-      {
-        "year": 1442,
-        "month": 4,
-        "day": 28,
-        "type": "childbirth",
-        "tags": [
-          "childbirth",
-          "dynasty"
-        ],
-        "weight": 60,
-        "label": "Born at Rouen",
-        "labelCn": "出生于鲁昂",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Edward_IV_of_England"
-      },
-      {
-        "year": 1461,
-        "type": "title",
-        "tags": [
-          "title",
-          "monarch"
-        ],
-        "weight": 98,
-        "label": "Became King of England",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Edward_IV_of_England",
-        "month": 3,
-        "day": 4,
-        "labelCn": "成为英格兰国王"
-      },
-      {
-        "year": 1461,
-        "type": "battle",
-        "tags": [
-          "battle",
-          "commander"
-        ],
-        "weight": 100,
-        "label": "Battle of Towton",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Towton",
-        "month": 3,
-        "day": 29,
-        "labelCn": "陶顿战役"
-      },
-      {
-        "year": 1461,
-        "month": 6,
-        "day": 28,
-        "type": "coronation",
-        "tags": [
-          "coronation",
-          "king"
-        ],
-        "weight": 76,
-        "label": "Crowned King of England at Westminster",
-        "labelCn": "在威斯敏斯特加冕为英格兰国王",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Edward_IV_of_England"
-      },
-      {
-        "year": 1464,
-        "month": 5,
-        "day": 1,
-        "type": "marriage",
-        "tags": [
-          "marriage",
-          "dynastic_alliance"
-        ],
-        "weight": 84,
-        "label": "Secretly married Elizabeth Woodville",
-        "labelCn": "秘密迎娶伊丽莎白·伍德维尔",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Elizabeth_Woodville"
-      },
-      {
-        "year": 1470,
-        "month": 10,
-        "type": "political_crisis",
-        "tags": [
-          "defeat",
-          "dynasty"
-        ],
-        "weight": 88,
-        "label": "Deposed by Warwick's readeption; fled to Burgundy",
-        "labelCn": "被沃里克复辟废黜，流亡勃艮第",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Readeption_of_Henry_VI",
-        "note": "Warwick restored Henry VI (the readeption) in October 1470; Edward narrowly escaped capture and took refuge in Bruges."
-      },
-      {
-        "year": 1471,
-        "month": 3,
-        "type": "campaign",
-        "tags": [
-          "campaign",
-          "commander",
-          "dynasty"
-        ],
-        "weight": 86,
-        "label": "Returned from exile and reclaimed the throne",
-        "labelCn": "流亡归来并重夺王位",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Edward_IV_of_England",
-        "note": "Landed near Hull in March 1471, entered London and took Henry VI prisoner."
-      },
-      {
-        "year": 1471,
-        "month": 4,
-        "day": 14,
-        "type": "battle",
-        "tags": [
-          "battle",
-          "commander"
-        ],
-        "weight": 92,
-        "label": "Victory at the Battle of Barnet (Warwick killed)",
-        "labelCn": "巴尼特战役获胜（沃里克阵亡）",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Barnet"
-      },
-      {
-        "year": 1471,
-        "type": "battle",
-        "tags": [
-          "battle",
-          "commander"
-        ],
-        "weight": 94,
-        "label": "Battle of Tewkesbury",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Tewkesbury",
-        "month": 5,
-        "day": 4,
-        "labelCn": "蒂克斯伯里战役"
-      },
-      {
-        "year": 1475,
-        "type": "diplomacy",
-        "tags": [
-          "diplomacy",
-          "treaty"
-        ],
-        "weight": 78,
-        "label": "Treaty of Picquigny",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Treaty_of_Picquigny",
-        "month": 8,
-        "day": 29,
-        "labelCn": "《皮基尼条约》"
-      },
-      {
-        "year": 1483,
-        "month": 4,
-        "day": 9,
-        "type": "death",
-        "tags": [
-          "death"
-        ],
-        "weight": 96,
-        "label": "Died at Westminster after a short illness",
-        "labelCn": "短暂病痛后在威斯敏斯特去世",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Edward_IV_of_England"
-      }
-    ],
-    "wikiUrl": "https://en.wikipedia.org/wiki/Edward_IV_of_England",
-    "portraitUrl": "",
-    "sourceUrl": "https://en.wikipedia.org/wiki/Edward_IV_of_England",
-    "sourceNote": "English Wikipedia biography (Edward IV of England); dates verified against the article's chronology and infobox.",
-    "notes": "Enriched Plantagenet king record. Edward IV won the English crown in the Wars of the Roses at Mortimer's Cross and Towton (1461), was briefly deposed by Warwick's readeption (1470-71), and recovered it at Barnet and Tewkesbury (1471). His sudden death on 9 April 1483 at age 40 left his 12-year-old son Edward V as king, enabling Richard III's usurpation.",
-    "createdDate": "20260815",
-    "createdOrder": 41,
-    "deathCause": {
-      "kind": "normal",
-      "summary": "Natural death after a short illness; exact disease debated",
-      "detail": "Edward IV died suddenly at Westminster on 9 April 1483 after a short illness. The precise diagnosis is debated (pneumonia, malaria, typhoid, apoplexy or even poisoning have been suggested), but the death itself was of natural causes; he was only 40.",
-      "wikiUrl": "https://en.wikipedia.org/wiki/Edward_IV_of_England",
-      "summaryCn": "短暂病痛后自然死亡；具体病因有争议",
-      "detailCn": "1483年4月9日，爱德华四世在短暂病痛后于威斯敏斯特突然去世。具体病因说法不一（肺炎、疟疾、伤寒、中风或中毒之说均有人提出），但属自然死亡；年仅40岁。"
-    },
-    "displayNameCn": "爱德华四世",
-    "fullNameCn": "英格兰国王爱德华四世",
-    "primaryTitleCn": "英格兰国王",
-    "historicalRating": 8
-  },
-  {
-    "id": "738a5858-9506-4f77-b5ed-7539c01d7bbc",
-    "firstName": "Edward",
-    "lastName": "Plantagenet",
-    "displayName": "Edward V",
-    "fullName": "Edward V of England",
-    "nickname": "",
-    "alsoKnownAs": [],
-    "nicknameTags": [],
-    "birthYear": 1470,
-    "deathYear": 1483,
-    "birthPlace": "Westminster (Cheyneygates), London, England",
-    "deathPlace": "Tower of London, London, England",
-    "birthPlaceCn": "英格兰伦敦威斯敏斯特（切尼盖茨）",
-    "deathPlaceCn": "英格兰伦敦塔",
-    "gender": "male",
-    "dynasty": "House of Plantagenet",
-    "house": "House of Plantagenet",
-    "culture": "English",
-    "faith": "Catholic",
-    "primaryTitle": "King of England",
-    "titles": [
-      {
-        "title": "King of England",
-        "startYear": 1483,
-        "endYear": 1483,
-        "titleCn": "英格兰国王"
-      }
-    ],
-    "tags": [
-      "monarch"
-    ],
-    "rank": "king",
-    "importanceScore": 82,
-    "relationships": {
-      "fatherId": "423d8a6a-a3f5-4502-abc7-5b6943dcfac6",
-      "motherId": "2b1f74cd-3853-48c0-b048-aa8c3dd1d59d",
-      "spouseIds": [],
-      "partnerIds": [],
-      "childIds": []
-    },
-    "events": [
-      {
-        "year": 1470,
-        "month": 11,
-        "day": 2,
-        "type": "childbirth",
-        "tags": [
-          "childbirth",
-          "dynasty"
-        ],
-        "weight": 70,
-        "label": "Born in sanctuary at Westminster",
-        "labelCn": "出生于威斯敏斯特的避难所中",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Edward_V_of_England",
-        "note": "Born at Cheyneygates, the abbot of Westminster's house, while his mother Elizabeth Woodville sheltered from the Lancastrian readeption."
-      },
-      {
-        "year": 1483,
-        "type": "title",
-        "tags": [
-          "title",
-          "monarch"
-        ],
-        "weight": 96,
-        "label": "Became King of England",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Edward_V_of_England",
-        "month": 4,
-        "day": 9,
-        "labelCn": "成为英格兰国王"
-      },
-      {
-        "year": 1483,
-        "type": "succession",
-        "tags": [
-          "succession",
-          "dynasty"
-        ],
-        "weight": 92,
-        "label": "Declared illegitimate and displaced from the succession",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Titulus_Regius",
-        "month": 6,
-        "labelCn": "被宣布为私生子女并被排除出继承序列"
-      },
-      {
-        "year": 1483,
-        "type": "death",
-        "tags": [
-          "death",
-          "uncertain"
-        ],
-        "weight": 100,
-        "label": "Disappeared in the Tower of London",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Princes_in_the_Tower",
-        "note": "His fate remains unresolved.",
-        "labelCn": "在伦敦塔中失踪"
-      }
-    ],
-    "wikiUrl": "https://en.wikipedia.org/wiki/Edward_V_of_England",
-    "portraitUrl": "",
-    "sourceUrl": "https://en.wikipedia.org/wiki/Edward_V_of_England",
-    "sourceNote": "English Wikipedia biography (Edward V of England); dates verified against the article's chronology and infobox.",
-    "notes": "Enriched Plantagenet king record. Edward V reigned for only 78 days (9 April - 25 June 1483) as a boy of 12. After Titulus Regius declared him illegitimate, his uncle Richard III took the throne. Edward and his younger brother Richard, Duke of York, disappeared in the Tower of London in the summer of 1483 and were presumably murdered on Richard's orders, though conclusive evidence is lacking; presumed remains were reburied in Westminster Abbey in 1678. The death year 1483 is retained as a convention: the precise date and manner of death are unknown.",
-    "createdDate": "20260815",
-    "createdOrder": 42,
-    "deathCause": {
-      "kind": "uncertain",
-      "summary": "Death and fate uncertain",
-      "detail": "Edward V disappeared in the Tower of London in the summer of 1483 after being deposed by his uncle Richard III. No confirmed remains or definitive account establishes when or how he died; the princes were presumably murdered, most likely on Richard's orders, but other theories persist.",
-      "wikiUrl": "https://en.wikipedia.org/wiki/Edward_V_of_England",
-      "summaryCn": "生死下落存疑",
-      "detailCn": "1483年夏，爱德华五世在被叔父理查三世废黜后于伦敦塔中失踪。没有确认的遗骸或确凿记载能说明其何时、如何死亡；王子们很可能遭谋杀，最可能系理查下令，但其他说法仍然存在。"
-    },
-    "displayNameCn": "爱德华五世",
-    "fullNameCn": "英格兰国王爱德华五世",
-    "primaryTitleCn": "英格兰国王",
-    "historicalRating": 7
-  },
-  {
     "id": "8a4656fa-331c-4054-ab20-c1deefbd5844",
     "firstName": "Geoffrey",
     "lastName": "Plantagenet",
@@ -4956,7 +3542,7 @@
     "deathPlace": "Grandmont, Normandy, France",
     "deathPlaceCn": "法国诺曼底格朗蒙",
     "gender": "male",
-    "dynasty": "House of Plantagenet",
+    "dynasty": "Plantagenet dynasty",
     "house": "House of Plantagenet",
     "culture": "Angevin",
     "faith": "Catholic",
@@ -5121,7 +3707,7 @@
     "deathPlace": "Salisbury Castle, Wiltshire, England",
     "deathPlaceCn": "英格兰威尔特郡索尔兹伯里城堡",
     "gender": "male",
-    "dynasty": "House of Plantagenet",
+    "dynasty": "Plantagenet dynasty",
     "house": "House of Plantagenet",
     "culture": "Angevin",
     "faith": "Catholic",
@@ -5302,7 +3888,7 @@
     "deathPlace": "",
     "deathPlaceCn": "",
     "gender": "male",
-    "dynasty": "House of Plantagenet",
+    "dynasty": "Plantagenet dynasty",
     "house": "House of Plantagenet",
     "culture": "Angevin",
     "faith": "Catholic",

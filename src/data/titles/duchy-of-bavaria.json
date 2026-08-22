@@ -1,0 +1,84 @@
+{
+  "id": "74144594-d64a-4001-b91b-0e613d9af2c4",
+  "canonicalName": "Duke of Bavaria",
+  "canonicalNameCn": "巴伐利亚公爵",
+  "form": "hereditary duchy",
+  "aliases": [
+    "Duke of Bavaria-Ingolstadt"
+  ],
+  "nameForms": [
+    {
+      "name": "Duke of Bavaria",
+      "nameCn": "巴伐利亚公爵",
+      "fromYear": 1180,
+      "untilYear": "",
+      "note": "Hereditary duchy held by the Wittelsbach line from 1180.",
+      "noteCn": "1180 年起由维特尔斯巴赫世系持有的世袭公国。"
+    }
+  ],
+  "holders": [
+    {
+      "kind": "person",
+      "personId": "58be4d4c-d7ff-470a-953f-48e5a9401cec",
+      "startYear": 1180,
+      "endYear": 1183,
+      "titleForm": "Duke of Bavaria",
+      "note": "Received Bavaria after Henry the Lion's deprivation.",
+      "noteCn": "狮子亨利被剥夺巴伐利亚后获授。"
+    },
+    {
+      "kind": "person",
+      "personId": "66ccefed-43d6-4297-892d-fcba803ffd9a",
+      "startYear": 1183,
+      "endYear": 1231,
+      "titleForm": "Duke of Bavaria",
+      "note": "Succeeded his father Otto I.",
+      "noteCn": "继承其父奥托一世。"
+    },
+    {
+      "kind": "person",
+      "personId": "dfe32d2c-5169-4097-afea-c7f511fd1012",
+      "startYear": 1231,
+      "endYear": 1253,
+      "titleForm": "Duke of Bavaria",
+      "note": "Succeeded his father Louis I.",
+      "noteCn": "继承其父路易一世。"
+    },
+    {
+      "kind": "person",
+      "personId": "603e7aa9-1520-4412-b6aa-c949cc871d4f",
+      "startYear": 1253,
+      "endYear": 1294,
+      "titleForm": "Duke of Bavaria",
+      "note": "Succeeded his father Otto II; after the 1255 partition the Upper Bavaria line.",
+      "noteCn": "继承其父奥托二世；1255 年分割后沿上巴伐利亚支。"
+    },
+    {
+      "kind": "person",
+      "personId": "02a7f7ff-44ee-4cf7-b770-fe1ea9a59893",
+      "startYear": 1294,
+      "endYear": 1347,
+      "titleForm": "Duke of Bavaria",
+      "note": "Succeeded his father Louis II; Holy Roman Emperor from 1328.",
+      "noteCn": "继承其父路易二世；1328 年起兼神圣罗马帝国皇帝。"
+    },
+    {
+      "kind": "person",
+      "personId": "c3a4c21b-7783-4f3d-8528-2b8962e1d9cc",
+      "startYear": 1347,
+      "endYear": 1375,
+      "titleForm": "Duke of Bavaria",
+      "note": "Succeeded after the 1347 divisions; reconsolidated Bavaria.",
+      "noteCn": "1347 年分割后继承；巴伐利亚再整合阶段。"
+    },
+    {
+      "kind": "person",
+      "personId": "7f383104-7d38-4dd0-a109-dd1c9caa48ec",
+      "startYear": 1375,
+      "endYear": 1413,
+      "titleForm": "Duke of Bavaria",
+      "note": "Succeeded his father Stephen II; after the 1392 partition the Ingolstadt line. His daughter Isabeau married Charles VI of France.",
+      "noteCn": "继承其父斯蒂芬二世；1392 年分割后因戈尔施塔特支。其女伊莎贝拉嫁给法兰西的查理六世。"
+    }
+  ]
+}

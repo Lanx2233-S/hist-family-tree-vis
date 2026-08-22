@@ -1,0 +1,397 @@
+[
+  {
+    "id": "c1019000-0000-4000-8000-000000000000",
+    "firstName": "Gorm",
+    "lastName": "the Old",
+    "displayName": "Gorm the Old",
+    "fullName": "Gorm the Old, King of Denmark",
+    "displayNameCn": "老戈姆",
+    "fullNameCn": "丹麦国王老戈姆",
+    "nickname": "the Old",
+    "nicknameCn": "老",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 908,
+    "deathYear": 958,
+    "birthPlace": "Denmark",
+    "birthPlaceCn": "丹麦",
+    "deathPlace": "Jelling, Denmark",
+    "deathPlaceCn": "丹麦耶灵",
+    "gender": "male",
+    "dynasty": "Knýtlinga dynasty",
+    "house": "House of Knýtlinga",
+    "culture": "Danish",
+    "faith": "Norse paganism",
+    "primaryTitle": "King of Denmark",
+    "primaryTitleCn": "丹麦国王",
+    "titles": [
+      {
+        "title": "King of Denmark",
+        "titleCn": "丹麦国王",
+        "startYear": 936,
+        "endYear": 958
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 60,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "ca7b3d35-0d29-4a9b-bf79-7d87046adaee"
+      ]
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Gorm_the_Old",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Gorm_the_Old",
+    "sourceNote": "Basic card for the early Danish royal line.",
+    "notes": "Early king of Denmark and father of Harald Bluetooth.",
+    "createdDate": "20260823",
+    "createdOrder": 71
+  },
+  {
+    "id": "c1020000-0000-4000-8000-000000000000",
+    "firstName": "Harald",
+    "lastName": "of Denmark",
+    "displayName": "Harald II of Denmark",
+    "fullName": "Harald II of Denmark",
+    "displayNameCn": "丹麦的哈拉尔二世",
+    "fullNameCn": "丹麦国王哈拉尔二世",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 994,
+    "deathYear": 1018,
+    "birthPlace": "Denmark",
+    "birthPlaceCn": "丹麦",
+    "deathPlace": "Denmark",
+    "deathPlaceCn": "丹麦",
+    "gender": "male",
+    "dynasty": "Knýtlinga dynasty",
+    "house": "House of Knýtlinga",
+    "culture": "Danish",
+    "faith": "Catholic",
+    "primaryTitle": "King of Denmark",
+    "primaryTitleCn": "丹麦国王",
+    "titles": [
+      {
+        "title": "King of Denmark",
+        "titleCn": "丹麦国王",
+        "startYear": 1014,
+        "endYear": 1018
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 45,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "01da1402-5d85-4186-859a-34f8cb06182d",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Harald_II_of_Denmark",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Harald_II_of_Denmark",
+    "sourceNote": "Basic card for the early Danish royal line.",
+    "notes": "Succeeded Sweyn Forkbeard in Denmark before Cnut's accession.",
+    "createdDate": "20260823",
+    "createdOrder": 72
+  },
+  {
+    "id": "c1021000-0000-4000-8000-000000000000",
+    "firstName": "Magnus",
+    "lastName": "of Norway",
+    "displayName": "Magnus the Good",
+    "fullName": "Magnus the Good, King of Norway",
+    "displayNameCn": "善良的马格努斯",
+    "fullNameCn": "挪威国王善良的马格努斯",
+    "nickname": "the Good",
+    "nicknameCn": "善良",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1024,
+    "deathYear": 1047,
+    "birthPlace": "Norway",
+    "birthPlaceCn": "挪威",
+    "deathPlace": "Denmark",
+    "deathPlaceCn": "丹麦",
+    "gender": "male",
+    "dynasty": "Fairhair dynasty",
+    "house": "House of Fairhair",
+    "culture": "Norwegian",
+    "faith": "Catholic",
+    "primaryTitle": "King of Norway",
+    "primaryTitleCn": "挪威国王",
+    "titles": [
+      {
+        "title": "King of Denmark",
+        "titleCn": "丹麦国王",
+        "startYear": 1042,
+        "endYear": 1047
+      },
+      {
+        "title": "King of Norway",
+        "titleCn": "挪威国王",
+        "startYear": 1035,
+        "endYear": 1047
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 60,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Magnus_the_Good",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Magnus_the_Good",
+    "sourceNote": "Basic card for the Norwegian transition in the Danish royal line.",
+    "notes": "Norwegian king who also held Denmark after Harthacnut; not an Estridsen agnate.",
+    "createdDate": "20260823",
+    "createdOrder": 73
+  },
+  {
+    "id": "c1022000-0000-4000-8000-000000000000",
+    "firstName": "Estrid",
+    "lastName": "Svendsdatter",
+    "displayName": "Estrid Svendsdatter",
+    "fullName": "Estrid Svendsdatter",
+    "displayNameCn": "埃斯特丽德·斯文斯多蒂尔",
+    "fullNameCn": "埃斯特丽德·斯文斯多蒂尔",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 990,
+    "deathYear": 1057,
+    "birthPlace": "Denmark",
+    "birthPlaceCn": "丹麦",
+    "deathPlace": "Denmark",
+    "deathPlaceCn": "丹麦",
+    "gender": "female",
+    "dynasty": "Knýtlinga dynasty",
+    "house": "House of Knýtlinga",
+    "culture": "Danish",
+    "faith": "Catholic",
+    "primaryTitle": "Danish princess",
+    "primaryTitleCn": "丹麦公主",
+    "titles": [],
+    "tags": [
+      "noble"
+    ],
+    "rank": "noble",
+    "importanceScore": 55,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "01da1402-5d85-4186-859a-34f8cb06182d",
+      "motherId": "",
+      "spouseIds": [
+        "c1023000-0000-4000-8000-000000000000"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "c1024000-0000-4000-8000-000000000000"
+      ]
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Estrid_Svendsdatter",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Estrid_Svendsdatter",
+    "sourceNote": "Basic maternal link for the Estridsen royal succession.",
+    "notes": "Daughter of Sweyn Forkbeard; the Estridsen kings' Knýtlinga legitimacy passed through her.",
+    "createdDate": "20260823",
+    "createdOrder": 74
+  },
+  {
+    "id": "c1023000-0000-4000-8000-000000000000",
+    "firstName": "Ulf",
+    "lastName": "Thorgilsson",
+    "displayName": "Ulf Thorgilsson",
+    "fullName": "Ulf Thorgilsson, Jarl of Denmark",
+    "displayNameCn": "乌尔夫·索吉尔松",
+    "fullNameCn": "丹麦雅尔乌尔夫·索吉尔松",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 990,
+    "deathYear": 1026,
+    "birthPlace": "Denmark",
+    "birthPlaceCn": "丹麦",
+    "deathPlace": "Denmark",
+    "deathPlaceCn": "丹麦",
+    "gender": "male",
+    "dynasty": "Unknown dynasty",
+    "house": "House of Thorgil",
+    "culture": "Danish",
+    "faith": "Catholic",
+    "primaryTitle": "Jarl of Denmark",
+    "primaryTitleCn": "丹麦雅尔",
+    "titles": [],
+    "tags": [
+      "noble"
+    ],
+    "rank": "noble",
+    "importanceScore": 52,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "c1022000-0000-4000-8000-000000000000"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "c1024000-0000-4000-8000-000000000000"
+      ]
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Ulf,_Earl_of_Denmark",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Ulf,_Earl_of_Denmark",
+    "sourceNote": "Basic paternal link for the Estridsen royal succession.",
+    "notes": "Father of Sweyn II; his house is kept distinct from Estrid's Knýtlinga descent.",
+    "createdDate": "20260823",
+    "createdOrder": 75
+  },
+  {
+    "id": "c1024000-0000-4000-8000-000000000000",
+    "firstName": "Sweyn",
+    "lastName": "Estridsen",
+    "displayName": "Sweyn II Estridsen",
+    "fullName": "Sweyn II Estridsen, King of Denmark",
+    "displayNameCn": "斯温二世·埃斯特里森",
+    "fullNameCn": "丹麦国王斯温二世·埃斯特里森",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1019,
+    "deathYear": 1076,
+    "birthPlace": "Denmark",
+    "birthPlaceCn": "丹麦",
+    "deathPlace": "Denmark",
+    "deathPlaceCn": "丹麦",
+    "gender": "male",
+    "dynasty": "Estridsen dynasty",
+    "house": "House of Estridsen",
+    "culture": "Danish",
+    "faith": "Catholic",
+    "primaryTitle": "King of Denmark",
+    "primaryTitleCn": "丹麦国王",
+    "titles": [
+      {
+        "title": "King of Denmark",
+        "titleCn": "丹麦国王",
+        "startYear": 1047,
+        "endYear": 1074
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 65,
+    "historicalRating": 7,
+    "relationships": {
+      "fatherId": "c1023000-0000-4000-8000-000000000000",
+      "motherId": "c1022000-0000-4000-8000-000000000000",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "c1025000-0000-4000-8000-000000000000",
+        "c9910000-0000-4000-8000-000000000000"
+      ]
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Sweyn_II_of_Denmark",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Sweyn_II_of_Denmark",
+    "sourceNote": "Basic card for the Estridsen royal line.",
+    "notes": "Took the throne through his mother Estrid, daughter of Sweyn Forkbeard; his paternal house remained Ulf's line.",
+    "createdDate": "20260823",
+    "createdOrder": 76
+  },
+  {
+    "id": "c1025000-0000-4000-8000-000000000000",
+    "firstName": "Harald",
+    "lastName": "Hen",
+    "displayName": "Harald III Hen",
+    "fullName": "Harald III Hen, King of Denmark",
+    "displayNameCn": "哈拉尔三世·亨",
+    "fullNameCn": "丹麦国王哈拉尔三世·亨",
+    "nickname": "Hen",
+    "nicknameCn": "亨",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1040,
+    "deathYear": 1080,
+    "birthPlace": "Denmark",
+    "birthPlaceCn": "丹麦",
+    "deathPlace": "Denmark",
+    "deathPlaceCn": "丹麦",
+    "gender": "male",
+    "dynasty": "Estridsen dynasty",
+    "house": "House of Estridsen",
+    "culture": "Danish",
+    "faith": "Catholic",
+    "primaryTitle": "King of Denmark",
+    "primaryTitleCn": "丹麦国王",
+    "titles": [
+      {
+        "title": "King of Denmark",
+        "titleCn": "丹麦国王",
+        "startYear": 1074,
+        "endYear": 1080
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 48,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "c1024000-0000-4000-8000-000000000000",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Harald_III_of_Denmark",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Harald_III_of_Denmark",
+    "sourceNote": "Basic card for the Estridsen royal line.",
+    "notes": "Succeeded Sweyn II before his brother Canute IV.",
+    "createdDate": "20260823",
+    "createdOrder": 77
+  }
+]
