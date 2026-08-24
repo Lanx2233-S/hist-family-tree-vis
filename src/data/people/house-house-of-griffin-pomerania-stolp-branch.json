@@ -1,0 +1,153 @@
+[
+  {
+    "id": "3d649463-db70-4d0a-820f-729ab52ae382",
+    "firstName": "Elisabeth",
+    "lastName": "",
+    "displayName": "Elisabeth of Pomerania",
+    "fullName": "Elisabeth of Pomerania",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Elizabeth of Pomerania",
+      "Elisabeth von Pommern",
+      "Eliška Pomořanská"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "波美拉尼亚的伊丽莎白",
+    "fullNameCn": "波美拉尼亚的伊丽莎白",
+    "nicknameCn": "",
+    "birthYear": 1347,
+    "deathYear": 1393,
+    "birthPlace": "",
+    "birthPlaceCn": "",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "female",
+    "dynasty": "Griffin dynasty",
+    "house": "House of Griffin, Pomerania-Stolp branch",
+    "culture": "Pomeranian-German",
+    "faith": "Catholic",
+    "primaryTitle": "Holy Roman Empress",
+    "primaryTitleCn": "神圣罗马帝国皇后",
+    "titles": [
+      {
+        "title": "Queen consort of Bohemia",
+        "titleCn": "波希米亚王后",
+        "startYear": 1363,
+        "endYear": 1378
+      },
+      {
+        "title": "Queen consort of Germany",
+        "titleCn": "德意志王后",
+        "startYear": 1363,
+        "endYear": 1378
+      },
+      {
+        "title": "Holy Roman Empress",
+        "titleCn": "神圣罗马帝国皇后",
+        "startYear": 1368,
+        "endYear": 1378
+      }
+    ],
+    "tags": [
+      "empress",
+      "consort",
+      "noble"
+    ],
+    "rank": "empress",
+    "importanceScore": 56,
+    "historicalRating": 4,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "80b3801a-ffca-4136-ba92-293b6b976e85"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "d8867112-cd68-4100-91e2-f42de19d273c",
+        "7b1aea91-a048-4a69-bacd-b6f0358bf573",
+        "e4bd0a31-88d2-49be-a3b1-b8a932c733fd"
+      ]
+    },
+    "events": [
+      {
+        "year": 1363,
+        "month": 5,
+        "day": 21,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 90,
+        "label": "Married Charles IV at Kraków",
+        "labelCn": "在克拉科夫与查理四世结婚",
+        "wikiUrl": "https://www.deutsche-biographie.de/gnd189559918.html",
+        "note": "Charles IV's fourth marriage linked the Luxembourg monarchy with the Griffin dynasty of Pomerania and, through Elisabeth's mother, the Polish Piast royal family."
+      },
+      {
+        "year": 1363,
+        "month": 6,
+        "day": 18,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "queen"
+        ],
+        "weight": 80,
+        "label": "Was crowned Queen of Bohemia at Prague",
+        "labelCn": "在布拉格加冕为波希米亚王后",
+        "wikiUrl": "https://www.deutsche-biographie.de/gnd189559918.html",
+        "note": "Elisabeth received the Bohemian royal coronation shortly after her marriage to Charles IV."
+      },
+      {
+        "year": 1368,
+        "month": 2,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "dynasty"
+        ],
+        "weight": 100,
+        "label": "Gave birth to the future emperor Sigismund",
+        "labelCn": "生下后来成为皇帝的西吉斯蒙德",
+        "wikiUrl": "https://www.deutsche-biographie.de/gnd189559918.html",
+        "note": "Her son Sigismund later became King of Hungary and Bohemia, King of the Romans and Holy Roman Emperor. Sources differ by one day on the exact February birth date, so only the month is retained."
+      },
+      {
+        "year": 1368,
+        "month": 11,
+        "day": 1,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "queen"
+        ],
+        "weight": 95,
+        "label": "Was crowned Holy Roman Empress at Rome",
+        "labelCn": "在罗马加冕为神圣罗马帝国皇后",
+        "wikiUrl": "https://www.deutsche-biographie.de/gnd189559918.html",
+        "note": "Pope Urban V crowned Elisabeth empress in Rome. Unlike her Bohemian coronation, no separate Aachen coronation as Roman-German queen is securely attested."
+      },
+      {
+        "year": 1393,
+        "type": "death",
+        "tags": [
+          "death",
+          "queen"
+        ],
+        "weight": 60,
+        "label": "Died after surviving Charles IV by fifteen years",
+        "labelCn": "在查理四世去世十五年后逝世",
+        "wikiUrl": "https://www.deutsche-biographie.de/gnd189559918.html",
+        "note": "Elisabeth survived Charles IV and remained the mother of the important Luxembourg princes Sigismund and John of Görlitz until her death in 1393."
+      }
+    ],
+    "wikiUrl": "https://www.deutsche-biographie.de/gnd189559918.html",
+    "portraitUrl": "",
+    "sourceUrl": "https://www.deutsche-biographie.de/gnd189559918.html",
+    "sourceNote": "Deutsche Biographie, 'Elisabeth von Pommern'; Biografický slovník českých zemí, entry on Eliška Pomořanská; modern scholarship on Charles IV and Luxembourg queenship; Pomeranian Griffin genealogical studies.",
+    "notes": "Elisabeth was Charles IV's fourth wife and the mother of Sigismund and John of Görlitz. Through Sigismund she became the ancestress of the final ruling generation of the imperial Luxembourg dynasty.\n\nConfidence / caveats: Her marriage date is given as 21 May 1363 in German and Czech biographical scholarship, while some popular references use 25 May. She was styled Roman-German queen by marriage but no separate Aachen coronation is securely attested. Her exact death date and place are inconsistently transmitted, with Prague and Hradec Králové both appearing in secondary literature; only the secure year 1393 is recorded.\n\nUnlinked family: Bogislaw V, Duke of Pomerania (not uniquely matched in the roster); Elisabeth of Poland (not uniquely matched in the roster); Charles of Bohemia (not uniquely matched in the roster); Margaret of Bohemia (not uniquely matched in the roster); Henry of Bohemia (not uniquely matched in the roster).",
+    "createdDate": "20260823"
+  }
+]

@@ -1,0 +1,176 @@
+[
+  {
+    "id": "b8021578-265a-4118-b4e2-1b7631092317",
+    "firstName": "Anna",
+    "lastName": "",
+    "displayName": "Anna of Świdnica",
+    "fullName": "Anna of Świdnica",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Anna of Schweidnitz",
+      "Anna von Schweidnitz",
+      "Anna Świdnicka"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "希维德尼察的安娜",
+    "fullNameCn": "希维德尼察的安娜",
+    "nicknameCn": "",
+    "birthYear": 1339,
+    "deathYear": 1362,
+    "birthPlace": "",
+    "birthPlaceCn": "",
+    "deathPlace": "Prague, Kingdom of Bohemia",
+    "deathPlaceCn": "波希米亚王国布拉格",
+    "gender": "female",
+    "dynasty": "Piast dynasty",
+    "house": "Silesian Piasts, Świdnica-Jawor branch",
+    "culture": "Silesian-Polish",
+    "faith": "Catholic",
+    "primaryTitle": "Holy Roman Empress",
+    "primaryTitleCn": "神圣罗马帝国皇后",
+    "titles": [
+      {
+        "title": "Queen consort of Bohemia",
+        "titleCn": "波希米亚王后",
+        "startYear": 1353,
+        "endYear": 1362
+      },
+      {
+        "title": "Queen consort of Germany",
+        "titleCn": "德意志王后",
+        "startYear": 1354,
+        "endYear": 1362
+      },
+      {
+        "title": "Holy Roman Empress",
+        "titleCn": "神圣罗马帝国皇后",
+        "startYear": 1355,
+        "endYear": 1362
+      }
+    ],
+    "tags": [
+      "empress",
+      "consort",
+      "noble"
+    ],
+    "rank": "empress",
+    "importanceScore": 67,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "80b3801a-ffca-4136-ba92-293b6b976e85"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "3d893516-a8da-469f-a546-67c603ec62e2"
+      ]
+    },
+    "events": [
+      {
+        "year": 1353,
+        "month": 5,
+        "day": 27,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 100,
+        "label": "Married Charles IV at Buda",
+        "labelCn": "在布达与查理四世结婚",
+        "wikiUrl": "https://www.deutsche-biographie.de/gnd136828868.html",
+        "note": "Anna had previously been intended for Charles IV's young son Wenceslaus. After the child's death and the death of Charles's second wife, Charles himself married the Silesian Piast heiress, strengthening Bohemian claims to Świdnica-Jawor."
+      },
+      {
+        "year": 1353,
+        "month": 7,
+        "day": 28,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "queen"
+        ],
+        "weight": 85,
+        "label": "Was crowned Queen of Bohemia",
+        "labelCn": "加冕为波希米亚王后",
+        "wikiUrl": "https://www.deutsche-biographie.de/gnd136828868.html",
+        "note": "Anna was crowned at Prague shortly after her marriage to Charles IV."
+      },
+      {
+        "year": 1354,
+        "month": 2,
+        "day": 9,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "queen"
+        ],
+        "weight": 85,
+        "label": "Was crowned Queen of Germany at Aachen",
+        "labelCn": "在亚琛加冕为德意志王后",
+        "wikiUrl": "https://www.deutsche-biographie.de/gnd136828868.html",
+        "note": "Anna received the Roman-German queenship coronation at Aachen before accompanying Charles on the imperial expedition."
+      },
+      {
+        "year": 1355,
+        "month": 4,
+        "day": 5,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "queen"
+        ],
+        "weight": 95,
+        "label": "Was crowned Holy Roman Empress at Rome",
+        "labelCn": "在罗马加冕为神圣罗马帝国皇后",
+        "wikiUrl": "https://www.deutsche-biographie.de/gnd136828868.html",
+        "note": "Anna was crowned empress in Rome together with Charles IV."
+      },
+      {
+        "year": 1361,
+        "month": 2,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "dynasty"
+        ],
+        "weight": 100,
+        "label": "Gave birth to the future Wenceslaus IV",
+        "labelCn": "生下后来成为瓦茨拉夫四世的继承人",
+        "wikiUrl": "https://www.deutsche-biographie.de/gnd136828868.html",
+        "note": "Anna gave birth at Nuremberg to Wenceslaus, Charles IV's long-awaited surviving son and future King of Bohemia and King of the Romans."
+      },
+      {
+        "year": 1362,
+        "month": 7,
+        "day": 11,
+        "type": "death",
+        "tags": [
+          "death",
+          "queen"
+        ],
+        "weight": 85,
+        "label": "Died in childbirth at Prague",
+        "labelCn": "在布拉格分娩时去世",
+        "wikiUrl": "https://www.deutsche-biographie.de/gnd136828868.html",
+        "note": "Anna died while giving birth to another child, who also did not survive. Her son Wenceslaus remained Charles IV's principal male heir."
+      }
+    ],
+    "wikiUrl": "https://www.deutsche-biographie.de/gnd136828868.html",
+    "portraitUrl": "",
+    "sourceUrl": "https://www.deutsche-biographie.de/gnd136828868.html",
+    "sourceNote": "Deutsche Biographie Online, 'Anna von Schweidnitz'; German and Czech scholarship on Charles IV; studies of the Świdnica-Jawor succession and Silesian Piasts; imperial coronation records.",
+    "notes": "Anna was both Charles IV's third wife and a key Silesian dynastic heiress. Her marriage strengthened the path by which Świdnica-Jawor eventually entered the Bohemian Crown, while her son Wenceslaus IV secured Charles's immediate male succession.\n\nConfidence / caveats: Her birth year is approximate. The Świdnica-Jawor inheritance did not pass into direct Bohemian possession immediately upon the marriage: Anna's uncle Bolko II retained effective possession until his death in 1368. Her final child died in connection with the fatal 1362 childbirth and is not separately named in familyByName because the sources do not provide a stable identity.\n\nUnlinked family: Henry II, Duke of Świdnica (not uniquely matched in the roster); Catherine of Hungary (not uniquely matched in the roster).",
+    "createdDate": "20260823",
+    "deathCause": {
+      "kind": "normal",
+      "summary": "died in childbirth",
+      "summaryCn": "死于分娩",
+      "detail": "died in childbirth",
+      "detailCn": "死于分娩",
+      "wikiUrl": "https://www.deutsche-biographie.de/gnd136828868.html"
+    }
+  }
+]

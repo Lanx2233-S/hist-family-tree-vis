@@ -1299,6 +1299,12 @@ Split by responsibility and keep data, derived presentation, interaction state, 
 
 - `npm run data:build` 通过（492 人）；丹麦相关 13 人的已记录亲属／婚姻关系双向检查通过。
 
+## 2026-08-23：卢森堡研究暂存区入库
+
+- 处理 13 条卢森堡相关研究记录：新增 12 人，复用既有 John of Bohemia；新卡按 Luxembourg、Bar、Avesnes、Leuven、Přemyslid、Piast 与 Griffin 等正式 house 文件归档。
+- 补回 Henry V→Henry VI→Henry VII、Henry VII—Margaret of Brabant→John of Bohemia、John—Elisabeth of Bohemia→Charles IV／John Henry、Moravian、Charles IV 后代与 Görlitz 支系的可唯一确认关系；保留未能唯一匹配亲属的 `Unlinked family` 说明。
+- John of Bohemia 保留原 UUID 并合并暂存 events；卢森堡主线接入既有 Henry VII、Charles IV、Wenceslaus IV 与 Sigismund 卡。暂存区用户粘贴内容已清空，格式说明与 Eleanor 示例保留。
+
 ## 2026-08-23：善良的查理与埃斯特里德森王朝
 
 - Charles the Good（善良的查理）修正为 `House of Estridsen / 埃斯特里德森王朝`；他是丹麦王克努特四世之子，而不是佛兰德伯爵家族成员。其佛兰德伯爵头衔保持不变。
@@ -1332,6 +1338,17 @@ Split by responsibility and keep data, derived presentation, interaction state, 
 ## 2026-08-23：卡斯蒂利亚 Title Page 正式入口
 
 - 将 `Kingdom of Castile / 卡斯蒂利亚王国` 标为 Title Page 默认展示的正式入口；同时保留在 Kingdoms 目录分区及按 1037 的排序。
+
+## 2026-08-23：波希米亚普热米斯尔主线与卢森堡过渡
+
+- 新增 21 张基础卡：Vratislaus II 至 John of Bohemia；Karl IV 复用既有卡。低星人物保留精简事件，较高星人物补充相应继位、战争、外交与死亡事件。
+- 扩展 `Kingdom of Bohemia / 波希米亚王国` 主链：1061 起先为 `Duchy of Bohemia / 波希米亚公国`，1198 年 Ottokar I 后转为世袭王国；1306 年普热米斯尔男性直系结束，经 Rudolf I（Habsburg）、Henry of Carinthia（Gorizia）过渡至 John（Luxembourg），末端接已有 Karl IV、Wenceslaus IV、Sigismund。
+- 仅建立明确父子关系：Vratislaus II 的四名子女、Vladislaus II→Frederick/Ottokar I、Ottokar I→Wenceslaus I→Ottokar II→Wenceslaus II→Wenceslaus III，以及 Heinrich VII→John→Karl IV；未为争议或不确定关系猜接亲属。
+
+### 验收
+
+- `npm run data:build`（584 人）与 `npm run build` 通过；本任务涉及文件的 `git diff --check` 通过。
+- 全局 `git diff --check` 仍报告并行改动的 `temporary-person-research.md:1958` 文件末尾空行，未擅自改动该范围外文件。
 
 ## 2026-08-23：Dynasty／House 全库规范
 
@@ -1515,3 +1532,107 @@ Split by responsibility and keep data, derived presentation, interaction state, 
 
 - 上调：施瓦本的腓特烈六世、勃艮第的奥托一世为 6★，分别补入两条非出生／死亡事件。
 - 下调：贝阿特丽斯、腓特烈五世、阿格妮丝为 4★；姓名存疑或仅见幼年记录的朱迪丝、雷纳尔德、威廉为 3★；施瓦本的康拉德二世保持 5★。
+
+## 2026-08-23：波希米亚王国 title 主链
+
+- 新建 `Kingdom of Bohemia / 波希米亚王国` title 主链，归入 Title Page 的 Kingdoms 分区，按 1346 起始排序。
+- 复用既有卢森堡王朝人物卡：Karl IV（1346–1378）→ Wenceslaus IV（1378–1419）→ Sigismund（1419–1437），不新建人物。
+- 每位 holder 附 1–2 句双语备注；未改动人物数据，未新建其它 title。
+
+### 验收
+
+- `npm run build`、`git diff --check` 通过。
+
+## 2026-08-23：瓦茨拉夫二世人物卡校正
+
+- 修正 1291 年事件：为取得克拉科夫公国与小波兰，非加冕波兰国王；波兰王加冕保留在 1300 年格涅兹诺。
+- 补全其 1278–1305 的统治、波兰王位、矿业与币制改革、匈牙利继承布局及 1305 年逝世时间线；增列克拉科夫公爵与波兰国王头衔，并以「很可能肺结核」记录不确定死因。
+- 历史重要度由 7★调整为 8★；回填其与既有女儿 Elisabeth of Bohemia 的双向父女关系。
+
+## 2026-08-23：卢森堡未链接亲属低星补录
+
+- 仅按既有本地 notes 资料新增 3 张低星基础卡：利尼领主瓦勒兰一世（3★）、卢森堡的瓦勒兰（2★）和布拉班特的威廉（1★）；未补充事件或外部研究。
+- 完成 6 条父母—子女关系的双向回填，并从相应 `Unlinked family` 段删除已 UUID 化姓名；其余高重要度或身份/年代无法唯一判定者继续保留未链接说明。
+- 已同步 manifest、生成索引与人物录入日志。
+
+## 2026-08-23：维特尔斯巴赫下巴伐利亚支系补录
+
+- 新增 7 张基础人物卡：Henry XIII、Otto III、Stephen I、Henry XV、Henry XIV、Otto IV、John I；按星级配置核心继承、分治、共治与死亡事件。
+- 回填 Otto II 的莱茵行宫伯爵头衔及 5 条关键事件；复用既有 Louis II、Louis IV 与 Otto II 卡，不重复建卡。
+- 建立 Otto II → Henry XIII → Otto III/Stephen I 及两支后代的双向父子树；下巴伐利亚仅作为人物身份与事件记录，未新增或展示独立 title 链。
+
+### 验收
+
+- `npm run data:build`、`npm run build` 通过；manifest、entry log、生成数据已同步。
+
+## 2026-08-23：维特尔斯巴赫普法尔茨与巴伐利亚分支补录
+
+- 新增 Rudolf I, Count Palatine of the Rhine、Frederick of Bavaria-Landshut、John II of Bavaria-Munich 三张 6★人物卡。
+- 复用 Louis II 与 Stephen II，分别回填 Rudolf I、Frederick、John II 的父子关系；三张新卡分置普法尔茨、兰茨胡特、慕尼黑支系 house 文件。
+- Rudolf I 卡注明 1329 年《帕维亚条约》发生在其身后，由其子辈落实；未新增额外 title page 链。
+
+### 验收
+
+- `npm run data:build` 通过（609 人、106 文件）；entry log、manifest、生成数据已同步。
+
+## 2026-08-23：早期哈布斯堡与奥地利公国主链
+
+- 在正式 `house-house-of-habsburg.json` 中新增 10 张早期哈布斯堡人物卡，复用 Rudolf I、Albert I、Albert V（奥地利阶段）与 Frederick III。
+- 双向回填 Rudolf I → Rudolf II / Albert I → Frederick the Fair、Albert II the Wise、Otto the Merry → Albertinian 与 Leopoldian 两支 → Ladislaus；Ladislaus 与 Frederick III 不建立父子关系。
+- 新建并登记 `Duchy of Austria / 奥地利公国`，覆盖 1282 年哈布斯堡取得奥地利、1358 年 Rudolf IV、1365 年兄弟共治、1392/1395 分支变化及 1457 年转入 Frederick III 的传承。
+
+### 验收
+
+- `npm run data:build`、`npm run build`、`git diff --check` 通过；manifest、entry log、生成数据已同步。
+
+## 2026-08-23：早期哈布斯堡新增卡死因补全
+
+- 为本批新增的 10 张早期哈布斯堡人物卡补入结构化 `deathCause`；对史料未确定者保留“疾病/自然原因/具体病因不明”的谨慎表述，Leopold III 标为森帕赫战役阵亡。
+- Ladislaus 的中毒传闻明确标为未证实，未写成确定死因。
+- `npm run data:build`、`npm run build`、`git diff --check` 通过。
+
+## 2026-08-23：早期科穆宁两条支线与拜占庭帝国头衔链
+
+- 新增 Alexios I、John II、Manuel I、Isaac Komnenos、John Komnenos（塞浦路斯总督）5 张科穆宁人物卡，归档至 `House of Komnenos`。
+- 将既有 Maria Komnene 从安茹 house 归入科穆宁 house，回填 John of Cyprus → Maria 的双向父女关系，并保留其耶路撒冷婚姻网络。
+- 新建 `Byzantine Empire / 拜占庭帝国`，仅登记 Alexios I → John II → Manuel I 三位皇帝；Isaac、John of Cyprus、Maria 保留为家系支线。
+
+### 验收
+
+- `npm run data:build`、`npm run build`、`git diff --check` 通过；manifest、index、entry log、生成数据已同步。
+
+## 2026-08-23：首页拜占庭入口
+
+- 首页第五个 Realm 入口改为可点击的拜占庭帝国入口，指向 Alexios I Komnenos（`1ce160f2-c91e-4a3c-9c39-01f49c7c221e`）。
+- 沿用既有紫红底色、白字、翻页与人物卡机制；中英文分别显示拜占庭名称、阿莱克修斯一世/ Alexios I、拜占庭皇帝与 1081–1118 年。
+
+## 2026-08-24：TitlePage 拜占庭固定排序
+
+- TitlePage 主列表前五项固定为：Kingdom of England、Kingdom of France、Holy Roman Empire、Byzantine Empire、Kingdom of Castile；拜占庭帝国位于第 4 行。
+
+## 2026-08-24：科穆宁三代皇帝详情补全
+
+- Alexios I、John II、Manuel I 的时间线分别扩展为 12、10、14 条核心事件，并补全别名、地点、史实说明与结构化死因。
+- 可可靠确定的事件写入年月日；史料只支持年月或年份者保留相应精度并在事件注记说明，未伪造具体日期。
+- `npm run data:build`、`npm run build`、`git diff --check` 通过。
+
+## 2026-08-24：拜占庭帝国主列表可见性
+
+- 拜占庭帝国改为 TitlePage 主列表默认可见的第 4 项，并保留在头衔目录的帝国／王国分区内。
+
+## 2026-08-24：福卡斯与齐米斯凯斯的婚姻关系
+
+- 新增狄奥法诺（Theophano，8★）与君士坦丁七世之女狄奥多拉（5★），分别连接罗曼努斯二世—尼基弗鲁斯二世及约翰一世的皇室婚姻。
+- 回填巴西尔二世、君士坦丁八世的母系，并清理已落库亲属的 `Unlinked family` 占位；匿名首任配偶等未确证关系继续保留为未链接说明。
+
+## 2026-08-24：巴西尔一世至阿莱克修斯一世拜占庭人物入库
+
+- 新增 23 张拜占庭人物卡，按马其顿、莱卡佩诺斯、福卡斯、齐米斯凯斯、杜卡斯等家族分别归档；既有阿莱克修斯一世仅合并非冲突资料。
+- 皇帝头衔链向前延伸至867年的巴西尔一世；佐伊、狄奥多拉与欧多基娅以实权统治／摄政节点呈现。
+- 同步更新人物索引、manifest、宗族分类与中英文显示映射。
+
+## 2026-08-24：卡斯蒂利亚王位链扩展
+
+- 新增亨利一世至胡安娜共15张卡斯蒂利亚王室人物卡，覆盖伊比利亚勃艮第支至特拉斯塔马拉支。
+- 王位链延伸至1555年；腓力一世与卡尔五世分别作为胡安娜的婚姻共治者与共同君主呈现。
+- 1516年起名称改为卡斯蒂利亚王冠，以体现其进入西班牙复合君主制后仍保留制度与王号。

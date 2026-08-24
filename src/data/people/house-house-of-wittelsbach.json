@@ -492,9 +492,15 @@
     "titles": [
       {
         "title": "Duke of Bavaria",
+        "titleCn": "巴伐利亚公爵",
         "startYear": 1231,
-        "endYear": 1253,
-        "titleCn": "巴伐利亚公爵"
+        "endYear": 1253
+      },
+      {
+        "title": "Count Palatine of the Rhine",
+        "titleCn": "莱茵行宫伯爵",
+        "startYear": 1228,
+        "endYear": 1253
       }
     ],
     "tags": [
@@ -511,7 +517,8 @@
       "partnerIds": [],
       "childIds": [
         "603e7aa9-1520-4412-b6aa-c949cc871d4f",
-        "3f616a00-8e9d-4909-ab0e-32a8c5e6db47"
+        "3f616a00-8e9d-4909-ab0e-32a8c5e6db47",
+        "dfbf7d92-8ea9-4c74-8bff-3afd89f3d128"
       ]
     },
     "events": [
@@ -523,38 +530,57 @@
           "dynastic_alliance"
         ],
         "weight": 76,
-        "label": "Marriage to Agnes of the Palatinate",
+        "label": "Married Agnes of the Palatinate",
         "labelCn": "与普法尔茨的阿格妮丝成婚",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Otto_II,_Duke_of_Bavaria",
-        "note": "Granddaughter of Henry the Lion and Conrad of Hohenstaufen; through this match the Wittelsbachs gained the Palatinate."
+        "wikiUrl": "https://en.wikipedia.org/wiki/Otto_II,_Duke_of_Bavaria"
+      },
+      {
+        "year": 1228,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "territory"
+        ],
+        "weight": 82,
+        "label": "Became Count Palatine of the Rhine",
+        "labelCn": "成为莱茵行宫伯爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Otto_II,_Duke_of_Bavaria"
       },
       {
         "year": 1231,
         "type": "succession",
         "tags": [
           "succession",
-          "title",
-          "noble"
+          "title"
         ],
-        "weight": 76,
+        "weight": 80,
         "label": "Succeeded as Duke of Bavaria",
-        "labelCn": "继位为巴伐利亚公爵",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Otto_II,_Duke_of_Bavaria",
-        "note": "Succeeded his father Louis I as Duke of Bavaria and Count Palatine of the Rhine."
+        "labelCn": "继任巴伐利亚公爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Otto_II,_Duke_of_Bavaria"
+      },
+      {
+        "year": 1246,
+        "type": "diplomacy",
+        "tags": [
+          "diplomacy",
+          "dynastic_alliance"
+        ],
+        "weight": 78,
+        "label": "Married his daughter Elisabeth to Conrad IV",
+        "labelCn": "将女儿伊丽莎白嫁给康拉德四世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Otto_II,_Duke_of_Bavaria"
       },
       {
         "year": 1253,
-        "month": 11,
-        "day": 29,
         "type": "death",
         "tags": [
-          "death"
+          "death",
+          "religion"
         ],
-        "weight": 64,
-        "label": "Death",
-        "labelCn": "去世",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Otto_II,_Duke_of_Bavaria",
-        "note": "Died at Landshut; buried in the crypt of Scheyern Abbey."
+        "weight": 78,
+        "label": "Died under ecclesiastical ban",
+        "labelCn": "受教会禁令期间去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Otto_II,_Duke_of_Bavaria"
       }
     ],
     "wikiUrl": "https://en.wikipedia.org/wiki/Otto_II,_Duke_of_Bavaria",
@@ -612,7 +638,8 @@
       "spouseIds": [],
       "partnerIds": [],
       "childIds": [
-        "02a7f7ff-44ee-4cf7-b770-fe1ea9a59893"
+        "02a7f7ff-44ee-4cf7-b770-fe1ea9a59893",
+        "9d0fbaca-2e34-43ba-9082-1c737627212a"
       ]
     },
     "events": [
@@ -713,7 +740,9 @@
       "spouseIds": [],
       "partnerIds": [],
       "childIds": [
-        "7f383104-7d38-4dd0-a109-dd1c9caa48ec"
+        "7f383104-7d38-4dd0-a109-dd1c9caa48ec",
+        "b867f239-ba20-4bf0-97b7-426929b771e7",
+        "48f1c061-7a7c-4fc1-8a6b-cb6f5234cda5"
       ]
     },
     "events": [

@@ -1,0 +1,115 @@
+[
+  {
+    "id": "c7a1c16c-094a-4f47-a055-b536cb722d98",
+    "firstName": "Michael",
+    "lastName": "VI Bringas",
+    "displayName": "Michael VI Bringas",
+    "fullName": "Michael VI Bringas, Byzantine Emperor",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [
+      "Michael VI",
+      "Michael Stratiotikos",
+      "Michael the Old",
+      "Μιχαὴλ ΣΤʹ Βρίγγας"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "米海尔六世·布林加斯",
+    "fullNameCn": "拜占庭皇帝米海尔六世·布林加斯",
+    "birthYear": "",
+    "deathYear": "",
+    "birthPlace": "",
+    "birthPlaceCn": "",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "Bringas",
+    "house": "Bringas family",
+    "culture": "Byzantine",
+    "faith": "Eastern Orthodox",
+    "primaryTitle": "Byzantine Emperor",
+    "primaryTitleCn": "拜占庭皇帝",
+    "titles": [
+      {
+        "title": "Logothetes tou stratiotikou",
+        "titleCn": "军务财政官",
+        "startYear": null,
+        "endYear": 1056
+      },
+      {
+        "title": "Byzantine Emperor",
+        "titleCn": "拜占庭皇帝",
+        "startYear": 1056,
+        "endYear": 1057
+      }
+    ],
+    "tags": [
+      "monarch",
+      "emperor"
+    ],
+    "rank": "emperor",
+    "importanceScore": 60,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1056,
+        "month": 8,
+        "day": 22,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 100,
+        "label": "Was proclaimed emperor as Theodora lay dying",
+        "labelCn": "狄奥多拉病危时被拥立为皇帝",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Michael_VI_Bringas",
+        "note": "Court officials selected Michael Bringas and had him proclaimed emperor while Theodora was gravely ill. Narrative sources disagree over how freely Theodora herself approved the choice."
+      },
+      {
+        "year": 1057,
+        "month": 6,
+        "day": 8,
+        "type": "rebellion",
+        "tags": [
+          "rebellion",
+          "political_crisis"
+        ],
+        "weight": 95,
+        "label": "Faced the military revolt led by Isaac Komnenos",
+        "labelCn": "面对伊萨克·科穆宁领导的军事贵族叛乱",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Michael_VI_Bringas",
+        "note": "Alienated eastern commanders rallied around Isaac Komnenos, who was proclaimed emperor in Anatolia."
+      },
+      {
+        "year": 1057,
+        "month": 8,
+        "day": 20,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "defeat"
+        ],
+        "weight": 100,
+        "label": "His loyalist army was defeated at Petroe",
+        "labelCn": "效忠政府的军队在佩特罗埃战役败北",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Michael_VI_Bringas",
+        "note": "The defeat near Nicaea opened the route to Constantinople and destroyed Michael's ability to suppress the military opposition."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Michael_VI_Bringas",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Michael_VI_Bringas",
+    "sourceNote": "Michael Psellos, Chronographia; John Skylitzes, A Synopsis of Byzantine History (Cambridge); Georgios Theotokis and Marek Meško, War in Eleventh-Century Byzantium; Oxford Dictionary of Byzantium; Anthony Kaldellis, Streams of Gold, Rivers of Blood; Wikipedia supplementary chronology.",
+    "notes": "Michael VI was a senior civilian bureaucrat selected at the end of Theodora's reign. His rapid fall to Isaac Komnenos marks the sharp political confrontation between the Constantinopolitan civil establishment and leading Anatolian military families.",
+    "createdDate": "20260824",
+    "createdOrder": 76
+  }
+]

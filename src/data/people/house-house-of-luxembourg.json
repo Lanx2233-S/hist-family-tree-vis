@@ -41,7 +41,7 @@
     "importanceScore": 52,
     "relationships": {
       "fatherId": "",
-      "motherId": "",
+      "motherId": "3d649463-db70-4d0a-820f-729ab52ae382",
       "spouseIds": [
         "6e74e130-3247-425c-b2f2-2c97a5955b8f"
       ],
@@ -140,11 +140,15 @@
     "importanceScore": 70,
     "historicalRating": 7,
     "relationships": {
-      "fatherId": "",
-      "motherId": "",
-      "spouseIds": [],
+      "fatherId": "4c98a079-295a-4554-b6c6-96c8e947cd11",
+      "motherId": "22f4d5e6-90f8-4638-8526-97fb3651f6e1",
+      "spouseIds": [
+        "84961115-416f-4bbf-8bbc-d2313b5e17b2"
+      ],
       "partnerIds": [],
-      "childIds": []
+      "childIds": [
+        "581b42bc-541c-4083-aefb-5dd9e2249430"
+      ]
     },
     "events": [
       {
@@ -246,6 +250,12 @@
     "primaryTitleCn": "神圣罗马帝国皇帝",
     "titles": [
       {
+        "title": "King of Bohemia",
+        "startYear": 1346,
+        "endYear": 1378,
+        "titleCn": "波希米亚国王"
+      },
+      {
         "title": "King of the Romans",
         "startYear": 1346,
         "endYear": 1355,
@@ -267,13 +277,17 @@
     "importanceScore": 80,
     "historicalRating": 8,
     "relationships": {
-      "fatherId": "",
-      "motherId": "",
-      "spouseIds": [],
+      "fatherId": "581b42bc-541c-4083-aefb-5dd9e2249430",
+      "motherId": "895b64a3-721a-4ffe-b19c-22abef67c58e",
+      "spouseIds": [
+        "b8021578-265a-4118-b4e2-1b7631092317",
+        "3d649463-db70-4d0a-820f-729ab52ae382"
+      ],
       "partnerIds": [],
       "childIds": [
         "3d893516-a8da-469f-a546-67c603ec62e2",
-        "7b1aea91-a048-4a69-bacd-b6f0358bf573"
+        "7b1aea91-a048-4a69-bacd-b6f0358bf573",
+        "e4bd0a31-88d2-49be-a3b1-b8a932c733fd"
       ]
     },
     "events": [
@@ -438,6 +452,12 @@
     "primaryTitleCn": "罗马人的国王",
     "titles": [
       {
+        "title": "King of Bohemia",
+        "startYear": 1378,
+        "endYear": 1419,
+        "titleCn": "波希米亚国王"
+      },
+      {
         "title": "King of the Romans",
         "startYear": 1378,
         "endYear": 1400,
@@ -453,7 +473,7 @@
     "historicalRating": 6,
     "relationships": {
       "fatherId": "80b3801a-ffca-4136-ba92-293b6b976e85",
-      "motherId": "",
+      "motherId": "b8021578-265a-4118-b4e2-1b7631092317",
       "spouseIds": [],
       "partnerIds": [],
       "childIds": []
@@ -531,6 +551,12 @@
     "primaryTitleCn": "神圣罗马帝国皇帝",
     "titles": [
       {
+        "title": "King of Bohemia",
+        "startYear": 1419,
+        "endYear": 1437,
+        "titleCn": "波希米亚国王"
+      },
+      {
         "title": "King of the Romans",
         "startYear": 1411,
         "endYear": 1433,
@@ -553,7 +579,7 @@
     "historicalRating": 7,
     "relationships": {
       "fatherId": "80b3801a-ffca-4136-ba92-293b6b976e85",
-      "motherId": "",
+      "motherId": "3d649463-db70-4d0a-820f-729ab52ae382",
       "spouseIds": [],
       "partnerIds": [],
       "childIds": []
@@ -887,5 +913,1004 @@
     "notes": "Husband and co-ruler of Joanna, Duchess of Brabant.",
     "createdDate": "20260823",
     "createdOrder": 45
+  },
+  {
+    "id": "ea407d24-5168-4822-8223-7084318eaa3a",
+    "firstName": "Henry",
+    "lastName": "",
+    "displayName": "Henry V the Blond",
+    "fullName": "Henry V the Blond, Count of Luxembourg",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Henry V of Luxembourg",
+      "Henry the Blond",
+      "Henri V le Blond",
+      "Heinrich V. der Blonde",
+      "Heinrich II. von Luxemburg"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "亨利五世“金发者”",
+    "fullNameCn": "卢森堡伯爵亨利五世“金发者”",
+    "nicknameCn": "",
+    "birthYear": 1217,
+    "deathYear": 1281,
+    "birthPlace": "",
+    "birthPlaceCn": "",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "Luxembourg dynasty",
+    "house": "House of Luxembourg",
+    "culture": "Lotharingian-German",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Luxembourg",
+    "primaryTitleCn": "卢森堡伯爵",
+    "titles": [
+      {
+        "title": "Lord of Ligny-en-Barrois",
+        "titleCn": "利尼昂巴鲁瓦领主",
+        "startYear": 1240,
+        "endYear": 1281
+      },
+      {
+        "title": "Count of Luxembourg",
+        "titleCn": "卢森堡伯爵",
+        "startYear": 1247,
+        "endYear": 1281
+      },
+      {
+        "title": "Count of La Roche",
+        "titleCn": "拉罗什伯爵",
+        "startYear": 1247,
+        "endYear": 1281
+      }
+    ],
+    "tags": [
+      "count",
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 68,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "8f0a169f-0eba-48d5-8593-1e0e9e340e26"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "4c98a079-295a-4554-b6c6-96c8e947cd11",
+        "b3ca17c5-7d25-4af3-ba7e-cf52dba0ebc7"
+      ]
+    },
+    "events": [
+      {
+        "year": 1240,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 75,
+        "label": "Married Margaret of Bar and received Ligny-en-Barrois",
+        "labelCn": "与巴尔的玛格丽特结婚并获得利尼昂巴鲁瓦",
+        "wikiUrl": "https://www.deutsche-biographie.de/gnd124958524.html",
+        "note": "Henry married Margaret of Bar after a long-standing betrothal. Ligny-en-Barrois formed part of her marriage portion while remaining subject to the feudal claims of the counts of Bar."
+      },
+      {
+        "year": 1247,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 100,
+        "label": "Succeeded as Count of Luxembourg",
+        "labelCn": "继承卢森堡伯爵之位",
+        "wikiUrl": "https://www.deutsche-biographie.de/gnd124958524.html",
+        "note": "After the death of his mother Ermesinde, Henry succeeded to Luxembourg and La Roche, establishing the Limburg-Luxembourg line that continued the county."
+      },
+      {
+        "year": 1256,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "territory"
+        ],
+        "weight": 75,
+        "label": "Pressed his claim to Namur",
+        "labelCn": "以军事行动争夺那慕尔",
+        "wikiUrl": "https://www.deutsche-biographie.de/gnd124958524.html",
+        "note": "Henry intervened militarily in the Namur succession dispute and occupied the city of Namur, although his wider claim was eventually settled through negotiation and dynastic arrangements."
+      },
+      {
+        "year": 1270,
+        "type": "campaign",
+        "tags": [
+          "crusade",
+          "campaign"
+        ],
+        "weight": 80,
+        "label": "Joined Louis IX's crusading expedition to Tunis",
+        "labelCn": "参加路易九世远征突尼斯的十字军",
+        "wikiUrl": "https://www.deutsche-biographie.de/gnd124958524.html",
+        "note": "Having taken the cross, Henry accompanied the French king Louis IX on the expedition to Tunis and returned to his lands in 1271."
+      },
+      {
+        "year": 1281,
+        "type": "death",
+        "tags": [
+          "death",
+          "noble"
+        ],
+        "weight": 70,
+        "label": "Died and was succeeded by Henry VI",
+        "labelCn": "去世，由亨利六世继承",
+        "wikiUrl": "https://www.deutsche-biographie.de/gnd124958524.html",
+        "note": "Henry died in 1281 and was buried at Clairefontaine. His eldest son Henry VI succeeded as Count of Luxembourg."
+      }
+    ],
+    "wikiUrl": "https://www.deutsche-biographie.de/gnd124958524.html",
+    "portraitUrl": "",
+    "sourceUrl": "https://www.deutsche-biographie.de/gnd124958524.html",
+    "sourceNote": "Deutsche Biographie, 'Heinrich V. der Blonde'; Allgemeine Deutsche Biographie; John A. Gades, Luxemburg in the Middle Ages; Portal Rheinische Geschichte materials on the Luxembourg dynasty.",
+    "notes": "Henry V inherited Luxembourg through his mother Ermesinde and represents the beginning of the Limburg-Luxembourg line conventionally treated as the later House of Luxembourg. The county passed directly to his eldest son Henry VI.\n\nConfidence / caveats: His birth year is approximate. Older literature sometimes begins his rule in 1246, while modern regional chronology commonly uses 1247 after Ermesinde's death. His precise death date is variously reported as 2 or 24 December 1281, and the place of death is not consistent enough to record here. Older genealogical sources state that Henry and Margaret had eight legitimate children, while surviving named child lists vary and do not always identify the same eighth child.\n\nUnlinked family: Waleran III, Duke of Limburg (not uniquely matched in the roster); Ermesinde II, Countess of Luxembourg (not uniquely matched in the roster); Isabella of Luxembourg (not uniquely matched in the roster); Philippa of Luxembourg (not uniquely matched in the roster); Margaret of Luxembourg (not uniquely matched in the roster); Felicitas of Luxembourg (not uniquely matched in the roster); Jeanne of Luxembourg (not uniquely matched in the roster).",
+    "createdDate": "20260823"
+  },
+  {
+    "id": "4c98a079-295a-4554-b6c6-96c8e947cd11",
+    "firstName": "Henry",
+    "lastName": "",
+    "displayName": "Henry VI of Luxembourg",
+    "fullName": "Henry VI, Count of Luxembourg",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Henry VI of Luxembourg",
+      "Henry III of Luxembourg",
+      "Heinrich VI. von Luxemburg",
+      "Heinrich III. von Luxemburg"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "卢森堡伯爵亨利六世",
+    "fullNameCn": "卢森堡伯爵亨利六世",
+    "nicknameCn": "",
+    "birthYear": "",
+    "deathYear": 1288,
+    "birthPlace": "",
+    "birthPlaceCn": "",
+    "deathPlace": "Worringen, Duchy of Limburg",
+    "deathPlaceCn": "林堡公国沃林根",
+    "gender": "male",
+    "dynasty": "Luxembourg dynasty",
+    "house": "House of Luxembourg",
+    "culture": "Lotharingian-German",
+    "faith": "Catholic",
+    "primaryTitle": "Count of Luxembourg",
+    "primaryTitleCn": "卢森堡伯爵",
+    "titles": [
+      {
+        "title": "Count of Luxembourg",
+        "titleCn": "卢森堡伯爵",
+        "startYear": 1281,
+        "endYear": 1288
+      },
+      {
+        "title": "Count of La Roche",
+        "titleCn": "拉罗什伯爵",
+        "startYear": 1281,
+        "endYear": 1288
+      }
+    ],
+    "tags": [
+      "count",
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 70,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "ea407d24-5168-4822-8223-7084318eaa3a",
+      "motherId": "8f0a169f-0eba-48d5-8593-1e0e9e340e26",
+      "spouseIds": [
+        "22f4d5e6-90f8-4638-8526-97fb3651f6e1"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "ec618819-cd33-44bb-b8f8-fb50e97cbdb9",
+        "b461f739-f808-4cab-98ab-95cc89ba824d"
+      ]
+    },
+    "events": [
+      {
+        "year": 1270,
+        "type": "regency",
+        "tags": [
+          "regency",
+          "government"
+        ],
+        "weight": 70,
+        "label": "Governed Luxembourg during his father's crusading absence",
+        "labelCn": "父亲参加十字军期间代管卢森堡",
+        "wikiUrl": "https://www.deutsche-biographie.de/gnd137945345.html",
+        "note": "While Henry V was absent on the expedition to Tunis, Henry VI exercised governmental functions in Luxembourg, issued grants and participated in treaties."
+      },
+      {
+        "year": 1281,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 100,
+        "label": "Succeeded as Count of Luxembourg",
+        "labelCn": "继承卢森堡伯爵之位",
+        "wikiUrl": "https://www.deutsche-biographie.de/gnd137945345.html",
+        "note": "Henry succeeded his father Henry V as Count of Luxembourg and inherited the main territorial interests of the Limburg-Luxembourg house."
+      },
+      {
+        "year": 1285,
+        "type": "religion",
+        "tags": [
+          "religion",
+          "church"
+        ],
+        "weight": 65,
+        "label": "Was excommunicated during his conflict with Trier",
+        "labelCn": "在与特里尔的冲突中遭绝罚",
+        "wikiUrl": "https://www.deutsche-biographie.de/gnd137945345.html",
+        "note": "A conflict involving Moselle commerce and the Archbishopric of Trier led to Henry's excommunication and an interdict affecting his lands."
+      },
+      {
+        "year": 1287,
+        "type": "imprisonment",
+        "tags": [
+          "imprisonment",
+          "politics"
+        ],
+        "weight": 75,
+        "label": "Captured the Bishop of Liège and held him for ransom",
+        "labelCn": "俘获列日主教并将其扣押索取赎金",
+        "wikiUrl": "https://www.deutsche-biographie.de/gnd137945345.html",
+        "note": "During regional warfare Henry captured John of Flanders, Bishop of Liège, and held him for several months before a ransom settlement."
+      },
+      {
+        "year": 1288,
+        "month": 6,
+        "day": 5,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "death"
+        ],
+        "weight": 100,
+        "label": "Was killed at the Battle of Worringen",
+        "labelCn": "在沃林根战役中阵亡",
+        "wikiUrl": "https://www.deutsche-biographie.de/gnd137945345.html",
+        "note": "Henry led the Luxembourg contingent in the Limburg succession conflict and was killed at Worringen together with several of his brothers. His young son Henry VII succeeded him."
+      }
+    ],
+    "wikiUrl": "https://www.deutsche-biographie.de/gnd137945345.html",
+    "portraitUrl": "",
+    "sourceUrl": "https://www.deutsche-biographie.de/gnd137945345.html",
+    "sourceNote": "Neue Deutsche Biographie/Deutsche Biographie, 'Heinrich VI. von Luxemburg'; Allgemeine Deutsche Biographie; John A. Gades, Luxemburg in the Middle Ages; regional studies of the Limburg succession war and Battle of Worringen.",
+    "notes": "Henry VI inherited Luxembourg from Henry V and died only seven years later in the decisive Battle of Worringen. His son Henry VII survived the resulting minority and later elevated the Luxembourg dynasty to the imperial throne.\n\nConfidence / caveats: His birth year is uncertain; older reconstructions often place it around 1240 or 1241, so birthYear is left null. Older Luxembourg numbering can style him Henry III rather than Henry VI. Sources disagree over the exact number of daughters: Deutsche Biographie refers to three sons and three daughters, while commonly reproduced named genealogies securely identify Felicitas and Margaret but do not consistently name a third daughter.\n\nUnlinked family: Baldwin of Luxembourg (not uniquely matched in the roster); Felicitas of Luxembourg (not uniquely matched in the roster); Margaret of Luxembourg (not uniquely matched in the roster).",
+    "createdDate": "20260823",
+    "deathCause": {
+      "kind": "violent",
+      "summary": "killed in battle",
+      "summaryCn": "战死",
+      "detail": "killed in battle",
+      "detailCn": "战死",
+      "wikiUrl": "https://www.deutsche-biographie.de/gnd137945345.html"
+    }
+  },
+  {
+    "id": "2e2c2701-0232-49d9-92d3-46d434b157a5",
+    "firstName": "John",
+    "lastName": "",
+    "displayName": "John Henry of Moravia",
+    "fullName": "John Henry, Margrave of Moravia",
+    "nickname": "",
+    "alsoKnownAs": [
+      "John Henry of Luxembourg",
+      "Johann Heinrich of Moravia",
+      "Johann Heinrich von Luxemburg",
+      "Jan Jindřich Lucemburský"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "摩拉维亚的约翰·亨利",
+    "fullNameCn": "摩拉维亚藩侯约翰·亨利",
+    "nicknameCn": "",
+    "birthYear": 1322,
+    "deathYear": 1375,
+    "birthPlace": "Prague, Kingdom of Bohemia",
+    "birthPlaceCn": "波希米亚王国布拉格",
+    "deathPlace": "Brno, Margraviate of Moravia",
+    "deathPlaceCn": "摩拉维亚藩侯国布尔诺",
+    "gender": "male",
+    "dynasty": "Luxembourg dynasty",
+    "house": "House of Luxembourg",
+    "culture": "Bohemian-Luxembourgish",
+    "faith": "Catholic",
+    "primaryTitle": "Margrave of Moravia",
+    "primaryTitleCn": "摩拉维亚藩侯",
+    "titles": [
+      {
+        "title": "Count of Tyrol",
+        "titleCn": "蒂罗尔伯爵",
+        "startYear": 1335,
+        "endYear": 1341
+      },
+      {
+        "title": "Margrave of Moravia",
+        "titleCn": "摩拉维亚藩侯",
+        "startYear": 1349,
+        "endYear": 1375
+      }
+    ],
+    "tags": [
+      "duke",
+      "noble"
+    ],
+    "rank": "duke",
+    "importanceScore": 63,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "581b42bc-541c-4083-aefb-5dd9e2249430",
+      "motherId": "895b64a3-721a-4ffe-b19c-22abef67c58e",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "47fe08cb-b7af-481d-9ee6-0967d96b6d44"
+      ]
+    },
+    "events": [
+      {
+        "year": 1330,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 80,
+        "label": "Married Margaret of Tyrol",
+        "labelCn": "与蒂罗尔的玛格丽特结婚",
+        "wikiUrl": "https://www.deutsche-biographie.de/gnd137070292.html",
+        "note": "The childhood marriage was designed to secure Luxembourg influence in Tyrol and Carinthia through Margaret, heiress of Henry of Carinthia."
+      },
+      {
+        "year": 1335,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 85,
+        "label": "Became Count of Tyrol through his marriage",
+        "labelCn": "凭借婚姻成为蒂罗尔伯爵",
+        "wikiUrl": "https://www.deutsche-biographie.de/gnd137070292.html",
+        "note": "After the death of Margaret's father, John Henry exercised the comital title in Tyrol by right of his wife, although local acceptance of Luxembourg rule remained weak."
+      },
+      {
+        "year": 1341,
+        "month": 11,
+        "day": 2,
+        "type": "politics",
+        "tags": [
+          "politics",
+          "territory"
+        ],
+        "weight": 95,
+        "label": "Was expelled from Tyrol",
+        "labelCn": "被逐出蒂罗尔",
+        "wikiUrl": "https://www.deutsche-biographie.de/gnd137070292.html",
+        "note": "Returning from a hunt, John Henry found the castle gates closed against him. Margaret and the Tyrolean estates rejected his rule, effectively ending Luxembourg control of the county."
+      },
+      {
+        "year": 1349,
+        "month": 7,
+        "day": 21,
+        "type": "annulment",
+        "tags": [
+          "annulment",
+          "legal"
+        ],
+        "weight": 85,
+        "label": "His marriage to Margaret of Tyrol was canonically annulled",
+        "labelCn": "与蒂罗尔的玛格丽特的婚姻获教会正式解除",
+        "wikiUrl": "https://www.deutsche-biographie.de/gnd137070292.html",
+        "note": "After years of controversy over Margaret's separation and remarriage, ecclesiastical proceedings formally dissolved her marriage to John Henry under papal authority."
+      },
+      {
+        "year": 1349,
+        "month": 12,
+        "day": 26,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 100,
+        "label": "Received the Margraviate of Moravia from Charles IV",
+        "labelCn": "从查理四世处获得摩拉维亚藩侯国",
+        "wikiUrl": "https://www.deutsche-biographie.de/gnd137070292.html",
+        "note": "Charles IV enfeoffed his younger brother John Henry with Moravia as a fief of the Bohemian crown, creating the Moravian branch of the Luxembourg dynasty."
+      },
+      {
+        "year": 1375,
+        "month": 11,
+        "day": 12,
+        "type": "death",
+        "tags": [
+          "death",
+          "noble"
+        ],
+        "weight": 70,
+        "label": "Died at Brno",
+        "labelCn": "在布尔诺去世",
+        "wikiUrl": "https://www.deutsche-biographie.de/gnd137070292.html",
+        "note": "John Henry died at Brno. His eldest son Jobst inherited the leading position in Moravia, while other sons received portions of the family lands."
+      }
+    ],
+    "wikiUrl": "https://www.deutsche-biographie.de/gnd137070292.html",
+    "portraitUrl": "",
+    "sourceUrl": "https://www.deutsche-biographie.de/gnd137070292.html",
+    "sourceNote": "Neue Deutsche Biographie, 'Johann Heinrich von Luxemburg'; Deutsche Biographie; modern scholarship on Margaret of Tyrol and the Luxembourg acquisition of Moravia; Czech and Austrian dynastic studies.",
+    "notes": "John Henry was Charles IV's younger brother and founder of the Moravian Luxembourg branch. His failed Tyrolean marriage was followed by a more durable settlement in Moravia, where his son Jobst later became one of the most powerful Luxembourg princes.\n\nConfidence / caveats: Older references occasionally print erroneous or inconsistent dates for his marriage to Margaret of Tyrol; 1330 is the standard modern chronology. The allegations surrounding non-consummation of the marriage were politically charged and should not be treated as neutral fact beyond the existence of the canonical dispute. John Henry was Margrave of Moravia, not King of Bohemia; misleading occupational indexing in some databases must not be converted into a royal title.\n\nUnlinked family: Margaret of Tyrol (not uniquely matched in the roster); Margaret of Opava (not uniquely matched in the roster); Margaret of Austria (not uniquely matched in the roster); Elisabeth of Oettingen (not uniquely matched in the roster); John Sobieslaw of Moravia (not uniquely matched in the roster); Prokop of Moravia (not uniquely matched in the roster); Catherine of Moravia (not uniquely matched in the roster); Elisabeth of Moravia (not uniquely matched in the roster).",
+    "createdDate": "20260823"
+  },
+  {
+    "id": "47fe08cb-b7af-481d-9ee6-0967d96b6d44",
+    "firstName": "Jobst",
+    "lastName": "",
+    "displayName": "Jobst of Moravia",
+    "fullName": "Jobst of Moravia",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Jobst of Luxembourg",
+      "Jost of Moravia",
+      "Jodocus of Moravia",
+      "Jošt Moravský",
+      "Jobst von Mähren"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "摩拉维亚的约布斯特",
+    "fullNameCn": "摩拉维亚的约布斯特",
+    "nicknameCn": "",
+    "birthYear": 1354,
+    "deathYear": 1411,
+    "birthPlace": "",
+    "birthPlaceCn": "",
+    "deathPlace": "Špilberk Castle, Brno",
+    "deathPlaceCn": "布尔诺什皮尔贝克城堡",
+    "gender": "male",
+    "dynasty": "Luxembourg dynasty",
+    "house": "House of Luxembourg",
+    "culture": "Moravian-Bohemian",
+    "faith": "Catholic",
+    "primaryTitle": "Margrave of Moravia",
+    "primaryTitleCn": "摩拉维亚藩侯",
+    "titles": [
+      {
+        "title": "Margrave of Moravia",
+        "titleCn": "摩拉维亚藩侯",
+        "startYear": 1375,
+        "endYear": 1411
+      },
+      {
+        "title": "Pledge-holder of Luxembourg",
+        "titleCn": "卢森堡典押权持有人",
+        "startYear": 1388,
+        "endYear": 1411
+      },
+      {
+        "title": "Margrave and Elector of Brandenburg",
+        "titleCn": "勃兰登堡藩侯兼选侯",
+        "startYear": 1397,
+        "endYear": 1411
+      },
+      {
+        "title": "King of the Romans-elect",
+        "titleCn": "当选罗马人的国王",
+        "startYear": 1410,
+        "endYear": 1411
+      }
+    ],
+    "tags": [
+      "duke",
+      "noble"
+    ],
+    "rank": "duke",
+    "importanceScore": 74,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "2e2c2701-0232-49d9-92d3-46d434b157a5",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1375,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 90,
+        "label": "Succeeded to the leading share of the Margraviate of Moravia",
+        "labelCn": "继承摩拉维亚藩侯国的主要份额",
+        "wikiUrl": "https://www.deutsche-biographie.de/gnd12930963X.html",
+        "note": "After John Henry's death, Jobst became the senior prince of the Moravian Luxembourg branch, although his brothers also possessed territorial shares and rights."
+      },
+      {
+        "year": 1388,
+        "type": "government",
+        "tags": [
+          "territory",
+          "title_acquired"
+        ],
+        "weight": 85,
+        "label": "Obtained Luxembourg as a pledge",
+        "labelCn": "以典押方式取得卢森堡",
+        "wikiUrl": "https://www.deutsche-biographie.de/gnd12930963X.html",
+        "note": "King Wenceslaus IV pledged Luxembourg to his cousin Jobst in connection with the dynasty's chronic financial needs. This was a pledge-based possession rather than a straightforward hereditary succession."
+      },
+      {
+        "year": 1394,
+        "type": "politics",
+        "tags": [
+          "politics",
+          "political_crisis"
+        ],
+        "weight": 90,
+        "label": "Played a decisive role in the capture of Wenceslaus IV",
+        "labelCn": "在拘押瓦茨拉夫四世的政治危机中发挥决定性作用",
+        "wikiUrl": "https://www.deutsche-biographie.de/gnd12930963X.html",
+        "note": "Jobst allied with dissatisfied Bohemian nobles against Wenceslaus IV, participated in the king's capture and briefly exercised major governmental influence during the crisis."
+      },
+      {
+        "year": 1397,
+        "type": "government",
+        "tags": [
+          "title_acquired",
+          "territory"
+        ],
+        "weight": 90,
+        "label": "Was formally enfeoffed with Brandenburg and its electoral dignity",
+        "labelCn": "正式获封勃兰登堡及其选侯资格",
+        "wikiUrl": "https://www.deutsche-biographie.de/gnd12930963X.html",
+        "note": "Jobst's earlier financial involvement with Brandenburg culminated in formal possession of the margraviate and the electoral vote, greatly increasing his influence in imperial politics."
+      },
+      {
+        "year": 1410,
+        "month": 10,
+        "day": 1,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "king"
+        ],
+        "weight": 100,
+        "label": "Was elected King of the Romans in a disputed election",
+        "labelCn": "在有争议的选举中当选罗马人的国王",
+        "wikiUrl": "https://www.deutsche-biographie.de/gnd12930963X.html",
+        "note": "After an initial electoral split favoring Sigismund, four electors chose Jobst as King of the Romans. The rival claims were never fully resolved before Jobst's death."
+      },
+      {
+        "year": 1411,
+        "month": 1,
+        "day": 18,
+        "type": "death",
+        "tags": [
+          "death",
+          "uncertain"
+        ],
+        "weight": 90,
+        "label": "Died at Špilberk before the royal dispute was resolved",
+        "labelCn": "在王位争议解决前于什皮尔贝克去世",
+        "wikiUrl": "https://www.deutsche-biographie.de/gnd12930963X.html",
+        "note": "Jobst died at Špilberk Castle near Brno only months after his election. Contemporary and later rumors of poisoning are not sufficiently established to record as his death cause."
+      }
+    ],
+    "wikiUrl": "https://www.deutsche-biographie.de/gnd12930963X.html",
+    "portraitUrl": "",
+    "sourceUrl": "https://www.deutsche-biographie.de/gnd12930963X.html",
+    "sourceNote": "Neue Deutsche Biographie, 'Jobst von Mähren'; Deutsche Biographie; Peter Moraw and scholarship on the late Luxembourg monarchy; Czech studies of the Moravian Luxembourgs and the 1410 royal election.",
+    "notes": "Jobst inherited the main Moravian Luxembourg position and accumulated Luxembourg, Brandenburg and an electoral vote through a mixture of inheritance, pledges and finance. His disputed election in 1410 briefly made him a rival Roman-German king before his sudden death cleared the way for Sigismund.\n\nConfidence / caveats: Jobst's possession of Luxembourg was based primarily on pledge rights and must not be represented as an uncomplicated hereditary succession. Brandenburg likewise passed through complex mortgage and enfeoffment arrangements, with 1397 marking the clearest formal electoral investiture. His election as King of the Romans was contested by Sigismund and lasted only a few months. Poisoning was rumored after his death but remains unproven.\n\nUnlinked family: Margaret of Opava (not uniquely matched in the roster); Elisabeth of Opole (not uniquely matched in the roster); Agnes of Opole (not uniquely matched in the roster).",
+    "createdDate": "20260823"
+  },
+  {
+    "id": "e4bd0a31-88d2-49be-a3b1-b8a932c733fd",
+    "firstName": "John",
+    "lastName": "",
+    "displayName": "John of Görlitz",
+    "fullName": "John, Duke of Görlitz",
+    "nickname": "",
+    "alsoKnownAs": [
+      "John of Luxembourg-Görlitz",
+      "Johann von Görlitz",
+      "Jan Zhořelecký"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "格尔利茨的约翰",
+    "fullNameCn": "格尔利茨公爵约翰",
+    "nicknameCn": "",
+    "birthYear": 1370,
+    "deathYear": 1396,
+    "birthPlace": "Prague, Kingdom of Bohemia",
+    "birthPlaceCn": "波希米亚王国布拉格",
+    "deathPlace": "Neuzelle, Lower Lusatia",
+    "deathPlaceCn": "下卢萨蒂亚诺伊策勒",
+    "gender": "male",
+    "dynasty": "Luxembourg dynasty",
+    "house": "House of Luxembourg",
+    "culture": "Bohemian-Luxembourgish",
+    "faith": "Catholic",
+    "primaryTitle": "Duke of Görlitz",
+    "primaryTitleCn": "格尔利茨公爵",
+    "titles": [
+      {
+        "title": "Duke of Görlitz",
+        "titleCn": "格尔利茨公爵",
+        "startYear": 1377,
+        "endYear": 1396
+      },
+      {
+        "title": "Administrator of Luxembourg",
+        "titleCn": "卢森堡行政管理者",
+        "startYear": 1386,
+        "endYear": 1388
+      }
+    ],
+    "tags": [
+      "duke",
+      "noble"
+    ],
+    "rank": "duke",
+    "importanceScore": 60,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "80b3801a-ffca-4136-ba92-293b6b976e85",
+      "motherId": "3d649463-db70-4d0a-820f-729ab52ae382",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "da3659e6-83af-4afa-a772-f0c508664dfc"
+      ]
+    },
+    "events": [
+      {
+        "year": 1377,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 90,
+        "label": "Received the newly constituted Duchy of Görlitz",
+        "labelCn": "获得新设立的格尔利茨公国",
+        "wikiUrl": "https://www.deutsche-biographie.de/gnd137842619.html",
+        "note": "Charles IV assembled territories in Upper and Lower Lusatia and adjoining lands into an apanage for his younger son John, who received homage as Duke of Görlitz."
+      },
+      {
+        "year": 1386,
+        "type": "administration",
+        "tags": [
+          "administration",
+          "government"
+        ],
+        "weight": 75,
+        "label": "Was entrusted with administration of Luxembourg",
+        "labelCn": "受命管理卢森堡",
+        "wikiUrl": "https://www.deutsche-biographie.de/gnd137842619.html",
+        "note": "John was appointed to administer the Luxembourg homeland on behalf of the senior dynasty. This did not constitute a normal hereditary succession to the duchy."
+      },
+      {
+        "year": 1388,
+        "month": 2,
+        "day": 10,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 75,
+        "label": "Married Richardis Catherine of Sweden",
+        "labelCn": "与瑞典的里夏迪斯·卡塔琳娜结婚",
+        "wikiUrl": "https://www.deutsche-biographie.de/gnd137842619.html",
+        "note": "Richardis Catherine was a daughter of Albert of Mecklenburg, King of Sweden. Their only surviving dynastic child was Elisabeth of Görlitz."
+      },
+      {
+        "year": 1394,
+        "type": "politics",
+        "tags": [
+          "politics",
+          "political_crisis"
+        ],
+        "weight": 90,
+        "label": "Led the royalist response to the capture of Wenceslaus IV",
+        "labelCn": "瓦茨拉夫四世被俘后领导王党反制行动",
+        "wikiUrl": "https://www.deutsche-biographie.de/gnd137842619.html",
+        "note": "After Jobst of Moravia and allied nobles captured Wenceslaus IV, John rallied supporters of his half-brother, issued a manifesto from Kutná Hora and raised military forces on the king's behalf."
+      },
+      {
+        "year": 1396,
+        "month": 3,
+        "day": 1,
+        "type": "death",
+        "tags": [
+          "death",
+          "uncertain"
+        ],
+        "weight": 80,
+        "label": "Died suddenly at Neuzelle",
+        "labelCn": "在诺伊策勒突然去世",
+        "wikiUrl": "https://www.deutsche-biographie.de/gnd137842619.html",
+        "note": "John died unexpectedly at only twenty-five years of age. Rumors that he had been poisoned circulated, but no reliable evidence establishes a violent cause of death."
+      }
+    ],
+    "wikiUrl": "https://www.deutsche-biographie.de/gnd137842619.html",
+    "portraitUrl": "",
+    "sourceUrl": "https://www.deutsche-biographie.de/gnd137842619.html",
+    "sourceNote": "Neue Deutsche Biographie, 'Johann von Görlitz'; Deutsche Biographie; scholarship on Charles IV's territorial settlements and the Görlitz apanage; studies of the 1394 Bohemian political crisis.",
+    "notes": "John was Charles IV's younger son and received a purpose-built Görlitz apanage rather than the principal Bohemian or imperial inheritance. His only daughter Elisabeth later became a crucial holder of Luxembourg pledge rights and the bridge into Burgundian expansion.\n\nConfidence / caveats: The exact constitutional scope of the 'Duchy of Görlitz' was an apanage within the Bohemian Crown rather than a fully independent territorial state. John's Luxembourg role in 1386–1388 was administrative and should not be represented as hereditary possession of the duchy. His sudden death generated poisoning rumors, but the cause remains unproven.\n\nUnlinked family: Richardis Catherine of Sweden (not uniquely matched in the roster).",
+    "createdDate": "20260823"
+  },
+  {
+    "id": "da3659e6-83af-4afa-a772-f0c508664dfc",
+    "firstName": "Elisabeth",
+    "lastName": "",
+    "displayName": "Elisabeth of Görlitz",
+    "fullName": "Elisabeth of Görlitz",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Elizabeth of Görlitz",
+      "Elisabeth of Luxembourg-Görlitz",
+      "Elisabeth von Görlitz",
+      "Eliška Zhořelecká"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "格尔利茨的伊丽莎白",
+    "fullNameCn": "格尔利茨的伊丽莎白",
+    "nicknameCn": "",
+    "birthYear": 1390,
+    "deathYear": 1451,
+    "birthPlace": "Hořovice, Kingdom of Bohemia",
+    "birthPlaceCn": "波希米亚王国霍若维采",
+    "deathPlace": "Trier",
+    "deathPlaceCn": "特里尔",
+    "gender": "female",
+    "dynasty": "Luxembourg dynasty",
+    "house": "House of Luxembourg",
+    "culture": "Bohemian-Luxembourgish",
+    "faith": "Catholic",
+    "primaryTitle": "Duchess of Luxembourg",
+    "primaryTitleCn": "卢森堡女公爵",
+    "titles": [
+      {
+        "title": "Duchess consort of Brabant and Limburg",
+        "titleCn": "布拉班特与林堡公爵夫人",
+        "startYear": 1409,
+        "endYear": 1415
+      },
+      {
+        "title": "Duchess of Luxembourg (pledge-holder)",
+        "titleCn": "卢森堡女公爵（典押权持有人）",
+        "startYear": 1411,
+        "endYear": 1441
+      },
+      {
+        "title": "Duchess consort of Bavaria-Straubing",
+        "titleCn": "巴伐利亚-施特劳宾公爵夫人",
+        "startYear": 1418,
+        "endYear": 1425
+      }
+    ],
+    "tags": [
+      "noble"
+    ],
+    "rank": "noble",
+    "importanceScore": 74,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "e4bd0a31-88d2-49be-a3b1-b8a932c733fd",
+      "motherId": "",
+      "spouseIds": [
+        "c1015000-0000-4000-8000-000000000000"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "8b233cc8-e4dd-4f26-97d8-bf5ef6f176fc"
+      ]
+    },
+    "events": [
+      {
+        "year": 1409,
+        "month": 7,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 85,
+        "label": "Married Anthony of Brabant as Luxembourg was assigned to secure her dowry",
+        "labelCn": "与布拉班特的安托万结婚，卢森堡被用于担保其嫁妆",
+        "wikiUrl": "https://www.deutsche-biographie.de/gnd136846629.html",
+        "note": "Elisabeth married Anthony of Brabant at Brussels. Because the promised cash dowry could not be fully paid, rights over Luxembourg and Chiny became central to the financial and territorial settlement."
+      },
+      {
+        "year": 1411,
+        "type": "government",
+        "tags": [
+          "territory",
+          "title_acquired"
+        ],
+        "weight": 100,
+        "label": "Established her position as holder of Luxembourg after Jobst's death",
+        "labelCn": "约布斯特去世后确立对卢森堡的持有地位",
+        "wikiUrl": "https://www.deutsche-biographie.de/gnd136846629.html",
+        "note": "After Jobst of Moravia died, Elisabeth and Anthony asserted the pledge-based rights attached to Luxembourg. Her authority rested on complex financial and dynastic arrangements rather than uncontested hereditary succession."
+      },
+      {
+        "year": 1418,
+        "month": 6,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 70,
+        "label": "Married John III of Bavaria-Straubing",
+        "labelCn": "与巴伐利亚-施特劳宾的约翰三世结婚",
+        "wikiUrl": "https://www.deutsche-biographie.de/gnd136846629.html",
+        "note": "After Anthony's death at Agincourt, Elisabeth remarried John III, known as John the Pitiless, linking her Luxembourg interests to the Wittelsbach ruler of Bavaria-Straubing."
+      },
+      {
+        "year": 1441,
+        "type": "treaty",
+        "tags": [
+          "legal",
+          "territory"
+        ],
+        "weight": 100,
+        "label": "Transferred her Luxembourg rights to Philip the Good",
+        "labelCn": "将其卢森堡权利转让给“好人”菲利普",
+        "wikiUrl": "https://www.deutsche-biographie.de/gnd136846629.html",
+        "note": "Burdened by debt and unable to secure effective control, Elisabeth concluded an agreement recognizing Philip the Good of Burgundy as successor to her Luxembourg rights. The arrangement did not eliminate competing dynastic claims."
+      },
+      {
+        "year": 1443,
+        "type": "campaign",
+        "tags": [
+          "conquest",
+          "territory"
+        ],
+        "weight": 100,
+        "label": "Burgundian forces occupied Luxembourg",
+        "labelCn": "勃艮第军队占领卢森堡",
+        "wikiUrl": "https://www.deutsche-biographie.de/gnd136846629.html",
+        "note": "Philip the Good enforced the Burgundian claim militarily and occupied Luxembourg. This became the decisive de facto transfer of the duchy into the Burgundian state, although legal and hereditary disputes continued."
+      },
+      {
+        "year": 1451,
+        "month": 8,
+        "day": 3,
+        "type": "death",
+        "tags": [
+          "death",
+          "noble"
+        ],
+        "weight": 70,
+        "label": "Died at Trier",
+        "labelCn": "在特里尔去世",
+        "wikiUrl": "https://www.deutsche-biographie.de/gnd136846629.html",
+        "note": "Elisabeth died at Trier and was buried in the Church of the Holy Trinity. By then Burgundy exercised effective control over Luxembourg."
+      }
+    ],
+    "wikiUrl": "https://www.deutsche-biographie.de/gnd136846629.html",
+    "portraitUrl": "",
+    "sourceUrl": "https://www.deutsche-biographie.de/gnd136846629.html",
+    "sourceNote": "Neue Deutsche Biographie, 'Elisabeth von Görlitz'; Deutsche Biographie Luxembourg family studies; F. Richter and scholarship on the Luxembourg succession dispute; Sächsische Biografie materials on competing Wettin claims; studies of Philip the Good's Burgundian expansion.",
+    "notes": "Elisabeth was the last important territorial representative of the Görlitz branch of the House of Luxembourg. Her heavily encumbered pledge rights over Luxembourg were transferred to Philip the Good, and the Burgundian occupation of 1443 made her the decisive bridge between Luxembourg dynastic rule and Burgundian control.\n\nConfidence / caveats: Her position in Luxembourg was legally complex: she was commonly styled Duchess of Luxembourg, but her practical rights derived heavily from pledge and dowry arrangements rather than an uncontested hereditary succession. Sources differ between 1 and 16 July 1409 for her first marriage, so only the month is retained. Deutsche Biographie records a son William from the first marriage who was born and died in 1410, while some modern summaries describe the marriage as childless; the child is retained here with that caveat. The 1441 agreement transferred rights to Philip the Good, while the actual Burgundian military occupation occurred in 1443; these must not be collapsed into a single succession date.\n\nUnlinked family: Richardis Catherine of Sweden (not uniquely matched in the roster); John III, Duke of Bavaria-Straubing (not uniquely matched in the roster).",
+    "createdDate": "20260823"
+  },
+  {
+    "firstName": "Waleran",
+    "lastName": "of Luxembourg",
+    "displayName": "Waleran I, Lord of Ligny",
+    "fullName": "Waleran I of Luxembourg, Lord of Ligny",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "利尼领主瓦勒兰一世",
+    "fullNameCn": "利尼领主卢森堡的瓦勒兰一世",
+    "nicknameCn": "",
+    "birthYear": null,
+    "deathYear": null,
+    "birthPlace": "",
+    "birthPlaceCn": "",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "Luxembourg dynasty",
+    "house": "House of Luxembourg",
+    "culture": "Lotharingian-German",
+    "faith": "Catholic",
+    "primaryTitle": "Lord of Ligny",
+    "primaryTitleCn": "利尼领主",
+    "titles": [],
+    "tags": [
+      "noble"
+    ],
+    "rank": "noble",
+    "importanceScore": 28,
+    "relationships": {
+      "fatherId": "ea407d24-5168-4822-8223-7084318eaa3a",
+      "motherId": "8f0a169f-0eba-48d5-8593-1e0e9e340e26",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [],
+    "wikiUrl": "",
+    "portraitUrl": "",
+    "sourceUrl": "https://www.deutsche-biographie.de/gnd124958524.html",
+    "sourceNote": "Named in the local Henry V and Margaret of Bar research notes as their son and Lord of Ligny.",
+    "notes": "Basic card created solely from the locally recorded family identification; dates are not supplied there.",
+    "historicalRating": 3,
+    "createdDate": "20260823",
+    "createdOrder": null,
+    "id": "b3ca17c5-7d25-4af3-ba7e-cf52dba0ebc7"
+  },
+  {
+    "firstName": "Waleran",
+    "lastName": "of Luxembourg",
+    "displayName": "Waleran of Luxembourg",
+    "fullName": "Waleran of Luxembourg",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "卢森堡的瓦勒兰",
+    "fullNameCn": "卢森堡的瓦勒兰",
+    "nicknameCn": "",
+    "birthYear": null,
+    "deathYear": null,
+    "birthPlace": "",
+    "birthPlaceCn": "",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "Luxembourg dynasty",
+    "house": "House of Luxembourg",
+    "culture": "Lotharingian-German",
+    "faith": "Catholic",
+    "primaryTitle": "",
+    "primaryTitleCn": "",
+    "titles": [],
+    "tags": [
+      "noble"
+    ],
+    "rank": "noble",
+    "importanceScore": 18,
+    "relationships": {
+      "fatherId": "4c98a079-295a-4554-b6c6-96c8e947cd11",
+      "motherId": "22f4d5e6-90f8-4638-8526-97fb3651f6e1",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [],
+    "wikiUrl": "",
+    "portraitUrl": "",
+    "sourceUrl": "https://www.deutsche-biographie.de/gnd137945345.html",
+    "sourceNote": "Named in the local Henry VI and Beatrice of Avesnes research notes as their child.",
+    "notes": "Basic card created solely from the locally recorded family identification; dates and title are not supplied there.",
+    "historicalRating": 2,
+    "createdDate": "20260823",
+    "createdOrder": null,
+    "id": "b461f739-f808-4cab-98ab-95cc89ba824d"
   }
 ]

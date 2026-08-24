@@ -1,7 +1,7 @@
 # 人物录入索引（People Entry Log）
 
-> 当前总人数：563
-> 分配日期：20260815 = 53 人；20260816 = 53 人；20260817 = 53 人；20260818 = 53 人；20260819 = 51 人；20260820 = 71 人；20260821 = 14 人；20260822 = 80 人；20260823 = 135 人
+> 当前总人数：624
+> 分配日期：20260815 = 53 人；20260816 = 53 人；20260817 = 53 人；20260818 = 53 人；20260819 = 51 人；20260820 = 71 人；20260821 = 14 人；20260822 = 80 人；20260823 = 196 人
 > 数据来源：`src/data/people/manifest.json` 及其引用的全部人员 JSON 文件
 > 字段说明：姓名 = `displayName`；UUID = `id`；自定义序号 = `YYYYMMDDNNN`（录入日期 + 当日按总序号排列的三位流水号）；总序号 = `manifest.order` 顺序；重要度评分 = `historicalRating`
 
@@ -561,16 +561,117 @@
 | Manfred of Sicily | `a1631254-26f2-4306-ad68-0fc11054191b` | 20260823124 | 552 | 8星 |
 | Elisabeth of Bavaria | `3f616a00-8e9d-4909-ab0e-32a8c5e6db47` | 20260823125 | 553 | 7星 |
 | Conradin | `4edb479c-eb9e-447d-8cb9-f8b5d37cc7dd` | 20260823126 | 554 | 8星 |
-| Beatrice of Hohenstaufen | `45baa722-7fe8-4c5c-b533-e37544328a75` | 20260823127 | 555 | 5星 |
-| Frederick V, Duke of Swabia | `c3b0687b-179f-47b6-9ea7-ccfea2629c05` | 20260823128 | 556 | 5星 |
-| Frederick VI, Duke of Swabia | `4447ca0f-a12f-494a-95ee-9875ff063099` | 20260823129 | 557 | 5星 |
-| Judith of Hohenstaufen | `966b3670-1197-4552-b765-7cdc54455363` | 20260823130 | 558 | 5星 |
-| Otto I, Count of Burgundy | `58f15fda-c80f-4439-876b-ff4f047da3b2` | 20260823131 | 559 | 5星 |
+| Beatrice of Hohenstaufen | `45baa722-7fe8-4c5c-b533-e37544328a75` | 20260823127 | 555 | 4星 |
+| Frederick V, Duke of Swabia | `c3b0687b-179f-47b6-9ea7-ccfea2629c05` | 20260823128 | 556 | 4星 |
+| Frederick VI, Duke of Swabia | `4447ca0f-a12f-494a-95ee-9875ff063099` | 20260823129 | 557 | 6星 |
+| Judith of Hohenstaufen | `966b3670-1197-4552-b765-7cdc54455363` | 20260823130 | 558 | 3星 |
+| Otto I, Count of Burgundy | `58f15fda-c80f-4439-876b-ff4f047da3b2` | 20260823131 | 559 | 6星 |
 | Conrad II, Duke of Swabia | `3a26b97e-3345-4100-801e-3d5deb589bd6` | 20260823132 | 560 | 5星 |
-| Rainald of Hohenstaufen | `6c8157b1-bdab-4012-afcd-b4e817686195` | 20260823133 | 561 | 5星 |
-| William of Hohenstaufen | `0bd54372-1bb7-4d4e-8281-e8834a3bdedc` | 20260823134 | 562 | 5星 |
-| Agnes of Hohenstaufen | `a4797c56-9e7d-42ad-bcce-653c8dd42eb6` | 20260823135 | 563 | 5星 |
+| Rainald of Hohenstaufen | `6c8157b1-bdab-4012-afcd-b4e817686195` | 20260823133 | 561 | 3星 |
+| William of Hohenstaufen | `0bd54372-1bb7-4d4e-8281-e8834a3bdedc` | 20260823134 | 562 | 3星 |
+| Agnes of Hohenstaufen | `a4797c56-9e7d-42ad-bcce-653c8dd42eb6` | 20260823135 | 563 | 4星 |
+| Vratislaus II | `8777ca36-1cb4-478a-b4e2-8b39f86e50da` | 20260823136 | 564 | 6星 |
+| Bretislaus II | `f4e78109-6b3e-4e0b-828c-b8db1c034ef3` | 20260823137 | 565 | 5星 |
+| Bořivoj II | `8c5ff94d-dff6-4d8f-b104-46300308f484` | 20260823138 | 566 | 4星 |
+| Svatopluk | `1a611919-ae6c-4d15-91dd-7224a964370c` | 20260823139 | 567 | 4星 |
+| Vladislaus I | `401ac294-cb37-41ec-90e0-d8ed1719cc08` | 20260823140 | 568 | 4星 |
+| Soběslav I | `bf9bdfaf-9eb5-49a7-b4c9-025ec7d925ac` | 20260823141 | 569 | 5星 |
+| Vladislaus II | `c96198b9-a0b9-4180-bbd4-d31359d64848` | 20260823142 | 570 | 6星 |
+| Frederick of Bohemia | `e7ffca87-1281-481d-b738-b0f7feb3524b` | 20260823143 | 571 | 4星 |
+| Soběslav II | `c1427fa9-dcf6-4bd2-b7ab-7f7192769526` | 20260823144 | 572 | 4星 |
+| Conrad II Otto | `44a02427-1557-4567-874e-d4097a55b3e5` | 20260823145 | 573 | 5星 |
+| Wenceslaus II of Bohemia | `62cd95e3-84f7-4007-857a-cc1cf328615c` | 20260823146 | 574 | 3星 |
+| Ottokar I | `e500ef1d-05b5-409c-aa76-8afaad2544cd` | 20260823147 | 575 | 7星 |
+| Henry Bretislaus | `dd5fd12f-4c04-4e24-8d9b-2b946089824c` | 20260823148 | 576 | 4星 |
+| Vladislaus Henry | `e80c16a2-4125-4ba5-a2db-040bd62add60` | 20260823149 | 577 | 5星 |
+| Wenceslaus I | `4d6db4d6-5d1d-472e-bc4f-6db4cc84b0c3` | 20260823150 | 578 | 6星 |
+| Ottokar II | `82657f7d-e889-4afa-a3c9-d2241570e6c9` | 20260823151 | 579 | 8星 |
+| Wenceslaus II | `446624f0-f071-4c86-8933-3079d0ac1f0b` | 20260823152 | 580 | 8星 |
+| Wenceslaus III | `0f674554-3d8f-4546-9c12-96ffaf3c2c18` | 20260823153 | 581 | 5星 |
+| Rudolf I of Bohemia | `45b7566c-90bc-42af-ba52-750336dcd55d` | 20260823154 | 582 | 5星 |
+| Henry of Carinthia | `343ba66b-b594-45de-8f8a-3acec3322cc5` | 20260823155 | 583 | 5星 |
+| John of Bohemia | `581b42bc-541c-4083-aefb-5dd9e2249430` | 20260823156 | 584 | 7星 |
+| Henry V the Blond | `ea407d24-5168-4822-8223-7084318eaa3a` | — | 585 | 5星 |
+| Margaret of Bar | `8f0a169f-0eba-48d5-8593-1e0e9e340e26` | — | 586 | 4星 |
+| Henry VI of Luxembourg | `4c98a079-295a-4554-b6c6-96c8e947cd11` | — | 587 | 6星 |
+| Beatrice of Avesnes | `22f4d5e6-90f8-4638-8526-97fb3651f6e1` | — | 588 | 5星 |
+| Margaret of Brabant | `84961115-416f-4bbf-8bbc-d2313b5e17b2` | — | 589 | 4星 |
+| Elisabeth of Bohemia | `895b64a3-721a-4ffe-b19c-22abef67c58e` | — | 590 | 6星 |
+| John Henry of Moravia | `2e2c2701-0232-49d9-92d3-46d434b157a5` | — | 591 | 5星 |
+| Jobst of Moravia | `47fe08cb-b7af-481d-9ee6-0967d96b6d44` | — | 592 | 6星 |
+| Anna of Świdnica | `b8021578-265a-4118-b4e2-1b7631092317` | — | 593 | 5星 |
+| Elisabeth of Pomerania | `3d649463-db70-4d0a-820f-729ab52ae382` | — | 594 | 4星 |
+| John of Görlitz | `e4bd0a31-88d2-49be-a3b1-b8a932c733fd` | — | 595 | 5星 |
+| Elisabeth of Görlitz | `da3659e6-83af-4afa-a772-f0c508664dfc` | — | 596 | 6星 |
+| Waleran I, Lord of Ligny | `b3ca17c5-7d25-4af3-ba7e-cf52dba0ebc7` | 20260823null | 597 | 3星 |
+| Waleran of Luxembourg | `b461f739-f808-4cab-98ab-95cc89ba824d` | 20260823null | 598 | 2星 |
+| William of Brabant | `8b233cc8-e4dd-4f26-97d8-bf5ef6f176fc` | 20260823null | 599 | 1星 |
+| Henry XIII of Bavaria | `dfbf7d92-8ea9-4c74-8bff-3afd89f3d128` | 20260823157 | 600 | 5星 |
+| Otto III of Bavaria | `a8b31f05-2f06-4a1c-be40-e30a40699839` | 20260823158 | 601 | 7星 |
+| Stephen I of Bavaria | `1410f15d-80f4-4d2d-895d-3c9114fc5f67` | 20260823159 | 602 | 4星 |
+| Henry XV of Bavaria | `c8867a50-760c-466f-90fb-87076bd2cca8` | 20260823160 | 603 | 4星 |
+| Henry XIV of Bavaria | `230f4517-b5f1-4291-a213-c739100684e0` | 20260823161 | 604 | 5星 |
+| Otto IV of Bavaria | `65d29168-0437-4f41-8cd1-2e3f710cc1a5` | 20260823162 | 605 | 4星 |
+| John I of Bavaria | `c147b0d3-0504-4174-8037-b23b2cebaf9e` | 20260823163 | 606 | 4星 |
+| Rudolf I, Count Palatine of the Rhine | `9d0fbaca-2e34-43ba-9082-1c737627212a` | 20260823126 | 607 | 6星 |
+| Frederick of Bavaria-Landshut | `b867f239-ba20-4bf0-97b7-426929b771e7` | 20260823127 | 608 | 6星 |
+| John II of Bavaria-Munich | `48f1c061-7a7c-4fc1-8a6b-cb6f5234cda5` | 20260823128 | 609 | 6星 |
+| Rudolf II of Austria | `73b42b1a-c2dd-4d64-bdb2-1c0d63528f00` | 20260823028 | 610 | 4星 |
+| Frederick the Fair | `7f2f30fb-2735-4e96-a1b6-f9ec8703e9ff` | 20260823029 | 611 | 7星 |
+| Albert II the Wise | `b56f6ca0-e20c-4c6a-a118-1c730bca3cf4` | 20260823030 | 612 | 6星 |
+| Otto the Merry | `c0e5a6fc-5c06-408b-bc49-4ab9e592ca4b` | 20260823031 | 613 | 4星 |
+| Rudolf IV the Founder | `4340617b-1fb7-43d9-afcc-bf826c55c8b7` | 20260823032 | 614 | 8星 |
+| Albert III of Austria | `b9386e8c-6886-4cea-b6f1-b1205598335c` | 20260823033 | 615 | 6星 |
+| Leopold III of Austria | `25bd05f2-280c-4472-a83a-e8a5081bd43f` | 20260823034 | 616 | 6星 |
+| Ernest the Iron | `f3e3018e-8778-4d52-948f-b5c002800b36` | 20260823035 | 617 | 5星 |
+| Albert IV of Austria | `6778e952-ab13-4294-9562-38559a6223e2` | 20260823036 | 618 | 5星 |
+| Ladislaus the Posthumous | `5541d187-7dfd-439c-b664-44ad103e413a` | 20260823037 | 619 | 7星 |
+| Alexios I Komnenos | `1ce160f2-c91e-4a3c-9c39-01f49c7c221e` | 20260823055 | 620 | 9星 |
+| John II Komnenos | `553a9d7d-4b84-4e4b-92ba-364ba957f16b` | 20260823056 | 621 | 8星 |
+| Manuel I Komnenos | `b894fb91-7dd5-4462-a0b8-df3846062080` | 20260823057 | 622 | 9星 |
+| Isaac Komnenos | `5b070791-d6ff-47eb-954d-74619dea5c6e` | 20260823058 | 623 | 5星 |
+| John Komnenos, governor of Cyprus | `c91c5e64-6f01-4677-b119-19a2fdecb854` | 20260823059 | 624 | 5星 |
+| Basil I the Macedonian | `0f8ba64a-0d93-48bf-b04d-2f81f5c267da` | 20260824141 | 625 | 9星 |
+| Leo VI the Wise | `b7f90af9-83ba-4fd2-b669-210944dc19ae` | 20260824142 | 626 | 8星 |
+| Alexander | `571b3f06-c957-4868-8962-4d7cb1947e80` | 20260824143 | 627 | 5星 |
+| Constantine VII Porphyrogenitus | `8e6a73d3-f2e0-44f5-8ec1-d3b221576923` | 20260824144 | 628 | 8星 |
+| Romanos I Lekapenos | `e598440b-92fd-43a6-9c17-3308a9373c78` | 20260824145 | 629 | 7星 |
+| Romanos II | `145cac5a-0fef-44db-8950-17bb38a81778` | 20260824146 | 630 | 6星 |
+| Nikephoros II Phokas | `d8e73392-b466-44ec-942d-3a8c110575f0` | 20260824147 | 631 | 8星 |
+| John I Tzimiskes | `980ef7d7-0105-4cc4-9ac6-7a414814deb0` | 20260824148 | 632 | 8星 |
+| Basil II Bulgar-Slayer | `52c7baf1-d8ad-4326-a034-8de7e8c02a95` | 20260824149 | 633 | 10星 |
+| Constantine VIII | `ddea7fce-59ff-4313-8e29-d7e771a05d45` | 20260824150 | 634 | 6星 |
+| Romanos III Argyros | `b63effda-1294-4e0c-9800-3c444c1ac570` | 20260824151 | 635 | 6星 |
+| Michael IV the Paphlagonian | `f2b4363d-7dec-422c-8623-a71ce3aaef05` | 20260824152 | 636 | 6星 |
+| Michael V Kalaphates | `572da624-3a53-4ad4-b50f-6fb7d3158e06` | 20260824153 | 637 | 5星 |
+| Zoe Porphyrogenita | `4554ad22-b277-438b-a5ce-9d54c2547cb1` | 20260824154 | 638 | 8星 |
+| Theodora Porphyrogenita | `cee65c91-7a93-4f45-8557-a0412ff3f2af` | 20260824155 | 639 | 7星 |
+| Constantine IX Monomachos | `de635b11-ba41-4e9c-8b14-948282733529` | 20260824156 | 640 | 7星 |
+| Michael VI Bringas | `c7a1c16c-094a-4f47-a055-b536cb722d98` | 20260824157 | 641 | 5星 |
+| Isaac I Komnenos | `4325a708-c93c-48d8-8f5a-42421b6ca624` | 20260824158 | 642 | 7星 |
+| Constantine X Doukas | `c62527e9-cd48-45f9-bde9-62df12ed3603` | 20260824159 | 643 | 6星 |
+| Eudokia Makrembolitissa | `b83d7598-8304-4d4b-8735-e746ff8d6e56` | 20260824160 | 644 | 6星 |
+| Romanos IV Diogenes | `f5e4134e-24da-40f1-adc2-6bca28520b78` | 20260824161 | 645 | 7星 |
+| Michael VII Doukas | `0f478f9b-8bf3-4a0b-8cc9-caae43abee73` | 20260824162 | 646 | 6星 |
+| Nikephoros III Botaneiates | `70b47f79-d621-4605-abad-57f2abcac0fb` | 20260824163 | 647 | 6星 |
+| Theophano | `cf21bd17-752e-4b1f-a90c-4713769b7fcf` | 20260824164 | 648 | 8星 |
+| Theodora, daughter of Constantine VII | `04e07f57-1226-456e-a5ea-3372eac28e14` | 20260824165 | 649 | 5星 |
+| Henry I of Castile | `adf5bf6b-be23-47c6-8e20-61bf25ab6e87` | 20260824650 | 650 | 5星 |
+| Berengaria of Castile | `1dc9b477-532f-4b5a-a7ce-6a77980575b2` | 20260824651 | 651 | 7星 |
+| Ferdinand III of Castile | `0e6f4806-97e9-4338-973c-dae9a9a07015` | 20260824652 | 652 | 9星 |
+| Alfonso X of Castile | `1ed74ac1-983b-44be-940b-3e6b419ac387` | 20260824653 | 653 | 9星 |
+| Sancho IV of Castile | `be9cc4d9-cd59-4203-97d4-78920da35a23` | 20260824654 | 654 | 6星 |
+| Ferdinand IV of Castile | `517aa9a0-b775-4054-8b6e-589d14b34511` | 20260824655 | 655 | 6星 |
+| Alfonso XI of Castile | `1623e0c3-ccd6-49bd-9e4c-f1f5cdb2c741` | 20260824656 | 656 | 8星 |
+| Peter I of Castile | `ceda6ce7-e0fe-47a3-a9d6-f8a68b10c40d` | 20260824657 | 657 | 8星 |
+| Henry II of Castile | `0e0a138a-2cb2-4080-be59-715e17e67c58` | 20260824658 | 658 | 8星 |
+| John I of Castile | `7b26a586-3a89-430b-9153-a351fcba275e` | 20260824659 | 659 | 7星 |
+| Henry III of Castile | `f14f893c-51a6-4b96-84bd-3944e372e63c` | 20260824660 | 660 | 6星 |
+| John II of Castile | `a8a46f80-458d-4ec6-8045-8f5825d12ec2` | 20260824661 | 661 | 7星 |
+| Henry IV of Castile | `866d8d7e-976b-4d11-b1e5-c9412b5f4e05` | 20260824662 | 662 | 6星 |
+| Isabella I of Castile | `fc645718-f108-440d-a69c-57c13421388b` | 20260824663 | 663 | 10星 |
+| Joanna of Castile | `320bf6a4-36a1-4ead-9c62-aa749b46d9b2` | 20260824664 | 664 | 8星 |
 
 ## 校验结果
 
-- 人数：563；UUID 与 manifest.order 一一对应；总序号连续 1→563。
+- 人数：624；UUID 与 manifest.order 一一对应；总序号连续 1→624。

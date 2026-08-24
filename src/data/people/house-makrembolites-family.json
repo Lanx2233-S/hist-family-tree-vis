@@ -1,0 +1,154 @@
+[
+  {
+    "id": "b83d7598-8304-4d4b-8735-e746ff8d6e56",
+    "firstName": "Eudokia",
+    "lastName": "Makrembolitissa",
+    "displayName": "Eudokia Makrembolitissa",
+    "fullName": "Eudokia Makrembolitissa, Byzantine Empress and Regent",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [
+      "Eudocia Macrembolitissa",
+      "Eudokia Makrembolites",
+      "Εὐδοκία Μακρεμβολίτισσα"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "欧多基娅·马克伦博利提萨",
+    "fullNameCn": "拜占庭女皇兼摄政欧多基娅·马克伦博利提萨",
+    "birthYear": 1030,
+    "deathYear": 1096,
+    "birthPlace": "",
+    "birthPlaceCn": "",
+    "deathPlace": "Constantinople, Byzantine Empire",
+    "deathPlaceCn": "拜占庭帝国君士坦丁堡",
+    "gender": "female",
+    "dynasty": "Makrembolites",
+    "house": "Makrembolites family",
+    "culture": "Byzantine",
+    "faith": "Eastern Orthodox",
+    "primaryTitle": "Byzantine Empress and Regent",
+    "primaryTitleCn": "拜占庭女皇兼摄政",
+    "titles": [
+      {
+        "title": "Augusta / Empress consort",
+        "titleCn": "奥古斯塔／皇后",
+        "startYear": 1059,
+        "endYear": 1067
+      },
+      {
+        "title": "Empress regent",
+        "titleCn": "摄政女皇",
+        "startYear": 1067,
+        "endYear": 1068
+      },
+      {
+        "title": "Empress consort",
+        "titleCn": "皇后",
+        "startYear": 1068,
+        "endYear": 1071
+      },
+      {
+        "title": "Empress regent",
+        "titleCn": "摄政女皇",
+        "startYear": 1071,
+        "endYear": 1071
+      }
+    ],
+    "tags": [
+      "monarch",
+      "empress"
+    ],
+    "rank": "emperor",
+    "importanceScore": 75,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "c62527e9-cd48-45f9-bde9-62df12ed3603",
+        "f5e4134e-24da-40f1-adc2-6bca28520b78"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "0f478f9b-8bf3-4a0b-8cc9-caae43abee73"
+      ]
+    },
+    "events": [
+      {
+        "year": 1059,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "queen"
+        ],
+        "weight": 75,
+        "label": "Became Augusta when Constantine X took the throne",
+        "labelCn": "君士坦丁十世即位后成为奥古斯塔",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Eudokia_Makrembolitissa",
+        "note": "Eudokia appeared publicly and numismatically alongside Constantine, becoming a central member of the Doukas imperial regime."
+      },
+      {
+        "year": 1067,
+        "month": 5,
+        "type": "regency",
+        "tags": [
+          "regency",
+          "government"
+        ],
+        "weight": 100,
+        "label": "Assumed government for her minor sons",
+        "labelCn": "为未成年诸子摄政并掌握政府",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Eudokia_Makrembolitissa",
+        "note": "After Constantine X's death, Eudokia governed in her own right together with the young emperors Michael and Konstantios."
+      },
+      {
+        "year": 1067,
+        "type": "government",
+        "tags": [
+          "legal",
+          "politics"
+        ],
+        "weight": 80,
+        "label": "Obtained release from her oath not to remarry",
+        "labelCn": "解除不得再婚的誓约",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Eudokia_Makrembolitissa",
+        "note": "Because military pressure made an adult commander desirable, Eudokia secured ecclesiastical and political release from the oath imposed at Constantine X's death."
+      },
+      {
+        "year": 1068,
+        "month": 1,
+        "day": 1,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "government"
+        ],
+        "weight": 100,
+        "label": "Married Romanos Diogenes and elevated him as emperor",
+        "labelCn": "与罗曼努斯·第欧根尼结婚并将其立为皇帝",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Eudokia_Makrembolitissa",
+        "note": "The marriage brought an experienced military aristocrat into the imperial family while preserving the crowned rights of Eudokia's Doukas sons."
+      },
+      {
+        "year": 1096,
+        "type": "death",
+        "tags": [
+          "death",
+          "uncertain"
+        ],
+        "weight": 55,
+        "label": "Died after long monastic retirement",
+        "labelCn": "长期修道院生活后去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Eudokia_Makrembolitissa",
+        "note": "A death year of 1096 is widely repeated and supported by some biographical traditions, but not all prosopographical authorities treat it as fully secure."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Eudokia_Makrembolitissa",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Eudokia_Makrembolitissa",
+    "sourceNote": "Lynda Garland, Byzantine Empresses: Women and Power in Byzantium, AD 527–1204; Michael Psellos, Chronographia; Oxford Dictionary of Byzantium; Prosopography of the Byzantine World; Encyclopaedia Britannica / Encyclopedia.com biographical traditions; Wikipedia supplementary chronology.",
+    "notes": "Eudokia was Constantine X's widow, mother of Michael VII and a genuine governing figure during the 1067 minority. Her marriage to Romanos IV was a political solution to military pressure, but after Manzikert the Doukas faction removed both Romanos and Eudokia from effective authority.\n\nUnlinked family: father: John Makrembolites; child: Unnamed son; child: Anne Doukaina; child: Andronikos Doukas; child: Theodora Doukaina; child: Konstantios Doukas; child: Zoe Doukaina; child: Nikephoros Diogenes; child: Leo Diogenes",
+    "createdDate": "20260824",
+    "createdOrder": 79
+  }
+]

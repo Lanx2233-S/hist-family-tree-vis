@@ -533,5 +533,128 @@
     "notes": "Margaret inherited Hainaut, Holland and Zeeland after William II's childless death. Her marriage to Emperor Louis IV carried the inheritance into the Wittelsbach dynasty; after conflict with her son William, she retained Hainaut until her death in 1356. The requested name 'Margaret I of Hainaut' is potentially misleading. She is normally Margaret II of Hainaut but Margaret I of Holland. The Wittelsbach successor in Hainaut in 1356 was her son William III of Hainaut (1330–1389), not Albert I. William III is missing from the requested 15-person list and must not be replaced by a fictional direct Margaret-to-Albert succession.",
     "createdDate": "20260823",
     "createdOrder": 102
+  },
+  {
+    "id": "22f4d5e6-90f8-4638-8526-97fb3651f6e1",
+    "firstName": "Beatrice",
+    "lastName": "",
+    "displayName": "Beatrice of Avesnes",
+    "fullName": "Beatrice of Avesnes, Countess of Luxembourg",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Béatrice d'Avesnes",
+      "Beatrix of Avesnes",
+      "Beatrix von Avesnes"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "阿韦讷的贝阿特丽丝",
+    "fullNameCn": "卢森堡伯爵夫人阿韦讷的贝阿特丽丝",
+    "nicknameCn": "",
+    "birthYear": "",
+    "deathYear": 1321,
+    "birthPlace": "",
+    "birthPlaceCn": "",
+    "deathPlace": "Beaumont Abbey near Valenciennes",
+    "deathPlaceCn": "瓦朗谢讷附近博蒙修道院",
+    "gender": "female",
+    "dynasty": "Avesnes dynasty",
+    "house": "House of Avesnes",
+    "culture": "Hainaut-French",
+    "faith": "Catholic",
+    "primaryTitle": "Countess of Luxembourg and Regent",
+    "primaryTitleCn": "卢森堡伯爵夫人兼摄政",
+    "titles": [
+      {
+        "title": "Countess consort of Luxembourg",
+        "titleCn": "卢森堡伯爵夫人",
+        "startYear": 1281,
+        "endYear": 1288
+      },
+      {
+        "title": "Regent of Luxembourg",
+        "titleCn": "卢森堡摄政",
+        "startYear": 1288,
+        "endYear": 1295
+      }
+    ],
+    "tags": [
+      "count",
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 60,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "4c98a079-295a-4554-b6c6-96c8e947cd11"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "ec618819-cd33-44bb-b8f8-fb50e97cbdb9",
+        "b461f739-f808-4cab-98ab-95cc89ba824d"
+      ]
+    },
+    "events": [
+      {
+        "year": 1265,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 75,
+        "label": "Married Henry VI of Luxembourg",
+        "labelCn": "与卢森堡的亨利六世结婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Beatrice_of_Avesnes",
+        "note": "The marriage connected the Luxembourg comital house with the Avesnes aristocracy of Hainaut. The precise marriage year is not uniformly reported and 1265 is an approximate conventional placement."
+      },
+      {
+        "year": 1288,
+        "type": "regency",
+        "tags": [
+          "regency",
+          "government"
+        ],
+        "weight": 100,
+        "label": "Assumed guardianship and government after Henry VI's death",
+        "labelCn": "亨利六世战死后承担监护与摄政",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Beatrice_of_Avesnes",
+        "note": "After Henry VI was killed at Worringen, Beatrice acted for her underage eldest son Henry VII. Surviving documents from 1290 explicitly show her exercising guardianship and political authority on behalf of her son and the county."
+      },
+      {
+        "year": 1310,
+        "type": "church",
+        "tags": [
+          "church",
+          "noble"
+        ],
+        "weight": 65,
+        "label": "Founded Beaumont Abbey",
+        "labelCn": "创建博蒙修道院",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Beatrice_of_Avesnes",
+        "note": "Beatrice established a religious foundation at Beaumont that became closely associated with her later life and burial."
+      },
+      {
+        "year": 1321,
+        "type": "death",
+        "tags": [
+          "death",
+          "noble"
+        ],
+        "weight": 60,
+        "label": "Died after surviving her imperial son Henry VII",
+        "labelCn": "在其皇帝之子亨利七世去世多年后逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Beatrice_of_Avesnes",
+        "note": "Beatrice died in 1321, having survived Henry VII by several years, and was associated with her foundation at Beaumont."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Beatrice_of_Avesnes",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Beatrice_of_Avesnes",
+    "sourceNote": "John A. Gades, Luxemburg in the Middle Ages; Anne McGee Morganstern, Gothic Tombs of Kinship in France, the Low Countries, and England; documentary scholarship on the minority of Henry VII and Beatrice's guardianship; Wikipedia used as a supplementary biographical index.",
+    "notes": "Beatrice became the key stabilizing figure in Luxembourg after Henry VI's death at Worringen. Her regency protected the position of the minor Henry VII, who later became Roman-German king and Holy Roman Emperor.\n\nConfidence / caveats: Her birth year is uncertain and is variously reconstructed within the 1250s. The exact marriage date is also uncertain. The end of her guardianship was gradual rather than a sharply defined constitutional date; Henry VII was governing independently by the mid-1290s. Older sources give different totals for her daughters, so only the consistently named children are listed.\n\nUnlinked family: Baldwin of Avesnes, Lord of Beaumont (not uniquely matched in the roster); Felicitas of Coucy (not uniquely matched in the roster); Baldwin of Luxembourg (not uniquely matched in the roster); Felicitas of Luxembourg (not uniquely matched in the roster); Margaret of Luxembourg (not uniquely matched in the roster).",
+    "createdDate": "20260823"
   }
 ]

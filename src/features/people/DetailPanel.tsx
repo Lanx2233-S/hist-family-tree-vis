@@ -14,6 +14,7 @@ import countyOfChampagneData from "../../data/titles/county-of-champagne.json";
 import kingOfNavarreData from "../../data/titles/king-of-navarre.json";
 import duchyOfAquitaineData from "../../data/titles/duchy-of-aquitaine.json";
 import duchyOfBavariaData from "../../data/titles/duchy-of-bavaria.json";
+import kingdomOfBohemiaData from "../../data/titles/kingdom-of-bohemia.json";
 
 type DetailPanelProps = {
   personId?: string;
@@ -33,6 +34,7 @@ const countyOfChampagneHolderIds = new Set((countyOfChampagneData.holders as Arr
 const kingOfNavarreHolderIds = new Set((kingOfNavarreData.holders as Array<{ personId: string | null }>).map(({ personId }) => personId).filter((id): id is string => id !== null));
 const duchyOfAquitaineHolderIds = new Set((duchyOfAquitaineData.holders as Array<{ personId: string | null }>).map(({ personId }) => personId).filter((id): id is string => id !== null));
 const duchyOfBavariaHolderIds = new Set((duchyOfBavariaData.holders as Array<{ personId: string }>).map(({ personId }) => personId));
+const kingdomOfBohemiaHolderIds = new Set((kingdomOfBohemiaData.holders as Array<{ personId: string | null }>).map(({ personId }) => personId).filter((id): id is string => id !== null));
 
 export function DetailPanel({ personId, onOpenHouse, onOpenTitleLineage }: DetailPanelProps = {}) {
   const people = useFamilyStore((state) => state.people);
@@ -44,7 +46,7 @@ export function DetailPanel({ personId, onOpenHouse, onOpenTitleLineage }: Detai
   const t = copyFor(language);
   const label = textFor(person, language);
   const heraldry = heraldryFor(person);
-  const hasTitleLineage = kingOfEnglandHolderIds.has(person.id) || kingOfFranceHolderIds.has(person.id) || kingOfScotlandHolderIds.has(person.id) || holyRomanEmperorHolderIds.has(person.id) || kingOfEastFranciaHolderIds.has(person.id) || kingdomOfSicilyHolderIds.has(person.id) || duchyOfBurgundyHolderIds.has(person.id) || duchyOfNormandyHolderIds.has(person.id) || countyOfChampagneHolderIds.has(person.id) || kingOfNavarreHolderIds.has(person.id) || duchyOfAquitaineHolderIds.has(person.id) || duchyOfBavariaHolderIds.has(person.id);
+  const hasTitleLineage = kingOfEnglandHolderIds.has(person.id) || kingOfFranceHolderIds.has(person.id) || kingOfScotlandHolderIds.has(person.id) || holyRomanEmperorHolderIds.has(person.id) || kingOfEastFranciaHolderIds.has(person.id) || kingdomOfSicilyHolderIds.has(person.id) || duchyOfBurgundyHolderIds.has(person.id) || duchyOfNormandyHolderIds.has(person.id) || countyOfChampagneHolderIds.has(person.id) || kingOfNavarreHolderIds.has(person.id) || duchyOfAquitaineHolderIds.has(person.id) || duchyOfBavariaHolderIds.has(person.id) || kingdomOfBohemiaHolderIds.has(person.id);
   const titleLineageNames = new Set([
     kingOfEnglandData.canonicalName, ...kingOfEnglandData.aliases,
     kingOfFranceData.canonicalName, ...kingOfFranceData.aliases,
@@ -58,6 +60,7 @@ export function DetailPanel({ personId, onOpenHouse, onOpenTitleLineage }: Detai
     kingOfNavarreData.canonicalName, ...kingOfNavarreData.aliases,
     duchyOfAquitaineData.canonicalName, ...duchyOfAquitaineData.aliases,
     duchyOfBavariaData.canonicalName, ...duchyOfBavariaData.aliases,
+    kingdomOfBohemiaData.canonicalName, ...kingdomOfBohemiaData.aliases,
   ]);
   const topEvents = byImportance(person.events).slice(0, 3).sort((a, b) => eventDateValue(a) - eventDateValue(b));
   const timelineEvents = [...person.events].sort((a, b) => eventDateValue(a) - eventDateValue(b));

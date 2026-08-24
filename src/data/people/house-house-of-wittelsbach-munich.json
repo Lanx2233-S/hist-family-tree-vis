@@ -1,0 +1,94 @@
+[
+  {
+    "id": "48f1c061-7a7c-4fc1-8a6b-cb6f5234cda5",
+    "firstName": "John",
+    "lastName": "of Bavaria",
+    "displayName": "John II of Bavaria-Munich",
+    "fullName": "John II, Duke of Bavaria-Munich",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "巴伐利亚-慕尼黑的约翰二世",
+    "fullNameCn": "巴伐利亚-慕尼黑的约翰二世",
+    "birthYear": 1341,
+    "deathYear": 1397,
+    "birthPlace": "Bavaria",
+    "birthPlaceCn": "巴伐利亚",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "Wittelsbach dynasty",
+    "house": "House of Wittelsbach-Munich",
+    "culture": "German",
+    "faith": "Catholic",
+    "primaryTitle": "Duke of Bavaria-Munich",
+    "primaryTitleCn": "巴伐利亚-慕尼黑公爵",
+    "titles": [
+      {
+        "title": "Duke of Bavaria-Munich",
+        "titleCn": "巴伐利亚-慕尼黑公爵",
+        "startYear": 1375,
+        "endYear": 1397
+      }
+    ],
+    "tags": [
+      "duke",
+      "noble"
+    ],
+    "rank": "duke",
+    "importanceScore": 60,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "c3a4c21b-7783-4f3d-8528-2b8962e1d9cc",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1375,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "dynasty"
+        ],
+        "weight": 78,
+        "label": "Inherited Bavaria jointly with his brothers",
+        "labelCn": "与兄弟共同继承巴伐利亚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/John_II,_Duke_of_Bavaria"
+      },
+      {
+        "year": 1392,
+        "type": "partition",
+        "tags": [
+          "territory",
+          "succession"
+        ],
+        "weight": 84,
+        "label": "Received Bavaria-Munich in the partition",
+        "labelCn": "在分割中取得巴伐利亚-慕尼黑",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Partition_of_Bavaria"
+      },
+      {
+        "year": 1397,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 68,
+        "label": "Died at Munich",
+        "labelCn": "在慕尼黑去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/John_II,_Duke_of_Bavaria"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/John_II_of_Bavaria-Munich",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/John_II_of_Bavaria-Munich",
+    "sourceNote": "Eldest son of Stephen II; founder of the Bavaria-Munich branch in 1392.",
+    "notes": "Eldest son of Stephen II; first Duke of Bavaria-Munich after the 1392 partition, and brother of Stephen III and Frederick.",
+    "createdDate": "20260823",
+    "createdOrder": 128
+  }
+]

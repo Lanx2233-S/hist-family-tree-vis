@@ -42,11 +42,14 @@
     "relationships": {
       "fatherId": "",
       "motherId": "",
-      "spouseIds": [],
+      "spouseIds": [
+        "da3659e6-83af-4afa-a772-f0c508664dfc"
+      ],
       "partnerIds": [],
       "childIds": [
         "c1016000-0000-4000-8000-000000000000",
-        "c1017000-0000-4000-8000-000000000000"
+        "c1017000-0000-4000-8000-000000000000",
+        "8b233cc8-e4dd-4f26-97d8-bf5ef6f176fc"
       ]
     },
     "events": [
@@ -543,5 +546,53 @@
       "detailCn": "当时的记载称他临终前发热、喉咙被痰液阻塞；后世史料对其死因说法不一，多认为是肺炎或咽部感染。",
       "wikiUrl": "https://en.wikipedia.org/wiki/Philip_the_Good"
     }
+  },
+  {
+    "firstName": "William",
+    "lastName": "of Brabant",
+    "displayName": "William of Brabant",
+    "fullName": "William of Brabant",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "布拉班特的威廉",
+    "fullNameCn": "布拉班特的威廉",
+    "nicknameCn": "",
+    "birthYear": 1410,
+    "deathYear": 1410,
+    "birthPlace": "",
+    "birthPlaceCn": "",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "Capetian dynasty",
+    "house": "House of Valois-Burgundy",
+    "culture": "French",
+    "faith": "Catholic",
+    "primaryTitle": "",
+    "primaryTitleCn": "",
+    "titles": [],
+    "tags": [
+      "noble"
+    ],
+    "rank": "noble",
+    "importanceScore": 5,
+    "relationships": {
+      "fatherId": "c1015000-0000-4000-8000-000000000000",
+      "motherId": "da3659e6-83af-4afa-a772-f0c508664dfc",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [],
+    "wikiUrl": "",
+    "portraitUrl": "",
+    "sourceUrl": "https://www.deutsche-biographie.de/gnd136846629.html",
+    "sourceNote": "Named in the local Elisabeth of Görlitz research note as the son from her first marriage, born and died in 1410.",
+    "notes": "Basic card created solely from the local note. Some modern summaries describe the marriage as childless; the source note records this child with that caveat.",
+    "historicalRating": 1,
+    "createdDate": "20260823",
+    "createdOrder": null,
+    "id": "8b233cc8-e4dd-4f26-97d8-bf5ef6f176fc"
   }
 ]

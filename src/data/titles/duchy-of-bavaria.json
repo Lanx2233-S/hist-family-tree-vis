@@ -4,7 +4,7 @@
   "canonicalNameCn": "巴伐利亚公爵",
   "form": "hereditary duchy",
   "aliases": [
-    "Duke of Bavaria-Ingolstadt"
+    "Duke of Bavaria-Munich"
   ],
   "nameForms": [
     {
@@ -73,12 +73,21 @@
     },
     {
       "kind": "person",
-      "personId": "7f383104-7d38-4dd0-a109-dd1c9caa48ec",
+      "personId": "48f1c061-7a7c-4fc1-8a6b-cb6f5234cda5",
       "startYear": 1375,
-      "endYear": 1413,
+      "endYear": 1392,
       "titleForm": "Duke of Bavaria",
-      "note": "Succeeded his father Stephen II; after the 1392 partition the Ingolstadt line. His daughter Isabeau married Charles VI of France.",
-      "noteCn": "继承其父斯蒂芬二世；1392 年分割后因戈尔施塔特支。其女伊莎贝拉嫁给法兰西的查理六世。"
+      "note": "John II ruled Bavaria jointly with his brothers after Stephen II's death.",
+      "noteCn": "斯蒂芬二世去世后，约翰二世与兄弟共同统治巴伐利亚。"
+    },
+    {
+      "kind": "person",
+      "personId": "48f1c061-7a7c-4fc1-8a6b-cb6f5234cda5",
+      "startYear": 1392,
+      "endYear": 1397,
+      "titleForm": "Duke of Bavaria-Munich",
+      "note": "The 1392 partition made John II the first duke of the Munich branch, the paternal line of Maximilian I.",
+      "noteCn": "1392 年分割后，约翰二世成为慕尼黑支首任公爵；该支正是马克西米连一世的父系。"
     }
   ]
 }

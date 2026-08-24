@@ -1,0 +1,2332 @@
+[
+  {
+    "id": "8777ca36-1cb4-478a-b4e2-8b39f86e50da",
+    "firstName": "Vratislaus",
+    "lastName": "II",
+    "displayName": "Vratislaus II",
+    "fullName": "Vratislaus II",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "波希米亚的弗拉季斯拉夫二世",
+    "fullNameCn": "波希米亚的弗拉季斯拉夫二世",
+    "birthYear": 1032,
+    "deathYear": 1092,
+    "birthPlace": "Bohemia",
+    "birthPlaceCn": "波希米亚",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "Přemyslid dynasty",
+    "house": "House of Přemyslid",
+    "culture": "Bohemian",
+    "faith": "Catholic",
+    "primaryTitle": "Duke of Bohemia",
+    "primaryTitleCn": "波希米亚公爵",
+    "titles": [
+      {
+        "title": "Duke of Bohemia",
+        "titleCn": "波希米亚公爵",
+        "startYear": 1061,
+        "endYear": 1085
+      },
+      {
+        "title": "King of Bohemia",
+        "titleCn": "波希米亚国王",
+        "startYear": 1085,
+        "endYear": 1092
+      }
+    ],
+    "tags": [
+      "noble"
+    ],
+    "rank": "duke",
+    "importanceScore": 60,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "f4e78109-6b3e-4e0b-828c-b8db1c034ef3",
+        "8c5ff94d-dff6-4d8f-b104-46300308f484",
+        "401ac294-cb37-41ec-90e0-d8ed1719cc08",
+        "bf9bdfaf-9eb5-49a7-b4c9-025ec7d925ac"
+      ]
+    },
+    "events": [
+      {
+        "year": 1032,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Vratislaus_II"
+      },
+      {
+        "year": 1061,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 76,
+        "label": "Became Duke of Bohemia",
+        "labelCn": "继承波希米亚公爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Vratislaus_II"
+      },
+      {
+        "year": 1092,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Vratislaus_II"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Vratislaus_II",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Vratislaus_II",
+    "sourceNote": "Basic card for the Bohemian succession.",
+    "notes": "Vratislaus II was the first Bohemian king, crowned in 1085; the royal title was not yet hereditary.",
+    "createdDate": "20260823",
+    "createdOrder": 136
+  },
+  {
+    "id": "f4e78109-6b3e-4e0b-828c-b8db1c034ef3",
+    "firstName": "Bretislaus",
+    "lastName": "II",
+    "displayName": "Bretislaus II",
+    "fullName": "Bretislaus II",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "波希米亚的布雷季斯拉夫二世",
+    "fullNameCn": "波希米亚的布雷季斯拉夫二世",
+    "birthYear": 1056,
+    "deathYear": 1100,
+    "birthPlace": "Bohemia",
+    "birthPlaceCn": "波希米亚",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "Přemyslid dynasty",
+    "house": "House of Přemyslid",
+    "culture": "Bohemian",
+    "faith": "Catholic",
+    "primaryTitle": "Duke of Bohemia",
+    "primaryTitleCn": "波希米亚公爵",
+    "titles": [
+      {
+        "title": "Duke of Bohemia",
+        "titleCn": "波希米亚公爵",
+        "startYear": 1092,
+        "endYear": 1100
+      }
+    ],
+    "tags": [
+      "noble"
+    ],
+    "rank": "duke",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "8777ca36-1cb4-478a-b4e2-8b39f86e50da",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1056,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Bretislaus_II"
+      },
+      {
+        "year": 1092,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 76,
+        "label": "Became Duke of Bohemia",
+        "labelCn": "继承波希米亚公爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Bretislaus_II"
+      },
+      {
+        "year": 1100,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Bretislaus_II"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Bretislaus_II",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Bretislaus_II",
+    "sourceNote": "Basic card for the Bohemian succession.",
+    "notes": "Succeeded Vratislaus II as duke; his death ended this succession generation.",
+    "createdDate": "20260823",
+    "createdOrder": 137
+  },
+  {
+    "id": "8c5ff94d-dff6-4d8f-b104-46300308f484",
+    "firstName": "Bořivoj",
+    "lastName": "II",
+    "displayName": "Bořivoj II",
+    "fullName": "Bořivoj II",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "波希米亚的博日沃伊二世",
+    "fullNameCn": "波希米亚的博日沃伊二世",
+    "birthYear": 1064,
+    "deathYear": 1124,
+    "birthPlace": "Bohemia",
+    "birthPlaceCn": "波希米亚",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "Přemyslid dynasty",
+    "house": "House of Přemyslid",
+    "culture": "Bohemian",
+    "faith": "Catholic",
+    "primaryTitle": "Duke of Bohemia",
+    "primaryTitleCn": "波希米亚公爵",
+    "titles": [
+      {
+        "title": "Duke of Bohemia",
+        "titleCn": "波希米亚公爵",
+        "startYear": 1100,
+        "endYear": 1107
+      },
+      {
+        "title": "Duke of Bohemia",
+        "titleCn": "波希米亚公爵",
+        "startYear": 1117,
+        "endYear": 1120
+      }
+    ],
+    "tags": [
+      "noble"
+    ],
+    "rank": "duke",
+    "importanceScore": 40,
+    "historicalRating": 4,
+    "relationships": {
+      "fatherId": "8777ca36-1cb4-478a-b4e2-8b39f86e50da",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1064,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Bo%C5%99ivoj_II"
+      },
+      {
+        "year": 1100,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 76,
+        "label": "Became Duke of Bohemia",
+        "labelCn": "继承波希米亚公爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Bo%C5%99ivoj_II"
+      },
+      {
+        "year": 1124,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Bo%C5%99ivoj_II"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Bo%C5%99ivoj_II",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Bo%C5%99ivoj_II",
+    "sourceNote": "Basic card for the Bohemian succession.",
+    "notes": "Held the duchy in two interrupted periods.",
+    "createdDate": "20260823",
+    "createdOrder": 138
+  },
+  {
+    "id": "1a611919-ae6c-4d15-91dd-7224a964370c",
+    "firstName": "Svatopluk",
+    "lastName": "",
+    "displayName": "Svatopluk",
+    "fullName": "Svatopluk",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "斯瓦托普鲁克",
+    "fullNameCn": "斯瓦托普鲁克",
+    "birthYear": 1075,
+    "deathYear": 1109,
+    "birthPlace": "Bohemia",
+    "birthPlaceCn": "波希米亚",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "Přemyslid dynasty",
+    "house": "House of Přemyslid",
+    "culture": "Bohemian",
+    "faith": "Catholic",
+    "primaryTitle": "Duke of Bohemia",
+    "primaryTitleCn": "波希米亚公爵",
+    "titles": [
+      {
+        "title": "Duke of Bohemia",
+        "titleCn": "波希米亚公爵",
+        "startYear": 1107,
+        "endYear": 1109
+      }
+    ],
+    "tags": [
+      "noble"
+    ],
+    "rank": "duke",
+    "importanceScore": 40,
+    "historicalRating": 4,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1075,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Svatopluk,_Duke_of_Bohemia"
+      },
+      {
+        "year": 1107,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 76,
+        "label": "Became Duke of Bohemia",
+        "labelCn": "继承波希米亚公爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Svatopluk,_Duke_of_Bohemia"
+      },
+      {
+        "year": 1109,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Svatopluk,_Duke_of_Bohemia"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Svatopluk,_Duke_of_Bohemia",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Svatopluk,_Duke_of_Bohemia",
+    "sourceNote": "Basic card for the Bohemian succession.",
+    "notes": "Held the Bohemian duchy briefly during the succession struggles.",
+    "createdDate": "20260823",
+    "createdOrder": 139
+  },
+  {
+    "id": "401ac294-cb37-41ec-90e0-d8ed1719cc08",
+    "firstName": "Vladislaus",
+    "lastName": "I",
+    "displayName": "Vladislaus I",
+    "fullName": "Vladislaus I",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "波希米亚的弗拉迪斯拉夫一世",
+    "fullNameCn": "波希米亚的弗拉迪斯拉夫一世",
+    "birthYear": 1070,
+    "deathYear": 1125,
+    "birthPlace": "Bohemia",
+    "birthPlaceCn": "波希米亚",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "Přemyslid dynasty",
+    "house": "House of Přemyslid",
+    "culture": "Bohemian",
+    "faith": "Catholic",
+    "primaryTitle": "Duke of Bohemia",
+    "primaryTitleCn": "波希米亚公爵",
+    "titles": [
+      {
+        "title": "Duke of Bohemia",
+        "titleCn": "波希米亚公爵",
+        "startYear": 1109,
+        "endYear": 1117
+      },
+      {
+        "title": "Duke of Bohemia",
+        "titleCn": "波希米亚公爵",
+        "startYear": 1120,
+        "endYear": 1125
+      }
+    ],
+    "tags": [
+      "noble"
+    ],
+    "rank": "duke",
+    "importanceScore": 40,
+    "historicalRating": 4,
+    "relationships": {
+      "fatherId": "8777ca36-1cb4-478a-b4e2-8b39f86e50da",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1070,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Vladislaus_I,_Duke_of_Bohemia"
+      },
+      {
+        "year": 1109,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 76,
+        "label": "Became Duke of Bohemia",
+        "labelCn": "继承波希米亚公爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Vladislaus_I,_Duke_of_Bohemia"
+      },
+      {
+        "year": 1125,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Vladislaus_I,_Duke_of_Bohemia"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Vladislaus_I,_Duke_of_Bohemia",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Vladislaus_I,_Duke_of_Bohemia",
+    "sourceNote": "Basic card for the Bohemian succession.",
+    "notes": "Ruled in two periods separated by the return of Bořivoj II.",
+    "createdDate": "20260823",
+    "createdOrder": 140
+  },
+  {
+    "id": "bf9bdfaf-9eb5-49a7-b4c9-025ec7d925ac",
+    "firstName": "Soběslav",
+    "lastName": "I",
+    "displayName": "Soběslav I",
+    "fullName": "Soběslav I",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "波希米亚的索别斯拉夫一世",
+    "fullNameCn": "波希米亚的索别斯拉夫一世",
+    "birthYear": 1075,
+    "deathYear": 1140,
+    "birthPlace": "Bohemia",
+    "birthPlaceCn": "波希米亚",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "Přemyslid dynasty",
+    "house": "House of Přemyslid",
+    "culture": "Bohemian",
+    "faith": "Catholic",
+    "primaryTitle": "Duke of Bohemia",
+    "primaryTitleCn": "波希米亚公爵",
+    "titles": [
+      {
+        "title": "Duke of Bohemia",
+        "titleCn": "波希米亚公爵",
+        "startYear": 1125,
+        "endYear": 1140
+      }
+    ],
+    "tags": [
+      "noble"
+    ],
+    "rank": "duke",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "8777ca36-1cb4-478a-b4e2-8b39f86e50da",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1075,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Sobeslaus_I,_Duke_of_Bohemia"
+      },
+      {
+        "year": 1125,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 76,
+        "label": "Became Duke of Bohemia",
+        "labelCn": "继承波希米亚公爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Sobeslaus_I,_Duke_of_Bohemia"
+      },
+      {
+        "year": 1140,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Sobeslaus_I,_Duke_of_Bohemia"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Sobeslaus_I,_Duke_of_Bohemia",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Sobeslaus_I,_Duke_of_Bohemia",
+    "sourceNote": "Basic card for the Bohemian succession.",
+    "notes": "Succeeded Vladislaus I and ruled until 1140.",
+    "createdDate": "20260823",
+    "createdOrder": 141
+  },
+  {
+    "id": "c96198b9-a0b9-4180-bbd4-d31359d64848",
+    "firstName": "Vladislaus",
+    "lastName": "II",
+    "displayName": "Vladislaus II",
+    "fullName": "Vladislaus II",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "波希米亚的弗拉迪斯拉夫二世",
+    "fullNameCn": "波希米亚的弗拉迪斯拉夫二世",
+    "birthYear": 1110,
+    "deathYear": 1174,
+    "birthPlace": "Bohemia",
+    "birthPlaceCn": "波希米亚",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "Přemyslid dynasty",
+    "house": "House of Přemyslid",
+    "culture": "Bohemian",
+    "faith": "Catholic",
+    "primaryTitle": "Duke of Bohemia",
+    "primaryTitleCn": "波希米亚公爵",
+    "titles": [
+      {
+        "title": "Duke of Bohemia",
+        "titleCn": "波希米亚公爵",
+        "startYear": 1140,
+        "endYear": 1158
+      },
+      {
+        "title": "King of Bohemia",
+        "titleCn": "波希米亚国王",
+        "startYear": 1158,
+        "endYear": 1172
+      }
+    ],
+    "tags": [
+      "monarch"
+    ],
+    "rank": "king",
+    "importanceScore": 60,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "e7ffca87-1281-481d-b738-b0f7feb3524b",
+        "e500ef1d-05b5-409c-aa76-8afaad2544cd"
+      ]
+    },
+    "events": [
+      {
+        "year": 1110,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Vladislaus_II,_Duke_of_Bohemia"
+      },
+      {
+        "year": 1140,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 76,
+        "label": "Became Duke of Bohemia",
+        "labelCn": "继承波希米亚公爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Vladislaus_II,_Duke_of_Bohemia"
+      },
+      {
+        "year": 1174,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Vladislaus_II,_Duke_of_Bohemia"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Vladislaus_II,_Duke_of_Bohemia",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Vladislaus_II,_Duke_of_Bohemia",
+    "sourceNote": "Basic card for the Bohemian succession.",
+    "notes": "Duke from 1140 and king from 1158; his royal title was granted for life.",
+    "createdDate": "20260823",
+    "createdOrder": 142
+  },
+  {
+    "id": "e7ffca87-1281-481d-b738-b0f7feb3524b",
+    "firstName": "Frederick",
+    "lastName": "of Bohemia",
+    "displayName": "Frederick of Bohemia",
+    "fullName": "Frederick of Bohemia",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "波希米亚的弗里德里希",
+    "fullNameCn": "波希米亚的弗里德里希",
+    "birthYear": 1142,
+    "deathYear": 1189,
+    "birthPlace": "Bohemia",
+    "birthPlaceCn": "波希米亚",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "Přemyslid dynasty",
+    "house": "House of Přemyslid",
+    "culture": "Bohemian",
+    "faith": "Catholic",
+    "primaryTitle": "Duke of Bohemia",
+    "primaryTitleCn": "波希米亚公爵",
+    "titles": [
+      {
+        "title": "Duke of Bohemia",
+        "titleCn": "波希米亚公爵",
+        "startYear": 1172,
+        "endYear": 1173
+      },
+      {
+        "title": "Duke of Bohemia",
+        "titleCn": "波希米亚公爵",
+        "startYear": 1178,
+        "endYear": 1189
+      }
+    ],
+    "tags": [
+      "noble"
+    ],
+    "rank": "duke",
+    "importanceScore": 40,
+    "historicalRating": 4,
+    "relationships": {
+      "fatherId": "c96198b9-a0b9-4180-bbd4-d31359d64848",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1142,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Frederick,_Duke_of_Bohemia"
+      },
+      {
+        "year": 1172,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 76,
+        "label": "Became Duke of Bohemia",
+        "labelCn": "继承波希米亚公爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Frederick,_Duke_of_Bohemia"
+      },
+      {
+        "year": 1189,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Frederick,_Duke_of_Bohemia"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Frederick,_Duke_of_Bohemia",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Frederick,_Duke_of_Bohemia",
+    "sourceNote": "Basic card for the Bohemian succession.",
+    "notes": "Held the duchy in two periods during the Přemyslid succession disputes.",
+    "createdDate": "20260823",
+    "createdOrder": 143
+  },
+  {
+    "id": "c1427fa9-dcf6-4bd2-b7ab-7f7192769526",
+    "firstName": "Soběslav",
+    "lastName": "II",
+    "displayName": "Soběslav II",
+    "fullName": "Soběslav II",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "波希米亚的索别斯拉夫二世",
+    "fullNameCn": "波希米亚的索别斯拉夫二世",
+    "birthYear": 1128,
+    "deathYear": 1180,
+    "birthPlace": "Bohemia",
+    "birthPlaceCn": "波希米亚",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "Přemyslid dynasty",
+    "house": "House of Přemyslid",
+    "culture": "Bohemian",
+    "faith": "Catholic",
+    "primaryTitle": "Duke of Bohemia",
+    "primaryTitleCn": "波希米亚公爵",
+    "titles": [
+      {
+        "title": "Duke of Bohemia",
+        "titleCn": "波希米亚公爵",
+        "startYear": 1173,
+        "endYear": 1178
+      }
+    ],
+    "tags": [
+      "noble"
+    ],
+    "rank": "duke",
+    "importanceScore": 40,
+    "historicalRating": 4,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1128,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Sobeslaus_II,_Duke_of_Bohemia"
+      },
+      {
+        "year": 1173,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 76,
+        "label": "Became Duke of Bohemia",
+        "labelCn": "继承波希米亚公爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Sobeslaus_II,_Duke_of_Bohemia"
+      },
+      {
+        "year": 1180,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Sobeslaus_II,_Duke_of_Bohemia"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Sobeslaus_II,_Duke_of_Bohemia",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Sobeslaus_II,_Duke_of_Bohemia",
+    "sourceNote": "Basic card for the Bohemian succession.",
+    "notes": "Held Bohemia between the two periods of Frederick's rule.",
+    "createdDate": "20260823",
+    "createdOrder": 144
+  },
+  {
+    "id": "44a02427-1557-4567-874e-d4097a55b3e5",
+    "firstName": "Conrad",
+    "lastName": "II Otto",
+    "displayName": "Conrad II Otto",
+    "fullName": "Conrad II Otto",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "波希米亚的康拉德二世·奥托",
+    "fullNameCn": "波希米亚的康拉德二世·奥托",
+    "birthYear": 1136,
+    "deathYear": 1191,
+    "birthPlace": "Bohemia",
+    "birthPlaceCn": "波希米亚",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "Přemyslid dynasty",
+    "house": "House of Přemyslid",
+    "culture": "Bohemian",
+    "faith": "Catholic",
+    "primaryTitle": "Duke of Bohemia",
+    "primaryTitleCn": "波希米亚公爵",
+    "titles": [
+      {
+        "title": "Duke of Bohemia",
+        "titleCn": "波希米亚公爵",
+        "startYear": 1189,
+        "endYear": 1191
+      }
+    ],
+    "tags": [
+      "noble"
+    ],
+    "rank": "duke",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1136,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Conrad_II_Otto,_Duke_of_Bohemia"
+      },
+      {
+        "year": 1189,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 76,
+        "label": "Became Duke of Bohemia",
+        "labelCn": "继承波希米亚公爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Conrad_II_Otto,_Duke_of_Bohemia"
+      },
+      {
+        "year": 1191,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Conrad_II_Otto,_Duke_of_Bohemia"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Conrad_II_Otto,_Duke_of_Bohemia",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Conrad_II_Otto,_Duke_of_Bohemia",
+    "sourceNote": "Basic card for the Bohemian succession.",
+    "notes": "Succeeded Frederick and ruled briefly before his death.",
+    "createdDate": "20260823",
+    "createdOrder": 145
+  },
+  {
+    "id": "62cd95e3-84f7-4007-857a-cc1cf328615c",
+    "firstName": "Wenceslaus",
+    "lastName": "",
+    "displayName": "Wenceslaus II of Bohemia",
+    "fullName": "Wenceslaus II of Bohemia",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "波希米亚的瓦茨拉夫二世",
+    "fullNameCn": "波希米亚的瓦茨拉夫二世",
+    "birthYear": 1137,
+    "deathYear": 1192,
+    "birthPlace": "Bohemia",
+    "birthPlaceCn": "波希米亚",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "Přemyslid dynasty",
+    "house": "House of Přemyslid",
+    "culture": "Bohemian",
+    "faith": "Catholic",
+    "primaryTitle": "Duke of Bohemia",
+    "primaryTitleCn": "波希米亚公爵",
+    "titles": [
+      {
+        "title": "Duke of Bohemia",
+        "titleCn": "波希米亚公爵",
+        "startYear": 1191,
+        "endYear": 1192
+      }
+    ],
+    "tags": [
+      "noble"
+    ],
+    "rank": "duke",
+    "importanceScore": 30,
+    "historicalRating": 3,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1137,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Wenceslaus_II,_Duke_of_Bohemia"
+      },
+      {
+        "year": 1191,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 76,
+        "label": "Became Duke of Bohemia",
+        "labelCn": "继承波希米亚公爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Wenceslaus_II,_Duke_of_Bohemia"
+      },
+      {
+        "year": 1192,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Wenceslaus_II,_Duke_of_Bohemia"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Wenceslaus_II,_Duke_of_Bohemia",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Wenceslaus_II,_Duke_of_Bohemia",
+    "sourceNote": "Basic card for the Bohemian succession.",
+    "notes": "Held the duchy for one short succession period.",
+    "createdDate": "20260823",
+    "createdOrder": 146
+  },
+  {
+    "id": "e500ef1d-05b5-409c-aa76-8afaad2544cd",
+    "firstName": "Ottokar",
+    "lastName": "I",
+    "displayName": "Ottokar I",
+    "fullName": "Ottokar I",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "波希米亚的奥托卡一世",
+    "fullNameCn": "波希米亚的奥托卡一世",
+    "birthYear": 1155,
+    "deathYear": 1230,
+    "birthPlace": "Bohemia",
+    "birthPlaceCn": "波希米亚",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "Přemyslid dynasty",
+    "house": "House of Přemyslid",
+    "culture": "Bohemian",
+    "faith": "Catholic",
+    "primaryTitle": "Duke of Bohemia",
+    "primaryTitleCn": "波希米亚公爵",
+    "titles": [
+      {
+        "title": "Duke of Bohemia",
+        "titleCn": "波希米亚公爵",
+        "startYear": 1192,
+        "endYear": 1193
+      },
+      {
+        "title": "Duke of Bohemia",
+        "titleCn": "波希米亚公爵",
+        "startYear": 1197,
+        "endYear": 1198
+      },
+      {
+        "title": "King of Bohemia",
+        "titleCn": "波希米亚国王",
+        "startYear": 1198,
+        "endYear": 1230
+      }
+    ],
+    "tags": [
+      "monarch"
+    ],
+    "rank": "king",
+    "importanceScore": 70,
+    "historicalRating": 7,
+    "relationships": {
+      "fatherId": "c96198b9-a0b9-4180-bbd4-d31359d64848",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "4d6db4d6-5d1d-472e-bc4f-6db4cc84b0c3"
+      ]
+    },
+    "events": [
+      {
+        "year": 1155,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ottokar_I_of_Bohemia"
+      },
+      {
+        "year": 1192,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 76,
+        "label": "Became Duke of Bohemia",
+        "labelCn": "继承波希米亚公爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ottokar_I_of_Bohemia"
+      },
+      {
+        "year": 1230,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ottokar_I_of_Bohemia"
+      },
+      {
+        "year": 1198,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "monarch"
+        ],
+        "weight": 88,
+        "label": "Secured the hereditary royal title",
+        "labelCn": "取得波希米亚世袭王位",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ottokar_I_of_Bohemia"
+      },
+      {
+        "year": 1212,
+        "type": "diplomacy",
+        "tags": [
+          "diplomacy",
+          "title"
+        ],
+        "weight": 86,
+        "label": "Received the Golden Bull of Sicily",
+        "labelCn": "获得《西西里金玺诏书》",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Golden_Bull_of_Sicily"
+      },
+      {
+        "year": 1224,
+        "type": "government",
+        "tags": [
+          "government"
+        ],
+        "weight": 70,
+        "label": "Strengthened royal administration",
+        "labelCn": "强化王室行政",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ottokar_I_of_Bohemia"
+      },
+      {
+        "year": 1230,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 80,
+        "label": "Died as King of Bohemia",
+        "labelCn": "以波希米亚国王身份去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ottokar_I_of_Bohemia"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Ottokar_I_of_Bohemia",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Ottokar_I_of_Bohemia",
+    "sourceNote": "Basic card for the Bohemian succession.",
+    "notes": "Secured the hereditary royal title for Bohemia in 1198 and definitively established the kingdom.",
+    "createdDate": "20260823",
+    "createdOrder": 147
+  },
+  {
+    "id": "dd5fd12f-4c04-4e24-8d9b-2b946089824c",
+    "firstName": "Henry",
+    "lastName": "Bretislaus",
+    "displayName": "Henry Bretislaus",
+    "fullName": "Henry Bretislaus",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "亨利·布雷季斯拉夫",
+    "fullNameCn": "亨利·布雷季斯拉夫",
+    "birthYear": 1150,
+    "deathYear": 1197,
+    "birthPlace": "Bohemia",
+    "birthPlaceCn": "波希米亚",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "Přemyslid dynasty",
+    "house": "House of Přemyslid",
+    "culture": "Bohemian",
+    "faith": "Catholic",
+    "primaryTitle": "Duke of Bohemia",
+    "primaryTitleCn": "波希米亚公爵",
+    "titles": [
+      {
+        "title": "Duke of Bohemia",
+        "titleCn": "波希米亚公爵",
+        "startYear": 1193,
+        "endYear": 1197
+      }
+    ],
+    "tags": [
+      "noble"
+    ],
+    "rank": "duke",
+    "importanceScore": 40,
+    "historicalRating": 4,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1150,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_Bretislaus"
+      },
+      {
+        "year": 1193,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 76,
+        "label": "Became Duke of Bohemia",
+        "labelCn": "继承波希米亚公爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_Bretislaus"
+      },
+      {
+        "year": 1197,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_Bretislaus"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Henry_Bretislaus",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Henry_Bretislaus",
+    "sourceNote": "Basic card for the Bohemian succession.",
+    "notes": "Ruled Bohemia during Ottokar I's temporary displacement.",
+    "createdDate": "20260823",
+    "createdOrder": 148
+  },
+  {
+    "id": "e80c16a2-4125-4ba5-a2db-040bd62add60",
+    "firstName": "Vladislaus",
+    "lastName": "Henry",
+    "displayName": "Vladislaus Henry",
+    "fullName": "Vladislaus Henry",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "弗拉迪斯拉夫·亨利",
+    "fullNameCn": "弗拉迪斯拉夫·亨利",
+    "birthYear": 1160,
+    "deathYear": 1222,
+    "birthPlace": "Bohemia",
+    "birthPlaceCn": "波希米亚",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "Přemyslid dynasty",
+    "house": "House of Přemyslid",
+    "culture": "Bohemian",
+    "faith": "Catholic",
+    "primaryTitle": "Duke of Bohemia",
+    "primaryTitleCn": "波希米亚公爵",
+    "titles": [
+      {
+        "title": "Duke of Bohemia",
+        "titleCn": "波希米亚公爵",
+        "startYear": 1197,
+        "endYear": 1198
+      }
+    ],
+    "tags": [
+      "noble"
+    ],
+    "rank": "duke",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1160,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Vladislaus_III,_Duke_of_Bohemia"
+      },
+      {
+        "year": 1197,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 76,
+        "label": "Became Duke of Bohemia",
+        "labelCn": "继承波希米亚公爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Vladislaus_III,_Duke_of_Bohemia"
+      },
+      {
+        "year": 1222,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Vladislaus_III,_Duke_of_Bohemia"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Vladislaus_III,_Duke_of_Bohemia",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Vladislaus_III,_Duke_of_Bohemia",
+    "sourceNote": "Basic card for the Bohemian succession.",
+    "notes": "Yielded the Bohemian succession to his brother Ottokar I.",
+    "createdDate": "20260823",
+    "createdOrder": 149
+  },
+  {
+    "id": "4d6db4d6-5d1d-472e-bc4f-6db4cc84b0c3",
+    "firstName": "Wenceslaus",
+    "lastName": "I",
+    "displayName": "Wenceslaus I",
+    "fullName": "Wenceslaus I",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "波希米亚的瓦茨拉夫一世",
+    "fullNameCn": "波希米亚的瓦茨拉夫一世",
+    "birthYear": 1205,
+    "deathYear": 1253,
+    "birthPlace": "Bohemia",
+    "birthPlaceCn": "波希米亚",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "Přemyslid dynasty",
+    "house": "House of Přemyslid",
+    "culture": "Bohemian",
+    "faith": "Catholic",
+    "primaryTitle": "King of Bohemia",
+    "primaryTitleCn": "波希米亚国王",
+    "titles": [
+      {
+        "title": "King of Bohemia",
+        "titleCn": "波希米亚国王",
+        "startYear": 1230,
+        "endYear": 1253
+      }
+    ],
+    "tags": [
+      "monarch"
+    ],
+    "rank": "king",
+    "importanceScore": 60,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "e500ef1d-05b5-409c-aa76-8afaad2544cd",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "82657f7d-e889-4afa-a3c9-d2241570e6c9"
+      ]
+    },
+    "events": [
+      {
+        "year": 1205,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Wenceslaus_I_of_Bohemia"
+      },
+      {
+        "year": 1230,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 76,
+        "label": "Became King of Bohemia",
+        "labelCn": "继承波希米亚国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Wenceslaus_I_of_Bohemia"
+      },
+      {
+        "year": 1253,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Wenceslaus_I_of_Bohemia"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Wenceslaus_I_of_Bohemia",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Wenceslaus_I_of_Bohemia",
+    "sourceNote": "Basic card for the Bohemian succession.",
+    "notes": "Succeeded his father Ottokar I as king.",
+    "createdDate": "20260823",
+    "createdOrder": 150
+  },
+  {
+    "id": "82657f7d-e889-4afa-a3c9-d2241570e6c9",
+    "firstName": "Ottokar",
+    "lastName": "II",
+    "displayName": "Ottokar II",
+    "fullName": "Ottokar II",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "波希米亚的奥托卡二世",
+    "fullNameCn": "波希米亚的奥托卡二世",
+    "birthYear": 1233,
+    "deathYear": 1278,
+    "birthPlace": "Bohemia",
+    "birthPlaceCn": "波希米亚",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "Přemyslid dynasty",
+    "house": "House of Přemyslid",
+    "culture": "Bohemian",
+    "faith": "Catholic",
+    "primaryTitle": "King of Bohemia",
+    "primaryTitleCn": "波希米亚国王",
+    "titles": [
+      {
+        "title": "King of Bohemia",
+        "titleCn": "波希米亚国王",
+        "startYear": 1253,
+        "endYear": 1278
+      }
+    ],
+    "tags": [
+      "monarch"
+    ],
+    "rank": "king",
+    "importanceScore": 80,
+    "historicalRating": 8,
+    "relationships": {
+      "fatherId": "4d6db4d6-5d1d-472e-bc4f-6db4cc84b0c3",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "446624f0-f071-4c86-8933-3079d0ac1f0b"
+      ]
+    },
+    "events": [
+      {
+        "year": 1233,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ottokar_II_of_Bohemia"
+      },
+      {
+        "year": 1253,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 76,
+        "label": "Became King of Bohemia",
+        "labelCn": "继承波希米亚国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ottokar_II_of_Bohemia"
+      },
+      {
+        "year": 1278,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ottokar_II_of_Bohemia"
+      },
+      {
+        "year": 1260,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "war"
+        ],
+        "weight": 82,
+        "label": "Defeated Hungary at Kressenbrunn",
+        "labelCn": "在克雷森布伦击败匈牙利",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Kressenbrunn"
+      },
+      {
+        "year": 1269,
+        "type": "territory",
+        "tags": [
+          "territory"
+        ],
+        "weight": 80,
+        "label": "Controlled Austria, Styria, Carinthia and Carniola",
+        "labelCn": "控制奥地利、施蒂里亚、克恩顿与卡尼鄂拉",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ottokar_II_of_Bohemia"
+      },
+      {
+        "year": 1273,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "political_crisis"
+        ],
+        "weight": 82,
+        "label": "Lost the imperial election to Rudolf of Habsburg",
+        "labelCn": "帝国选举败于哈布斯堡的鲁道夫",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ottokar_II_of_Bohemia"
+      },
+      {
+        "year": 1278,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "death"
+        ],
+        "weight": 92,
+        "label": "Killed at the Battle of Marchfeld",
+        "labelCn": "在马赫费尔德战役中战死",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Marchfeld"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Ottokar_II_of_Bohemia",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Ottokar_II_of_Bohemia",
+    "sourceNote": "Basic card for the Bohemian succession.",
+    "notes": "The powerful Přemyslid king whose defeat at Marchfeld opened the way to Habsburg ascendancy.",
+    "createdDate": "20260823",
+    "createdOrder": 151
+  },
+  {
+    "id": "446624f0-f071-4c86-8933-3079d0ac1f0b",
+    "firstName": "Wenceslaus",
+    "lastName": "II",
+    "displayName": "Wenceslaus II",
+    "fullName": "Wenceslaus II of Bohemia",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [
+      "Václav II.",
+      "Wenzel II.",
+      "Wacław II"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "波希米亚的瓦茨拉夫二世",
+    "fullNameCn": "波希米亚的瓦茨拉夫二世",
+    "birthYear": 1271,
+    "deathYear": 1305,
+    "birthPlace": "Prague, Kingdom of Bohemia",
+    "birthPlaceCn": "波希米亚王国布拉格",
+    "deathPlace": "Prague, Kingdom of Bohemia",
+    "deathPlaceCn": "波希米亚王国布拉格",
+    "deathCause": {
+      "kind": "uncertain",
+      "summary": "Probably pulmonary tuberculosis",
+      "summaryCn": "很可能死于肺结核",
+      "detail": "Contemporary and later accounts commonly attribute Wenceslaus's final illness to tuberculosis, but the diagnosis cannot be medically certain.",
+      "detailCn": "同时代与后世记载通常将其最后的疾病归为肺结核，但无法作出具有现代医学意义的确诊。",
+      "wikiUrl": "https://portal.nacr.cz/campublic/entities/38913"
+    },
+    "gender": "male",
+    "dynasty": "Přemyslid dynasty",
+    "house": "House of Přemyslid",
+    "culture": "Bohemian",
+    "faith": "Catholic",
+    "primaryTitle": "King of Bohemia",
+    "primaryTitleCn": "波希米亚国王",
+    "titles": [
+      {
+        "title": "King of Bohemia",
+        "titleCn": "波希米亚国王",
+        "startYear": 1278,
+        "endYear": 1305
+      },
+      {
+        "title": "Duke of Cracow",
+        "titleCn": "克拉科夫公爵",
+        "startYear": 1291,
+        "endYear": 1305
+      },
+      {
+        "title": "King of Poland",
+        "titleCn": "波兰国王",
+        "startYear": 1300,
+        "endYear": 1305
+      }
+    ],
+    "tags": [
+      "monarch"
+    ],
+    "rank": "king",
+    "importanceScore": 80,
+    "historicalRating": 8,
+    "relationships": {
+      "fatherId": "82657f7d-e889-4afa-a3c9-d2241570e6c9",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "0f674554-3d8f-4546-9c12-96ffaf3c2c18",
+        "895b64a3-721a-4ffe-b19c-22abef67c58e"
+      ]
+    },
+    "events": [
+      {
+        "year": 1278,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "monarch"
+        ],
+        "weight": 92,
+        "label": "Succeeded to the Bohemian crown under a Brandenburg regency",
+        "labelCn": "在勃兰登堡摄政下继承波希米亚王位",
+        "wikiUrl": "https://www.deutsche-biographie.de/sfz41769.html",
+        "note": "His father Ottokar II was killed at Marchfeld; seven-year-old Wenceslaus inherited the crown, while Otto V of Brandenburg governed until 1283."
+      },
+      {
+        "year": 1283,
+        "type": "politics",
+        "tags": [
+          "politics",
+          "monarch"
+        ],
+        "weight": 82,
+        "label": "Returned to Prague after the Brandenburg guardianship",
+        "labelCn": "勃兰登堡监护期结束后返回布拉格",
+        "wikiUrl": "https://www.deutsche-biographie.de/sfz41769.html",
+        "note": "His return ended the most restrictive phase of Otto V's guardianship, though noble factions continued to dominate government for several years."
+      },
+      {
+        "year": 1290,
+        "type": "politics",
+        "tags": [
+          "politics",
+          "political_crisis"
+        ],
+        "weight": 84,
+        "label": "Executed Záviš of Falkenstein and began personal rule",
+        "labelCn": "处决法尔肯施泰因的扎维什，开始亲政",
+        "wikiUrl": "https://www.treccani.it/enciclopedia/venceslao-ii_%28Dizionario-di-Storia%29/",
+        "note": "The fall of the dominant magnate Záviš ended the regency-era struggle for control of the young king."
+      },
+      {
+        "year": 1291,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "territory"
+        ],
+        "weight": 86,
+        "label": "Acquired the Duchy of Cracow and Lesser Poland",
+        "labelCn": "取得克拉科夫公国与小波兰",
+        "wikiUrl": "https://www.encyclopedia.com/reference/encyclopedias-almanacs-transcripts-and-maps/wenceslaus-ii-king-bohemia",
+        "note": "Invited by Polish lords after Henry IV Probus's death, Wenceslaus gained a decisive base for his later Polish kingship."
+      },
+      {
+        "year": 1297,
+        "month": 6,
+        "day": 2,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 82,
+        "label": "Crowned King of Bohemia at Prague",
+        "labelCn": "在布拉格加冕为波希米亚国王",
+        "wikiUrl": "https://www.deutsche-biographie.de/sfz41769.html"
+      },
+      {
+        "year": 1300,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 94,
+        "label": "Crowned King of Poland at Gniezno",
+        "labelCn": "在格涅兹诺加冕为波兰国王",
+        "wikiUrl": "https://www.encyclopedia.com/reference/encyclopedias-almanacs-transcripts-and-maps/wenceslaus-ii-king-bohemia",
+        "note": "The Polish coronation converted his regional foothold at Cracow into a royal claim over Poland."
+      },
+      {
+        "year": 1300,
+        "type": "government",
+        "tags": [
+          "government",
+          "legal"
+        ],
+        "weight": 88,
+        "label": "Reformed the coinage and issued the mining code",
+        "labelCn": "改革币制并颁行矿业法典",
+        "wikiUrl": "https://www.enciklopedija.hr/clanak/vaclav-ii",
+        "note": "The Prague groschen and the Ius regale montanorum turned the Kutná Hora silver boom into a durable fiscal foundation for the crown."
+      },
+      {
+        "year": 1301,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "dynasty"
+        ],
+        "weight": 86,
+        "label": "Secured the Hungarian crown for his son Wenceslaus",
+        "labelCn": "为儿子瓦茨拉夫取得匈牙利王冠",
+        "wikiUrl": "https://www.treccani.it/enciclopedia/venceslao-ii_%28Dizionario-di-Storia%29/",
+        "note": "After Andrew III's death, Wenceslaus accepted the Hungarian crown for his son, who was crowned as Ladislaus V."
+      },
+      {
+        "year": 1305,
+        "month": 6,
+        "day": 21,
+        "type": "death",
+        "tags": [
+          "death",
+          "monarch"
+        ],
+        "weight": 88,
+        "label": "Died at Prague",
+        "labelCn": "在布拉格去世",
+        "wikiUrl": "https://portal.nacr.cz/campublic/entities/38913",
+        "note": "He died aged 33, probably from pulmonary tuberculosis, and was succeeded in Bohemia and Poland by Wenceslaus III."
+      }
+    ],
+    "wikiUrl": "https://biography.hiu.cas.cz/wiki/V%C3%81CLAV_II._1271%E2%80%931305",
+    "portraitUrl": "",
+    "sourceUrl": "https://biography.hiu.cas.cz/wiki/V%C3%81CLAV_II._1271%E2%80%931305",
+    "sourceNote": "Biografický slovník českých zemí (Czech Academy of Sciences); Czech National Archives authority record; Treccani; Croatian Encyclopedia; Deutsche Biographie.",
+    "notes": "Wenceslaus II turned a precarious child succession into the high point of late Přemyslid power. From Bohemia he extended authority into Kraków and Poland, while his fiscal reforms based on Kutná Hora silver strengthened royal government. In 1301 he also obtained the Hungarian crown for his son, briefly projecting his dynasty across three kingdoms. His early death left this expansion dependent on Wenceslaus III, whose assassination ended the male Přemyslid line the following year.\n\nConfidence / caveats: He was born on 27 September 1271 and died in Prague on 21 June 1305. Pulmonary tuberculosis is the usual attribution for his death but is not certain by modern diagnostic standards. His mother Kunigunda of Halych and wives Judith of Habsburg and Elisabeth Richeza are not yet in the roster.",
+    "createdDate": "20260823",
+    "createdOrder": 152
+  },
+  {
+    "id": "0f674554-3d8f-4546-9c12-96ffaf3c2c18",
+    "firstName": "Wenceslaus",
+    "lastName": "III",
+    "displayName": "Wenceslaus III",
+    "fullName": "Wenceslaus III",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "波希米亚的瓦茨拉夫三世",
+    "fullNameCn": "波希米亚的瓦茨拉夫三世",
+    "birthYear": 1289,
+    "deathYear": 1306,
+    "birthPlace": "Bohemia",
+    "birthPlaceCn": "波希米亚",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "Přemyslid dynasty",
+    "house": "House of Přemyslid",
+    "culture": "Bohemian",
+    "faith": "Catholic",
+    "primaryTitle": "King of Bohemia",
+    "primaryTitleCn": "波希米亚国王",
+    "titles": [
+      {
+        "title": "King of Bohemia",
+        "titleCn": "波希米亚国王",
+        "startYear": 1305,
+        "endYear": 1306
+      }
+    ],
+    "tags": [
+      "monarch"
+    ],
+    "rank": "king",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "446624f0-f071-4c86-8933-3079d0ac1f0b",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1289,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Wenceslaus_III_of_Bohemia"
+      },
+      {
+        "year": 1305,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 76,
+        "label": "Became King of Bohemia",
+        "labelCn": "继承波希米亚国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Wenceslaus_III_of_Bohemia"
+      },
+      {
+        "year": 1306,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Wenceslaus_III_of_Bohemia"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Wenceslaus_III_of_Bohemia",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Wenceslaus_III_of_Bohemia",
+    "sourceNote": "Basic card for the Bohemian succession.",
+    "notes": "Last Přemyslid king of Bohemia; his assassination ended the dynasty's direct male line.",
+    "createdDate": "20260823",
+    "createdOrder": 153
+  },
+  {
+    "id": "45b7566c-90bc-42af-ba52-750336dcd55d",
+    "firstName": "Rudolf",
+    "lastName": "I of Bohemia",
+    "displayName": "Rudolf I of Bohemia",
+    "fullName": "Rudolf I of Bohemia",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "波希米亚的鲁道夫一世",
+    "fullNameCn": "波希米亚的鲁道夫一世",
+    "birthYear": 1282,
+    "deathYear": 1307,
+    "birthPlace": "Bohemia",
+    "birthPlaceCn": "波希米亚",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "Habsburg dynasty",
+    "house": "House of Habsburg",
+    "culture": "Bohemian",
+    "faith": "Catholic",
+    "primaryTitle": "King of Bohemia",
+    "primaryTitleCn": "波希米亚国王",
+    "titles": [
+      {
+        "title": "King of Bohemia",
+        "titleCn": "波希米亚国王",
+        "startYear": 1306,
+        "endYear": 1307
+      }
+    ],
+    "tags": [
+      "monarch"
+    ],
+    "rank": "king",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1282,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Rudolf_I_of_Bohemia"
+      },
+      {
+        "year": 1306,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 76,
+        "label": "Became King of Bohemia",
+        "labelCn": "继承波希米亚国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Rudolf_I_of_Bohemia"
+      },
+      {
+        "year": 1307,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Rudolf_I_of_Bohemia"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Rudolf_I_of_Bohemia",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Rudolf_I_of_Bohemia",
+    "sourceNote": "Basic card for the Bohemian succession.",
+    "notes": "Habsburg claimant who held Bohemia briefly after the extinction of the Přemyslid male line.",
+    "createdDate": "20260823",
+    "createdOrder": 154
+  },
+  {
+    "id": "343ba66b-b594-45de-8f8a-3acec3322cc5",
+    "firstName": "Henry",
+    "lastName": "of Carinthia",
+    "displayName": "Henry of Carinthia",
+    "fullName": "Henry of Carinthia",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "克恩顿的亨利",
+    "fullNameCn": "克恩顿的亨利",
+    "birthYear": 1265,
+    "deathYear": 1335,
+    "birthPlace": "Bohemia",
+    "birthPlaceCn": "波希米亚",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "Gorizia dynasty",
+    "house": "House of Gorizia",
+    "culture": "Bohemian",
+    "faith": "Catholic",
+    "primaryTitle": "King of Bohemia",
+    "primaryTitleCn": "波希米亚国王",
+    "titles": [
+      {
+        "title": "King of Bohemia",
+        "titleCn": "波希米亚国王",
+        "startYear": 1307,
+        "endYear": 1310
+      }
+    ],
+    "tags": [
+      "monarch"
+    ],
+    "rank": "king",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1265,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_of_Carinthia"
+      },
+      {
+        "year": 1307,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 76,
+        "label": "Became King of Bohemia",
+        "labelCn": "继承波希米亚国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_of_Carinthia"
+      },
+      {
+        "year": 1335,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_of_Carinthia"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Henry_of_Carinthia",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Henry_of_Carinthia",
+    "sourceNote": "Basic card for the Bohemian succession.",
+    "notes": "Held Bohemia before the Luxembourg succession replaced him in 1310.",
+    "createdDate": "20260823",
+    "createdOrder": 155
+  },
+  {
+    "id": "581b42bc-541c-4083-aefb-5dd9e2249430",
+    "firstName": "John",
+    "lastName": "of Bohemia",
+    "displayName": "John of Bohemia",
+    "fullName": "John of Bohemia",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "波希米亚的约翰",
+    "fullNameCn": "波希米亚的约翰",
+    "birthYear": 1296,
+    "deathYear": 1346,
+    "birthPlace": "Bohemia",
+    "birthPlaceCn": "波希米亚",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "Luxembourg dynasty",
+    "house": "House of Luxembourg",
+    "culture": "Bohemian",
+    "faith": "Catholic",
+    "primaryTitle": "King of Bohemia",
+    "primaryTitleCn": "波希米亚国王",
+    "titles": [
+      {
+        "title": "King of Bohemia",
+        "titleCn": "波希米亚国王",
+        "startYear": 1310,
+        "endYear": 1346
+      }
+    ],
+    "tags": [
+      "monarch"
+    ],
+    "rank": "king",
+    "importanceScore": 70,
+    "historicalRating": 7,
+    "relationships": {
+      "fatherId": "ec618819-cd33-44bb-b8f8-fb50e97cbdb9",
+      "motherId": "84961115-416f-4bbf-8bbc-d2313b5e17b2",
+      "spouseIds": [
+        "895b64a3-721a-4ffe-b19c-22abef67c58e"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "80b3801a-ffca-4136-ba92-293b6b976e85",
+        "2e2c2701-0232-49d9-92d3-46d434b157a5"
+      ]
+    },
+    "events": [
+      {
+        "year": 1296,
+        "type": "childbirth",
+        "tags": [
+          "childbirth"
+        ],
+        "weight": 55,
+        "label": "Born",
+        "labelCn": "出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/John_of_Bohemia"
+      },
+      {
+        "year": 1310,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 76,
+        "label": "Became King of Bohemia",
+        "labelCn": "继承波希米亚国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/John_of_Bohemia"
+      },
+      {
+        "year": 1346,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died",
+        "labelCn": "逝世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/John_of_Bohemia"
+      },
+      {
+        "year": 1310,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "monarch"
+        ],
+        "weight": 82,
+        "label": "Became King of Bohemia",
+        "labelCn": "成为波希米亚国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/John_of_Bohemia"
+      },
+      {
+        "year": 1322,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "territory"
+        ],
+        "weight": 72,
+        "label": "Acquired Egerland after the Battle of Mühldorf",
+        "labelCn": "在米尔多夫战役后取得埃格尔兰",
+        "wikiUrl": "https://en.wikipedia.org/wiki/John_of_Bohemia"
+      },
+      {
+        "year": 1331,
+        "type": "government",
+        "tags": [
+          "campaign",
+          "war"
+        ],
+        "weight": 70,
+        "label": "Campaigned in northern Italy",
+        "labelCn": "在意大利北部发动军事行动",
+        "wikiUrl": "https://en.wikipedia.org/wiki/John_of_Bohemia"
+      },
+      {
+        "year": 1346,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "death"
+        ],
+        "weight": 92,
+        "label": "Killed at the Battle of Crécy",
+        "labelCn": "在克雷西战役中战死",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Cr%C3%A9cy"
+      },
+      {
+        "year": 1310,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 90,
+        "label": "Received the County of Luxembourg",
+        "labelCn": "获得卢森堡伯国",
+        "wikiUrl": "https://www.deutsche-biographie.de/gnd11944755X.html",
+        "note": "Henry VII transferred Luxembourg to his son John before the Bohemian expedition, giving the young prince an independent hereditary base."
+      },
+      {
+        "year": 1310,
+        "month": 8,
+        "day": 31,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 100,
+        "label": "Married Elisabeth of Bohemia and claimed the Bohemian crown",
+        "labelCn": "与波希米亚的伊丽莎白结婚并取得波希米亚王位继承依据",
+        "wikiUrl": "https://www.deutsche-biographie.de/gnd11944755X.html",
+        "note": "The marriage to the Přemyslid princess Elisabeth gave John a dynastic basis for challenging Henry of Carinthia and entering Bohemia as king."
+      },
+      {
+        "year": 1311,
+        "month": 2,
+        "day": 7,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "king"
+        ],
+        "weight": 100,
+        "label": "Was crowned King of Bohemia at Prague",
+        "labelCn": "在布拉格加冕为波希米亚国王",
+        "wikiUrl": "https://www.deutsche-biographie.de/gnd11944755X.html",
+        "note": "John and Elisabeth were crowned at Prague, formally establishing Luxembourg rule over the Bohemian kingdom."
+      },
+      {
+        "year": 1314,
+        "type": "politics",
+        "tags": [
+          "politics",
+          "succession"
+        ],
+        "weight": 75,
+        "label": "Participated in the contested German royal election",
+        "labelCn": "参与争议性的德意志王位选举",
+        "wikiUrl": "https://www.deutsche-biographie.de/gnd11944755X.html",
+        "note": "John was considered in the succession struggle after Henry VII's death but ultimately supported Louis of Bavaria against Frederick the Fair."
+      },
+      {
+        "year": 1322,
+        "month": 9,
+        "day": 28,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "alliance"
+        ],
+        "weight": 80,
+        "label": "Fought for Louis of Bavaria at Mühldorf",
+        "labelCn": "在米尔多夫战役中支持巴伐利亚的路易作战",
+        "wikiUrl": "https://www.deutsche-biographie.de/gnd11944755X.html",
+        "note": "John supported Louis of Bavaria in the Battle of Mühldorf against the Habsburg claimant Frederick the Fair and received political and territorial rewards for his support."
+      },
+      {
+        "year": 1329,
+        "type": "campaign",
+        "tags": [
+          "crusade",
+          "campaign"
+        ],
+        "weight": 75,
+        "label": "Participated in a crusading campaign against Lithuania",
+        "labelCn": "参加针对立陶宛的十字军远征",
+        "wikiUrl": "https://www.deutsche-biographie.de/gnd11944755X.html",
+        "note": "John joined the Teutonic Order's winter campaign against pagan Lithuania, one of several crusading expeditions in which he participated."
+      },
+      {
+        "year": 1335,
+        "type": "treaty",
+        "tags": [
+          "treaty",
+          "territory"
+        ],
+        "weight": 95,
+        "label": "Renounced his claim to the Polish crown at Trenčín",
+        "labelCn": "在特伦钦放弃波兰王位宣称",
+        "wikiUrl": "https://www.deutsche-biographie.de/gnd11944755X.html",
+        "note": "The settlement with Casimir III ended John's claim to the Polish crown while strengthening Bohemian overlordship over the Silesian principalities."
+      },
+      {
+        "year": 1346,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "dynasty"
+        ],
+        "weight": 95,
+        "label": "Helped secure the election of his son Charles as King of the Romans",
+        "labelCn": "帮助其子查理当选罗马人的国王",
+        "wikiUrl": "https://www.deutsche-biographie.de/gnd11944755X.html",
+        "note": "John played a central role in the anti-Wittelsbach coalition that secured the election of his son Charles, the future Charles IV, in July 1346."
+      },
+      {
+        "year": 1346,
+        "month": 8,
+        "day": 26,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "death"
+        ],
+        "weight": 100,
+        "label": "Was killed at the Battle of Crécy",
+        "labelCn": "在克雷西战役中阵亡",
+        "wikiUrl": "https://www.deutsche-biographie.de/gnd11944755X.html",
+        "note": "Although completely blind by this stage of his life, John fought on the French side against Edward III of England and was killed at Crécy."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/John_of_Bohemia",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/John_of_Bohemia",
+    "sourceNote": "Basic card for the Bohemian succession.",
+    "notes": "Luxembourg king of Bohemia and father of Karl IV; killed at Crécy.\n\nResearch intake retained: John united the County of Luxembourg with the Bohemian crown through his marriage to the Přemyslid heiress Elisabeth. His reign established the territorial and dynastic platform from which his son Charles IV built the fourteenth-century Luxembourg imperial monarchy.\n\nConfidence / caveats: His exact birthplace is not consistently stated in the stronger biographical material and is therefore left blank. His Polish kingship was a dynastic claim rather than effective rule and ended by treaty in 1335. John increasingly spent time outside Bohemia and often governed through lieutenants, but he remained the legal king until his death. His blindness was complete by the early 1340s.\n\nUnlinked family: Beatrice of Bourbon (not uniquely matched in the roster); Margaret of Bohemia (not uniquely matched in the roster); Bonne of Luxembourg (not uniquely matched in the roster); Ottokar of Bohemia (not uniquely matched in the roster); Anna of Bohemia (not uniquely matched in the roster); Wenceslaus I, Duke of Luxembourg (not uniquely matched in the roster).",
+    "createdDate": "20260823",
+    "createdOrder": 156
+  }
+]

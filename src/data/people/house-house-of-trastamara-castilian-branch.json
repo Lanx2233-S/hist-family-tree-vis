@@ -1,0 +1,550 @@
+[
+  {
+    "id": "fc645718-f108-440d-a69c-57c13421388b",
+    "firstName": "Isabella",
+    "lastName": "I of Castile",
+    "displayName": "Isabella I of Castile",
+    "fullName": "Isabella I, Queen of Castile and León",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [
+      "Isabella the Catholic",
+      "Isabel I de Castilla",
+      "Isabel la Católica",
+      "Ysabel la Católica"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "卡斯蒂利亚的伊莎贝拉一世",
+    "fullNameCn": "卡斯蒂利亚与莱昂女王伊莎贝拉一世",
+    "birthYear": 1451,
+    "deathYear": 1504,
+    "birthPlace": "Madrigal de las Altas Torres, Crown of Castile",
+    "birthPlaceCn": "卡斯蒂利亚王冠马德里加尔-德拉斯阿尔塔斯托雷斯",
+    "deathPlace": "Medina del Campo, Crown of Castile",
+    "deathPlaceCn": "卡斯蒂利亚王冠梅迪纳-德尔坎波",
+    "gender": "female",
+    "dynasty": "Trastámara",
+    "house": "House of Trastámara, Castilian branch",
+    "culture": "Castilian",
+    "faith": "Catholic",
+    "primaryTitle": "Queen of Castile and León",
+    "primaryTitleCn": "卡斯蒂利亚与莱昂女王",
+    "titles": [
+      {
+        "title": "Queen of Castile, León and Galicia",
+        "titleCn": "卡斯蒂利亚、莱昂与加利西亚女王",
+        "startYear": 1474,
+        "endYear": 1504
+      },
+      {
+        "title": "Queen consort of Sicily",
+        "titleCn": "西西里王后",
+        "startYear": 1469,
+        "endYear": 1504
+      },
+      {
+        "title": "Queen consort of Aragon, Valencia and Majorca",
+        "titleCn": "阿拉贡、瓦伦西亚与马略卡王后",
+        "startYear": 1479,
+        "endYear": 1504
+      }
+    ],
+    "tags": [
+      "monarch",
+      "queen"
+    ],
+    "rank": "king",
+    "importanceScore": 100,
+    "historicalRating": 10,
+    "relationships": {
+      "fatherId": "a8a46f80-458d-4ec6-8045-8f5825d12ec2",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "320bf6a4-36a1-4ead-9c62-aa749b46d9b2"
+      ]
+    },
+    "events": [
+      {
+        "year": 1468,
+        "type": "treaty",
+        "tags": [
+          "treaty",
+          "succession"
+        ],
+        "weight": 90,
+        "label": "Was recognized as Henry IV's heir at Guisando",
+        "labelCn": "在吉桑多协议中被亨利四世承认为继承人",
+        "wikiUrl": "https://www.galeriadelascoleccionesreales.es/en/monarch/isabella-i-of-castile/46c42cc8-bdd9-4a79-074a-e551d5ea1ab3",
+        "note": "The settlement made Isabella Princess of Asturias after the death of her younger brother Alfonso, although Henry later revoked this recognition."
+      },
+      {
+        "year": 1469,
+        "month": 10,
+        "day": 19,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 100,
+        "label": "Married Ferdinand of Aragon",
+        "labelCn": "与阿拉贡的费尔南多结婚",
+        "wikiUrl": "https://www.galeriadelascoleccionesreales.es/en/monarch/isabella-i-of-castile/46c42cc8-bdd9-4a79-074a-e551d5ea1ab3",
+        "note": "Isabella married Ferdinand, heir to the Crown of Aragon, at Valladolid on 19 October 1469 without Henry IV's approval, creating the dynastic partnership that later joined the crowns."
+      },
+      {
+        "year": 1474,
+        "month": 12,
+        "day": 13,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 100,
+        "label": "Was proclaimed Queen of Castile at Segovia",
+        "labelCn": "在塞哥维亚被宣布为卡斯蒂利亚女王",
+        "wikiUrl": "https://www.galeriadelascoleccionesreales.es/en/monarch/isabella-i-of-castile/46c42cc8-bdd9-4a79-074a-e551d5ea1ab3",
+        "note": "After Henry IV's death, Isabella was proclaimed queen on 13 December 1474. Joanna's supporters rejected the succession, producing a dynastic war."
+      },
+      {
+        "year": 1475,
+        "type": "government",
+        "tags": [
+          "government",
+          "legal"
+        ],
+        "weight": 95,
+        "label": "Defined the political partnership with Ferdinand in the Concord of Segovia",
+        "labelCn": "通过《塞哥维亚协定》确定与费尔南多的共治关系",
+        "wikiUrl": "https://www.galeriadelascoleccionesreales.es/en/monarch/isabella-i-of-castile/46c42cc8-bdd9-4a79-074a-e551d5ea1ab3",
+        "note": "The agreement regulated royal style, administration, appointments and the exercise of power in Castile. Isabella remained queen regnant in her own hereditary right, while Ferdinand governed with her."
+      },
+      {
+        "year": 1475,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "succession"
+        ],
+        "weight": 95,
+        "label": "Faced the Portuguese-backed War of the Castilian Succession",
+        "labelCn": "面对葡萄牙支持的卡斯蒂利亚王位继承战争",
+        "wikiUrl": "https://www.galeriadelascoleccionesreales.es/en/monarch/isabella-i-of-castile/46c42cc8-bdd9-4a79-074a-e551d5ea1ab3",
+        "note": "Afonso V of Portugal married his niece Joanna and invaded Castile to press her rival claim, turning the succession dispute into an interstate war."
+      },
+      {
+        "year": 1476,
+        "month": 3,
+        "day": 1,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "politics"
+        ],
+        "weight": 95,
+        "label": "The Battle of Toro politically strengthened Isabella's cause",
+        "labelCn": "托罗战役在政治上巩固伊莎贝拉的王位",
+        "wikiUrl": "https://www.galeriadelascoleccionesreales.es/en/monarch/isabella-i-of-castile/46c42cc8-bdd9-4a79-074a-e551d5ea1ab3",
+        "note": "The battle on 1 March 1476 was tactically mixed, but the Portuguese withdrawal and collapse of Joanna's Castilian coalition transformed it into a major political victory for Isabella and Ferdinand."
+      },
+      {
+        "year": 1476,
+        "type": "government",
+        "tags": [
+          "government",
+          "administration"
+        ],
+        "weight": 85,
+        "label": "Expanded the Santa Hermandad as an instrument of royal order",
+        "labelCn": "扩展圣兄弟会作为维护王权秩序的工具",
+        "wikiUrl": "https://www.galeriadelascoleccionesreales.es/en/monarch/isabella-i-of-castile/46c42cc8-bdd9-4a79-074a-e551d5ea1ab3",
+        "note": "The Cortes of Madrigal organized a kingdom-wide Santa Hermandad, providing the monarchy with policing, fiscal and military capacity against disorder and noble violence."
+      },
+      {
+        "year": 1478,
+        "type": "government",
+        "tags": [
+          "religion",
+          "legal"
+        ],
+        "weight": 95,
+        "label": "Obtained papal authorization for the Spanish Inquisition in Castile",
+        "labelCn": "取得在卡斯蒂利亚设立西班牙宗教裁判所的教宗授权",
+        "wikiUrl": "https://www.galeriadelascoleccionesreales.es/en/monarch/isabella-i-of-castile/46c42cc8-bdd9-4a79-074a-e551d5ea1ab3",
+        "note": "Pope Sixtus IV authorized Isabella and Ferdinand to appoint inquisitors. The institution became an important instrument of confessional and royal policy."
+      },
+      {
+        "year": 1479,
+        "type": "treaty",
+        "tags": [
+          "treaty",
+          "succession"
+        ],
+        "weight": 100,
+        "label": "The Treaty of Alcáçovas secured recognition of her Castilian crown",
+        "labelCn": "《阿尔卡索瓦斯条约》确认其卡斯蒂利亚王位",
+        "wikiUrl": "https://www.galeriadelascoleccionesreales.es/en/monarch/isabella-i-of-castile/46c42cc8-bdd9-4a79-074a-e551d5ea1ab3",
+        "note": "Portugal recognized Isabella and Ferdinand as rulers of Castile while the treaty also divided Atlantic spheres of influence and settled major aspects of the succession war."
+      },
+      {
+        "year": 1479,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "dynasty"
+        ],
+        "weight": 100,
+        "label": "Ferdinand inherited Aragon, creating a dynastic union of the crowns",
+        "labelCn": "费尔南多继承阿拉贡，形成两大王冠的王朝联合",
+        "wikiUrl": "https://www.galeriadelascoleccionesreales.es/en/monarch/isabella-i-of-castile/46c42cc8-bdd9-4a79-074a-e551d5ea1ab3",
+        "note": "When John II of Aragon died, Ferdinand became king of Aragon. Castile and Aragon now shared a royal couple but retained distinct laws, institutions, fiscal systems and political identities."
+      },
+      {
+        "year": 1480,
+        "type": "government",
+        "tags": [
+          "government",
+          "administration"
+        ],
+        "weight": 90,
+        "label": "The Cortes of Toledo advanced major royal and administrative reforms",
+        "labelCn": "托莱多议会推进王权与行政改革",
+        "wikiUrl": "https://www.galeriadelascoleccionesreales.es/en/monarch/isabella-i-of-castile/46c42cc8-bdd9-4a79-074a-e551d5ea1ab3",
+        "note": "The monarchy reviewed alienated crown lands, reorganized councils and justice, and continued the program of strengthening central royal government after the succession war."
+      },
+      {
+        "year": 1482,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "conquest"
+        ],
+        "weight": 100,
+        "label": "Began the Granada War",
+        "labelCn": "发动格拉纳达战争",
+        "wikiUrl": "https://www.galeriadelascoleccionesreales.es/en/monarch/isabella-i-of-castile/46c42cc8-bdd9-4a79-074a-e551d5ea1ab3",
+        "note": "The ten-year war against the Nasrid Emirate combined sieges, artillery, negotiated surrenders and sustained fiscal mobilization by the Catholic Monarchs."
+      },
+      {
+        "year": 1487,
+        "type": "conquest",
+        "tags": [
+          "conquest",
+          "campaign"
+        ],
+        "weight": 90,
+        "label": "Captured Málaga during the Granada War",
+        "labelCn": "在格拉纳达战争中攻占马拉加",
+        "wikiUrl": "https://www.galeriadelascoleccionesreales.es/en/monarch/isabella-i-of-castile/46c42cc8-bdd9-4a79-074a-e551d5ea1ab3",
+        "note": "The hard-fought conquest of Málaga eliminated one of the Nasrid kingdom's most important ports and accelerated the final phase of the war."
+      },
+      {
+        "year": 1492,
+        "month": 1,
+        "day": 2,
+        "type": "conquest",
+        "tags": [
+          "conquest",
+          "monarch"
+        ],
+        "weight": 100,
+        "label": "Received the surrender of Granada",
+        "labelCn": "接受格拉纳达投降",
+        "wikiUrl": "https://www.galeriadelascoleccionesreales.es/en/monarch/isabella-i-of-castile/46c42cc8-bdd9-4a79-074a-e551d5ea1ab3",
+        "note": "Muhammad XII surrendered Granada on 2 January 1492, ending the independent Nasrid emirate and completing the major territorial conquest of the Reconquista."
+      },
+      {
+        "year": 1492,
+        "month": 3,
+        "day": 31,
+        "type": "administration",
+        "tags": [
+          "law",
+          "religion"
+        ],
+        "weight": 100,
+        "label": "Issued the Alhambra Decree ordering the expulsion or conversion of Jews",
+        "labelCn": "颁布《阿尔罕布拉法令》，要求犹太人离境或改宗",
+        "wikiUrl": "https://www.galeriadelascoleccionesreales.es/en/monarch/isabella-i-of-castile/46c42cc8-bdd9-4a79-074a-e551d5ea1ab3",
+        "note": "Isabella and Ferdinand ordered practicing Jews in their realms to convert or leave by the stated deadline. The measure radically transformed the religious and social composition of the kingdoms."
+      },
+      {
+        "year": 1492,
+        "type": "government",
+        "tags": [
+          "government",
+          "territory"
+        ],
+        "weight": 100,
+        "label": "Authorized Christopher Columbus's Atlantic expedition",
+        "labelCn": "批准克里斯托弗·哥伦布的大西洋远航",
+        "wikiUrl": "https://www.galeriadelascoleccionesreales.es/en/monarch/isabella-i-of-castile/46c42cc8-bdd9-4a79-074a-e551d5ea1ab3",
+        "note": "The Capitulations of Santa Fe established terms for Columbus's westward voyage under the Castilian crown. His 1492 expedition opened sustained Castilian expansion in the Americas."
+      },
+      {
+        "year": 1494,
+        "month": 6,
+        "day": 7,
+        "type": "treaty",
+        "tags": [
+          "treaty",
+          "territory"
+        ],
+        "weight": 95,
+        "label": "Concluded the Treaty of Tordesillas with Portugal",
+        "labelCn": "与葡萄牙签订《托德西利亚斯条约》",
+        "wikiUrl": "https://www.galeriadelascoleccionesreales.es/en/monarch/isabella-i-of-castile/46c42cc8-bdd9-4a79-074a-e551d5ea1ab3",
+        "note": "The treaty moved the papally influenced Atlantic demarcation line and divided prospective overseas spheres between the Portuguese and Castilian monarchies."
+      },
+      {
+        "year": 1502,
+        "type": "administration",
+        "tags": [
+          "law",
+          "religion"
+        ],
+        "weight": 90,
+        "label": "Required Muslims in the Crown of Castile to convert or leave",
+        "labelCn": "要求卡斯蒂利亚王冠境内穆斯林改宗或离境",
+        "wikiUrl": "https://www.galeriadelascoleccionesreales.es/en/monarch/isabella-i-of-castile/46c42cc8-bdd9-4a79-074a-e551d5ea1ab3",
+        "note": "Following the breakdown of earlier Granada arrangements and revolts, royal policy eliminated the legally tolerated Muslim community in Castile through compulsory conversion or departure."
+      },
+      {
+        "year": 1504,
+        "month": 11,
+        "day": 26,
+        "type": "death",
+        "tags": [
+          "death",
+          "queen"
+        ],
+        "weight": 100,
+        "label": "Died at Medina del Campo and left Castile to Joanna",
+        "labelCn": "在梅迪纳-德尔坎波去世，将卡斯蒂利亚王位留给胡安娜",
+        "wikiUrl": "https://www.galeriadelascoleccionesreales.es/en/monarch/isabella-i-of-castile/46c42cc8-bdd9-4a79-074a-e551d5ea1ab3",
+        "note": "Isabella died on 26 November 1504. Her daughter Joanna inherited Castile, while Isabella's testament gave Ferdinand an important governmental role under specified conditions."
+      }
+    ],
+    "wikiUrl": "https://www.galeriadelascoleccionesreales.es/en/monarch/isabella-i-of-castile/46c42cc8-bdd9-4a79-074a-e551d5ea1ab3",
+    "portraitUrl": "",
+    "sourceUrl": "https://www.galeriadelascoleccionesreales.es/en/monarch/isabella-i-of-castile/46c42cc8-bdd9-4a79-074a-e551d5ea1ab3",
+    "sourceNote": "Real Academia de la Historia / Galería de las Colecciones Reales, Isabella I profile; John Edwards, The Spain of the Catholic Monarchs, 1474–1520; Peggy K. Liss, Isabel the Queen; Tarsicio de Azcona, Isabel la Católica; modern scholarship on the War of the Castilian Succession and Granada War.",
+    "notes": "Isabella I was queen regnant of Castile in her own right; Ferdinand's participation in Castilian government did not erase her hereditary sovereignty. Their marriage and Ferdinand's 1479 accession created a dynastic union rather than an immediate unitary Spanish state, while the conquest of Granada and Atlantic expansion radically enlarged Castile's geopolitical reach.\n\nUnlinked family: mother: Isabella of Portugal; spouse: Ferdinand II of Aragon; child: Isabella of Aragon, Queen of Portugal; child: John, Prince of Asturias; child: Maria of Aragon, Queen of Portugal; child: Catherine of Aragon, Queen of England",
+    "createdDate": "20260824",
+    "createdOrder": 663
+  },
+  {
+    "id": "320bf6a4-36a1-4ead-9c62-aa749b46d9b2",
+    "firstName": "Joanna",
+    "lastName": "of Castile",
+    "displayName": "Joanna of Castile",
+    "fullName": "Joanna I, Queen of Castile and Aragon",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [
+      "Joanna I of Castile",
+      "Joanna the Mad",
+      "Juana I de Castilla",
+      "Juana la Loca",
+      "Joan of Castile"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "卡斯蒂利亚的胡安娜一世",
+    "fullNameCn": "卡斯蒂利亚与阿拉贡女王胡安娜一世",
+    "birthYear": 1479,
+    "deathYear": 1555,
+    "birthPlace": "Toledo, Crown of Castile",
+    "birthPlaceCn": "卡斯蒂利亚王冠托莱多",
+    "deathPlace": "Tordesillas, Crown of Castile",
+    "deathPlaceCn": "卡斯蒂利亚王冠托德西利亚斯",
+    "gender": "female",
+    "dynasty": "Trastámara",
+    "house": "House of Trastámara, Castilian branch",
+    "culture": "Castilian",
+    "faith": "Catholic",
+    "primaryTitle": "Queen of Castile and León",
+    "primaryTitleCn": "卡斯蒂利亚与莱昂女王",
+    "titles": [
+      {
+        "title": "Queen of Castile and León",
+        "titleCn": "卡斯蒂利亚与莱昂女王",
+        "startYear": 1504,
+        "endYear": 1555
+      },
+      {
+        "title": "Queen of Aragon and associated crowns",
+        "titleCn": "阿拉贡及其附属王冠女王",
+        "startYear": 1516,
+        "endYear": 1555
+      }
+    ],
+    "tags": [
+      "monarch",
+      "queen"
+    ],
+    "rank": "king",
+    "importanceScore": 88,
+    "historicalRating": 8,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "fc645718-f108-440d-a69c-57c13421388b",
+      "spouseIds": [
+        "c2332053-1b5e-457d-88ac-aeed35a7f9ac"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "adb801cd-8a69-4de3-92d8-107f7e11a1e6"
+      ]
+    },
+    "events": [
+      {
+        "year": 1496,
+        "month": 10,
+        "day": 20,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 100,
+        "label": "Married Philip the Handsome of Habsburg",
+        "labelCn": "与哈布斯堡的“美男子”腓力结婚",
+        "wikiUrl": "https://dbe.rah.es/biografias/13515/juana-i",
+        "note": "The marriage at Lier linked the Trastámara monarchies to the Burgundian-Habsburg inheritance and eventually transferred the Spanish crowns into the Habsburg dynasty through their children."
+      },
+      {
+        "year": 1500,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "dynasty"
+        ],
+        "weight": 95,
+        "label": "Became heiress to Castile and Aragon after the death of Miguel da Paz",
+        "labelCn": "米格尔·达帕斯去世后成为卡斯蒂利亚与阿拉贡主要继承人",
+        "wikiUrl": "https://dbe.rah.es/biografias/13515/juana-i",
+        "note": "The successive deaths of Joanna's brother John, sister Isabella and nephew Miguel left Joanna as the surviving dynastic heir of the Catholic Monarchs."
+      },
+      {
+        "year": 1502,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 90,
+        "label": "Was formally recognized with Philip as heir in the Iberian kingdoms",
+        "labelCn": "与腓力一同获正式承认为伊比利亚诸王国继承人",
+        "wikiUrl": "https://dbe.rah.es/biografias/13515/juana-i",
+        "note": "Joanna and Philip travelled to Spain and were recognized by representative assemblies, though the constitutional procedures differed between Castile and the realms of the Crown of Aragon."
+      },
+      {
+        "year": 1504,
+        "month": 11,
+        "day": 26,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 100,
+        "label": "Succeeded Isabella I as Queen of Castile",
+        "labelCn": "继承伊莎贝拉一世成为卡斯蒂利亚女王",
+        "wikiUrl": "https://dbe.rah.es/biografias/13515/juana-i",
+        "note": "Isabella's death on 26 November 1504 made Joanna queen regnant of Castile. Her father Ferdinand and husband Philip immediately competed over the practical government of the kingdom."
+      },
+      {
+        "year": 1506,
+        "type": "government",
+        "tags": [
+          "government",
+          "political_crisis"
+        ],
+        "weight": 95,
+        "label": "Philip was recognized as King of Castile alongside Joanna",
+        "labelCn": "腓力获承认为与胡安娜共同统治的卡斯蒂利亚国王",
+        "wikiUrl": "https://dbe.rah.es/biografias/13515/juana-i",
+        "note": "The Villafáfila settlement forced Ferdinand to withdraw temporarily from Castilian government. The Cortes then swore allegiance to Joanna and Philip together in July 1506."
+      },
+      {
+        "year": 1506,
+        "month": 9,
+        "day": 25,
+        "type": "politics",
+        "tags": [
+          "politics",
+          "government"
+        ],
+        "weight": 90,
+        "label": "Philip died and Joanna attempted to exercise government in her own name",
+        "labelCn": "腓力去世后胡安娜尝试以本人名义行使统治权",
+        "wikiUrl": "https://dbe.rah.es/biografias/13515/juana-i",
+        "note": "Philip died at Burgos on 25 September 1506. Joanna remained the lawful queen and issued acts in her own name, but political instability and disputes over her capacity soon enabled Ferdinand to return."
+      },
+      {
+        "year": 1509,
+        "type": "imprisonment",
+        "tags": [
+          "imprisonment",
+          "politics"
+        ],
+        "weight": 100,
+        "label": "Was confined at Tordesillas under Ferdinand's government",
+        "labelCn": "在费尔南多掌权下被长期限制于托德西利亚斯",
+        "wikiUrl": "https://dbe.rah.es/biografias/13515/juana-i",
+        "note": "Ferdinand placed Joanna in the royal residence at Tordesillas, where she remained under varying degrees of confinement for the rest of her life."
+      },
+      {
+        "year": 1516,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "dynasty"
+        ],
+        "weight": 100,
+        "label": "Inherited the Aragonese crowns while Charles assumed government as co-monarch",
+        "labelCn": "继承阿拉贡诸王冠，同时卡洛斯以共同君主身份掌握政府",
+        "wikiUrl": "https://dbe.rah.es/biografias/13515/juana-i",
+        "note": "Ferdinand II's death made Joanna hereditary queen of Aragon and its associated realms. Her son Charles proclaimed himself king alongside her and exercised effective government."
+      },
+      {
+        "year": 1520,
+        "type": "rebellion",
+        "tags": [
+          "rebellion",
+          "politics"
+        ],
+        "weight": 95,
+        "label": "The Comuneros sought her authorization but failed to obtain a binding royal endorsement",
+        "labelCn": "公社起义者试图取得她的授权，但未获具有约束力的王室批准",
+        "wikiUrl": "https://dbe.rah.es/biografias/13515/juana-i",
+        "note": "Rebel leaders entered Tordesillas and appealed to Joanna as the lawful sovereign. She heard their case but did not provide the signed authorization that could have transformed their constitutional position."
+      },
+      {
+        "year": 1555,
+        "month": 4,
+        "day": 12,
+        "type": "death",
+        "tags": [
+          "death",
+          "queen"
+        ],
+        "weight": 90,
+        "label": "Died at Tordesillas after more than four decades of confinement",
+        "labelCn": "在四十余年受限制生活后于托德西利亚斯去世",
+        "wikiUrl": "https://dbe.rah.es/biografias/13515/juana-i",
+        "note": "Joanna died on 12 April 1555. Her son Charles, who had long exercised effective rule, then ceased to share the royal title with his mother."
+      }
+    ],
+    "wikiUrl": "https://dbe.rah.es/biografias/13515/juana-i",
+    "portraitUrl": "",
+    "sourceUrl": "https://dbe.rah.es/biografias/13515/juana-i",
+    "sourceNote": "Manuel Fernández Álvarez, Diccionario Biográfico Español entry 'Juana I' and Juana la Loca: la cautiva de Tordesillas; Bethany Aram, Juana the Mad: Sovereignty and Dynasty in Renaissance Europe; Gillian B. Fleming, Juana I: Legitimacy and Conflict in Sixteenth-Century Castile; contemporary and later documentary studies of the Comunero revolt.",
+    "notes": "Joanna remained the lawful queen of Castile from 1504 and of Aragon from 1516 until her death, but legal title and effective government diverged sharply. Her husband Philip, father Ferdinand and son Charles successively exercised or contested practical power; through her children, the Spanish royal succession passed from Trastámara to Habsburg.\n\nUnlinked family: father: Ferdinand II of Aragon; child: Eleanor of Austria, Queen of Portugal and France; child: Isabella of Austria, Queen of Denmark; child: Ferdinand I, Holy Roman Emperor; child: Mary of Austria, Queen of Hungary; child: Catherine of Austria, Queen of Portugal",
+    "createdDate": "20260824",
+    "createdOrder": 664
+  }
+]

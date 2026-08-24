@@ -9,9 +9,17 @@
       "name": "Kingdom of Castile",
       "nameCn": "卡斯蒂利亚王国",
       "fromYear": 1037,
+      "untilYear": 1516,
+      "note": "This recorded royal line begins with Ferdinand I of León and Castile; it does not extend into the earlier Navarrese or Leonese background.",
+      "noteCn": "本王位记录始于莱昂与卡斯蒂利亚的费尔南多一世；不向更早的纳瓦拉或莱昂前史延伸。"
+    },
+    {
+      "name": "Crown of Castile",
+      "nameCn": "卡斯蒂利亚王冠",
+      "fromYear": 1516,
       "untilYear": "",
-      "note": "This recorded royal line begins with Ferdinand I of León and Castile and ends here with Alfonso VIII; it does not extend into the earlier Navarrese or Leonese background.",
-      "noteCn": "本王位记录始于莱昂与卡斯蒂利亚的费尔南多一世，并止于阿方索八世；不向更早的纳瓦拉或莱昂前史延伸。"
+      "note": "From 1516 Castile formed part of the Spanish composite monarchy while retaining its institutions and royal style.",
+      "noteCn": "1516年起，卡斯蒂利亚进入西班牙复合君主制，同时保留自身制度与王号。"
     }
   ],
   "holders": [
@@ -21,6 +29,27 @@
     { "kind": "person", "personId": "c1029000-0000-4000-8000-000000000004", "startYear": 1109, "endYear": 1126, "titleForm": "Queen of León and Castile", "note": "Ruling queen in her own right, succeeding her father Alfonso VI.", "noteCn": "以自身权利继承父亲阿方索六世的实权女王。", "tierOverride": "king" },
     { "kind": "person", "personId": "c1032000-0000-4000-8000-000000000007", "startYear": 1126, "endYear": 1157, "titleForm": "King of León and Castile", "note": "The crown passed through Urraca; Alfonso VII's paternal house was Iberian Burgundy.", "noteCn": "王位经乌拉卡继承；阿方索七世的父系家族转为伊比利亚勃艮第支。", "tierOverride": "king" },
     { "kind": "person", "personId": "c1034000-0000-4000-8000-000000000009", "startYear": 1157, "endYear": 1158, "titleForm": "King of Castile", "note": "After Alfonso VII's death, Castile and León were divided again.", "noteCn": "阿方索七世去世后，卡斯蒂利亚与莱昂再次分治。", "tierOverride": "king" },
-    { "kind": "person", "personId": "c1035000-0000-4000-8000-000000000010", "startYear": 1158, "endYear": 1214, "titleForm": "King of Castile", "note": "Succeeded his father Sancho III as king of the separate Castilian realm.", "noteCn": "继承父亲桑乔三世，成为分治后卡斯蒂利亚王国的国王。", "tierOverride": "king" }
+    { "kind": "person", "personId": "c1035000-0000-4000-8000-000000000010", "startYear": 1158, "endYear": 1214, "titleForm": "King of Castile", "note": "Succeeded his father Sancho III as king of the separate Castilian realm.", "noteCn": "继承父亲桑乔三世，成为分治后卡斯蒂利亚王国的国王。", "tierOverride": "king" },
+    { "kind": "person", "personId": "adf5bf6b-be23-47c6-8e20-61bf25ab6e87", "startYear": 1214, "endYear": 1217, "titleForm": "King of Castile", "note": "Succeeded Alfonso VIII as a minor king.", "noteCn": "作为未成年君主继承阿方索八世。", "tierOverride": "king" },
+    { "kind": "person", "personId": "1dc9b477-532f-4b5a-a7ce-6a77980575b2", "startYear": 1217, "endYear": 1217, "titleForm": "Queen of Castile", "note": "Inherited in her own right and transferred the crown to Ferdinand III.", "noteCn": "以自身权利继承王位，并将王冠移交给费尔南多三世。", "tierOverride": "king" },
+    { "kind": "person", "personId": "0e6f4806-97e9-4338-973c-dae9a9a07015", "startYear": 1217, "endYear": 1252, "titleForm": "King of Castile", "note": "Succeeded through his mother Berengaria.", "noteCn": "经其母贝伦加丽亚继承王位。", "tierOverride": "king" },
+    { "kind": "person", "personId": "1ed74ac1-983b-44be-940b-3e6b419ac387", "startYear": 1252, "endYear": 1284, "titleForm": "King of Castile", "note": "Succeeded his father Ferdinand III.", "noteCn": "继承其父费尔南多三世。", "tierOverride": "king" },
+    { "kind": "person", "personId": "be9cc4d9-cd59-4203-97d4-78920da35a23", "startYear": 1284, "endYear": 1295, "titleForm": "King of Castile", "note": "Succeeded Alfonso X after a disputed succession.", "noteCn": "在有争议的继承后继承阿方索十世。", "tierOverride": "king" },
+    { "kind": "person", "personId": "517aa9a0-b775-4054-8b6e-589d14b34511", "startYear": 1295, "endYear": 1312, "titleForm": "King of Castile", "note": "Succeeded his father Sancho IV as a minor.", "noteCn": "作为未成年君主继承其父桑乔四世。", "tierOverride": "king" },
+    { "kind": "person", "personId": "1623e0c3-ccd6-49bd-9e4c-f1f5cdb2c741", "startYear": 1312, "endYear": 1350, "titleForm": "King of Castile", "note": "Succeeded Ferdinand IV and reached his majority under regency.", "noteCn": "继承费尔南多四世，并在摄政下成年亲政。", "tierOverride": "king" },
+    { "kind": "person", "personId": "ceda6ce7-e0fe-47a3-a9d6-f8a68b10c40d", "startYear": 1350, "endYear": 1366, "titleForm": "King of Castile", "note": "Succeeded his father Alfonso XI.", "noteCn": "继承其父阿方索十一世。", "tierOverride": "king" },
+    { "kind": "person", "personId": "0e0a138a-2cb2-4080-be59-715e17e67c58", "startYear": 1366, "endYear": 1367, "titleForm": "King of Castile", "note": "Seized the crown during the Castilian civil war.", "noteCn": "在卡斯蒂利亚内战中夺取王位。", "tierOverride": "king" },
+    { "kind": "person", "personId": "ceda6ce7-e0fe-47a3-a9d6-f8a68b10c40d", "startYear": 1367, "endYear": 1369, "titleForm": "King of Castile", "note": "Recovered the throne with English support before his final defeat.", "noteCn": "在英格兰支持下收复王位，后最终战败。", "tierOverride": "king" },
+    { "kind": "person", "personId": "0e0a138a-2cb2-4080-be59-715e17e67c58", "startYear": 1369, "endYear": 1379, "titleForm": "King of Castile", "note": "Restored Trastámara rule after Peter I's death.", "noteCn": "彼得一世死后恢复特拉斯塔马拉统治。", "tierOverride": "king" },
+    { "kind": "person", "personId": "7b26a586-3a89-430b-9153-a351fcba275e", "startYear": 1379, "endYear": 1390, "titleForm": "King of Castile", "note": "Succeeded his father Henry II.", "noteCn": "继承其父亨利二世。", "tierOverride": "king" },
+    { "kind": "person", "personId": "f14f893c-51a6-4b96-84bd-3944e372e63c", "startYear": 1390, "endYear": 1406, "titleForm": "King of Castile", "note": "Succeeded John I as a minor.", "noteCn": "作为未成年君主继承约翰一世。", "tierOverride": "king" },
+    { "kind": "person", "personId": "a8a46f80-458d-4ec6-8045-8f5825d12ec2", "startYear": 1406, "endYear": 1454, "titleForm": "King of Castile", "note": "Succeeded his father Henry III.", "noteCn": "继承其父亨利三世。", "tierOverride": "king" },
+    { "kind": "person", "personId": "866d8d7e-976b-4d11-b1e5-c9412b5f4e05", "startYear": 1454, "endYear": 1474, "titleForm": "King of Castile", "note": "Succeeded John II.", "noteCn": "继承约翰二世。", "tierOverride": "king" },
+    { "kind": "person", "personId": "fc645718-f108-440d-a69c-57c13421388b", "startYear": 1474, "endYear": 1504, "titleForm": "Queen of Castile", "note": "Succeeded Henry IV in her own right.", "noteCn": "以自身权利继承亨利四世。", "tierOverride": "king" },
+    { "kind": "person", "personId": "320bf6a4-36a1-4ead-9c62-aa749b46d9b2", "startYear": 1504, "endYear": 1506, "titleForm": "Queen of Castile", "note": "Succeeded her mother Isabella I.", "noteCn": "继承其母伊莎贝拉一世。", "tierOverride": "king" },
+    { "kind": "person", "personId": "c2332053-1b5e-457d-88ac-aeed35a7f9ac", "startYear": 1504, "endYear": 1506, "titleForm": "King of Castile jure uxoris", "jointWithPrevious": true, "note": "Ruled with Joanna by marital right.", "noteCn": "凭婚姻权利与胡安娜共同统治。", "tierOverride": "king" },
+    { "kind": "person", "personId": "320bf6a4-36a1-4ead-9c62-aa749b46d9b2", "startYear": 1506, "endYear": 1516, "titleForm": "Queen of Castile", "note": "Retained the crown after Philip I's death.", "noteCn": "腓力一世去世后保有王冠。", "tierOverride": "king" },
+    { "kind": "person", "personId": "320bf6a4-36a1-4ead-9c62-aa749b46d9b2", "startYear": 1516, "endYear": 1555, "titleForm": "Queen of Castile", "note": "Remained queen in law within the Spanish composite monarchy.", "noteCn": "在西班牙复合君主制中仍为法理上的卡斯蒂利亚女王。", "tierOverride": "king" },
+    { "kind": "person", "personId": "adb801cd-8a69-4de3-92d8-107f7e11a1e6", "startYear": 1516, "endYear": 1555, "titleForm": "King of Castile", "jointWithPrevious": true, "note": "Became co-monarch with Joanna in the Crown of Castile.", "noteCn": "在卡斯蒂利亚王冠下成为胡安娜的共同君主。", "tierOverride": "king" }
   ]
 }

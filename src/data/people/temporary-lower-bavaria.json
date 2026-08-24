@@ -1,0 +1,632 @@
+[
+  {
+    "id": "dfbf7d92-8ea9-4c74-8bff-3afd89f3d128",
+    "firstName": "Henry",
+    "lastName": "of Bavaria",
+    "displayName": "Henry XIII of Bavaria",
+    "fullName": "Henry XIII of Bavaria",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "巴伐利亚的亨利十三世",
+    "fullNameCn": "巴伐利亚的亨利十三世",
+    "birthYear": 1235,
+    "deathYear": 1290,
+    "birthPlace": "Bavaria",
+    "birthPlaceCn": "巴伐利亚",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "Wittelsbach dynasty",
+    "house": "House of Wittelsbach",
+    "culture": "German",
+    "faith": "Catholic",
+    "primaryTitle": "Duke of Bavaria",
+    "primaryTitleCn": "巴伐利亚公爵",
+    "titles": [
+      {
+        "title": "Duke of Bavaria",
+        "titleCn": "巴伐利亚公爵",
+        "startYear": 1255,
+        "endYear": 1290
+      }
+    ],
+    "tags": [
+      "duke",
+      "noble"
+    ],
+    "rank": "duke",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "dfe32d2c-5169-4097-afea-c7f511fd1012",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "a8b31f05-2f06-4a1c-be40-e30a40699839",
+        "1410f15d-80f4-4d2d-895d-3c9114fc5f67"
+      ]
+    },
+    "events": [
+      {
+        "year": 1253,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 76,
+        "label": "Succeeded as Duke of Bavaria",
+        "labelCn": "继任巴伐利亚公爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_XIII,_Duke_of_Bavaria"
+      },
+      {
+        "year": 1255,
+        "type": "dynasty",
+        "tags": [
+          "dynasty",
+          "territory"
+        ],
+        "weight": 78,
+        "label": "Received Lower Bavaria in the partition",
+        "labelCn": "在分治中取得下巴伐利亚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_XIII,_Duke_of_Bavaria"
+      },
+      {
+        "year": 1290,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 64,
+        "label": "Died at Burghausen",
+        "labelCn": "在布格豪森去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_XIII,_Duke_of_Bavaria"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Henry_XIII_of_Bavaria",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Henry_XIII_of_Bavaria",
+    "sourceNote": "Basic card for the Wittelsbach Lower Bavaria branch.",
+    "notes": "Son of Otto II; shared the 1255 partition with Louis II and founded the Lower Bavaria branch.",
+    "createdDate": "20260823",
+    "createdOrder": 157
+  },
+  {
+    "id": "a8b31f05-2f06-4a1c-be40-e30a40699839",
+    "firstName": "Otto",
+    "lastName": "of Bavaria",
+    "displayName": "Otto III of Bavaria",
+    "fullName": "Otto III of Bavaria",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "巴伐利亚的奥托三世",
+    "fullNameCn": "巴伐利亚的奥托三世",
+    "birthYear": 1261,
+    "deathYear": 1312,
+    "birthPlace": "Bavaria",
+    "birthPlaceCn": "巴伐利亚",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "Wittelsbach dynasty",
+    "house": "House of Wittelsbach",
+    "culture": "German",
+    "faith": "Catholic",
+    "primaryTitle": "Duke of Bavaria",
+    "primaryTitleCn": "巴伐利亚公爵",
+    "titles": [
+      {
+        "title": "Duke of Bavaria",
+        "titleCn": "巴伐利亚公爵",
+        "startYear": 1290,
+        "endYear": 1312
+      }
+    ],
+    "tags": [
+      "duke",
+      "noble"
+    ],
+    "rank": "duke",
+    "importanceScore": 70,
+    "historicalRating": 7,
+    "relationships": {
+      "fatherId": "dfbf7d92-8ea9-4c74-8bff-3afd89f3d128",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "c8867a50-760c-466f-90fb-87076bd2cca8"
+      ]
+    },
+    "events": [
+      {
+        "year": 1290,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 78,
+        "label": "Succeeded as Duke of Lower Bavaria",
+        "labelCn": "继任下巴伐利亚公爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Otto_III,_Duke_of_Bavaria"
+      },
+      {
+        "year": 1305,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 92,
+        "label": "Became King of Hungary as Béla V",
+        "labelCn": "以贝拉五世身份成为匈牙利国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Otto_III,_Duke_of_Bavaria"
+      },
+      {
+        "year": 1307,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "succession"
+        ],
+        "weight": 80,
+        "label": "Lost the Hungarian crown after defeat at Rozgony",
+        "labelCn": "罗兹戈尼战败后失去匈牙利王位",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Rozgony"
+      },
+      {
+        "year": 1310,
+        "type": "diplomacy",
+        "tags": [
+          "diplomacy",
+          "succession"
+        ],
+        "weight": 74,
+        "label": "Returned his Hungarian claim to Charles Robert",
+        "labelCn": "将匈牙利王位主张让予查理·罗贝尔",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Otto_III,_Duke_of_Bavaria"
+      },
+      {
+        "year": 1312,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died at Landshut",
+        "labelCn": "在兰茨胡特去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Otto_III,_Duke_of_Bavaria"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Otto_III_of_Bavaria",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Otto_III_of_Bavaria",
+    "sourceNote": "Basic card for the Wittelsbach Lower Bavaria branch.",
+    "notes": "Duke of Lower Bavaria and, as Béla V, briefly King of Hungary; father of Henry XV and elder brother of Stephen I.",
+    "createdDate": "20260823",
+    "createdOrder": 158
+  },
+  {
+    "id": "1410f15d-80f4-4d2d-895d-3c9114fc5f67",
+    "firstName": "Stephen",
+    "lastName": "of Bavaria",
+    "displayName": "Stephen I of Bavaria",
+    "fullName": "Stephen I of Bavaria",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "巴伐利亚的斯蒂芬一世",
+    "fullNameCn": "巴伐利亚的斯蒂芬一世",
+    "birthYear": 1271,
+    "deathYear": 1310,
+    "birthPlace": "Bavaria",
+    "birthPlaceCn": "巴伐利亚",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "Wittelsbach dynasty",
+    "house": "House of Wittelsbach",
+    "culture": "German",
+    "faith": "Catholic",
+    "primaryTitle": "Duke of Bavaria",
+    "primaryTitleCn": "巴伐利亚公爵",
+    "titles": [
+      {
+        "title": "Duke of Bavaria",
+        "titleCn": "巴伐利亚公爵",
+        "startYear": 1290,
+        "endYear": 1310
+      }
+    ],
+    "tags": [
+      "duke",
+      "noble"
+    ],
+    "rank": "duke",
+    "importanceScore": 40,
+    "historicalRating": 4,
+    "relationships": {
+      "fatherId": "dfbf7d92-8ea9-4c74-8bff-3afd89f3d128",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "230f4517-b5f1-4291-a213-c739100684e0",
+        "65d29168-0437-4f41-8cd1-2e3f710cc1a5",
+        "c147b0d3-0504-4174-8037-b23b2cebaf9e"
+      ]
+    },
+    "events": [
+      {
+        "year": 1290,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "dynasty"
+        ],
+        "weight": 74,
+        "label": "Co-ruled Lower Bavaria with Otto III",
+        "labelCn": "与奥托三世共治下巴伐利亚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Stephen_I,_Duke_of_Bavaria"
+      },
+      {
+        "year": 1310,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 65,
+        "label": "Died at Landshut",
+        "labelCn": "在兰茨胡特去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Stephen_I,_Duke_of_Bavaria"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Stephen_I_of_Bavaria",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Stephen_I_of_Bavaria",
+    "sourceNote": "Basic card for the Wittelsbach Lower Bavaria branch.",
+    "notes": "Son of Henry XIII; co-ruler with Otto III and father of Henry XIV, Otto IV and John I.",
+    "createdDate": "20260823",
+    "createdOrder": 159
+  },
+  {
+    "id": "c8867a50-760c-466f-90fb-87076bd2cca8",
+    "firstName": "Henry",
+    "lastName": "of Bavaria",
+    "displayName": "Henry XV of Bavaria",
+    "fullName": "Henry XV of Bavaria",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "内尔塔堡的亨利十五世",
+    "fullNameCn": "内尔塔堡的亨利十五世",
+    "birthYear": 1312,
+    "deathYear": 1333,
+    "birthPlace": "Bavaria",
+    "birthPlaceCn": "巴伐利亚",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "Wittelsbach dynasty",
+    "house": "House of Wittelsbach",
+    "culture": "German",
+    "faith": "Catholic",
+    "primaryTitle": "Duke of Bavaria",
+    "primaryTitleCn": "巴伐利亚公爵",
+    "titles": [
+      {
+        "title": "Duke of Bavaria",
+        "titleCn": "巴伐利亚公爵",
+        "startYear": 1312,
+        "endYear": 1333
+      }
+    ],
+    "tags": [
+      "duke",
+      "noble"
+    ],
+    "rank": "duke",
+    "importanceScore": 40,
+    "historicalRating": 4,
+    "relationships": {
+      "fatherId": "a8b31f05-2f06-4a1c-be40-e30a40699839",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1312,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 74,
+        "label": "Succeeded as Duke of Lower Bavaria",
+        "labelCn": "继任下巴伐利亚公爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_XV,_Duke_of_Bavaria"
+      },
+      {
+        "year": 1333,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 65,
+        "label": "Died at Natternberg",
+        "labelCn": "在内尔塔堡去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_XV,_Duke_of_Bavaria"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Henry_XV_of_Bavaria",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Henry_XV_of_Bavaria",
+    "sourceNote": "Basic card for the Wittelsbach Lower Bavaria branch.",
+    "notes": "Son of Otto III, commonly called Henry of Natternberg.",
+    "createdDate": "20260823",
+    "createdOrder": 160
+  },
+  {
+    "id": "230f4517-b5f1-4291-a213-c739100684e0",
+    "firstName": "Henry",
+    "lastName": "of Bavaria",
+    "displayName": "Henry XIV of Bavaria",
+    "fullName": "Henry XIV of Bavaria",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "巴伐利亚的亨利十四世",
+    "fullNameCn": "巴伐利亚的亨利十四世",
+    "birthYear": 1305,
+    "deathYear": 1339,
+    "birthPlace": "Bavaria",
+    "birthPlaceCn": "巴伐利亚",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "Wittelsbach dynasty",
+    "house": "House of Wittelsbach",
+    "culture": "German",
+    "faith": "Catholic",
+    "primaryTitle": "Duke of Bavaria",
+    "primaryTitleCn": "巴伐利亚公爵",
+    "titles": [
+      {
+        "title": "Duke of Bavaria",
+        "titleCn": "巴伐利亚公爵",
+        "startYear": 1310,
+        "endYear": 1339
+      }
+    ],
+    "tags": [
+      "duke",
+      "noble"
+    ],
+    "rank": "duke",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "1410f15d-80f4-4d2d-895d-3c9114fc5f67",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1310,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 76,
+        "label": "Became Duke of Lower Bavaria",
+        "labelCn": "成为下巴伐利亚公爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_XIV,_Duke_of_Bavaria"
+      },
+      {
+        "year": 1312,
+        "type": "government",
+        "tags": [
+          "government",
+          "dynasty"
+        ],
+        "weight": 70,
+        "label": "Became the core ruler of Lower Bavaria",
+        "labelCn": "成为下巴伐利亚核心统治者",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_XIV,_Duke_of_Bavaria"
+      },
+      {
+        "year": 1339,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 65,
+        "label": "Died at Landshut",
+        "labelCn": "在兰茨胡特去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_XIV,_Duke_of_Bavaria"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Henry_XIV_of_Bavaria",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Henry_XIV_of_Bavaria",
+    "sourceNote": "Basic card for the Wittelsbach Lower Bavaria branch.",
+    "notes": "Eldest son of Stephen I; ruled Lower Bavaria with his brothers and was father of John II.",
+    "createdDate": "20260823",
+    "createdOrder": 161
+  },
+  {
+    "id": "65d29168-0437-4f41-8cd1-2e3f710cc1a5",
+    "firstName": "Otto",
+    "lastName": "of Bavaria",
+    "displayName": "Otto IV of Bavaria",
+    "fullName": "Otto IV of Bavaria",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "巴伐利亚的奥托四世",
+    "fullNameCn": "巴伐利亚的奥托四世",
+    "birthYear": 1307,
+    "deathYear": 1334,
+    "birthPlace": "Bavaria",
+    "birthPlaceCn": "巴伐利亚",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "Wittelsbach dynasty",
+    "house": "House of Wittelsbach",
+    "culture": "German",
+    "faith": "Catholic",
+    "primaryTitle": "Duke of Bavaria",
+    "primaryTitleCn": "巴伐利亚公爵",
+    "titles": [
+      {
+        "title": "Duke of Bavaria",
+        "titleCn": "巴伐利亚公爵",
+        "startYear": 1310,
+        "endYear": 1334
+      }
+    ],
+    "tags": [
+      "duke",
+      "noble"
+    ],
+    "rank": "duke",
+    "importanceScore": 40,
+    "historicalRating": 4,
+    "relationships": {
+      "fatherId": "1410f15d-80f4-4d2d-895d-3c9114fc5f67",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1310,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "dynasty"
+        ],
+        "weight": 70,
+        "label": "Became co-ruler of Lower Bavaria",
+        "labelCn": "成为下巴伐利亚共治公爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Otto_IV,_Duke_of_Bavaria"
+      },
+      {
+        "year": 1334,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 65,
+        "label": "Died at Munich",
+        "labelCn": "在慕尼黑去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Otto_IV,_Duke_of_Bavaria"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Otto_IV_of_Bavaria",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Otto_IV_of_Bavaria",
+    "sourceNote": "Basic card for the Wittelsbach Lower Bavaria branch.",
+    "notes": "Son of Stephen I and brother of Henry XIV and John I.",
+    "createdDate": "20260823",
+    "createdOrder": 162
+  },
+  {
+    "id": "c147b0d3-0504-4174-8037-b23b2cebaf9e",
+    "firstName": "John",
+    "lastName": "of Bavaria",
+    "displayName": "John I of Bavaria",
+    "fullName": "John I of Bavaria",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "巴伐利亚的约翰一世",
+    "fullNameCn": "巴伐利亚的约翰一世",
+    "birthYear": 1329,
+    "deathYear": 1340,
+    "birthPlace": "Bavaria",
+    "birthPlaceCn": "巴伐利亚",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "Wittelsbach dynasty",
+    "house": "House of Wittelsbach",
+    "culture": "German",
+    "faith": "Catholic",
+    "primaryTitle": "Duke of Bavaria",
+    "primaryTitleCn": "巴伐利亚公爵",
+    "titles": [
+      {
+        "title": "Duke of Bavaria",
+        "titleCn": "巴伐利亚公爵",
+        "startYear": 1339,
+        "endYear": 1340
+      }
+    ],
+    "tags": [
+      "duke",
+      "noble"
+    ],
+    "rank": "duke",
+    "importanceScore": 40,
+    "historicalRating": 4,
+    "relationships": {
+      "fatherId": "1410f15d-80f4-4d2d-895d-3c9114fc5f67",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1339,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 70,
+        "label": "Became Duke of Lower Bavaria",
+        "labelCn": "成为下巴伐利亚公爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/John_I,_Duke_of_Bavaria"
+      },
+      {
+        "year": 1340,
+        "type": "death",
+        "tags": [
+          "death",
+          "succession"
+        ],
+        "weight": 72,
+        "label": "Died without issue",
+        "labelCn": "无嗣去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/John_I,_Duke_of_Bavaria"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/John_I_of_Bavaria",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/John_I_of_Bavaria",
+    "sourceNote": "Basic card for the Wittelsbach Lower Bavaria branch.",
+    "notes": "Youngest son of Stephen I; died without issue and Lower Bavaria passed into the Upper Bavaria line.",
+    "createdDate": "20260823",
+    "createdOrder": 163
+  }
+]

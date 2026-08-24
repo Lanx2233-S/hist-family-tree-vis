@@ -269,6 +269,20 @@
   outline-offset: 3px;
 }
 
+/* Keep the visible title entrances aligned with the five homepage spheres. */
+.title-entry-card--england { background: #7b1f2a; }
+.title-entry-card--france { background: #183b70; }
+.title-entry-card--germany { background: #53655a; }
+.title-entry-card--castile { background: #d59a12; color: #2d1b05; }
+.title-entry-card--byzantium { background: #72264f; }
+.title-entry-card--castile .title-entry-name-cn { color: rgba(45, 27, 5, 0.72); }
+
+.title-entry-card--england:hover { background: #5f1420; }
+.title-entry-card--france:hover { background: #102c56; }
+.title-entry-card--germany:hover { background: #3d4d43; }
+.title-entry-card--castile:hover { background: #aa7808; }
+.title-entry-card--byzantium:hover { background: #561a3a; }
+
 .title-entry-name {
   font-size: 1.25rem;
   font-weight: 700;
@@ -622,6 +636,22 @@
   font-weight: 700;
   line-height: 1.25;
   text-align: right;
+}
+.title-holder-row--joint {
+  align-items: flex-start;
+  gap: 34px;
+}
+.title-holder-member {
+  position: relative;
+  display: grid;
+  justify-items: center;
+}
+.title-holder-member .title-holder-house {
+  position: static;
+  margin-top: 7px;
+  max-width: var(--person-node-width);
+  text-align: center;
+  transform: none;
 }
 @media (max-width: 480px) {
   .title-holder-row { flex-direction: column; gap: 6px; }

@@ -1,0 +1,94 @@
+[
+  {
+    "id": "b867f239-ba20-4bf0-97b7-426929b771e7",
+    "firstName": "Frederick",
+    "lastName": "of Bavaria",
+    "displayName": "Frederick of Bavaria-Landshut",
+    "fullName": "Frederick, Duke of Bavaria-Landshut",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "巴伐利亚-兰茨胡特的腓特烈",
+    "fullNameCn": "巴伐利亚-兰茨胡特的腓特烈",
+    "birthYear": 1339,
+    "deathYear": 1393,
+    "birthPlace": "Bavaria",
+    "birthPlaceCn": "巴伐利亚",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "Wittelsbach dynasty",
+    "house": "House of Wittelsbach-Landshut",
+    "culture": "German",
+    "faith": "Catholic",
+    "primaryTitle": "Duke of Bavaria-Landshut",
+    "primaryTitleCn": "巴伐利亚-兰茨胡特公爵",
+    "titles": [
+      {
+        "title": "Duke of Bavaria-Landshut",
+        "titleCn": "巴伐利亚-兰茨胡特公爵",
+        "startYear": 1375,
+        "endYear": 1393
+      }
+    ],
+    "tags": [
+      "duke",
+      "noble"
+    ],
+    "rank": "duke",
+    "importanceScore": 60,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "c3a4c21b-7783-4f3d-8528-2b8962e1d9cc",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1375,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "dynasty"
+        ],
+        "weight": 78,
+        "label": "Inherited Bavaria jointly with his brothers",
+        "labelCn": "与兄弟共同继承巴伐利亚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Frederick,_Duke_of_Bavaria"
+      },
+      {
+        "year": 1392,
+        "type": "partition",
+        "tags": [
+          "territory",
+          "succession"
+        ],
+        "weight": 84,
+        "label": "Received Bavaria-Landshut in the partition",
+        "labelCn": "在分割中取得巴伐利亚-兰茨胡特",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Partition_of_Bavaria"
+      },
+      {
+        "year": 1393,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 68,
+        "label": "Died at Budweis",
+        "labelCn": "在布德韦斯去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Frederick,_Duke_of_Bavaria"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Frederick_of_Bavaria-Landshut",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Frederick_of_Bavaria-Landshut",
+    "sourceNote": "Second son of Stephen II; founder of the Bavaria-Landshut branch in 1392.",
+    "notes": "Second son of Stephen II; first Duke of Bavaria-Landshut after the 1392 partition, and brother of Stephen III and John II.",
+    "createdDate": "20260823",
+    "createdOrder": 127
+  }
+]

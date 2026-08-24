@@ -1,0 +1,171 @@
+[
+  {
+    "id": "de635b11-ba41-4e9c-8b14-948282733529",
+    "firstName": "Constantine",
+    "lastName": "IX Monomachos",
+    "displayName": "Constantine IX Monomachos",
+    "fullName": "Constantine IX Monomachos, Byzantine Emperor",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [
+      "Constantine IX",
+      "Constantine Monomachos",
+      "Konstantinos IX Monomachos",
+      "Κωνσταντῖνος Θʹ Μονομάχος"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "君士坦丁九世·莫诺马科斯",
+    "fullNameCn": "拜占庭皇帝君士坦丁九世·莫诺马科斯",
+    "birthYear": 1000,
+    "deathYear": 1055,
+    "birthPlace": "Antioch, Byzantine Empire",
+    "birthPlaceCn": "拜占庭帝国安条克",
+    "deathPlace": "Constantinople, Byzantine Empire",
+    "deathPlaceCn": "拜占庭帝国君士坦丁堡",
+    "deathCause": {
+      "kind": "normal",
+      "summary": "died of illness",
+      "summaryCn": "因病去世",
+      "detail": "died of illness",
+      "detailCn": "因病去世",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Constantine_IX_Monomachos"
+    },
+    "gender": "male",
+    "dynasty": "Monomachos",
+    "house": "Monomachos family",
+    "culture": "Byzantine",
+    "faith": "Chalcedonian Christianity",
+    "primaryTitle": "Byzantine Emperor",
+    "primaryTitleCn": "拜占庭皇帝",
+    "titles": [
+      {
+        "title": "Byzantine Emperor",
+        "titleCn": "拜占庭皇帝",
+        "startYear": 1042,
+        "endYear": 1055
+      }
+    ],
+    "tags": [
+      "monarch",
+      "emperor"
+    ],
+    "rank": "emperor",
+    "importanceScore": 80,
+    "historicalRating": 7,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "4554ad22-b277-438b-a5ce-9d54c2547cb1"
+      ],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1042,
+        "month": 6,
+        "day": 11,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "succession"
+        ],
+        "weight": 100,
+        "label": "Married Zoe Porphyrogenita",
+        "labelCn": "与佐伊·紫衣贵族女皇结婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Constantine_IX_Monomachos",
+        "note": "Zoe selected the exiled aristocrat Constantine Monomachos as her third husband, providing the dynastic basis for his accession."
+      },
+      {
+        "year": 1042,
+        "month": 6,
+        "day": 12,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "king"
+        ],
+        "weight": 100,
+        "label": "Was crowned Byzantine emperor",
+        "labelCn": "加冕为拜占庭皇帝",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Constantine_IX_Monomachos",
+        "note": "Constantine was crowned the day after marrying Zoe, while Zoe and Theodora retained their imperial precedence."
+      },
+      {
+        "year": 1043,
+        "type": "rebellion",
+        "tags": [
+          "rebellion",
+          "political_crisis"
+        ],
+        "weight": 80,
+        "label": "Defeated the rebellion of George Maniakes",
+        "labelCn": "镇压乔治·马尼亚克斯叛乱",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Constantine_IX_Monomachos",
+        "note": "The celebrated general George Maniakes rebelled in Italy and crossed into the Balkans, but died during the campaign and the revolt collapsed."
+      },
+      {
+        "year": 1043,
+        "type": "defense",
+        "tags": [
+          "defense",
+          "campaign"
+        ],
+        "weight": 75,
+        "label": "Repelled a Rus' naval attack on Constantinople",
+        "labelCn": "击退罗斯对君士坦丁堡的海上进攻",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Constantine_IX_Monomachos",
+        "note": "A Rus' fleet attacked the capital but was defeated by imperial naval forces and storms."
+      },
+      {
+        "year": 1046,
+        "type": "administration",
+        "tags": [
+          "administration",
+          "law"
+        ],
+        "weight": 80,
+        "label": "Reorganized higher education in law and philosophy",
+        "labelCn": "重组法律与哲学高等教育",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Constantine_IX_Monomachos",
+        "note": "Constantine established a law school under John Xiphilinos and strengthened advanced philosophical study in Constantinople."
+      },
+      {
+        "year": 1047,
+        "type": "rebellion",
+        "tags": [
+          "rebellion",
+          "political_crisis"
+        ],
+        "weight": 90,
+        "label": "Survived Leo Tornikios's siege of Constantinople",
+        "labelCn": "挺过利奥·托尔尼基奥斯对君士坦丁堡的围攻",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Constantine_IX_Monomachos",
+        "note": "Tornikios came close to taking the capital, but Constantine held the walls until the rebel coalition dissolved."
+      },
+      {
+        "year": 1055,
+        "month": 1,
+        "day": 11,
+        "type": "death",
+        "tags": [
+          "death",
+          "king"
+        ],
+        "weight": 80,
+        "label": "Died and was succeeded by Theodora",
+        "labelCn": "去世，由狄奥多拉继位",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Constantine_IX_Monomachos",
+        "note": "Constantine died after illness; an attempt by his advisers to bypass Theodora failed, and the Macedonian princess resumed sole rule."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Constantine_IX_Monomachos",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Constantine_IX_Monomachos",
+    "sourceNote": "Michael Psellos, Chronographia; John Skylitzes, A Synopsis of Byzantine History (Cambridge); The Cambridge History of the Byzantine Empire, 'Belle Époque or Crisis? (1025–1118)'; Anthony Kaldellis, Streams of Gold, Rivers of Blood; Oxford Dictionary of Byzantium; Wikipedia supplementary chronology.",
+    "notes": "Constantine IX became emperor through his marriage to Zoe and ruled alongside the continuing formal imperial status of Zoe and Theodora. His reign saw cultural and legal patronage but also severe military pressure, aristocratic revolt, Pecheneg warfare and the 1054 ecclesiastical rupture.\n\nUnlinked family: father: Theodosios Monomachos; spouse: Unnamed first wife; spouse: Daughter of Basil Skleros; child: Anastasia (possible daughter)",
+    "createdDate": "20260824",
+    "createdOrder": 75
+  }
+]

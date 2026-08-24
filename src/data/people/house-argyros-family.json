@@ -1,0 +1,123 @@
+[
+  {
+    "id": "b63effda-1294-4e0c-9800-3c444c1ac570",
+    "firstName": "Romanos",
+    "lastName": "III Argyros",
+    "displayName": "Romanos III Argyros",
+    "fullName": "Romanos III Argyros, Byzantine Emperor",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [
+      "Romanos III",
+      "Romanus III Argyrus",
+      "Romanos Argyropoulos",
+      "Ῥωμανὸς Γʹ Ἀργυρός"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "罗曼努斯三世·阿尔吉罗斯",
+    "fullNameCn": "拜占庭皇帝罗曼努斯三世·阿尔吉罗斯",
+    "birthYear": 968,
+    "deathYear": 1034,
+    "birthPlace": "Hierapolis, Byzantine Empire",
+    "birthPlaceCn": "拜占庭帝国希拉波利斯",
+    "deathPlace": "Constantinople, Byzantine Empire",
+    "deathPlaceCn": "拜占庭帝国君士坦丁堡",
+    "gender": "male",
+    "dynasty": "Argyros",
+    "house": "Argyros family",
+    "culture": "Byzantine",
+    "faith": "Chalcedonian Christianity",
+    "primaryTitle": "Byzantine Emperor",
+    "primaryTitleCn": "拜占庭皇帝",
+    "titles": [
+      {
+        "title": "Byzantine Emperor",
+        "titleCn": "拜占庭皇帝",
+        "startYear": 1028,
+        "endYear": 1034
+      }
+    ],
+    "tags": [
+      "monarch",
+      "emperor",
+      "commander"
+    ],
+    "rank": "emperor",
+    "importanceScore": 70,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "4554ad22-b277-438b-a5ce-9d54c2547cb1"
+      ],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1028,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 100,
+        "label": "Was compelled to divorce and marry Zoe Porphyrogenita",
+        "labelCn": "被迫离婚并迎娶紫衣贵族佐伊",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Romanos_III_Argyros",
+        "note": "The dying Constantine VIII selected Romanos, then a senior Constantinopolitan official, to marry his daughter Zoe and continue the Macedonian succession."
+      },
+      {
+        "year": 1028,
+        "month": 11,
+        "day": 12,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 100,
+        "label": "Became Byzantine emperor through marriage to Zoe",
+        "labelCn": "通过与佐伊的婚姻成为拜占庭皇帝",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Romanos_III_Argyros",
+        "note": "Romanos succeeded immediately after Constantine VIII's death, deriving decisive legitimacy from Zoe's Macedonian dynastic status."
+      },
+      {
+        "year": 1030,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "defeat"
+        ],
+        "weight": 85,
+        "label": "Was defeated near Azaz during his Syrian campaign",
+        "labelCn": "叙利亚远征中在阿扎兹附近战败",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Romanos_III_Argyros",
+        "note": "Romanos personally led a campaign against the Mirdasids of Aleppo but suffered a humiliating defeat and difficult retreat."
+      },
+      {
+        "year": 1034,
+        "month": 4,
+        "day": 11,
+        "type": "death",
+        "tags": [
+          "death",
+          "uncertain"
+        ],
+        "weight": 100,
+        "label": "Died in his bath under suspicious circumstances",
+        "labelCn": "在浴池中离奇死亡",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Romanos_III_Argyros",
+        "note": "Romanos was found dead in the palace bath. Contemporary narratives differ over whether he drowned naturally, was murdered by servants, or was killed in a plot involving Zoe and Michael the Paphlagonian."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Romanos_III_Argyros",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Romanos_III_Argyros",
+    "sourceNote": "Michael Psellos, Chronographia; John Skylitzes, A Synopsis of Byzantine History (Cambridge); Oxford Dictionary of Byzantium; The Cambridge History of the Byzantine Empire, 'Belle Époque or Crisis? (1025–1118)'; Metropolitan Museum and Dumbarton Oaks numismatic evidence; Wikipedia supplementary chronology.",
+    "notes": "Romanos III did not inherit through blood: Constantine VIII compelled his marriage to Zoe so that a male aristocrat could rule alongside the Macedonian heiress. His death allowed Zoe immediately to elevate Michael IV through a second marriage.\n\nUnlinked family: father: Marianos Argyros; spouse: Helena",
+    "createdDate": "20260824",
+    "createdOrder": 70
+  }
+]

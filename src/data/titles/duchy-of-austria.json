@@ -1,0 +1,25 @@
+{
+  "id": "duchy-of-austria",
+  "canonicalName": "Duchy of Austria",
+  "canonicalNameCn": "奥地利公国",
+  "form": "hereditary duchy",
+  "aliases": ["Duke of Austria", "奥地利公爵", "Austria"],
+  "nameForms": [
+    { "name": "Duchy of Austria", "nameCn": "奥地利公国", "fromYear": 1282, "untilYear": 1457, "note": "The Habsburg Austrian line begins with Rudolf I's enfeoffment of his sons in 1282; after Ladislaus's death, the Austrian inheritance passed to Frederick III of the Leopoldian line.", "noteCn": "哈布斯堡奥地利支系始于 1282 年鲁道夫一世将奥地利分封给诸子；拉迪斯拉斯去世后，奥地利继承至利奥波德支的腓特烈三世。" }
+  ],
+  "holders": [
+    { "kind": "person", "personId": "268c6586-a041-4aa7-9d66-92a7af3c4ac6", "startYear": 1282, "endYear": 1291, "titleForm": "Duke of Austria", "note": "Enfeoffed his sons Albert and Rudolf with Austria in 1282.", "noteCn": "1282 年将奥地利分封给诸子阿尔布雷希特与鲁道夫。" },
+    { "kind": "person", "personId": "73b42b1a-c2dd-4d64-bdb2-1c0d63528f00", "startYear": 1282, "endYear": 1283, "titleForm": "Duke of Austria", "note": "Co-ruler with his brother Albert; he renounced his Austrian share in 1283.", "noteCn": "与兄长阿尔布雷希特共治；1283 年放弃奥地利份额。" },
+    { "kind": "person", "personId": "6ca48b05-8d0d-4206-8812-31e49f7b5d35", "startYear": 1282, "endYear": 1308, "titleForm": "Duke of Austria", "note": "Received Austria with Rudolf II and continued as sole Habsburg duke after 1283.", "noteCn": "与鲁道夫二世共同受封奥地利，1283 年后成为唯一哈布斯堡公爵。" },
+    { "kind": "person", "personId": "7f2f30fb-2735-4e96-a1b6-f9ec8703e9ff", "startYear": 1308, "endYear": 1330, "titleForm": "Duke of Austria", "note": "Succeeded his father Albert I; rival King of the Romans from 1314.", "noteCn": "继承其父阿尔布雷希特一世；1314 年起为对立的罗马人国王。" },
+    { "kind": "person", "personId": "b56f6ca0-e20c-4c6a-a118-1c730bca3cf4", "startYear": 1330, "endYear": 1358, "titleForm": "Duke of Austria", "note": "Ruled Austria with Otto the Merry and acquired Carinthia and Carniola.", "noteCn": "与快乐的奥托共治奥地利，并取得克恩滕与卡尼奥拉。" },
+    { "kind": "person", "personId": "c0e5a6fc-5c06-408b-bc49-4ab9e592ca4b", "startYear": 1330, "endYear": 1339, "titleForm": "Duke of Austria", "note": "Co-ruler with Albert II the Wise until his death.", "noteCn": "与智者阿尔布雷希特二世共治，至其去世。" },
+    { "kind": "person", "personId": "4340617b-1fb7-43d9-afcc-bf826c55c8b7", "startYear": 1358, "endYear": 1365, "titleForm": "Duke of Austria", "note": "Succeeded Albert II the Wise; known as the Founder for his institutional reforms.", "noteCn": "继承智者阿尔布雷希特二世；以制度建设著称，号称创建者。" },
+    { "kind": "person", "personId": "b9386e8c-6886-4cea-b6f1-b1205598335c", "startYear": 1365, "endYear": 1395, "titleForm": "Duke of Austria", "note": "Co-ruled with Leopold III after Rudolf IV, then headed the Albertinian line after 1379.", "noteCn": "鲁道夫四世之后与利奥波德三世共治，1379 年后成为阿尔布雷希特支首领。" },
+    { "kind": "person", "personId": "25bd05f2-280c-4472-a83a-e8a5081bd43f", "startYear": 1365, "endYear": 1386, "titleForm": "Duke of Austria", "note": "Co-ruled with Albert III; the Treaty of Neuberg assigned him the Inner Austrian lands.", "noteCn": "与阿尔布雷希特三世共治；诺伊贝格条约将内奥地利领地分给他。" },
+    { "kind": "person", "personId": "6778e952-ab13-4294-9562-38559a6223e2", "startYear": 1395, "endYear": 1404, "titleForm": "Duke of Austria", "note": "Succeeded his father Albert III in the Albertinian line.", "noteCn": "在阿尔布雷希特支继承其父阿尔布雷希特三世。" },
+    { "kind": "person", "personId": "bbf82f02-ae24-42a5-a999-ecaaddd9f365", "startYear": 1404, "endYear": 1439, "titleForm": "Duke of Austria", "note": "Albert V of Austria; later King Albert II, whose death left a posthumous heir.", "noteCn": "奥地利的阿尔布雷希特五世，后为国王阿尔布雷希特二世；其去世时遗腹子尚未出生。" },
+    { "kind": "person", "personId": "5541d187-7dfd-439c-b664-44ad103e413a", "startYear": 1440, "endYear": 1457, "titleForm": "Duke of Austria", "note": "Posthumous son of Albert V; after his death Austria passed to Frederick III of the Leopoldian line.", "noteCn": "阿尔布雷希特五世的遗腹子；其去世后奥地利转至利奥波德支的腓特烈三世。" },
+    { "kind": "person", "personId": "682a8fa6-13f6-4dc4-83ef-83787cd8c532", "startYear": 1457, "endYear": 1493, "titleForm": "Archduke of Austria", "note": "Inherited Austria after Ladislaus's death through the Leopoldian line; later Holy Roman Emperor Frederick III.", "noteCn": "拉迪斯拉斯去世后经利奥波德支继承奥地利；后为神圣罗马帝国皇帝腓特烈三世。" }
+  ]
+}

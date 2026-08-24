@@ -1,0 +1,204 @@
+[
+  {
+    "id": "d8e73392-b466-44ec-942d-3a8c110575f0",
+    "firstName": "Nikephoros",
+    "lastName": "II Phokas",
+    "displayName": "Nikephoros II Phokas",
+    "fullName": "Nikephoros II Phokas, Byzantine Emperor",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [
+      "Nikephoros II",
+      "Nicephorus II Phocas",
+      "Nikephoros Phokas",
+      "Νικηφόρος Βʹ Φωκᾶς"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "尼基弗鲁斯二世·福卡斯",
+    "fullNameCn": "拜占庭皇帝尼基弗鲁斯二世·福卡斯",
+    "birthYear": 912,
+    "deathYear": 969,
+    "birthPlace": "Cappadocia, Byzantine Empire",
+    "birthPlaceCn": "拜占庭帝国卡帕多西亚",
+    "deathPlace": "Constantinople, Byzantine Empire",
+    "deathPlaceCn": "拜占庭帝国君士坦丁堡",
+    "deathCause": {
+      "kind": "violent",
+      "summary": "assassinated",
+      "summaryCn": "遇刺身亡",
+      "detail": "assassinated",
+      "detailCn": "遇刺身亡",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Nikephoros_II_Phokas"
+    },
+    "gender": "male",
+    "dynasty": "Phokas",
+    "house": "Phokas family",
+    "culture": "Byzantine",
+    "faith": "Chalcedonian Christianity",
+    "primaryTitle": "Byzantine Emperor",
+    "primaryTitleCn": "拜占庭皇帝",
+    "titles": [
+      {
+        "title": "Domestic of the Schools of the East",
+        "titleCn": "东方禁卫军统帅",
+        "startYear": 955,
+        "endYear": 963
+      },
+      {
+        "title": "Byzantine Emperor",
+        "titleCn": "拜占庭皇帝",
+        "startYear": 963,
+        "endYear": 969
+      }
+    ],
+    "tags": [
+      "monarch",
+      "emperor",
+      "commander"
+    ],
+    "rank": "emperor",
+    "importanceScore": 91,
+    "historicalRating": 8,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "cf21bd17-752e-4b1f-a90c-4713769b7fcf"
+      ],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 955,
+        "type": "government",
+        "tags": [
+          "commander",
+          "government"
+        ],
+        "weight": 75,
+        "label": "Became Domestic of the Schools in the East",
+        "labelCn": "出任东方军区最高军事统帅",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Nikephoros_II_Phokas",
+        "note": "Nikephoros succeeded his father Bardas Phokas as the leading commander against the Muslim powers of the eastern frontier."
+      },
+      {
+        "year": 961,
+        "type": "conquest",
+        "tags": [
+          "conquest",
+          "campaign"
+        ],
+        "weight": 100,
+        "label": "Conquered Crete after the siege of Chandax",
+        "labelCn": "围攻汉达克斯后收复克里特岛",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Nikephoros_II_Phokas",
+        "note": "Nikephoros led the huge expedition that destroyed the Emirate of Crete and restored the island to Byzantine rule."
+      },
+      {
+        "year": 962,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "conquest"
+        ],
+        "weight": 90,
+        "label": "Captured and sacked Aleppo",
+        "labelCn": "攻占并洗劫阿勒颇",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Nikephoros_II_Phokas",
+        "note": "His Syrian offensive broke into Aleppo and demonstrated the renewed offensive strength of the Byzantine army."
+      },
+      {
+        "year": 963,
+        "month": 8,
+        "day": 16,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 100,
+        "label": "Was proclaimed and crowned emperor",
+        "labelCn": "被拥立并加冕为皇帝",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Nikephoros_II_Phokas",
+        "note": "After Romanos II's death, the eastern army acclaimed Nikephoros. He entered Constantinople and was crowned while Basil II and Constantine VIII remained child co-emperors."
+      },
+      {
+        "year": 963,
+        "month": 9,
+        "day": 20,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 95,
+        "label": "Married the empress Theophano",
+        "labelCn": "迎娶皇后狄奥法诺",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Nikephoros_II_Phokas",
+        "note": "Marriage to Romanos II's widow tied Nikephoros to the Macedonian child emperors and helped legitimize his senior rule."
+      },
+      {
+        "year": 965,
+        "type": "conquest",
+        "tags": [
+          "conquest",
+          "territory"
+        ],
+        "weight": 90,
+        "label": "Completed the conquest of Cilicia",
+        "labelCn": "完成对奇里乞亚的征服",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Nikephoros_II_Phokas",
+        "note": "Campaigns destroyed the main Muslim strongholds of Cilicia and shifted the eastern frontier dramatically in Byzantium's favor."
+      },
+      {
+        "year": 965,
+        "type": "conquest",
+        "tags": [
+          "conquest",
+          "territory"
+        ],
+        "weight": 80,
+        "label": "Restored Byzantine control over Cyprus",
+        "labelCn": "恢复拜占庭对塞浦路斯的控制",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Nikephoros_II_Phokas",
+        "note": "Byzantine forces ended the long condominium arrangement on Cyprus and re-established direct imperial authority."
+      },
+      {
+        "year": 969,
+        "type": "conquest",
+        "tags": [
+          "conquest",
+          "territory"
+        ],
+        "weight": 95,
+        "label": "Recovered Antioch",
+        "labelCn": "收复安条克",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Nikephoros_II_Phokas",
+        "note": "Commanders Michael Bourtzes and Peter captured Antioch despite Nikephoros's earlier orders to avoid a premature assault, restoring a major ancient imperial city."
+      },
+      {
+        "year": 969,
+        "month": 12,
+        "day": 11,
+        "type": "death",
+        "tags": [
+          "death",
+          "violent"
+        ],
+        "weight": 100,
+        "label": "Was assassinated in the imperial palace",
+        "labelCn": "在皇宫中遭刺杀",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Nikephoros_II_Phokas",
+        "note": "John Tzimiskes and fellow conspirators entered Nikephoros's bedchamber with the cooperation of palace insiders associated with Theophano and killed him."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Nikephoros_II_Phokas",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Nikephoros_II_Phokas",
+    "sourceNote": "John Skylitzes, A Synopsis of Byzantine History, ch. 'Nikephoros II Phokas [963–969]' (Cambridge); Prosopographie der mittelbyzantinischen Zeit; Anthony Kaldellis, Streams of Gold, Rivers of Blood; Oxford Dictionary of Byzantium; World History Encyclopedia supplementary chronology.",
+    "notes": "Nikephoros was the greatest field commander of Romanos II's reign and then senior emperor protecting the Macedonian child emperors. His conquests in Crete, Cilicia, Cyprus and northern Syria were central to the tenth-century Byzantine military expansion, but his assassination transferred senior power to John I Tzimiskes.\n\nUnlinked family: father: Bardas Phokas the Elder; spouse: Unnamed first wife; child: Bardas Phokas (son, died young)",
+    "createdDate": "20260824",
+    "createdOrder": 66
+  }
+]

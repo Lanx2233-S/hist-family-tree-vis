@@ -1,0 +1,341 @@
+{
+  "id": "kingdom-of-bohemia",
+  "canonicalName": "Kingdom of Bohemia",
+  "canonicalNameCn": "波希米亚王国",
+  "form": "kingdom",
+  "aliases": [
+    "King of Bohemia",
+    "Duke of Bohemia",
+    "Bohemia"
+  ],
+  "nameForms": [
+    {
+      "name": "Duchy of Bohemia",
+      "nameCn": "波希米亚公国",
+      "fromYear": 1061,
+      "untilYear": 1198,
+      "note": "The Přemyslid succession held Bohemia as a duchy before the hereditary royal title was secured.",
+      "noteCn": "普热米斯尔继承线先以公国形式持有波希米亚，1198 年后取得世袭王位。"
+    },
+    {
+      "name": "Kingdom of Bohemia",
+      "nameCn": "波希米亚王国",
+      "fromYear": 1198,
+      "untilYear": "",
+      "note": "Ottokar I secured the hereditary royal title; after the Přemyslid male line ended in 1306, the crown passed through Habsburg and Gorizia claimants to Luxembourg.",
+      "noteCn": "奥托卡一世取得世袭王位；普热米斯尔男性直系于 1306 年结束后，王位经哈布斯堡与戈里齐亚继承人过渡至卢森堡。"
+    }
+  ],
+  "holders": [
+    {
+      "kind": "person",
+      "personId": "8777ca36-1cb4-478a-b4e2-8b39f86e50da",
+      "startYear": 1061,
+      "endYear": 1085,
+      "titleForm": "Duke of Bohemia",
+      "note": "Vratislaus II ruled Bohemia as duke before becoming its first king.",
+      "noteCn": "弗拉季斯拉夫二世先以公爵统治波希米亚，后成为其首位国王。",
+      "tierOverride": "duke"
+    },
+    {
+      "kind": "person",
+      "personId": "8777ca36-1cb4-478a-b4e2-8b39f86e50da",
+      "startYear": 1085,
+      "endYear": 1092,
+      "titleForm": "King of Bohemia",
+      "note": "First Bohemian king; the royal dignity was not yet hereditary.",
+      "noteCn": "首位波希米亚国王；此时王位尚非世袭。",
+      "tierOverride": "king"
+    },
+    {
+      "kind": "person",
+      "personId": "f4e78109-6b3e-4e0b-828c-b8db1c034ef3",
+      "startYear": 1092,
+      "endYear": 1100,
+      "titleForm": "Duke of Bohemia",
+      "note": "Succeeded Vratislaus II.",
+      "noteCn": "继承弗拉季斯拉夫二世。",
+      "tierOverride": "duke"
+    },
+    {
+      "kind": "person",
+      "personId": "8c5ff94d-dff6-4d8f-b104-46300308f484",
+      "startYear": 1100,
+      "endYear": 1107,
+      "titleForm": "Duke of Bohemia",
+      "note": "First of two interrupted periods as duke.",
+      "noteCn": "第一次出任公爵。",
+      "tierOverride": "duke"
+    },
+    {
+      "kind": "person",
+      "personId": "1a611919-ae6c-4d15-91dd-7224a964370c",
+      "startYear": 1107,
+      "endYear": 1109,
+      "titleForm": "Duke of Bohemia",
+      "note": "Brief ducal reign.",
+      "noteCn": "短暂出任公爵。",
+      "tierOverride": "duke"
+    },
+    {
+      "kind": "person",
+      "personId": "401ac294-cb37-41ec-90e0-d8ed1719cc08",
+      "startYear": 1109,
+      "endYear": 1117,
+      "titleForm": "Duke of Bohemia",
+      "note": "First period of rule.",
+      "noteCn": "第一次统治时期。",
+      "tierOverride": "duke"
+    },
+    {
+      "kind": "person",
+      "personId": "8c5ff94d-dff6-4d8f-b104-46300308f484",
+      "startYear": 1117,
+      "endYear": 1120,
+      "titleForm": "Duke of Bohemia",
+      "note": "Returned to the duchy during the succession struggle.",
+      "noteCn": "在继承斗争中复归公爵位。",
+      "tierOverride": "duke"
+    },
+    {
+      "kind": "person",
+      "personId": "401ac294-cb37-41ec-90e0-d8ed1719cc08",
+      "startYear": 1120,
+      "endYear": 1125,
+      "titleForm": "Duke of Bohemia",
+      "note": "Returned for a second period.",
+      "noteCn": "第二次统治时期。",
+      "tierOverride": "duke"
+    },
+    {
+      "kind": "person",
+      "personId": "bf9bdfaf-9eb5-49a7-b4c9-025ec7d925ac",
+      "startYear": 1125,
+      "endYear": 1140,
+      "titleForm": "Duke of Bohemia",
+      "note": "Succeeded Vladislaus I.",
+      "noteCn": "继承弗拉迪斯拉夫一世。",
+      "tierOverride": "duke"
+    },
+    {
+      "kind": "person",
+      "personId": "c96198b9-a0b9-4180-bbd4-d31359d64848",
+      "startYear": 1140,
+      "endYear": 1158,
+      "titleForm": "Duke of Bohemia",
+      "note": "Ruled as duke before receiving the royal dignity.",
+      "noteCn": "先以公爵身份统治，后取得王号。",
+      "tierOverride": "duke"
+    },
+    {
+      "kind": "person",
+      "personId": "c96198b9-a0b9-4180-bbd4-d31359d64848",
+      "startYear": 1158,
+      "endYear": 1172,
+      "titleForm": "King of Bohemia",
+      "note": "The royal title was granted for life in 1158.",
+      "noteCn": "1158 年取得终身国王称号。",
+      "tierOverride": "king"
+    },
+    {
+      "kind": "person",
+      "personId": "e7ffca87-1281-481d-b738-b0f7feb3524b",
+      "startYear": 1172,
+      "endYear": 1173,
+      "titleForm": "Duke of Bohemia",
+      "note": "First period of rule.",
+      "noteCn": "第一次统治时期。",
+      "tierOverride": "duke"
+    },
+    {
+      "kind": "person",
+      "personId": "c1427fa9-dcf6-4bd2-b7ab-7f7192769526",
+      "startYear": 1173,
+      "endYear": 1178,
+      "titleForm": "Duke of Bohemia",
+      "note": "Held the duchy between Frederick's two periods.",
+      "noteCn": "在弗里德里希两段统治之间出任公爵。",
+      "tierOverride": "duke"
+    },
+    {
+      "kind": "person",
+      "personId": "e7ffca87-1281-481d-b738-b0f7feb3524b",
+      "startYear": 1178,
+      "endYear": 1189,
+      "titleForm": "Duke of Bohemia",
+      "note": "Returned for a second period.",
+      "noteCn": "第二次统治时期。",
+      "tierOverride": "duke"
+    },
+    {
+      "kind": "person",
+      "personId": "44a02427-1557-4567-874e-d4097a55b3e5",
+      "startYear": 1189,
+      "endYear": 1191,
+      "titleForm": "Duke of Bohemia",
+      "note": "Brief successor before the final succession disputes.",
+      "noteCn": "在后续继承斗争前短暂继任。",
+      "tierOverride": "duke"
+    },
+    {
+      "kind": "person",
+      "personId": "62cd95e3-84f7-4007-857a-cc1cf328615c",
+      "startYear": 1191,
+      "endYear": 1192,
+      "titleForm": "Duke of Bohemia",
+      "note": "Short ducal reign.",
+      "noteCn": "短暂出任公爵。",
+      "tierOverride": "duke"
+    },
+    {
+      "kind": "person",
+      "personId": "e500ef1d-05b5-409c-aa76-8afaad2544cd",
+      "startYear": 1192,
+      "endYear": 1193,
+      "titleForm": "Duke of Bohemia",
+      "note": "First ducal period of Ottokar I.",
+      "noteCn": "奥托卡一世第一次出任公爵。",
+      "tierOverride": "duke"
+    },
+    {
+      "kind": "person",
+      "personId": "dd5fd12f-4c04-4e24-8d9b-2b946089824c",
+      "startYear": 1193,
+      "endYear": 1197,
+      "titleForm": "Duke of Bohemia",
+      "note": "Ruled during Ottokar I's displacement.",
+      "noteCn": "在奥托卡一世失位期间统治。",
+      "tierOverride": "duke"
+    },
+    {
+      "kind": "person",
+      "personId": "e80c16a2-4125-4ba5-a2db-040bd62add60",
+      "startYear": 1197,
+      "endYear": 1198,
+      "titleForm": "Duke of Bohemia",
+      "note": "Yielded the succession to Ottokar I.",
+      "noteCn": "将继承权让与奥托卡一世。",
+      "tierOverride": "duke"
+    },
+    {
+      "kind": "person",
+      "personId": "e500ef1d-05b5-409c-aa76-8afaad2544cd",
+      "startYear": 1197,
+      "endYear": 1198,
+      "titleForm": "Duke of Bohemia",
+      "note": "Second ducal period before securing the hereditary crown.",
+      "noteCn": "取得世袭王冠前第二次出任公爵。",
+      "tierOverride": "duke"
+    },
+    {
+      "kind": "person",
+      "personId": "e500ef1d-05b5-409c-aa76-8afaad2544cd",
+      "startYear": 1198,
+      "endYear": 1230,
+      "titleForm": "King of Bohemia",
+      "note": "Secured the hereditary royal title and established the kingdom's durable royal status.",
+      "noteCn": "取得世袭王位，确立王国持久的王权地位。",
+      "tierOverride": "king"
+    },
+    {
+      "kind": "person",
+      "personId": "4d6db4d6-5d1d-472e-bc4f-6db4cc84b0c3",
+      "startYear": 1230,
+      "endYear": 1253,
+      "titleForm": "King of Bohemia",
+      "note": "Succeeded Ottokar I.",
+      "noteCn": "继承奥托卡一世。",
+      "tierOverride": "king"
+    },
+    {
+      "kind": "person",
+      "personId": "82657f7d-e889-4afa-a3c9-d2241570e6c9",
+      "startYear": 1253,
+      "endYear": 1278,
+      "titleForm": "King of Bohemia",
+      "note": "Powerful Přemyslid king defeated and killed at Marchfeld.",
+      "noteCn": "强势的普热米斯尔国王，最终在马赫费尔德战役中战败身亡。",
+      "tierOverride": "king"
+    },
+    {
+      "kind": "person",
+      "personId": "446624f0-f071-4c86-8933-3079d0ac1f0b",
+      "startYear": 1278,
+      "endYear": 1305,
+      "titleForm": "King of Bohemia",
+      "note": "Restored Přemyslid power and acquired the Polish crown.",
+      "noteCn": "恢复普热米斯尔势力并取得波兰王冠。",
+      "tierOverride": "king"
+    },
+    {
+      "kind": "person",
+      "personId": "0f674554-3d8f-4546-9c12-96ffaf3c2c18",
+      "startYear": 1305,
+      "endYear": 1306,
+      "titleForm": "King of Bohemia",
+      "note": "Last Přemyslid king; his death ended the direct male line.",
+      "noteCn": "最后一位普热米斯尔国王；其死亡终结男性直系。",
+      "tierOverride": "king"
+    },
+    {
+      "kind": "person",
+      "personId": "45b7566c-90bc-42af-ba52-750336dcd55d",
+      "startYear": 1306,
+      "endYear": 1307,
+      "titleForm": "King of Bohemia",
+      "note": "Habsburg transition after the Přemyslid line.",
+      "noteCn": "普热米斯尔王朝之后的哈布斯堡过渡。",
+      "tierOverride": "king"
+    },
+    {
+      "kind": "person",
+      "personId": "343ba66b-b594-45de-8f8a-3acec3322cc5",
+      "startYear": 1307,
+      "endYear": 1310,
+      "titleForm": "King of Bohemia",
+      "note": "Gorizia claimant before the Luxembourg succession.",
+      "noteCn": "卢森堡继承前的戈里齐亚继承人。",
+      "tierOverride": "king"
+    },
+    {
+      "kind": "person",
+      "personId": "581b42bc-541c-4083-aefb-5dd9e2249430",
+      "startYear": 1310,
+      "endYear": 1346,
+      "titleForm": "King of Bohemia",
+      "note": "John's marriage to Elisabeth of Bohemia established Luxembourg rule in the kingdom and made him the father of Karl IV.",
+      "noteCn": "约翰通过迎娶波希米亚的伊丽莎白建立卢森堡王朝的统治，并成为卡尔四世之父。",
+      "tierOverride": "king"
+    },
+    {
+      "kind": "person",
+      "personId": "80b3801a-ffca-4136-ba92-293b6b976e85",
+      "startYear": 1346,
+      "endYear": 1378,
+      "titleForm": "King of Bohemia",
+      "note": "Karl IV made Prague a political and cultural centre of the empire while ruling Bohemia.",
+      "noteCn": "卡尔四世统治期间，布拉格成为帝国的政治与文化中心。",
+      "tierOverride": "king"
+    },
+    {
+      "kind": "person",
+      "personId": "3d893516-a8da-469f-a546-67c603ec62e2",
+      "startYear": 1378,
+      "endYear": 1419,
+      "titleForm": "King of Bohemia",
+      "note": "Wenceslaus IV, successor of Karl IV.",
+      "noteCn": "卡尔四世的继承者瓦茨拉夫四世。",
+      "tierOverride": "king"
+    },
+    {
+      "kind": "person",
+      "personId": "7b1aea91-a048-4a69-bacd-b6f0358bf573",
+      "startYear": 1419,
+      "endYear": 1437,
+      "titleForm": "King of Bohemia",
+      "note": "Sigismund was the last Luxembourg king of Bohemia; his death ended the dynasty's rule there.",
+      "noteCn": "西吉斯蒙德是最后一位卢森堡王朝的波希米亚国王；其去世结束了该王朝在当地的统治。",
+      "tierOverride": "king"
+    }
+  ]
+}

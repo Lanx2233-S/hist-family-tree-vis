@@ -1,0 +1,111 @@
+[
+  {
+    "id": "8f0a169f-0eba-48d5-8593-1e0e9e340e26",
+    "firstName": "Margaret",
+    "lastName": "",
+    "displayName": "Margaret of Bar",
+    "fullName": "Margaret of Bar, Countess of Luxembourg",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Marguerite of Bar",
+      "Marguerite de Bar"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "巴尔的玛格丽特",
+    "fullNameCn": "卢森堡伯爵夫人巴尔的玛格丽特",
+    "nicknameCn": "",
+    "birthYear": 1220,
+    "deathYear": 1275,
+    "birthPlace": "",
+    "birthPlaceCn": "",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "female",
+    "dynasty": "Scarponnois dynasty",
+    "house": "House of Bar",
+    "culture": "Lotharingian-French",
+    "faith": "Catholic",
+    "primaryTitle": "Countess consort of Luxembourg",
+    "primaryTitleCn": "卢森堡伯爵夫人",
+    "titles": [
+      {
+        "title": "Lady of Ligny-en-Barrois",
+        "titleCn": "利尼昂巴鲁瓦女领主",
+        "startYear": 1240,
+        "endYear": 1275
+      },
+      {
+        "title": "Countess consort of Luxembourg",
+        "titleCn": "卢森堡伯爵夫人",
+        "startYear": 1247,
+        "endYear": 1275
+      }
+    ],
+    "tags": [
+      "count",
+      "noble"
+    ],
+    "rank": "count",
+    "importanceScore": 47,
+    "historicalRating": 4,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "ea407d24-5168-4822-8223-7084318eaa3a"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "4c98a079-295a-4554-b6c6-96c8e947cd11",
+        "b3ca17c5-7d25-4af3-ba7e-cf52dba0ebc7"
+      ]
+    },
+    "events": [
+      {
+        "year": 1240,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 90,
+        "label": "Married Henry V of Luxembourg with Ligny as her marriage portion",
+        "labelCn": "与卢森堡的亨利五世结婚，并以利尼作为婚姻财产",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Margaret_of_Bar",
+        "note": "Margaret's marriage to Henry V connected the houses of Bar and Luxembourg. Ligny-en-Barrois accompanied the marriage but remained embedded in the feudal relationship with the County of Bar."
+      },
+      {
+        "year": 1268,
+        "type": "treaty",
+        "tags": [
+          "treaty",
+          "territory"
+        ],
+        "weight": 75,
+        "label": "The dispute over Ligny was settled under French arbitration",
+        "labelCn": "利尼归属争端在法国王室仲裁下解决",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Margaret_of_Bar",
+        "note": "Louis IX's arbitration restored Ligny to Margaret and Henry while affirming the superior feudal rights of the Count of Bar, resolving a dispute that had led to Henry's capture in 1266."
+      },
+      {
+        "year": 1275,
+        "type": "death",
+        "tags": [
+          "death",
+          "noble"
+        ],
+        "weight": 55,
+        "label": "Died before her husband Henry V",
+        "labelCn": "先于丈夫亨利五世去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Margaret_of_Bar",
+        "note": "Margaret died in 1275, several years before Henry V. Their descendants continued both the main Luxembourg line and the cadet Ligny line."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Margaret_of_Bar",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Margaret_of_Bar",
+    "sourceNote": "John A. Gades, Luxemburg in the Middle Ages; Anne McGee Morganstern, Gothic Tombs of Kinship in France, the Low Countries, and England; genealogical and charter-based studies of the Bar-Luxembourg relationship; Wikipedia used as a supplementary person index.",
+    "notes": "Margaret's principal dynastic importance lies in her marriage to Henry V and the transfer of Ligny-en-Barrois into the Luxembourg family's sphere. The feudal status of Ligny later produced a serious dispute between Luxembourg and Bar.\n\nConfidence / caveats: Her exact birth date, death date and death place are not securely established in the stronger sources used here. The wider dynasty of the counts of Bar is variously labelled Scarponnois or Montbéliard in modern genealogical schemes; this card uses Scarponnois for the dynasty and House of Bar for the immediate house. Child totals vary in older genealogies.\n\nUnlinked family: Henry II, Count of Bar (not uniquely matched in the roster); Philippa of Dreux (not uniquely matched in the roster); Isabella of Luxembourg (not uniquely matched in the roster); Philippa of Luxembourg (not uniquely matched in the roster); Margaret of Luxembourg (not uniquely matched in the roster); Felicitas of Luxembourg (not uniquely matched in the roster); Jeanne of Luxembourg (not uniquely matched in the roster).",
+    "createdDate": "20260823"
+  }
+]

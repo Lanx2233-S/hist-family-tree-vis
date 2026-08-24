@@ -1,0 +1,251 @@
+[
+  {
+    "id": "f2b4363d-7dec-422c-8623-a71ce3aaef05",
+    "firstName": "Michael",
+    "lastName": "IV the Paphlagonian",
+    "displayName": "Michael IV the Paphlagonian",
+    "fullName": "Michael IV the Paphlagonian, Byzantine Emperor",
+    "nickname": "the Paphlagonian",
+    "nicknameCn": "",
+    "alsoKnownAs": [
+      "Michael IV",
+      "Michael the Paphlagonian",
+      "Μιχαὴλ Δʹ ὁ Παφλαγών"
+    ],
+    "nicknameTags": [
+      "the Paphlagonian"
+    ],
+    "displayNameCn": "米海尔四世“帕夫拉戈尼亚人”",
+    "fullNameCn": "拜占庭皇帝米海尔四世“帕夫拉戈尼亚人”",
+    "birthYear": 1010,
+    "deathYear": 1041,
+    "birthPlace": "Paphlagonia, Byzantine Empire",
+    "birthPlaceCn": "拜占庭帝国帕夫拉戈尼亚",
+    "deathPlace": "Constantinople, Byzantine Empire",
+    "deathPlaceCn": "拜占庭帝国君士坦丁堡",
+    "deathCause": {
+      "kind": "normal",
+      "summary": "died of chronic illness",
+      "summaryCn": "长期疾病去世",
+      "detail": "died of chronic illness",
+      "detailCn": "长期疾病去世",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Michael_IV_the_Paphlagonian"
+    },
+    "gender": "male",
+    "dynasty": "Paphlagonian",
+    "house": "Paphlagonian family",
+    "culture": "Byzantine",
+    "faith": "Chalcedonian Christianity",
+    "primaryTitle": "Byzantine Emperor",
+    "primaryTitleCn": "拜占庭皇帝",
+    "titles": [
+      {
+        "title": "Byzantine Emperor",
+        "titleCn": "拜占庭皇帝",
+        "startYear": 1034,
+        "endYear": 1041
+      }
+    ],
+    "tags": [
+      "monarch",
+      "emperor"
+    ],
+    "rank": "emperor",
+    "importanceScore": 72,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "4554ad22-b277-438b-a5ce-9d54c2547cb1"
+      ],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1034,
+        "month": 4,
+        "day": 11,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 100,
+        "label": "Married Zoe immediately after Romanos III's death",
+        "labelCn": "罗曼努斯三世死后立即迎娶佐伊",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Michael_IV_the_Paphlagonian",
+        "note": "Michael, already closely associated with Zoe, married the Macedonian empress on the day of Romanos III's death, giving him access to the throne."
+      },
+      {
+        "year": 1034,
+        "month": 4,
+        "day": 12,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "king"
+        ],
+        "weight": 100,
+        "label": "Was crowned Byzantine emperor",
+        "labelCn": "加冕为拜占庭皇帝",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Michael_IV_the_Paphlagonian",
+        "note": "Michael was crowned the day after his marriage, while his brother John the Orphanotrophos soon dominated much of the administration."
+      },
+      {
+        "year": 1038,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "conquest"
+        ],
+        "weight": 80,
+        "label": "Launched the major Byzantine expedition to Sicily",
+        "labelCn": "发动大规模西西里远征",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Michael_IV_the_Paphlagonian",
+        "note": "George Maniakes led imperial forces that recovered several eastern Sicilian strongholds before command disputes caused the campaign to unravel."
+      },
+      {
+        "year": 1040,
+        "type": "rebellion",
+        "tags": [
+          "rebellion",
+          "political_crisis"
+        ],
+        "weight": 90,
+        "label": "Faced the uprising of Peter Delyan in Bulgaria",
+        "labelCn": "面对彼得·德尔扬领导的保加利亚起义",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Michael_IV_the_Paphlagonian",
+        "note": "A major rebellion spread across former Bulgarian lands and threatened Byzantine control in the Balkans."
+      },
+      {
+        "year": 1041,
+        "month": 12,
+        "day": 10,
+        "type": "death",
+        "tags": [
+          "death",
+          "king"
+        ],
+        "weight": 80,
+        "label": "Died after prolonged illness",
+        "labelCn": "长期患病后去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Michael_IV_the_Paphlagonian",
+        "note": "Michael retired to the monastery of the Holy Anargyroi shortly before his death; chronic illness had marked much of his reign."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Michael_IV_the_Paphlagonian",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Michael_IV_the_Paphlagonian",
+    "sourceNote": "Michael Psellos, Chronographia; John Skylitzes, A Synopsis of Byzantine History (Cambridge); Oxford Dictionary of Byzantium; Lynda Garland on Zoe Porphyrogenita; Warren Treadgold, A History of the Byzantine State and Society; Wikipedia supplementary chronology.",
+    "notes": "Michael IV became emperor solely through marriage to Zoe and relied heavily on his brother John the Orphanotrophos for government. His reign combined fiscal pressure and internal revolt with important, though temporary, military successes.",
+    "createdDate": "20260824",
+    "createdOrder": 71
+  },
+  {
+    "id": "572da624-3a53-4ad4-b50f-6fb7d3158e06",
+    "firstName": "Michael",
+    "lastName": "V Kalaphates",
+    "displayName": "Michael V Kalaphates",
+    "fullName": "Michael V Kalaphates, Byzantine Emperor",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [
+      "Michael V",
+      "Michael the Caulker",
+      "Michael Kalaphates",
+      "Μιχαὴλ Εʹ Καλαφάτης"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "米海尔五世·卡拉法提斯",
+    "fullNameCn": "拜占庭皇帝米海尔五世·卡拉法提斯",
+    "birthYear": 1015,
+    "deathYear": 1042,
+    "birthPlace": "Paphlagonia, Byzantine Empire",
+    "birthPlaceCn": "拜占庭帝国帕夫拉戈尼亚",
+    "deathPlace": "Constantinople, Byzantine Empire",
+    "deathPlaceCn": "拜占庭帝国君士坦丁堡",
+    "gender": "male",
+    "dynasty": "Paphlagonian",
+    "house": "Paphlagonian family",
+    "culture": "Byzantine",
+    "faith": "Chalcedonian Christianity",
+    "primaryTitle": "Byzantine Emperor",
+    "primaryTitleCn": "拜占庭皇帝",
+    "titles": [
+      {
+        "title": "Byzantine Emperor",
+        "titleCn": "拜占庭皇帝",
+        "startYear": 1041,
+        "endYear": 1042
+      }
+    ],
+    "tags": [
+      "monarch",
+      "emperor"
+    ],
+    "rank": "emperor",
+    "importanceScore": 61,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1041,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "dynasty"
+        ],
+        "weight": 90,
+        "label": "Was adopted by Zoe and designated heir",
+        "labelCn": "被佐伊收养并确定为继承人",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Michael_V_Kalaphates",
+        "note": "Michael IV's nephew became Zoe's adoptive son, giving his succession a formal connection to the Macedonian empress."
+      },
+      {
+        "year": 1041,
+        "month": 12,
+        "day": 13,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 100,
+        "label": "Succeeded Michael IV as emperor",
+        "labelCn": "继承米海尔四世成为皇帝",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Michael_V_Kalaphates",
+        "note": "Michael V took the throne after his uncle's death while Zoe remained Augusta."
+      },
+      {
+        "year": 1042,
+        "month": 8,
+        "day": 24,
+        "type": "death",
+        "tags": [
+          "death",
+          "uncertain"
+        ],
+        "weight": 65,
+        "label": "Died after his deposition and blinding",
+        "labelCn": "被废黜并致盲后去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Michael_V_Kalaphates",
+        "note": "Michael died later in 1042 in monastic confinement after the violent end of his short reign."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Michael_V_Kalaphates",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Michael_V_Kalaphates",
+    "sourceNote": "John Skylitzes, A Synopsis of Byzantine History, ch. 'Michael V Kalaphates [1041–1042]' (Cambridge); Michael Psellos, Chronographia; Oxford Dictionary of Byzantium; Lynda Garland on Zoe Porphyrogenita; Wikipedia supplementary chronology.",
+    "notes": "Michael V was Michael IV's nephew and Zoe's adoptive son rather than a blood member of the Macedonian dynasty. His attempt to exile Zoe destroyed his legitimacy and produced the popular revolution that brought Zoe and Theodora to joint rule.\n\nUnlinked family: father: Stephen the Caulker; mother: Maria of Paphlagonia",
+    "createdDate": "20260824",
+    "createdOrder": 72
+  }
+]

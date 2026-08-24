@@ -89,7 +89,38 @@ export function FamilyTree({
       .map((person) => ({ person })),
   ).map(({ person }) => person.id);
   const visibleCenterChildren = visibleCenterChildIds.length;
-  const neededChildWidth = Math.max(0, (visibleCenterChildren - 1) * siblingGap + card.width + horizontalPadding * 2);
+  function visibleDescendantsOf(parent: Person, depth: number) {
+    const isManuallyCollapsed = collapsedDescendants[parent.id];
+    const canShowChildren = !isManuallyCollapsed && (depth <= radius || expandedDescendants[parent.id]);
+    if (!canShowChildren) return [];
+    const ids = parent.id === center.id ? visibleCenterChildIds : parent.relationships.childIds;
+    return sortPeopleByBirth(
+      ids
+        .map((id) => byId.get(id))
+        .filter((person): person is Person => Boolean(person))
+        .filter((person) => !hiddenChildren[person.id])
+        .map((person) => ({ person, parentId: parent.id })),
+    );
+  }
+
+  // Give every visible branch a width based on its terminal descendants.  The
+  // former row-by-row layout evenly distributed an entire generation, which
+  // made grandchildren of different sons look like a single sibling group.
+  // A subtree layout keeps each parent's descendants in one contiguous span.
+  const descendantLeafCounts = new Map<string, number>();
+  function descendantLeafCount(person: Person, depth: number): number {
+    const key = `${person.id}:${depth}`;
+    const cached = descendantLeafCounts.get(key);
+    if (cached !== undefined) return cached;
+    const childrenAtDepth = visibleDescendantsOf(person, depth);
+    const count = childrenAtDepth.length === 0 || depth >= 8
+      ? 1
+      : childrenAtDepth.reduce((total, child) => total + descendantLeafCount(child.person, depth + 1), 0);
+    descendantLeafCounts.set(key, count);
+    return count;
+  }
+  const descendantLeafWidth = visibleCenterChildren > 0 ? descendantLeafCount(center, 1) : 1;
+  const neededChildWidth = Math.max(0, (descendantLeafWidth - 1) * siblingGap + card.width + horizontalPadding * 2);
   const expandedSpouseAncestorDepth = Object.values(expandedSpouseAncestors)
     .reduce((total, depth) => total + depth, 0);
   const maxSpouseAncestorDepth = Object.values(expandedSpouseAncestors)
@@ -121,29 +152,24 @@ export function FamilyTree({
   const topAncestor = ancestorNodes[ancestorNodes.length - 1];
   const topAncestorParent = topAncestor ? ancestorFor(topAncestor.person) : undefined;
   const descendantRows: Array<Array<{ person: Person; x: number; y: number; parentId: string }>> = [];
-  let previousGeneration = [{ person: center, x: centerPoint.x }];
-  for (let depth = 1; depth <= 8; depth += 1) {
-    const rowPeople = previousGeneration.flatMap((parent) => {
-      const isManuallyCollapsed = collapsedDescendants[parent.person.id];
-      const canShowChildren = !isManuallyCollapsed && (depth <= radius || expandedDescendants[parent.person.id]);
-      if (!canShowChildren) return [];
-      return sortPeopleByBirth((parent.person.id === center.id ? visibleCenterChildIds : parent.person.relationships.childIds)
-        .map((id) => byId.get(id))
-        .filter((person): person is Person => Boolean(person))
-        .filter((person) => !hiddenChildren[person.id])
-        .map((person) => ({ person, parentId: parent.person.id })));
-    });
-    if (rowPeople.length === 0) break;
-    const spacing = Math.max(card.width + 44, siblingGap - depth * 18);
-    const y = centerPoint.y + depth * generationGap;
-    const row = rowPeople.map((item, index) => ({
-      ...item,
-      x: centerPoint.x - ((rowPeople.length - 1) * spacing) / 2 + index * spacing,
-      y,
-    }));
-    descendantRows.push(row);
-    previousGeneration = row.map(({ person, x }) => ({ person, x }));
+  const leafStartX = centerPoint.x - ((descendantLeafWidth - 1) * siblingGap) / 2;
+  function positionDescendants(parent: Person, depth: number, firstLeaf: number) {
+    if (depth > 8) return;
+    const childrenAtDepth = visibleDescendantsOf(parent, depth);
+    if (childrenAtDepth.length === 0) return;
+    const row = descendantRows[depth - 1] ?? [];
+    let cursor = firstLeaf;
+    for (const child of childrenAtDepth) {
+      const childLeaves = descendantLeafCount(child.person, depth + 1);
+      const x = leafStartX + (cursor + (childLeaves - 1) / 2) * siblingGap;
+      const node = { ...child, x, y: centerPoint.y + depth * generationGap };
+      row.push(node);
+      descendantRows[depth - 1] = row;
+      positionDescendants(child.person, depth + 1, cursor);
+      cursor += childLeaves;
+    }
   }
+  positionDescendants(center, 1, 0);
   const nodePosition = new Map<string, { x: number; y: number }>([[center.id, centerPoint]]);
   ancestorNodes.forEach((node) => nodePosition.set(node.person.id, { x: node.x, y: node.y }));
   descendantRows.flat().forEach((node) => nodePosition.set(node.person.id, { x: node.x, y: node.y }));

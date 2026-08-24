@@ -1,0 +1,174 @@
+[
+  {
+    "id": "e598440b-92fd-43a6-9c17-3308a9373c78",
+    "firstName": "Romanos",
+    "lastName": "I Lekapenos",
+    "displayName": "Romanos I Lekapenos",
+    "fullName": "Romanos I Lekapenos, Byzantine Emperor",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [
+      "Romanos I Lekapenos",
+      "Romanus I Lecapenus",
+      "Romanos Lakapenos",
+      "Ῥωμανὸς Αʹ Λακαπηνός"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "罗曼努斯一世·莱卡佩诺斯",
+    "fullNameCn": "拜占庭皇帝罗曼努斯一世·莱卡佩诺斯",
+    "birthYear": 870,
+    "deathYear": 948,
+    "birthPlace": "Lakape, Byzantine Empire",
+    "birthPlaceCn": "拜占庭帝国拉卡佩",
+    "deathPlace": "Princes' Islands, Byzantine Empire",
+    "deathPlaceCn": "拜占庭帝国王子群岛",
+    "gender": "male",
+    "dynasty": "Lekapenos",
+    "house": "House of Lekapenos",
+    "culture": "Byzantine",
+    "faith": "Chalcedonian Christianity",
+    "primaryTitle": "Senior Byzantine Emperor",
+    "primaryTitleCn": "拜占庭高级共治皇帝",
+    "titles": [
+      {
+        "title": "Basileopator",
+        "titleCn": "皇父",
+        "startYear": 919,
+        "endYear": 920
+      },
+      {
+        "title": "Caesar",
+        "titleCn": "凯撒",
+        "startYear": 920,
+        "endYear": 920
+      },
+      {
+        "title": "Senior Byzantine Emperor",
+        "titleCn": "拜占庭高级共治皇帝",
+        "startYear": 920,
+        "endYear": 944
+      }
+    ],
+    "tags": [
+      "monarch",
+      "emperor",
+      "commander"
+    ],
+    "rank": "emperor",
+    "importanceScore": 83,
+    "historicalRating": 7,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 919,
+        "month": 3,
+        "day": 25,
+        "type": "government",
+        "tags": [
+          "government",
+          "politics"
+        ],
+        "weight": 90,
+        "label": "Seized control of the palace government",
+        "labelCn": "控制皇宫并掌握政府实权",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Romanos_I_Lekapenos",
+        "note": "As commander of the fleet, Romanos entered the Boukoleon Palace and displaced the existing regency around the young Constantine VII."
+      },
+      {
+        "year": 919,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 95,
+        "label": "Married his daughter Helena to Constantine VII",
+        "labelCn": "将女儿海伦娜嫁给君士坦丁七世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Romanos_I_Lekapenos",
+        "note": "The marriage turned Romanos into the young emperor's father-in-law and gave his seizure of government a dynastic framework."
+      },
+      {
+        "year": 920,
+        "month": 12,
+        "day": 17,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "king"
+        ],
+        "weight": 100,
+        "label": "Was crowned emperor and became senior ruler",
+        "labelCn": "加冕为皇帝并成为主要统治者",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Romanos_I_Lekapenos",
+        "note": "Romanos was first elevated to Caesar and then crowned emperor, eventually taking precedence over Constantine VII."
+      },
+      {
+        "year": 927,
+        "type": "treaty",
+        "tags": [
+          "treaty",
+          "dynastic_alliance"
+        ],
+        "weight": 90,
+        "label": "Concluded the long peace with Bulgaria",
+        "labelCn": "与保加利亚缔结长期和平",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Romanos_I_Lekapenos",
+        "note": "Peace with Peter I of Bulgaria ended the destructive wars of Simeon I's era and was sealed by the marriage of Romanos's granddaughter Maria-Irene Lekapene to Peter."
+      },
+      {
+        "year": 934,
+        "type": "conquest",
+        "tags": [
+          "conquest",
+          "territory"
+        ],
+        "weight": 85,
+        "label": "Captured Melitene under John Kourkouas",
+        "labelCn": "在约翰·库尔库阿斯统帅下攻占梅利特内",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Romanos_I_Lekapenos",
+        "note": "The fall of Melitene was a major breakthrough in the eastern reconquest led by Romanos's general John Kourkouas."
+      },
+      {
+        "year": 941,
+        "type": "defense",
+        "tags": [
+          "defense",
+          "campaign"
+        ],
+        "weight": 80,
+        "label": "Repelled the Rus' attack on Constantinople",
+        "labelCn": "击退罗斯对君士坦丁堡的进攻",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Romanos_I_Lekapenos",
+        "note": "A Rus' fleet attacking the Bosporus was defeated with Greek fire and by returning Byzantine forces."
+      },
+      {
+        "year": 948,
+        "month": 6,
+        "day": 15,
+        "type": "death",
+        "tags": [
+          "death",
+          "noble"
+        ],
+        "weight": 60,
+        "label": "Died in monastic exile",
+        "labelCn": "在修道院流放中去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Romanos_I_Lekapenos",
+        "note": "Romanos died as a monk and was buried at the Myrelaion, the dynastic foundation associated with his family."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Romanos_I_Lekapenos",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Romanos_I_Lekapenos",
+    "sourceNote": "John Skylitzes, A Synopsis of Byzantine History, ch. 'Romanos I Lekapenos [919–944]' (Cambridge); Steven Runciman, The Emperor Romanus Lecapenus and His Reign; Oxford Dictionary of Byzantium; Prosopographie der mittelbyzantinischen Zeit; Wikipedia supplementary chronology.",
+    "notes": "Romanos was Constantine VII's father-in-law and dominant senior co-emperor rather than the legitimate founder of a replacement hereditary line. He preserved Constantine's formal status while raising his own sons, then was overthrown by those sons in 944.\n\nUnlinked family: father: Theophylaktos Abastaktos; spouse: Theodora; child: Christopher Lekapenos; child: Stephen Lekapenos; child: Constantine Lekapenos; child: Helena Lekapene; child: Agatha Lekapene; child: Theophylact of Constantinople",
+    "createdDate": "20260824",
+    "createdOrder": 64
+  }
+]

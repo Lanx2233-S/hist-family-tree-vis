@@ -1,0 +1,802 @@
+[
+  {
+    "id": "0e0a138a-2cb2-4080-be59-715e17e67c58",
+    "firstName": "Henry",
+    "lastName": "II of Castile",
+    "displayName": "Henry II of Castile",
+    "fullName": "Henry II, King of Castile and León",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [
+      "Henry of Trastámara",
+      "Henry II of Trastámara",
+      "Enrique II de Trastámara",
+      "Henry of the Fratricide",
+      "Enrique de las Mercedes"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "卡斯蒂利亚的亨利二世",
+    "fullNameCn": "卡斯蒂利亚与莱昂国王亨利二世",
+    "birthYear": 1334,
+    "deathYear": 1379,
+    "birthPlace": "Seville, Crown of Castile",
+    "birthPlaceCn": "卡斯蒂利亚王冠塞维利亚",
+    "deathPlace": "Santo Domingo de la Calzada, Crown of Castile",
+    "deathPlaceCn": "卡斯蒂利亚王冠圣多明各-德拉卡尔萨达",
+    "gender": "male",
+    "dynasty": "Trastámara",
+    "house": "House of Trastámara",
+    "culture": "Castilian-Leonese",
+    "faith": "Catholic",
+    "primaryTitle": "King of Castile and León",
+    "primaryTitleCn": "卡斯蒂利亚与莱昂国王",
+    "titles": [
+      {
+        "title": "Count of Trastámara",
+        "titleCn": "特拉斯塔马拉伯爵",
+        "startYear": 1345,
+        "endYear": 1366
+      },
+      {
+        "title": "King of Castile, León and Galicia",
+        "titleCn": "卡斯蒂利亚、莱昂与加利西亚国王",
+        "startYear": 1366,
+        "endYear": 1367
+      },
+      {
+        "title": "King of Castile, León and Galicia",
+        "titleCn": "卡斯蒂利亚、莱昂与加利西亚国王",
+        "startYear": 1369,
+        "endYear": 1379
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 91,
+    "historicalRating": 8,
+    "relationships": {
+      "fatherId": "1623e0c3-ccd6-49bd-9e4c-f1f5cdb2c741",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "7b26a586-3a89-430b-9153-a351fcba275e"
+      ]
+    },
+    "events": [
+      {
+        "year": 1350,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 80,
+        "label": "Married Juana Manuel",
+        "labelCn": "与胡安娜·曼努埃尔结婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_II_of_Castile",
+        "note": "Juana Manuel was heiress to a powerful cadet branch of the Castilian royal house and later transmitted major lordships to their descendants. The marriage helped root Henry's new line in older royal legitimacy."
+      },
+      {
+        "year": 1356,
+        "type": "politics",
+        "tags": [
+          "politics",
+          "rebellion"
+        ],
+        "weight": 75,
+        "label": "Went into exile amid conflict with Peter I",
+        "labelCn": "在与佩德罗一世的冲突中流亡",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_II_of_Castile",
+        "note": "After repeated clashes with his half-brother Peter, Henry sought support beyond Castile, especially in Aragon and France, turning a family conflict into an international dynastic struggle."
+      },
+      {
+        "year": 1366,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "conquest"
+        ],
+        "weight": 100,
+        "label": "Invaded Castile with French-backed forces and was proclaimed king",
+        "labelCn": "率法兰西支持的军队入侵卡斯蒂利亚并被拥立为王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_II_of_Castile",
+        "note": "Henry crossed into Castile with companies led by figures including Bertrand du Guesclin. Peter fled, and Henry was recognized as king at Burgos."
+      },
+      {
+        "year": 1367,
+        "month": 4,
+        "day": 3,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "defeat"
+        ],
+        "weight": 100,
+        "label": "Was defeated at Nájera and lost the crown temporarily",
+        "labelCn": "在纳赫拉战败并暂时失去王位",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_II_of_Castile",
+        "note": "Edward the Black Prince's army defeated Henry on 3 April 1367, restoring Peter I. Henry escaped and rebuilt his coalition."
+      },
+      {
+        "year": 1369,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "conquest"
+        ],
+        "weight": 100,
+        "label": "Defeated Peter I at Montiel and recovered the throne",
+        "labelCn": "在蒙铁尔击败佩德罗一世并重新取得王位",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_II_of_Castile",
+        "note": "Henry's Franco-Castilian army defeated Peter and trapped him at Montiel, ending Peter's military ability to recover the kingdom."
+      },
+      {
+        "year": 1369,
+        "month": 3,
+        "day": 23,
+        "type": "death",
+        "tags": [
+          "death",
+          "violent"
+        ],
+        "weight": 100,
+        "label": "Killed Peter I and secured the Trastámara dynasty",
+        "labelCn": "杀死佩德罗一世并确立特拉斯塔马拉王朝",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_II_of_Castile",
+        "note": "Henry killed his half-brother Peter in the Montiel confrontation on 23 March 1369. The regicide marked the decisive dynastic transition from the main Ivrea line to Trastámara."
+      },
+      {
+        "year": 1372,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "alliance"
+        ],
+        "weight": 85,
+        "label": "Castilian naval power helped France win at La Rochelle",
+        "labelCn": "卡斯蒂利亚海军协助法国在拉罗谢尔取得胜利",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_II_of_Castile",
+        "note": "A Castilian fleet defeated an English convoy at La Rochelle, strengthening the Franco-Castilian alliance and helping secure Henry against English support for Peter's daughters."
+      },
+      {
+        "year": 1373,
+        "type": "treaty",
+        "tags": [
+          "treaty",
+          "diplomacy"
+        ],
+        "weight": 75,
+        "label": "Reached a peace settlement with Portugal",
+        "labelCn": "与葡萄牙达成和平安排",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_II_of_Castile",
+        "note": "The Treaty of Santarém ended a major phase of war with Ferdinand I of Portugal and helped consolidate Henry's internationally disputed kingship."
+      },
+      {
+        "year": 1379,
+        "type": "death",
+        "tags": [
+          "death",
+          "king"
+        ],
+        "weight": 75,
+        "label": "Died after consolidating the new dynasty",
+        "labelCn": "在巩固新王朝后去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_II_of_Castile",
+        "note": "Henry died at Santo Domingo de la Calzada in late May 1379 and was succeeded by his legitimate son John I."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Henry_II_of_Castile",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Henry_II_of_Castile",
+    "sourceNote": "Pedro López de Ayala, Crónica de Enrique II; J. N. Hillgarth, The Spanish Kingdoms, 1250–1516; Teofilo F. Ruiz, Spain's Centuries of Crisis, 1300–1474; Simon R. Doubleday, The Lara Family: Crown and Nobility in Medieval Spain; Wikipedia used for chronology cross-checks.",
+    "notes": "Henry II founded the ruling House of Trastámara by defeating and killing his legitimate half-brother Peter I. Because his throne depended heavily on noble, French and mercenary support, his reign also redistributed extensive royal resources to supporters, giving rise to the traditional epithet associated with his 'mercedes' or grants.\n\nUnlinked family: mother: Leonor de Guzmán; spouse: Juana Manuel; child: Eleanor of Castile, Queen of Navarre",
+    "createdDate": "20260824",
+    "createdOrder": 658
+  },
+  {
+    "id": "7b26a586-3a89-430b-9153-a351fcba275e",
+    "firstName": "John",
+    "lastName": "I of Castile",
+    "displayName": "John I of Castile",
+    "fullName": "John I, King of Castile and León",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [
+      "Juan I of Castile",
+      "Juan I de Castilla"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "卡斯蒂利亚的胡安一世",
+    "fullNameCn": "卡斯蒂利亚与莱昂国王胡安一世",
+    "birthYear": 1358,
+    "deathYear": 1390,
+    "birthPlace": "Épila, Crown of Aragon",
+    "birthPlaceCn": "阿拉贡王冠埃皮拉",
+    "deathPlace": "Alcalá de Henares, Crown of Castile",
+    "deathPlaceCn": "卡斯蒂利亚王冠埃纳雷斯堡",
+    "deathCause": {
+      "kind": "violent_uncertain",
+      "summary": "fatal injuries after falling from a horse",
+      "summaryCn": "坠马后因伤去世",
+      "detail": "fatal injuries after falling from a horse",
+      "detailCn": "坠马后因伤去世",
+      "wikiUrl": "https://en.wikipedia.org/wiki/John_I_of_Castile"
+    },
+    "gender": "male",
+    "dynasty": "Trastámara",
+    "house": "House of Trastámara",
+    "culture": "Castilian-Leonese",
+    "faith": "Catholic",
+    "primaryTitle": "King of Castile and León",
+    "primaryTitleCn": "卡斯蒂利亚与莱昂国王",
+    "titles": [
+      {
+        "title": "King of Castile, León and Galicia",
+        "titleCn": "卡斯蒂利亚、莱昂与加利西亚国王",
+        "startYear": 1379,
+        "endYear": 1390
+      },
+      {
+        "title": "Claimant King of Portugal",
+        "titleCn": "葡萄牙王位宣称者",
+        "startYear": 1383,
+        "endYear": 1385
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 79,
+    "historicalRating": 7,
+    "relationships": {
+      "fatherId": "0e0a138a-2cb2-4080-be59-715e17e67c58",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "f14f893c-51a6-4b96-84bd-3944e372e63c"
+      ]
+    },
+    "events": [
+      {
+        "year": 1379,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 100,
+        "label": "Succeeded Henry II as King of Castile and León",
+        "labelCn": "继承亨利二世成为卡斯蒂利亚与莱昂国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/John_I_of_Castile",
+        "note": "John inherited the newly established Trastámara monarchy and the continuing conflict with supporters of Peter I's descendants."
+      },
+      {
+        "year": 1383,
+        "month": 5,
+        "day": 17,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 90,
+        "label": "Married Beatrice of Portugal",
+        "labelCn": "与葡萄牙的贝阿特丽丝结婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/John_I_of_Castile",
+        "note": "The marriage settlement made Beatrice the Portuguese heiress and gave John a potential royal title through her while formally attempting to preserve Portugal's separate institutions."
+      },
+      {
+        "year": 1383,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "political_crisis"
+        ],
+        "weight": 95,
+        "label": "Claimed the Portuguese crown after Ferdinand I's death",
+        "labelCn": "葡萄牙斐迪南一世去世后宣称葡萄牙王位",
+        "wikiUrl": "https://en.wikipedia.org/wiki/John_I_of_Castile",
+        "note": "John attempted to enforce Beatrice's succession, provoking the Portuguese crisis of 1383–1385 and opposition centered on John, Master of Aviz."
+      },
+      {
+        "year": 1385,
+        "month": 8,
+        "day": 14,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "defeat"
+        ],
+        "weight": 100,
+        "label": "Was decisively defeated at Aljubarrota",
+        "labelCn": "在阿尔茹巴罗塔战役遭决定性失败",
+        "wikiUrl": "https://en.wikipedia.org/wiki/John_I_of_Castile",
+        "note": "On 14 August 1385 the Portuguese army under John I of Portugal and Nuno Álvares Pereira defeated the larger Castilian force, ensuring the survival of an independent Portuguese monarchy."
+      },
+      {
+        "year": 1386,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "defense"
+        ],
+        "weight": 85,
+        "label": "Faced John of Gaunt's invasion in support of a rival Castilian claim",
+        "labelCn": "面对冈特的约翰为竞争性王位宣称发动的入侵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/John_I_of_Castile",
+        "note": "John of Gaunt landed in Galicia claiming Castile through his wife Constance, daughter of Peter I. The invasion tied the old dynastic dispute to Anglo-Portuguese strategy."
+      },
+      {
+        "year": 1388,
+        "type": "treaty",
+        "tags": [
+          "treaty",
+          "dynastic_alliance"
+        ],
+        "weight": 95,
+        "label": "Settled the Lancastrian claim through the Treaty of Bayonne",
+        "labelCn": "通过《巴约讷条约》解决兰开斯特王位宣称",
+        "wikiUrl": "https://en.wikipedia.org/wiki/John_I_of_Castile",
+        "note": "John of Gaunt and Constance renounced their Castilian claim in return for financial terms and the marriage of their daughter Catherine to John's heir Henry, reuniting the rival lines of Peter I and Henry II."
+      },
+      {
+        "year": 1390,
+        "month": 10,
+        "day": 9,
+        "type": "death",
+        "tags": [
+          "death",
+          "violent"
+        ],
+        "weight": 80,
+        "label": "Died after falling from his horse at Alcalá de Henares",
+        "labelCn": "在埃纳雷斯堡坠马后死亡",
+        "wikiUrl": "https://en.wikipedia.org/wiki/John_I_of_Castile",
+        "note": "John died on 9 October 1390 while taking part in an equestrian display. His minor son Henry III succeeded."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/John_I_of_Castile",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/John_I_of_Castile",
+    "sourceNote": "Pedro López de Ayala, Crónicas de los Reyes de Castilla; J. N. Hillgarth, The Spanish Kingdoms, 1250–1516; Angus MacKay, Spain in the Middle Ages: From Frontier to Empire, 1000–1500; The Gascon Rolls Project for the 1388 Bayonne settlement; Wikipedia used for chronology cross-checks.",
+    "notes": "John I inherited the Trastámara crown but failed to unite it with Portugal after the decisive defeat at Aljubarrota. His 1388 settlement with John of Gaunt was dynastically crucial: the marriage of Henry III and Catherine of Lancaster reunited the descendants of Henry II and Peter I.\n\nUnlinked family: mother: Juana Manuel; spouse: Eleanor of Aragon; spouse: Beatrice of Portugal; child: Ferdinand I of Aragon; child: Eleanor of Castile",
+    "createdDate": "20260824",
+    "createdOrder": 659
+  },
+  {
+    "id": "f14f893c-51a6-4b96-84bd-3944e372e63c",
+    "firstName": "Henry",
+    "lastName": "III of Castile",
+    "displayName": "Henry III of Castile",
+    "fullName": "Henry III, King of Castile and León",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [
+      "Henry the Suffering",
+      "Henry the Infirm",
+      "Enrique III el Doliente",
+      "Enrique III de Castilla"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "卡斯蒂利亚的亨利三世",
+    "fullNameCn": "卡斯蒂利亚与莱昂国王亨利三世",
+    "birthYear": 1379,
+    "deathYear": 1406,
+    "birthPlace": "Burgos, Crown of Castile",
+    "birthPlaceCn": "卡斯蒂利亚王冠布尔戈斯",
+    "deathPlace": "Toledo, Crown of Castile",
+    "deathPlaceCn": "卡斯蒂利亚王冠托莱多",
+    "gender": "male",
+    "dynasty": "Trastámara",
+    "house": "House of Trastámara",
+    "culture": "Castilian-Leonese",
+    "faith": "Catholic",
+    "primaryTitle": "King of Castile and León",
+    "primaryTitleCn": "卡斯蒂利亚与莱昂国王",
+    "titles": [
+      {
+        "title": "Prince of Asturias",
+        "titleCn": "阿斯图里亚斯亲王",
+        "startYear": 1388,
+        "endYear": 1390
+      },
+      {
+        "title": "King of Castile, León and Galicia",
+        "titleCn": "卡斯蒂利亚、莱昂与加利西亚国王",
+        "startYear": 1390,
+        "endYear": 1406
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 71,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "7b26a586-3a89-430b-9153-a351fcba275e",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "a8a46f80-458d-4ec6-8045-8f5825d12ec2"
+      ]
+    },
+    "events": [
+      {
+        "year": 1388,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 100,
+        "label": "Married Catherine of Lancaster under the Bayonne settlement",
+        "labelCn": "依据巴约讷和约与兰开斯特的凯瑟琳结婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_III_of_Castile",
+        "note": "The marriage joined the Trastámara heir to the granddaughter of Peter I. Henry and Catherine were associated with the newly established title Prince and Princess of Asturias, healing the principal Castilian dynastic schism."
+      },
+      {
+        "year": 1390,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 100,
+        "label": "Succeeded John I while still a minor",
+        "labelCn": "未成年时继承胡安一世王位",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_III_of_Castile",
+        "note": "John I's accidental death placed the eleven-year-old Henry on the throne and opened another contested regency."
+      },
+      {
+        "year": 1393,
+        "type": "government",
+        "tags": [
+          "government",
+          "monarch"
+        ],
+        "weight": 90,
+        "label": "Assumed personal rule and recovered alienated royal authority",
+        "labelCn": "开始亲政并收回被侵占的王权",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_III_of_Castile",
+        "note": "Declared of age, Henry compelled magnates to surrender crown lands and strengthened monarchy with support from towns and royal officials."
+      },
+      {
+        "year": 1402,
+        "type": "conquest",
+        "tags": [
+          "conquest",
+          "territory"
+        ],
+        "weight": 75,
+        "label": "Authorized the Castilian conquest of the Canary Islands",
+        "labelCn": "授权开展卡斯蒂利亚对加那利群岛的征服",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_III_of_Castile",
+        "note": "Henry granted Jean de Béthencourt and Gadifer de la Salle rights connected with the conquest of the Canary Islands, initiating a longer Castilian expansion in the Atlantic archipelago."
+      },
+      {
+        "year": 1406,
+        "month": 12,
+        "day": 25,
+        "type": "death",
+        "tags": [
+          "death",
+          "king"
+        ],
+        "weight": 75,
+        "label": "Died at Toledo leaving the infant John II",
+        "labelCn": "在托莱多去世，留下幼子胡安二世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_III_of_Castile",
+        "note": "Henry died on 25 December 1406 after years of poor health. His son John II, less than two years old, succeeded under a new regency."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Henry_III_of_Castile",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Henry_III_of_Castile",
+    "sourceNote": "Pedro López de Ayala and continuation chronicles of Castile; J. N. Hillgarth, The Spanish Kingdoms, 1250–1516; Angus MacKay, Spain in the Middle Ages; Encyclopaedia Britannica 1911 entry used with modern scholarship for comparison; Wikipedia used for chronology cross-checks.",
+    "notes": "Henry III's marriage to Catherine of Lancaster reconciled the dynastic claims descending from Peter I and Henry II. His personal rule strengthened royal government, but his early death created the exceptionally long minority and reign of John II.\n\nUnlinked family: mother: Eleanor of Aragon; spouse: Catherine of Lancaster; child: Maria of Castile, Queen of Aragon; child: Catherine of Castile, Duchess of Villena",
+    "createdDate": "20260824",
+    "createdOrder": 660
+  },
+  {
+    "id": "a8a46f80-458d-4ec6-8045-8f5825d12ec2",
+    "firstName": "John",
+    "lastName": "II of Castile",
+    "displayName": "John II of Castile",
+    "fullName": "John II, King of Castile and León",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [
+      "Juan II of Castile",
+      "Juan II de Castilla"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "卡斯蒂利亚的胡安二世",
+    "fullNameCn": "卡斯蒂利亚与莱昂国王胡安二世",
+    "birthYear": 1405,
+    "deathYear": 1454,
+    "birthPlace": "Toro, Crown of Castile",
+    "birthPlaceCn": "卡斯蒂利亚王冠托罗",
+    "deathPlace": "Valladolid, Crown of Castile",
+    "deathPlaceCn": "卡斯蒂利亚王冠巴利亚多利德",
+    "gender": "male",
+    "dynasty": "Trastámara",
+    "house": "House of Trastámara",
+    "culture": "Castilian-Leonese",
+    "faith": "Catholic",
+    "primaryTitle": "King of Castile and León",
+    "primaryTitleCn": "卡斯蒂利亚与莱昂国王",
+    "titles": [
+      {
+        "title": "King of Castile, León and Galicia",
+        "titleCn": "卡斯蒂利亚、莱昂与加利西亚国王",
+        "startYear": 1406,
+        "endYear": 1454
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 78,
+    "historicalRating": 7,
+    "relationships": {
+      "fatherId": "f14f893c-51a6-4b96-84bd-3944e372e63c",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "866d8d7e-976b-4d11-b1e5-c9412b5f4e05",
+        "fc645718-f108-440d-a69c-57c13421388b"
+      ]
+    },
+    "events": [
+      {
+        "year": 1406,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 100,
+        "label": "Succeeded Henry III as an infant king",
+        "labelCn": "作为幼王继承亨利三世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/John_II_of_Castile",
+        "note": "John was not yet two when his father died. Government was entrusted to his mother Catherine of Lancaster and his uncle Ferdinand of Antequera."
+      },
+      {
+        "year": 1418,
+        "type": "government",
+        "tags": [
+          "government",
+          "monarch"
+        ],
+        "weight": 90,
+        "label": "Began personal rule after the end of the regency",
+        "labelCn": "摄政结束后开始亲政",
+        "wikiUrl": "https://en.wikipedia.org/wiki/John_II_of_Castile",
+        "note": "After Catherine of Lancaster died in 1418, the young king increasingly governed in his own name, although court factions and Álvaro de Luna soon dominated much of political life."
+      },
+      {
+        "year": 1420,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 75,
+        "label": "Married Maria of Aragon",
+        "labelCn": "与阿拉贡的玛丽亚结婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/John_II_of_Castile",
+        "note": "The marriage tied John to the Aragonese Trastámara line but also placed him amid the long struggle with the Infantes of Aragon."
+      },
+      {
+        "year": 1431,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "commander"
+        ],
+        "weight": 80,
+        "label": "Won the Battle of La Higueruela against Granada",
+        "labelCn": "在拉伊格鲁埃拉战役击败格拉纳达",
+        "wikiUrl": "https://en.wikipedia.org/wiki/John_II_of_Castile",
+        "note": "Castilian forces defeated the army of Granada near the capital. The victory did not produce a lasting conquest but enhanced the prestige of the royal government."
+      },
+      {
+        "year": 1445,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "politics"
+        ],
+        "weight": 95,
+        "label": "Defeated the Infantes of Aragon at the First Battle of Olmedo",
+        "labelCn": "在第一次奥尔梅多战役击败阿拉贡诸王子",
+        "wikiUrl": "https://en.wikipedia.org/wiki/John_II_of_Castile",
+        "note": "The royal victory weakened the Aragonese faction in Castile and temporarily strengthened John II and his favourite Álvaro de Luna."
+      },
+      {
+        "year": 1453,
+        "type": "political_crisis",
+        "tags": [
+          "politics",
+          "legal"
+        ],
+        "weight": 95,
+        "label": "Ordered the execution of Álvaro de Luna",
+        "labelCn": "下令处决阿尔瓦罗·德·卢纳",
+        "wikiUrl": "https://en.wikipedia.org/wiki/John_II_of_Castile",
+        "note": "After decades as the king's principal favourite and political manager, Álvaro de Luna was arrested, tried and executed at Valladolid, marking a dramatic reversal in John II's court politics."
+      },
+      {
+        "year": 1454,
+        "month": 7,
+        "day": 20,
+        "type": "death",
+        "tags": [
+          "death",
+          "king"
+        ],
+        "weight": 75,
+        "label": "Died at Valladolid and was succeeded by Henry IV",
+        "labelCn": "在巴利亚多利德去世，由亨利四世继位",
+        "wikiUrl": "https://en.wikipedia.org/wiki/John_II_of_Castile",
+        "note": "John died on 20 July 1454 after a forty-eight-year reign. His second marriage had produced Isabella I, whose eventual accession transformed the monarchy."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/John_II_of_Castile",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/John_II_of_Castile",
+    "sourceNote": "Pedro Carrillo de Huete and the Crónica de Juan II; Teofilo F. Ruiz, Spain's Centuries of Crisis, 1300–1474; J. N. Hillgarth, The Spanish Kingdoms, 1250–1516; Angus MacKay, Spain in the Middle Ages; Wikipedia used for chronology cross-checks.",
+    "notes": "John II's exceptionally long reign was dominated by minority government, noble factions and the career of Álvaro de Luna. His first marriage continued the Castilian-Aragonese Trastámara entanglement, while his second marriage to Isabella of Portugal produced Isabella I of Castile.\n\nUnlinked family: mother: Catherine of Lancaster; spouse: Maria of Aragon; spouse: Isabella of Portugal; child: Catherine of Castile, Princess of Asturias; child: Eleanor of Castile, Princess of Asturias; child: Alfonso, Prince of Asturias",
+    "createdDate": "20260824",
+    "createdOrder": 661
+  },
+  {
+    "id": "866d8d7e-976b-4d11-b1e5-c9412b5f4e05",
+    "firstName": "Henry",
+    "lastName": "IV of Castile",
+    "displayName": "Henry IV of Castile",
+    "fullName": "Henry IV, King of Castile and León",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [
+      "Henry the Impotent",
+      "Enrique IV el Impotente",
+      "Enrique IV de Castilla"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "卡斯蒂利亚的亨利四世",
+    "fullNameCn": "卡斯蒂利亚与莱昂国王亨利四世",
+    "birthYear": 1425,
+    "deathYear": 1474,
+    "birthPlace": "Valladolid, Crown of Castile",
+    "birthPlaceCn": "卡斯蒂利亚王冠巴利亚多利德",
+    "deathPlace": "Madrid, Crown of Castile",
+    "deathPlaceCn": "卡斯蒂利亚王冠马德里",
+    "gender": "male",
+    "dynasty": "Trastámara",
+    "house": "House of Trastámara",
+    "culture": "Castilian-Leonese",
+    "faith": "Catholic",
+    "primaryTitle": "King of Castile and León",
+    "primaryTitleCn": "卡斯蒂利亚与莱昂国王",
+    "titles": [
+      {
+        "title": "Prince of Asturias",
+        "titleCn": "阿斯图里亚斯亲王",
+        "startYear": 1425,
+        "endYear": 1454
+      },
+      {
+        "title": "King of Castile, León and Galicia",
+        "titleCn": "卡斯蒂利亚、莱昂与加利西亚国王",
+        "startYear": 1454,
+        "endYear": 1474
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 73,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "a8a46f80-458d-4ec6-8045-8f5825d12ec2",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1454,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 100,
+        "label": "Succeeded John II as King of Castile and León",
+        "labelCn": "继承胡安二世成为卡斯蒂利亚与莱昂国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_IV_of_Castile",
+        "note": "Henry inherited a monarchy already marked by powerful noble factions and court competition."
+      },
+      {
+        "year": 1465,
+        "month": 6,
+        "day": 5,
+        "type": "rebellion",
+        "tags": [
+          "rebellion",
+          "political_crisis"
+        ],
+        "weight": 100,
+        "label": "Was symbolically deposed in the Farce of Ávila",
+        "labelCn": "在“阿维拉闹剧”中遭反叛贵族象征性废黜",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_IV_of_Castile",
+        "note": "A noble league removed the regalia from an effigy of Henry on 5 June 1465 and proclaimed his young half-brother Alfonso as rival king. The ceremony followed disputes over government and the succession of Henry's daughter Joanna."
+      },
+      {
+        "year": 1468,
+        "type": "treaty",
+        "tags": [
+          "treaty",
+          "succession"
+        ],
+        "weight": 95,
+        "label": "Recognized Isabella as heir in the settlement at Guisando",
+        "labelCn": "在吉桑多协议中承认伊莎贝拉为王位继承人",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_IV_of_Castile",
+        "note": "After Alfonso's death, Henry and his half-sister Isabella reached the Guisando settlement in September 1468. Isabella became Princess of Asturias and Joanna was displaced from the immediate succession."
+      },
+      {
+        "year": 1470,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "political_crisis"
+        ],
+        "weight": 90,
+        "label": "Revoked the Guisando settlement and restored Joanna's claim",
+        "labelCn": "废止吉桑多安排并恢复胡安娜的继承权",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_IV_of_Castile",
+        "note": "Henry argued that Isabella's unauthorized marriage to Ferdinand of Aragon violated the agreement and again promoted his daughter Joanna as heir, leaving the succession unresolved."
+      },
+      {
+        "year": 1474,
+        "month": 12,
+        "day": 11,
+        "type": "death",
+        "tags": [
+          "death",
+          "king"
+        ],
+        "weight": 90,
+        "label": "Died without resolving the Castilian succession",
+        "labelCn": "在卡斯蒂利亚继承问题未解决时去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_IV_of_Castile",
+        "note": "Henry died at Madrid on 11 December 1474. Isabella proclaimed herself queen, while Joanna's supporters maintained a rival claim that led to the War of the Castilian Succession."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Henry_IV_of_Castile",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Henry_IV_of_Castile",
+    "sourceNote": "William D. Phillips Jr., Enrique IV and the Crisis of Fifteenth-Century Castile; Teofilo F. Ruiz, Spain's Centuries of Crisis, 1300–1474; Nancy F. Marino, Don Juan Pacheco: Wealth and Power in Late Medieval Spain; modern studies of the Castilian succession crisis; Wikipedia used for chronology cross-checks.",
+    "notes": "Henry IV's reign culminated in a succession crisis between his daughter Joanna and his half-sister Isabella. The political collapse of consensus around his household and Joanna's legitimacy created the immediate conditions for Isabella I's accession and the war with Portugal.\n\nUnlinked family: mother: Maria of Aragon; spouse: Blanche II of Navarre; spouse: Joan of Portugal; child: Joanna of Castile, called la Beltraneja",
+    "createdDate": "20260824",
+    "createdOrder": 662
+  }
+]

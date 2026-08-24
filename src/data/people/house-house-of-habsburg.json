@@ -46,7 +46,8 @@
       "spouseIds": [],
       "partnerIds": [],
       "childIds": [
-        "6ca48b05-8d0d-4206-8812-31e49f7b5d35"
+        "6ca48b05-8d0d-4206-8812-31e49f7b5d35",
+        "73b42b1a-c2dd-4d64-bdb2-1c0d63528f00"
       ]
     },
     "events": [
@@ -167,7 +168,11 @@
       "motherId": "",
       "spouseIds": [],
       "partnerIds": [],
-      "childIds": []
+      "childIds": [
+        "7f2f30fb-2735-4e96-a1b6-f9ec8703e9ff",
+        "b56f6ca0-e20c-4c6a-a118-1c730bca3cf4",
+        "c0e5a6fc-5c06-408b-bc49-4ab9e592ca4b"
+      ]
     },
     "events": [
       {
@@ -255,11 +260,13 @@
     "importanceScore": 60,
     "historicalRating": 6,
     "relationships": {
-      "fatherId": "",
+      "fatherId": "6778e952-ab13-4294-9562-38559a6223e2",
       "motherId": "",
       "spouseIds": [],
       "partnerIds": [],
-      "childIds": []
+      "childIds": [
+        "5541d187-7dfd-439c-b664-44ad103e413a"
+      ]
     },
     "events": [
       {
@@ -355,7 +362,7 @@
     "importanceScore": 76,
     "historicalRating": 7,
     "relationships": {
-      "fatherId": "",
+      "fatherId": "f3e3018e-8778-4d52-948f-b5c002800b36",
       "motherId": "",
       "spouseIds": [],
       "partnerIds": [],
@@ -673,7 +680,9 @@
     "relationships": {
       "fatherId": "db91c543-8aa9-43fa-b19b-b09be69989ed",
       "motherId": "",
-      "spouseIds": [],
+      "spouseIds": [
+        "320bf6a4-36a1-4ead-9c62-aa749b46d9b2"
+      ],
       "partnerIds": [],
       "childIds": [
         "adb801cd-8a69-4de3-92d8-107f7e11a1e6"
@@ -823,7 +832,7 @@
     "historicalRating": 9,
     "relationships": {
       "fatherId": "c2332053-1b5e-457d-88ac-aeed35a7f9ac",
-      "motherId": "",
+      "motherId": "320bf6a4-36a1-4ead-9c62-aa749b46d9b2",
       "spouseIds": [],
       "partnerIds": [],
       "childIds": []
@@ -1140,6 +1149,1068 @@
       "detail": "After abdicating in favour of his brother Ferdinand and son Philip, Karl V retired to the monastery of Yuste in Spain, where he died on 21 September 1558, probably of malaria; he had long suffered from gout.",
       "detailCn": "卡尔五世逊位后隐居于西班牙尤斯特修道院，于1558年9月21日去世，可能死于疟疾；他长期受痛风困扰。",
       "wikiUrl": "https://en.wikipedia.org/wiki/Charles_V,_Holy_Roman_Emperor"
+    }
+  },
+  {
+    "id": "73b42b1a-c2dd-4d64-bdb2-1c0d63528f00",
+    "firstName": "Rudolf",
+    "lastName": "",
+    "displayName": "Rudolf II of Austria",
+    "fullName": "Rudolf II of Austria",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "奥地利的鲁道夫二世",
+    "fullNameCn": "奥地利的鲁道夫二世",
+    "birthYear": 1270,
+    "deathYear": 1290,
+    "birthPlace": "Austria",
+    "birthPlaceCn": "奥地利",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "Habsburg dynasty",
+    "house": "House of Habsburg",
+    "culture": "German",
+    "faith": "Catholic",
+    "primaryTitle": "Duke of Austria",
+    "primaryTitleCn": "奥地利公爵",
+    "titles": [
+      {
+        "title": "Duke of Austria",
+        "titleCn": "奥地利公爵",
+        "startYear": 1282,
+        "endYear": 1290
+      }
+    ],
+    "tags": [
+      "duke",
+      "noble"
+    ],
+    "rank": "duke",
+    "importanceScore": 40,
+    "historicalRating": 4,
+    "relationships": {
+      "fatherId": "268c6586-a041-4aa7-9d66-92a7af3c4ac6",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1282,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "dynasty"
+        ],
+        "weight": 76,
+        "label": "Received Austria and Styria jointly with Albert",
+        "labelCn": "与阿尔布雷希特共同受封奥地利与施泰尔马克",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Rudolf_II,_Duke_of_Austria"
+      },
+      {
+        "year": 1283,
+        "type": "renunciation",
+        "tags": [
+          "politics",
+          "succession"
+        ],
+        "weight": 72,
+        "label": "Renounced the Austrian co-rule",
+        "labelCn": "放弃奥地利共治权",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Rudolf_II,_Duke_of_Austria"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Rudolf_II_of_Austria",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Rudolf_II_of_Austria",
+    "sourceNote": "Early Habsburg Austrian line; core chronology from local Habsburg records.",
+    "notes": "Son of Rudolf I and younger brother of Albert I; an early co-ruler in the Austrian Habsburg lands.",
+    "createdDate": "20260823",
+    "createdOrder": 28,
+    "deathCause": {
+      "kind": "illness",
+      "summary": "Died after an illness",
+      "summaryCn": "患病后去世",
+      "detail": "The precise illness is not securely recorded.",
+      "detailCn": "具体病因没有可靠记载.",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Rudolf_II_of_Austria"
+    }
+  },
+  {
+    "id": "7f2f30fb-2735-4e96-a1b6-f9ec8703e9ff",
+    "firstName": "Frederick",
+    "lastName": "",
+    "displayName": "Frederick the Fair",
+    "fullName": "Frederick the Fair",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "美男子腓特烈",
+    "fullNameCn": "美男子腓特烈",
+    "birthYear": 1289,
+    "deathYear": 1330,
+    "birthPlace": "Austria",
+    "birthPlaceCn": "奥地利",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "Habsburg dynasty",
+    "house": "House of Habsburg",
+    "culture": "German",
+    "faith": "Catholic",
+    "primaryTitle": "Duke of Austria",
+    "primaryTitleCn": "奥地利公爵",
+    "titles": [
+      {
+        "title": "Duke of Austria",
+        "titleCn": "奥地利公爵",
+        "startYear": 1308,
+        "endYear": 1330
+      }
+    ],
+    "tags": [
+      "duke",
+      "noble"
+    ],
+    "rank": "duke",
+    "importanceScore": 70,
+    "historicalRating": 7,
+    "relationships": {
+      "fatherId": "6ca48b05-8d0d-4206-8812-31e49f7b5d35",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1308,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 82,
+        "label": "Succeeded Albert I in Austria",
+        "labelCn": "在奥地利继承阿尔布雷希特一世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Frederick_the_Fair"
+      },
+      {
+        "year": 1314,
+        "type": "election",
+        "tags": [
+          "election",
+          "monarch"
+        ],
+        "weight": 90,
+        "label": "Elected rival King of the Romans",
+        "labelCn": "当选对立的罗马人国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Frederick_the_Fair"
+      },
+      {
+        "year": 1322,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "war"
+        ],
+        "weight": 88,
+        "label": "Defeated and captured at Mühldorf",
+        "labelCn": "在米尔多夫战败被俘",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Mühldorf"
+      },
+      {
+        "year": 1325,
+        "type": "diplomacy",
+        "tags": [
+          "diplomacy",
+          "monarch"
+        ],
+        "weight": 82,
+        "label": "Recognized Louis IV as emperor and co-ruled",
+        "labelCn": "承认路易四世为皇帝并与其共治",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Frederick_the_Fair"
+      },
+      {
+        "year": 1330,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died at Gutenstein",
+        "labelCn": "在古腾施泰因去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Frederick_the_Fair"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Frederick_the_Fair",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Frederick_the_Fair",
+    "sourceNote": "Early Habsburg Austrian line; core chronology from local Habsburg records.",
+    "notes": "Son of Albert I and elder brother of Albert II the Wise; rival King of the Romans against Louis IV.",
+    "createdDate": "20260823",
+    "createdOrder": 29,
+    "deathCause": {
+      "kind": "illness",
+      "summary": "Died after illness at Gutenstein",
+      "summaryCn": "在古腾施泰因患病去世",
+      "detail": "The precise illness is not securely recorded.",
+      "detailCn": "具体病因没有可靠记载.",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Frederick_the_Fair"
+    }
+  },
+  {
+    "id": "b56f6ca0-e20c-4c6a-a118-1c730bca3cf4",
+    "firstName": "Albert",
+    "lastName": "",
+    "displayName": "Albert II the Wise",
+    "fullName": "Albert II the Wise",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "智者阿尔布雷希特二世",
+    "fullNameCn": "智者阿尔布雷希特二世",
+    "birthYear": 1298,
+    "deathYear": 1358,
+    "birthPlace": "Austria",
+    "birthPlaceCn": "奥地利",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "Habsburg dynasty",
+    "house": "House of Habsburg",
+    "culture": "German",
+    "faith": "Catholic",
+    "primaryTitle": "Duke of Austria",
+    "primaryTitleCn": "奥地利公爵",
+    "titles": [
+      {
+        "title": "Duke of Austria",
+        "titleCn": "奥地利公爵",
+        "startYear": 1330,
+        "endYear": 1358
+      }
+    ],
+    "tags": [
+      "duke",
+      "noble"
+    ],
+    "rank": "duke",
+    "importanceScore": 60,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "6ca48b05-8d0d-4206-8812-31e49f7b5d35",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "4340617b-1fb7-43d9-afcc-bf826c55c8b7",
+        "b9386e8c-6886-4cea-b6f1-b1205598335c",
+        "25bd05f2-280c-4472-a83a-e8a5081bd43f"
+      ]
+    },
+    "events": [
+      {
+        "year": 1330,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 80,
+        "label": "Became Duke of Austria with Otto",
+        "labelCn": "与奥托共同成为奥地利公爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Albert_II,_Duke_of_Austria"
+      },
+      {
+        "year": 1335,
+        "type": "territory",
+        "tags": [
+          "territory",
+          "title"
+        ],
+        "weight": 82,
+        "label": "Inherited Carinthia and Carniola",
+        "labelCn": "继承克恩滕与卡尼奥拉",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Albert_II,_Duke_of_Austria"
+      },
+      {
+        "year": 1349,
+        "type": "government",
+        "tags": [
+          "government",
+          "territory"
+        ],
+        "weight": 72,
+        "label": "Consolidated the Austrian lands after the earthquake",
+        "labelCn": "地震后整合奥地利领地",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Albert_II,_Duke_of_Austria"
+      },
+      {
+        "year": 1358,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died in Vienna",
+        "labelCn": "在维也纳去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Albert_II,_Duke_of_Austria"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Albert_II_the_Wise",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Albert_II_the_Wise",
+    "sourceNote": "Early Habsburg Austrian line; core chronology from local Habsburg records.",
+    "notes": "Son of Albert I; father of Rudolf IV, Albert III and Leopold III. Distinct from the later King Albert II, who was Albert V in the Austrian line.",
+    "createdDate": "20260823",
+    "createdOrder": 30,
+    "deathCause": {
+      "kind": "illness",
+      "summary": "Died after illness in Vienna",
+      "summaryCn": "在维也纳患病去世",
+      "detail": "Albert II died after a prolonged illness; the exact diagnosis is uncertain.",
+      "detailCn": "阿尔布雷希特二世久病后去世，确切诊断不明.",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Albert_II_the_Wise"
+    }
+  },
+  {
+    "id": "c0e5a6fc-5c06-408b-bc49-4ab9e592ca4b",
+    "firstName": "Otto",
+    "lastName": "",
+    "displayName": "Otto the Merry",
+    "fullName": "Otto the Merry",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "快乐的奥托",
+    "fullNameCn": "快乐的奥托",
+    "birthYear": 1301,
+    "deathYear": 1339,
+    "birthPlace": "Austria",
+    "birthPlaceCn": "奥地利",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "Habsburg dynasty",
+    "house": "House of Habsburg",
+    "culture": "German",
+    "faith": "Catholic",
+    "primaryTitle": "Duke of Austria",
+    "primaryTitleCn": "奥地利公爵",
+    "titles": [
+      {
+        "title": "Duke of Austria",
+        "titleCn": "奥地利公爵",
+        "startYear": 1330,
+        "endYear": 1339
+      }
+    ],
+    "tags": [
+      "duke",
+      "noble"
+    ],
+    "rank": "duke",
+    "importanceScore": 40,
+    "historicalRating": 4,
+    "relationships": {
+      "fatherId": "6ca48b05-8d0d-4206-8812-31e49f7b5d35",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1330,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "government"
+        ],
+        "weight": 76,
+        "label": "Co-ruled Austria with Albert II",
+        "labelCn": "与阿尔布雷希特二世共治奥地利",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Otto,_Duke_of_Austria"
+      },
+      {
+        "year": 1339,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 68,
+        "label": "Died at Neuberg",
+        "labelCn": "在诺伊贝格去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Otto,_Duke_of_Austria"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Otto_the_Merry",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Otto_the_Merry",
+    "sourceNote": "Early Habsburg Austrian line; core chronology from local Habsburg records.",
+    "notes": "Son of Albert I and younger brother of Albert II the Wise; co-ruler in Austria.",
+    "createdDate": "20260823",
+    "createdOrder": 31,
+    "deathCause": {
+      "kind": "illness",
+      "summary": "Died after illness at Neuberg",
+      "summaryCn": "在诺伊贝格患病去世",
+      "detail": "The precise illness is not securely recorded.",
+      "detailCn": "具体病因没有可靠记载.",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Otto_the_Merry"
+    }
+  },
+  {
+    "id": "4340617b-1fb7-43d9-afcc-bf826c55c8b7",
+    "firstName": "Rudolf",
+    "lastName": "",
+    "displayName": "Rudolf IV the Founder",
+    "fullName": "Rudolf IV the Founder",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "创建者鲁道夫四世",
+    "fullNameCn": "创建者鲁道夫四世",
+    "birthYear": 1339,
+    "deathYear": 1365,
+    "birthPlace": "Austria",
+    "birthPlaceCn": "奥地利",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "Habsburg dynasty",
+    "house": "House of Habsburg",
+    "culture": "German",
+    "faith": "Catholic",
+    "primaryTitle": "Duke of Austria",
+    "primaryTitleCn": "奥地利公爵",
+    "titles": [
+      {
+        "title": "Duke of Austria",
+        "titleCn": "奥地利公爵",
+        "startYear": 1358,
+        "endYear": 1365
+      }
+    ],
+    "tags": [
+      "duke",
+      "noble"
+    ],
+    "rank": "duke",
+    "importanceScore": 80,
+    "historicalRating": 8,
+    "relationships": {
+      "fatherId": "b56f6ca0-e20c-4c6a-a118-1c730bca3cf4",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1358,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 84,
+        "label": "Succeeded Albert II as Duke of Austria",
+        "labelCn": "继承阿尔布雷希特二世成为奥地利公爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Rudolf_IV,_Duke_of_Austria"
+      },
+      {
+        "year": 1359,
+        "type": "government",
+        "tags": [
+          "government",
+          "culture"
+        ],
+        "weight": 88,
+        "label": "Founded the University of Vienna",
+        "labelCn": "创建维也纳大学",
+        "wikiUrl": "https://en.wikipedia.org/wiki/University_of_Vienna"
+      },
+      {
+        "year": 1359,
+        "type": "politics",
+        "tags": [
+          "politics",
+          "title"
+        ],
+        "weight": 92,
+        "label": "Issued the Privilegium Maius",
+        "labelCn": "颁布《大特权》",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Privilegium_Maius"
+      },
+      {
+        "year": 1363,
+        "type": "territory",
+        "tags": [
+          "territory",
+          "dynasty"
+        ],
+        "weight": 90,
+        "label": "Acquired Tyrol for the Habsburgs",
+        "labelCn": "为哈布斯堡取得蒂罗尔",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Rudolf_IV,_Duke_of_Austria"
+      },
+      {
+        "year": 1365,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 72,
+        "label": "Died in Milan",
+        "labelCn": "在米兰去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Rudolf_IV,_Duke_of_Austria"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Rudolf_IV_the_Founder",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Rudolf_IV_the_Founder",
+    "sourceNote": "Early Habsburg Austrian line; core chronology from local Habsburg records.",
+    "notes": "Son of Albert II the Wise; elder brother of Albert III and Leopold III. His reforms shaped the Austrian archduchy.",
+    "createdDate": "20260823",
+    "createdOrder": 32,
+    "deathCause": {
+      "kind": "illness",
+      "summary": "Died suddenly in Milan",
+      "summaryCn": "在米兰突发疾病去世",
+      "detail": "Rudolf IV died suddenly while travelling; the exact illness is uncertain.",
+      "detailCn": "鲁道夫四世在旅途中突然去世，确切病因不明.",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Rudolf_IV_the_Founder"
+    }
+  },
+  {
+    "id": "b9386e8c-6886-4cea-b6f1-b1205598335c",
+    "firstName": "Albert",
+    "lastName": "",
+    "displayName": "Albert III of Austria",
+    "fullName": "Albert III of Austria",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "奥地利的阿尔布雷希特三世",
+    "fullNameCn": "奥地利的阿尔布雷希特三世",
+    "birthYear": 1349,
+    "deathYear": 1395,
+    "birthPlace": "Austria",
+    "birthPlaceCn": "奥地利",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "Habsburg dynasty",
+    "house": "House of Habsburg",
+    "culture": "German",
+    "faith": "Catholic",
+    "primaryTitle": "Duke of Austria",
+    "primaryTitleCn": "奥地利公爵",
+    "titles": [
+      {
+        "title": "Duke of Austria",
+        "titleCn": "奥地利公爵",
+        "startYear": 1365,
+        "endYear": 1395
+      }
+    ],
+    "tags": [
+      "duke",
+      "noble"
+    ],
+    "rank": "duke",
+    "importanceScore": 60,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "b56f6ca0-e20c-4c6a-a118-1c730bca3cf4",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "6778e952-ab13-4294-9562-38559a6223e2"
+      ]
+    },
+    "events": [
+      {
+        "year": 1365,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "government"
+        ],
+        "weight": 80,
+        "label": "Co-ruled Austria with Leopold III",
+        "labelCn": "与利奥波德三世共治奥地利",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Albert_III,_Duke_of_Austria"
+      },
+      {
+        "year": 1379,
+        "type": "partition",
+        "tags": [
+          "territory",
+          "treaty"
+        ],
+        "weight": 86,
+        "label": "Divided the Habsburg lands at the Treaty of Neuberg",
+        "labelCn": "以诺伊贝格条约分割哈布斯堡领地",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Treaty_of_Neuberg"
+      },
+      {
+        "year": 1395,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died in Laxenburg",
+        "labelCn": "在拉克森堡去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Albert_III,_Duke_of_Austria"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Albert_III_of_Austria",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Albert_III_of_Austria",
+    "sourceNote": "Early Habsburg Austrian line; core chronology from local Habsburg records.",
+    "notes": "Son of Albert II the Wise; co-ruler with Leopold III after Rudolf IV, then head of the Albertinian line; father of Albert IV.",
+    "createdDate": "20260823",
+    "createdOrder": 33,
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died at Laxenburg",
+      "summaryCn": "在拉克森堡去世",
+      "detail": "No specific cause is securely recorded.",
+      "detailCn": "没有可靠记载的具体死因.",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Albert_III_of_Austria"
+    }
+  },
+  {
+    "id": "25bd05f2-280c-4472-a83a-e8a5081bd43f",
+    "firstName": "Leopold",
+    "lastName": "",
+    "displayName": "Leopold III of Austria",
+    "fullName": "Leopold III of Austria",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "奥地利的利奥波德三世",
+    "fullNameCn": "奥地利的利奥波德三世",
+    "birthYear": 1351,
+    "deathYear": 1386,
+    "birthPlace": "Austria",
+    "birthPlaceCn": "奥地利",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "Habsburg dynasty",
+    "house": "House of Habsburg",
+    "culture": "German",
+    "faith": "Catholic",
+    "primaryTitle": "Duke of Austria",
+    "primaryTitleCn": "奥地利公爵",
+    "titles": [
+      {
+        "title": "Duke of Austria",
+        "titleCn": "奥地利公爵",
+        "startYear": 1365,
+        "endYear": 1386
+      }
+    ],
+    "tags": [
+      "duke",
+      "noble"
+    ],
+    "rank": "duke",
+    "importanceScore": 60,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "b56f6ca0-e20c-4c6a-a118-1c730bca3cf4",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "f3e3018e-8778-4d52-948f-b5c002800b36"
+      ]
+    },
+    "events": [
+      {
+        "year": 1365,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "government"
+        ],
+        "weight": 80,
+        "label": "Co-ruled Austria with Albert III",
+        "labelCn": "与阿尔布雷希特三世共治奥地利",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Leopold_III,_Duke_of_Austria"
+      },
+      {
+        "year": 1379,
+        "type": "partition",
+        "tags": [
+          "territory",
+          "treaty"
+        ],
+        "weight": 84,
+        "label": "Received the Inner Austrian lands at Neuberg",
+        "labelCn": "在诺伊贝格分割中取得内奥地利领地",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Treaty_of_Neuberg"
+      },
+      {
+        "year": 1386,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "death"
+        ],
+        "weight": 86,
+        "label": "Died at the Battle of Sempach",
+        "labelCn": "在森帕赫战役中阵亡",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Sempach"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Leopold_III_of_Austria",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Leopold_III_of_Austria",
+    "sourceNote": "Early Habsburg Austrian line; core chronology from local Habsburg records.",
+    "notes": "Son of Albert II the Wise; brother of Albert III and father of Ernest the Iron.",
+    "createdDate": "20260823",
+    "createdOrder": 34,
+    "deathCause": {
+      "kind": "battle",
+      "summary": "Killed at the Battle of Sempach",
+      "summaryCn": "在森帕赫战役中阵亡",
+      "detail": "Leopold III was killed in battle while leading the Austrian forces.",
+      "detailCn": "利奥波德三世率奥地利军队作战时阵亡.",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Leopold_III_of_Austria"
+    }
+  },
+  {
+    "id": "f3e3018e-8778-4d52-948f-b5c002800b36",
+    "firstName": "Ernest",
+    "lastName": "",
+    "displayName": "Ernest the Iron",
+    "fullName": "Ernest the Iron",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "铁人恩斯特",
+    "fullNameCn": "铁人恩斯特",
+    "birthYear": 1377,
+    "deathYear": 1424,
+    "birthPlace": "Austria",
+    "birthPlaceCn": "奥地利",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "Habsburg dynasty",
+    "house": "House of Habsburg",
+    "culture": "German",
+    "faith": "Catholic",
+    "primaryTitle": "Duke of Austria",
+    "primaryTitleCn": "奥地利公爵",
+    "titles": [
+      {
+        "title": "Duke of Austria",
+        "titleCn": "奥地利公爵",
+        "startYear": 1406,
+        "endYear": 1424
+      }
+    ],
+    "tags": [
+      "duke",
+      "noble"
+    ],
+    "rank": "duke",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "25bd05f2-280c-4472-a83a-e8a5081bd43f",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "682a8fa6-13f6-4dc4-83ef-83787cd8c532"
+      ]
+    },
+    "events": [
+      {
+        "year": 1406,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 80,
+        "label": "Became Duke of Inner Austria",
+        "labelCn": "成为内奥地利公爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ernest,_Duke_of_Austria"
+      },
+      {
+        "year": 1414,
+        "type": "coronation",
+        "tags": [
+          "title",
+          "politics"
+        ],
+        "weight": 80,
+        "label": "Adopted the archducal title",
+        "labelCn": "采用大公头衔",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ernest,_Duke_of_Austria"
+      },
+      {
+        "year": 1424,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 70,
+        "label": "Died at Bruck an der Mur",
+        "labelCn": "在布鲁克于穆尔去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ernest,_Duke_of_Austria"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Ernest_the_Iron",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Ernest_the_Iron",
+    "sourceNote": "Early Habsburg Austrian line; core chronology from local Habsburg records.",
+    "notes": "Son of Leopold III and father of Frederick III; ancestor of the later imperial Habsburg line.",
+    "createdDate": "20260823",
+    "createdOrder": 35,
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died at Bruck an der Mur",
+      "summaryCn": "在布鲁克于穆尔去世",
+      "detail": "No specific cause is securely recorded.",
+      "detailCn": "没有可靠记载的具体死因.",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Ernest_the_Iron"
+    }
+  },
+  {
+    "id": "6778e952-ab13-4294-9562-38559a6223e2",
+    "firstName": "Albert",
+    "lastName": "",
+    "displayName": "Albert IV of Austria",
+    "fullName": "Albert IV of Austria",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "奥地利的阿尔布雷希特四世",
+    "fullNameCn": "奥地利的阿尔布雷希特四世",
+    "birthYear": 1377,
+    "deathYear": 1404,
+    "birthPlace": "Austria",
+    "birthPlaceCn": "奥地利",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "Habsburg dynasty",
+    "house": "House of Habsburg",
+    "culture": "German",
+    "faith": "Catholic",
+    "primaryTitle": "Duke of Austria",
+    "primaryTitleCn": "奥地利公爵",
+    "titles": [
+      {
+        "title": "Duke of Austria",
+        "titleCn": "奥地利公爵",
+        "startYear": 1395,
+        "endYear": 1404
+      }
+    ],
+    "tags": [
+      "duke",
+      "noble"
+    ],
+    "rank": "duke",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "b9386e8c-6886-4cea-b6f1-b1205598335c",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "bbf82f02-ae24-42a5-a999-ecaaddd9f365"
+      ]
+    },
+    "events": [
+      {
+        "year": 1395,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 80,
+        "label": "Succeeded Albert III as Duke of Austria",
+        "labelCn": "继承阿尔布雷希特三世成为奥地利公爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Albert_IV,_Duke_of_Austria"
+      },
+      {
+        "year": 1402,
+        "type": "pilgrimage",
+        "tags": [
+          "diplomacy",
+          "religion"
+        ],
+        "weight": 70,
+        "label": "Took part in the campaign to the Holy Land",
+        "labelCn": "参加前往圣地的远征",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Albert_IV,_Duke_of_Austria"
+      },
+      {
+        "year": 1404,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 68,
+        "label": "Died at Klosterneuburg",
+        "labelCn": "在克洛斯特新堡去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Albert_IV,_Duke_of_Austria"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Albert_IV_of_Austria",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Albert_IV_of_Austria",
+    "sourceNote": "Early Habsburg Austrian line; core chronology from local Habsburg records.",
+    "notes": "Son of Albert III and father of Albert V, later King Albert II.",
+    "createdDate": "20260823",
+    "createdOrder": 36,
+    "deathCause": {
+      "kind": "illness",
+      "summary": "Died after illness at Klosterneuburg",
+      "summaryCn": "在克洛斯特新堡患病去世",
+      "detail": "Albert IV died after illness; the precise diagnosis is uncertain.",
+      "detailCn": "阿尔布雷希特四世患病后去世，确切诊断不明.",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Albert_IV_of_Austria"
+    }
+  },
+  {
+    "id": "5541d187-7dfd-439c-b664-44ad103e413a",
+    "firstName": "Ladislaus",
+    "lastName": "the Posthumous",
+    "displayName": "Ladislaus the Posthumous",
+    "fullName": "Ladislaus the Posthumous",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "遗腹子拉迪斯拉斯",
+    "fullNameCn": "遗腹子拉迪斯拉斯",
+    "birthYear": 1440,
+    "deathYear": 1457,
+    "birthPlace": "Austria",
+    "birthPlaceCn": "奥地利",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "Habsburg dynasty",
+    "house": "House of Habsburg",
+    "culture": "German",
+    "faith": "Catholic",
+    "primaryTitle": "Duke of Austria",
+    "primaryTitleCn": "奥地利公爵",
+    "titles": [
+      {
+        "title": "Duke of Austria",
+        "titleCn": "奥地利公爵",
+        "startYear": 1440,
+        "endYear": 1457
+      }
+    ],
+    "tags": [
+      "duke",
+      "noble"
+    ],
+    "rank": "duke",
+    "importanceScore": 70,
+    "historicalRating": 7,
+    "relationships": {
+      "fatherId": "bbf82f02-ae24-42a5-a999-ecaaddd9f365",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1440,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 84,
+        "label": "Inherited Austria after Albert V's death",
+        "labelCn": "在阿尔布雷希特五世去世后继承奥地利",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ladislaus_the_Posthumous"
+      },
+      {
+        "year": 1444,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 86,
+        "label": "Crowned King of Hungary",
+        "labelCn": "加冕为匈牙利国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ladislaus_the_Posthumous"
+      },
+      {
+        "year": 1453,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "monarch"
+        ],
+        "weight": 86,
+        "label": "Crowned King of Bohemia",
+        "labelCn": "加冕为波希米亚国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ladislaus_the_Posthumous"
+      },
+      {
+        "year": 1457,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 76,
+        "label": "Died in Prague",
+        "labelCn": "在布拉格去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ladislaus_the_Posthumous"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Ladislaus_the_Posthumous",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Ladislaus_the_Posthumous",
+    "sourceNote": "Early Habsburg Austrian line; core chronology from local Habsburg records.",
+    "notes": "Son of Albert V, later King Albert II; last ruler of this Austrian branch. After his death in 1457, Austria passed to Frederick III of the Leopoldian line, not as a father-son succession.",
+    "createdDate": "20260823",
+    "createdOrder": 37,
+    "deathCause": {
+      "kind": "illness",
+      "summary": "Died suddenly in Prague",
+      "summaryCn": "在布拉格突发疾病去世",
+      "detail": "Ladislaus died suddenly; poisoning was alleged but is not established, and illness remains the cautious description.",
+      "detailCn": "拉迪斯拉斯突然去世；虽有中毒传闻，但未获证实，谨以疾病概括.",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Ladislaus_the_Posthumous"
     }
   }
 ]

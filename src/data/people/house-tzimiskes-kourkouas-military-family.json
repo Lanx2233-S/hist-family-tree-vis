@@ -1,0 +1,202 @@
+[
+  {
+    "id": "980ef7d7-0105-4cc4-9ac6-7a414814deb0",
+    "firstName": "John",
+    "lastName": "I Tzimiskes",
+    "displayName": "John I Tzimiskes",
+    "fullName": "John I Tzimiskes, Byzantine Emperor",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [
+      "John I",
+      "John Tzimiskes",
+      "Ioannes I Tzimiskes",
+      "Ἰωάννης Αʹ Τζιμισκής"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "约翰一世·齐米斯凯斯",
+    "fullNameCn": "拜占庭皇帝约翰一世·齐米斯凯斯",
+    "birthYear": 925,
+    "deathYear": 976,
+    "birthPlace": "Charsianon region, Byzantine Empire",
+    "birthPlaceCn": "拜占庭帝国哈尔西亚农地区",
+    "deathPlace": "Constantinople, Byzantine Empire",
+    "deathPlaceCn": "拜占庭帝国君士坦丁堡",
+    "gender": "male",
+    "dynasty": "Tzimiskes",
+    "house": "Tzimiskes/Kourkouas military family",
+    "culture": "Byzantine",
+    "faith": "Chalcedonian Christianity",
+    "primaryTitle": "Byzantine Emperor",
+    "primaryTitleCn": "拜占庭皇帝",
+    "titles": [
+      {
+        "title": "Strategos of the Anatolic Theme",
+        "titleCn": "安纳托利亚军区将军",
+        "startYear": 959,
+        "endYear": 963
+      },
+      {
+        "title": "Domestic of the Schools of the East",
+        "titleCn": "东方禁卫军统帅",
+        "startYear": 963,
+        "endYear": 965
+      },
+      {
+        "title": "Byzantine Emperor",
+        "titleCn": "拜占庭皇帝",
+        "startYear": 969,
+        "endYear": 976
+      }
+    ],
+    "tags": [
+      "monarch",
+      "emperor",
+      "commander"
+    ],
+    "rank": "emperor",
+    "importanceScore": 92,
+    "historicalRating": 8,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "04e07f57-1226-456e-a5ea-3372eac28e14"
+      ],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 959,
+        "type": "government",
+        "tags": [
+          "commander",
+          "government"
+        ],
+        "weight": 65,
+        "label": "Became strategos of the Anatolic Theme",
+        "labelCn": "出任安纳托利亚军区将军",
+        "wikiUrl": "https://en.wikipedia.org/wiki/John_I_Tzimiskes",
+        "note": "Romanos II entrusted Tzimiskes with one of the empire's most important military commands."
+      },
+      {
+        "year": 963,
+        "type": "government",
+        "tags": [
+          "commander",
+          "government"
+        ],
+        "weight": 75,
+        "label": "Served as Domestic of the Schools under Nikephoros II",
+        "labelCn": "在尼基弗鲁斯二世统治下出任最高军事统帅",
+        "wikiUrl": "https://en.wikipedia.org/wiki/John_I_Tzimiskes",
+        "note": "Tzimiskes was one of Nikephoros Phokas's leading commanders and relatives before falling from favor."
+      },
+      {
+        "year": 969,
+        "month": 12,
+        "day": 11,
+        "type": "politics",
+        "tags": [
+          "politics",
+          "violent"
+        ],
+        "weight": 100,
+        "label": "Led the conspiracy that killed Nikephoros II",
+        "labelCn": "领导刺杀尼基弗鲁斯二世的政变",
+        "wikiUrl": "https://en.wikipedia.org/wiki/John_I_Tzimiskes",
+        "note": "Tzimiskes and his allies entered the palace and murdered Nikephoros II, after which Tzimiskes claimed senior imperial power."
+      },
+      {
+        "year": 969,
+        "month": 12,
+        "day": 25,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "king"
+        ],
+        "weight": 100,
+        "label": "Was crowned Byzantine emperor",
+        "labelCn": "加冕为拜占庭皇帝",
+        "wikiUrl": "https://en.wikipedia.org/wiki/John_I_Tzimiskes",
+        "note": "Patriarch Polyeuktos required Tzimiskes to separate from Theophano and punish participants in the murder before coronation."
+      },
+      {
+        "year": 970,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 85,
+        "label": "Married Theodora, daughter of Constantine VII",
+        "labelCn": "迎娶君士坦丁七世之女狄奥多拉",
+        "wikiUrl": "https://en.wikipedia.org/wiki/John_I_Tzimiskes",
+        "note": "The marriage directly tied Tzimiskes to the Macedonian dynasty while Basil II and Constantine VIII remained co-emperors."
+      },
+      {
+        "year": 971,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "conquest"
+        ],
+        "weight": 100,
+        "label": "Defeated Sviatoslav's Rus' at Dorostolon",
+        "labelCn": "在多罗斯托隆击败斯维亚托斯拉夫的罗斯军",
+        "wikiUrl": "https://en.wikipedia.org/wiki/John_I_Tzimiskes",
+        "note": "After a long siege and repeated fighting on the Danube, Sviatoslav agreed to withdraw, ending the Rus' occupation of Bulgaria."
+      },
+      {
+        "year": 971,
+        "type": "conquest",
+        "tags": [
+          "conquest",
+          "territory"
+        ],
+        "weight": 90,
+        "label": "Annexed eastern Bulgaria and abolished Boris II's imperial title",
+        "labelCn": "吞并保加利亚东部并废除鲍里斯二世的皇帝称号",
+        "wikiUrl": "https://en.wikipedia.org/wiki/John_I_Tzimiskes",
+        "note": "John celebrated a triumph at Constantinople and treated the eastern Bulgarian territories as annexed, although western Bulgarian resistance survived."
+      },
+      {
+        "year": 975,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "conquest"
+        ],
+        "weight": 90,
+        "label": "Led a deep Syrian campaign toward Palestine",
+        "labelCn": "率军深入叙利亚并逼近巴勒斯坦",
+        "wikiUrl": "https://en.wikipedia.org/wiki/John_I_Tzimiskes",
+        "note": "Tzimiskes captured or received submission from important Syrian and coastal cities, extending Byzantine influence far into the Levant."
+      },
+      {
+        "year": 976,
+        "month": 1,
+        "day": 10,
+        "type": "death",
+        "tags": [
+          "death",
+          "uncertain"
+        ],
+        "weight": 85,
+        "label": "Died after returning from the eastern campaign",
+        "labelCn": "东征归来后去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/John_I_Tzimiskes",
+        "note": "John died in Constantinople after illness. Later sources alleged poisoning by Basil Lekapenos, but the accusation cannot be established."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/John_I_Tzimiskes",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/John_I_Tzimiskes",
+    "sourceNote": "John Skylitzes, A Synopsis of Byzantine History (Cambridge); Leo the Deacon, History; Anthony Kaldellis, Streams of Gold, Rivers of Blood; Oxford Dictionary of Byzantium; Warren Treadgold, A History of the Byzantine State and Society; Wikipedia supplementary chronology.",
+    "notes": "John I replaced Nikephoros II as senior emperor but preserved Basil II and Constantine VIII as crowned Macedonian co-emperors. His decisive campaigns against the Rus' and in Syria strengthened the empire before the adult Macedonian brothers inherited effective control in 976.\n\nUnlinked family: spouse: Maria Skleraina",
+    "createdDate": "20260824",
+    "createdOrder": 67
+  }
+]

@@ -1,0 +1,174 @@
+[
+  {
+    "id": "f5e4134e-24da-40f1-adc2-6bca28520b78",
+    "firstName": "Romanos",
+    "lastName": "IV Diogenes",
+    "displayName": "Romanos IV Diogenes",
+    "fullName": "Romanos IV Diogenes, Byzantine Emperor",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [
+      "Romanos IV",
+      "Romanus IV Diogenes",
+      "Romanos Diogenes",
+      "Ῥωμανὸς Δʹ Διογένης"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "罗曼努斯四世·第欧根尼",
+    "fullNameCn": "拜占庭皇帝罗曼努斯四世·第欧根尼",
+    "birthYear": 1030,
+    "deathYear": 1072,
+    "birthPlace": "Cappadocia, Byzantine Empire",
+    "birthPlaceCn": "拜占庭帝国卡帕多西亚",
+    "deathPlace": "Prote, Byzantine Empire",
+    "deathPlaceCn": "拜占庭帝国普罗特岛",
+    "deathCause": {
+      "kind": "violent_uncertain",
+      "summary": "died from injuries after blinding",
+      "summaryCn": "致盲造成的伤势后去世",
+      "detail": "died from injuries after blinding",
+      "detailCn": "致盲造成的伤势后去世",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Romanos_IV_Diogenes"
+    },
+    "gender": "male",
+    "dynasty": "Diogenes",
+    "house": "Diogenes family",
+    "culture": "Byzantine",
+    "faith": "Eastern Orthodox",
+    "primaryTitle": "Byzantine Emperor",
+    "primaryTitleCn": "拜占庭皇帝",
+    "titles": [
+      {
+        "title": "Byzantine Emperor",
+        "titleCn": "拜占庭皇帝",
+        "startYear": 1068,
+        "endYear": 1071
+      }
+    ],
+    "tags": [
+      "monarch",
+      "emperor",
+      "commander"
+    ],
+    "rank": "emperor",
+    "importanceScore": 84,
+    "historicalRating": 7,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "b83d7598-8304-4d4b-8735-e746ff8d6e56"
+      ],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1067,
+        "type": "imprisonment",
+        "tags": [
+          "imprisonment",
+          "politics"
+        ],
+        "weight": 70,
+        "label": "Was arrested for plotting to seize the throne",
+        "labelCn": "因图谋皇位被捕",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Romanos_IV_Diogenes",
+        "note": "Romanos, a prominent military aristocrat, was accused of conspiracy during Eudokia's regency but soon became a candidate for marriage to the empress."
+      },
+      {
+        "year": 1068,
+        "month": 1,
+        "day": 1,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 100,
+        "label": "Married Eudokia Makrembolitissa",
+        "labelCn": "迎娶欧多基娅·马克伦博利提萨",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Romanos_IV_Diogenes",
+        "note": "The marriage integrated Romanos into the Doukas imperial family and supplied the minority government with an adult military emperor."
+      },
+      {
+        "year": 1068,
+        "month": 1,
+        "day": 1,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "king"
+        ],
+        "weight": 100,
+        "label": "Was crowned Byzantine emperor",
+        "labelCn": "加冕为拜占庭皇帝",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Romanos_IV_Diogenes",
+        "note": "Romanos became senior adult emperor while Michael VII, Andronikos and Konstantios retained dynastic co-imperial status."
+      },
+      {
+        "year": 1068,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "defense"
+        ],
+        "weight": 75,
+        "label": "Led his first eastern campaign against Turkish raiders",
+        "labelCn": "发动第一次东线远征以应对突厥袭扰",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Romanos_IV_Diogenes",
+        "note": "Romanos personally campaigned in Syria and Anatolia as part of an effort to restore the empire's mobile field forces and frontier security."
+      },
+      {
+        "year": 1069,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "defense"
+        ],
+        "weight": 75,
+        "label": "Conducted a second campaign in Anatolia",
+        "labelCn": "再次率军在安纳托利亚作战",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Romanos_IV_Diogenes",
+        "note": "The emperor continued field operations against dispersed Turkish forces, with mixed tactical results."
+      },
+      {
+        "year": 1071,
+        "month": 8,
+        "day": 26,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "defeat"
+        ],
+        "weight": 100,
+        "label": "Was defeated and captured at Manzikert",
+        "labelCn": "在曼齐刻尔特战役战败并被俘",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Romanos_IV_Diogenes",
+        "note": "Alp Arslan's Seljuk army defeated Romanos's divided force near Manzikert. Romanos was captured and negotiated release directly with the sultan."
+      },
+      {
+        "year": 1072,
+        "month": 8,
+        "day": 4,
+        "type": "death",
+        "tags": [
+          "death",
+          "violent"
+        ],
+        "weight": 100,
+        "label": "Died after being blinded despite a surrender agreement",
+        "labelCn": "在投降协议后仍遭致盲并因此死亡",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Romanos_IV_Diogenes",
+        "note": "After military defeat by the Doukas faction Romanos surrendered under a guarantee of safety, but was later brutally blinded at Kotyaion and died from the resulting injuries."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Romanos_IV_Diogenes",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Romanos_IV_Diogenes",
+    "sourceNote": "Michael Attaleiates, The History, trans. Kaldellis and Krallis; Michael Psellos, Chronographia; Anthony Kaldellis, Streams of Gold, Rivers of Blood; Georgios Theotokis and Marek Meško, War in Eleventh-Century Byzantium; Oxford Dictionary of Byzantium; Wikipedia supplementary chronology.",
+    "notes": "Romanos IV was an adult military emperor brought into the Doukas-Makrembolitissa regime by marriage rather than a simple dynastic successor. Manzikert destroyed his political position more quickly than the empire's military structure itself; the subsequent civil war and his blinding were crucial to the eastern collapse.\n\nUnlinked family: father: Constantine Diogenes; mother: Argyra (name uncertain); spouse: Anna Alusiane; child: Constantine Diogenes; child: Nikephoros Diogenes; child: Leo Diogenes",
+    "createdDate": "20260824",
+    "createdOrder": 80
+  }
+]

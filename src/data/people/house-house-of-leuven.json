@@ -659,7 +659,8 @@
       "spouseIds": [],
       "partnerIds": [],
       "childIds": [
-        "c1011000-0000-4000-8000-000000000000"
+        "c1011000-0000-4000-8000-000000000000",
+        "84961115-416f-4bbf-8bbc-d2313b5e17b2"
       ]
     },
     "events": [
@@ -1069,5 +1070,163 @@
     "notes": "Ruling Duchess of Brabant 1355–1406, who shared power with her husband Wenceslaus I of Luxembourg. Her Joyous Entry of 1356 became the constitutional foundation of Brabantine liberties, and her childless death passed the duchy to Anthony of Burgundy.",
     "createdDate": "20260823",
     "createdOrder": 44
+  },
+  {
+    "id": "84961115-416f-4bbf-8bbc-d2313b5e17b2",
+    "firstName": "Margaret",
+    "lastName": "",
+    "displayName": "Margaret of Brabant",
+    "fullName": "Margaret of Brabant, Queen of Germany",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Marguerite of Brabant",
+      "Margareta of Brabant",
+      "Margarete von Brabant"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "布拉班特的玛格丽特",
+    "fullNameCn": "德意志王后布拉班特的玛格丽特",
+    "nicknameCn": "",
+    "birthYear": "",
+    "deathYear": 1311,
+    "birthPlace": "",
+    "birthPlaceCn": "",
+    "deathPlace": "Genoa",
+    "deathPlaceCn": "热那亚",
+    "gender": "female",
+    "dynasty": "Reginar dynasty",
+    "house": "House of Leuven",
+    "culture": "Brabantine",
+    "faith": "Catholic",
+    "primaryTitle": "Queen consort of Germany",
+    "primaryTitleCn": "德意志王后",
+    "titles": [
+      {
+        "title": "Countess consort of Luxembourg",
+        "titleCn": "卢森堡伯爵夫人",
+        "startYear": 1292,
+        "endYear": 1310
+      },
+      {
+        "title": "Queen consort of Germany",
+        "titleCn": "德意志王后",
+        "startYear": 1309,
+        "endYear": 1311
+      },
+      {
+        "title": "Queen consort of Italy",
+        "titleCn": "意大利王后",
+        "startYear": 1311,
+        "endYear": 1311
+      }
+    ],
+    "tags": [
+      "queen",
+      "consort",
+      "noble"
+    ],
+    "rank": "queen",
+    "importanceScore": 56,
+    "historicalRating": 4,
+    "relationships": {
+      "fatherId": "c1010000-0000-4000-8000-000000000000",
+      "motherId": "",
+      "spouseIds": [
+        "ec618819-cd33-44bb-b8f8-fb50e97cbdb9"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "581b42bc-541c-4083-aefb-5dd9e2249430"
+      ]
+    },
+    "events": [
+      {
+        "year": 1292,
+        "month": 6,
+        "day": 9,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 90,
+        "label": "Married Henry VII of Luxembourg",
+        "labelCn": "与卢森堡的亨利七世结婚",
+        "wikiUrl": "https://www.deutsche-biographie.de/gnd118951203.html",
+        "note": "The marriage at Tervuren helped reconcile the houses of Brabant and Luxembourg after the Battle of Worringen. Margaret brought a substantial dowry and became an important dynastic partner of Henry VII."
+      },
+      {
+        "year": 1308,
+        "type": "church",
+        "tags": [
+          "church",
+          "noble"
+        ],
+        "weight": 60,
+        "label": "Founded a hospital in Luxembourg",
+        "labelCn": "在卢森堡创建医院",
+        "wikiUrl": "https://www.deutsche-biographie.de/gnd118951203.html",
+        "note": "Margaret founded and endowed a hospital in Luxembourg-Grund, documented by charters issued in November 1308."
+      },
+      {
+        "year": 1309,
+        "month": 1,
+        "day": 6,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "queen"
+        ],
+        "weight": 85,
+        "label": "Was crowned Queen of Germany at Aachen",
+        "labelCn": "在亚琛加冕为德意志王后",
+        "wikiUrl": "https://www.deutsche-biographie.de/gnd118951203.html",
+        "note": "Margaret received the German royal coronation at Aachen after Henry VII's election as King of the Romans."
+      },
+      {
+        "year": 1311,
+        "month": 1,
+        "day": 6,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "queen"
+        ],
+        "weight": 80,
+        "label": "Was crowned Queen of Italy at Milan",
+        "labelCn": "在米兰加冕为意大利王后",
+        "wikiUrl": "https://www.deutsche-biographie.de/gnd118951203.html",
+        "note": "During Henry VII's Italian expedition, Margaret was crowned Queen of Italy at Sant'Ambrogio in Milan."
+      },
+      {
+        "year": 1311,
+        "month": 12,
+        "day": 14,
+        "type": "death",
+        "tags": [
+          "death",
+          "queen"
+        ],
+        "weight": 75,
+        "label": "Died at Genoa during the Italian expedition",
+        "labelCn": "在意大利远征期间于热那亚去世",
+        "wikiUrl": "https://www.deutsche-biographie.de/gnd118951203.html",
+        "note": "Margaret contracted an epidemic illness during the Italian expedition and died at Genoa before Henry VII's imperial coronation."
+      }
+    ],
+    "wikiUrl": "https://www.deutsche-biographie.de/gnd118951203.html",
+    "portraitUrl": "",
+    "sourceUrl": "https://www.deutsche-biographie.de/gnd118951203.html",
+    "sourceNote": "Deutsche Biographie Online, 'Margarete von Brabant'; scholarship on Henry VII's Italian expedition and queenship; Luxembourg dynastic studies; contemporary Italian campaign traditions.",
+    "notes": "Margaret's marriage reconciled Luxembourg with the Brabantine dynasty that had defeated Henry VII's father at Worringen. She was the mother of John of Bohemia and therefore grandmother of Emperor Charles IV.\n\nConfidence / caveats: Her birth is given as 4 October 1275 or 1276 in modern scholarship, so birthYear is left null. Margaret died before Henry VII's imperial coronation in 1312 and therefore must not be recorded as Holy Roman Empress, even though some later narrative sources loosely apply imperial language to her.\n\nUnlinked family: Margaret of Flanders (not uniquely matched in the roster); Marie of Luxembourg, Queen of France (not uniquely matched in the roster); Beatrix of Luxembourg, Queen of Hungary (not uniquely matched in the roster).",
+    "createdDate": "20260823",
+    "deathCause": {
+      "kind": "normal",
+      "summary": "died of epidemic disease contracted during the Italian campaign",
+      "summaryCn": "意大利远征期间感染流行病后去世",
+      "detail": "died of epidemic disease contracted during the Italian campaign",
+      "detailCn": "意大利远征期间感染流行病后去世",
+      "wikiUrl": "https://www.deutsche-biographie.de/gnd118951203.html"
+    }
   }
 ]

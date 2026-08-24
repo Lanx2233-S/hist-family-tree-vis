@@ -1,0 +1,279 @@
+[
+  {
+    "id": "c62527e9-cd48-45f9-bde9-62df12ed3603",
+    "firstName": "Constantine",
+    "lastName": "X Doukas",
+    "displayName": "Constantine X Doukas",
+    "fullName": "Constantine X Doukas, Byzantine Emperor",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [
+      "Constantine X",
+      "Constantine Ducas",
+      "Konstantinos X Doukas",
+      "Κωνσταντῖνος Ιʹ Δούκας"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "君士坦丁十世·杜卡斯",
+    "fullNameCn": "拜占庭皇帝君士坦丁十世·杜卡斯",
+    "birthYear": 1006,
+    "deathYear": 1067,
+    "birthPlace": "Anatolia, Byzantine Empire",
+    "birthPlaceCn": "拜占庭帝国安纳托利亚",
+    "deathPlace": "Constantinople, Byzantine Empire",
+    "deathPlaceCn": "拜占庭帝国君士坦丁堡",
+    "deathCause": {
+      "kind": "normal",
+      "summary": "died of illness",
+      "summaryCn": "因病去世",
+      "detail": "died of illness",
+      "detailCn": "因病去世",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Constantine_X_Doukas"
+    },
+    "gender": "male",
+    "dynasty": "Doukas",
+    "house": "House of Doukas",
+    "culture": "Byzantine",
+    "faith": "Eastern Orthodox",
+    "primaryTitle": "Byzantine Emperor",
+    "primaryTitleCn": "拜占庭皇帝",
+    "titles": [
+      {
+        "title": "Byzantine Emperor",
+        "titleCn": "拜占庭皇帝",
+        "startYear": 1059,
+        "endYear": 1067
+      }
+    ],
+    "tags": [
+      "monarch",
+      "emperor"
+    ],
+    "rank": "emperor",
+    "importanceScore": 70,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "b83d7598-8304-4d4b-8735-e746ff8d6e56"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "0f478f9b-8bf3-4a0b-8cc9-caae43abee73"
+      ]
+    },
+    "events": [
+      {
+        "year": 1059,
+        "month": 11,
+        "day": 23,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 100,
+        "label": "Succeeded Isaac I as Byzantine emperor",
+        "labelCn": "继承伊萨克一世成为拜占庭皇帝",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Constantine_X_Doukas",
+        "note": "Isaac I selected Constantine Doukas during his abdication, bringing the Doukas family to the throne."
+      },
+      {
+        "year": 1060,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "dynasty"
+        ],
+        "weight": 80,
+        "label": "Raised Michael and Konstantios as co-emperors",
+        "labelCn": "将米海尔与康斯坦提奥斯立为共治皇帝",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Constantine_X_Doukas",
+        "note": "Constantine sought to build a hereditary Doukas succession by crowning his young sons."
+      },
+      {
+        "year": 1064,
+        "month": 8,
+        "day": 16,
+        "type": "defense",
+        "tags": [
+          "defense",
+          "defeat"
+        ],
+        "weight": 80,
+        "label": "Lost Ani to Alp Arslan's Seljuks",
+        "labelCn": "阿尼被阿尔普·阿尔斯兰攻陷",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Constantine_X_Doukas",
+        "note": "The Seljuk capture of Ani exposed the growing vulnerability of the eastern frontier during Constantine's reign."
+      },
+      {
+        "year": 1066,
+        "type": "politics",
+        "tags": [
+          "politics",
+          "political_crisis"
+        ],
+        "weight": 65,
+        "label": "Survived an assassination conspiracy",
+        "labelCn": "躲过一次刺杀阴谋",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Constantine_X_Doukas",
+        "note": "A conspiracy in Constantinople failed, but the episode reflected continuing political instability."
+      },
+      {
+        "year": 1067,
+        "month": 5,
+        "type": "death",
+        "tags": [
+          "death",
+          "king"
+        ],
+        "weight": 75,
+        "label": "Died after a prolonged illness",
+        "labelCn": "长期患病后去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Constantine_X_Doukas",
+        "note": "His death left the minor Michael VII and his brothers under the rule and guardianship of Eudokia."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Constantine_X_Doukas",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Constantine_X_Doukas",
+    "sourceNote": "Michael Psellos, Chronographia; John Skylitzes, A Synopsis of Byzantine History (Cambridge); The Cambridge History of the Byzantine Empire, 'Belle Époque or Crisis?'; Oxford Dictionary of Byzantium; World History Encyclopedia; Wikipedia supplementary chronology.",
+    "notes": "Constantine X followed Isaac I and established the Doukas family as the next hereditary imperial house. His minor sons made Eudokia Makrembolitissa's regency and subsequent marriage to Romanos IV central to the succession crisis after 1067.\n\nUnlinked family: father: Andronikos Doukas; spouse: Daughter of Constantine Dalassenos; child: Unnamed son; child: Anne Doukaina; child: Andronikos Doukas; child: Theodora Doukaina; child: Konstantios Doukas; child: Zoe Doukaina",
+    "createdDate": "20260824",
+    "createdOrder": 78
+  },
+  {
+    "id": "0f478f9b-8bf3-4a0b-8cc9-caae43abee73",
+    "firstName": "Michael",
+    "lastName": "VII Doukas",
+    "displayName": "Michael VII Doukas",
+    "fullName": "Michael VII Doukas, Byzantine Emperor",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [
+      "Michael VII",
+      "Michael Parapinakes",
+      "Michael Ducas",
+      "Μιχαὴλ Ζʹ Δούκας"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "米海尔七世·杜卡斯",
+    "fullNameCn": "拜占庭皇帝米海尔七世·杜卡斯",
+    "birthYear": 1050,
+    "deathYear": 1090,
+    "birthPlace": "Constantinople, Byzantine Empire",
+    "birthPlaceCn": "拜占庭帝国君士坦丁堡",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "Doukas",
+    "house": "House of Doukas",
+    "culture": "Byzantine",
+    "faith": "Eastern Orthodox",
+    "primaryTitle": "Byzantine Emperor",
+    "primaryTitleCn": "拜占庭皇帝",
+    "titles": [
+      {
+        "title": "Co-emperor of the Byzantine Empire",
+        "titleCn": "拜占庭帝国共治皇帝",
+        "startYear": 1060,
+        "endYear": 1071
+      },
+      {
+        "title": "Senior Byzantine Emperor",
+        "titleCn": "拜占庭帝国主要皇帝",
+        "startYear": 1071,
+        "endYear": 1078
+      }
+    ],
+    "tags": [
+      "monarch",
+      "emperor"
+    ],
+    "rank": "emperor",
+    "importanceScore": 72,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "c62527e9-cd48-45f9-bde9-62df12ed3603",
+      "motherId": "b83d7598-8304-4d4b-8735-e746ff8d6e56",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1060,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "dynasty"
+        ],
+        "weight": 75,
+        "label": "Was crowned co-emperor by Constantine X",
+        "labelCn": "由君士坦丁十世加冕为共治皇帝",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Michael_VII_Doukas",
+        "note": "Michael was elevated as the principal dynastic heir of the Doukas family."
+      },
+      {
+        "year": 1067,
+        "type": "regency",
+        "tags": [
+          "regency",
+          "dynasty"
+        ],
+        "weight": 70,
+        "label": "Remained child emperor under Eudokia's regency",
+        "labelCn": "在欧多基娅摄政下继续作为幼年皇帝",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Michael_VII_Doukas",
+        "note": "Michael retained imperial status after his father's death but did not initially exercise independent power."
+      },
+      {
+        "year": 1071,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 100,
+        "label": "Became senior emperor after Romanos IV's defeat",
+        "labelCn": "罗曼努斯四世战败后成为主要皇帝",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Michael_VII_Doukas",
+        "note": "The Doukas faction rejected Romanos's return from Seljuk captivity and established Michael as effective sole senior ruler."
+      },
+      {
+        "year": 1073,
+        "type": "rebellion",
+        "tags": [
+          "rebellion",
+          "political_crisis"
+        ],
+        "weight": 80,
+        "label": "Faced the revolt of Roussel de Bailleul in Anatolia",
+        "labelCn": "面对鲁塞尔·德·巴约尔在安纳托利亚的叛乱",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Michael_VII_Doukas",
+        "note": "The Norman mercenary Roussel created an autonomous power base and even captured members of the Doukas family, exposing the fragmentation of imperial authority."
+      },
+      {
+        "year": 1090,
+        "type": "death",
+        "tags": [
+          "death",
+          "uncertain"
+        ],
+        "weight": 55,
+        "label": "Died after a long ecclesiastical retirement",
+        "labelCn": "长期教会生活后去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Michael_VII_Doukas",
+        "note": "Michael's death is commonly placed around 1090, but the exact year and date are uncertain."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Michael_VII_Doukas",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Michael_VII_Doukas",
+    "sourceNote": "Michael Attaleiates, The History; Michael Psellos, Chronographia; Anthony Kaldellis, Streams of Gold, Rivers of Blood; Oxford Dictionary of Byzantium; The Cambridge History of the Byzantine Empire, 'Belle Époque or Crisis?'; Wikipedia supplementary chronology.",
+    "notes": "Michael VII was Constantine X and Eudokia's son and had been crowned long before becoming effective senior emperor in 1071. His reign was overwhelmed by fiscal crisis, military fragmentation and competing aristocratic rebellions, ending in abdication rather than death.\n\nUnlinked family: spouse: Maria of Alania; child: Constantine Doukas",
+    "createdDate": "20260824",
+    "createdOrder": 81
+  }
+]

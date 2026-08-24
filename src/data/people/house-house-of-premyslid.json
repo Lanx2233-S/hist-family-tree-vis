@@ -1,0 +1,147 @@
+[
+  {
+    "id": "895b64a3-721a-4ffe-b19c-22abef67c58e",
+    "firstName": "Elisabeth",
+    "lastName": "",
+    "displayName": "Elisabeth of Bohemia",
+    "fullName": "Elisabeth of Bohemia",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Elizabeth of Bohemia",
+      "Eliška Přemyslovna",
+      "Elisabeth Přemyslid"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "波希米亚的伊丽莎白",
+    "fullNameCn": "波希米亚的伊丽莎白",
+    "nicknameCn": "",
+    "birthYear": 1292,
+    "deathYear": 1330,
+    "birthPlace": "Prague, Kingdom of Bohemia",
+    "birthPlaceCn": "波希米亚王国布拉格",
+    "deathPlace": "Prague, Kingdom of Bohemia",
+    "deathPlaceCn": "波希米亚王国布拉格",
+    "gender": "female",
+    "dynasty": "Přemyslid dynasty",
+    "house": "House of Přemyslid",
+    "culture": "Bohemian",
+    "faith": "Catholic",
+    "primaryTitle": "Queen consort of Bohemia",
+    "primaryTitleCn": "波希米亚王后",
+    "titles": [
+      {
+        "title": "Countess consort of Luxembourg",
+        "titleCn": "卢森堡伯爵夫人",
+        "startYear": 1310,
+        "endYear": 1330
+      },
+      {
+        "title": "Queen consort of Bohemia",
+        "titleCn": "波希米亚王后",
+        "startYear": 1310,
+        "endYear": 1330
+      }
+    ],
+    "tags": [
+      "queen",
+      "consort",
+      "noble"
+    ],
+    "rank": "queen",
+    "importanceScore": 72,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "446624f0-f071-4c86-8933-3079d0ac1f0b",
+      "motherId": "",
+      "spouseIds": [
+        "581b42bc-541c-4083-aefb-5dd9e2249430"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "80b3801a-ffca-4136-ba92-293b6b976e85",
+        "2e2c2701-0232-49d9-92d3-46d434b157a5"
+      ]
+    },
+    "events": [
+      {
+        "year": 1310,
+        "month": 8,
+        "day": 31,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 100,
+        "label": "Married John of Luxembourg",
+        "labelCn": "与卢森堡的约翰结婚",
+        "wikiUrl": "https://www.deutsche-biographie.de/gnd120914026.html",
+        "note": "As a daughter of Wenceslaus II and surviving Přemyslid heiress, Elisabeth's marriage to John of Luxembourg provided the essential dynastic legitimacy for the Luxembourg acquisition of the Bohemian crown."
+      },
+      {
+        "year": 1311,
+        "month": 2,
+        "day": 7,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "queen"
+        ],
+        "weight": 90,
+        "label": "Was crowned Queen of Bohemia at Prague",
+        "labelCn": "在布拉格加冕为波希米亚王后",
+        "wikiUrl": "https://www.deutsche-biographie.de/gnd120914026.html",
+        "note": "Elisabeth and John were crowned together at Prague, marking the formal establishment of the Luxembourg dynasty in Bohemia."
+      },
+      {
+        "year": 1316,
+        "month": 5,
+        "day": 14,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "dynasty"
+        ],
+        "weight": 100,
+        "label": "Gave birth to the future emperor Charles IV",
+        "labelCn": "生下后来成为皇帝的查理四世",
+        "wikiUrl": "https://www.deutsche-biographie.de/gnd120914026.html",
+        "note": "Her son Wenceslaus, later known as Charles IV, became King of Bohemia and Holy Roman Emperor and represented the fusion of Luxembourg and Přemyslid legitimacy."
+      },
+      {
+        "year": 1319,
+        "type": "politics",
+        "tags": [
+          "politics",
+          "political_crisis"
+        ],
+        "weight": 80,
+        "label": "Entered a serious political conflict with King John",
+        "labelCn": "与国王约翰发生严重政治冲突",
+        "wikiUrl": "https://www.deutsche-biographie.de/gnd120914026.html",
+        "note": "John suspected that political opponents might use Elisabeth and the young Charles against him. He removed the children from her control, and the royal marriage entered a prolonged period of estrangement."
+      },
+      {
+        "year": 1330,
+        "month": 9,
+        "day": 28,
+        "type": "death",
+        "tags": [
+          "death",
+          "queen"
+        ],
+        "weight": 70,
+        "label": "Died at Prague",
+        "labelCn": "在布拉格去世",
+        "wikiUrl": "https://www.deutsche-biographie.de/gnd120914026.html",
+        "note": "Elisabeth died in Prague and was buried at the royal Cistercian foundation of Zbraslav."
+      }
+    ],
+    "wikiUrl": "https://www.deutsche-biographie.de/gnd120914026.html",
+    "portraitUrl": "",
+    "sourceUrl": "https://www.deutsche-biographie.de/gnd120914026.html",
+    "sourceNote": "Deutsche Biographie entry GND 120914026; Czech historical scholarship on Eliška Přemyslovna; studies of John of Luxembourg and Charles IV; genealogical studies of the Přemyslid-Luxembourg succession.",
+    "notes": "Elisabeth was the critical Přemyslid heiress through whom John of Luxembourg obtained dynastic legitimacy in Bohemia. Their son Charles IV inherited both the Luxembourg paternal line and the prestigious Přemyslid royal ancestry.\n\nConfidence / caveats: The Deutsche Biographie interface associated with GND 120914026 contains misleading indexing that can display 'Elisabeth von Bayern', but the dates, Prague biography, aliases and family links identify the subject as Elisabeth/Eliška of Bohemia. The marriage ceremony is variously dated 31 August or 1 September 1310. A specific disease such as tuberculosis appears in some secondary accounts but is not secure enough to use as her death cause.\n\nUnlinked family: Judith of Habsburg (not uniquely matched in the roster); Margaret of Bohemia (not uniquely matched in the roster); Bonne of Luxembourg (not uniquely matched in the roster); Ottokar of Bohemia (not uniquely matched in the roster); Anna of Bohemia (not uniquely matched in the roster).",
+    "createdDate": "20260823"
+  }
+]

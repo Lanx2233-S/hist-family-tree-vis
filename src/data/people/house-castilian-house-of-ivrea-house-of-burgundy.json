@@ -1,0 +1,1363 @@
+[
+  {
+    "id": "adf5bf6b-be23-47c6-8e20-61bf25ab6e87",
+    "firstName": "Henry",
+    "lastName": "I of Castile",
+    "displayName": "Henry I of Castile",
+    "fullName": "Henry I, King of Castile",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [
+      "Henry I of Castile and Toledo",
+      "Enrique I de Castilla"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "卡斯蒂利亚的亨利一世",
+    "fullNameCn": "卡斯蒂利亚国王亨利一世",
+    "birthYear": 1204,
+    "deathYear": 1217,
+    "birthPlace": "Valladolid, Kingdom of Castile",
+    "birthPlaceCn": "卡斯蒂利亚王国巴利亚多利德",
+    "deathPlace": "Palencia, Kingdom of Castile",
+    "deathPlaceCn": "卡斯蒂利亚王国帕伦西亚",
+    "deathCause": {
+      "kind": "violent_uncertain",
+      "summary": "fatal head injury caused by a falling roof tile",
+      "summaryCn": "被坠落的屋瓦击中头部后伤重去世",
+      "detail": "fatal head injury caused by a falling roof tile",
+      "detailCn": "被坠落的屋瓦击中头部后伤重去世",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Henry_I_of_Castile"
+    },
+    "gender": "male",
+    "dynasty": "Ivrea",
+    "house": "Castilian House of Ivrea (House of Burgundy)",
+    "culture": "Castilian",
+    "faith": "Catholic",
+    "primaryTitle": "King of Castile and Toledo",
+    "primaryTitleCn": "卡斯蒂利亚与托莱多国王",
+    "titles": [
+      {
+        "title": "King of Castile and Toledo",
+        "titleCn": "卡斯蒂利亚与托莱多国王",
+        "startYear": 1214,
+        "endYear": 1217
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 58,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "c1035000-0000-4000-8000-000000000010",
+      "motherId": "389f5949-fcb8-4bd6-a394-f4523a0d69af",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1214,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 100,
+        "label": "Succeeded Alfonso VIII as a minor king",
+        "labelCn": "作为未成年君主继承阿方索八世的王位",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_I_of_Castile",
+        "note": "After Alfonso VIII died, the ten-year-old Henry inherited Castile. His mother Eleanor of England and then his sister Berengaria stood at the center of the minority government."
+      },
+      {
+        "year": 1215,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 65,
+        "label": "Married Mafalda of Portugal in a short-lived dynastic match",
+        "labelCn": "与葡萄牙的玛法尔达缔结短暂的王室婚姻",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_I_of_Castile",
+        "note": "Álvaro Núñez de Lara arranged Henry's marriage to Mafalda of Portugal. The union was soon dissolved on grounds of consanguinity and produced no children."
+      },
+      {
+        "year": 1217,
+        "month": 6,
+        "day": 6,
+        "type": "death",
+        "tags": [
+          "death",
+          "violent"
+        ],
+        "weight": 100,
+        "label": "Died after being struck by a falling roof tile",
+        "labelCn": "被坠落屋瓦击中后死亡",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_I_of_Castile",
+        "note": "Henry was struck on the head by a tile while playing at the episcopal palace in Palencia and died on 6 June 1217. His death without issue opened the succession to his sister Berengaria."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Henry_I_of_Castile",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Henry_I_of_Castile",
+    "sourceNote": "Miriam Shadis, Berenguela of Castile (1180–1246) and Her Family; Joseph F. O'Callaghan, A History of Medieval Spain; Peter Linehan, Spain, 1157–1300: A Partible Inheritance; Wikipedia used as a supplementary chronology index.",
+    "notes": "Henry I was the last male child of Alfonso VIII to rule Castile. His accidental death at thirteen transferred the dynastic claim to his elder sister Berengaria and, through her, to Ferdinand III.\n\nUnlinked family: spouse: Mafalda of Portugal",
+    "createdDate": "20260824",
+    "createdOrder": 650
+  },
+  {
+    "id": "1dc9b477-532f-4b5a-a7ce-6a77980575b2",
+    "firstName": "Berengaria",
+    "lastName": "of Castile",
+    "displayName": "Berengaria of Castile",
+    "fullName": "Berengaria of Castile",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [
+      "Berenguela of Castile",
+      "Berengaria the Great",
+      "Berenguela la Grande"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "卡斯蒂利亚的贝伦加利亚",
+    "fullNameCn": "卡斯蒂利亚的贝伦加利亚",
+    "birthYear": "",
+    "deathYear": 1246,
+    "birthPlace": "Burgos, Kingdom of Castile",
+    "birthPlaceCn": "卡斯蒂利亚王国布尔戈斯",
+    "deathPlace": "Las Huelgas near Burgos, Kingdom of Castile",
+    "deathPlaceCn": "卡斯蒂利亚王国布尔戈斯附近拉斯韦尔加斯",
+    "gender": "female",
+    "dynasty": "Ivrea",
+    "house": "Castilian House of Ivrea (House of Burgundy)",
+    "culture": "Castilian",
+    "faith": "Catholic",
+    "primaryTitle": "Queen of Castile",
+    "primaryTitleCn": "卡斯蒂利亚女王",
+    "titles": [
+      {
+        "title": "Queen consort of León",
+        "titleCn": "莱昂王后",
+        "startYear": 1197,
+        "endYear": 1204
+      },
+      {
+        "title": "Regent of Castile for Henry I",
+        "titleCn": "亨利一世的卡斯蒂利亚摄政",
+        "startYear": 1214,
+        "endYear": 1217
+      },
+      {
+        "title": "Queen of Castile",
+        "titleCn": "卡斯蒂利亚女王",
+        "startYear": 1217,
+        "endYear": 1217
+      }
+    ],
+    "tags": [
+      "monarch",
+      "queen"
+    ],
+    "rank": "king",
+    "importanceScore": 80,
+    "historicalRating": 7,
+    "relationships": {
+      "fatherId": "c1035000-0000-4000-8000-000000000010",
+      "motherId": "389f5949-fcb8-4bd6-a394-f4523a0d69af",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "0e6f4806-97e9-4338-973c-dae9a9a07015"
+      ]
+    },
+    "events": [
+      {
+        "year": 1197,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 85,
+        "label": "Married Alfonso IX of León",
+        "labelCn": "与莱昂国王阿方索九世结婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Berengaria_of_Castile",
+        "note": "The marriage was intended to reduce conflict between Castile and León and produced Ferdinand III among five children."
+      },
+      {
+        "year": 1204,
+        "type": "annulment",
+        "tags": [
+          "annulment",
+          "church"
+        ],
+        "weight": 80,
+        "label": "Her marriage to Alfonso IX was annulled for consanguinity",
+        "labelCn": "与阿方索九世的婚姻因近亲关系被教会解除",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Berengaria_of_Castile",
+        "note": "Pope Innocent III enforced the annulment because the spouses were closely related. Their children, including Ferdinand III, remained legitimate."
+      },
+      {
+        "year": 1214,
+        "type": "regency",
+        "tags": [
+          "regency",
+          "government"
+        ],
+        "weight": 85,
+        "label": "Entered the minority government of Henry I",
+        "labelCn": "进入亨利一世未成年时期的摄政政府",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Berengaria_of_Castile",
+        "note": "After Alfonso VIII and Eleanor of England died in rapid succession, Berengaria became the central royal figure protecting her young brother Henry I, though Álvaro Núñez de Lara later obtained custody and day-to-day control."
+      },
+      {
+        "year": 1217,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 100,
+        "label": "Succeeded Henry I as Queen of Castile",
+        "labelCn": "亨利一世死后继承卡斯蒂利亚王位",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Berengaria_of_Castile",
+        "note": "Henry I died without issue on 6 June 1217, making Berengaria the senior dynastic claimant to Castile."
+      },
+      {
+        "year": 1217,
+        "type": "renunciation",
+        "tags": [
+          "title",
+          "politics"
+        ],
+        "weight": 100,
+        "label": "Transferred the Castilian crown to her son Ferdinand III",
+        "labelCn": "将卡斯蒂利亚王位转让给其子斐迪南三世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Berengaria_of_Castile",
+        "note": "Berengaria quickly secured recognition of Ferdinand III as king while retaining exceptional political influence during his reign."
+      },
+      {
+        "year": 1230,
+        "type": "diplomacy",
+        "tags": [
+          "diplomacy",
+          "succession"
+        ],
+        "weight": 95,
+        "label": "Helped secure Ferdinand III's succession to León",
+        "labelCn": "协助斐迪南三世取得莱昂王位",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Berengaria_of_Castile",
+        "note": "After Alfonso IX's death, Berengaria negotiated with his daughters Sancha and Dulce and their mother Teresa of Portugal. The settlement allowed Ferdinand III to unite the crowns of Castile and León."
+      },
+      {
+        "year": 1246,
+        "month": 11,
+        "day": 8,
+        "type": "death",
+        "tags": [
+          "death",
+          "queen"
+        ],
+        "weight": 70,
+        "label": "Died after helping consolidate the union of Castile and León",
+        "labelCn": "在协助巩固卡斯蒂利亚与莱昂联合后去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Berengaria_of_Castile",
+        "note": "Berengaria died in 1246 after decades as a major dynastic and political adviser to her son Ferdinand III."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Berengaria_of_Castile",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Berengaria_of_Castile",
+    "sourceNote": "Miriam Shadis, Berenguela of Castile (1180–1246) and Her Family; Joseph F. O'Callaghan, A History of Medieval Spain; Salvador Martínez, Berenguela la Grande y su época; Wikipedia used as a supplementary chronology index.",
+    "notes": "Berengaria was the decisive dynastic bridge from Alfonso VIII to Ferdinand III. Her brief queenship in 1217 was not political insignificance: she transferred the crown to her son and remained a major diplomatic and governmental actor behind the permanent union of Castile and León.\n\nUnlinked family: spouse: Alfonso IX of León; child: Berengaria of León, Latin Empress; child: Constance of León; child: Eleanor of León; child: Alfonso of Molina",
+    "createdDate": "20260824",
+    "createdOrder": 651
+  },
+  {
+    "id": "0e6f4806-97e9-4338-973c-dae9a9a07015",
+    "firstName": "Ferdinand",
+    "lastName": "III of Castile",
+    "displayName": "Ferdinand III of Castile",
+    "fullName": "Ferdinand III, King of Castile and León",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [
+      "Ferdinand the Saint",
+      "Saint Ferdinand III",
+      "Fernando III el Santo",
+      "San Fernando"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "卡斯蒂利亚的斐迪南三世",
+    "fullNameCn": "卡斯蒂利亚与莱昂国王斐迪南三世",
+    "birthYear": "",
+    "deathYear": 1252,
+    "birthPlace": "Monastery of Valparaíso, near Peleas de Arriba, Kingdom of León",
+    "birthPlaceCn": "莱昂王国佩莱阿斯-德阿里瓦附近瓦尔帕莱索修道院",
+    "deathPlace": "Seville, Crown of Castile",
+    "deathPlaceCn": "卡斯蒂利亚王冠塞维利亚",
+    "gender": "male",
+    "dynasty": "Ivrea",
+    "house": "Castilian House of Ivrea (House of Burgundy)",
+    "culture": "Castilian-Leonese",
+    "faith": "Catholic",
+    "primaryTitle": "King of Castile and León",
+    "primaryTitleCn": "卡斯蒂利亚与莱昂国王",
+    "titles": [
+      {
+        "title": "King of Castile and Toledo",
+        "titleCn": "卡斯蒂利亚与托莱多国王",
+        "startYear": 1217,
+        "endYear": 1252
+      },
+      {
+        "title": "King of León and Galicia",
+        "titleCn": "莱昂与加利西亚国王",
+        "startYear": 1230,
+        "endYear": 1252
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 95,
+    "historicalRating": 9,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "1dc9b477-532f-4b5a-a7ce-6a77980575b2",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "1ed74ac1-983b-44be-940b-3e6b419ac387"
+      ]
+    },
+    "events": [
+      {
+        "year": 1217,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 100,
+        "label": "Became King of Castile after Berengaria transferred the crown",
+        "labelCn": "贝伦加利亚让位后成为卡斯蒂利亚国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ferdinand_III_of_Castile",
+        "note": "Berengaria secured Ferdinand's recognition as king after the death of Henry I. Her continuing political support was crucial during his early reign."
+      },
+      {
+        "year": 1219,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 80,
+        "label": "Married Beatrice of Swabia",
+        "labelCn": "与士瓦本的贝阿特丽丝结婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ferdinand_III_of_Castile",
+        "note": "Beatrice was a Hohenstaufen princess and daughter of Philip of Swabia. The marriage connected the Castilian royal line with the imperial Staufer dynasty."
+      },
+      {
+        "year": 1230,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 100,
+        "label": "Succeeded to León and permanently united the two crowns",
+        "labelCn": "继承莱昂王位并使卡斯蒂利亚与莱昂王冠永久联合",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ferdinand_III_of_Castile",
+        "note": "After Alfonso IX died, negotiations involving Berengaria and Teresa of Portugal resolved the claims of Sancha and Dulce. Ferdinand's accession created the lasting Crown of Castile."
+      },
+      {
+        "year": 1233,
+        "type": "conquest",
+        "tags": [
+          "conquest",
+          "campaign"
+        ],
+        "weight": 75,
+        "label": "Captured Úbeda during the expansion into Andalusia",
+        "labelCn": "在向安达卢西亚扩张中攻占乌韦达",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ferdinand_III_of_Castile",
+        "note": "The capture of Úbeda formed part of Ferdinand's sustained expansion into the Guadalquivir valley."
+      },
+      {
+        "year": 1236,
+        "type": "conquest",
+        "tags": [
+          "conquest",
+          "campaign"
+        ],
+        "weight": 95,
+        "label": "Captured Córdoba",
+        "labelCn": "攻占科尔多瓦",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ferdinand_III_of_Castile",
+        "note": "Ferdinand's forces took Córdoba, the former Umayyad capital, one of the most symbolically important conquests of the thirteenth-century Reconquista."
+      },
+      {
+        "year": 1237,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 65,
+        "label": "Married Joan of Dammartin",
+        "labelCn": "与达马丁的琼结婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ferdinand_III_of_Castile",
+        "note": "After Beatrice's death, Ferdinand married Joan of Dammartin, heiress of Ponthieu and Aumale, creating another major trans-Pyrenean dynastic connection."
+      },
+      {
+        "year": 1243,
+        "type": "treaty",
+        "tags": [
+          "treaty",
+          "territory"
+        ],
+        "weight": 90,
+        "label": "Established Castilian overlordship over Murcia",
+        "labelCn": "确立对穆尔西亚的卡斯蒂利亚宗主权",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ferdinand_III_of_Castile",
+        "note": "The Treaty of Alcaraz placed most of the Muslim kingdom of Murcia under Castilian protection and vassalage, significantly extending Ferdinand's southeastern sphere."
+      },
+      {
+        "year": 1244,
+        "type": "treaty",
+        "tags": [
+          "treaty",
+          "territory"
+        ],
+        "weight": 80,
+        "label": "Defined the Castilian-Aragonese frontier of conquest",
+        "labelCn": "划定卡斯蒂利亚与阿拉贡的征服边界",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ferdinand_III_of_Castile",
+        "note": "The Treaty of Almizra with James I of Aragon clarified the respective zones of expansion in southeastern Iberia."
+      },
+      {
+        "year": 1246,
+        "type": "conquest",
+        "tags": [
+          "conquest",
+          "treaty"
+        ],
+        "weight": 90,
+        "label": "Captured Jaén and reduced Granada to tributary status",
+        "labelCn": "攻占哈恩并使格拉纳达进入纳贡关系",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ferdinand_III_of_Castile",
+        "note": "Muhammad I of Granada surrendered Jaén and accepted a vassal and tributary relationship with Ferdinand, allowing the Nasrid emirate to survive under Castilian pressure."
+      },
+      {
+        "year": 1248,
+        "type": "conquest",
+        "tags": [
+          "conquest",
+          "campaign"
+        ],
+        "weight": 100,
+        "label": "Captured Seville",
+        "labelCn": "攻占塞维利亚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ferdinand_III_of_Castile",
+        "note": "After a long siege supported by a Castilian fleet, Seville surrendered in November 1248. The conquest transformed the political geography of the Guadalquivir valley."
+      },
+      {
+        "year": 1252,
+        "month": 5,
+        "day": 30,
+        "type": "death",
+        "tags": [
+          "death",
+          "king"
+        ],
+        "weight": 80,
+        "label": "Died at Seville and was succeeded by Alfonso X",
+        "labelCn": "在塞维利亚去世，由阿方索十世继位",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ferdinand_III_of_Castile",
+        "note": "Ferdinand died on 30 May 1252 after one of the most territorially transformative reigns in medieval Iberia."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Ferdinand_III_of_Castile",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Ferdinand_III_of_Castile",
+    "sourceNote": "Joseph F. O'Callaghan, A History of Medieval Spain; Peter Linehan, Spain, 1157–1300: A Partible Inheritance; Robert A. MacDonald, 'The Kingdom of Castile in the Thirteenth Century'; Encyclopaedia Britannica and Wikipedia used for chronology cross-checks.",
+    "notes": "Ferdinand III permanently united Castile and León and conquered most of the Guadalquivir valley, laying the territorial foundations of the later Crown of Castile. He was canonized in 1671, but the posthumous canonization is not counted as a lifetime event.\n\nUnlinked family: father: Alfonso IX of León; spouse: Beatrice of Swabia; spouse: Joan, Countess of Ponthieu; child: Fadrique of Castile; child: Henry of Castile the Senator; child: Philip of Castile; child: Sancho of Castile, Archbishop of Toledo; child: Manuel of Castile, Lord of Villena; child: Ferdinand II, Count of Aumale; child: Eleanor of Castile, Queen of England",
+    "createdDate": "20260824",
+    "createdOrder": 652
+  },
+  {
+    "id": "1ed74ac1-983b-44be-940b-3e6b419ac387",
+    "firstName": "Alfonso",
+    "lastName": "X of Castile",
+    "displayName": "Alfonso X of Castile",
+    "fullName": "Alfonso X the Wise, King of Castile and León",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [
+      "Alfonso the Wise",
+      "Alfonso the Learned",
+      "Alfonso X el Sabio",
+      "Alfons X"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "卡斯蒂利亚的阿方索十世“智者”",
+    "fullNameCn": "卡斯蒂利亚与莱昂国王阿方索十世“智者”",
+    "birthYear": 1221,
+    "deathYear": 1284,
+    "birthPlace": "Toledo, Kingdom of Castile",
+    "birthPlaceCn": "卡斯蒂利亚王国托莱多",
+    "deathPlace": "Seville, Crown of Castile",
+    "deathPlaceCn": "卡斯蒂利亚王冠塞维利亚",
+    "gender": "male",
+    "dynasty": "Ivrea",
+    "house": "Castilian House of Ivrea (House of Burgundy)",
+    "culture": "Castilian-Leonese",
+    "faith": "Catholic",
+    "primaryTitle": "King of Castile and León",
+    "primaryTitleCn": "卡斯蒂利亚与莱昂国王",
+    "titles": [
+      {
+        "title": "King of Castile, León and Galicia",
+        "titleCn": "卡斯蒂利亚、莱昂与加利西亚国王",
+        "startYear": 1252,
+        "endYear": 1284
+      },
+      {
+        "title": "Elected King of Germany",
+        "titleCn": "当选德意志国王",
+        "startYear": 1257,
+        "endYear": 1275
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 95,
+    "historicalRating": 9,
+    "relationships": {
+      "fatherId": "0e6f4806-97e9-4338-973c-dae9a9a07015",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "be9cc4d9-cd59-4203-97d4-78920da35a23"
+      ]
+    },
+    "events": [
+      {
+        "year": 1252,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 100,
+        "label": "Succeeded Ferdinand III as King of Castile and León",
+        "labelCn": "继承斐迪南三世成为卡斯蒂利亚与莱昂国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Alfonso_X_of_Castile",
+        "note": "Alfonso inherited the united Crown of Castile after his father's death on 30 May 1252."
+      },
+      {
+        "year": 1255,
+        "type": "administration",
+        "tags": [
+          "law",
+          "government"
+        ],
+        "weight": 85,
+        "label": "Promulgated the Fuero Real as part of his legal centralization",
+        "labelCn": "颁布《王室法典》推进法律统一与王权集中",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Alfonso_X_of_Castile",
+        "note": "The Fuero Real formed part of Alfonso's broader effort to regularize royal law and replace diverse local customs in selected towns."
+      },
+      {
+        "year": 1257,
+        "month": 4,
+        "day": 1,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "king"
+        ],
+        "weight": 90,
+        "label": "Was elected King of Germany by a rival electoral faction",
+        "labelCn": "被部分选侯推举为德意志国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Alfonso_X_of_Castile",
+        "note": "On 1 April 1257 the electors of Trier, Saxony and Brandenburg, with a disputed fourth vote, chose Alfonso against Richard of Cornwall. Alfonso never entered Germany or received an Aachen coronation."
+      },
+      {
+        "year": 1264,
+        "type": "rebellion",
+        "tags": [
+          "rebellion",
+          "political_crisis"
+        ],
+        "weight": 90,
+        "label": "Faced the Mudéjar revolt in Murcia and Andalusia",
+        "labelCn": "遭遇穆尔西亚与安达卢西亚的穆德哈尔叛乱",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Alfonso_X_of_Castile",
+        "note": "A large Muslim revolt challenged Castilian rule in recently conquered territories. James I of Aragon later assisted Alfonso in restoring control over Murcia."
+      },
+      {
+        "year": 1267,
+        "type": "treaty",
+        "tags": [
+          "treaty",
+          "territory"
+        ],
+        "weight": 80,
+        "label": "Concluded the Treaty of Badajoz with Portugal",
+        "labelCn": "与葡萄牙缔结巴达霍斯条约",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Alfonso_X_of_Castile",
+        "note": "The treaty settled important questions over the Algarve and the Castilian-Portuguese frontier, with the Guadiana becoming a major boundary reference."
+      },
+      {
+        "year": 1272,
+        "type": "rebellion",
+        "tags": [
+          "rebellion",
+          "political_crisis"
+        ],
+        "weight": 85,
+        "label": "Faced a major revolt of the Castilian nobility",
+        "labelCn": "遭遇卡斯蒂利亚大贵族的大规模叛乱",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Alfonso_X_of_Castile",
+        "note": "Leading magnates opposed Alfonso's fiscal and governmental policies and withdrew toward Granada. A negotiated reconciliation followed in 1273."
+      },
+      {
+        "year": 1273,
+        "type": "government",
+        "tags": [
+          "government",
+          "administration"
+        ],
+        "weight": 80,
+        "label": "Granted privileges to the Mesta",
+        "labelCn": "授予梅斯塔牧羊业组织重要特权",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Alfonso_X_of_Castile",
+        "note": "Alfonso organized and privileged the Honrado Concejo de la Mesta, reinforcing transhumant pastoral institutions with major long-term economic consequences."
+      },
+      {
+        "year": 1275,
+        "type": "renunciation",
+        "tags": [
+          "title",
+          "politics"
+        ],
+        "weight": 85,
+        "label": "Abandoned his active claim to the German crown",
+        "labelCn": "放弃继续争夺德意志王位",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Alfonso_X_of_Castile",
+        "note": "After negotiations with Pope Gregory X at Beaucaire, Alfonso effectively renounced the imperial project that had consumed substantial diplomatic and financial resources."
+      },
+      {
+        "year": 1275,
+        "type": "political_crisis",
+        "tags": [
+          "succession",
+          "political_crisis"
+        ],
+        "weight": 100,
+        "label": "The death of Ferdinand de la Cerda triggered a succession crisis",
+        "labelCn": "长子费尔南多·德拉塞尔达去世引发王位继承危机",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Alfonso_X_of_Castile",
+        "note": "Ferdinand de la Cerda died while facing a Marinid-Granadan invasion. Conflict then arose between Ferdinand's sons and Alfonso's second son Sancho over the succession."
+      },
+      {
+        "year": 1282,
+        "type": "rebellion",
+        "tags": [
+          "rebellion",
+          "succession"
+        ],
+        "weight": 100,
+        "label": "Sancho led a rebellion that stripped Alfonso of most effective power",
+        "labelCn": "桑乔发动叛乱，使阿方索失去大部分实际权力",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Alfonso_X_of_Castile",
+        "note": "A coalition of nobles and towns recognized Sancho as effective ruler. Alfonso retained loyalty mainly in Seville, Murcia and Badajoz and attempted to exclude Sancho in his final testament."
+      },
+      {
+        "year": 1284,
+        "month": 4,
+        "day": 4,
+        "type": "death",
+        "tags": [
+          "death",
+          "king"
+        ],
+        "weight": 80,
+        "label": "Died at Seville during the unresolved succession conflict",
+        "labelCn": "在继承危机尚未解决时于塞维利亚去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Alfonso_X_of_Castile",
+        "note": "Alfonso died on 4 April 1284. Sancho IV succeeded in practice despite Alfonso's final attempt to favor the descendants of Ferdinand de la Cerda."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Alfonso_X_of_Castile",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Alfonso_X_of_Castile",
+    "sourceNote": "Joseph F. O'Callaghan, The Learned King: The Reign of Alfonso X of Castile; H. Salvador Martínez, Alfonso X, the Learned; Peter Linehan, Spain, 1157–1300: A Partible Inheritance; Jaime de Salazar y Acha, 'Alfonso X y su descendencia'; Wikipedia used for chronology cross-checks.",
+    "notes": "Alfonso X combined ambitious legal, scientific and literary patronage with an expensive and ultimately unsuccessful bid for the German crown. His succession legislation and the premature death of Ferdinand de la Cerda helped produce the civil conflict that brought Sancho IV to power.\n\nUnlinked family: mother: Beatrice of Swabia; spouse: Violant of Aragon; child: Berengaria of Castile, Lady of Guadalajara; child: Beatrice of Castile, Marchioness of Montferrat; child: Ferdinand de la Cerda; child: Peter of Castile, Lord of Ledesma; child: John of Castile, Lord of Valencia de Campos; child: Isabella of Castile; child: Violant of Castile; child: James of Castile, Lord of Cameros",
+    "createdDate": "20260824",
+    "createdOrder": 653
+  },
+  {
+    "id": "be9cc4d9-cd59-4203-97d4-78920da35a23",
+    "firstName": "Sancho",
+    "lastName": "IV of Castile",
+    "displayName": "Sancho IV of Castile",
+    "fullName": "Sancho IV the Brave, King of Castile and León",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [
+      "Sancho the Brave",
+      "Sancho IV el Bravo",
+      "Sancho IV of Castile and León"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "卡斯蒂利亚的桑乔四世",
+    "fullNameCn": "卡斯蒂利亚与莱昂国王桑乔四世“勇敢者”",
+    "birthYear": 1258,
+    "deathYear": 1295,
+    "birthPlace": "Valladolid, Crown of Castile",
+    "birthPlaceCn": "卡斯蒂利亚王冠巴利亚多利德",
+    "deathPlace": "Toledo, Crown of Castile",
+    "deathPlaceCn": "卡斯蒂利亚王冠托莱多",
+    "gender": "male",
+    "dynasty": "Ivrea",
+    "house": "Castilian House of Ivrea (House of Burgundy)",
+    "culture": "Castilian-Leonese",
+    "faith": "Catholic",
+    "primaryTitle": "King of Castile and León",
+    "primaryTitleCn": "卡斯蒂利亚与莱昂国王",
+    "titles": [
+      {
+        "title": "King of Castile, León and Galicia",
+        "titleCn": "卡斯蒂利亚、莱昂与加利西亚国王",
+        "startYear": 1284,
+        "endYear": 1295
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 72,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "1ed74ac1-983b-44be-940b-3e6b419ac387",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "517aa9a0-b775-4054-8b6e-589d14b34511"
+      ]
+    },
+    "events": [
+      {
+        "year": 1282,
+        "type": "rebellion",
+        "tags": [
+          "rebellion",
+          "succession"
+        ],
+        "weight": 100,
+        "label": "Led a rebellion against Alfonso X and assumed effective government",
+        "labelCn": "发动反对阿方索十世的叛乱并取得实际政权",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Sancho_IV_of_Castile",
+        "note": "Sancho exploited the succession dispute following Ferdinand de la Cerda's death and gained the support of much of the nobility and many towns."
+      },
+      {
+        "year": 1282,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 80,
+        "label": "Married María de Molina",
+        "labelCn": "与玛丽亚·德·莫利纳结婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Sancho_IV_of_Castile",
+        "note": "The marriage became central to the continuation of the dynasty, although its canonical validity was initially disputed because of consanguinity and prior marital impediments."
+      },
+      {
+        "year": 1284,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 100,
+        "label": "Succeeded Alfonso X as King of Castile and León",
+        "labelCn": "阿方索十世去世后继承卡斯蒂利亚与莱昂王位",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Sancho_IV_of_Castile",
+        "note": "Sancho took the crown despite his father's final attempt to favor the descendants of Ferdinand de la Cerda, leaving a continuing legitimacy dispute."
+      },
+      {
+        "year": 1292,
+        "type": "conquest",
+        "tags": [
+          "conquest",
+          "campaign"
+        ],
+        "weight": 85,
+        "label": "Captured Tarifa from the Marinids",
+        "labelCn": "从马林王朝手中攻占塔里法",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Sancho_IV_of_Castile",
+        "note": "The capture of Tarifa strengthened Castilian control of the Strait of Gibraltar and became strategically important in the continuing contest with North African powers."
+      },
+      {
+        "year": 1295,
+        "month": 4,
+        "day": 25,
+        "type": "death",
+        "tags": [
+          "death",
+          "king"
+        ],
+        "weight": 75,
+        "label": "Died at Toledo, leaving a child king",
+        "labelCn": "在托莱多去世，留下未成年继承人",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Sancho_IV_of_Castile",
+        "note": "Sancho died on 25 April 1295. His nine-year-old son Ferdinand IV succeeded under the politically difficult regency of María de Molina."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Sancho_IV_of_Castile",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Sancho_IV_of_Castile",
+    "sourceNote": "Peter Linehan, Spain, 1157–1300: A Partible Inheritance; Joseph F. O'Callaghan, A History of Medieval Spain; J. N. Hillgarth, The Spanish Kingdoms, 1250–1516; Wikipedia used as a supplementary chronology index.",
+    "notes": "Sancho IV won the crown through a disputed succession against the claims of the Infantes de la Cerda. His marriage to María de Molina produced Ferdinand IV and allowed the direct Ivrea/Burgundy line to continue despite persistent questions over canonical legitimacy.\n\nUnlinked family: mother: Violant of Aragon; spouse: María de Molina; child: Isabella of Castile, Queen of Aragon; child: Alfonso of Castile; child: Henry of Castile; child: Peter of Castile, Lord of Cameros; child: Philip of Castile, Lord of Cabrera and Ribera; child: Beatrice of Castile, Queen of Portugal",
+    "createdDate": "20260824",
+    "createdOrder": 654
+  },
+  {
+    "id": "517aa9a0-b775-4054-8b6e-589d14b34511",
+    "firstName": "Ferdinand",
+    "lastName": "IV of Castile",
+    "displayName": "Ferdinand IV of Castile",
+    "fullName": "Ferdinand IV, King of Castile and León",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [
+      "Ferdinand the Summoned",
+      "Fernando IV el Emplazado",
+      "Ferdinand IV of Castile and León"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "卡斯蒂利亚的斐迪南四世",
+    "fullNameCn": "卡斯蒂利亚与莱昂国王斐迪南四世",
+    "birthYear": 1285,
+    "deathYear": 1312,
+    "birthPlace": "Seville, Crown of Castile",
+    "birthPlaceCn": "卡斯蒂利亚王冠塞维利亚",
+    "deathPlace": "Jaén, Crown of Castile",
+    "deathPlaceCn": "卡斯蒂利亚王冠哈恩",
+    "gender": "male",
+    "dynasty": "Ivrea",
+    "house": "Castilian House of Ivrea (House of Burgundy)",
+    "culture": "Castilian-Leonese",
+    "faith": "Catholic",
+    "primaryTitle": "King of Castile and León",
+    "primaryTitleCn": "卡斯蒂利亚与莱昂国王",
+    "titles": [
+      {
+        "title": "King of Castile, León and Galicia",
+        "titleCn": "卡斯蒂利亚、莱昂与加利西亚国王",
+        "startYear": 1295,
+        "endYear": 1312
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 67,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "be9cc4d9-cd59-4203-97d4-78920da35a23",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "1623e0c3-ccd6-49bd-9e4c-f1f5cdb2c741"
+      ]
+    },
+    "events": [
+      {
+        "year": 1295,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 100,
+        "label": "Succeeded Sancho IV as a child king",
+        "labelCn": "作为幼王继承桑乔四世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ferdinand_IV_of_Castile",
+        "note": "Ferdinand was only nine when Sancho IV died. His mother María de Molina defended his throne against rival dynastic claims and noble factions."
+      },
+      {
+        "year": 1297,
+        "type": "treaty",
+        "tags": [
+          "treaty",
+          "territory"
+        ],
+        "weight": 90,
+        "label": "The Treaty of Alcañices stabilized the Portuguese frontier",
+        "labelCn": "《阿尔卡尼塞斯条约》稳定卡斯蒂利亚与葡萄牙边界",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ferdinand_IV_of_Castile",
+        "note": "The settlement with King Denis of Portugal ended a major external challenge during Ferdinand's minority and established one of Europe's most durable medieval frontiers."
+      },
+      {
+        "year": 1302,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 75,
+        "label": "Married Constance of Portugal",
+        "labelCn": "与葡萄牙的康斯坦丝结婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ferdinand_IV_of_Castile",
+        "note": "The marriage reinforced the Castilian-Portuguese settlement and produced the future Alfonso XI."
+      },
+      {
+        "year": 1309,
+        "type": "conquest",
+        "tags": [
+          "conquest",
+          "campaign"
+        ],
+        "weight": 90,
+        "label": "Captured Gibraltar",
+        "labelCn": "攻占直布罗陀",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ferdinand_IV_of_Castile",
+        "note": "During a coordinated war against Granada, Castilian forces captured Gibraltar, although the simultaneous siege of Algeciras failed."
+      },
+      {
+        "year": 1312,
+        "month": 9,
+        "day": 7,
+        "type": "death",
+        "tags": [
+          "death",
+          "king"
+        ],
+        "weight": 75,
+        "label": "Died suddenly at Jaén",
+        "labelCn": "在哈恩突然去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ferdinand_IV_of_Castile",
+        "note": "Ferdinand died unexpectedly on 7 September 1312 at the age of twenty-six, leaving his infant son Alfonso XI to another prolonged minority."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Ferdinand_IV_of_Castile",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Ferdinand_IV_of_Castile",
+    "sourceNote": "César González Mínguez, Fernando IV de Castilla (1295–1312); J. N. Hillgarth, The Spanish Kingdoms, 1250–1516; Joseph F. O'Callaghan, A History of Medieval Spain; Wikipedia used as a supplementary chronology index.",
+    "notes": "Ferdinand IV's reign was dominated first by a contested minority and later by attempts to recover royal authority and resume expansion against Granada. His sudden death created another long regency for his infant son Alfonso XI.\n\nUnlinked family: mother: María de Molina; spouse: Constance of Portugal; child: Eleanor of Castile, Queen of Aragon; child: Constance of Castile",
+    "createdDate": "20260824",
+    "createdOrder": 655
+  },
+  {
+    "id": "1623e0c3-ccd6-49bd-9e4c-f1f5cdb2c741",
+    "firstName": "Alfonso",
+    "lastName": "XI of Castile",
+    "displayName": "Alfonso XI of Castile",
+    "fullName": "Alfonso XI, King of Castile and León",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [
+      "Alfonso the Avenger",
+      "Alfonso the Justiciar",
+      "Alfonso XI el Justiciero",
+      "Alfonso XI of Castile and León"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "卡斯蒂利亚的阿方索十一世",
+    "fullNameCn": "卡斯蒂利亚与莱昂国王阿方索十一世",
+    "birthYear": 1311,
+    "deathYear": 1350,
+    "birthPlace": "Salamanca, Crown of Castile",
+    "birthPlaceCn": "卡斯蒂利亚王冠萨拉曼卡",
+    "deathPlace": "Castilian camp before Gibraltar",
+    "deathPlaceCn": "直布罗陀城外的卡斯蒂利亚军营",
+    "deathCause": {
+      "kind": "normal",
+      "summary": "plague during the siege of Gibraltar",
+      "summaryCn": "围攻直布罗陀期间感染瘟疫去世",
+      "detail": "plague during the siege of Gibraltar",
+      "detailCn": "围攻直布罗陀期间感染瘟疫去世",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Alfonso_XI_of_Castile"
+    },
+    "gender": "male",
+    "dynasty": "Ivrea",
+    "house": "Castilian House of Ivrea (House of Burgundy)",
+    "culture": "Castilian-Leonese",
+    "faith": "Catholic",
+    "primaryTitle": "King of Castile and León",
+    "primaryTitleCn": "卡斯蒂利亚与莱昂国王",
+    "titles": [
+      {
+        "title": "King of Castile, León and Galicia",
+        "titleCn": "卡斯蒂利亚、莱昂与加利西亚国王",
+        "startYear": 1312,
+        "endYear": 1350
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 87,
+    "historicalRating": 8,
+    "relationships": {
+      "fatherId": "517aa9a0-b775-4054-8b6e-589d14b34511",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "ceda6ce7-e0fe-47a3-a9d6-f8a68b10c40d",
+        "0e0a138a-2cb2-4080-be59-715e17e67c58"
+      ]
+    },
+    "events": [
+      {
+        "year": 1312,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 100,
+        "label": "Succeeded as an infant King of Castile and León",
+        "labelCn": "作为婴儿继承卡斯蒂利亚与莱昂王位",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Alfonso_XI_of_Castile",
+        "note": "Alfonso was about one year old when Ferdinand IV died, initiating a turbulent minority dominated by competing regents and noble factions."
+      },
+      {
+        "year": 1325,
+        "type": "government",
+        "tags": [
+          "government",
+          "monarch"
+        ],
+        "weight": 95,
+        "label": "Assumed personal government after being declared of age",
+        "labelCn": "被宣布成年并开始亲政",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Alfonso_XI_of_Castile",
+        "note": "At the Cortes of Valladolid in August 1325, Alfonso ended the minority government and began a forceful restoration of royal authority."
+      },
+      {
+        "year": 1328,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 75,
+        "label": "Married Maria of Portugal",
+        "labelCn": "与葡萄牙的玛丽亚结婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Alfonso_XI_of_Castile",
+        "note": "The Portuguese marriage produced the legitimate heir Peter I, although Alfonso's long relationship with Leonor de Guzmán produced the Trastámara half-brothers who later challenged Peter."
+      },
+      {
+        "year": 1332,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "king"
+        ],
+        "weight": 85,
+        "label": "Crowned himself King at Burgos",
+        "labelCn": "在布尔戈斯举行国王加冕礼",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Alfonso_XI_of_Castile",
+        "note": "Alfonso staged an elaborate self-coronation and chivalric ceremony at Burgos to emphasize sovereign authority and royal prestige."
+      },
+      {
+        "year": 1333,
+        "type": "battle",
+        "tags": [
+          "defeat",
+          "territory"
+        ],
+        "weight": 75,
+        "label": "Lost Gibraltar to a Marinid-Granadan offensive",
+        "labelCn": "在马林—格拉纳达攻势中失去直布罗陀",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Alfonso_XI_of_Castile",
+        "note": "Gibraltar fell after a siege, reinforcing Alfonso's determination to control the Strait and defeat further North African intervention."
+      },
+      {
+        "year": 1340,
+        "month": 10,
+        "day": 30,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "commander"
+        ],
+        "weight": 100,
+        "label": "Won the Battle of Río Salado",
+        "labelCn": "赢得萨拉多河战役",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Alfonso_XI_of_Castile",
+        "note": "On 30 October 1340 Alfonso XI and Afonso IV of Portugal defeated the Marinid and Granadan armies, breaking the last major Marinid invasion of Iberia."
+      },
+      {
+        "year": 1344,
+        "type": "conquest",
+        "tags": [
+          "conquest",
+          "campaign"
+        ],
+        "weight": 95,
+        "label": "Captured Algeciras",
+        "labelCn": "攻占阿尔赫西拉斯",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Alfonso_XI_of_Castile",
+        "note": "After a long internationally supported siege, Algeciras surrendered in March 1344, greatly strengthening Castilian control of the Strait."
+      },
+      {
+        "year": 1348,
+        "type": "administration",
+        "tags": [
+          "law",
+          "government"
+        ],
+        "weight": 90,
+        "label": "Promulgated the Ordenamiento de Alcalá",
+        "labelCn": "颁布《阿尔卡拉法令》",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Alfonso_XI_of_Castile",
+        "note": "The Ordenamiento de Alcalá clarified the hierarchy of legal sources in Castile and strengthened royal legal authority."
+      },
+      {
+        "year": 1350,
+        "month": 3,
+        "day": 26,
+        "type": "death",
+        "tags": [
+          "death",
+          "king"
+        ],
+        "weight": 100,
+        "label": "Died of plague while besieging Gibraltar",
+        "labelCn": "围攻直布罗陀期间死于瘟疫",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Alfonso_XI_of_Castile",
+        "note": "Alfonso died during the Black Death outbreak in the Castilian siege camp on 26 March 1350. His legitimate son Peter I succeeded, while his numerous sons by Leonor de Guzmán formed a rival dynastic bloc."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Alfonso_XI_of_Castile",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Alfonso_XI_of_Castile",
+    "sourceNote": "J. N. Hillgarth, The Spanish Kingdoms, 1250–1516; Joseph F. O'Callaghan, The Gibraltar Crusade: Castile and the Battle for the Strait; Teofilo F. Ruiz, Spain's Centuries of Crisis, 1300–1474; Wikipedia used for chronology cross-checks.",
+    "notes": "Alfonso XI restored royal authority after a long minority and achieved Castile's decisive fourteenth-century victory over the Marinids at Río Salado. His legitimate son Peter I and illegitimate son Henry II became the rival poles of the civil war that ended the main Castilian Ivrea line and created the Trastámara dynasty.\n\nUnlinked family: mother: Constance of Portugal; spouse: Maria of Portugal; child: Fadrique Alfonso of Castile; child: Tello Alfonso of Castile; child: Sancho Alfonso of Castile, Count of Alburquerque; child: Pedro Alfonso of Castile; child: Juana Alfonso of Castile; child: Sancho Alfonso of Castile (d. 1343); child: Fernando Alfonso of Castile",
+    "createdDate": "20260824",
+    "createdOrder": 656
+  },
+  {
+    "id": "ceda6ce7-e0fe-47a3-a9d6-f8a68b10c40d",
+    "firstName": "Peter",
+    "lastName": "I of Castile",
+    "displayName": "Peter I of Castile",
+    "fullName": "Peter I, King of Castile and León",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [
+      "Peter the Cruel",
+      "Peter the Just",
+      "Pedro I el Cruel",
+      "Pedro I el Justiciero",
+      "Don Pedro"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "卡斯蒂利亚的佩德罗一世",
+    "fullNameCn": "卡斯蒂利亚与莱昂国王佩德罗一世",
+    "birthYear": 1334,
+    "deathYear": 1369,
+    "birthPlace": "Burgos, Crown of Castile",
+    "birthPlaceCn": "卡斯蒂利亚王冠布尔戈斯",
+    "deathPlace": "Montiel, Crown of Castile",
+    "deathPlaceCn": "卡斯蒂利亚王冠蒙铁尔",
+    "deathCause": {
+      "kind": "violent",
+      "summary": "killed by his half-brother Henry of Trastámara after the Battle of Montiel",
+      "summaryCn": "蒙铁尔战役后被异母兄亨利·德·特拉斯塔马拉杀死",
+      "detail": "killed by his half-brother Henry of Trastámara after the Battle of Montiel",
+      "detailCn": "蒙铁尔战役后被异母兄亨利·德·特拉斯塔马拉杀死",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Peter_of_Castile"
+    },
+    "gender": "male",
+    "dynasty": "Ivrea",
+    "house": "Castilian House of Ivrea (House of Burgundy)",
+    "culture": "Castilian-Leonese",
+    "faith": "Catholic",
+    "primaryTitle": "King of Castile and León",
+    "primaryTitleCn": "卡斯蒂利亚与莱昂国王",
+    "titles": [
+      {
+        "title": "King of Castile, León and Galicia",
+        "titleCn": "卡斯蒂利亚、莱昂与加利西亚国王",
+        "startYear": 1350,
+        "endYear": 1366
+      },
+      {
+        "title": "King of Castile, León and Galicia",
+        "titleCn": "卡斯蒂利亚、莱昂与加利西亚国王",
+        "startYear": 1367,
+        "endYear": 1369
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king"
+    ],
+    "rank": "king",
+    "importanceScore": 89,
+    "historicalRating": 8,
+    "relationships": {
+      "fatherId": "1623e0c3-ccd6-49bd-9e4c-f1f5cdb2c741",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1350,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 100,
+        "label": "Succeeded Alfonso XI as King of Castile and León",
+        "labelCn": "继承阿方索十一世成为卡斯蒂利亚与莱昂国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Peter_of_Castile",
+        "note": "Peter became king after Alfonso XI died of plague during the siege of Gibraltar. Rivalry soon developed between the legitimate royal line and the king's Trastámara half-brothers."
+      },
+      {
+        "year": 1353,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "political_crisis"
+        ],
+        "weight": 85,
+        "label": "Married Blanche of Bourbon and almost immediately abandoned her",
+        "labelCn": "与波旁的布兰卡结婚后几乎立即将其遗弃",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Peter_of_Castile",
+        "note": "The French dynastic marriage collapsed within days as Peter returned to María de Padilla. The treatment of Blanche became a major source of domestic and international opposition."
+      },
+      {
+        "year": 1354,
+        "type": "imprisonment",
+        "tags": [
+          "imprisonment",
+          "politics"
+        ],
+        "weight": 75,
+        "label": "Was temporarily constrained by a noble coalition at Toro",
+        "labelCn": "在托罗一度受到贵族联盟控制",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Peter_of_Castile",
+        "note": "Opposition magnates and members of the royal family forced Peter into a politically constrained position at Toro, but divisions among them allowed him to recover freedom and authority."
+      },
+      {
+        "year": 1356,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "territory"
+        ],
+        "weight": 85,
+        "label": "Began the War of the Two Peters against Aragon",
+        "labelCn": "发动与阿拉贡的“两佩德罗战争”",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Peter_of_Castile",
+        "note": "Peter's conflict with Peter IV of Aragon expanded into a long frontier war entangled with French, English and Castilian civil-war politics."
+      },
+      {
+        "year": 1362,
+        "type": "government",
+        "tags": [
+          "legal",
+          "dynasty"
+        ],
+        "weight": 85,
+        "label": "Declared María de Padilla his lawful wife and her children legitimate",
+        "labelCn": "宣布玛丽亚·德·帕迪利亚为合法妻子并确认其子女合法性",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Peter_of_Castile",
+        "note": "After María's death, Peter publicly asserted that they had contracted a prior secret marriage. The Cortes recognized their children, a decision important to later Lancastrian claims through Constance of Castile."
+      },
+      {
+        "year": 1366,
+        "type": "rebellion",
+        "tags": [
+          "rebellion",
+          "political_crisis"
+        ],
+        "weight": 100,
+        "label": "Was driven from Castile by Henry of Trastámara's invasion",
+        "labelCn": "被亨利·德·特拉斯塔马拉的入侵逐出卡斯蒂利亚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Peter_of_Castile",
+        "note": "Henry entered Castile with French-backed companies and was proclaimed king, forcing Peter into exile and creating the first break in his reign."
+      },
+      {
+        "year": 1367,
+        "month": 4,
+        "day": 3,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "commander"
+        ],
+        "weight": 100,
+        "label": "Won the Battle of Nájera and recovered the throne",
+        "labelCn": "赢得纳赫拉战役并恢复王位",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Peter_of_Castile",
+        "note": "With support from Edward the Black Prince and Anglo-Gascon forces, Peter defeated Henry at Nájera on 3 April 1367 and restored his rule."
+      },
+      {
+        "year": 1369,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "defeat"
+        ],
+        "weight": 100,
+        "label": "Was defeated at the Battle of Montiel",
+        "labelCn": "在蒙铁尔战役中战败",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Peter_of_Castile",
+        "note": "Henry returned with French support under Bertrand du Guesclin and defeated Peter near Montiel, trapping him in the fortress."
+      },
+      {
+        "year": 1369,
+        "month": 3,
+        "day": 23,
+        "type": "death",
+        "tags": [
+          "death",
+          "violent"
+        ],
+        "weight": 100,
+        "label": "Was killed by Henry of Trastámara at Montiel",
+        "labelCn": "在蒙铁尔被亨利·德·特拉斯塔马拉杀死",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Peter_of_Castile",
+        "note": "On 23 March 1369 Peter was brought into contact with Henry during attempted negotiations or escape and was killed in a violent hand-to-hand struggle. His death ended the main ruling branch of the Castilian House of Ivrea."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Peter_of_Castile",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Peter_of_Castile",
+    "sourceNote": "Pedro López de Ayala, Crónica del rey don Pedro; L. J. Andrew Villalon and Donald J. Kagay, The Hundred Years War: A Wider Focus; J. N. Hillgarth, The Spanish Kingdoms, 1250–1516; Teofilo F. Ruiz, Spain's Centuries of Crisis, 1300–1474; Wikipedia used for chronology cross-checks.",
+    "notes": "Peter I was the last reigning monarch of the main Castilian Ivrea/Burgundy line. His civil war with his illegitimate half-brother Henry of Trastámara became part of the wider Hundred Years' War and ended in a violent dynastic overthrow at Montiel.\n\nUnlinked family: mother: Maria of Portugal; spouse: Blanche of Bourbon; spouse: María de Padilla (claimed secret marriage); spouse: Juana de Castro (contested marriage); child: Beatrice of Castile; child: Constance of Castile, Duchess of Lancaster; child: Isabella of Castile, Duchess of York; child: Alfonso of Castile; child: John of Castile",
+    "createdDate": "20260824",
+    "createdOrder": 657
+  }
+]

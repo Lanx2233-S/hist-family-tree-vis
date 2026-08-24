@@ -106,4 +106,3 @@ For every researched person rated 5 stars or higher, include the complete `event
 
 
 ## User paste staging area — agent clears this after completing the matching person-card task
-

@@ -1,0 +1,1220 @@
+[
+  {
+    "id": "1ce160f2-c91e-4a3c-9c39-01f49c7c221e",
+    "firstName": "Alexios",
+    "lastName": "",
+    "displayName": "Alexios I Komnenos",
+    "fullName": "Alexios I Komnenos",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [
+      "Alexius I Comnenus",
+      "Alexios Komnenos",
+      "Alexios I",
+      "Ἀλέξιος Αʹ Κομνηνός"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "阿莱克修斯一世·科穆宁",
+    "fullNameCn": "阿莱克修斯一世·科穆宁",
+    "birthYear": 1048,
+    "deathYear": 1118,
+    "birthPlace": "Constantinople, Byzantine Empire",
+    "birthPlaceCn": "拜占庭帝国君士坦丁堡",
+    "deathPlace": "Constantinople, Byzantine Empire",
+    "deathPlaceCn": "拜占庭帝国君士坦丁堡",
+    "gender": "male",
+    "dynasty": "Komnenos",
+    "house": "House of Komnenos",
+    "culture": "Greek",
+    "faith": "Orthodox",
+    "primaryTitle": "Byzantine Emperor",
+    "primaryTitleCn": "拜占庭皇帝",
+    "titles": [
+      {
+        "title": "Byzantine Emperor",
+        "titleCn": "拜占庭皇帝",
+        "startYear": 1081,
+        "endYear": 1118
+      }
+    ],
+    "tags": [
+      "monarch",
+      "emperor",
+      "commander"
+    ],
+    "rank": "emperor",
+    "importanceScore": 90,
+    "historicalRating": 9,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "553a9d7d-4b84-4e4b-92ba-364ba957f16b",
+        "5b070791-d6ff-47eb-954d-74619dea5c6e"
+      ]
+    },
+    "events": [
+      {
+        "year": 1081,
+        "month": 2,
+        "day": 14,
+        "type": "politics",
+        "tags": [
+          "politics",
+          "succession"
+        ],
+        "weight": 82,
+        "label": "Left Constantinople to secure the throne",
+        "labelCn": "离开君士坦丁堡以争取皇位",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Alexios_I_Komnenos"
+      },
+      {
+        "year": 1081,
+        "month": 10,
+        "day": 18,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "defeat"
+        ],
+        "weight": 90,
+        "label": "Defeated at Dyrrhachium by Robert Guiscard",
+        "labelCn": "在迪拉基乌姆败于罗贝尔·吉斯卡尔",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Dyrrhachium_(1081)"
+      },
+      {
+        "year": 1083,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "defense"
+        ],
+        "weight": 84,
+        "label": "Defeated the Normans at Larissa",
+        "labelCn": "在拉里萨击败诺曼人",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Alexios_I_Komnenos",
+        "note": "The campaign is securely dated to 1083; a precise day is not established."
+      },
+      {
+        "year": 1091,
+        "month": 4,
+        "day": 29,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "defense"
+        ],
+        "weight": 94,
+        "label": "Defeated the Pechenegs at Levounion",
+        "labelCn": "在勒沃尼翁击败佩切涅格人",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Levounion"
+      },
+      {
+        "year": 1095,
+        "month": 3,
+        "day": 1,
+        "type": "diplomacy",
+        "tags": [
+          "diplomacy",
+          "alliance"
+        ],
+        "weight": 86,
+        "label": "Appealed for western military aid at Piacenza",
+        "labelCn": "在皮亚琴察请求西方军事援助",
+        "wikiUrl": "https://crusadesatlas.org/kisi/i-aleksios-komnenos",
+        "note": "Alexios's appeal was made during the council held 1–7 March."
+      },
+      {
+        "year": 1097,
+        "month": 6,
+        "day": 19,
+        "type": "conquest",
+        "tags": [
+          "conquest",
+          "territory"
+        ],
+        "weight": 88,
+        "label": "Recovered Nicaea during the First Crusade",
+        "labelCn": "在第一次十字军东征中收复尼西亚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Alexios_I_Komnenos"
+      },
+      {
+        "year": 1098,
+        "month": 6,
+        "day": 28,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "defense"
+        ],
+        "weight": 82,
+        "label": "Defeated Kerbogha outside Antioch",
+        "labelCn": "在安条克城外击败克尔博加",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Alexios_I_Komnenos",
+        "note": "The victory was won by the crusader army; Alexios's campaign formed part of the wider imperial recovery effort."
+      },
+      {
+        "year": 1108,
+        "month": 9,
+        "type": "treaty",
+        "tags": [
+          "treaty",
+          "diplomacy"
+        ],
+        "weight": 90,
+        "label": "Concluded the Treaty of Devol with Bohemond",
+        "labelCn": "与博希蒙德缔结德沃尔条约",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Treaty_of_Devol",
+        "note": "The treaty is securely dated to September 1108; no reliable day is given."
+      },
+      {
+        "year": 1116,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "defense"
+        ],
+        "weight": 86,
+        "label": "Defeated the Seljuks at Philomelion",
+        "labelCn": "在菲洛梅利翁击败塞尔柱人",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Alexios_I_Komnenos",
+        "note": "The campaign is dated to 1116; a precise day is not established."
+      },
+      {
+        "year": 1118,
+        "month": 8,
+        "day": 15,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 78,
+        "label": "Died in Constantinople",
+        "labelCn": "在君士坦丁堡去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Alexios_I_Komnenos"
+      },
+      {
+        "year": 1078,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 80,
+        "label": "Married Irene Doukaina",
+        "labelCn": "迎娶伊琳娜·杜卡伊娜",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Alexios_I_Komnenos",
+        "note": "The marriage connected Alexios to the powerful Doukas family, a relationship that became crucial to his successful seizure of the throne."
+      },
+      {
+        "year": 1081,
+        "type": "rebellion",
+        "tags": [
+          "rebellion",
+          "political_crisis"
+        ],
+        "weight": 100,
+        "label": "Rebelled against Nikephoros III Botaneiates",
+        "labelCn": "起兵反对尼基弗鲁斯三世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Alexios_I_Komnenos",
+        "note": "Alexios and his brother Isaac left Constantinople, assembled military support and coordinated with the Doukas faction and Maria of Alania."
+      },
+      {
+        "year": 1081,
+        "month": 4,
+        "day": 1,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 100,
+        "label": "Captured Constantinople and seized imperial power",
+        "labelCn": "攻入君士坦丁堡并夺取帝国政权",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Alexios_I_Komnenos",
+        "note": "Alexios's forces entered Constantinople on 1 April 1081, ending the regime of Nikephoros III; the formal coronation followed on 4 April."
+      },
+      {
+        "year": 1081,
+        "month": 4,
+        "day": 4,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "king"
+        ],
+        "weight": 100,
+        "label": "Was crowned Byzantine emperor",
+        "labelCn": "加冕为拜占庭皇帝",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Alexios_I_Komnenos",
+        "note": "Alexios received the formal imperial coronation three days after his forces seized Constantinople."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Alexios_I_Komnenos",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Alexios_I_Komnenos",
+    "sourceNote": "Anna Komnene, Alexiad; Crusades Research Atlas; modern Komnenian scholarship. Exact day-level fields are used only where the chronology is secure.",
+    "notes": "Alexios I founded the Komnenian restoration after seizing the throne in 1081. He rebuilt imperial capacity after the Norman invasion and the Pecheneg threat, then managed the First Crusade while recovering key Anatolian territory. The Treaty of Devol placed Bohemond under nominal imperial vassalage, although its terms were never fully implemented.",
+    "createdDate": "20260823",
+    "createdOrder": 55,
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died after illness in Constantinople",
+      "summaryCn": "在君士坦丁堡患病去世",
+      "detail": "Alexios died on 15 August 1118; the surviving accounts record his final illness but do not permit a modern diagnosis.",
+      "detailCn": "阿莱克修斯于 1118 年 8 月 15 日去世；现存记载提到其末期疾病，但不足以作出现代医学诊断。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Alexios_I_Komnenos"
+    }
+  },
+  {
+    "id": "553a9d7d-4b84-4e4b-92ba-364ba957f16b",
+    "firstName": "John",
+    "lastName": "",
+    "displayName": "John II Komnenos",
+    "fullName": "John II Komnenos",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [
+      "John II Comnenus",
+      "John Komnenos the Beautiful"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "约翰二世·科穆宁",
+    "fullNameCn": "约翰二世·科穆宁",
+    "birthYear": 1087,
+    "deathYear": 1143,
+    "birthPlace": "Constantinople, Byzantine Empire",
+    "birthPlaceCn": "拜占庭帝国君士坦丁堡",
+    "deathPlace": "Cilicia, Byzantine Empire",
+    "deathPlaceCn": "拜占庭帝国奇里乞亚",
+    "gender": "male",
+    "dynasty": "Komnenos",
+    "house": "House of Komnenos",
+    "culture": "Greek",
+    "faith": "Orthodox",
+    "primaryTitle": "Byzantine Emperor",
+    "primaryTitleCn": "拜占庭皇帝",
+    "titles": [
+      {
+        "title": "Byzantine Emperor",
+        "titleCn": "拜占庭皇帝",
+        "startYear": 1118,
+        "endYear": 1143
+      }
+    ],
+    "tags": [
+      "monarch",
+      "emperor",
+      "commander"
+    ],
+    "rank": "emperor",
+    "importanceScore": 80,
+    "historicalRating": 8,
+    "relationships": {
+      "fatherId": "1ce160f2-c91e-4a3c-9c39-01f49c7c221e",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "b894fb91-7dd5-4462-a0b8-df3846062080"
+      ]
+    },
+    "events": [
+      {
+        "year": 1087,
+        "month": 9,
+        "day": 13,
+        "type": "childbirth",
+        "tags": [
+          "dynasty",
+          "monarch"
+        ],
+        "weight": 58,
+        "label": "Born in Constantinople",
+        "labelCn": "出生于君士坦丁堡",
+        "wikiUrl": "https://en.wikipedia.org/wiki/John_II_Komnenos"
+      },
+      {
+        "year": 1118,
+        "month": 8,
+        "day": 15,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "monarch"
+        ],
+        "weight": 94,
+        "label": "Succeeded Alexios I as Byzantine Emperor",
+        "labelCn": "继承阿莱克修斯一世成为拜占庭皇帝",
+        "wikiUrl": "https://en.wikipedia.org/wiki/John_II_Komnenos"
+      },
+      {
+        "year": 1122,
+        "month": 4,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "defense"
+        ],
+        "weight": 88,
+        "label": "Defeated the Pechenegs at Beroia",
+        "labelCn": "在贝罗亚击败佩切涅格人",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Beroia",
+        "note": "The battle is dated to April 1122, but scholars differ over the exact day."
+      },
+      {
+        "year": 1124,
+        "type": "politics",
+        "tags": [
+          "politics",
+          "diplomacy"
+        ],
+        "weight": 76,
+        "label": "Began the conflict with Venice over commercial privileges",
+        "labelCn": "因商业特权问题与威尼斯爆发冲突",
+        "wikiUrl": "https://en.wikipedia.org/wiki/John_II_Komnenos",
+        "note": "The conflict began in 1124; a precise starting day is not securely recorded."
+      },
+      {
+        "year": 1126,
+        "month": 8,
+        "type": "treaty",
+        "tags": [
+          "treaty",
+          "diplomacy"
+        ],
+        "weight": 78,
+        "label": "Renewed Venetian privileges",
+        "labelCn": "重新确认威尼斯特权",
+        "wikiUrl": "https://en.wikipedia.org/wiki/John_II_Komnenos",
+        "note": "The renewal is dated to August 1126; no reliable day is given."
+      },
+      {
+        "year": 1133,
+        "type": "conquest",
+        "tags": [
+          "conquest",
+          "territory"
+        ],
+        "weight": 82,
+        "label": "Recovered Paphlagonia and celebrated a triumph",
+        "labelCn": "收复帕夫拉戈尼亚并举行凯旋式",
+        "wikiUrl": "https://en.wikipedia.org/wiki/John_II_Komnenos",
+        "note": "The recovery and triumph are dated to 1133; a precise day is not established."
+      },
+      {
+        "year": 1137,
+        "month": 8,
+        "day": 29,
+        "type": "siege",
+        "tags": [
+          "battle",
+          "territory"
+        ],
+        "weight": 88,
+        "label": "Reached Antioch and imposed imperial suzerainty",
+        "labelCn": "抵达安条克并迫使其承认帝国宗主权",
+        "wikiUrl": "https://en.wikipedia.org/wiki/John_II_Komnenos"
+      },
+      {
+        "year": 1138,
+        "month": 4,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "diplomacy"
+        ],
+        "weight": 80,
+        "label": "Led the joint Syrian campaign against Shaizar",
+        "labelCn": "率领联军进攻舍伊扎尔",
+        "wikiUrl": "https://en.wikipedia.org/wiki/John_II_Komnenos",
+        "note": "The Shaizar campaign took place in spring 1138; its exact day sequence is not secure."
+      },
+      {
+        "year": 1142,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "politics"
+        ],
+        "weight": 76,
+        "label": "Renewed the Antioch expedition",
+        "labelCn": "再度发动安条克远征",
+        "wikiUrl": "https://en.wikipedia.org/wiki/John_II_Komnenos",
+        "note": "The campaign is dated to 1142; no precise day is securely recorded."
+      },
+      {
+        "year": 1143,
+        "month": 4,
+        "day": 8,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 82,
+        "label": "Died after a hunting accident in Cilicia",
+        "labelCn": "在奇里乞亚狩猎事故后去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/John_II_Komnenos"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/John_II_Komnenos",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/John_II_Komnenos",
+    "sourceNote": "John Kinnamos and Niketas Choniates; modern study of John II's reign; exact dates retained only where securely attested.",
+    "notes": "John II consolidated the gains of Alexios I and carried the empire's power into the Balkans, Anatolia and Syria. His restoration of influence over Antioch was a high point of Komnenian diplomacy, though the city was not permanently absorbed. He chose his younger son Manuel as successor shortly before his death.",
+    "createdDate": "20260823",
+    "createdOrder": 56,
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Fatal infection after a hunting accident",
+      "summaryCn": "狩猎事故后感染致死",
+      "detail": "John accidentally wounded his hand with a poisoned arrow while hunting in Cilicia. The wound became infected, and he died on 8 April 1143; assassination theories lack firm contemporary support.",
+      "detailCn": "约翰在奇里乞亚狩猎时被毒箭意外划伤手部，伤口感染后于 1143 年 4 月 8 日去世；谋杀说缺乏可靠的同时代证据。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/John_II_Komnenos"
+    }
+  },
+  {
+    "id": "b894fb91-7dd5-4462-a0b8-df3846062080",
+    "firstName": "Manuel",
+    "lastName": "",
+    "displayName": "Manuel I Komnenos",
+    "fullName": "Manuel I Komnenos",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [
+      "Manuel I Comnenus",
+      "Manuel Komnenos"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "曼努埃尔一世·科穆宁",
+    "fullNameCn": "曼努埃尔一世·科穆宁",
+    "birthYear": 1118,
+    "deathYear": 1180,
+    "birthPlace": "Constantinople, Byzantine Empire",
+    "birthPlaceCn": "拜占庭帝国君士坦丁堡",
+    "deathPlace": "Constantinople, Byzantine Empire",
+    "deathPlaceCn": "拜占庭帝国君士坦丁堡",
+    "gender": "male",
+    "dynasty": "Komnenos",
+    "house": "House of Komnenos",
+    "culture": "Greek",
+    "faith": "Orthodox",
+    "primaryTitle": "Byzantine Emperor",
+    "primaryTitleCn": "拜占庭皇帝",
+    "titles": [
+      {
+        "title": "Byzantine Emperor",
+        "titleCn": "拜占庭皇帝",
+        "startYear": 1143,
+        "endYear": 1180
+      }
+    ],
+    "tags": [
+      "monarch",
+      "emperor",
+      "commander"
+    ],
+    "rank": "emperor",
+    "importanceScore": 90,
+    "historicalRating": 9,
+    "relationships": {
+      "fatherId": "553a9d7d-4b84-4e4b-92ba-364ba957f16b",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1118,
+        "month": 11,
+        "day": 28,
+        "type": "childbirth",
+        "tags": [
+          "dynasty",
+          "monarch"
+        ],
+        "weight": 58,
+        "label": "Born in Constantinople",
+        "labelCn": "出生于君士坦丁堡",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Manuel_I_Komnenos"
+      },
+      {
+        "year": 1143,
+        "month": 4,
+        "day": 8,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "monarch"
+        ],
+        "weight": 96,
+        "label": "Succeeded John II as Byzantine Emperor",
+        "labelCn": "继承约翰二世成为拜占庭皇帝",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Manuel_I_Komnenos"
+      },
+      {
+        "year": 1146,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 80,
+        "label": "Married Bertha of Sulzbach",
+        "labelCn": "与苏尔茨巴赫的贝尔塔成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Manuel_I_Komnenos",
+        "note": "The marriage is dated to 1146; a precise day is not securely attested."
+      },
+      {
+        "year": 1147,
+        "type": "diplomacy",
+        "tags": [
+          "diplomacy",
+          "crusade"
+        ],
+        "weight": 86,
+        "label": "Managed the passage of the Second Crusade",
+        "labelCn": "应对第二次十字军东征过境",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Manuel_I_Komnenos",
+        "note": "The crucial negotiations and movements occurred across 1147; no single day represents the episode."
+      },
+      {
+        "year": 1149,
+        "type": "defense",
+        "tags": [
+          "defense",
+          "battle"
+        ],
+        "weight": 80,
+        "label": "Recovered Corfu after the Norman raid",
+        "labelCn": "在诺曼袭击后收复科孚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Manuel_I_Komnenos",
+        "note": "The recovery campaign is dated to 1149; the exact day is not securely recorded."
+      },
+      {
+        "year": 1155,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "conquest"
+        ],
+        "weight": 84,
+        "label": "Launched the Italian expedition against Sicily",
+        "labelCn": "发动反西西里的意大利远征",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Manuel_I_Komnenos",
+        "note": "The expedition ran from 1155 to 1157; its opening day is not securely recorded."
+      },
+      {
+        "year": 1158,
+        "type": "treaty",
+        "tags": [
+          "treaty",
+          "diplomacy"
+        ],
+        "weight": 78,
+        "label": "Made peace with William I of Sicily",
+        "labelCn": "与西西里的威廉一世议和",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Manuel_I_Komnenos",
+        "note": "The agreement is dated to 1158; a precise day is not securely attested."
+      },
+      {
+        "year": 1159,
+        "type": "diplomacy",
+        "tags": [
+          "diplomacy",
+          "territory"
+        ],
+        "weight": 84,
+        "label": "Entered Antioch and received recognition of suzerainty",
+        "labelCn": "进入安条克并获承认宗主权",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Manuel_I_Komnenos",
+        "note": "The ceremonial entry is dated to 1159; the exact day is not securely established."
+      },
+      {
+        "year": 1161,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 82,
+        "label": "Married Maria of Antioch",
+        "labelCn": "与安条克的玛丽亚成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Maria_of_Antioch",
+        "note": "The marriage is dated to 1161; a precise day is not securely attested."
+      },
+      {
+        "year": 1167,
+        "month": 7,
+        "day": 8,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "defense"
+        ],
+        "weight": 88,
+        "label": "Won the Battle of Sirmium",
+        "labelCn": "赢得锡尔米乌姆战役",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Sirmium"
+      },
+      {
+        "year": 1169,
+        "month": 9,
+        "day": 14,
+        "type": "childbirth",
+        "tags": [
+          "dynasty",
+          "succession"
+        ],
+        "weight": 80,
+        "label": "Birth of heir Alexios II",
+        "labelCn": "继承人阿莱克修斯二世出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Alexios_II_Komnenos",
+        "note": "The date has alternatives in the sources; 14 September 1169 is the convention used here."
+      },
+      {
+        "year": 1171,
+        "month": 3,
+        "day": 12,
+        "type": "politics",
+        "tags": [
+          "politics",
+          "diplomacy"
+        ],
+        "weight": 84,
+        "label": "Ordered the arrest of Venetian merchants",
+        "labelCn": "下令逮捕威尼斯商人",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Byzantine%E2%80%93Venetian_war_of_1171"
+      },
+      {
+        "year": 1176,
+        "month": 9,
+        "day": 17,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "defeat"
+        ],
+        "weight": 92,
+        "label": "Defeated at Myriokephalon",
+        "labelCn": "在密里奥刻法隆战败",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Myriokephalon"
+      },
+      {
+        "year": 1180,
+        "month": 9,
+        "day": 24,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 82,
+        "label": "Died in Constantinople",
+        "labelCn": "在君士坦丁堡去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Manuel_I_Komnenos"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Manuel_I_Komnenos",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Manuel_I_Komnenos",
+    "sourceNote": "Niketas Choniates and John Kinnamos; World History Encyclopedia timeline; modern scholarship on Manuel's reign. Exact day-level fields are used only where securely attested.",
+    "notes": "Manuel I brought the Komnenian restoration to its widest diplomatic reach. He intervened in Italy, the crusader states, Hungary and the Balkans, while balancing Latin, Seljuk and Venetian interests. The defeat at Myriokephalon did not immediately destroy Byzantine power, but it curtailed his larger Anatolian ambitions and became a defining limit of the reign.",
+    "createdDate": "20260823",
+    "createdOrder": 57,
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died after illness in Constantinople",
+      "summaryCn": "在君士坦丁堡患病去世",
+      "detail": "Manuel died on 24 September 1180 after an illness; the precise diagnosis is not securely known.",
+      "detailCn": "曼努埃尔于 1180 年 9 月 24 日患病去世；具体病因无法可靠确定。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Manuel_I_Komnenos"
+    }
+  },
+  {
+    "id": "5b070791-d6ff-47eb-954d-74619dea5c6e",
+    "firstName": "Isaac",
+    "lastName": "",
+    "displayName": "Isaac Komnenos",
+    "fullName": "Isaac Komnenos",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "伊萨克·科穆宁",
+    "fullNameCn": "伊萨克·科穆宁",
+    "birthYear": 1093,
+    "deathYear": 1152,
+    "birthPlace": "Constantinople",
+    "birthPlaceCn": "君士坦丁堡",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "Komnenos",
+    "house": "House of Komnenos",
+    "culture": "Greek",
+    "faith": "Orthodox",
+    "primaryTitle": "Sebastokrator",
+    "primaryTitleCn": "塞巴斯托克拉特",
+    "titles": [
+      {
+        "title": "Sebastokrator",
+        "titleCn": "塞巴斯托克拉特",
+        "startYear": 1122,
+        "endYear": 1152
+      }
+    ],
+    "tags": [
+      "monarch",
+      "emperor"
+    ],
+    "rank": "emperor",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "1ce160f2-c91e-4a3c-9c39-01f49c7c221e",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "c91c5e64-6f01-4677-b119-19a2fdecb854"
+      ]
+    },
+    "events": [
+      {
+        "year": 1122,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "dynasty"
+        ],
+        "weight": 76,
+        "label": "Received the title of sebastokrator",
+        "labelCn": "获授塞巴斯托克拉特头衔",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Isaac_Komnenos_(son_of_Alexios_I)"
+      },
+      {
+        "year": 1130,
+        "type": "politics",
+        "tags": [
+          "politics",
+          "dynasty"
+        ],
+        "weight": 70,
+        "label": "Took part in a dynastic dispute at court",
+        "labelCn": "参与宫廷王朝争端",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Isaac_Komnenos_(son_of_Alexios_I)"
+      },
+      {
+        "year": 1152,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 66,
+        "label": "Died in exile",
+        "labelCn": "在流亡中去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Isaac_Komnenos_(son_of_Alexios_I)"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Isaac_Komnenos_(son_of_Alexios_I)",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Isaac_Komnenos_(son_of_Alexios_I)",
+    "sourceNote": "Local Komnenos line research with direct orientation source.",
+    "notes": "Son of Alexios I and younger brother of John II; father of John Komnenos, governor of Cyprus. Details of his later career are less secure than those of the emperors.",
+    "createdDate": "20260823",
+    "createdOrder": 58
+  },
+  {
+    "id": "c91c5e64-6f01-4677-b119-19a2fdecb854",
+    "firstName": "John",
+    "lastName": "",
+    "displayName": "John Komnenos, governor of Cyprus",
+    "fullName": "John Komnenos, governor of Cyprus",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "塞浦路斯总督约翰·科穆宁",
+    "fullNameCn": "塞浦路斯总督约翰·科穆宁",
+    "birthYear": null,
+    "deathYear": 1176,
+    "birthPlace": "Constantinople",
+    "birthPlaceCn": "君士坦丁堡",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "Komnenos",
+    "house": "House of Komnenos",
+    "culture": "Greek",
+    "faith": "Orthodox",
+    "primaryTitle": "Governor of Cyprus",
+    "primaryTitleCn": "塞浦路斯总督",
+    "titles": [
+      {
+        "title": "Governor of Cyprus",
+        "titleCn": "塞浦路斯总督",
+        "startYear": 1155,
+        "endYear": 1176
+      }
+    ],
+    "tags": [
+      "monarch",
+      "emperor"
+    ],
+    "rank": "emperor",
+    "importanceScore": 50,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "5b070791-d6ff-47eb-954d-74619dea5c6e",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "c9430000-0000-4000-8000-000000000039"
+      ]
+    },
+    "events": [
+      {
+        "year": 1155,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "government"
+        ],
+        "weight": 76,
+        "label": "Became governor of Cyprus",
+        "labelCn": "出任塞浦路斯总督",
+        "wikiUrl": "https://en.wikipedia.org/wiki/John_Komnenos_(governor_of_Cyprus"
+      },
+      {
+        "year": 1167,
+        "type": "government",
+        "tags": [
+          "government",
+          "territory"
+        ],
+        "weight": 68,
+        "label": "Administered Cyprus for the Komnenian court",
+        "labelCn": "代表科穆宁宫廷治理塞浦路斯",
+        "wikiUrl": "https://en.wikipedia.org/wiki/John_Komnenos_(governor_of_Cyprus"
+      },
+      {
+        "year": 1176,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 64,
+        "label": "Died in Cyprus",
+        "labelCn": "在塞浦路斯去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/John_Komnenos_(governor_of_Cyprus"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/John_Komnenos_(governor_of_Cyprus)",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/John_Komnenos_(governor_of_Cyprus)",
+    "sourceNote": "Local Komnenos line research with direct orientation source.",
+    "notes": "Son of Isaac Komnenos and father of Maria Komnene. He must not be confused with Emperor John II Komnenos; his role was provincial, not imperial.",
+    "createdDate": "20260823",
+    "createdOrder": 59
+  },
+  {
+    "id": "c9430000-0000-4000-8000-000000000039",
+    "firstName": "Maria",
+    "lastName": "of Jerusalem",
+    "displayName": "Maria Komnene",
+    "fullName": "Maria Komnene, Queen of Jerusalem",
+    "displayNameCn": "科穆宁的玛丽亚",
+    "fullNameCn": "耶路撒冷王后科穆宁的玛丽亚",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "birthYear": 1152,
+    "deathYear": 1217,
+    "birthPlace": "Latin East",
+    "birthPlaceCn": "拉丁东方",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "female",
+    "dynasty": "Komnenos",
+    "house": "House of Komnenos",
+    "culture": "Frankish",
+    "faith": "Catholic",
+    "primaryTitle": "Queen of Jerusalem",
+    "primaryTitleCn": "耶路撒冷王后",
+    "titles": [
+      {
+        "title": "Queen of Jerusalem",
+        "titleCn": "耶路撒冷王后",
+        "startYear": "",
+        "endYear": 1182
+      }
+    ],
+    "tags": [
+      "queen",
+      "consort",
+      "noble"
+    ],
+    "rank": "queen",
+    "importanceScore": 70,
+    "historicalRating": 7,
+    "relationships": {
+      "fatherId": "c91c5e64-6f01-4677-b119-19a2fdecb854",
+      "motherId": "",
+      "spouseIds": [
+        "c9410000-0000-4000-8000-000000000037"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "c9460000-0000-4000-8000-000000000042"
+      ]
+    },
+    "events": [
+      {
+        "year": 1167,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance",
+          "queen"
+        ],
+        "weight": 78,
+        "label": "Marriage to Amalric I of Jerusalem",
+        "labelCn": "与耶路撒冷国王阿马尔里克一世成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Maria_Komnene,_Queen_of_Jerusalem"
+      },
+      {
+        "year": 1172,
+        "type": "childbirth",
+        "tags": [
+          "dynasty",
+          "queen"
+        ],
+        "weight": 70,
+        "label": "Birth of daughter Isabella",
+        "labelCn": "生下女儿伊莎贝拉",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Maria_Komnene,_Queen_of_Jerusalem",
+        "note": "Isabella later became Queen of Jerusalem."
+      },
+      {
+        "year": 1177,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance",
+          "noble"
+        ],
+        "weight": 74,
+        "label": "Marriage to Balian of Ibelin",
+        "labelCn": "与伊贝林的巴利安成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Maria_Komnene,_Queen_of_Jerusalem"
+      },
+      {
+        "year": 1190,
+        "type": "political_crisis",
+        "tags": [
+          "political_crisis",
+          "politics",
+          "succession"
+        ],
+        "weight": 76,
+        "label": "Advocated annulment of Isabella's marriage so she could wed Conrad of Montferrat",
+        "labelCn": "推动伊莎贝拉解除婚约以嫁给蒙费拉的康拉德",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Maria_Komnene,_Queen_of_Jerusalem"
+      },
+      {
+        "year": 1217,
+        "type": "death",
+        "tags": [
+          "death",
+          "queen",
+          "noble"
+        ],
+        "weight": 78,
+        "label": "Death",
+        "labelCn": "去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Maria_Komnene,_Queen_of_Jerusalem",
+        "note": "She died in 1217, having retired to a convent; a few sources give 1208."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Fulk_V,_Count_of_Anjou",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Fulk_V,_Count_of_Anjou",
+    "sourceNote": "Runciman, A History of the Crusades; Wikipedia (Maria Komnene, Queen of Jerusalem), used for navigation.",
+    "notes": "Grand-niece of Emperor Manuel I Komnenos and queen of Jerusalem through her marriage to Amalric I. After Amalric's death she married Balian of Ibelin and later championed her daughter Isabella's succession. The card's deathYear (1182) is incorrect and should be corrected to 1217.",
+    "createdDate": "20260822",
+    "createdOrder": 51
+  },
+  {
+    "id": "4325a708-c93c-48d8-8f5a-42421b6ca624",
+    "firstName": "Isaac",
+    "lastName": "I Komnenos",
+    "displayName": "Isaac I Komnenos",
+    "fullName": "Isaac I Komnenos, Byzantine Emperor",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [
+      "Isaac I",
+      "Isaac Comnenus",
+      "Isaakios I Komnenos",
+      "Ἰσαάκιος Αʹ Κομνηνός"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "伊萨克一世·科穆宁",
+    "fullNameCn": "拜占庭皇帝伊萨克一世·科穆宁",
+    "birthYear": 1007,
+    "deathYear": 1060,
+    "birthPlace": "",
+    "birthPlaceCn": "",
+    "deathPlace": "Constantinople, Byzantine Empire",
+    "deathPlaceCn": "拜占庭帝国君士坦丁堡",
+    "gender": "male",
+    "dynasty": "Komnenos",
+    "house": "House of Komnenos",
+    "culture": "Byzantine",
+    "faith": "Eastern Orthodox",
+    "primaryTitle": "Byzantine Emperor",
+    "primaryTitleCn": "拜占庭皇帝",
+    "titles": [
+      {
+        "title": "Domestic of the Schools of the East",
+        "titleCn": "东方禁卫军统帅",
+        "startYear": null,
+        "endYear": 1057
+      },
+      {
+        "title": "Byzantine Emperor",
+        "titleCn": "拜占庭皇帝",
+        "startYear": 1057,
+        "endYear": 1059
+      }
+    ],
+    "tags": [
+      "monarch",
+      "emperor",
+      "commander"
+    ],
+    "rank": "emperor",
+    "importanceScore": 82,
+    "historicalRating": 7,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1057,
+        "month": 6,
+        "day": 8,
+        "type": "rebellion",
+        "tags": [
+          "rebellion",
+          "commander"
+        ],
+        "weight": 100,
+        "label": "Was proclaimed emperor by rebel generals",
+        "labelCn": "被叛军将领拥立为皇帝",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Isaac_I_Komnenos",
+        "note": "Leading military aristocrats chose Isaac as their candidate against Michael VI, beginning the first Komnenian seizure of imperial power."
+      },
+      {
+        "year": 1057,
+        "month": 8,
+        "day": 20,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "commander"
+        ],
+        "weight": 95,
+        "label": "Defeated the imperial army at Petroe",
+        "labelCn": "在佩特罗埃战役击败帝国政府军",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Isaac_I_Komnenos",
+        "note": "Isaac's coalition defeated Michael VI's loyalists near Nicaea, opening the road to the capital."
+      },
+      {
+        "year": 1057,
+        "month": 9,
+        "day": 1,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "king"
+        ],
+        "weight": 100,
+        "label": "Was crowned Byzantine emperor",
+        "labelCn": "加冕为拜占庭皇帝",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Isaac_I_Komnenos",
+        "note": "After Michael VI's abdication, Isaac entered Constantinople and was crowned in Hagia Sophia."
+      },
+      {
+        "year": 1058,
+        "type": "government",
+        "tags": [
+          "government",
+          "administration"
+        ],
+        "weight": 90,
+        "label": "Implemented severe fiscal and military reforms",
+        "labelCn": "实施严厉的财政与军事改革",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Isaac_I_Komnenos",
+        "note": "Isaac revoked grants, reduced expenditure and reclaimed revenues in an effort to rebuild the treasury and strengthen the army."
+      },
+      {
+        "year": 1058,
+        "month": 11,
+        "day": 8,
+        "type": "politics",
+        "tags": [
+          "politics",
+          "church"
+        ],
+        "weight": 85,
+        "label": "Exiled Patriarch Michael Keroularios",
+        "labelCn": "流放牧首米海尔·凯鲁拉里奥斯",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Isaac_I_Komnenos",
+        "note": "The emperor's conflict with the patriarch over fiscal and political authority ended in Keroularios's arrest and exile."
+      },
+      {
+        "year": 1059,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "pacification"
+        ],
+        "weight": 90,
+        "label": "Personally campaigned against the Pechenegs",
+        "labelCn": "亲自出征并压服佩切涅格人",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Isaac_I_Komnenos",
+        "note": "Isaac secured peace with Hungary and then led an expedition that forced most Pecheneg groups to submit."
+      },
+      {
+        "year": 1060,
+        "type": "death",
+        "tags": [
+          "death",
+          "noble"
+        ],
+        "weight": 60,
+        "label": "Died as a monk at Stoudios",
+        "labelCn": "在斯图狄奥斯修道院以修士身份去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Isaac_I_Komnenos",
+        "note": "Isaac survived his abdication only briefly and died in monastic retirement."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Isaac_I_Komnenos",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Isaac_I_Komnenos",
+    "sourceNote": "Michael Psellos, Chronographia; John Skylitzes, A Synopsis of Byzantine History (Cambridge); Georgios Theotokis and Marek Meško, War in Eleventh-Century Byzantium; Oxford Dictionary of Byzantium; World History Encyclopedia; Wikipedia supplementary chronology.",
+    "notes": "Isaac I was the first Komnenos to become emperor, but his short reign did not create an immediate hereditary Komnenian succession. The throne passed to Constantine X Doukas in 1059; the durable Komnenian dynasty began only when Isaac's nephew Alexios I seized power in 1081.\n\nUnlinked family: father: Manuel Erotikos Komnenos; mother: Maria (identity uncertain); spouse: Catherine of Bulgaria; child: Manuel Komnenos; child: Maria Komnene",
+    "createdDate": "20260824",
+    "createdOrder": 77
+  }
+]

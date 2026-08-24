@@ -55,6 +55,7 @@ import houseHouseOfKnytlinga from "./house-house-of-knytlinga.json";
 import houseHouseOfLancaster from "./house-house-of-lancaster.json";
 import houseHouseOfLanciaAttributionUncertain from "./house-house-of-lancia-attribution-uncertain.json";
 import houseHouseOfLeuven from "./house-house-of-leuven.json";
+import houseHouseOfKomnenos from "./house-house-of-komnenos.json";
 import houseHouseOfLusignan from "./house-house-of-lusignan.json";
 import houseHouseOfLuxembourg from "./house-house-of-luxembourg.json";
 import houseHouseOfMontferrat from "./house-house-of-montferrat.json";
@@ -85,9 +86,27 @@ import houseHouseOfWelf from "./house-house-of-welf.json";
 import houseHouseOfWessex from "./house-house-of-wessex.json";
 import houseHouseOfWittelsbach from "./house-house-of-wittelsbach.json";
 import houseHouseOfWittelsbachIngolstadt from "./house-house-of-wittelsbach-ingolstadt.json";
+import houseHouseOfWittelsbachLandshut from "./house-house-of-wittelsbach-landshut.json";
+import houseHouseOfWittelsbachMunich from "./house-house-of-wittelsbach-munich.json";
+import houseHouseOfWittelsbachPalatinate from "./house-house-of-wittelsbach-palatinate.json";
 import houseHouseOfWittelsbachStraubing from "./house-house-of-wittelsbach-straubing.json";
 import houseHouseOfWoodville from "./house-house-of-woodville.json";
 import houseHouseOfYork from "./house-house-of-york.json";
+import houseCastilianHouseOfIvreaHouseOfBurgundy from "./house-castilian-house-of-ivrea-house-of-burgundy.json";
+import houseHouseOfTrastamara from "./house-house-of-trastamara.json";
+import houseHouseOfTrastamaraCastilianBranch from "./house-house-of-trastamara-castilian-branch.json";
+import houseArgyrosFamily from "./house-argyros-family.json";
+import houseBotaneiatesFamily from "./house-botaneiates-family.json";
+import houseBringasFamily from "./house-bringas-family.json";
+import houseDiogenesFamily from "./house-diogenes-family.json";
+import houseHouseOfDoukas from "./house-house-of-doukas.json";
+import houseHouseOfLekapenos from "./house-house-of-lekapenos.json";
+import houseMacedonianDynasty from "./house-macedonian-dynasty.json";
+import houseMakrembolitesFamily from "./house-makrembolites-family.json";
+import houseMonomachosFamily from "./house-monomachos-family.json";
+import housePaphlagonianFamily from "./house-paphlagonian-family.json";
+import housePhokasFamily from "./house-phokas-family.json";
+import houseTzimiskesKourkouasMilitaryFamily from "./house-tzimiskes-kourkouas-military-family.json";
 import houseMatfridingFamilyOfMetz from "./house-matfriding-family-of-metz.json";
 import houseOttonianDynasty from "./house-ottonian-dynasty.json";
 import houseRobertianDynasty from "./house-robertian-dynasty.json";
@@ -96,12 +115,22 @@ import houseSalianDynasty from "./house-salian-dynasty.json";
 import houseSupplinburgerDynasty from "./house-supplinburger-dynasty.json";
 import houseUnknownHouse from "./house-unknown-house.json";
 import houseUnruochingDynasty from "./house-unruoching-dynasty.json";
+import temporaryBohemia from "./temporary-bohemia.json";
+
+import houseHouseOfBar from "./house-house-of-bar.json";
+
+import houseHouseOfPremyslid from "./house-house-of-premyslid.json";
+
+import houseSilesianPiastsSwidnicaJaworBranch from "./house-silesian-piasts-swidnica-jawor-branch.json";
+
+import houseHouseOfGriffinPomeraniaStolpBranch from "./house-house-of-griffin-pomerania-stolp-branch.json";
+import temporaryLowerBavaria from "./temporary-lower-bavaria.json";
 
 /** House-grouped source data; manifest.order preserves the UI's historical ordering. */
 import manifest from "./manifest.json";
 const ORIGINAL_ORDER: string[] = manifest.order;
 
-const all = [...houseBosonidDynasty, ...houseCapetianHouseOfAnjou, ...houseCarolingianDynasty, ...houseConradineDynasty, ...houseElderHouseOfBurgundy, ...houseHautevilleDynasty, ...houseHohenstaufenDynasty, ...houseHouseOfAleramici, ...houseHouseOfAlpin, ...houseHouseOfAlsace, ...houseHouseOfAndechs, ...houseHouseOfAngelos, ...houseHouseOfAnjou, ...houseHouseOfAuvergne, ...houseHouseOfAvesnes, ...houseHouseOfBabenberg, ...houseHouseOfBalliol, ...houseHouseOfBarcelona, ...houseHouseOfBarcelonaAragoneseRoyalBranch, ...houseHouseOfBeaufort, ...houseHouseOfBlois, ...houseHouseOfBloisChampagne, ...houseHouseOfBloisNavarre, ...houseHouseOfBouillon, ...houseHouseOfBoulogne, ...houseHouseOfBourbon, ...houseHouseOfBrienne, ...houseHouseOfBruce, ...houseHouseOfBurgh, ...houseHouseOfBurgundyIberian, ...houseHouseOfCapet, ...houseHouseOfChampagne, ...houseHouseOfClermont, ...houseHouseOfConradines, ...houseHouseOfCrepon, ...houseHouseOfDinefwr, ...houseHouseOfDrummond, ...houseHouseOfDunkeld, ...houseHouseOfEgmond, ...houseHouseOfEstridsen, ...houseHouseOfEvreux, ...houseHouseOfFairhair, ...houseHouseOfFlanders, ...houseHouseOfFlandersHainautBranch, ...houseHouseOfGevaudan, ...houseHouseOfGodwin, ...houseHouseOfHabsburg, ...houseHouseOfHainautMonsAttributed, ...houseHouseOfIvrea, ...houseHouseOfIvreaBurgundianComitalBranch, ...houseHouseOfJerusalem, ...houseHouseOfJimenez, ...houseHouseOfKnytlinga, ...houseHouseOfLancaster, ...houseHouseOfLanciaAttributionUncertain, ...houseHouseOfLeuven, ...houseHouseOfLusignan, ...houseHouseOfLuxembourg, ...houseHouseOfMontferrat, ...houseHouseOfMoray, ...houseHouseOfMortimer, ...houseHouseOfMure, ...houseHouseOfNassau, ...houseHouseOfNormandy, ...houseHouseOfNorthampton, ...houseHouseOfOldenburg, ...houseHouseOfPlantagenet, ...houseHouseOfPoitiers, ...houseHouseOfRethel, ...houseHouseOfSavoy, ...houseHouseOfStewart, ...houseHouseOfTaillefer, ...houseHouseOfThorgil, ...houseHouseOfToron, ...houseHouseOfTosny, ...houseHouseOfToulouse, ...houseHouseOfTudor, ...houseHouseOfValois, ...houseHouseOfValoisAnjou, ...houseHouseOfValoisBurgundy, ...houseHouseOfVermandois, ...houseHouseOfVisconti, ...houseHouseOfWelf, ...houseHouseOfWessex, ...houseHouseOfWittelsbach, ...houseHouseOfWittelsbachIngolstadt, ...houseHouseOfWittelsbachStraubing, ...houseHouseOfWoodville, ...houseHouseOfYork, ...houseMatfridingFamilyOfMetz, ...houseOttonianDynasty, ...houseRobertianDynasty, ...houseRurikidDynastyKyivanLine, ...houseSalianDynasty, ...houseSupplinburgerDynasty, ...houseUnknownHouse, ...houseUnruochingDynasty];
+const all = [...houseBosonidDynasty, ...houseCapetianHouseOfAnjou, ...houseCarolingianDynasty, ...houseConradineDynasty, ...houseElderHouseOfBurgundy, ...houseHautevilleDynasty, ...houseHohenstaufenDynasty, ...houseHouseOfAleramici, ...houseHouseOfAlpin, ...houseHouseOfAlsace, ...houseHouseOfAndechs, ...houseHouseOfAngelos, ...houseHouseOfAnjou, ...houseHouseOfAuvergne, ...houseHouseOfAvesnes, ...houseHouseOfBabenberg, ...houseHouseOfBalliol, ...houseHouseOfBarcelona, ...houseHouseOfBarcelonaAragoneseRoyalBranch, ...houseHouseOfBeaufort, ...houseHouseOfBlois, ...houseHouseOfBloisChampagne, ...houseHouseOfBloisNavarre, ...houseHouseOfBouillon, ...houseHouseOfBoulogne, ...houseHouseOfBourbon, ...houseHouseOfBrienne, ...houseHouseOfBruce, ...houseHouseOfBurgh, ...houseHouseOfBurgundyIberian, ...houseHouseOfCapet, ...houseHouseOfChampagne, ...houseHouseOfClermont, ...houseHouseOfConradines, ...houseHouseOfCrepon, ...houseHouseOfDinefwr, ...houseHouseOfDrummond, ...houseHouseOfDunkeld, ...houseHouseOfEgmond, ...houseHouseOfEstridsen, ...houseHouseOfEvreux, ...houseHouseOfFairhair, ...houseHouseOfFlanders, ...houseHouseOfFlandersHainautBranch, ...houseHouseOfGevaudan, ...houseHouseOfGodwin, ...houseHouseOfHabsburg, ...houseHouseOfHainautMonsAttributed, ...houseHouseOfIvrea, ...houseHouseOfIvreaBurgundianComitalBranch, ...houseHouseOfJerusalem, ...houseHouseOfJimenez, ...houseHouseOfKnytlinga, ...houseHouseOfLancaster, ...houseHouseOfLanciaAttributionUncertain, ...houseHouseOfLeuven, ...houseHouseOfKomnenos, ...houseHouseOfLusignan, ...houseHouseOfLuxembourg, ...houseHouseOfMontferrat, ...houseHouseOfMoray, ...houseHouseOfMortimer, ...houseHouseOfMure, ...houseHouseOfNassau, ...houseHouseOfNormandy, ...houseHouseOfNorthampton, ...houseHouseOfOldenburg, ...houseHouseOfPlantagenet, ...houseHouseOfPoitiers, ...houseHouseOfRethel, ...houseHouseOfSavoy, ...houseHouseOfStewart, ...houseHouseOfTaillefer, ...houseHouseOfToron, ...houseHouseOfTosny, ...houseHouseOfToulouse, ...houseHouseOfTudor, ...houseHouseOfValois, ...houseHouseOfValoisAnjou, ...houseHouseOfValoisBurgundy, ...houseHouseOfVermandois, ...houseHouseOfVisconti, ...houseHouseOfWelf, ...houseHouseOfWessex, ...houseHouseOfWittelsbach, ...houseHouseOfWittelsbachIngolstadt, ...houseHouseOfWittelsbachLandshut, ...houseHouseOfWittelsbachMunich, ...houseHouseOfWittelsbachPalatinate, ...houseHouseOfWittelsbachStraubing, ...houseHouseOfWoodville, ...houseHouseOfYork, ...houseCastilianHouseOfIvreaHouseOfBurgundy, ...houseHouseOfTrastamara, ...houseHouseOfTrastamaraCastilianBranch, ...houseArgyrosFamily, ...houseBotaneiatesFamily, ...houseBringasFamily, ...houseDiogenesFamily, ...houseHouseOfDoukas, ...houseHouseOfLekapenos, ...houseMacedonianDynasty, ...houseMakrembolitesFamily, ...houseMonomachosFamily, ...housePaphlagonianFamily, ...housePhokasFamily, ...houseTzimiskesKourkouasMilitaryFamily, ...houseMatfridingFamilyOfMetz, ...houseOttonianDynasty, ...houseRobertianDynasty, ...houseRurikidDynastyKyivanLine, ...houseSalianDynasty, ...houseSupplinburgerDynasty, ...houseUnknownHouse, ...houseUnruochingDynasty, ...temporaryBohemia, ...houseHouseOfBar, ...houseHouseOfPremyslid, ...houseSilesianPiastsSwidnicaJaworBranch, ...houseHouseOfGriffinPomeraniaStolpBranch, ...temporaryLowerBavaria];
 const byId = new Map<string, Person>();
 for (const record of all) byId.set(record.id, record as Person);
 

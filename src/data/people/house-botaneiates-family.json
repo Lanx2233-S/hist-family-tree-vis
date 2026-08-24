@@ -1,0 +1,130 @@
+[
+  {
+    "id": "70b47f79-d621-4605-abad-57f2abcac0fb",
+    "firstName": "Nikephoros",
+    "lastName": "III Botaneiates",
+    "displayName": "Nikephoros III Botaneiates",
+    "fullName": "Nikephoros III Botaneiates, Byzantine Emperor",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [
+      "Nikephoros III",
+      "Nicephorus III Botaneiates",
+      "Nikephoros Botaneiates",
+      "Νικηφόρος Γʹ Βοτανειάτης"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "尼基弗鲁斯三世·博塔尼亚提斯",
+    "fullNameCn": "拜占庭皇帝尼基弗鲁斯三世·博塔尼亚提斯",
+    "birthYear": 1002,
+    "deathYear": 1081,
+    "birthPlace": "Anatolia, Byzantine Empire",
+    "birthPlaceCn": "拜占庭帝国安纳托利亚",
+    "deathPlace": "Constantinople, Byzantine Empire",
+    "deathPlaceCn": "拜占庭帝国君士坦丁堡",
+    "gender": "male",
+    "dynasty": "Botaneiates",
+    "house": "Botaneiates family",
+    "culture": "Byzantine",
+    "faith": "Eastern Orthodox",
+    "primaryTitle": "Byzantine Emperor",
+    "primaryTitleCn": "拜占庭皇帝",
+    "titles": [
+      {
+        "title": "Byzantine Emperor",
+        "titleCn": "拜占庭皇帝",
+        "startYear": 1078,
+        "endYear": 1081
+      }
+    ],
+    "tags": [
+      "monarch",
+      "emperor",
+      "commander"
+    ],
+    "rank": "emperor",
+    "importanceScore": 72,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1057,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "alliance"
+        ],
+        "weight": 60,
+        "label": "Supported Isaac Komnenos at Petroe",
+        "labelCn": "在佩特罗埃战役中支持伊萨克·科穆宁",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Nikephoros_III_Botaneiates",
+        "note": "Nikephoros fought among the military aristocrats who defeated Michael VI's loyalist army."
+      },
+      {
+        "year": 1077,
+        "type": "rebellion",
+        "tags": [
+          "rebellion",
+          "political_crisis"
+        ],
+        "weight": 95,
+        "label": "Rebelled against Michael VII in Anatolia",
+        "labelCn": "在安纳托利亚起兵反对米海尔七世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Nikephoros_III_Botaneiates",
+        "note": "As strategos of the Anatolic Theme, Nikephoros proclaimed himself emperor and drew support from Anatolian military and political networks."
+      },
+      {
+        "year": 1078,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 100,
+        "label": "Entered Constantinople and established himself as emperor",
+        "labelCn": "进入君士坦丁堡并确立皇帝地位",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Nikephoros_III_Botaneiates",
+        "note": "After rebelling against Michael VII and advancing through Anatolia, Nikephoros entered Constantinople and was crowned in 1078; modern chronologies differ over the exact March/April dating."
+      },
+      {
+        "year": 1078,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 85,
+        "label": "Married Maria of Alania",
+        "labelCn": "迎娶阿兰尼亚的玛丽亚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Nikephoros_III_Botaneiates",
+        "note": "Marriage to the former wife of Michael VII was intended to reinforce legitimacy, but disputes over the succession of her son Constantine Doukas persisted."
+      },
+      {
+        "year": 1078,
+        "type": "rebellion",
+        "tags": [
+          "rebellion",
+          "pacification"
+        ],
+        "weight": 85,
+        "label": "Defeated the rival rebellions of Bryennios and Basilakes",
+        "labelCn": "击败布里恩尼奥斯与巴西拉凯斯的对立叛乱",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Nikephoros_III_Botaneiates",
+        "note": "Alexios Komnenos played the central military role in suppressing major challengers to Nikephoros's rule."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Nikephoros_III_Botaneiates",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Nikephoros_III_Botaneiates",
+    "sourceNote": "Michael Attaleiates, The History; Nikephoros Bryennios, Historical Material; Anna Komnene, The Alexiad; Anthony Kaldellis, Streams of Gold, Rivers of Blood; Oxford Dictionary of Byzantium; Wikipedia supplementary chronology.",
+    "notes": "Nikephoros III replaced Michael VII through rebellion and relied heavily on generals of the Komnenos family to suppress rival claimants. His failure to settle the succession alienated Maria of Alania and the Doukas-Komnenos coalition, facilitating Alexios I's seizure of power in 1081.\n\nUnlinked family: father: Michael Botaneiates; spouse: Vevdene; spouse: Maria of Alania",
+    "createdDate": "20260824",
+    "createdOrder": 82
+  }
+]

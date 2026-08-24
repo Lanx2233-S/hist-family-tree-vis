@@ -111,5 +111,167 @@
       }
     ],
     "nicknameCn": "斯万内莎"
+  },
+  {
+    "id": "cf21bd17-752e-4b1f-a90c-4713769b7fcf",
+    "firstName": "Theophano",
+    "lastName": "",
+    "displayName": "Theophano",
+    "fullName": "Theophano, Byzantine Empress",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [
+      "Theophano Anastaso",
+      "Theophanu",
+      "Θεοφανώ"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "狄奥法诺",
+    "fullNameCn": "拜占庭皇后狄奥法诺",
+    "birthYear": 941,
+    "deathYear": "",
+    "birthPlace": "Laconia, Byzantine Empire",
+    "birthPlaceCn": "拜占庭帝国拉科尼亚",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "female",
+    "dynasty": "Unknown dynasty",
+    "house": "Unknown house",
+    "culture": "Byzantine",
+    "faith": "Chalcedonian Christianity",
+    "primaryTitle": "Byzantine Empress",
+    "primaryTitleCn": "拜占庭皇后",
+    "titles": [
+      {
+        "title": "Byzantine Empress",
+        "titleCn": "拜占庭皇后",
+        "startYear": 959,
+        "endYear": 969
+      },
+      {
+        "title": "Regent of the Byzantine Empire",
+        "titleCn": "拜占庭帝国摄政",
+        "startYear": 963,
+        "endYear": 963
+      }
+    ],
+    "tags": [
+      "queen",
+      "regent",
+      "noble"
+    ],
+    "rank": "queen",
+    "importanceScore": 83,
+    "historicalRating": 8,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [
+        "145cac5a-0fef-44db-8950-17bb38a81778",
+        "d8e73392-b466-44ec-942d-3a8c110575f0"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "52c7baf1-d8ad-4326-a034-8de7e8c02a95",
+        "ddea7fce-59ff-4313-8e29-d7e771a05d45"
+      ]
+    },
+    "events": [
+      {
+        "year": 956,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 80,
+        "label": "Married Romanos II",
+        "labelCn": "与罗曼努斯二世成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Theophano_(born_Anastaso)"
+      },
+      {
+        "year": 959,
+        "type": "title",
+        "tags": [
+          "queen",
+          "title"
+        ],
+        "weight": 86,
+        "label": "Became Byzantine empress",
+        "labelCn": "成为拜占庭皇后",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Theophano_(born_Anastaso)"
+      },
+      {
+        "year": 958,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "dynasty"
+        ],
+        "weight": 86,
+        "label": "Birth of Basil II",
+        "labelCn": "生下巴西尔二世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Theophano_(born_Anastaso)"
+      },
+      {
+        "year": 960,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "dynasty"
+        ],
+        "weight": 82,
+        "label": "Birth of Constantine VIII",
+        "labelCn": "生下君士坦丁八世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Theophano_(born_Anastaso)"
+      },
+      {
+        "year": 963,
+        "type": "regency",
+        "tags": [
+          "regency",
+          "queen"
+        ],
+        "weight": 94,
+        "label": "Became regent for Basil II and Constantine VIII",
+        "labelCn": "为巴西尔二世与君士坦丁八世摄政",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Theophano_(born_Anastaso)"
+      },
+      {
+        "year": 963,
+        "month": 9,
+        "day": 20,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 96,
+        "label": "Married Nikephoros II Phokas",
+        "labelCn": "与尼基弗鲁斯二世·福卡斯成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Theophano_(born_Anastaso)",
+        "note": "The marriage gave Nikephoros a dynastic connection to the young Macedonian co-emperors."
+      },
+      {
+        "year": 969,
+        "type": "exile",
+        "tags": [
+          "exile",
+          "political_crisis"
+        ],
+        "weight": 88,
+        "label": "Was exiled after Nikephoros II's murder",
+        "labelCn": "尼基弗鲁斯二世遇刺后被流放",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Theophano_(born_Anastaso)",
+        "note": "John I Tzimiskes distanced himself from the conspiracy and removed Theophano from the capital before securing his own coronation."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Theophano_(born_Anastaso)",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Theophano_(born_Anastaso)",
+    "sourceNote": "John Skylitzes, A Synopsis of Byzantine History; Leo the Deacon, History; The Oxford Dictionary of Byzantium; World History Encyclopedia, 'Nikephoros II Phokas'; Wikipedia used for basic chronology.",
+    "notes": "Theophano was Romanos II's wife and the mother of Basil II and Constantine VIII. After Romanos's death she acted as their regent and married Nikephoros II, giving the military emperor a connection to the Macedonian dynasty. She was implicated by hostile sources in the plot against Nikephoros, but John I Tzimiskes then exiled her; her later life is uncertain.",
+    "createdDate": "20260824",
+    "createdOrder": 648
   }
 ]
