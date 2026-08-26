@@ -8,7 +8,7 @@ export function ProtagonistPage({ onEnter, onTree, onTitles }: { onEnter: (id: s
   const people = useFamilyStore((state) => state.people);
   const setLanguage = useFamilyStore((state) => state.setLanguage);
   const language = useFamilyStore((state) => state.language);
-  const [realm, setRealm] = useState<"england" | "france" | "germany" | "castile" | "byzantium" | null>(null);
+  const [realm, setRealm] = useState<"england" | "france" | "germany" | "castile" | "byzantium" | "arabia" | null>(null);
   const [realmPage, setRealmPage] = useState(0);
   const [page, setPage] = useState(0);
   const t = copyFor(language);
@@ -39,16 +39,22 @@ export function ProtagonistPage({ onEnter, onTree, onTitles }: { onEnter: (id: s
   ];
   const castilePicks = [{ id: "c1026000-0000-4000-8000-000000000001", phase: "I", hook: "The Leonese-Castilian Crown", hookCn: "莱昂—卡斯蒂利亚王冠", toneKey: "pickToneFrenchLouis" as const }];
   const byzantiumPicks = [{ id: "1ce160f2-c91e-4a3c-9c39-01f49c7c221e", phase: "I", hook: "The Komnenian Restoration", hookCn: "科穆宁中兴", toneKey: "pickToneByzantine" as const }];
+  const arabiaPicks = [
+    { id: "b54d8195-66ad-4668-b9dc-a117a2d9e51b", phase: "I", hook: "The Prophetic Mission", hookCn: "先知使命", toneKey: "pickToneArabia" as const },
+    { id: "1173bc8b-b203-44b7-9f15-8f5c832d3c66", phase: "II", hook: "The Rashidun Caliphate", hookCn: "正统哈里发国", toneKey: "pickToneArabia" as const },
+  ];
   const realms = [
     { key: "england", label: t.england, lines: t.englandLines },
     { key: "france", label: t.france, lines: t.frenchLines },
     { key: "germany", label: t.germany, lines: t.germanyLines },
+    { key: "byzantium", label: language === "cn" ? "罗马—拜占庭" : "Rome–Byzantium", lines: language === "cn" ? "罗马与拜占庭帝国世系" : "Roman and Byzantine imperial lines" },
     { key: "castile", label: language === "cn" ? "西班牙" : "Spain", lines: language === "cn" ? "莱昂、卡斯蒂利亚与阿拉贡世系" : "León, Castile, and Aragonese lines" },
-    { key: "byzantium", label: language === "cn" ? "拜占庭帝国" : "Byzantine Empire", lines: language === "cn" ? "阿莱克修斯一世与科穆宁皇帝世系" : "Alexios I and the Komnenian emperors" },
+    { key: "arabia", label: language === "cn" ? "阿拉伯" : "Arabia", lines: language === "cn" ? "阿拉伯与伊斯兰世界世系" : "Arabian and Islamic world lineages" },
   ] as const;
-  const activePicks = realm === "france" ? francePicks : realm === "germany" ? germanyPicks : realm === "castile" ? castilePicks : realm === "byzantium" ? byzantiumPicks : picks;
+  const activePicks = realm === "france" ? francePicks : realm === "germany" ? germanyPicks : realm === "castile" ? castilePicks : realm === "byzantium" ? byzantiumPicks : realm === "arabia" ? arabiaPicks : picks;
   const visiblePicks = activePicks.slice(page * 4, page * 4 + 4);
-  const pageCount = Math.ceil(activePicks.length / 4);
+  const pageCount = Math.max(1, Math.ceil(activePicks.length / 4));
+  const realmLabel = realm === "france" ? t.france : realm === "germany" ? t.germany : realm === "castile" ? (language === "cn" ? "西班牙" : "Spain") : realm === "byzantium" ? (language === "cn" ? "罗马—拜占庭" : "Rome–Byzantium") : realm === "arabia" ? (language === "cn" ? "阿拉伯" : "Arabia") : t.england;
 
   return (
     <main className="protagonist-page">
@@ -75,8 +81,8 @@ export function ProtagonistPage({ onEnter, onTree, onTitles }: { onEnter: (id: s
           </div>
         </div>
         {realm && <div className="protagonist-selection">
-          {<>
-            <div className="realm-heading"><span>{realm === "france" ? t.france : realm === "germany" ? t.germany : realm === "castile" ? (language === "cn" ? "西班牙" : "Spain") : realm === "byzantium" ? (language === "cn" ? "拜占庭帝国" : "Byzantine Empire") : t.england}</span><small>{page + 1} / {pageCount}</small></div>
+          {activePicks.length > 0 ? <>
+            <div className="realm-heading"><span>{realmLabel}</span><small>{page + 1} / {pageCount}</small></div>
             <div className="protagonist-grid">
           {visiblePicks.map((pick) => {
             const person = people.find((item) => item.id === pick.id);
@@ -109,7 +115,7 @@ export function ProtagonistPage({ onEnter, onTree, onTitles }: { onEnter: (id: s
               <span>{t.featuredFigures}</span>
               <button type="button" onClick={() => setPage((value) => Math.min(pageCount - 1, value + 1))} disabled={page === pageCount - 1} aria-label={t.nextProtagonists}>→</button>
             </div>
-          </>}
+          </> : <div className="realm-empty"><h2>{realmLabel}</h2><p>{t.realmReserved}</p></div>}
         </div>}
       </section>
     </main>

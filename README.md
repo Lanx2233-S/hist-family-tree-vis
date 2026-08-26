@@ -2,7 +2,7 @@
 
 `hist-family-tree-vis` is an interactive historical genealogy project inspired by the readable relationship views of Crusader Kings III (CK3). It presents people, family relationships, title succession, events, and historical context as navigable visual records.
 
-The project began with medieval England and the Norman period, and now extends across Wessex, Normandy, Carolingian, Capetian, Plantagenet, Poitevin, and related lines. The current local dataset contains 144 people and is stored in `people.normandy.json`; PostgreSQL is supported for durable records and future expansion.
+The project began with medieval England and the Norman period, and now extends across Wessex, Normandy, Carolingian, Capetian, Plantagenet, Poitevin, and related lines. The current local dataset is generated as `people.generated.json`; PostgreSQL is supported for durable records and future expansion.
 
 The app uses React for exploration and PostgreSQL for durable person records. The JSON remains the local demo fallback until a database is configured and seeded.
 
@@ -34,4 +34,4 @@ The person form saves through `POST /api/people`. If the API or database is unav
 - `src/features/people/peopleSearch.ts`: person search and fuzzy matching.
 - `server/index.mjs`: PostgreSQL HTTP API.
 - `server/schema.sql`: normalized person, parentage, union, title, tag, and event tables.
-- `server/seed.mjs`: idempotent import of `people.normandy.json`.
+- `server/seed.mjs`: idempotent import of `people.generated.json`.

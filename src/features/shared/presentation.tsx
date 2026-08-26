@@ -25,6 +25,8 @@ export const tagCopy: Record<string, UiCopy> = {
   partner: { en: "Partner", cn: "伴侣" },
   emperor: { en: "Emperor", cn: "皇帝" },
   empress: { en: "Empress", cn: "皇后" },
+  caliph: { en: "Caliph", cn: "哈里发" },
+  prophet: { en: "Prophet", cn: "先知" },
 };
 
 // Backward-compatible English/Chinese tag maps.
@@ -152,6 +154,7 @@ export const copy = {
   pickToneCharlesV: { en: "From the Low Countries to Spain and the Empire, Charles V rules a composite world monarchy.", cn: "从尼德兰、西班牙到帝国，统治横跨欧陆与新大陆的复合君主国。" },
   pickToneLuxembourg: { en: "The Luxembourg dynasty reshapes the empire from Prague.", cn: "卢森堡王朝以布拉格为中心重塑帝国。" },
   pickToneByzantine: { en: "The Komnenian restoration rebuilds Byzantine power across the eastern Mediterranean.", cn: "科穆宁中兴重建拜占庭在东地中海的权力。" },
+  pickToneArabia: { en: "From Mecca to Medina, the prophetic mission transforms Arabia and founds a new religious community.", cn: "从麦加到麦地那，先知使命改变阿拉伯，并奠定新的宗教共同体。" },
   // Person form
   databaseEntry: { en: "DATABASE ENTRY", cn: "数据库条目" },
   addPersonTitle: { en: "Add person", cn: "添加人物" },
@@ -390,17 +393,27 @@ const dynastyCnMap: Record<string, string> = {
   "Reginar dynasty": "雷尼耶宗族",
   "Reginarids (attributed; disputed)": "雷尼耶系（归属存疑）",
   "Rurikid dynasty": "留里克宗族",
+  "Quraysh": "古莱什",
+  "Alid": "阿里家族",
   "Savoy dynasty": "萨伏依宗族",
   "Tosny dynasty": "托斯尼宗族",
   "Trastámara": "特拉斯塔马拉王朝",
   "House of Trastámara": "特拉斯塔马拉家族",
-  "House of Trastámara, Castilian branch": "特拉斯塔马拉家族卡斯蒂利亚支",
+  "House of Trastámara-Castilian": "特拉斯塔马拉家族-卡斯蒂利亚支",
   "Tzimiskes": "齐米斯凯斯家族",
   "Tzimiskes/Kourkouas military family": "齐米斯凯斯／库尔库阿斯军人家族",
   "Unknown dynasty": "未知宗族",
   "Wittelsbach dynasty": "维特尔斯巴赫",
   "Capetian House of Anjou": "卡佩-安茹家族",
   "House of Alsace": "阿尔萨斯家族",
+  "Banū ʿAbd Manāf": "阿卜杜·马纳夫支",
+  "Banū ʿAbd Shams": "阿卜杜·沙姆斯支",
+  "Banū Hāshim": "哈希姆支",
+  "Banū Hāshim, Abbasid ancestral line": "哈希姆支（阿拔斯祖系）",
+  "Banū Hāshim, Alid line": "哈希姆支（阿里支）",
+  "Banū Umayya": "倭马亚支",
+  "Sufyanid branch of Banū Umayya": "倭马亚支（苏富扬支）",
+  "Ahl al-Bayt": "圣裔家族",
   "House of Auvergne": "奥弗涅家族",
   "House of Blois-Navarre": "布卢瓦-纳瓦拉家族",
   "House of Bourbon": "波旁家族",
@@ -603,9 +616,8 @@ export function initials(person: Person, language?: Language) {
 }
 export function nodeNameLines(name: string) { if (name.length <= 16) return [name]; const words = name.split(" "); const midpoint = Math.ceil(words.length / 2); return words.length < 2 ? [name] : [words.slice(0, midpoint).join(" "), words.slice(midpoint).join(" ")]; }
 export function titleTier(person: Person) {
-  // Henry VI's French claim is retained as historical data, but does not
-  // control card styling in the current English-focused lineage.
-  if (person.id === "0a1a85b3-53e9-45fa-a90f-2b07d78191c4") return "king";
+  if (person.tags.includes("prophet")) return "prophet";
+  if (person.tags.includes("caliph")) return "caliph";
   const combined = `${person.rank} ${person.primaryTitle} ${person.titles.map((item) => item.title).join(" ")}`.toLowerCase();
   if (combined.includes("empress")) return "empress";
   if (combined.includes("emperor")) return "emperor";

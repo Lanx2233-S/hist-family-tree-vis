@@ -1,0 +1,18 @@
+{
+  "id": "rashidun-caliphate",
+  "canonicalName": "Rashidun Caliphate",
+  "canonicalNameCn": "正统哈里发国",
+  "form": "caliphate",
+  "aliases": ["Rashidun Caliph", "Caliph", "Leader of the Muslim Community", "正统哈里发", "穆斯林共同体领袖"],
+  "nameForms": [
+    {"name":"Medinan Muslim Community","nameCn":"麦地那穆斯林共同体","fromYear":622,"untilYear":632,"note":"Muhammad led the community in Medina; it provided the political framework inherited by the first caliphs.","noteCn":"穆罕默德在麦地那领导共同体；这一政治框架由最初几位哈里发继承。"},
+    {"name":"Rashidun Caliphate","nameCn":"正统哈里发国","fromYear":632,"untilYear":661,"note":"The first four caliphs led the expanding polity after Muhammad’s death.","noteCn":"穆罕默德逝世后，前四任哈里发领导这一迅速扩展的政体。"}
+  ],
+  "holders": [
+    {"kind":"person","personId":"b54d8195-66ad-4668-b9dc-a117a2d9e51b","startYear":622,"endYear":632,"titleForm":"Leader of the Muslim Community","tierOverride":"prophet","note":"Muhammad established and led the Medinan Muslim community.","noteCn":"穆罕默德建立并领导麦地那穆斯林共同体。"},
+    {"kind":"person","personId":"1173bc8b-b203-44b7-9f15-8f5c832d3c66","startYear":632,"endYear":634,"titleForm":"Caliph","tierOverride":"caliph","note":"Chosen after Muhammad’s death, Abū Bakr secured the community during the Ridda wars.","noteCn":"穆罕默德逝世后，阿布·伯克尔获推举，并在里达战争中巩固共同体。"},
+    {"kind":"person","personId":"307c1615-5644-4df8-82eb-dea0207ed558","startYear":634,"endYear":644,"titleForm":"Caliph","tierOverride":"caliph","note":"ʿUmar succeeded Abū Bakr and oversaw the expansion into Syria, Iraq and Egypt.","noteCn":"欧麦尔继承阿布·伯克尔，并见证政体扩展至叙利亚、伊拉克与埃及。"},
+    {"kind":"person","personId":"8b85eeac-4695-4bc1-ae46-2d65e7d22dd5","startYear":644,"endYear":656,"titleForm":"Caliph","tierOverride":"caliph","note":"ʿUthmān continued the conquests and commissioned the standard Qurʾanic recension.","noteCn":"奥斯曼延续对外扩张，并主持形成《古兰经》的标准定本。"},
+    {"kind":"person","personId":"ac92c10a-f2b5-4ba8-8d79-af772ea959c0","startYear":656,"endYear":661,"titleForm":"Caliph","tierOverride":"caliph","note":"ʿAlī led during the First Fitna; his death ended the Rashidun sequence.","noteCn":"阿里在第一次内战中统治；其逝世标志正统哈里发序列的结束。"}
+  ]
+}

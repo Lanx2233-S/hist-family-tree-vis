@@ -1,0 +1,118 @@
+[
+  {
+    "id": "0234d202-7145-44c7-94f9-b0487978d357",
+    "firstName": "al-ʿAbbās",
+    "lastName": "ibn ʿAbd al-Muṭṭalib",
+    "displayName": "al-ʿAbbās ibn ʿAbd al-Muṭṭalib",
+    "fullName": "al-ʿAbbās ibn ʿAbd al-Muṭṭalib",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [
+      "Abbas ibn Abd al-Muttalib"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "阿拔斯·本·阿卜杜勒·穆塔利卜",
+    "fullNameCn": "阿拔斯·本·阿卜杜勒·穆塔利卜",
+    "birthYear": "",
+    "deathYear": 653,
+    "birthPlace": "Mecca",
+    "birthPlaceCn": "麦加",
+    "deathPlace": "Medina",
+    "deathPlaceCn": "麦地那",
+    "gender": "male",
+    "dynasty": "Quraysh",
+    "house": "Banū Hāshim, Abbasid ancestral line",
+    "culture": "Qurayshi Arab",
+    "faith": "Islam",
+    "primaryTitle": "Companion of Muhammad and ancestor of the Abbasids",
+    "primaryTitleCn": "穆罕默德叔父、圣门弟子及阿拔斯王朝祖先",
+    "titles": [],
+    "tags": [
+      "noble"
+    ],
+    "rank": "noble",
+    "importanceScore": 75,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "876d8768-5261-4ecf-a808-ce6515c1b538",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 624,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "imprisonment"
+        ],
+        "weight": 80,
+        "label": "Was captured by the Muslims at the Battle of Badr",
+        "labelCn": "在白德尔战役中被穆斯林俘虏",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Abbas_ibn_Abd_al-Muttalib",
+        "note": "Later traditions disagree over whether he had already secretly sympathized with Islam."
+      },
+      {
+        "year": 630,
+        "type": "religion",
+        "tags": [
+          "religion",
+          "dynasty"
+        ],
+        "weight": 90,
+        "label": "Openly joined Muhammad before or at the conquest of Mecca",
+        "labelCn": "在麦加征服前后公开加入穆罕默德阵营",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Abbas_ibn_Abd_al-Muttalib",
+        "note": "Public conversion is clear by the conquest, though family traditions claim an earlier secret conversion."
+      },
+      {
+        "year": 630,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "alliance"
+        ],
+        "weight": 80,
+        "label": "Remained with Muhammad during the crisis at Ḥunayn",
+        "labelCn": "侯奈因战役危急时仍留在穆罕默德身边",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Abbas_ibn_Abd_al-Muttalib",
+        "note": "He is remembered among those who stayed near Muhammad and helped rally the army."
+      },
+      {
+        "year": 632,
+        "type": "religion",
+        "tags": [
+          "religion",
+          "dynasty"
+        ],
+        "weight": 75,
+        "label": "Became a senior member of the Prophet's family after Muhammad's death",
+        "labelCn": "穆罕默德去世后成为先知家族的重要长辈",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Abbas_ibn_Abd_al-Muttalib",
+        "note": "Later Abbasid legitimacy placed exceptional emphasis on descent from him."
+      },
+      {
+        "year": 653,
+        "type": "death",
+        "tags": [
+          "death",
+          "noble"
+        ],
+        "weight": 65,
+        "label": "Died in Medina",
+        "labelCn": "在麦地那去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Abbas_ibn_Abd_al-Muttalib",
+        "note": "His descendants later formed the genealogical basis of the Abbasid house."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Abbas_ibn_Abd_al-Muttalib",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Abbas_ibn_Abd_al-Muttalib",
+    "sourceNote": "Ibn Isḥāq/Ibn Hishām; al-Ṭabarī; al-Balādhurī; Tayeb El-Hibri; Hugh Kennedy; Wikipedia as supplementary index.",
+    "notes": "Muhammad's paternal uncle and the eponymous ancestor used by the Abbasids; this batch intentionally stops that line here.\n\nConfidence / caveats: Conversion date is disputed and later Abbasid political memory shaped traditions about him. Exact birth year is uncertain.\n\nUnlinked family: mother: Nutayla bint Janāb; spouse: Lubāba al-Kubrā bint al-Ḥārith; child: ʿAbd Allāh ibn al-ʿAbbās; child: al-Faḍl ibn al-ʿAbbās; child: Qutham ibn al-ʿAbbās; child: ʿUbayd Allāh ibn al-ʿAbbās",
+    "createdDate": "20260824",
+    "createdOrder": 681
+  }
+]

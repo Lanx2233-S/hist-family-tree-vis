@@ -10,6 +10,6 @@
 
 ## 数据源约定
 
-人物数据唯一源为 `src/data/people/*.json` 与 `manifest.json`；根 `people.normandy.json` 为生成产物，勿手改，改完跑 `npm run data:build`。新增人物按 dynasty 归入对应拆分文件、UUID 加入 `manifest.json` 的 `order`。
+人物数据唯一源为 `src/data/people/*.json` 与 `manifest.json`；根 `people.generated.json` 为生成产物，勿手改，改完跑 `npm run data:build`。新增人物按 dynasty 归入对应拆分文件、UUID 加入 `manifest.json` 的 `order`。
 
 代理成本与委托策略见 `docs/CLAUDE.local.md`。

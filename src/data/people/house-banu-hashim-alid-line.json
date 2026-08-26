@@ -1,0 +1,292 @@
+[
+  {
+    "id": "ac92c10a-f2b5-4ba8-8d79-af772ea959c0",
+    "firstName": "ʿAlī",
+    "lastName": "ibn Abī Ṭālib",
+    "displayName": "ʿAlī ibn Abī Ṭālib",
+    "fullName": "ʿAlī ibn Abī Ṭālib",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [
+      "Ali ibn Abi Talib",
+      "ʿAlī",
+      "Amīr al-Muʾminīn",
+      "First Imam in Shi'i Islam"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "阿里·本·阿布·塔利卜",
+    "fullNameCn": "阿里·本·阿布·塔利卜",
+    "birthYear": "",
+    "deathYear": 661,
+    "birthPlace": "Mecca",
+    "birthPlaceCn": "麦加",
+    "deathPlace": "Kufa",
+    "deathPlaceCn": "库法",
+    "deathCause": {
+      "kind": "violent_uncertain",
+      "summary": "died from a poisoned sword wound inflicted in an assassination",
+      "summaryCn": "遭刺杀时中毒剑伤，后因伤去世",
+      "detail": "died from a poisoned sword wound inflicted in an assassination",
+      "detailCn": "遭刺杀时中毒剑伤，后因伤去世",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Ali"
+    },
+    "gender": "male",
+    "dynasty": "Quraysh",
+    "house": "Banū Hāshim, Alid line",
+    "culture": "Qurayshi Arab",
+    "faith": "Islam",
+    "primaryTitle": "Fourth Rashidun Caliph",
+    "primaryTitleCn": "第四任正统哈里发",
+    "titles": [
+      {
+        "title": "Caliph",
+        "titleCn": "哈里发",
+        "startYear": 656,
+        "endYear": 661
+      },
+      {
+        "title": "Imam in Shi'i Islam",
+        "titleCn": "什叶派第一任伊玛目",
+        "startYear": 632,
+        "endYear": 661
+      }
+    ],
+    "tags": [
+      "monarch",
+      "caliph",
+      "commander"
+    ],
+    "rank": "emperor",
+    "importanceScore": 100,
+    "historicalRating": 10,
+    "relationships": {
+      "fatherId": "106944a7-e33c-4a52-be7a-d619b61db972",
+      "motherId": "",
+      "spouseIds": [
+        "e6973117-63ca-4995-8242-86757ffbc49c"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "28f28c55-b23c-4362-981b-254568f7fa23",
+        "96196245-8f5d-4349-b7df-10d3119f064a"
+      ]
+    },
+    "events": [
+      {
+        "year": 610,
+        "type": "religion",
+        "tags": [
+          "religion",
+          "dynasty"
+        ],
+        "weight": 90,
+        "label": "Became one of Muhammad's earliest followers",
+        "labelCn": "成为穆罕默德最早的追随者之一",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ali",
+        "note": "Tradition places the young ʿAlī among the very earliest believers."
+      },
+      {
+        "year": 622,
+        "type": "politics",
+        "tags": [
+          "politics",
+          "defense"
+        ],
+        "weight": 90,
+        "label": "Helped Muhammad's departure from Mecca during the Hijra",
+        "labelCn": "在希吉拉期间协助穆罕默德离开麦加",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ali",
+        "note": "Sīra tradition says he stayed temporarily to return entrusted property and later joined Muhammad in Medina."
+      },
+      {
+        "year": 624,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 100,
+        "label": "Married Fāṭima, daughter of Muhammad",
+        "labelCn": "与穆罕默德之女法蒂玛结婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ali",
+        "note": "The marriage produced Ḥasan, Ḥusayn and the principal Alid genealogical lines."
+      },
+      {
+        "year": 624,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "commander"
+        ],
+        "weight": 95,
+        "label": "Distinguished himself at the Battle of Badr",
+        "labelCn": "在白德尔战役中表现突出",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ali",
+        "note": "He was among the prominent Muslim fighters at Badr."
+      },
+      {
+        "year": 625,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "defense"
+        ],
+        "weight": 85,
+        "label": "Fought at Uḥud and remained near Muhammad during the crisis",
+        "labelCn": "参加伍侯德战役并在危机中保护穆罕默德",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ali",
+        "note": "Later traditions emphasize his defensive role after the Muslim formation broke."
+      },
+      {
+        "year": 627,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "defense"
+        ],
+        "weight": 90,
+        "label": "Fought in the Battle of the Trench",
+        "labelCn": "参加壕沟之战",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ali",
+        "note": "His duel with ʿAmr ibn ʿAbd Wudd is famous but literary details are later."
+      },
+      {
+        "year": 628,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "commander"
+        ],
+        "weight": 90,
+        "label": "Played a leading military role at Khaybar",
+        "labelCn": "在海拜尔战役中发挥重要军事作用",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ali",
+        "note": "Traditions across sectarian lines associate him with a decisive role."
+      },
+      {
+        "year": 630,
+        "type": "conquest",
+        "tags": [
+          "conquest",
+          "religion"
+        ],
+        "weight": 80,
+        "label": "Participated in the conquest and religious reordering of Mecca",
+        "labelCn": "参与征服麦加及其宗教秩序重建",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ali",
+        "note": "Later reports assign him roles in implementing the new order."
+      },
+      {
+        "year": 631,
+        "type": "government",
+        "tags": [
+          "government",
+          "administration"
+        ],
+        "weight": 75,
+        "label": "Was sent on a mission to Yemen",
+        "labelCn": "受派前往也门执行任务",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ali",
+        "note": "Muhammad entrusted him with military, judicial and administrative responsibilities."
+      },
+      {
+        "year": 632,
+        "type": "religion",
+        "tags": [
+          "religion",
+          "succession"
+        ],
+        "weight": 100,
+        "label": "Became central to the disputed succession memory of Ghadīr Khumm",
+        "labelCn": "成为盖迪尔·胡姆继承记忆争议的核心人物",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ali",
+        "note": "The statement concerning ʿAlī is widely transmitted, but Sunni and Shi'i traditions disagree over whether it designated succession."
+      },
+      {
+        "year": 632,
+        "type": "politics",
+        "tags": [
+          "politics",
+          "succession"
+        ],
+        "weight": 100,
+        "label": "Did not become caliph after Muhammad's death",
+        "labelCn": "穆罕默德去世后未立即成为哈里发",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ali",
+        "note": "Abū Bakr was selected at Saqīfa while ʿAlī and the Prophet's household were initially outside that decision."
+      },
+      {
+        "year": 656,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 100,
+        "label": "Became caliph after the killing of ʿUthmān",
+        "labelCn": "奥斯曼遇害后成为哈里发",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ali",
+        "note": "He received allegiance amid severe fragmentation."
+      },
+      {
+        "year": 656,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "commander"
+        ],
+        "weight": 100,
+        "label": "Defeated ʿĀʾisha, Ṭalḥa and al-Zubayr at the Battle of the Camel",
+        "labelCn": "在骆驼之战中击败阿伊莎、泰勒哈与祖拜尔联盟",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ali",
+        "note": "The victory was the first major battle of the First Fitna."
+      },
+      {
+        "year": 657,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "commander"
+        ],
+        "weight": 100,
+        "label": "Fought Muʿāwiya at Ṣiffīn",
+        "labelCn": "在隋芬与穆阿维叶交战",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ali",
+        "note": "The battle ended inconclusively and led to arbitration."
+      },
+      {
+        "year": 658,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "rebellion"
+        ],
+        "weight": 95,
+        "label": "Defeated the Khārijites at Nahrawān",
+        "labelCn": "在纳赫拉万击败哈瓦利吉派",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ali",
+        "note": "Former supporters who rejected arbitration broke with him."
+      },
+      {
+        "year": 661,
+        "type": "death",
+        "tags": [
+          "death",
+          "violent"
+        ],
+        "weight": 100,
+        "label": "Was assassinated at Kufa and died from his wounds",
+        "labelCn": "在库法遇刺并因伤去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ali",
+        "note": "ʿAbd al-Raḥmān ibn Muljam struck him with a poisoned sword; he died shortly afterward."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Ali",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Ali",
+    "sourceNote": "Wilferd Madelung; Hugh Kennedy; Najam Haider; al-Ṭabarī used critically; Encyclopaedia of Islam scholarship; Wikipedia as supplementary chronology index.",
+    "notes": "Connects the Prophetic family, Rashidun caliphate and later Alid traditions. His sons by Fāṭima form the two major branches of Muhammad's surviving genealogical descent.\n\nConfidence / caveats: Birth is conventionally c.600 and the Kaʿba-birth tradition is not independently secure. Sunni Islam numbers him fourth caliph from 656; Shi'i traditions regard him as designated first Imam from 632. Ghadīr Khumm is transmitted but its meaning is disputed. Battlefield details are often hagiographically elaborated.\n\nUnlinked family: mother: Fāṭima bint Asad; spouse: Khawla bint Jaʿfar al-Ḥanafiyya; child: Zaynab bint ʿAlī; child: Umm Kulthūm bint ʿAlī; child: Muḥammad ibn al-Ḥanafiyya",
+    "createdDate": "20260824",
+    "createdOrder": 683
+  }
+]

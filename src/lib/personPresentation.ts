@@ -17,6 +17,11 @@ export function initials(person: Person, language?: "en" | "cn") {
 }
 
 export function titleTier(person: Person) {
+  // Religious sovereign styling is tag-led rather than title-string-led:
+  // caliphs retain the green sovereign fill, while prophets remain a unique
+  // exceptional tier so future special figures can receive their own rules.
+  if (person.tags.includes("prophet")) return "prophet";
+  if (person.tags.includes("caliph")) return "caliph";
   const title = `${person.rank} ${person.primaryTitle}`.toLowerCase();
   if (title.includes("emperor") || title.includes("empress")) return "emperor";
   if (title.includes("king") || title.includes("queen")) return "king";

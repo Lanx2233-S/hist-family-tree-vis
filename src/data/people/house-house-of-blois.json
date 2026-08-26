@@ -42,8 +42,8 @@
     "importanceScore": 78,
     "historicalRating": 7,
     "relationships": {
-      "fatherId": "",
-      "motherId": "",
+      "fatherId": "c7060000-0000-4000-8000-000000000006",
+      "motherId": "5f609d36-19eb-4430-967e-8d76eef50c24",
       "spouseIds": [],
       "partnerIds": [],
       "childIds": []
@@ -641,9 +641,13 @@
     "relationships": {
       "fatherId": "",
       "motherId": "",
-      "spouseIds": [],
+      "spouseIds": [
+        "5f609d36-19eb-4430-967e-8d76eef50c24"
+      ],
       "partnerIds": [],
-      "childIds": []
+      "childIds": [
+        "8da6a92d-40c5-47c0-8c42-9858db5cf61d"
+      ]
     },
     "events": [
       {

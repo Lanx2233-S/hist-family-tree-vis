@@ -35,11 +35,11 @@
 
 .title-catalog {
   display: grid;
-  width: min(100% - 2rem, 760px);
+  width: min(100% - 3rem, 920px);
   min-height: 56vh;
-  margin: clamp(28px, 8vh, 96px) auto 0;
+  margin: clamp(28px, 8vh, 96px) auto clamp(28px, 7vh, 80px);
   align-content: center;
-  gap: 18px;
+  gap: 22px;
 }
 
 .title-catalog-header {
@@ -170,12 +170,107 @@
 }
 
 .title-catalog-results {
-  min-height: 88px;
+  display: grid;
+  grid-auto-flow: column;
+  grid-template-rows: repeat(5, minmax(90px, auto));
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 22px;
+  min-height: 180px;
+}
+
+.title-catalog-entry {
+  display: grid;
+  grid-template-columns: 90px minmax(0, 1fr);
+  align-items: center;
+  gap: 24px;
+  min-height: 90px;
 }
 
 .title-catalog-results .title-entry-card {
-  width: min(100%, 460px);
+  width: 90px;
+  min-height: 90px;
+  aspect-ratio: 1;
+  align-content: center;
+  padding: 20px;
 }
+
+.title-catalog-results .title-entry-card--reserved {
+  display: grid;
+  place-items: center;
+  justify-content: center;
+  align-content: center;
+}
+
+.title-entry-emblem-frame {
+  position: relative;
+  display: grid;
+  place-items: center;
+  width: 76px;
+  height: 80px;
+  overflow: hidden;
+  clip-path: polygon(8% 3%, 92% 3%, 92% 57%, 84% 75%, 67% 90%, 50% 97%, 33% 90%, 16% 75%, 8% 57%);
+  background: #B78B43;
+  filter: drop-shadow(0 2px 2px rgba(55, 35, 20, 0.22));
+}
+
+.title-entry-emblem-frame::before {
+  position: absolute;
+  inset: 3px;
+  content: "";
+  clip-path: inherit;
+  background: #FFF8E8;
+}
+
+.title-entry-emblem {
+  position: relative;
+  z-index: 1;
+  width: 66px;
+  height: 70px;
+  object-fit: contain;
+}
+
+/* The Chi-Rho is the Byzantine field itself: use it as a centred, enlarged
+   background so no second purple layer or inset square can show through. */
+.title-entry-card--byzantium .title-entry-emblem-frame {
+  display: none;
+}
+
+.title-catalog-results .title-entry-card--byzantium {
+  padding: 0;
+}
+
+.title-entry-note {
+  max-width: 48ch;
+  margin: 0;
+  color: #6f5a3c;
+  font-size: 1rem;
+  font-weight: 650;
+  line-height: 1.55;
+}
+
+.title-catalog-pagination {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding-top: 6px;
+}
+
+.title-catalog-pagination button {
+  width: 42px;
+  height: 38px;
+  border: 1px solid #8b6b43;
+  border-radius: 8px;
+  background: #fff8e8;
+  color: #332115;
+  cursor: pointer;
+  font: inherit;
+  font-size: 1.15rem;
+  font-weight: 800;
+}
+
+.title-catalog-pagination button:disabled { opacity: 0.35; cursor: default; }
+.title-catalog-pagination span { min-width: 46px; text-align: center; color: #6f5a3c; font-weight: 800; }
 
 .tree-entry-grid,
 .tree-search-results {
@@ -270,18 +365,30 @@
 }
 
 /* Keep the visible title entrances aligned with the five homepage spheres. */
-.title-entry-card--england { background: #7b1f2a; }
-.title-entry-card--france { background: #183b70; }
+.title-entry-card--england { background: #7b1f2a url("/images/heraldry/title/kingdom-of-england-three-lions.png") center / 100% no-repeat; }
+.title-entry-card--france { background: #183b70 url("/images/heraldry/title/kingdom-of-france-fleur-de-lis.png") center / 100% no-repeat; }
 .title-entry-card--germany { background: #53655a; }
 .title-entry-card--castile { background: #d59a12; color: #2d1b05; }
-.title-entry-card--byzantium { background: #72264f; }
+.title-entry-card--byzantium { background: #72264f url("/images/heraldry/title/late-roman-chi-rho.png") center / 120% no-repeat; }
+.title-entry-card--rashidun { background: #0B6B3A url("/images/heraldry/title/rashidun-caliphate-calligraphy.png") center / 100% no-repeat; }
+.title-entry-card--aragon { background: #C73A2B; }
+.title-entry-card--sicily { background: #E8C978; }
+.title-entry-card--bohemia { background: #8A1C2A; }
+.title-entry-card--denmark { background: #C60C30; }
+.title-entry-card--navarre { background: #9D1B2A; }
 .title-entry-card--castile .title-entry-name-cn { color: rgba(45, 27, 5, 0.72); }
 
-.title-entry-card--england:hover { background: #5f1420; }
-.title-entry-card--france:hover { background: #102c56; }
+.title-entry-card--england:hover { background-color: #5f1420; }
+.title-entry-card--france:hover { background-color: #102c56; }
 .title-entry-card--germany:hover { background: #3d4d43; }
 .title-entry-card--castile:hover { background: #aa7808; }
-.title-entry-card--byzantium:hover { background: #561a3a; }
+.title-entry-card--byzantium:hover { background-color: #561a3a; }
+.title-entry-card--rashidun:hover { background-color: #08522d; }
+.title-entry-card--aragon:hover { background: #9f2c21; }
+.title-entry-card--sicily:hover { background: #d4ae57; }
+.title-entry-card--bohemia:hover { background: #681420; }
+.title-entry-card--denmark:hover { background: #980921; }
+.title-entry-card--navarre:hover { background: #741421; }
 
 .title-entry-name {
   font-size: 1.25rem;
@@ -558,6 +665,14 @@
 .title-person-node.tier-duke:not(.illegitimate) { background: #9cc4d6; color: #22170f; }
 .title-person-node.tier-count:not(.illegitimate) { background: #aab8ad; color: #22170f; }
 .title-person-node.tier-untitled:not(.illegitimate) { background: #fff8e8; color: #22170f; }
+.title-person-node.tier-caliph:not(.illegitimate) { background: #0B6B3A; color: #fff; }
+.title-person-node.tier-prophet:not(.illegitimate) {
+  border-color: #B78B43;
+  border-width: 5px;
+  background: #FFF8E8;
+  color: #0B6B3A;
+  box-shadow: inset 0 0 0 3px #0B6B3A, 0 12px 28px rgba(55, 35, 20, 0.22);
+}
 
 /* Illegitimate: neutral fill with a grey-black dashed border, matching
    .person-node.illegitimate. The tier fill does not apply; only the border
@@ -595,6 +710,9 @@
     1px 1px 0 rgba(255, 248, 232, 0.95),
     0 2px 2px rgba(37, 52, 64, 0.26);
 }
+
+.title-person-node.tier-caliph .title-node-gender { color: #fff; }
+.title-person-node.tier-prophet .title-node-gender { color: #0B6B3A; }
 
 .title-node-gender.female {
   color: #c45a9c;
@@ -663,6 +781,10 @@
   }
   .title-catalog-search-row { flex-direction: column; }
   .title-directory-button { width: 100%; }
+  .title-catalog { width: min(100% - 1.5rem, 920px); }
+  .title-catalog-results { grid-auto-flow: row; grid-template-columns: 1fr; grid-template-rows: none; }
+  .title-catalog-entry { grid-template-columns: 1fr; justify-items: start; gap: 14px; }
+  .title-catalog-results .title-entry-card { width: min(90px, 100%); }
 }
 
 /* Succession-interregnum placeholder — same box as a person node but

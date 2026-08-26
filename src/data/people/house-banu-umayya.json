@@ -1,0 +1,218 @@
+[
+  {
+    "id": "96f199e7-9b2a-4cd8-a4c9-ce3535304714",
+    "firstName": "Umayya",
+    "lastName": "ibn ʿAbd Shams",
+    "displayName": "Umayya ibn ʿAbd Shams",
+    "fullName": "Umayya ibn ʿAbd Shams",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [
+      "Umayya ibn Abd Shams"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "伍麦叶·本·阿卜杜·沙姆斯",
+    "fullNameCn": "伍麦叶·本·阿卜杜·沙姆斯",
+    "birthYear": "",
+    "deathYear": "",
+    "birthPlace": "Mecca",
+    "birthPlaceCn": "麦加",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "Quraysh",
+    "house": "Banū Umayya",
+    "culture": "Pre-Islamic Qurayshi Arab",
+    "faith": "Pre-Islamic Arabian religion",
+    "primaryTitle": "Eponymous ancestor of Banū Umayya",
+    "primaryTitleCn": "伍麦叶家族名祖",
+    "titles": [],
+    "tags": [
+      "noble"
+    ],
+    "rank": "noble",
+    "importanceScore": 61,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "27020054-4bed-4dfa-ab8d-d303a98f4633",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "e9892a3c-3490-4e10-99e4-54fb74732df5"
+      ]
+    },
+    "events": [
+      {
+        "year": "",
+        "type": "succession",
+        "tags": [
+          "dynasty",
+          "succession"
+        ],
+        "weight": 95,
+        "label": "Became the eponymous ancestor of Banū Umayya",
+        "labelCn": "成为伍麦叶家族的名祖",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Umayya_ibn_Abd_Shams",
+        "note": "Classical genealogy identifies Umayya as the ancestor after whom Banū Umayya was named."
+      },
+      {
+        "year": "",
+        "type": "politics",
+        "tags": [
+          "politics",
+          "uncertain"
+        ],
+        "weight": 60,
+        "label": "Was later associated with a rivalry with Hāshim",
+        "labelCn": "后世传统将其与哈希姆的竞争联系起来",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Umayya_ibn_Abd_Shams",
+        "note": "Later narratives describe rivalry and arbitration between Umayya and Hāshim, but these stories are shaped by later Hashimite-Umayyad political memory."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Umayya_ibn_Abd_Shams",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Umayya_ibn_Abd_Shams",
+    "sourceNote": "Ibn Isḥāq/Ibn Hishām; al-Balādhurī, Ansāb al-ashrāf; al-Ṭabarī; G. R. Hawting; Wikipedia as supplementary index.",
+    "notes": "Eponymous ancestor of Banū Umayya and the bridge to Ḥarb and Abū Sufyān.\n\nConfidence / caveats: Stories of rivalry and exile are later traditions and difficult to separate from Abbasid-era polemic. No secure birth or death year is available.\n\nUnlinked family: child: Abū al-ʿĀṣ ibn Umayya",
+    "createdDate": "20260824",
+    "createdOrder": 674
+  },
+  {
+    "id": "e9892a3c-3490-4e10-99e4-54fb74732df5",
+    "firstName": "Ḥarb",
+    "lastName": "ibn Umayya",
+    "displayName": "Ḥarb ibn Umayya",
+    "fullName": "Ḥarb ibn Umayya",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [
+      "Harb ibn Umayya"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "哈尔卜·本·伍麦叶",
+    "fullNameCn": "哈尔卜·本·伍麦叶",
+    "birthYear": "",
+    "deathYear": "",
+    "birthPlace": "Mecca",
+    "birthPlaceCn": "麦加",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "Quraysh",
+    "house": "Banū Umayya",
+    "culture": "Pre-Islamic Qurayshi Arab",
+    "faith": "Pre-Islamic Arabian religion",
+    "primaryTitle": "Umayyad clan notable",
+    "primaryTitleCn": "伍麦叶支古莱什贵族",
+    "titles": [],
+    "tags": [
+      "noble"
+    ],
+    "rank": "noble",
+    "importanceScore": 46,
+    "historicalRating": 4,
+    "relationships": {
+      "fatherId": "96f199e7-9b2a-4cd8-a4c9-ce3535304714",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "6f7094b7-7970-45b1-a73c-aff5a4d92947"
+      ]
+    },
+    "events": [
+      {
+        "year": "",
+        "type": "politics",
+        "tags": [
+          "politics",
+          "noble"
+        ],
+        "weight": 65,
+        "label": "Was remembered as a leading notable of Banū Umayya",
+        "labelCn": "被记载为伍麦叶支的重要贵族领袖",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Harb_ibn_Umayya",
+        "note": "Later Arabic tradition places Ḥarb among prominent pre-Islamic Banū Umayya leaders."
+      },
+      {
+        "year": "",
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "dynasty"
+        ],
+        "weight": 90,
+        "label": "Fathered Abū Sufyān",
+        "labelCn": "成为阿布·苏富扬之父",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Harb_ibn_Umayya",
+        "note": "Through Abū Sufyān, Ḥarb became paternal grandfather of Muʿāwiya I."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Harb_ibn_Umayya",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Harb_ibn_Umayya",
+    "sourceNote": "Ibn Ḥabīb; al-Balādhurī; al-Ṭabarī; G. R. Hawting; Wikipedia as stable index.",
+    "notes": "Main project value is genealogical: Umayya → Ḥarb → Abū Sufyān → Muʿāwiya I.\n\nConfidence / caveats: Very little can be anchored securely in absolute chronology; Fijār-war anecdotes and leadership stories are not converted into precise dates.",
+    "createdDate": "20260824",
+    "createdOrder": 675
+  },
+  {
+    "id": "8b85eeac-4695-4bc1-ae46-2d65e7d22dd5",
+    "firstName": "ʿUthmān",
+    "lastName": "ibn ʿAffān",
+    "displayName": "ʿUthmān ibn ʿAffān",
+    "fullName": "ʿUthmān ibn ʿAffān",
+    "nickname": "Dhū al-Nūrayn",
+    "nicknameCn": "双光者",
+    "alsoKnownAs": ["Uthman", "عثمان بن عفان", "ʿUthmān Dhū al-Nūrayn"],
+    "nicknameTags": ["Dhū al-Nūrayn"],
+    "displayNameCn": "奥斯曼·本·阿凡",
+    "fullNameCn": "奥斯曼·本·阿凡",
+    "birthYear": 576,
+    "deathYear": 656,
+    "birthPlace": "Mecca",
+    "birthPlaceCn": "麦加",
+    "deathPlace": "Medina",
+    "deathPlaceCn": "麦地那",
+    "deathCause": {
+      "kind": "violent_uncertain",
+      "summary": "Killed by rebels during the siege of his house in Medina",
+      "summaryCn": "麦地那居所遭围攻时被叛乱者杀害",
+      "detail": "Rebels entered his house after a prolonged siege and killed him; accounts differ over the individual assailants and exact sequence.",
+      "detailCn": "长期围困后，叛乱者进入其宅邸并将其杀害；关于具体行刺者与过程的记载并不一致。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Uthman"
+    },
+    "gender": "male",
+    "dynasty": "Quraysh",
+    "house": "Banū Umayya",
+    "culture": "Qurayshi Arab",
+    "faith": "Islam",
+    "primaryTitle": "Third Rashidun Caliph",
+    "primaryTitleCn": "第三任正统哈里发",
+    "titles": [{"title":"Caliph","titleCn":"哈里发","startYear":644,"endYear":656}],
+    "tags": ["monarch", "caliph"],
+    "rank": "caliph",
+    "importanceScore": 95,
+    "historicalRating": 8,
+    "relationships": {"fatherId":"","motherId":"","spouseIds":[],"partnerIds":[],"childIds":[]},
+    "events": [
+      {"year":611,"type":"religion","tags":["religion","politics"],"weight":90,"label":"Became an early Muslim convert","labelCn":"成为早期穆斯林皈依者","wikiUrl":"https://en.wikipedia.org/wiki/Uthman","note":"Tradition identifies ʿUthmān among the early converts in Mecca."},
+      {"year":615,"type":"politics","tags":["politics","religion"],"weight":85,"label":"Joined the migration to Abyssinia","labelCn":"参与迁往阿比西尼亚","wikiUrl":"https://en.wikipedia.org/wiki/Uthman","note":"He and Ruqayya, Muhammad’s daughter, were among the early emigrants in Islamic tradition."},
+      {"year":622,"month":9,"type":"politics","tags":["politics","religion"],"weight":85,"label":"Migrated to Medina","labelCn":"迁徙至麦地那","wikiUrl":"https://en.wikipedia.org/wiki/Uthman","note":"He became a member of the Medinan Muslim community."},
+      {"year":644,"month":11,"type":"succession","tags":["succession","monarch"],"weight":100,"label":"Was chosen as the third caliph","labelCn":"获推举为第三任哈里发","wikiUrl":"https://en.wikipedia.org/wiki/Uthman","note":"A council appointed by ʿUmar chose ʿUthmān after ʿUmar’s death."},
+      {"year":647,"type":"campaign","tags":["campaign","conquest"],"weight":85,"label":"Authorized campaigns in North Africa","labelCn":"批准在北非的军事行动","wikiUrl":"https://en.wikipedia.org/wiki/Uthman","note":"Rashidun forces expanded westward into former Byzantine Africa during his reign."},
+      {"year":649,"type":"campaign","tags":["campaign","commander"],"weight":90,"label":"Authorized the first Muslim naval expedition to Cyprus","labelCn":"批准首次穆斯林海军远征塞浦路斯","wikiUrl":"https://en.wikipedia.org/wiki/Uthman","note":"The campaign marked a major extension of Rashidun military capacity at sea."},
+      {"year":650,"type":"religion","tags":["religion","government"],"weight":100,"label":"Commissioned a standard written recension of the Qurʾan","labelCn":"主持形成《古兰经》的标准书面定本","wikiUrl":"https://en.wikipedia.org/wiki/Uthman","note":"The Uthmanic recension became the canonical consonantal text in Sunni tradition."},
+      {"year":655,"type":"battle","tags":["battle","commander"],"weight":90,"label":"Rashidun fleet defeated Byzantium at the Battle of the Masts","labelCn":"正统哈里发舰队在桅杆之战中击败拜占庭","wikiUrl":"https://en.wikipedia.org/wiki/Battle_of_the_Masts","note":"The naval victory challenged Byzantine dominance in the eastern Mediterranean."},
+      {"year":656,"month":6,"type":"assassination","tags":["assassination","politics"],"weight":100,"label":"Was killed during the siege of his house in Medina","labelCn":"麦地那居所遭围攻时遇害","wikiUrl":"https://en.wikipedia.org/wiki/Uthman","note":"His death triggered the First Fitna, the first major civil war of the caliphate."}
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Uthman",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Uthman",
+    "sourceNote": "Hugh N. Kennedy, The Prophet and the Age of the Caliphates; Fred M. Donner, Muhammad and the Believers; Wikipedia used as a chronology index.",
+    "notes": "Third caliph of the Rashidun period. His recension of the Qurʾan and his violent death were decisive for the later political and religious history of Islam.\n\nConfidence / caveats: conventional birth year is approximate; accounts of the siege and individual attackers differ substantially between later sources.",
+    "createdDate": "20260824",
+    "createdOrder": 689
+  }
+]

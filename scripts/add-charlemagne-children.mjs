@@ -2,7 +2,7 @@ import crypto from "node:crypto";
 import fs from "node:fs";
 
 const root = new URL("..", import.meta.url);
-const dataFile = new URL("../people.normandy.json", import.meta.url);
+const dataFile = new URL("../people.generated.json", import.meta.url);
 const mapFile = new URL("../id-uuid-mapping.backup.json", import.meta.url);
 const logFile = new URL("../people-entry-log.md", import.meta.url);
 const people = JSON.parse(fs.readFileSync(dataFile, "utf8"));

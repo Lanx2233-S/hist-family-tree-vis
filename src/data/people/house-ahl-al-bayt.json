@@ -1,0 +1,597 @@
+[
+  {
+    "id": "e6973117-63ca-4995-8242-86757ffbc49c",
+    "firstName": "Fāṭima",
+    "lastName": "al-Zahrāʾ",
+    "displayName": "Fāṭima al-Zahrāʾ",
+    "fullName": "Fāṭima al-Zahrāʾ bint Muḥammad",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [
+      "Fatima al-Zahra",
+      "Fāṭima bint Muḥammad",
+      "al-Zahrāʾ"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "法蒂玛·宰赫拉",
+    "fullNameCn": "法蒂玛·宰赫拉·宾特·穆罕默德",
+    "birthYear": "",
+    "deathYear": 632,
+    "birthPlace": "Mecca",
+    "birthPlaceCn": "麦加",
+    "deathPlace": "Medina",
+    "deathPlaceCn": "麦地那",
+    "gender": "female",
+    "dynasty": "Quraysh",
+    "house": "Banū Hāshim / Ahl al-Bayt",
+    "culture": "Qurayshi Arab",
+    "faith": "Islam",
+    "primaryTitle": "Daughter of Muhammad and member of the Ahl al-Bayt",
+    "primaryTitleCn": "穆罕默德之女及圣裔核心成员",
+    "titles": [],
+    "tags": [
+      "noble"
+    ],
+    "rank": "noble",
+    "importanceScore": 95,
+    "historicalRating": 8,
+    "relationships": {
+      "fatherId": "b54d8195-66ad-4668-b9dc-a117a2d9e51b",
+      "motherId": "",
+      "spouseIds": [
+        "ac92c10a-f2b5-4ba8-8d79-af772ea959c0"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "28f28c55-b23c-4362-981b-254568f7fa23",
+        "96196245-8f5d-4349-b7df-10d3119f064a"
+      ]
+    },
+    "events": [
+      {
+        "year": 615,
+        "type": "political_crisis",
+        "tags": [
+          "political_crisis",
+          "dynasty"
+        ],
+        "weight": 60,
+        "label": "Shared the pressures faced by Muhammad's household in Mecca",
+        "labelCn": "在麦加时期与穆罕默德家庭共同承受政治与社会压力",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Fatima",
+        "note": "Precise childhood incidents are preserved mainly in later devotional biography."
+      },
+      {
+        "year": 616,
+        "type": "politics",
+        "tags": [
+          "politics",
+          "defense"
+        ],
+        "weight": 70,
+        "label": "Experienced the Banū Hāshim boycott with her family",
+        "labelCn": "随家族经历针对哈希姆支的抵制与封锁",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Fatima",
+        "note": "Exact dates and conditions of the boycott vary."
+      },
+      {
+        "year": 622,
+        "type": "politics",
+        "tags": [
+          "politics",
+          "dynasty"
+        ],
+        "weight": 75,
+        "label": "Migrated from Mecca to Medina",
+        "labelCn": "从麦加迁往麦地那",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Fatima",
+        "note": "She joined the Prophet's household in Medina."
+      },
+      {
+        "year": 624,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 100,
+        "label": "Married ʿAlī ibn Abī Ṭālib",
+        "labelCn": "与阿里·本·阿布·塔利卜结婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Fatima",
+        "note": "The marriage produced the surviving genealogical line most closely associated with the Prophet's family."
+      },
+      {
+        "year": 625,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "dynasty"
+        ],
+        "weight": 100,
+        "label": "Gave birth to Ḥasan ibn ʿAlī",
+        "labelCn": "生下哈桑·本·阿里",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Fatima",
+        "note": "Ḥasan later briefly claimed the caliphate."
+      },
+      {
+        "year": 626,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "dynasty"
+        ],
+        "weight": 100,
+        "label": "Gave birth to Ḥusayn ibn ʿAlī",
+        "labelCn": "生下侯赛因·本·阿里",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Fatima",
+        "note": "Ḥusayn became central to Shi'i history through Karbala."
+      },
+      {
+        "year": 627,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "dynasty"
+        ],
+        "weight": 75,
+        "label": "Gave birth to Zaynab bint ʿAlī",
+        "labelCn": "生下宰娜卜·宾特·阿里",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Fatima",
+        "note": "Zaynab later played a major role in the memory of Karbala; the birth year is approximate."
+      },
+      {
+        "year": 631,
+        "type": "religion",
+        "tags": [
+          "religion",
+          "dynasty"
+        ],
+        "weight": 90,
+        "label": "Was identified with Muhammad's household in the event of Mubāhala",
+        "labelCn": "在穆巴哈拉事件中作为穆罕默德核心家属出现",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Fatima",
+        "note": "Exegesis associates Fāṭima, ʿAlī, Ḥasan and Ḥusayn with Muhammad's family delegation to the Christians of Najran."
+      },
+      {
+        "year": 632,
+        "type": "politics",
+        "tags": [
+          "politics",
+          "legal"
+        ],
+        "weight": 95,
+        "label": "Disputed the disposition of Fadak after Muhammad's death",
+        "labelCn": "穆罕默德去世后围绕法达克财产发生争议",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Fatima",
+        "note": "Her dispute with Abū Bakr over inheritance/property became a lasting symbol of the succession crisis."
+      },
+      {
+        "year": 632,
+        "type": "death",
+        "tags": [
+          "death",
+          "uncertain"
+        ],
+        "weight": 100,
+        "label": "Died in Medina within months of Muhammad",
+        "labelCn": "在穆罕默德去世后数月内于麦地那去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Fatima",
+        "note": "Exact date, circumstances and burial location differ sharply between Sunni and Shi'i traditions."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Fatima",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Fatima",
+    "sourceNote": "Wilferd Madelung; Encyclopaedia of Islam scholarship; al-Balādhurī and al-Ṭabarī used critically; Sunni and Shi'i hadith traditions compared; Wikipedia as supplementary index.",
+    "notes": "The principal genealogical conduit through whom surviving Prophetic descent is traced. A future Fatimid chain must be marked claimed descent through Fāṭima and ʿAlī, not a Y-line from Muhammad.\n\nConfidence / caveats: Birth is highly disputed, commonly ranging c.605–615, so birthYear is null. Death occurred in 632 but precise timing and causes differ sharply. Reports of injuries linked to the succession confrontation are sectarian and not entered as established fact.\n\n资料限制，未以重复事件凑数。\n\nUnlinked family: mother: Khadīja bint Khuwaylid; child: Zaynab bint ʿAlī; child: Umm Kulthūm bint ʿAlī",
+    "createdDate": "20260824",
+    "createdOrder": 684
+  },
+  {
+    "id": "28f28c55-b23c-4362-981b-254568f7fa23",
+    "firstName": "Ḥasan",
+    "lastName": "ibn ʿAlī",
+    "displayName": "Ḥasan ibn ʿAlī",
+    "fullName": "Ḥasan ibn ʿAlī ibn Abī Ṭālib",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [
+      "Hasan ibn Ali",
+      "Ḥasan al-Mujtabā",
+      "Second Imam in Twelver Shi'ism"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "哈桑·本·阿里",
+    "fullNameCn": "哈桑·本·阿里·本·阿布·塔利卜",
+    "birthYear": 625,
+    "deathYear": 670,
+    "birthPlace": "Medina",
+    "birthPlaceCn": "麦地那",
+    "deathPlace": "Medina",
+    "deathPlaceCn": "麦地那",
+    "deathCause": {
+      "kind": "violent_uncertain",
+      "summary": "died after an illness traditionally attributed by many sources to poisoning",
+      "summaryCn": "病后去世；许多传统记载归因于中毒，但凶手与责任不确定",
+      "detail": "died after an illness traditionally attributed by many sources to poisoning",
+      "detailCn": "病后去世；许多传统记载归因于中毒，但凶手与责任不确定",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Hasan_ibn_Ali"
+    },
+    "gender": "male",
+    "dynasty": "Alid",
+    "house": "Banū Hāshim / Ahl al-Bayt",
+    "culture": "Qurayshi Arab",
+    "faith": "Islam",
+    "primaryTitle": "Caliph claimant and grandson of Muhammad",
+    "primaryTitleCn": "哈里发拥戴者及穆罕默德外孙",
+    "titles": [
+      {
+        "title": "Caliph recognized in Iraq",
+        "titleCn": "在伊拉克获拥戴的哈里发",
+        "startYear": 661,
+        "endYear": 661
+      },
+      {
+        "title": "Imam in Shi'i Islam",
+        "titleCn": "什叶派第二任伊玛目",
+        "startYear": 661,
+        "endYear": 670
+      }
+    ],
+    "tags": [
+      "monarch",
+      "caliph",
+      "commander"
+    ],
+    "rank": "emperor",
+    "importanceScore": 90,
+    "historicalRating": 8,
+    "relationships": {
+      "fatherId": "ac92c10a-f2b5-4ba8-8d79-af772ea959c0",
+      "motherId": "e6973117-63ca-4995-8242-86757ffbc49c",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 625,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "dynasty"
+        ],
+        "weight": 90,
+        "label": "Was born in Medina as Muhammad's elder grandson",
+        "labelCn": "作为穆罕默德的长外孙出生于麦地那",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Hasan_ibn_Ali",
+        "note": "He was the first son of ʿAlī and Fāṭima."
+      },
+      {
+        "year": 631,
+        "type": "religion",
+        "tags": [
+          "religion",
+          "dynasty"
+        ],
+        "weight": 80,
+        "label": "Was associated with Muhammad's household at the Mubāhala",
+        "labelCn": "在穆巴哈拉事件中作为穆罕默德家属出现",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Hasan_ibn_Ali",
+        "note": "Exegetical tradition includes the young Ḥasan in Muhammad's family delegation."
+      },
+      {
+        "year": 656,
+        "type": "politics",
+        "tags": [
+          "politics",
+          "dynasty"
+        ],
+        "weight": 75,
+        "label": "Supported ʿAlī during the First Fitna",
+        "labelCn": "第一次内战期间支持阿里",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Hasan_ibn_Ali",
+        "note": "He remained aligned with his father and participated in mobilizing support from Kufa."
+      },
+      {
+        "year": 661,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 100,
+        "label": "Received allegiance as caliph in Kufa after ʿAlī's assassination",
+        "labelCn": "阿里遇刺后在库法接受哈里发效忠",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Hasan_ibn_Ali",
+        "note": "Large parts of ʿAlī's Iraqi following pledged allegiance to Ḥasan."
+      },
+      {
+        "year": 661,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "political_crisis"
+        ],
+        "weight": 90,
+        "label": "Mobilized against Muʿāwiya but faced fragmentation in his army",
+        "labelCn": "动员对抗穆阿维叶，但军队内部迅速分裂",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Hasan_ibn_Ali",
+        "note": "Defections, factionalism and assassination attempts weakened his position."
+      },
+      {
+        "year": 661,
+        "type": "treaty",
+        "tags": [
+          "treaty",
+          "politics"
+        ],
+        "weight": 100,
+        "label": "Reached an agreement with Muʿāwiya and relinquished political rule",
+        "labelCn": "与穆阿维叶达成协议并放弃政治统治",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Hasan_ibn_Ali",
+        "note": "The settlement ended the First Fitna; exact clauses are transmitted inconsistently."
+      },
+      {
+        "year": 662,
+        "type": "politics",
+        "tags": [
+          "politics",
+          "dynasty"
+        ],
+        "weight": 75,
+        "label": "Withdrew from active rule and lived chiefly in Medina",
+        "labelCn": "退出实际统治，主要居住于麦地那",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Hasan_ibn_Ali",
+        "note": "He did not mount a renewed military challenge during Muʿāwiya's reign."
+      },
+      {
+        "year": 670,
+        "type": "death",
+        "tags": [
+          "death",
+          "uncertain"
+        ],
+        "weight": 90,
+        "label": "Died in Medina, with poisoning widely reported but responsibility disputed",
+        "labelCn": "在麦地那去世；中毒说流传广泛但责任归属有争议",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Hasan_ibn_Ali",
+        "note": "Many sources attribute the final illness to poisoning, but allegations about who ordered it remain unproven."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Hasan_ibn_Ali",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Hasan_ibn_Ali",
+    "sourceNote": "Wilferd Madelung; Hugh Kennedy; Najam Haider; al-Ṭabarī and al-Balādhurī used critically; Sunni and Shi'i traditions compared; Wikipedia as supplementary index.",
+    "notes": "Muhammad's elder grandson and brief Iraqi caliph claimant. His 661 settlement with Muʿāwiya ended the First Fitna.\n\nConfidence / caveats: Birth may appear as 624/625 due to calendar conversion. The caliphate's duration and treaty clauses vary by source. Poisoning is widely reported, but identity and responsibility remain unproven.\n\nUnlinked family: spouse: Jaʿda bint al-Ashʿath; child: al-Ḥasan al-Muthannā; child: Zayd ibn al-Ḥasan; child: ʿAmr ibn al-Ḥasan",
+    "createdDate": "20260824",
+    "createdOrder": 685
+  },
+  {
+    "id": "96196245-8f5d-4349-b7df-10d3119f064a",
+    "firstName": "Ḥusayn",
+    "lastName": "ibn ʿAlī",
+    "displayName": "Ḥusayn ibn ʿAlī",
+    "fullName": "Ḥusayn ibn ʿAlī ibn Abī Ṭālib",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [
+      "Husayn ibn Ali",
+      "Ḥusayn ibn ʿAlī",
+      "Third Imam in Twelver Shi'ism",
+      "Sayyid al-Shuhadāʾ"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "侯赛因·本·阿里",
+    "fullNameCn": "侯赛因·本·阿里·本·阿布·塔利卜",
+    "birthYear": 626,
+    "deathYear": 680,
+    "birthPlace": "Medina",
+    "birthPlaceCn": "麦地那",
+    "deathPlace": "Karbala",
+    "deathPlaceCn": "卡尔巴拉",
+    "deathCause": {
+      "kind": "violent",
+      "summary": "killed in battle",
+      "summaryCn": "战死",
+      "detail": "killed in battle",
+      "detailCn": "战死",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Husayn_ibn_Ali"
+    },
+    "gender": "male",
+    "dynasty": "Alid",
+    "house": "Banū Hāshim / Ahl al-Bayt",
+    "culture": "Qurayshi Arab",
+    "faith": "Islam",
+    "primaryTitle": "Grandson of Muhammad and Shi'i Imam",
+    "primaryTitleCn": "穆罕默德外孙及什叶派伊玛目",
+    "titles": [
+      {
+        "title": "Imam in Shi'i Islam",
+        "titleCn": "什叶派第三任伊玛目",
+        "startYear": 670,
+        "endYear": 680
+      }
+    ],
+    "tags": [
+      "noble"
+    ],
+    "rank": "noble",
+    "importanceScore": 97,
+    "historicalRating": 9,
+    "relationships": {
+      "fatherId": "ac92c10a-f2b5-4ba8-8d79-af772ea959c0",
+      "motherId": "e6973117-63ca-4995-8242-86757ffbc49c",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 626,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "dynasty"
+        ],
+        "weight": 90,
+        "label": "Was born in Medina as Muhammad's younger grandson",
+        "labelCn": "作为穆罕默德的次外孙出生于麦地那",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Husayn_ibn_Ali",
+        "note": "He was the second son of ʿAlī and Fāṭima."
+      },
+      {
+        "year": 631,
+        "type": "religion",
+        "tags": [
+          "religion",
+          "dynasty"
+        ],
+        "weight": 85,
+        "label": "Was associated with Muhammad's household at the Mubāhala",
+        "labelCn": "在穆巴哈拉事件中作为穆罕默德家属出现",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Husayn_ibn_Ali",
+        "note": "Exegetical tradition includes him in Muhammad's family delegation."
+      },
+      {
+        "year": 632,
+        "type": "politics",
+        "tags": [
+          "politics",
+          "dynasty"
+        ],
+        "weight": 75,
+        "label": "Entered childhood under the post-Muhammad succession order",
+        "labelCn": "穆罕默德去世后进入新的哈里发政治秩序",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Husayn_ibn_Ali",
+        "note": "He was still a child; later Ahl al-Bayt claims made this succession rupture central to memory."
+      },
+      {
+        "year": 656,
+        "type": "politics",
+        "tags": [
+          "politics",
+          "dynasty"
+        ],
+        "weight": 75,
+        "label": "Supported the caliphate of his father ʿAlī",
+        "labelCn": "支持其父阿里的哈里发统治",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Husayn_ibn_Ali",
+        "note": "He remained with the Alid household during the First Fitna."
+      },
+      {
+        "year": 661,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "dynasty"
+        ],
+        "weight": 85,
+        "label": "Accepted Ḥasan's political settlement with Muʿāwiya",
+        "labelCn": "接受哈桑与穆阿维叶达成的政治和解",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Husayn_ibn_Ali",
+        "note": "He did not challenge his elder brother's leadership or the settlement."
+      },
+      {
+        "year": 670,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "dynasty"
+        ],
+        "weight": 90,
+        "label": "Became the senior surviving son of ʿAlī and Fāṭima after Ḥasan's death",
+        "labelCn": "哈桑去世后成为阿里与法蒂玛在世的主要男性后裔",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Husayn_ibn_Ali",
+        "note": "Shi'i traditions recognize him as succeeding Ḥasan in the imamate; politically he refrained from revolt under Muʿāwiya."
+      },
+      {
+        "year": 676,
+        "type": "politics",
+        "tags": [
+          "politics",
+          "succession"
+        ],
+        "weight": 90,
+        "label": "Opposed the nomination of Yazīd as Muʿāwiya's hereditary successor",
+        "labelCn": "反对穆阿维叶立叶齐德为世袭继承人",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Husayn_ibn_Ali",
+        "note": "He was among prominent figures resisting hereditary succession."
+      },
+      {
+        "year": 680,
+        "type": "politics",
+        "tags": [
+          "politics",
+          "rebellion"
+        ],
+        "weight": 100,
+        "label": "Refused to pledge allegiance to Yazīd I",
+        "labelCn": "拒绝向叶齐德一世宣誓效忠",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Husayn_ibn_Ali",
+        "note": "He left Medina for Mecca, turning a legitimacy dispute into an escalating crisis."
+      },
+      {
+        "year": 680,
+        "type": "diplomacy",
+        "tags": [
+          "diplomacy",
+          "alliance"
+        ],
+        "weight": 95,
+        "label": "Received appeals from Kufa and sent Muslim ibn ʿAqīl to investigate",
+        "labelCn": "收到库法邀请，并派穆斯林·本·阿基勒前往调查",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Husayn_ibn_Ali",
+        "note": "Kufan support initially looked substantial but collapsed under the Umayyad governor."
+      },
+      {
+        "year": 680,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "political_crisis"
+        ],
+        "weight": 100,
+        "label": "Left Mecca for Iraq despite the collapse of the Kufan uprising",
+        "labelCn": "尽管库法起事已经瓦解，仍从麦加前往伊拉克",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Husayn_ibn_Ali",
+        "note": "News of Muslim ibn ʿAqīl's death reached the party during the journey."
+      },
+      {
+        "year": 680,
+        "type": "imprisonment",
+        "tags": [
+          "imprisonment",
+          "politics"
+        ],
+        "weight": 95,
+        "label": "Was blocked and encamped at Karbala",
+        "labelCn": "被拦截并被迫驻扎卡尔巴拉",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Husayn_ibn_Ali",
+        "note": "Umayyad forces prevented free movement and concentrated his small party at Karbala."
+      },
+      {
+        "year": 680,
+        "month": 10,
+        "day": 10,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "death"
+        ],
+        "weight": 100,
+        "label": "Was killed with many relatives and supporters at Karbala",
+        "labelCn": "与多名亲属和追随者在卡尔巴拉战死",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Husayn_ibn_Ali",
+        "note": "On 10 Muḥarram 61 AH, conventionally 10 October 680, his small force was destroyed; the killing became foundational to Shi'i martyrdom memory."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Husayn_ibn_Ali",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Husayn_ibn_Ali",
+    "sourceNote": "Wilferd Madelung; Encyclopaedia of Islam scholarship; Najam Haider; al-Ṭabarī's Karbala narratives used critically; Hugh Kennedy; Wikipedia as supplementary chronology index.",
+    "notes": "The decisive martyr figure of Karbala and a central node for later Shi'i and Alid genealogies. Future Fatimid linkage must be marked claimed Ismaʿili-Alid descent, not independently proven Y-line descent from Muhammad.\n\nConfidence / caveats: Birth may appear as 625/626 depending on conversion. Karbala's outline is well established, while speeches and battlefield detail were later elaborated. Exact killer varies across reports; deathCause is simply killed in battle. 'Third Imam' is a Shi'i religious designation, not a caliphal office.\n\nUnlinked family: spouse: Rabab bint Imraʾ al-Qays; spouse: Laylā bint Abī Murra; child: ʿAlī Zayn al-ʿĀbidīn; child: ʿAlī al-Akbar; child: Sukayna bint al-Ḥusayn; child: Fāṭima bint al-Ḥusayn; child: ʿAbd Allāh ʿAlī al-Aṣghar",
+    "createdDate": "20260824",
+    "createdOrder": 686
+  }
+]

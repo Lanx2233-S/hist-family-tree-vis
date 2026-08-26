@@ -3,15 +3,15 @@
   "canonicalName": "Kingdom of Castile",
   "canonicalNameCn": "卡斯蒂利亚王国",
   "form": "kingdom",
-  "aliases": ["King of Castile", "Kings of Castile", "Castile", "Kingdom of Castile / 卡斯蒂利亚王国"],
+  "aliases": ["King of Castile", "Kings of Castile", "King of Spain", "Kings of Spain", "Castile", "Kingdom of Castile / 卡斯蒂利亚王国"],
   "nameForms": [
     {
       "name": "Kingdom of Castile",
       "nameCn": "卡斯蒂利亚王国",
       "fromYear": 1037,
       "untilYear": 1516,
-      "note": "This recorded royal line begins with Ferdinand I of León and Castile; it does not extend into the earlier Navarrese or Leonese background.",
-      "noteCn": "本王位记录始于莱昂与卡斯蒂利亚的费尔南多一世；不向更早的纳瓦拉或莱昂前史延伸。"
+      "note": "",
+      "noteCn": ""
     },
     {
       "name": "Crown of Castile",
@@ -50,6 +50,6 @@
     { "kind": "person", "personId": "c2332053-1b5e-457d-88ac-aeed35a7f9ac", "startYear": 1504, "endYear": 1506, "titleForm": "King of Castile jure uxoris", "jointWithPrevious": true, "note": "Ruled with Joanna by marital right.", "noteCn": "凭婚姻权利与胡安娜共同统治。", "tierOverride": "king" },
     { "kind": "person", "personId": "320bf6a4-36a1-4ead-9c62-aa749b46d9b2", "startYear": 1506, "endYear": 1516, "titleForm": "Queen of Castile", "note": "Retained the crown after Philip I's death.", "noteCn": "腓力一世去世后保有王冠。", "tierOverride": "king" },
     { "kind": "person", "personId": "320bf6a4-36a1-4ead-9c62-aa749b46d9b2", "startYear": 1516, "endYear": 1555, "titleForm": "Queen of Castile", "note": "Remained queen in law within the Spanish composite monarchy.", "noteCn": "在西班牙复合君主制中仍为法理上的卡斯蒂利亚女王。", "tierOverride": "king" },
-    { "kind": "person", "personId": "adb801cd-8a69-4de3-92d8-107f7e11a1e6", "startYear": 1516, "endYear": 1555, "titleForm": "King of Castile", "jointWithPrevious": true, "note": "Became co-monarch with Joanna in the Crown of Castile.", "noteCn": "在卡斯蒂利亚王冠下成为胡安娜的共同君主。", "tierOverride": "king" }
+    { "kind": "person", "personId": "adb801cd-8a69-4de3-92d8-107f7e11a1e6", "startYear": 1516, "endYear": 1555, "titleForm": "King of Castile", "jointWithPrevious": true, "note": "Became co-monarch with Joanna in the Crown of Castile.", "noteCn": "在卡斯蒂利亚王冠下成为胡安娜的共同君主。", "tierOverride": "emperor" }
   ]
 }

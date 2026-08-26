@@ -1,7 +1,7 @@
 # 人物录入索引（People Entry Log）
 
-> 当前总人数：624
-> 分配日期：20260815 = 53 人；20260816 = 53 人；20260817 = 53 人；20260818 = 53 人；20260819 = 51 人；20260820 = 71 人；20260821 = 14 人；20260822 = 80 人；20260823 = 196 人
+> 当前总人数：689
+> 分配日期：20260815 = 53 人；20260816 = 53 人；20260817 = 53 人；20260818 = 53 人；20260819 = 51 人；20260820 = 71 人；20260821 = 14 人；20260822 = 80 人；20260823 = 196 人；20260824 = 65 人
 > 数据来源：`src/data/people/manifest.json` 及其引用的全部人员 JSON 文件
 > 字段说明：姓名 = `displayName`；UUID = `id`；自定义序号 = `YYYYMMDDNNN`（录入日期 + 当日按总序号排列的三位流水号）；总序号 = `manifest.order` 顺序；重要度评分 = `historicalRating`
 
@@ -671,7 +671,32 @@
 | Henry IV of Castile | `866d8d7e-976b-4d11-b1e5-c9412b5f4e05` | 20260824662 | 662 | 6星 |
 | Isabella I of Castile | `fc645718-f108-440d-a69c-57c13421388b` | 20260824663 | 663 | 10星 |
 | Joanna of Castile | `320bf6a4-36a1-4ead-9c62-aa749b46d9b2` | 20260824664 | 664 | 8星 |
+| Richard of Normandy | `58849b75-df0e-4c4c-b010-7b1d46041bf1` | 20260824665 | 665 | 5星 |
+| Adeliza of Normandy | `d8491d37-42e0-415c-9f7c-065f53eb70a5` | 20260824666 | 666 | 4星 |
+| Cecilia of Normandy | `caa68971-9330-485b-bfa5-d8d01208ea87` | 20260824667 | 667 | 5星 |
+| Matilda of Normandy | `dbc761da-279a-4e69-85c2-ceaab8123cb0` | 20260824668 | 668 | 3星 |
+| Constance of Normandy | `41079d3d-acd7-4b24-912f-80fd5bb4585c` | 20260824669 | 669 | 4星 |
+| Adela of Normandy | `5f609d36-19eb-4430-967e-8d76eef50c24` | 20260824670 | 670 | 5星 |
+| ʿAbd Manāf ibn Quṣayy | `f951b892-dd38-4925-af2a-497d712ab01f` | 20260824671 | 671 | 5星 |
+| Hāshim ibn ʿAbd Manāf | `8c7858ec-2728-483f-8d76-28470fc85b1e` | 20260824672 | 672 | 6星 |
+| ʿAbd Shams ibn ʿAbd Manāf | `27020054-4bed-4dfa-ab8d-d303a98f4633` | 20260824673 | 673 | 4星 |
+| Umayya ibn ʿAbd Shams | `96f199e7-9b2a-4cd8-a4c9-ce3535304714` | 20260824674 | 674 | 5星 |
+| Ḥarb ibn Umayya | `e9892a3c-3490-4e10-99e4-54fb74732df5` | 20260824675 | 675 | 4星 |
+| Abū Sufyān Ṣakhr ibn Ḥarb | `6f7094b7-7970-45b1-a73c-aff5a4d92947` | 20260824676 | 676 | 8星 |
+| Muʿāwiya I ibn Abī Sufyān | `89c64652-2196-40a1-a17e-6e15821376ac` | 20260824677 | 677 | 9星 |
+| ʿAbd al-Muṭṭalib | `876d8768-5261-4ecf-a808-ce6515c1b538` | 20260824678 | 678 | 7星 |
+| ʿAbd Allāh ibn ʿAbd al-Muṭṭalib | `e4daa227-f173-4c2c-814c-2fae9f30d9f9` | 20260824679 | 679 | 4星 |
+| Abū Ṭālib ibn ʿAbd al-Muṭṭalib | `106944a7-e33c-4a52-be7a-d619b61db972` | 20260824680 | 680 | 6星 |
+| al-ʿAbbās ibn ʿAbd al-Muṭṭalib | `0234d202-7145-44c7-94f9-b0487978d357` | 20260824681 | 681 | 6星 |
+| Muhammad | `b54d8195-66ad-4668-b9dc-a117a2d9e51b` | 20260824682 | 682 | 10星 |
+| ʿAlī ibn Abī Ṭālib | `ac92c10a-f2b5-4ba8-8d79-af772ea959c0` | 20260824683 | 683 | 10星 |
+| Fāṭima al-Zahrāʾ | `e6973117-63ca-4995-8242-86757ffbc49c` | 20260824684 | 684 | 8星 |
+| Ḥasan ibn ʿAlī | `28f28c55-b23c-4362-981b-254568f7fa23` | 20260824685 | 685 | 8星 |
+| Ḥusayn ibn ʿAlī | `96196245-8f5d-4349-b7df-10d3119f064a` | 20260824686 | 686 | 9星 |
+| Abū Bakr al-Ṣiddīq | `1173bc8b-b203-44b7-9f15-8f5c832d3c66` | 20260824687 | 687 | 8星 |
+| ʿUmar ibn al-Khaṭṭāb | `307c1615-5644-4df8-82eb-dea0207ed558` | 20260824688 | 688 | 9星 |
+| ʿUthmān ibn ʿAffān | `8b85eeac-4695-4bc1-ae46-2d65e7d22dd5` | 20260824689 | 689 | 8星 |
 
 ## 校验结果
 
-- 人数：624；UUID 与 manifest.order 一一对应；总序号连续 1→624。
+- 人数：689；UUID 与 manifest.order 一一对应；总序号连续 1→689。

@@ -1,0 +1,83 @@
+[
+  {
+    "id": "f951b892-dd38-4925-af2a-497d712ab01f",
+    "firstName": "ʿAbd",
+    "lastName": "Manāf ibn Quṣayy",
+    "displayName": "ʿAbd Manāf ibn Quṣayy",
+    "fullName": "ʿAbd Manāf ibn Quṣayy ibn Kilāb",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [
+      "Abd Manaf ibn Qusay",
+      "al-Mughīra ibn Quṣayy"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "阿卜杜·马纳夫·本·库赛",
+    "fullNameCn": "阿卜杜·马纳夫·本·库赛·本·基拉卜",
+    "birthYear": "",
+    "deathYear": "",
+    "birthPlace": "Mecca",
+    "birthPlaceCn": "麦加",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "Quraysh",
+    "house": "Banū ʿAbd Manāf",
+    "culture": "Pre-Islamic Qurayshi Arab",
+    "faith": "Pre-Islamic Arabian religion",
+    "primaryTitle": "Quraysh notable and ancestor of major Meccan clans",
+    "primaryTitleCn": "古莱什重要祖先及麦加大支系共同祖先",
+    "titles": [],
+    "tags": [
+      "noble"
+    ],
+    "rank": "noble",
+    "importanceScore": 63,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "8c7858ec-2728-483f-8d76-28470fc85b1e",
+        "27020054-4bed-4dfa-ab8d-d303a98f4633"
+      ]
+    },
+    "events": [
+      {
+        "year": "",
+        "type": "succession",
+        "tags": [
+          "dynasty",
+          "government"
+        ],
+        "weight": 75,
+        "label": "Inherited a leading position within Quraysh after Quṣayy's generation",
+        "labelCn": "在库赛一代之后继承古莱什内部的重要地位",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Abd_Manaf_ibn_Qusai",
+        "note": "Later Arabic genealogy places ʿAbd Manāf among Quṣayy's principal sons; no secure absolute year can be assigned."
+      },
+      {
+        "year": "",
+        "type": "succession",
+        "tags": [
+          "dynasty",
+          "succession"
+        ],
+        "weight": 90,
+        "label": "Became the common ancestor of the Hāshim and ʿAbd Shams lines",
+        "labelCn": "成为哈希姆支与阿卜杜·沙姆斯支的共同祖先",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Abd_Manaf_ibn_Qusai",
+        "note": "Traditional Quraysh genealogy makes Hāshim and ʿAbd Shams sons of ʿAbd Manāf, producing the fork that later links Banū Hāshim and Banū Umayya."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Abd_Manaf_ibn_Qusai",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Abd_Manaf_ibn_Qusai",
+    "sourceNote": "Ibn Isḥāq/Ibn Hishām; al-Ṭabarī; M. J. Kister on Quraysh and Mecca; Wikipedia only as the stable online person index.",
+    "notes": "The project's key pre-Islamic fork joining the later Hāshimite and Umayyad target lines.\n\nConfidence / caveats: Chronology and much of the biography derive from later Arabic genealogical and sīra traditions rather than contemporary documentation. Birth and death years are intentionally null; later dynastic outcomes must not be projected backward as if he founded a medieval dynasty.\n\nUnlinked family: father: Quṣayy ibn Kilāb; mother: Ḥubbā bint Ḥulayl; spouse: ʿĀtika bint Murra; child: al-Muṭṭalib ibn ʿAbd Manāf; child: Nawfal ibn ʿAbd Manāf",
+    "createdDate": "20260824",
+    "createdOrder": 671
+  }
+]

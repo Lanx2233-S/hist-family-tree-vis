@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 112" role="img" aria-labelledby="title">
+  <title id="title">Kingdom of France heraldry</title>
+  <path d="M10 8h80v48c0 26-17 42-40 50C27 98 10 82 10 56Z" fill="#FFF8E8" stroke="#B78B43" stroke-width="3"/>
+  <defs>
+    <clipPath id="arms"><path d="M20 19h60v37c0 19-12 31-30 38C32 87 20 75 20 56Z"/></clipPath>
+  </defs>
+  <image href="/images/Capet.png" x="20" y="17" width="60" height="79" preserveAspectRatio="xMidYMid meet" clip-path="url(#arms)"/>
+  <path d="M20 19h60v37c0 19-12 31-30 38C32 87 20 75 20 56Z" fill="none" stroke="#B78B43" stroke-width="1.5"/>
+</svg>

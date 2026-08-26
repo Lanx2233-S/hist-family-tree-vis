@@ -1,0 +1,68 @@
+[
+  {
+    "id": "27020054-4bed-4dfa-ab8d-d303a98f4633",
+    "firstName": "ʿAbd",
+    "lastName": "Shams ibn ʿAbd Manāf",
+    "displayName": "ʿAbd Shams ibn ʿAbd Manāf",
+    "fullName": "ʿAbd Shams ibn ʿAbd Manāf",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [
+      "Abd Shams ibn Abd Manaf"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "阿卜杜·沙姆斯·本·阿卜杜·马纳夫",
+    "fullNameCn": "阿卜杜·沙姆斯·本·阿卜杜·马纳夫",
+    "birthYear": "",
+    "deathYear": "",
+    "birthPlace": "Mecca",
+    "birthPlaceCn": "麦加",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "Quraysh",
+    "house": "Banū ʿAbd Shams",
+    "culture": "Pre-Islamic Qurayshi Arab",
+    "faith": "Pre-Islamic Arabian religion",
+    "primaryTitle": "Ancestor of Banū ʿAbd Shams",
+    "primaryTitleCn": "阿卜杜·沙姆斯支系祖先",
+    "titles": [],
+    "tags": [
+      "noble"
+    ],
+    "rank": "noble",
+    "importanceScore": 48,
+    "historicalRating": 4,
+    "relationships": {
+      "fatherId": "f951b892-dd38-4925-af2a-497d712ab01f",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "96f199e7-9b2a-4cd8-a4c9-ce3535304714"
+      ]
+    },
+    "events": [
+      {
+        "year": "",
+        "type": "succession",
+        "tags": [
+          "dynasty",
+          "succession"
+        ],
+        "weight": 85,
+        "label": "Became the traditional ancestor of the ʿAbd Shams branch of Quraysh",
+        "labelCn": "成为古莱什阿卜杜·沙姆斯支的传统祖先",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Abd_Shams_ibn_Abd_Manaf",
+        "note": "Later genealogies make him father of Umayya and the conventional paternal bridge toward Banū Umayya."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Abd_Shams_ibn_Abd_Manaf",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Abd_Shams_ibn_Abd_Manaf",
+    "sourceNote": "Ibn Isḥāq/Ibn Hishām; al-Balādhurī; al-Ṭabarī; Wikipedia as stable index.",
+    "notes": "Retained because the project needs a clean paternal bridge from ʿAbd Manāf to Umayya.\n\nConfidence / caveats: The standard relationship is classical Arab genealogy, not contemporary documentation. Chronology and many family details remain uncertain.\n\nUnlinked family: mother: ʿĀtika bint Murra; child: Rabīʿa ibn ʿAbd Shams; child: ʿAbd al-ʿUzzā ibn ʿAbd Shams",
+    "createdDate": "20260824",
+    "createdOrder": 673
+  }
+]

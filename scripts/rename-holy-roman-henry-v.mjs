@@ -1,6 +1,6 @@
 import fs from "node:fs";
 
-const dataFile = new URL("../people.normandy.json", import.meta.url);
+const dataFile = new URL("../people.generated.json", import.meta.url);
 const logFile = new URL("../people-entry-log.md", import.meta.url);
 const people = JSON.parse(fs.readFileSync(dataFile, "utf8"));
 const person = people.find((item) => item.fullName === "Henry V, Holy Roman Emperor");

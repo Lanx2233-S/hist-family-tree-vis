@@ -1,12 +1,12 @@
 #!/usr/bin/env node
 /**
- * build-people.mjs — generates people.normandy.json (repo root) from the split
+ * build-people.mjs — generates people.generated.json (repo root) from the split
  * source files in src/data/people/.
  *
  * DATA FLOW (single source of truth):
- *   src/data/people/*.json  →  this script  →  people.normandy.json  →  server/seed.mjs, scripts/*.mjs
+ *   src/data/people/*.json  →  this script  →  people.generated.json  →  server/seed.mjs, scripts/*.mjs
  *
- * people.normandy.json is a GENERATED artifact — do not edit it manually.
+ * people.generated.json is a GENERATED artifact — do not edit it manually.
  * Add or edit people in src/data/people/*.json (and keep manifest.json order
  * up to date), then run: npm run data:build
  *
@@ -20,7 +20,7 @@ import { dirname, resolve } from "node:path";
 
 const here = dirname(fileURLToPath(import.meta.url));
 const dataDir = resolve(here, "../src/data/people");
-const outFile = resolve(here, "../people.normandy.json");
+const outFile = resolve(here, "../people.generated.json");
 
 function fail(msg) {
   console.error(`[build-people] ERROR: ${msg}`);
@@ -95,4 +95,4 @@ for (const record of byId.values()) {
 
 const people = manifest.order.map((id) => byId.get(id));
 await writeFile(outFile, JSON.stringify(people, null, 2) + "\n");
-console.log(`[build-people] OK: ${people.length} people from ${manifest.files.length} files → people.normandy.json`);
+console.log(`[build-people] OK: ${people.length} people from ${manifest.files.length} files → people.generated.json`);

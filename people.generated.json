@@ -57,7 +57,13 @@
       "childIds": [
         "bea83a88-2399-4eb7-a496-9cfcee8599a6",
         "576ee669-b638-4013-91cf-71f637200b83",
-        "90840bac-1589-4ba4-abfe-9189e6046b36"
+        "90840bac-1589-4ba4-abfe-9189e6046b36",
+        "58849b75-df0e-4c4c-b010-7b1d46041bf1",
+        "d8491d37-42e0-415c-9f7c-065f53eb70a5",
+        "caa68971-9330-485b-bfa5-d8d01208ea87",
+        "dbc761da-279a-4e69-85c2-ceaab8123cb0",
+        "41079d3d-acd7-4b24-912f-80fd5bb4585c",
+        "5f609d36-19eb-4430-967e-8d76eef50c24"
       ]
     },
     "events": [
@@ -534,7 +540,13 @@
       "childIds": [
         "bea83a88-2399-4eb7-a496-9cfcee8599a6",
         "576ee669-b638-4013-91cf-71f637200b83",
-        "90840bac-1589-4ba4-abfe-9189e6046b36"
+        "90840bac-1589-4ba4-abfe-9189e6046b36",
+        "58849b75-df0e-4c4c-b010-7b1d46041bf1",
+        "d8491d37-42e0-415c-9f7c-065f53eb70a5",
+        "caa68971-9330-485b-bfa5-d8d01208ea87",
+        "dbc761da-279a-4e69-85c2-ceaab8123cb0",
+        "41079d3d-acd7-4b24-912f-80fd5bb4585c",
+        "5f609d36-19eb-4430-967e-8d76eef50c24"
       ]
     },
     "events": [
@@ -24177,8 +24189,8 @@
     "importanceScore": 78,
     "historicalRating": 7,
     "relationships": {
-      "fatherId": "",
-      "motherId": "",
+      "fatherId": "c7060000-0000-4000-8000-000000000006",
+      "motherId": "5f609d36-19eb-4430-967e-8d76eef50c24",
       "spouseIds": [],
       "partnerIds": [],
       "childIds": []
@@ -44857,9 +44869,13 @@
     "relationships": {
       "fatherId": "",
       "motherId": "",
-      "spouseIds": [],
+      "spouseIds": [
+        "5f609d36-19eb-4430-967e-8d76eef50c24"
+      ],
       "partnerIds": [],
-      "childIds": []
+      "childIds": [
+        "8da6a92d-40c5-47c0-8c42-9858db5cf61d"
+      ]
     },
     "events": [
       {
@@ -83816,7 +83832,7 @@
     "deathPlaceCn": "卡斯蒂利亚王冠梅迪纳-德尔坎波",
     "gender": "female",
     "dynasty": "Trastámara",
-    "house": "House of Trastámara, Castilian branch",
+    "house": "House of Trastámara-Castilian",
     "culture": "Castilian",
     "faith": "Catholic",
     "primaryTitle": "Queen of Castile and León",
@@ -84154,7 +84170,7 @@
     "deathPlaceCn": "卡斯蒂利亚王冠托德西利亚斯",
     "gender": "female",
     "dynasty": "Trastámara",
-    "house": "House of Trastámara, Castilian branch",
+    "house": "House of Trastámara-Castilian",
     "culture": "Castilian",
     "faith": "Catholic",
     "primaryTitle": "Queen of Castile and León",
@@ -84338,5 +84354,3596 @@
     "notes": "Joanna remained the lawful queen of Castile from 1504 and of Aragon from 1516 until her death, but legal title and effective government diverged sharply. Her husband Philip, father Ferdinand and son Charles successively exercised or contested practical power; through her children, the Spanish royal succession passed from Trastámara to Habsburg.\n\nUnlinked family: father: Ferdinand II of Aragon; child: Eleanor of Austria, Queen of Portugal and France; child: Isabella of Austria, Queen of Denmark; child: Ferdinand I, Holy Roman Emperor; child: Mary of Austria, Queen of Hungary; child: Catherine of Austria, Queen of Portugal",
     "createdDate": "20260824",
     "createdOrder": 664
+  },
+  {
+    "id": "58849b75-df0e-4c4c-b010-7b1d46041bf1",
+    "firstName": "Richard",
+    "lastName": "Normandy",
+    "displayName": "Richard of Normandy",
+    "fullName": "Richard of Normandy",
+    "displayNameCn": "诺曼底的理查",
+    "fullNameCn": "征服者威廉之子、诺曼底的理查",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "gender": "male",
+    "birthYear": 1054,
+    "deathYear": 1075,
+    "birthPlace": "Duchy of Normandy",
+    "deathPlace": "New Forest, Kingdom of England",
+    "birthPlaceCn": "诺曼底公国",
+    "deathPlaceCn": "英格兰王国新森林",
+    "dynasty": "Normandy",
+    "house": "House of Normandy",
+    "culture": "Norman",
+    "faith": "Catholic",
+    "rank": "noble",
+    "primaryTitle": "Norman prince",
+    "primaryTitleCn": "诺曼底亲王",
+    "titles": [],
+    "tags": [
+      "noble"
+    ],
+    "importanceScore": 45,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "21b5ec21-1812-4731-8b03-721988be302f",
+      "motherId": "2a19d3aa-7968-4c0b-9870-fe3db9c9b575",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1066,
+        "type": "journey",
+        "tags": [
+          "journey",
+          "dynasty"
+        ],
+        "weight": 48,
+        "label": "Joined the Norman court in England after the Conquest",
+        "labelCn": "诺曼征服后随王室进入英格兰",
+        "wikiUrl": "https://www.westminster-abbey.org/abbey-commemorations/royals/william-i-the-conqueror",
+        "note": "Richard was still a child; the precise circumstances are not recorded."
+      },
+      {
+        "year": 1075,
+        "type": "death",
+        "tags": [
+          "death",
+          "uncertain"
+        ],
+        "weight": 62,
+        "label": "Died in a hunting accident in the New Forest",
+        "labelCn": "在新森林狩猎意外中去世",
+        "wikiUrl": "https://epistolae.ctl.columbia.edu/woman/18.html",
+        "note": "Accounts agree that he died young in the New Forest; the exact year and circumstances are uncertain."
+      }
+    ],
+    "wikiUrl": "https://epistolae.ctl.columbia.edu/woman/18.html",
+    "portraitUrl": "",
+    "sourceUrl": "https://www.westminster-abbey.org/abbey-commemorations/royals/william-i-the-conqueror",
+    "sourceNote": "Listed among William I and Matilda of Flanders's children; dates and hunting death are approximate.",
+    "notes": "A son of William I and Matilda of Flanders who died before either parent. Medieval and later accounts place his death in a hunting accident in the New Forest; the details are not secure.",
+    "createdDate": "20260824",
+    "createdOrder": 665,
+    "deathCause": {
+      "kind": "uncertain",
+      "summary": "Died young in a reported hunting accident",
+      "summaryCn": "幼年时据称死于狩猎意外",
+      "detail": "Richard's death in the New Forest is traditionally described as a hunting accident, but the date and circumstances are poorly documented.",
+      "detailCn": "传统记载称理查在新森林狩猎时意外身亡，但具体年份与经过均缺乏可靠记载。",
+      "wikiUrl": "https://epistolae.ctl.columbia.edu/woman/18.html"
+    }
+  },
+  {
+    "id": "d8491d37-42e0-415c-9f7c-065f53eb70a5",
+    "firstName": "Adeliza",
+    "lastName": "Normandy",
+    "displayName": "Adeliza of Normandy",
+    "fullName": "Adeliza of Normandy",
+    "displayNameCn": "诺曼底的阿德莉扎",
+    "fullNameCn": "征服者威廉之女、诺曼底的阿德莉扎",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [
+      "Adelaide of Normandy"
+    ],
+    "nicknameTags": [],
+    "gender": "female",
+    "birthYear": 1055,
+    "deathYear": 1113,
+    "birthPlace": "Duchy of Normandy",
+    "deathPlace": "Duchy of Normandy",
+    "birthPlaceCn": "诺曼底公国",
+    "deathPlaceCn": "诺曼底公国",
+    "dynasty": "Normandy",
+    "house": "House of Normandy",
+    "culture": "Norman",
+    "faith": "Catholic",
+    "rank": "noble",
+    "primaryTitle": "Norman princess",
+    "primaryTitleCn": "诺曼底公主",
+    "titles": [],
+    "tags": [
+      "noble"
+    ],
+    "importanceScore": 35,
+    "historicalRating": 4,
+    "relationships": {
+      "fatherId": "21b5ec21-1812-4731-8b03-721988be302f",
+      "motherId": "2a19d3aa-7968-4c0b-9870-fe3db9c9b575",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1066,
+        "type": "religion",
+        "tags": [
+          "religion",
+          "dynasty",
+          "uncertain"
+        ],
+        "weight": 38,
+        "label": "Possibly entered religious life",
+        "labelCn": "可能进入修道生活",
+        "wikiUrl": "https://fasg.org/projects/henryproject/data/willi001.htm",
+        "note": "Her later life is obscure. Proposed marriages and identifications vary among sources, so no spouse is linked."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Adeliza_of_Normandy",
+    "portraitUrl": "",
+    "sourceUrl": "https://fasg.org/projects/henryproject/data/willi001.htm",
+    "sourceNote": "The identity and later life of William I's daughter Adeliza/Adelaide are uncertain; not treated as identical with the disputed Agatha.",
+    "notes": "A securely attested daughter of William I and Matilda of Flanders, also called Adelaide. Her proposed marriages and later career are disputed; this card deliberately leaves them unlinked. Agatha is not entered as a separate sibling because some reconstructions conflate or question that identity.",
+    "createdDate": "20260824",
+    "createdOrder": 666,
+    "deathCause": {
+      "kind": "uncertain",
+      "summary": "Death date and cause are unrecorded",
+      "summaryCn": "卒年与死因未载",
+      "detail": "She is known to have died before 1113, but no reliable account records the circumstances.",
+      "detailCn": "可知她于1113年前去世，但可靠史料未记载具体经过。",
+      "wikiUrl": "https://fasg.org/projects/henryproject/data/willi001.htm"
+    }
+  },
+  {
+    "id": "caa68971-9330-485b-bfa5-d8d01208ea87",
+    "firstName": "Cecilia",
+    "lastName": "Normandy",
+    "displayName": "Cecilia of Normandy",
+    "fullName": "Cecilia of Normandy, Abbess of Holy Trinity",
+    "displayNameCn": "诺曼底的塞西莉亚",
+    "fullNameCn": "诺曼底的塞西莉亚，卡昂圣三一修道院院长",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [
+      "Cecily of Normandy"
+    ],
+    "nicknameTags": [],
+    "gender": "female",
+    "birthYear": 1056,
+    "deathYear": 1126,
+    "birthPlace": "Duchy of Normandy",
+    "deathPlace": "Caen, Duchy of Normandy",
+    "birthPlaceCn": "诺曼底公国",
+    "deathPlaceCn": "诺曼底公国卡昂",
+    "dynasty": "Normandy",
+    "house": "House of Normandy",
+    "culture": "Norman",
+    "faith": "Catholic",
+    "rank": "noble",
+    "primaryTitle": "Abbess of Holy Trinity, Caen",
+    "primaryTitleCn": "卡昂圣三一修道院院长",
+    "titles": [
+      {
+        "title": "Abbess of Holy Trinity, Caen",
+        "startYear": 1113,
+        "endYear": 1126,
+        "titleCn": "卡昂圣三一修道院院长"
+      }
+    ],
+    "tags": [
+      "abbess",
+      "noble"
+    ],
+    "importanceScore": 48,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "21b5ec21-1812-4731-8b03-721988be302f",
+      "motherId": "2a19d3aa-7968-4c0b-9870-fe3db9c9b575",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1066,
+        "type": "religion",
+        "tags": [
+          "religion",
+          "dynasty"
+        ],
+        "weight": 56,
+        "label": "Dedicated to Holy Trinity, Caen",
+        "labelCn": "献身于卡昂圣三一修道院",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Cecilia_of_Normandy",
+        "note": "She was educated under Lanfranc and dedicated to the abbey founded by her parents."
+      },
+      {
+        "year": 1113,
+        "type": "title_acquired",
+        "tags": [
+          "title",
+          "religion"
+        ],
+        "weight": 64,
+        "label": "Became Abbess of Holy Trinity, Caen",
+        "labelCn": "出任卡昂圣三一修道院院长",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Cecilia_of_Normandy"
+      },
+      {
+        "year": 1126,
+        "type": "death",
+        "tags": [
+          "death"
+        ],
+        "weight": 45,
+        "label": "Died at Holy Trinity, Caen",
+        "labelCn": "在卡昂圣三一修道院去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Cecilia_of_Normandy"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Cecilia_of_Normandy",
+    "portraitUrl": "",
+    "sourceUrl": "https://www.westminster-abbey.org/abbey-commemorations/royals/william-i-the-conqueror",
+    "sourceNote": "Listed as William I's daughter and Abbess of Holy Trinity, Caen.",
+    "notes": "Daughter of William I and Matilda of Flanders. Educated by Lanfranc, she was dedicated to Holy Trinity at Caen and later became its abbess.",
+    "createdDate": "20260824",
+    "createdOrder": 667,
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died of unrecorded natural causes",
+      "summaryCn": "死于未记载的自然原因",
+      "detail": "No violent or suspicious cause is reported.",
+      "detailCn": "未见暴力或可疑死因的记载。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Cecilia_of_Normandy"
+    }
+  },
+  {
+    "id": "dbc761da-279a-4e69-85c2-ceaab8123cb0",
+    "firstName": "Matilda",
+    "lastName": "Normandy",
+    "displayName": "Matilda of Normandy",
+    "fullName": "Matilda of Normandy",
+    "displayNameCn": "诺曼底的玛蒂尔达",
+    "fullNameCn": "征服者威廉之女、诺曼底的玛蒂尔达",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "gender": "female",
+    "birthYear": 1061,
+    "deathYear": 1112,
+    "birthPlace": "Duchy of Normandy",
+    "deathPlace": "Kingdom of England",
+    "birthPlaceCn": "诺曼底公国",
+    "deathPlaceCn": "英格兰王国",
+    "dynasty": "Normandy",
+    "house": "House of Normandy",
+    "culture": "Norman",
+    "faith": "Catholic",
+    "rank": "noble",
+    "primaryTitle": "Norman princess",
+    "primaryTitleCn": "诺曼底公主",
+    "titles": [],
+    "tags": [
+      "noble"
+    ],
+    "importanceScore": 26,
+    "historicalRating": 3,
+    "relationships": {
+      "fatherId": "21b5ec21-1812-4731-8b03-721988be302f",
+      "motherId": "2a19d3aa-7968-4c0b-9870-fe3db9c9b575",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [],
+    "wikiUrl": "https://epistolae.ctl.columbia.edu/woman/18.html",
+    "portraitUrl": "",
+    "sourceUrl": "https://epistolae.ctl.columbia.edu/woman/18.html",
+    "sourceNote": "Named among the children of William I and Matilda of Flanders; her later life is not securely documented.",
+    "notes": "A daughter of William I and Matilda of Flanders whose biography is largely unknown. The death year is a latest-known approximation; no marriage or office is linked without reliable identification.",
+    "createdDate": "20260824",
+    "createdOrder": 668,
+    "deathCause": {
+      "kind": "uncertain",
+      "summary": "Death date and cause are unrecorded",
+      "summaryCn": "卒年与死因未载",
+      "detail": "No reliable source records the circumstances of her death.",
+      "detailCn": "可靠史料未记载其死亡经过。",
+      "wikiUrl": "https://epistolae.ctl.columbia.edu/woman/18.html"
+    }
+  },
+  {
+    "id": "41079d3d-acd7-4b24-912f-80fd5bb4585c",
+    "firstName": "Constance",
+    "lastName": "Normandy",
+    "displayName": "Constance of Normandy",
+    "fullName": "Constance of Normandy, Duchess of Brittany",
+    "displayNameCn": "诺曼底的康斯坦丝",
+    "fullNameCn": "诺曼底的康斯坦丝，布列塔尼公爵夫人",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [
+      "Constantia of Normandy"
+    ],
+    "nicknameTags": [],
+    "gender": "female",
+    "birthYear": 1057,
+    "deathYear": 1090,
+    "birthPlace": "Duchy of Normandy",
+    "deathPlace": "Duchy of Brittany",
+    "birthPlaceCn": "诺曼底公国",
+    "deathPlaceCn": "布列塔尼公国",
+    "dynasty": "Normandy",
+    "house": "House of Normandy",
+    "culture": "Norman",
+    "faith": "Catholic",
+    "rank": "duchess",
+    "primaryTitle": "Duchess consort of Brittany",
+    "primaryTitleCn": "布列塔尼公爵夫人",
+    "titles": [
+      {
+        "title": "Duchess consort of Brittany",
+        "startYear": 1086,
+        "endYear": 1090,
+        "titleCn": "布列塔尼公爵夫人"
+      }
+    ],
+    "tags": [
+      "duchess",
+      "consort"
+    ],
+    "importanceScore": 44,
+    "historicalRating": 4,
+    "relationships": {
+      "fatherId": "21b5ec21-1812-4731-8b03-721988be302f",
+      "motherId": "2a19d3aa-7968-4c0b-9870-fe3db9c9b575",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1086,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 64,
+        "label": "Married Alan IV, Duke of Brittany",
+        "labelCn": "与布列塔尼公爵艾伦四世成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Constance_of_Normandy",
+        "note": "Alan IV is not yet a uniquely identified card in the local roster, so the marriage is documented without a relationship ID."
+      },
+      {
+        "year": 1090,
+        "type": "death",
+        "tags": [
+          "death",
+          "uncertain"
+        ],
+        "weight": 52,
+        "label": "Died in Brittany",
+        "labelCn": "在布列塔尼去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Constance_of_Normandy",
+        "note": "Later accounts alleged poisoning, but no contemporary proof establishes a violent death."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Constance_of_Normandy",
+    "portraitUrl": "",
+    "sourceUrl": "https://www.westminster-abbey.org/abbey-commemorations/royals/william-i-the-conqueror",
+    "sourceNote": "Listed as a daughter of William I; marriage to Alan IV is standard in biographical accounts.",
+    "notes": "Daughter of William I and Matilda of Flanders. Her marriage joined Normandy and Brittany. Later traditions allege poisoning, but the evidence is insufficient to treat it as an established violent death.",
+    "createdDate": "20260824",
+    "createdOrder": 669,
+    "deathCause": {
+      "kind": "uncertain",
+      "summary": "Died in circumstances later alleged to involve poisoning",
+      "summaryCn": "后世传为中毒，死因未能确证",
+      "detail": "Constance died in 1090. Claims that she was poisoned are late and unproven, so the card records uncertainty rather than homicide.",
+      "detailCn": "康斯坦丝于1090年去世。中毒说属于后世且未获证实，故不认定为他杀。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Constance_of_Normandy"
+    }
+  },
+  {
+    "id": "5f609d36-19eb-4430-967e-8d76eef50c24",
+    "firstName": "Adela",
+    "lastName": "Normandy",
+    "displayName": "Adela of Normandy",
+    "fullName": "Adela of Normandy, Countess of Blois",
+    "displayNameCn": "诺曼底的阿德拉",
+    "fullNameCn": "诺曼底的阿德拉，布卢瓦伯爵夫人",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [
+      "Adela of England"
+    ],
+    "nicknameTags": [],
+    "gender": "female",
+    "birthYear": 1067,
+    "deathYear": 1137,
+    "birthPlace": "Duchy of Normandy",
+    "deathPlace": "Marcigny, Kingdom of France",
+    "birthPlaceCn": "诺曼底公国",
+    "deathPlaceCn": "法兰西王国马尔西尼",
+    "dynasty": "Normandy",
+    "house": "House of Normandy",
+    "culture": "Norman",
+    "faith": "Catholic",
+    "rank": "countess",
+    "primaryTitle": "Countess of Blois",
+    "primaryTitleCn": "布卢瓦伯爵夫人",
+    "titles": [
+      {
+        "title": "Countess of Blois",
+        "startYear": 1080,
+        "endYear": 1102,
+        "titleCn": "布卢瓦伯爵夫人"
+      }
+    ],
+    "tags": [
+      "countess",
+      "consort",
+      "regent"
+    ],
+    "importanceScore": 62,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "21b5ec21-1812-4731-8b03-721988be302f",
+      "motherId": "2a19d3aa-7968-4c0b-9870-fe3db9c9b575",
+      "spouseIds": [
+        "c7060000-0000-4000-8000-000000000006"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "8da6a92d-40c5-47c0-8c42-9858db5cf61d"
+      ]
+    },
+    "events": [
+      {
+        "year": 1080,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 78,
+        "label": "Married Stephen-Henry, Count of Blois",
+        "labelCn": "与布卢瓦伯爵斯蒂芬-亨利成婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Adela_of_Normandy"
+      },
+      {
+        "year": 1096,
+        "type": "regency",
+        "tags": [
+          "regency",
+          "government",
+          "crusade"
+        ],
+        "weight": 76,
+        "label": "Governed Blois during Stephen-Henry's First Crusade absence",
+        "labelCn": "斯蒂芬-亨利参加第一次十字军期间主持布卢瓦政务",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Adela_of_Normandy",
+        "note": "She issued acts and maintained the county's government during his absence."
+      },
+      {
+        "year": 1097,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "dynasty"
+        ],
+        "weight": 72,
+        "label": "Birth of Stephen, later King of England",
+        "labelCn": "其子斯蒂芬（后来的英格兰国王）出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Stephen,_King_of_England",
+        "note": "The year is conventionally given as c. 1097."
+      },
+      {
+        "year": 1102,
+        "type": "regency",
+        "tags": [
+          "regency",
+          "government",
+          "succession"
+        ],
+        "weight": 76,
+        "label": "Directed the county after her husband's death",
+        "labelCn": "丈夫阵亡后主持伯国继承与政务",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Adela_of_Normandy",
+        "note": "After Stephen-Henry's death in 1102, Adela played a leading role in the succession of their son Theobald."
+      },
+      {
+        "year": 1137,
+        "type": "death",
+        "tags": [
+          "death",
+          "religion"
+        ],
+        "weight": 54,
+        "label": "Died at Marcigny",
+        "labelCn": "在马尔西尼去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Adela_of_Normandy"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Adela_of_Normandy",
+    "portraitUrl": "",
+    "sourceUrl": "https://www.westminster-abbey.org/abbey-commemorations/royals/william-i-the-conqueror",
+    "sourceNote": "Listed as William I's daughter; her marriage, political role in Blois, and son King Stephen are well attested.",
+    "notes": "Daughter of William I and Matilda of Flanders. As countess of Blois she managed the county during and after her husband's crusading career. Her son Stephen became King of England in 1135.",
+    "createdDate": "20260824",
+    "createdOrder": 670,
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died of unrecorded natural causes",
+      "summaryCn": "死于未记载的自然原因",
+      "detail": "She died at Marcigny in 1137; no violent or suspicious cause is reported.",
+      "detailCn": "1137年阿德拉在马尔西尼去世，未见暴力或可疑死因的记载。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Adela_of_Normandy"
+    }
+  },
+  {
+    "id": "f951b892-dd38-4925-af2a-497d712ab01f",
+    "firstName": "ʿAbd",
+    "lastName": "Manāf ibn Quṣayy",
+    "displayName": "ʿAbd Manāf ibn Quṣayy",
+    "fullName": "ʿAbd Manāf ibn Quṣayy ibn Kilāb",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [
+      "Abd Manaf ibn Qusay",
+      "al-Mughīra ibn Quṣayy"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "阿卜杜·马纳夫·本·库赛",
+    "fullNameCn": "阿卜杜·马纳夫·本·库赛·本·基拉卜",
+    "birthYear": "",
+    "deathYear": "",
+    "birthPlace": "Mecca",
+    "birthPlaceCn": "麦加",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "Quraysh",
+    "house": "Banū ʿAbd Manāf",
+    "culture": "Pre-Islamic Qurayshi Arab",
+    "faith": "Pre-Islamic Arabian religion",
+    "primaryTitle": "Quraysh notable and ancestor of major Meccan clans",
+    "primaryTitleCn": "古莱什重要祖先及麦加大支系共同祖先",
+    "titles": [],
+    "tags": [
+      "noble"
+    ],
+    "rank": "noble",
+    "importanceScore": 63,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "8c7858ec-2728-483f-8d76-28470fc85b1e",
+        "27020054-4bed-4dfa-ab8d-d303a98f4633"
+      ]
+    },
+    "events": [
+      {
+        "year": "",
+        "type": "succession",
+        "tags": [
+          "dynasty",
+          "government"
+        ],
+        "weight": 75,
+        "label": "Inherited a leading position within Quraysh after Quṣayy's generation",
+        "labelCn": "在库赛一代之后继承古莱什内部的重要地位",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Abd_Manaf_ibn_Qusai",
+        "note": "Later Arabic genealogy places ʿAbd Manāf among Quṣayy's principal sons; no secure absolute year can be assigned."
+      },
+      {
+        "year": "",
+        "type": "succession",
+        "tags": [
+          "dynasty",
+          "succession"
+        ],
+        "weight": 90,
+        "label": "Became the common ancestor of the Hāshim and ʿAbd Shams lines",
+        "labelCn": "成为哈希姆支与阿卜杜·沙姆斯支的共同祖先",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Abd_Manaf_ibn_Qusai",
+        "note": "Traditional Quraysh genealogy makes Hāshim and ʿAbd Shams sons of ʿAbd Manāf, producing the fork that later links Banū Hāshim and Banū Umayya."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Abd_Manaf_ibn_Qusai",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Abd_Manaf_ibn_Qusai",
+    "sourceNote": "Ibn Isḥāq/Ibn Hishām; al-Ṭabarī; M. J. Kister on Quraysh and Mecca; Wikipedia only as the stable online person index.",
+    "notes": "The project's key pre-Islamic fork joining the later Hāshimite and Umayyad target lines.\n\nConfidence / caveats: Chronology and much of the biography derive from later Arabic genealogical and sīra traditions rather than contemporary documentation. Birth and death years are intentionally null; later dynastic outcomes must not be projected backward as if he founded a medieval dynasty.\n\nUnlinked family: father: Quṣayy ibn Kilāb; mother: Ḥubbā bint Ḥulayl; spouse: ʿĀtika bint Murra; child: al-Muṭṭalib ibn ʿAbd Manāf; child: Nawfal ibn ʿAbd Manāf",
+    "createdDate": "20260824",
+    "createdOrder": 671
+  },
+  {
+    "id": "8c7858ec-2728-483f-8d76-28470fc85b1e",
+    "firstName": "Hāshim",
+    "lastName": "ibn ʿAbd Manāf",
+    "displayName": "Hāshim ibn ʿAbd Manāf",
+    "fullName": "Hāshim ibn ʿAbd Manāf",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [
+      "Hashim ibn Abd Manaf",
+      "ʿAmr ibn ʿAbd Manāf"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "哈希姆·本·阿卜杜·马纳夫",
+    "fullNameCn": "哈希姆·本·阿卜杜·马纳夫",
+    "birthYear": "",
+    "deathYear": "",
+    "birthPlace": "Mecca",
+    "birthPlaceCn": "麦加",
+    "deathPlace": "Gaza",
+    "deathPlaceCn": "加沙",
+    "gender": "male",
+    "dynasty": "Quraysh",
+    "house": "Banū Hāshim",
+    "culture": "Pre-Islamic Qurayshi Arab",
+    "faith": "Pre-Islamic Arabian religion",
+    "primaryTitle": "Eponymous ancestor of Banū Hāshim",
+    "primaryTitleCn": "哈希姆家族名祖",
+    "titles": [],
+    "tags": [
+      "noble"
+    ],
+    "rank": "noble",
+    "importanceScore": 72,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "f951b892-dd38-4925-af2a-497d712ab01f",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "876d8768-5261-4ecf-a808-ce6515c1b538"
+      ]
+    },
+    "events": [
+      {
+        "year": "",
+        "type": "government",
+        "tags": [
+          "government",
+          "noble"
+        ],
+        "weight": 75,
+        "label": "Was associated with provisioning pilgrims in Mecca",
+        "labelCn": "与麦加朝觐者的供给事务相联系",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Hashim_ibn_Abd_Manaf",
+        "note": "Islamic-era Meccan tradition credits Hāshim with a leading role in rifāda; details cannot be securely dated."
+      },
+      {
+        "year": "",
+        "type": "diplomacy",
+        "tags": [
+          "diplomacy",
+          "territory"
+        ],
+        "weight": 75,
+        "label": "Was credited with developing Quraysh's long-distance trade connections",
+        "labelCn": "被传统归功于发展古莱什的远距离贸易联系",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Hashim_ibn_Abd_Manaf",
+        "note": "Later tradition links Hāshim with commercial agreements and seasonal caravan routes toward Syria and Yemen; the scale and form are debated."
+      },
+      {
+        "year": "",
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 75,
+        "label": "Married Salmā bint ʿAmr of Yathrib",
+        "labelCn": "与叶斯里卜的萨尔玛·宾特·阿姆尔结婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Hashim_ibn_Abd_Manaf",
+        "note": "The marriage linked Hāshim with Yathrib; their son Shayba later became known as ʿAbd al-Muṭṭalib."
+      },
+      {
+        "year": "",
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "dynasty"
+        ],
+        "weight": 90,
+        "label": "Fathered ʿAbd al-Muṭṭalib",
+        "labelCn": "成为阿卜杜勒·穆塔利卜之父",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Hashim_ibn_Abd_Manaf",
+        "note": "ʿAbd al-Muṭṭalib became the next crucial ancestor of Muhammad, ʿAlī and al-ʿAbbās."
+      },
+      {
+        "year": "",
+        "type": "death",
+        "tags": [
+          "death",
+          "noble"
+        ],
+        "weight": 65,
+        "label": "Died at Gaza while travelling in Syria",
+        "labelCn": "在叙利亚贸易旅途中死于加沙",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Hashim_ibn_Abd_Manaf",
+        "note": "Traditional accounts place Hāshim's death at Gaza; proposed absolute dates vary widely."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Hashim_ibn_Abd_Manaf",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Hashim_ibn_Abd_Manaf",
+    "sourceNote": "Ibn Isḥāq/Ibn Hishām; al-Ṭabarī; M. J. Kister; Patricia Crone's critique of traditional Meccan trade reconstruction; Wikipedia as supplementary index.",
+    "notes": "Eponymous ancestor of Banū Hāshim and the bridge from ʿAbd Manāf to ʿAbd al-Muṭṭalib.\n\nConfidence / caveats: His biography is preserved mainly in later Islamic tradition. Famous īlāf/trade accounts are debated; online dates such as c.464–497 are reconstructions, so birthYear and deathYear remain null.\n\nUnlinked family: mother: ʿĀtika bint Murra; spouse: Salmā bint ʿAmr; child: Asad ibn Hāshim; child: Abū Ṣayfī ibn Hāshim; child: Naḍla ibn Hāshim",
+    "createdDate": "20260824",
+    "createdOrder": 672
+  },
+  {
+    "id": "27020054-4bed-4dfa-ab8d-d303a98f4633",
+    "firstName": "ʿAbd",
+    "lastName": "Shams ibn ʿAbd Manāf",
+    "displayName": "ʿAbd Shams ibn ʿAbd Manāf",
+    "fullName": "ʿAbd Shams ibn ʿAbd Manāf",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [
+      "Abd Shams ibn Abd Manaf"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "阿卜杜·沙姆斯·本·阿卜杜·马纳夫",
+    "fullNameCn": "阿卜杜·沙姆斯·本·阿卜杜·马纳夫",
+    "birthYear": "",
+    "deathYear": "",
+    "birthPlace": "Mecca",
+    "birthPlaceCn": "麦加",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "Quraysh",
+    "house": "Banū ʿAbd Shams",
+    "culture": "Pre-Islamic Qurayshi Arab",
+    "faith": "Pre-Islamic Arabian religion",
+    "primaryTitle": "Ancestor of Banū ʿAbd Shams",
+    "primaryTitleCn": "阿卜杜·沙姆斯支系祖先",
+    "titles": [],
+    "tags": [
+      "noble"
+    ],
+    "rank": "noble",
+    "importanceScore": 48,
+    "historicalRating": 4,
+    "relationships": {
+      "fatherId": "f951b892-dd38-4925-af2a-497d712ab01f",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "96f199e7-9b2a-4cd8-a4c9-ce3535304714"
+      ]
+    },
+    "events": [
+      {
+        "year": "",
+        "type": "succession",
+        "tags": [
+          "dynasty",
+          "succession"
+        ],
+        "weight": 85,
+        "label": "Became the traditional ancestor of the ʿAbd Shams branch of Quraysh",
+        "labelCn": "成为古莱什阿卜杜·沙姆斯支的传统祖先",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Abd_Shams_ibn_Abd_Manaf",
+        "note": "Later genealogies make him father of Umayya and the conventional paternal bridge toward Banū Umayya."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Abd_Shams_ibn_Abd_Manaf",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Abd_Shams_ibn_Abd_Manaf",
+    "sourceNote": "Ibn Isḥāq/Ibn Hishām; al-Balādhurī; al-Ṭabarī; Wikipedia as stable index.",
+    "notes": "Retained because the project needs a clean paternal bridge from ʿAbd Manāf to Umayya.\n\nConfidence / caveats: The standard relationship is classical Arab genealogy, not contemporary documentation. Chronology and many family details remain uncertain.\n\nUnlinked family: mother: ʿĀtika bint Murra; child: Rabīʿa ibn ʿAbd Shams; child: ʿAbd al-ʿUzzā ibn ʿAbd Shams",
+    "createdDate": "20260824",
+    "createdOrder": 673
+  },
+  {
+    "id": "96f199e7-9b2a-4cd8-a4c9-ce3535304714",
+    "firstName": "Umayya",
+    "lastName": "ibn ʿAbd Shams",
+    "displayName": "Umayya ibn ʿAbd Shams",
+    "fullName": "Umayya ibn ʿAbd Shams",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [
+      "Umayya ibn Abd Shams"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "伍麦叶·本·阿卜杜·沙姆斯",
+    "fullNameCn": "伍麦叶·本·阿卜杜·沙姆斯",
+    "birthYear": "",
+    "deathYear": "",
+    "birthPlace": "Mecca",
+    "birthPlaceCn": "麦加",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "Quraysh",
+    "house": "Banū Umayya",
+    "culture": "Pre-Islamic Qurayshi Arab",
+    "faith": "Pre-Islamic Arabian religion",
+    "primaryTitle": "Eponymous ancestor of Banū Umayya",
+    "primaryTitleCn": "伍麦叶家族名祖",
+    "titles": [],
+    "tags": [
+      "noble"
+    ],
+    "rank": "noble",
+    "importanceScore": 61,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "27020054-4bed-4dfa-ab8d-d303a98f4633",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "e9892a3c-3490-4e10-99e4-54fb74732df5"
+      ]
+    },
+    "events": [
+      {
+        "year": "",
+        "type": "succession",
+        "tags": [
+          "dynasty",
+          "succession"
+        ],
+        "weight": 95,
+        "label": "Became the eponymous ancestor of Banū Umayya",
+        "labelCn": "成为伍麦叶家族的名祖",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Umayya_ibn_Abd_Shams",
+        "note": "Classical genealogy identifies Umayya as the ancestor after whom Banū Umayya was named."
+      },
+      {
+        "year": "",
+        "type": "politics",
+        "tags": [
+          "politics",
+          "uncertain"
+        ],
+        "weight": 60,
+        "label": "Was later associated with a rivalry with Hāshim",
+        "labelCn": "后世传统将其与哈希姆的竞争联系起来",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Umayya_ibn_Abd_Shams",
+        "note": "Later narratives describe rivalry and arbitration between Umayya and Hāshim, but these stories are shaped by later Hashimite-Umayyad political memory."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Umayya_ibn_Abd_Shams",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Umayya_ibn_Abd_Shams",
+    "sourceNote": "Ibn Isḥāq/Ibn Hishām; al-Balādhurī, Ansāb al-ashrāf; al-Ṭabarī; G. R. Hawting; Wikipedia as supplementary index.",
+    "notes": "Eponymous ancestor of Banū Umayya and the bridge to Ḥarb and Abū Sufyān.\n\nConfidence / caveats: Stories of rivalry and exile are later traditions and difficult to separate from Abbasid-era polemic. No secure birth or death year is available.\n\nUnlinked family: child: Abū al-ʿĀṣ ibn Umayya",
+    "createdDate": "20260824",
+    "createdOrder": 674
+  },
+  {
+    "id": "e9892a3c-3490-4e10-99e4-54fb74732df5",
+    "firstName": "Ḥarb",
+    "lastName": "ibn Umayya",
+    "displayName": "Ḥarb ibn Umayya",
+    "fullName": "Ḥarb ibn Umayya",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [
+      "Harb ibn Umayya"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "哈尔卜·本·伍麦叶",
+    "fullNameCn": "哈尔卜·本·伍麦叶",
+    "birthYear": "",
+    "deathYear": "",
+    "birthPlace": "Mecca",
+    "birthPlaceCn": "麦加",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "Quraysh",
+    "house": "Banū Umayya",
+    "culture": "Pre-Islamic Qurayshi Arab",
+    "faith": "Pre-Islamic Arabian religion",
+    "primaryTitle": "Umayyad clan notable",
+    "primaryTitleCn": "伍麦叶支古莱什贵族",
+    "titles": [],
+    "tags": [
+      "noble"
+    ],
+    "rank": "noble",
+    "importanceScore": 46,
+    "historicalRating": 4,
+    "relationships": {
+      "fatherId": "96f199e7-9b2a-4cd8-a4c9-ce3535304714",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "6f7094b7-7970-45b1-a73c-aff5a4d92947"
+      ]
+    },
+    "events": [
+      {
+        "year": "",
+        "type": "politics",
+        "tags": [
+          "politics",
+          "noble"
+        ],
+        "weight": 65,
+        "label": "Was remembered as a leading notable of Banū Umayya",
+        "labelCn": "被记载为伍麦叶支的重要贵族领袖",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Harb_ibn_Umayya",
+        "note": "Later Arabic tradition places Ḥarb among prominent pre-Islamic Banū Umayya leaders."
+      },
+      {
+        "year": "",
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "dynasty"
+        ],
+        "weight": 90,
+        "label": "Fathered Abū Sufyān",
+        "labelCn": "成为阿布·苏富扬之父",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Harb_ibn_Umayya",
+        "note": "Through Abū Sufyān, Ḥarb became paternal grandfather of Muʿāwiya I."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Harb_ibn_Umayya",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Harb_ibn_Umayya",
+    "sourceNote": "Ibn Ḥabīb; al-Balādhurī; al-Ṭabarī; G. R. Hawting; Wikipedia as stable index.",
+    "notes": "Main project value is genealogical: Umayya → Ḥarb → Abū Sufyān → Muʿāwiya I.\n\nConfidence / caveats: Very little can be anchored securely in absolute chronology; Fijār-war anecdotes and leadership stories are not converted into precise dates.",
+    "createdDate": "20260824",
+    "createdOrder": 675
+  },
+  {
+    "id": "6f7094b7-7970-45b1-a73c-aff5a4d92947",
+    "firstName": "Abū",
+    "lastName": "Sufyān Ṣakhr ibn Ḥarb",
+    "displayName": "Abū Sufyān Ṣakhr ibn Ḥarb",
+    "fullName": "Abū Sufyān Ṣakhr ibn Ḥarb",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [
+      "Abu Sufyan ibn Harb",
+      "Ṣakhr ibn Ḥarb"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "阿布·苏富扬",
+    "fullNameCn": "阿布·苏富扬·萨赫尔·本·哈尔卜",
+    "birthYear": "",
+    "deathYear": "",
+    "birthPlace": "Mecca",
+    "birthPlaceCn": "麦加",
+    "deathPlace": "Medina",
+    "deathPlaceCn": "麦地那",
+    "gender": "male",
+    "dynasty": "Quraysh",
+    "house": "Sufyanid branch of Banū Umayya",
+    "culture": "Qurayshi Arab",
+    "faith": "Islam",
+    "primaryTitle": "Leader of Quraysh and Companion of Muhammad",
+    "primaryTitleCn": "古莱什领袖及穆罕默德圣门弟子",
+    "titles": [],
+    "tags": [
+      "noble"
+    ],
+    "rank": "noble",
+    "importanceScore": 88,
+    "historicalRating": 8,
+    "relationships": {
+      "fatherId": "e9892a3c-3490-4e10-99e4-54fb74732df5",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "89c64652-2196-40a1-a17e-6e15821376ac"
+      ]
+    },
+    "events": [
+      {
+        "year": 624,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "politics"
+        ],
+        "weight": 90,
+        "label": "Led the Quraysh caravan whose escape preceded the Battle of Badr",
+        "labelCn": "率领古莱什商队脱险，随后爆发白德尔战役",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Abu_Sufyan_ibn_Harb",
+        "note": "His diversion saved the caravan, but the Meccan relief army continued and was defeated at Badr."
+      },
+      {
+        "year": 625,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "commander"
+        ],
+        "weight": 95,
+        "label": "Led the Meccan coalition at the Battle of Uḥud",
+        "labelCn": "在伍侯德战役中领导麦加军队",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Abu_Sufyan_ibn_Harb",
+        "note": "Abū Sufyān emerged as the leading Meccan commander at Uḥud."
+      },
+      {
+        "year": 627,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "commander"
+        ],
+        "weight": 95,
+        "label": "Helped lead the confederate campaign against Medina",
+        "labelCn": "参与领导针对麦地那的联军围攻",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Abu_Sufyan_ibn_Harb",
+        "note": "He was among the principal Quraysh leaders of the Battle of the Trench campaign."
+      },
+      {
+        "year": 628,
+        "type": "diplomacy",
+        "tags": [
+          "diplomacy",
+          "treaty"
+        ],
+        "weight": 75,
+        "label": "Operated within the new order created by the Treaty of Ḥudaybiyya",
+        "labelCn": "在侯代比亚条约形成的新政治格局中活动",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Abu_Sufyan_ibn_Harb",
+        "note": "Later reports describe attempts to preserve or renew the truce when allied violence threatened it."
+      },
+      {
+        "year": 630,
+        "type": "religion",
+        "tags": [
+          "religion",
+          "politics"
+        ],
+        "weight": 100,
+        "label": "Accepted Islam shortly before the conquest of Mecca",
+        "labelCn": "在麦加征服前夕归信伊斯兰",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Abu_Sufyan_ibn_Harb",
+        "note": "His conversion is central to the peaceful submission of much of Quraysh; motives and narrative details differ."
+      },
+      {
+        "year": 630,
+        "type": "conquest",
+        "tags": [
+          "conquest",
+          "politics"
+        ],
+        "weight": 90,
+        "label": "Participated in the surrender of Mecca to Muhammad",
+        "labelCn": "参与麦加向穆罕默德政权的归顺",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Abu_Sufyan_ibn_Harb",
+        "note": "His status among Quraysh was used in the conquest's amnesty arrangements."
+      },
+      {
+        "year": 630,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "alliance"
+        ],
+        "weight": 70,
+        "label": "Fought with the Muslims at Ḥunayn",
+        "labelCn": "在侯奈因战役中站在穆斯林一方作战",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Abu_Sufyan_ibn_Harb",
+        "note": "He appears among former Meccan opponents incorporated into the Muslim coalition."
+      },
+      {
+        "year": 636,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "uncertain"
+        ],
+        "weight": 55,
+        "label": "Was traditionally said to have been present at Yarmūk",
+        "labelCn": "传统记载称其曾参加雅尔穆克战役",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Abu_Sufyan_ibn_Harb",
+        "note": "Later reports place the elderly Abū Sufyān at Yarmūk, but the details and even his presence are less secure."
+      },
+      {
+        "year": 653,
+        "type": "death",
+        "tags": [
+          "death",
+          "noble"
+        ],
+        "weight": 65,
+        "label": "Died in Medina in old age",
+        "labelCn": "晚年在麦地那去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Abu_Sufyan_ibn_Harb",
+        "note": "Most traditions place his death around 652–653, though dates into the mid-650s occur."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Abu_Sufyan_ibn_Harb",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Abu_Sufyan_ibn_Harb",
+    "sourceNote": "W. Montgomery Watt; Ibn Isḥāq/Ibn Hishām; al-Wāqidī and al-Ṭabarī used critically; G. R. Hawting; Wikipedia as supplementary chronology index.",
+    "notes": "Major Meccan opponent of Muhammad before 630, later Muslim notable and father of Muʿāwiya I.\n\nConfidence / caveats: Birth is often approximated to the 560s, but no secure year exists. Conversion is clear by 630; motives and Yarmūk stories are source-dependent. Death varies c.652–655, so deathYear remains null.\n\nUnlinked family: mother: Ṣafiyya bint Ḥazn; spouse: Hind bint ʿUtba; child: Yazīd ibn Abī Sufyān; child: Umm Ḥabība Ramla bint Abī Sufyān",
+    "createdDate": "20260824",
+    "createdOrder": 676
+  },
+  {
+    "id": "89c64652-2196-40a1-a17e-6e15821376ac",
+    "firstName": "Muʿāwiya",
+    "lastName": "I ibn Abī Sufyān",
+    "displayName": "Muʿāwiya I ibn Abī Sufyān",
+    "fullName": "Muʿāwiya I ibn Abī Sufyān",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [
+      "Muawiya I",
+      "Muʿāwiya ibn Abī Sufyān"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "穆阿维叶一世",
+    "fullNameCn": "穆阿维叶一世·本·阿布·苏富扬",
+    "birthYear": "",
+    "deathYear": 680,
+    "birthPlace": "Mecca",
+    "birthPlaceCn": "麦加",
+    "deathPlace": "Damascus",
+    "deathPlaceCn": "大马士革",
+    "gender": "male",
+    "dynasty": "Umayyad",
+    "house": "Sufyanid branch of Banū Umayya",
+    "culture": "Qurayshi Arab",
+    "faith": "Islam",
+    "primaryTitle": "Caliph",
+    "primaryTitleCn": "哈里发",
+    "titles": [
+      {
+        "title": "Governor of Syria",
+        "titleCn": "叙利亚总督",
+        "startYear": 639,
+        "endYear": 661
+      },
+      {
+        "title": "Caliph",
+        "titleCn": "哈里发",
+        "startYear": 661,
+        "endYear": 680
+      }
+    ],
+    "tags": [
+      "monarch",
+      "caliph",
+      "commander"
+    ],
+    "rank": "emperor",
+    "importanceScore": 96,
+    "historicalRating": 9,
+    "relationships": {
+      "fatherId": "6f7094b7-7970-45b1-a73c-aff5a4d92947",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 630,
+        "type": "religion",
+        "tags": [
+          "religion",
+          "politics"
+        ],
+        "weight": 75,
+        "label": "Entered the Muslim community around the conquest of Mecca",
+        "labelCn": "在麦加征服前后加入穆斯林共同体",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Mu%27awiya_I",
+        "note": "Conversion is normally placed at or shortly before the conquest of Mecca."
+      },
+      {
+        "year": 639,
+        "type": "government",
+        "tags": [
+          "government",
+          "title_acquired"
+        ],
+        "weight": 90,
+        "label": "Became governor of Syria",
+        "labelCn": "成为叙利亚总督",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Mu%27awiya_I",
+        "note": "Under ʿUmar, Muʿāwiya succeeded his brother Yazīd in Syrian administration and consolidated a durable power base."
+      },
+      {
+        "year": 649,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "conquest"
+        ],
+        "weight": 85,
+        "label": "Oversaw the first major Muslim naval expedition against Cyprus",
+        "labelCn": "推动第一次大规模穆斯林海军远征塞浦路斯",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Mu%27awiya_I",
+        "note": "Syrian forces developed naval capacity and attacked Cyprus under ʿUthmān."
+      },
+      {
+        "year": 655,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "commander"
+        ],
+        "weight": 90,
+        "label": "Syrian naval forces defeated the Byzantines in the Battle of the Masts",
+        "labelCn": "叙利亚海军在船桅之战中击败拜占庭舰队",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Mu%27awiya_I",
+        "note": "The victory confirmed Muslim ability to contest the eastern Mediterranean."
+      },
+      {
+        "year": 656,
+        "type": "politics",
+        "tags": [
+          "politics",
+          "political_crisis"
+        ],
+        "weight": 100,
+        "label": "Refused immediate allegiance to ʿAlī and demanded justice for ʿUthmān",
+        "labelCn": "拒绝立即向阿里效忠，并要求追究奥斯曼遇害责任",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Mu%27awiya_I",
+        "note": "His opposition helped trigger the First Fitna."
+      },
+      {
+        "year": 657,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "commander"
+        ],
+        "weight": 100,
+        "label": "Fought ʿAlī at the Battle of Ṣiffīn",
+        "labelCn": "在隋芬战役中与阿里交战",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Mu%27awiya_I",
+        "note": "The battle ended without decisive settlement and moved into arbitration."
+      },
+      {
+        "year": 658,
+        "type": "diplomacy",
+        "tags": [
+          "diplomacy",
+          "political_crisis"
+        ],
+        "weight": 90,
+        "label": "Used the arbitration crisis to strengthen his claim against ʿAlī",
+        "labelCn": "利用仲裁危机加强对阿里政权的挑战",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Mu%27awiya_I",
+        "note": "The arbitration weakened ʿAlī politically; accounts of the sessions differ substantially."
+      },
+      {
+        "year": 658,
+        "type": "conquest",
+        "tags": [
+          "conquest",
+          "territory"
+        ],
+        "weight": 85,
+        "label": "Secured control of Egypt through ʿAmr ibn al-ʿĀṣ",
+        "labelCn": "通过阿姆鲁·本·阿斯控制埃及",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Mu%27awiya_I",
+        "note": "Egypt returned to the Syrian coalition, giving Muʿāwiya a major fiscal and strategic province."
+      },
+      {
+        "year": 661,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 100,
+        "label": "Became caliph after Ḥasan relinquished political power",
+        "labelCn": "哈桑放弃政治权力后成为普遍承认的哈里发",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Mu%27awiya_I",
+        "note": "The settlement ended large-scale civil war and brought most of the polity under Muʿāwiya."
+      },
+      {
+        "year": 661,
+        "type": "government",
+        "tags": [
+          "government",
+          "administration"
+        ],
+        "weight": 95,
+        "label": "Established Damascus as the center of Umayyad caliphal government",
+        "labelCn": "确立大马士革为伍麦叶哈里发政权中心",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Mu%27awiya_I",
+        "note": "His reign consolidated Syrian military networks and a court-centered administration."
+      },
+      {
+        "year": 669,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "conquest"
+        ],
+        "weight": 75,
+        "label": "Renewed sustained pressure on Byzantine Anatolia and Constantinople",
+        "labelCn": "恢复对拜占庭安纳托利亚与君士坦丁堡的持续进攻",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Mu%27awiya_I",
+        "note": "Syrian armies repeatedly raided Anatolia and mounted major operations toward Constantinople; chronology differs among sources."
+      },
+      {
+        "year": 676,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "dynasty"
+        ],
+        "weight": 100,
+        "label": "Secured recognition of Yazīd as heir",
+        "labelCn": "推动其子叶齐德获得继承人地位",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Mu%27awiya_I",
+        "note": "The nomination transformed the caliphate toward hereditary dynastic succession and provoked elite opposition."
+      },
+      {
+        "year": 680,
+        "type": "death",
+        "tags": [
+          "death",
+          "king"
+        ],
+        "weight": 80,
+        "label": "Died in Damascus, leaving the caliphate to Yazīd I",
+        "labelCn": "在大马士革去世，哈里发之位由叶齐德一世继承",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Mu%27awiya_I",
+        "note": "Yazīd's succession immediately reopened legitimacy disputes."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Mu%27awiya_I",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Mu%27awiya_I",
+    "sourceNote": "G. R. Hawting; Hugh Kennedy; Wilferd Madelung; al-Ṭabarī used critically; Wikipedia as supplementary chronology index.",
+    "notes": "Founder of the Umayyad caliphal dynasty's Sufyanid ruling branch; this batch intentionally stops Umayyad expansion with him.\n\nConfidence / caveats: Birth is variously reconstructed c.597–603. His Syrian appointment developed in stages. Sunni, Shi'i and later political traditions differ sharply over his conflict with ʿAlī. 'Founder of the Umayyad dynasty' refers to caliphal rule from 661, not the much older clan.\n\nUnlinked family: mother: Hind bint ʿUtba; spouse: Maysūn bint Baḥdal; child: Yazīd I; child: ʿAbd Allāh ibn Muʿāwiya",
+    "createdDate": "20260824",
+    "createdOrder": 677
+  },
+  {
+    "id": "876d8768-5261-4ecf-a808-ce6515c1b538",
+    "firstName": "ʿAbd",
+    "lastName": "al-Muṭṭalib",
+    "displayName": "ʿAbd al-Muṭṭalib",
+    "fullName": "ʿAbd al-Muṭṭalib ibn Hāshim",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [
+      "Abd al-Muttalib",
+      "Shayba ibn Hāshim",
+      "Shaybat al-Ḥamd"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "阿卜杜勒·穆塔利卜",
+    "fullNameCn": "阿卜杜勒·穆塔利卜·本·哈希姆",
+    "birthYear": "",
+    "deathYear": "",
+    "birthPlace": "Yathrib",
+    "birthPlaceCn": "叶斯里卜",
+    "deathPlace": "Mecca",
+    "deathPlaceCn": "麦加",
+    "gender": "male",
+    "dynasty": "Quraysh",
+    "house": "Banū Hāshim",
+    "culture": "Pre-Islamic Qurayshi Arab",
+    "faith": "Pre-Islamic Arabian religion",
+    "primaryTitle": "Chief notable of Banū Hāshim",
+    "primaryTitleCn": "哈希姆家族重要领袖",
+    "titles": [],
+    "tags": [
+      "noble"
+    ],
+    "rank": "noble",
+    "importanceScore": 82,
+    "historicalRating": 7,
+    "relationships": {
+      "fatherId": "8c7858ec-2728-483f-8d76-28470fc85b1e",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "e4daa227-f173-4c2c-814c-2fae9f30d9f9",
+        "106944a7-e33c-4a52-be7a-d619b61db972",
+        "0234d202-7145-44c7-94f9-b0487978d357"
+      ]
+    },
+    "events": [
+      {
+        "year": "",
+        "type": "succession",
+        "tags": [
+          "succession",
+          "noble"
+        ],
+        "weight": 80,
+        "label": "Was brought from Yathrib to Mecca and became a leading Hāshimite notable",
+        "labelCn": "从叶斯里卜被带回麦加，并成为哈希姆家族的重要领袖",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Abd_al-Muttalib",
+        "note": "Born Shayba in Yathrib, he was later brought to Mecca by his uncle al-Muṭṭalib."
+      },
+      {
+        "year": "",
+        "type": "religion",
+        "tags": [
+          "religion",
+          "uncertain"
+        ],
+        "weight": 80,
+        "label": "Was traditionally credited with rediscovering the Zamzam well",
+        "labelCn": "传统上被归功于重新发现渗渗泉",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Abd_al-Muttalib",
+        "note": "Meccan tradition attributes Zamzam's rediscovery or restoration to him after revelatory dreams."
+      },
+      {
+        "year": 570,
+        "type": "politics",
+        "tags": [
+          "politics",
+          "religion"
+        ],
+        "weight": 90,
+        "label": "Was associated with Mecca's leadership in the traditional Year of the Elephant",
+        "labelCn": "传统“象年”叙事中代表麦加与阿布拉哈交涉",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Abd_al-Muttalib",
+        "note": "Later accounts place him as Mecca's spokesman during Abraha's expedition; exact date and details are debated."
+      },
+      {
+        "year": 570,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "dynasty"
+        ],
+        "weight": 100,
+        "label": "Became grandfather of Muhammad",
+        "labelCn": "成为穆罕默德的祖父",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Abd_al-Muttalib",
+        "note": "His son ʿAbd Allāh died around the time of Muhammad's birth."
+      },
+      {
+        "year": 576,
+        "type": "regency",
+        "tags": [
+          "regency",
+          "dynasty"
+        ],
+        "weight": 85,
+        "label": "Took responsibility for the orphaned Muhammad after Āmina's death",
+        "labelCn": "阿米娜去世后承担幼年穆罕默德的监护",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Abd_al-Muttalib",
+        "note": "Standard sīra tradition makes ʿAbd al-Muṭṭalib Muhammad's guardian after Āmina's death."
+      },
+      {
+        "year": 578,
+        "type": "death",
+        "tags": [
+          "death",
+          "noble"
+        ],
+        "weight": 80,
+        "label": "Died in Mecca and entrusted Muhammad to Abū Ṭālib",
+        "labelCn": "在麦加去世，并将穆罕默德托付给阿布·塔利卜",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Abd_al-Muttalib",
+        "note": "The traditional chronology places his death when Muhammad was about eight."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Abd_al-Muttalib",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Abd_al-Muttalib",
+    "sourceNote": "Ibn Isḥāq/Ibn Hishām; al-Ṭabarī; F. E. Peters; W. Montgomery Watt; studies of Abraha and the Year of the Elephant; Wikipedia as supplementary index.",
+    "notes": "The second major fork: through ʿAbd Allāh comes Muhammad, through Abū Ṭālib comes ʿAlī, and through al-ʿAbbās comes the Abbasid ancestral line.\n\nConfidence / caveats: Detailed Zamzam, vow and Elephant narratives are later tradition. Conventional c.497–578 dates are not secure, so birthYear and deathYear remain null. Later Islamic traditions differ over how monotheistic his beliefs were; he should not simply be back-projected as Muslim.\n\nUnlinked family: mother: Salmā bint ʿAmr; spouse: Fāṭima bint ʿAmr; spouse: Hāla bint Wuhayb; child: Ḥamza ibn ʿAbd al-Muṭṭalib; child: Abū Lahab; child: Ṣafiyya bint ʿAbd al-Muṭṭalib",
+    "createdDate": "20260824",
+    "createdOrder": 678
+  },
+  {
+    "id": "e4daa227-f173-4c2c-814c-2fae9f30d9f9",
+    "firstName": "ʿAbd",
+    "lastName": "Allāh ibn ʿAbd al-Muṭṭalib",
+    "displayName": "ʿAbd Allāh ibn ʿAbd al-Muṭṭalib",
+    "fullName": "ʿAbd Allāh ibn ʿAbd al-Muṭṭalib",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [
+      "Abdullah ibn Abd al-Muttalib"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "阿卜杜拉·本·阿卜杜勒·穆塔利卜",
+    "fullNameCn": "阿卜杜拉·本·阿卜杜勒·穆塔利卜",
+    "birthYear": "",
+    "deathYear": "",
+    "birthPlace": "Mecca",
+    "birthPlaceCn": "麦加",
+    "deathPlace": "Yathrib",
+    "deathPlaceCn": "叶斯里卜",
+    "gender": "male",
+    "dynasty": "Quraysh",
+    "house": "Banū Hāshim",
+    "culture": "Pre-Islamic Qurayshi Arab",
+    "faith": "Pre-Islamic Arabian religion",
+    "primaryTitle": "Father of Muhammad",
+    "primaryTitleCn": "穆罕默德之父",
+    "titles": [],
+    "tags": [
+      "noble"
+    ],
+    "rank": "noble",
+    "importanceScore": 48,
+    "historicalRating": 4,
+    "relationships": {
+      "fatherId": "876d8768-5261-4ecf-a808-ce6515c1b538",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "b54d8195-66ad-4668-b9dc-a117a2d9e51b"
+      ]
+    },
+    "events": [
+      {
+        "year": "",
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 75,
+        "label": "Married Āmina bint Wahb of Banū Zuhra",
+        "labelCn": "与祖赫拉支的阿米娜·宾特·瓦赫卜结婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Abdullah_ibn_Abd_al-Muttalib",
+        "note": "The marriage produced Muhammad."
+      },
+      {
+        "year": 570,
+        "type": "death",
+        "tags": [
+          "death",
+          "noble"
+        ],
+        "weight": 90,
+        "label": "Died around the time of Muhammad's birth",
+        "labelCn": "在穆罕默德出生前后去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Abdullah_ibn_Abd_al-Muttalib",
+        "note": "Dominant sīra tradition holds that he died while Āmina was pregnant, though some reports place his death shortly after the birth; 570 is approximate."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Abdullah_ibn_Abd_al-Muttalib",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Abdullah_ibn_Abd_al-Muttalib",
+    "sourceNote": "Ibn Isḥāq/Ibn Hishām; al-Ṭabarī; W. Montgomery Watt; F. E. Peters; Wikipedia as stable index.",
+    "notes": "Primarily the genealogical bridge between ʿAbd al-Muṭṭalib and Muhammad.\n\nConfidence / caveats: Dates are uncertain. The dominant sīra makes Muhammad posthumous, while some reports allow ʿAbd Allāh to have lived briefly after the birth.\n\nUnlinked family: mother: Fāṭima bint ʿAmr; spouse: Āmina bint Wahb",
+    "createdDate": "20260824",
+    "createdOrder": 679
+  },
+  {
+    "id": "106944a7-e33c-4a52-be7a-d619b61db972",
+    "firstName": "Abū",
+    "lastName": "Ṭālib ibn ʿAbd al-Muṭṭalib",
+    "displayName": "Abū Ṭālib ibn ʿAbd al-Muṭṭalib",
+    "fullName": "Abū Ṭālib ʿAbd Manāf ibn ʿAbd al-Muṭṭalib",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [
+      "Abu Talib",
+      "ʿAbd Manāf ibn ʿAbd al-Muṭṭalib"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "阿布·塔利卜",
+    "fullNameCn": "阿布·塔利卜·阿卜杜·马纳夫·本·阿卜杜勒·穆塔利卜",
+    "birthYear": "",
+    "deathYear": 619,
+    "birthPlace": "Mecca",
+    "birthPlaceCn": "麦加",
+    "deathPlace": "Mecca",
+    "deathPlaceCn": "麦加",
+    "gender": "male",
+    "dynasty": "Quraysh",
+    "house": "Banū Hāshim",
+    "culture": "Qurayshi Arab",
+    "faith": "Disputed in Islamic tradition",
+    "primaryTitle": "Chief of Banū Hāshim and protector of Muhammad",
+    "primaryTitleCn": "哈希姆家族领袖及穆罕默德的重要保护者",
+    "titles": [],
+    "tags": [
+      "noble"
+    ],
+    "rank": "noble",
+    "importanceScore": 84,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "876d8768-5261-4ecf-a808-ce6515c1b538",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "ac92c10a-f2b5-4ba8-8d79-af772ea959c0"
+      ]
+    },
+    "events": [
+      {
+        "year": 578,
+        "type": "regency",
+        "tags": [
+          "regency",
+          "dynasty"
+        ],
+        "weight": 100,
+        "label": "Became guardian of the young Muhammad",
+        "labelCn": "成为幼年穆罕默德的监护人",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Abu_Talib_ibn_Abd_al-Muttalib",
+        "note": "After ʿAbd al-Muṭṭalib's death, Abū Ṭālib took Muhammad into his household."
+      },
+      {
+        "year": 582,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "uncertain"
+        ],
+        "weight": 55,
+        "label": "Was traditionally said to have taken Muhammad on a caravan journey to Syria",
+        "labelCn": "传统称其曾带年幼的穆罕默德随商队前往叙利亚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Abu_Talib_ibn_Abd_al-Muttalib",
+        "note": "The Baḥīrā episode is a later sīra tradition and not independently secure."
+      },
+      {
+        "year": 613,
+        "type": "politics",
+        "tags": [
+          "politics",
+          "defense"
+        ],
+        "weight": 95,
+        "label": "Maintained clan protection for Muhammad as public preaching intensified",
+        "labelCn": "穆罕默德公开传教后继续提供宗族保护",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Abu_Talib_ibn_Abd_al-Muttalib",
+        "note": "He refused demands to surrender his nephew, using Hāshimite solidarity to shield the emerging movement."
+      },
+      {
+        "year": 616,
+        "type": "politics",
+        "tags": [
+          "political_crisis",
+          "defense"
+        ],
+        "weight": 90,
+        "label": "Shared the Banū Hāshim boycott and confinement",
+        "labelCn": "与哈希姆家族共同承受抵制与封锁",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Abu_Talib_ibn_Abd_al-Muttalib",
+        "note": "The boycott placed Muhammad's clan faction under severe social and economic pressure; exact chronology varies."
+      },
+      {
+        "year": 619,
+        "type": "death",
+        "tags": [
+          "death",
+          "noble"
+        ],
+        "weight": 100,
+        "label": "Died in Mecca, removing Muhammad's principal clan protector",
+        "labelCn": "在麦加去世，使穆罕默德失去最重要的宗族保护者",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Abu_Talib_ibn_Abd_al-Muttalib",
+        "note": "His death in the Year of Sorrow sharply worsened Muhammad's security in Mecca."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Abu_Talib_ibn_Abd_al-Muttalib",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Abu_Talib_ibn_Abd_al-Muttalib",
+    "sourceNote": "Ibn Isḥāq/Ibn Hishām; al-Ṭabarī; W. Montgomery Watt; Wilferd Madelung; Sunni and Shi'i traditions compared critically; Wikipedia as supplementary index.",
+    "notes": "Muhammad's uncle, guardian and protector, and the father of ʿAlī.\n\nConfidence / caveats: Sunni tradition generally says he died without formal conversion, while Shi'i tradition regards him as a concealed believer; faith is therefore marked disputed. Birth year and the Syrian caravan story are uncertain.\n\n资料限制，未以重复事件凑数。\n\nUnlinked family: mother: Fāṭima bint ʿAmr; spouse: Fāṭima bint Asad; child: Jaʿfar ibn Abī Ṭālib; child: ʿAqīl ibn Abī Ṭālib; child: Ṭālib ibn Abī Ṭālib; child: Umm Hāniʾ bint Abī Ṭālib",
+    "createdDate": "20260824",
+    "createdOrder": 680
+  },
+  {
+    "id": "0234d202-7145-44c7-94f9-b0487978d357",
+    "firstName": "al-ʿAbbās",
+    "lastName": "ibn ʿAbd al-Muṭṭalib",
+    "displayName": "al-ʿAbbās ibn ʿAbd al-Muṭṭalib",
+    "fullName": "al-ʿAbbās ibn ʿAbd al-Muṭṭalib",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [
+      "Abbas ibn Abd al-Muttalib"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "阿拔斯·本·阿卜杜勒·穆塔利卜",
+    "fullNameCn": "阿拔斯·本·阿卜杜勒·穆塔利卜",
+    "birthYear": "",
+    "deathYear": 653,
+    "birthPlace": "Mecca",
+    "birthPlaceCn": "麦加",
+    "deathPlace": "Medina",
+    "deathPlaceCn": "麦地那",
+    "gender": "male",
+    "dynasty": "Quraysh",
+    "house": "Banū Hāshim, Abbasid ancestral line",
+    "culture": "Qurayshi Arab",
+    "faith": "Islam",
+    "primaryTitle": "Companion of Muhammad and ancestor of the Abbasids",
+    "primaryTitleCn": "穆罕默德叔父、圣门弟子及阿拔斯王朝祖先",
+    "titles": [],
+    "tags": [
+      "noble"
+    ],
+    "rank": "noble",
+    "importanceScore": 75,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "876d8768-5261-4ecf-a808-ce6515c1b538",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 624,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "imprisonment"
+        ],
+        "weight": 80,
+        "label": "Was captured by the Muslims at the Battle of Badr",
+        "labelCn": "在白德尔战役中被穆斯林俘虏",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Abbas_ibn_Abd_al-Muttalib",
+        "note": "Later traditions disagree over whether he had already secretly sympathized with Islam."
+      },
+      {
+        "year": 630,
+        "type": "religion",
+        "tags": [
+          "religion",
+          "dynasty"
+        ],
+        "weight": 90,
+        "label": "Openly joined Muhammad before or at the conquest of Mecca",
+        "labelCn": "在麦加征服前后公开加入穆罕默德阵营",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Abbas_ibn_Abd_al-Muttalib",
+        "note": "Public conversion is clear by the conquest, though family traditions claim an earlier secret conversion."
+      },
+      {
+        "year": 630,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "alliance"
+        ],
+        "weight": 80,
+        "label": "Remained with Muhammad during the crisis at Ḥunayn",
+        "labelCn": "侯奈因战役危急时仍留在穆罕默德身边",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Abbas_ibn_Abd_al-Muttalib",
+        "note": "He is remembered among those who stayed near Muhammad and helped rally the army."
+      },
+      {
+        "year": 632,
+        "type": "religion",
+        "tags": [
+          "religion",
+          "dynasty"
+        ],
+        "weight": 75,
+        "label": "Became a senior member of the Prophet's family after Muhammad's death",
+        "labelCn": "穆罕默德去世后成为先知家族的重要长辈",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Abbas_ibn_Abd_al-Muttalib",
+        "note": "Later Abbasid legitimacy placed exceptional emphasis on descent from him."
+      },
+      {
+        "year": 653,
+        "type": "death",
+        "tags": [
+          "death",
+          "noble"
+        ],
+        "weight": 65,
+        "label": "Died in Medina",
+        "labelCn": "在麦地那去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Abbas_ibn_Abd_al-Muttalib",
+        "note": "His descendants later formed the genealogical basis of the Abbasid house."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Abbas_ibn_Abd_al-Muttalib",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Abbas_ibn_Abd_al-Muttalib",
+    "sourceNote": "Ibn Isḥāq/Ibn Hishām; al-Ṭabarī; al-Balādhurī; Tayeb El-Hibri; Hugh Kennedy; Wikipedia as supplementary index.",
+    "notes": "Muhammad's paternal uncle and the eponymous ancestor used by the Abbasids; this batch intentionally stops that line here.\n\nConfidence / caveats: Conversion date is disputed and later Abbasid political memory shaped traditions about him. Exact birth year is uncertain.\n\nUnlinked family: mother: Nutayla bint Janāb; spouse: Lubāba al-Kubrā bint al-Ḥārith; child: ʿAbd Allāh ibn al-ʿAbbās; child: al-Faḍl ibn al-ʿAbbās; child: Qutham ibn al-ʿAbbās; child: ʿUbayd Allāh ibn al-ʿAbbās",
+    "createdDate": "20260824",
+    "createdOrder": 681
+  },
+  {
+    "id": "b54d8195-66ad-4668-b9dc-a117a2d9e51b",
+    "firstName": "Muhammad",
+    "lastName": "",
+    "displayName": "Muhammad",
+    "fullName": "Muḥammad ibn ʿAbd Allāh",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [
+      "Muḥammad",
+      "Muhammad ibn Abdullah",
+      "Prophet Muhammad"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "穆罕默德",
+    "fullNameCn": "穆罕默德·本·阿卜杜拉",
+    "birthYear": 570,
+    "deathYear": 632,
+    "birthPlace": "Mecca",
+    "birthPlaceCn": "麦加",
+    "deathPlace": "Medina",
+    "deathPlaceCn": "麦地那",
+    "deathCause": {
+      "kind": "normal",
+      "summary": "died after a final illness",
+      "summaryCn": "因病去世",
+      "detail": "died in Medina after a final illness",
+      "detailCn": "在麦地那病逝",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Muhammad"
+    },
+    "gender": "male",
+    "dynasty": "Quraysh",
+    "house": "Banū Hāshim",
+    "culture": "Qurayshi Arab",
+    "faith": "Islam",
+    "primaryTitle": "Prophet of Islam and leader of the Muslim community",
+    "primaryTitleCn": "伊斯兰教先知及穆斯林共同体领袖",
+    "titles": [
+      {
+        "title": "Leader of the Muslim Community",
+        "titleCn": "穆斯林共同体领袖",
+        "startYear": 622,
+        "endYear": 632
+      }
+    ],
+    "tags": [
+      "prophet",
+      "religious_leader"
+    ],
+    "rank": "noble",
+    "importanceScore": 100,
+    "historicalRating": 10,
+    "relationships": {
+      "fatherId": "e4daa227-f173-4c2c-814c-2fae9f30d9f9",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "e6973117-63ca-4995-8242-86757ffbc49c"
+      ]
+    },
+    "events": [
+      {
+        "year": 595,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 80,
+        "label": "Married Khadīja bint Khuwaylid",
+        "labelCn": "与赫蒂彻·宾特·胡韦利德结婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Muhammad",
+        "note": "Khadīja became his first wife and principal early supporter; 595 is approximate."
+      },
+      {
+        "year": 610,
+        "type": "religion",
+        "tags": [
+          "religion",
+          "uncertain"
+        ],
+        "weight": 100,
+        "label": "Received the first revelations according to Islamic tradition",
+        "labelCn": "按照伊斯兰传统接受最初启示",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Muhammad",
+        "note": "Islamic tradition places the beginning of Qur'anic revelation near Mecca, conventionally in 610."
+      },
+      {
+        "year": 613,
+        "type": "religion",
+        "tags": [
+          "religion",
+          "politics"
+        ],
+        "weight": 95,
+        "label": "Began more public preaching in Mecca",
+        "labelCn": "在麦加更公开地传教",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Muhammad",
+        "note": "His preaching increasingly challenged established Meccan religious and political interests."
+      },
+      {
+        "year": 615,
+        "type": "politics",
+        "tags": [
+          "politics",
+          "defense"
+        ],
+        "weight": 75,
+        "label": "Some followers emigrated to Aksum to escape persecution",
+        "labelCn": "部分追随者迁往阿克苏姆躲避迫害",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Muhammad",
+        "note": "Early Muslims sought protection across the Red Sea; numbers and whether there were one or two migrations vary."
+      },
+      {
+        "year": 619,
+        "type": "political_crisis",
+        "tags": [
+          "political_crisis",
+          "dynasty"
+        ],
+        "weight": 90,
+        "label": "Lost Khadīja and Abū Ṭālib in the Year of Sorrow",
+        "labelCn": "“悲伤之年”失去赫蒂彻与阿布·塔利卜",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Muhammad",
+        "note": "The deaths weakened his personal and political position in Mecca."
+      },
+      {
+        "year": 621,
+        "type": "diplomacy",
+        "tags": [
+          "diplomacy",
+          "alliance"
+        ],
+        "weight": 90,
+        "label": "Won pledges of support from followers in Yathrib",
+        "labelCn": "获得叶斯里卜追随者的效忠与保护承诺",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Muhammad",
+        "note": "The Aqaba pledges made migration and a new political community possible."
+      },
+      {
+        "year": 622,
+        "month": 9,
+        "type": "government",
+        "tags": [
+          "government",
+          "succession"
+        ],
+        "weight": 100,
+        "label": "Migrated from Mecca to Medina in the Hijra",
+        "labelCn": "从麦加迁徙到麦地那，完成希吉拉",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Muhammad",
+        "note": "The Hijra marks the transition to an organized Medinan community and later became the epoch of the Islamic calendar."
+      },
+      {
+        "year": 622,
+        "type": "government",
+        "tags": [
+          "government",
+          "legal"
+        ],
+        "weight": 95,
+        "label": "Established a political community at Medina",
+        "labelCn": "在麦地那建立新的政治共同体",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Muhammad",
+        "note": "The agreement conventionally called the Constitution of Medina organized relations among followers and allied groups; textual formation is debated."
+      },
+      {
+        "year": 624,
+        "month": 3,
+        "day": 13,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "commander"
+        ],
+        "weight": 100,
+        "label": "Defeated a larger Meccan force at Badr",
+        "labelCn": "在白德尔战役中击败较大的麦加军队",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Muhammad",
+        "note": "Badr greatly strengthened the Medinan community."
+      },
+      {
+        "year": 625,
+        "month": 3,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "defeat"
+        ],
+        "weight": 90,
+        "label": "Survived the Muslim setback at Uḥud",
+        "labelCn": "在伍侯德战役的穆斯林挫败中幸存",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Muhammad",
+        "note": "Abū Sufyān's Meccan army inflicted heavy losses but failed to destroy the polity."
+      },
+      {
+        "year": 627,
+        "month": 4,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "defense"
+        ],
+        "weight": 100,
+        "label": "Defeated the confederate siege in the Battle of the Trench",
+        "labelCn": "在壕沟之战中击退围攻麦地那的联军",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Muhammad",
+        "note": "The failed siege shifted the strategic balance against Mecca."
+      },
+      {
+        "year": 628,
+        "month": 3,
+        "type": "treaty",
+        "tags": [
+          "treaty",
+          "diplomacy"
+        ],
+        "weight": 100,
+        "label": "Concluded the Treaty of Ḥudaybiyya with Quraysh",
+        "labelCn": "与古莱什签订侯代比亚条约",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Muhammad",
+        "note": "The truce recognized Muhammad as a negotiating power and enabled rapid alliance expansion."
+      },
+      {
+        "year": 628,
+        "month": 5,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "conquest"
+        ],
+        "weight": 85,
+        "label": "Secured Khaybar",
+        "labelCn": "攻取海拜尔",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Muhammad",
+        "note": "The campaign expanded the polity's resources and influence."
+      },
+      {
+        "year": 630,
+        "month": 1,
+        "type": "conquest",
+        "tags": [
+          "conquest",
+          "politics"
+        ],
+        "weight": 100,
+        "label": "Conquered Mecca with limited resistance",
+        "labelCn": "以有限抵抗征服麦加",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Muhammad",
+        "note": "Muhammad incorporated much of Quraysh into the new order."
+      },
+      {
+        "year": 630,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "commander"
+        ],
+        "weight": 90,
+        "label": "Defeated the Hawāzin-led coalition at Ḥunayn",
+        "labelCn": "在侯奈因击败哈瓦津主导的联军",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Muhammad",
+        "note": "The Muslim army recovered after an initial shock and won the battle."
+      },
+      {
+        "year": 631,
+        "type": "diplomacy",
+        "tags": [
+          "diplomacy",
+          "government"
+        ],
+        "weight": 85,
+        "label": "Received delegations from tribes across Arabia",
+        "labelCn": "接待来自阿拉伯各部落的大量使团",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Muhammad",
+        "note": "The Year of Delegations symbolized rapid incorporation into alliances with the expanding polity."
+      },
+      {
+        "year": 632,
+        "month": 3,
+        "type": "religion",
+        "tags": [
+          "religion",
+          "government"
+        ],
+        "weight": 95,
+        "label": "Performed the Farewell Pilgrimage",
+        "labelCn": "完成辞朝觐",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Muhammad",
+        "note": "His final pilgrimage supplied important ritual precedents and remembered final teachings."
+      },
+      {
+        "year": 632,
+        "month": 6,
+        "day": 8,
+        "type": "death",
+        "tags": [
+          "death",
+          "monarch"
+        ],
+        "weight": 100,
+        "label": "Died in Medina after a final illness",
+        "labelCn": "在麦地那病逝",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Muhammad",
+        "note": "He died in Medina in June 632 after a final illness, leaving no universally accepted political succession procedure."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Muhammad",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Muhammad",
+    "sourceNote": "Fred M. Donner; W. Montgomery Watt; F. E. Peters; Ibn Isḥāq/Ibn Hishām and al-Ṭabarī used critically; early non-Muslim notices; Wikipedia only as online chronology index.",
+    "notes": "Founder and prophet of the early Muslim community. In this graph his bloodline continues through Fāṭima; ʿAlī is his paternal cousin and son-in-law.\n\nConfidence / caveats: 570 is the conventional approximate birth year, adopted here as the standard display value. The broad life arc is well grounded, but detailed sīra chronology was compiled generations later. 'Prophet' is recorded as an Islamic religious role, not as an adjudication of revelation claims. Specific modern diagnosis for his final illness is not secure.\n\nUnlinked family: mother: Āmina bint Wahb; spouse: Khadīja bint Khuwaylid; spouse: Sawda bint Zamʿa; spouse: ʿĀʾisha bint Abī Bakr; spouse: Ḥafṣa bint ʿUmar; spouse: Umm Salama; spouse: Zaynab bint Jaḥsh; spouse: Umm Ḥabība Ramla bint Abī Sufyān; spouse: Maymūna bint al-Ḥārith; child: Zaynab bint Muhammad; child: Ruqayya bint Muhammad; child: Umm Kulthūm bint Muhammad; child: al-Qāsim ibn Muhammad; child: ʿAbd Allāh ibn Muhammad; child: Ibrāhīm ibn Muhammad",
+    "createdDate": "20260824",
+    "createdOrder": 682
+  },
+  {
+    "id": "ac92c10a-f2b5-4ba8-8d79-af772ea959c0",
+    "firstName": "ʿAlī",
+    "lastName": "ibn Abī Ṭālib",
+    "displayName": "ʿAlī ibn Abī Ṭālib",
+    "fullName": "ʿAlī ibn Abī Ṭālib",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [
+      "Ali ibn Abi Talib",
+      "ʿAlī",
+      "Amīr al-Muʾminīn",
+      "First Imam in Shi'i Islam"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "阿里·本·阿布·塔利卜",
+    "fullNameCn": "阿里·本·阿布·塔利卜",
+    "birthYear": "",
+    "deathYear": 661,
+    "birthPlace": "Mecca",
+    "birthPlaceCn": "麦加",
+    "deathPlace": "Kufa",
+    "deathPlaceCn": "库法",
+    "deathCause": {
+      "kind": "violent_uncertain",
+      "summary": "died from a poisoned sword wound inflicted in an assassination",
+      "summaryCn": "遭刺杀时中毒剑伤，后因伤去世",
+      "detail": "died from a poisoned sword wound inflicted in an assassination",
+      "detailCn": "遭刺杀时中毒剑伤，后因伤去世",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Ali"
+    },
+    "gender": "male",
+    "dynasty": "Quraysh",
+    "house": "Banū Hāshim, Alid line",
+    "culture": "Qurayshi Arab",
+    "faith": "Islam",
+    "primaryTitle": "Fourth Rashidun Caliph",
+    "primaryTitleCn": "第四任正统哈里发",
+    "titles": [
+      {
+        "title": "Caliph",
+        "titleCn": "哈里发",
+        "startYear": 656,
+        "endYear": 661
+      },
+      {
+        "title": "Imam in Shi'i Islam",
+        "titleCn": "什叶派第一任伊玛目",
+        "startYear": 632,
+        "endYear": 661
+      }
+    ],
+    "tags": [
+      "monarch",
+      "caliph",
+      "commander"
+    ],
+    "rank": "emperor",
+    "importanceScore": 100,
+    "historicalRating": 10,
+    "relationships": {
+      "fatherId": "106944a7-e33c-4a52-be7a-d619b61db972",
+      "motherId": "",
+      "spouseIds": [
+        "e6973117-63ca-4995-8242-86757ffbc49c"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "28f28c55-b23c-4362-981b-254568f7fa23",
+        "96196245-8f5d-4349-b7df-10d3119f064a"
+      ]
+    },
+    "events": [
+      {
+        "year": 610,
+        "type": "religion",
+        "tags": [
+          "religion",
+          "dynasty"
+        ],
+        "weight": 90,
+        "label": "Became one of Muhammad's earliest followers",
+        "labelCn": "成为穆罕默德最早的追随者之一",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ali",
+        "note": "Tradition places the young ʿAlī among the very earliest believers."
+      },
+      {
+        "year": 622,
+        "type": "politics",
+        "tags": [
+          "politics",
+          "defense"
+        ],
+        "weight": 90,
+        "label": "Helped Muhammad's departure from Mecca during the Hijra",
+        "labelCn": "在希吉拉期间协助穆罕默德离开麦加",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ali",
+        "note": "Sīra tradition says he stayed temporarily to return entrusted property and later joined Muhammad in Medina."
+      },
+      {
+        "year": 624,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 100,
+        "label": "Married Fāṭima, daughter of Muhammad",
+        "labelCn": "与穆罕默德之女法蒂玛结婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ali",
+        "note": "The marriage produced Ḥasan, Ḥusayn and the principal Alid genealogical lines."
+      },
+      {
+        "year": 624,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "commander"
+        ],
+        "weight": 95,
+        "label": "Distinguished himself at the Battle of Badr",
+        "labelCn": "在白德尔战役中表现突出",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ali",
+        "note": "He was among the prominent Muslim fighters at Badr."
+      },
+      {
+        "year": 625,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "defense"
+        ],
+        "weight": 85,
+        "label": "Fought at Uḥud and remained near Muhammad during the crisis",
+        "labelCn": "参加伍侯德战役并在危机中保护穆罕默德",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ali",
+        "note": "Later traditions emphasize his defensive role after the Muslim formation broke."
+      },
+      {
+        "year": 627,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "defense"
+        ],
+        "weight": 90,
+        "label": "Fought in the Battle of the Trench",
+        "labelCn": "参加壕沟之战",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ali",
+        "note": "His duel with ʿAmr ibn ʿAbd Wudd is famous but literary details are later."
+      },
+      {
+        "year": 628,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "commander"
+        ],
+        "weight": 90,
+        "label": "Played a leading military role at Khaybar",
+        "labelCn": "在海拜尔战役中发挥重要军事作用",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ali",
+        "note": "Traditions across sectarian lines associate him with a decisive role."
+      },
+      {
+        "year": 630,
+        "type": "conquest",
+        "tags": [
+          "conquest",
+          "religion"
+        ],
+        "weight": 80,
+        "label": "Participated in the conquest and religious reordering of Mecca",
+        "labelCn": "参与征服麦加及其宗教秩序重建",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ali",
+        "note": "Later reports assign him roles in implementing the new order."
+      },
+      {
+        "year": 631,
+        "type": "government",
+        "tags": [
+          "government",
+          "administration"
+        ],
+        "weight": 75,
+        "label": "Was sent on a mission to Yemen",
+        "labelCn": "受派前往也门执行任务",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ali",
+        "note": "Muhammad entrusted him with military, judicial and administrative responsibilities."
+      },
+      {
+        "year": 632,
+        "type": "religion",
+        "tags": [
+          "religion",
+          "succession"
+        ],
+        "weight": 100,
+        "label": "Became central to the disputed succession memory of Ghadīr Khumm",
+        "labelCn": "成为盖迪尔·胡姆继承记忆争议的核心人物",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ali",
+        "note": "The statement concerning ʿAlī is widely transmitted, but Sunni and Shi'i traditions disagree over whether it designated succession."
+      },
+      {
+        "year": 632,
+        "type": "politics",
+        "tags": [
+          "politics",
+          "succession"
+        ],
+        "weight": 100,
+        "label": "Did not become caliph after Muhammad's death",
+        "labelCn": "穆罕默德去世后未立即成为哈里发",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ali",
+        "note": "Abū Bakr was selected at Saqīfa while ʿAlī and the Prophet's household were initially outside that decision."
+      },
+      {
+        "year": 656,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 100,
+        "label": "Became caliph after the killing of ʿUthmān",
+        "labelCn": "奥斯曼遇害后成为哈里发",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ali",
+        "note": "He received allegiance amid severe fragmentation."
+      },
+      {
+        "year": 656,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "commander"
+        ],
+        "weight": 100,
+        "label": "Defeated ʿĀʾisha, Ṭalḥa and al-Zubayr at the Battle of the Camel",
+        "labelCn": "在骆驼之战中击败阿伊莎、泰勒哈与祖拜尔联盟",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ali",
+        "note": "The victory was the first major battle of the First Fitna."
+      },
+      {
+        "year": 657,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "commander"
+        ],
+        "weight": 100,
+        "label": "Fought Muʿāwiya at Ṣiffīn",
+        "labelCn": "在隋芬与穆阿维叶交战",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ali",
+        "note": "The battle ended inconclusively and led to arbitration."
+      },
+      {
+        "year": 658,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "rebellion"
+        ],
+        "weight": 95,
+        "label": "Defeated the Khārijites at Nahrawān",
+        "labelCn": "在纳赫拉万击败哈瓦利吉派",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ali",
+        "note": "Former supporters who rejected arbitration broke with him."
+      },
+      {
+        "year": 661,
+        "type": "death",
+        "tags": [
+          "death",
+          "violent"
+        ],
+        "weight": 100,
+        "label": "Was assassinated at Kufa and died from his wounds",
+        "labelCn": "在库法遇刺并因伤去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ali",
+        "note": "ʿAbd al-Raḥmān ibn Muljam struck him with a poisoned sword; he died shortly afterward."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Ali",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Ali",
+    "sourceNote": "Wilferd Madelung; Hugh Kennedy; Najam Haider; al-Ṭabarī used critically; Encyclopaedia of Islam scholarship; Wikipedia as supplementary chronology index.",
+    "notes": "Connects the Prophetic family, Rashidun caliphate and later Alid traditions. His sons by Fāṭima form the two major branches of Muhammad's surviving genealogical descent.\n\nConfidence / caveats: Birth is conventionally c.600 and the Kaʿba-birth tradition is not independently secure. Sunni Islam numbers him fourth caliph from 656; Shi'i traditions regard him as designated first Imam from 632. Ghadīr Khumm is transmitted but its meaning is disputed. Battlefield details are often hagiographically elaborated.\n\nUnlinked family: mother: Fāṭima bint Asad; spouse: Khawla bint Jaʿfar al-Ḥanafiyya; child: Zaynab bint ʿAlī; child: Umm Kulthūm bint ʿAlī; child: Muḥammad ibn al-Ḥanafiyya",
+    "createdDate": "20260824",
+    "createdOrder": 683
+  },
+  {
+    "id": "e6973117-63ca-4995-8242-86757ffbc49c",
+    "firstName": "Fāṭima",
+    "lastName": "al-Zahrāʾ",
+    "displayName": "Fāṭima al-Zahrāʾ",
+    "fullName": "Fāṭima al-Zahrāʾ bint Muḥammad",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [
+      "Fatima al-Zahra",
+      "Fāṭima bint Muḥammad",
+      "al-Zahrāʾ"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "法蒂玛·宰赫拉",
+    "fullNameCn": "法蒂玛·宰赫拉·宾特·穆罕默德",
+    "birthYear": "",
+    "deathYear": 632,
+    "birthPlace": "Mecca",
+    "birthPlaceCn": "麦加",
+    "deathPlace": "Medina",
+    "deathPlaceCn": "麦地那",
+    "gender": "female",
+    "dynasty": "Quraysh",
+    "house": "Banū Hāshim / Ahl al-Bayt",
+    "culture": "Qurayshi Arab",
+    "faith": "Islam",
+    "primaryTitle": "Daughter of Muhammad and member of the Ahl al-Bayt",
+    "primaryTitleCn": "穆罕默德之女及圣裔核心成员",
+    "titles": [],
+    "tags": [
+      "noble"
+    ],
+    "rank": "noble",
+    "importanceScore": 95,
+    "historicalRating": 8,
+    "relationships": {
+      "fatherId": "b54d8195-66ad-4668-b9dc-a117a2d9e51b",
+      "motherId": "",
+      "spouseIds": [
+        "ac92c10a-f2b5-4ba8-8d79-af772ea959c0"
+      ],
+      "partnerIds": [],
+      "childIds": [
+        "28f28c55-b23c-4362-981b-254568f7fa23",
+        "96196245-8f5d-4349-b7df-10d3119f064a"
+      ]
+    },
+    "events": [
+      {
+        "year": 615,
+        "type": "political_crisis",
+        "tags": [
+          "political_crisis",
+          "dynasty"
+        ],
+        "weight": 60,
+        "label": "Shared the pressures faced by Muhammad's household in Mecca",
+        "labelCn": "在麦加时期与穆罕默德家庭共同承受政治与社会压力",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Fatima",
+        "note": "Precise childhood incidents are preserved mainly in later devotional biography."
+      },
+      {
+        "year": 616,
+        "type": "politics",
+        "tags": [
+          "politics",
+          "defense"
+        ],
+        "weight": 70,
+        "label": "Experienced the Banū Hāshim boycott with her family",
+        "labelCn": "随家族经历针对哈希姆支的抵制与封锁",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Fatima",
+        "note": "Exact dates and conditions of the boycott vary."
+      },
+      {
+        "year": 622,
+        "type": "politics",
+        "tags": [
+          "politics",
+          "dynasty"
+        ],
+        "weight": 75,
+        "label": "Migrated from Mecca to Medina",
+        "labelCn": "从麦加迁往麦地那",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Fatima",
+        "note": "She joined the Prophet's household in Medina."
+      },
+      {
+        "year": 624,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 100,
+        "label": "Married ʿAlī ibn Abī Ṭālib",
+        "labelCn": "与阿里·本·阿布·塔利卜结婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Fatima",
+        "note": "The marriage produced the surviving genealogical line most closely associated with the Prophet's family."
+      },
+      {
+        "year": 625,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "dynasty"
+        ],
+        "weight": 100,
+        "label": "Gave birth to Ḥasan ibn ʿAlī",
+        "labelCn": "生下哈桑·本·阿里",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Fatima",
+        "note": "Ḥasan later briefly claimed the caliphate."
+      },
+      {
+        "year": 626,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "dynasty"
+        ],
+        "weight": 100,
+        "label": "Gave birth to Ḥusayn ibn ʿAlī",
+        "labelCn": "生下侯赛因·本·阿里",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Fatima",
+        "note": "Ḥusayn became central to Shi'i history through Karbala."
+      },
+      {
+        "year": 627,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "dynasty"
+        ],
+        "weight": 75,
+        "label": "Gave birth to Zaynab bint ʿAlī",
+        "labelCn": "生下宰娜卜·宾特·阿里",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Fatima",
+        "note": "Zaynab later played a major role in the memory of Karbala; the birth year is approximate."
+      },
+      {
+        "year": 631,
+        "type": "religion",
+        "tags": [
+          "religion",
+          "dynasty"
+        ],
+        "weight": 90,
+        "label": "Was identified with Muhammad's household in the event of Mubāhala",
+        "labelCn": "在穆巴哈拉事件中作为穆罕默德核心家属出现",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Fatima",
+        "note": "Exegesis associates Fāṭima, ʿAlī, Ḥasan and Ḥusayn with Muhammad's family delegation to the Christians of Najran."
+      },
+      {
+        "year": 632,
+        "type": "politics",
+        "tags": [
+          "politics",
+          "legal"
+        ],
+        "weight": 95,
+        "label": "Disputed the disposition of Fadak after Muhammad's death",
+        "labelCn": "穆罕默德去世后围绕法达克财产发生争议",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Fatima",
+        "note": "Her dispute with Abū Bakr over inheritance/property became a lasting symbol of the succession crisis."
+      },
+      {
+        "year": 632,
+        "type": "death",
+        "tags": [
+          "death",
+          "uncertain"
+        ],
+        "weight": 100,
+        "label": "Died in Medina within months of Muhammad",
+        "labelCn": "在穆罕默德去世后数月内于麦地那去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Fatima",
+        "note": "Exact date, circumstances and burial location differ sharply between Sunni and Shi'i traditions."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Fatima",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Fatima",
+    "sourceNote": "Wilferd Madelung; Encyclopaedia of Islam scholarship; al-Balādhurī and al-Ṭabarī used critically; Sunni and Shi'i hadith traditions compared; Wikipedia as supplementary index.",
+    "notes": "The principal genealogical conduit through whom surviving Prophetic descent is traced. A future Fatimid chain must be marked claimed descent through Fāṭima and ʿAlī, not a Y-line from Muhammad.\n\nConfidence / caveats: Birth is highly disputed, commonly ranging c.605–615, so birthYear is null. Death occurred in 632 but precise timing and causes differ sharply. Reports of injuries linked to the succession confrontation are sectarian and not entered as established fact.\n\n资料限制，未以重复事件凑数。\n\nUnlinked family: mother: Khadīja bint Khuwaylid; child: Zaynab bint ʿAlī; child: Umm Kulthūm bint ʿAlī",
+    "createdDate": "20260824",
+    "createdOrder": 684
+  },
+  {
+    "id": "28f28c55-b23c-4362-981b-254568f7fa23",
+    "firstName": "Ḥasan",
+    "lastName": "ibn ʿAlī",
+    "displayName": "Ḥasan ibn ʿAlī",
+    "fullName": "Ḥasan ibn ʿAlī ibn Abī Ṭālib",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [
+      "Hasan ibn Ali",
+      "Ḥasan al-Mujtabā",
+      "Second Imam in Twelver Shi'ism"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "哈桑·本·阿里",
+    "fullNameCn": "哈桑·本·阿里·本·阿布·塔利卜",
+    "birthYear": 625,
+    "deathYear": 670,
+    "birthPlace": "Medina",
+    "birthPlaceCn": "麦地那",
+    "deathPlace": "Medina",
+    "deathPlaceCn": "麦地那",
+    "deathCause": {
+      "kind": "violent_uncertain",
+      "summary": "died after an illness traditionally attributed by many sources to poisoning",
+      "summaryCn": "病后去世；许多传统记载归因于中毒，但凶手与责任不确定",
+      "detail": "died after an illness traditionally attributed by many sources to poisoning",
+      "detailCn": "病后去世；许多传统记载归因于中毒，但凶手与责任不确定",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Hasan_ibn_Ali"
+    },
+    "gender": "male",
+    "dynasty": "Alid",
+    "house": "Banū Hāshim / Ahl al-Bayt",
+    "culture": "Qurayshi Arab",
+    "faith": "Islam",
+    "primaryTitle": "Caliph claimant and grandson of Muhammad",
+    "primaryTitleCn": "哈里发拥戴者及穆罕默德外孙",
+    "titles": [
+      {
+        "title": "Caliph recognized in Iraq",
+        "titleCn": "在伊拉克获拥戴的哈里发",
+        "startYear": 661,
+        "endYear": 661
+      },
+      {
+        "title": "Imam in Shi'i Islam",
+        "titleCn": "什叶派第二任伊玛目",
+        "startYear": 661,
+        "endYear": 670
+      }
+    ],
+    "tags": [
+      "monarch",
+      "caliph",
+      "commander"
+    ],
+    "rank": "emperor",
+    "importanceScore": 90,
+    "historicalRating": 8,
+    "relationships": {
+      "fatherId": "ac92c10a-f2b5-4ba8-8d79-af772ea959c0",
+      "motherId": "e6973117-63ca-4995-8242-86757ffbc49c",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 625,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "dynasty"
+        ],
+        "weight": 90,
+        "label": "Was born in Medina as Muhammad's elder grandson",
+        "labelCn": "作为穆罕默德的长外孙出生于麦地那",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Hasan_ibn_Ali",
+        "note": "He was the first son of ʿAlī and Fāṭima."
+      },
+      {
+        "year": 631,
+        "type": "religion",
+        "tags": [
+          "religion",
+          "dynasty"
+        ],
+        "weight": 80,
+        "label": "Was associated with Muhammad's household at the Mubāhala",
+        "labelCn": "在穆巴哈拉事件中作为穆罕默德家属出现",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Hasan_ibn_Ali",
+        "note": "Exegetical tradition includes the young Ḥasan in Muhammad's family delegation."
+      },
+      {
+        "year": 656,
+        "type": "politics",
+        "tags": [
+          "politics",
+          "dynasty"
+        ],
+        "weight": 75,
+        "label": "Supported ʿAlī during the First Fitna",
+        "labelCn": "第一次内战期间支持阿里",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Hasan_ibn_Ali",
+        "note": "He remained aligned with his father and participated in mobilizing support from Kufa."
+      },
+      {
+        "year": 661,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 100,
+        "label": "Received allegiance as caliph in Kufa after ʿAlī's assassination",
+        "labelCn": "阿里遇刺后在库法接受哈里发效忠",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Hasan_ibn_Ali",
+        "note": "Large parts of ʿAlī's Iraqi following pledged allegiance to Ḥasan."
+      },
+      {
+        "year": 661,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "political_crisis"
+        ],
+        "weight": 90,
+        "label": "Mobilized against Muʿāwiya but faced fragmentation in his army",
+        "labelCn": "动员对抗穆阿维叶，但军队内部迅速分裂",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Hasan_ibn_Ali",
+        "note": "Defections, factionalism and assassination attempts weakened his position."
+      },
+      {
+        "year": 661,
+        "type": "treaty",
+        "tags": [
+          "treaty",
+          "politics"
+        ],
+        "weight": 100,
+        "label": "Reached an agreement with Muʿāwiya and relinquished political rule",
+        "labelCn": "与穆阿维叶达成协议并放弃政治统治",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Hasan_ibn_Ali",
+        "note": "The settlement ended the First Fitna; exact clauses are transmitted inconsistently."
+      },
+      {
+        "year": 662,
+        "type": "politics",
+        "tags": [
+          "politics",
+          "dynasty"
+        ],
+        "weight": 75,
+        "label": "Withdrew from active rule and lived chiefly in Medina",
+        "labelCn": "退出实际统治，主要居住于麦地那",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Hasan_ibn_Ali",
+        "note": "He did not mount a renewed military challenge during Muʿāwiya's reign."
+      },
+      {
+        "year": 670,
+        "type": "death",
+        "tags": [
+          "death",
+          "uncertain"
+        ],
+        "weight": 90,
+        "label": "Died in Medina, with poisoning widely reported but responsibility disputed",
+        "labelCn": "在麦地那去世；中毒说流传广泛但责任归属有争议",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Hasan_ibn_Ali",
+        "note": "Many sources attribute the final illness to poisoning, but allegations about who ordered it remain unproven."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Hasan_ibn_Ali",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Hasan_ibn_Ali",
+    "sourceNote": "Wilferd Madelung; Hugh Kennedy; Najam Haider; al-Ṭabarī and al-Balādhurī used critically; Sunni and Shi'i traditions compared; Wikipedia as supplementary index.",
+    "notes": "Muhammad's elder grandson and brief Iraqi caliph claimant. His 661 settlement with Muʿāwiya ended the First Fitna.\n\nConfidence / caveats: Birth may appear as 624/625 due to calendar conversion. The caliphate's duration and treaty clauses vary by source. Poisoning is widely reported, but identity and responsibility remain unproven.\n\nUnlinked family: spouse: Jaʿda bint al-Ashʿath; child: al-Ḥasan al-Muthannā; child: Zayd ibn al-Ḥasan; child: ʿAmr ibn al-Ḥasan",
+    "createdDate": "20260824",
+    "createdOrder": 685
+  },
+  {
+    "id": "96196245-8f5d-4349-b7df-10d3119f064a",
+    "firstName": "Ḥusayn",
+    "lastName": "ibn ʿAlī",
+    "displayName": "Ḥusayn ibn ʿAlī",
+    "fullName": "Ḥusayn ibn ʿAlī ibn Abī Ṭālib",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [
+      "Husayn ibn Ali",
+      "Ḥusayn ibn ʿAlī",
+      "Third Imam in Twelver Shi'ism",
+      "Sayyid al-Shuhadāʾ"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "侯赛因·本·阿里",
+    "fullNameCn": "侯赛因·本·阿里·本·阿布·塔利卜",
+    "birthYear": 626,
+    "deathYear": 680,
+    "birthPlace": "Medina",
+    "birthPlaceCn": "麦地那",
+    "deathPlace": "Karbala",
+    "deathPlaceCn": "卡尔巴拉",
+    "deathCause": {
+      "kind": "violent",
+      "summary": "killed in battle",
+      "summaryCn": "战死",
+      "detail": "killed in battle",
+      "detailCn": "战死",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Husayn_ibn_Ali"
+    },
+    "gender": "male",
+    "dynasty": "Alid",
+    "house": "Banū Hāshim / Ahl al-Bayt",
+    "culture": "Qurayshi Arab",
+    "faith": "Islam",
+    "primaryTitle": "Grandson of Muhammad and Shi'i Imam",
+    "primaryTitleCn": "穆罕默德外孙及什叶派伊玛目",
+    "titles": [
+      {
+        "title": "Imam in Shi'i Islam",
+        "titleCn": "什叶派第三任伊玛目",
+        "startYear": 670,
+        "endYear": 680
+      }
+    ],
+    "tags": [
+      "noble"
+    ],
+    "rank": "noble",
+    "importanceScore": 97,
+    "historicalRating": 9,
+    "relationships": {
+      "fatherId": "ac92c10a-f2b5-4ba8-8d79-af772ea959c0",
+      "motherId": "e6973117-63ca-4995-8242-86757ffbc49c",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 626,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "dynasty"
+        ],
+        "weight": 90,
+        "label": "Was born in Medina as Muhammad's younger grandson",
+        "labelCn": "作为穆罕默德的次外孙出生于麦地那",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Husayn_ibn_Ali",
+        "note": "He was the second son of ʿAlī and Fāṭima."
+      },
+      {
+        "year": 631,
+        "type": "religion",
+        "tags": [
+          "religion",
+          "dynasty"
+        ],
+        "weight": 85,
+        "label": "Was associated with Muhammad's household at the Mubāhala",
+        "labelCn": "在穆巴哈拉事件中作为穆罕默德家属出现",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Husayn_ibn_Ali",
+        "note": "Exegetical tradition includes him in Muhammad's family delegation."
+      },
+      {
+        "year": 632,
+        "type": "politics",
+        "tags": [
+          "politics",
+          "dynasty"
+        ],
+        "weight": 75,
+        "label": "Entered childhood under the post-Muhammad succession order",
+        "labelCn": "穆罕默德去世后进入新的哈里发政治秩序",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Husayn_ibn_Ali",
+        "note": "He was still a child; later Ahl al-Bayt claims made this succession rupture central to memory."
+      },
+      {
+        "year": 656,
+        "type": "politics",
+        "tags": [
+          "politics",
+          "dynasty"
+        ],
+        "weight": 75,
+        "label": "Supported the caliphate of his father ʿAlī",
+        "labelCn": "支持其父阿里的哈里发统治",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Husayn_ibn_Ali",
+        "note": "He remained with the Alid household during the First Fitna."
+      },
+      {
+        "year": 661,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "dynasty"
+        ],
+        "weight": 85,
+        "label": "Accepted Ḥasan's political settlement with Muʿāwiya",
+        "labelCn": "接受哈桑与穆阿维叶达成的政治和解",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Husayn_ibn_Ali",
+        "note": "He did not challenge his elder brother's leadership or the settlement."
+      },
+      {
+        "year": 670,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "dynasty"
+        ],
+        "weight": 90,
+        "label": "Became the senior surviving son of ʿAlī and Fāṭima after Ḥasan's death",
+        "labelCn": "哈桑去世后成为阿里与法蒂玛在世的主要男性后裔",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Husayn_ibn_Ali",
+        "note": "Shi'i traditions recognize him as succeeding Ḥasan in the imamate; politically he refrained from revolt under Muʿāwiya."
+      },
+      {
+        "year": 676,
+        "type": "politics",
+        "tags": [
+          "politics",
+          "succession"
+        ],
+        "weight": 90,
+        "label": "Opposed the nomination of Yazīd as Muʿāwiya's hereditary successor",
+        "labelCn": "反对穆阿维叶立叶齐德为世袭继承人",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Husayn_ibn_Ali",
+        "note": "He was among prominent figures resisting hereditary succession."
+      },
+      {
+        "year": 680,
+        "type": "politics",
+        "tags": [
+          "politics",
+          "rebellion"
+        ],
+        "weight": 100,
+        "label": "Refused to pledge allegiance to Yazīd I",
+        "labelCn": "拒绝向叶齐德一世宣誓效忠",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Husayn_ibn_Ali",
+        "note": "He left Medina for Mecca, turning a legitimacy dispute into an escalating crisis."
+      },
+      {
+        "year": 680,
+        "type": "diplomacy",
+        "tags": [
+          "diplomacy",
+          "alliance"
+        ],
+        "weight": 95,
+        "label": "Received appeals from Kufa and sent Muslim ibn ʿAqīl to investigate",
+        "labelCn": "收到库法邀请，并派穆斯林·本·阿基勒前往调查",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Husayn_ibn_Ali",
+        "note": "Kufan support initially looked substantial but collapsed under the Umayyad governor."
+      },
+      {
+        "year": 680,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "political_crisis"
+        ],
+        "weight": 100,
+        "label": "Left Mecca for Iraq despite the collapse of the Kufan uprising",
+        "labelCn": "尽管库法起事已经瓦解，仍从麦加前往伊拉克",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Husayn_ibn_Ali",
+        "note": "News of Muslim ibn ʿAqīl's death reached the party during the journey."
+      },
+      {
+        "year": 680,
+        "type": "imprisonment",
+        "tags": [
+          "imprisonment",
+          "politics"
+        ],
+        "weight": 95,
+        "label": "Was blocked and encamped at Karbala",
+        "labelCn": "被拦截并被迫驻扎卡尔巴拉",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Husayn_ibn_Ali",
+        "note": "Umayyad forces prevented free movement and concentrated his small party at Karbala."
+      },
+      {
+        "year": 680,
+        "month": 10,
+        "day": 10,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "death"
+        ],
+        "weight": 100,
+        "label": "Was killed with many relatives and supporters at Karbala",
+        "labelCn": "与多名亲属和追随者在卡尔巴拉战死",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Husayn_ibn_Ali",
+        "note": "On 10 Muḥarram 61 AH, conventionally 10 October 680, his small force was destroyed; the killing became foundational to Shi'i martyrdom memory."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Husayn_ibn_Ali",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Husayn_ibn_Ali",
+    "sourceNote": "Wilferd Madelung; Encyclopaedia of Islam scholarship; Najam Haider; al-Ṭabarī's Karbala narratives used critically; Hugh Kennedy; Wikipedia as supplementary chronology index.",
+    "notes": "The decisive martyr figure of Karbala and a central node for later Shi'i and Alid genealogies. Future Fatimid linkage must be marked claimed Ismaʿili-Alid descent, not independently proven Y-line descent from Muhammad.\n\nConfidence / caveats: Birth may appear as 625/626 depending on conversion. Karbala's outline is well established, while speeches and battlefield detail were later elaborated. Exact killer varies across reports; deathCause is simply killed in battle. 'Third Imam' is a Shi'i religious designation, not a caliphal office.\n\nUnlinked family: spouse: Rabab bint Imraʾ al-Qays; spouse: Laylā bint Abī Murra; child: ʿAlī Zayn al-ʿĀbidīn; child: ʿAlī al-Akbar; child: Sukayna bint al-Ḥusayn; child: Fāṭima bint al-Ḥusayn; child: ʿAbd Allāh ʿAlī al-Aṣghar",
+    "createdDate": "20260824",
+    "createdOrder": 686
+  },
+  {
+    "id": "1173bc8b-b203-44b7-9f15-8f5c832d3c66",
+    "firstName": "Abū Bakr",
+    "lastName": "al-Ṣiddīq",
+    "displayName": "Abū Bakr al-Ṣiddīq",
+    "fullName": "Abū Bakr al-Ṣiddīq",
+    "nickname": "al-Ṣiddīq",
+    "nicknameCn": "至诚者",
+    "alsoKnownAs": [
+      "Abu Bakr",
+      "ʿAbd Allāh ibn Abī Quḥāfa"
+    ],
+    "nicknameTags": [
+      "al-Ṣiddīq"
+    ],
+    "displayNameCn": "阿布·伯克尔·西迪格",
+    "fullNameCn": "阿布·伯克尔·西迪格",
+    "birthYear": 573,
+    "deathYear": 634,
+    "birthPlace": "Mecca",
+    "birthPlaceCn": "麦加",
+    "deathPlace": "Medina",
+    "deathPlaceCn": "麦地那",
+    "deathCause": {
+      "kind": "normal",
+      "summary": "Died in Medina after a short illness",
+      "summaryCn": "在麦地那短暂患病后去世",
+      "detail": "Later accounts describe a short final illness; no specific modern diagnosis is secure.",
+      "detailCn": "后世记载其临终前有短暂病程；无法确定具体病因。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Abu_Bakr"
+    },
+    "gender": "male",
+    "dynasty": "Quraysh",
+    "house": "Banū Taym",
+    "culture": "Qurayshi Arab",
+    "faith": "Islam",
+    "primaryTitle": "First Rashidun Caliph",
+    "primaryTitleCn": "第一任正统哈里发",
+    "titles": [
+      {
+        "title": "Caliph",
+        "titleCn": "哈里发",
+        "startYear": 632,
+        "endYear": 634
+      }
+    ],
+    "tags": [
+      "monarch",
+      "caliph"
+    ],
+    "rank": "caliph",
+    "importanceScore": 94,
+    "historicalRating": 8,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 610,
+        "type": "religion",
+        "tags": [
+          "religion",
+          "politics"
+        ],
+        "weight": 95,
+        "label": "Became an early supporter of Muhammad",
+        "labelCn": "成为穆罕默德最早的支持者之一",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Abu_Bakr",
+        "note": "Muslim tradition places him among the earliest adult male converts."
+      },
+      {
+        "year": 622,
+        "month": 9,
+        "type": "politics",
+        "tags": [
+          "politics",
+          "religion"
+        ],
+        "weight": 95,
+        "label": "Accompanied Muhammad on the Hijra to Medina",
+        "labelCn": "陪同穆罕默德完成迁徙至麦地那",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Abu_Bakr",
+        "note": "He travelled with Muhammad from Mecca to Medina during the Hijra."
+      },
+      {
+        "year": 632,
+        "month": 6,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "monarch"
+        ],
+        "weight": 100,
+        "label": "Was chosen as the first caliph",
+        "labelCn": "获推举为首任哈里发",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Abu_Bakr",
+        "note": "Following Muhammad’s death, leading members of the community recognized Abū Bakr as caliph."
+      },
+      {
+        "year": 632,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "politics"
+        ],
+        "weight": 95,
+        "label": "Began the Ridda Wars to restore central authority",
+        "labelCn": "发动里达战争以恢复共同体的中央权威",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ridda_Wars",
+        "note": "The campaigns answered secessions and rival prophetic claims across Arabia."
+      },
+      {
+        "year": 633,
+        "type": "religion",
+        "tags": [
+          "religion",
+          "government"
+        ],
+        "weight": 90,
+        "label": "Ordered the first collection of Qurʾanic material",
+        "labelCn": "下令首次汇集《古兰经》材料",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Compilation_of_the_Quran",
+        "note": "Tradition associates the first collection with losses among reciters in the Yamama campaign."
+      },
+      {
+        "year": 633,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "commander"
+        ],
+        "weight": 85,
+        "label": "Sent armies into Iraq and Syria",
+        "labelCn": "派遣军队进入伊拉克与叙利亚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Abu_Bakr",
+        "note": "These expeditions opened the early conquests beyond Arabia."
+      },
+      {
+        "year": 634,
+        "month": 8,
+        "type": "death",
+        "tags": [
+          "death",
+          "monarch"
+        ],
+        "weight": 100,
+        "label": "Died in Medina",
+        "labelCn": "在麦地那去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Abu_Bakr",
+        "note": "He nominated ʿUmar as his successor before his death."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Abu_Bakr",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Abu_Bakr",
+    "sourceNote": "Hugh N. Kennedy, The Prophet and the Age of the Caliphates; Fred M. Donner, Muhammad and the Believers; Wikipedia used as a chronology index.",
+    "notes": "First caliph of the Rashidun period. The early succession is represented as a political inheritance of the Medinan community, not as a hereditary relationship.\n\nConfidence / caveats: the conventional birth year is approximate; individual early-conversion narratives are rooted in later Islamic tradition.",
+    "createdDate": "20260824",
+    "createdOrder": 687
+  },
+  {
+    "id": "307c1615-5644-4df8-82eb-dea0207ed558",
+    "firstName": "ʿUmar",
+    "lastName": "ibn al-Khaṭṭāb",
+    "displayName": "ʿUmar ibn al-Khaṭṭāb",
+    "fullName": "ʿUmar ibn al-Khaṭṭāb",
+    "nickname": "al-Fārūq",
+    "nicknameCn": "明辨者",
+    "alsoKnownAs": [
+      "Umar",
+      "Omar",
+      "ʿUmar al-Fārūq"
+    ],
+    "nicknameTags": [
+      "al-Fārūq"
+    ],
+    "displayNameCn": "欧麦尔·本·哈塔卜",
+    "fullNameCn": "欧麦尔·本·哈塔卜",
+    "birthYear": 583,
+    "deathYear": 644,
+    "birthPlace": "Mecca",
+    "birthPlaceCn": "麦加",
+    "deathPlace": "Medina",
+    "deathPlaceCn": "麦地那",
+    "deathCause": {
+      "kind": "violent",
+      "summary": "Died after being stabbed during prayer in Medina",
+      "summaryCn": "在麦地那礼拜时遇刺，后因伤去世",
+      "detail": "He was stabbed while leading prayers and died several days later from his wounds.",
+      "detailCn": "他在领礼时遭刺杀，数日后因伤势去世。",
+      "culprit": "Abū Luʾluʾa Fīrūz",
+      "culpritCn": "阿布·卢卢阿·菲鲁兹",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Umar"
+    },
+    "gender": "male",
+    "dynasty": "Quraysh",
+    "house": "Banū ʿAdī",
+    "culture": "Qurayshi Arab",
+    "faith": "Islam",
+    "primaryTitle": "Second Rashidun Caliph",
+    "primaryTitleCn": "第二任正统哈里发",
+    "titles": [
+      {
+        "title": "Caliph",
+        "titleCn": "哈里发",
+        "startYear": 634,
+        "endYear": 644
+      }
+    ],
+    "tags": [
+      "monarch",
+      "caliph",
+      "commander"
+    ],
+    "rank": "caliph",
+    "importanceScore": 98,
+    "historicalRating": 9,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 616,
+        "type": "religion",
+        "tags": [
+          "religion",
+          "politics"
+        ],
+        "weight": 90,
+        "label": "Converted to Islam",
+        "labelCn": "皈依伊斯兰教",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Umar",
+        "note": "Traditional accounts date his conversion before the Hijra; the exact year is uncertain."
+      },
+      {
+        "year": 622,
+        "month": 9,
+        "type": "politics",
+        "tags": [
+          "politics",
+          "religion"
+        ],
+        "weight": 85,
+        "label": "Migrated from Mecca to Medina",
+        "labelCn": "从麦加迁徙至麦地那",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Umar",
+        "note": "He joined the Medinan community during the Hijra."
+      },
+      {
+        "year": 634,
+        "month": 8,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "monarch"
+        ],
+        "weight": 100,
+        "label": "Succeeded Abū Bakr as caliph",
+        "labelCn": "继阿布·伯克尔之后出任哈里发",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Umar",
+        "note": "Abū Bakr nominated ʿUmar before his death."
+      },
+      {
+        "year": 636,
+        "month": 8,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "commander"
+        ],
+        "weight": 100,
+        "label": "Muslim forces defeated the Byzantines at Yarmouk",
+        "labelCn": "穆斯林军队在雅尔穆克击败拜占庭军",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_the_Yarmuk",
+        "note": "The victory opened Syria to Rashidun rule."
+      },
+      {
+        "year": 636,
+        "month": 11,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "commander"
+        ],
+        "weight": 100,
+        "label": "Rashidun forces defeated the Sasanian army at al-Qādisiyyah",
+        "labelCn": "正统哈里发军队在卡迪西亚击败萨珊军",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_al-Qadisiyyah",
+        "note": "The battle was decisive in the conquest of Iraq."
+      },
+      {
+        "year": 638,
+        "type": "conquest",
+        "tags": [
+          "conquest",
+          "politics"
+        ],
+        "weight": 95,
+        "label": "Accepted Jerusalem’s surrender",
+        "labelCn": "接受耶路撒冷投降",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Siege_of_Jerusalem_(636%E2%80%93637)",
+        "note": "Later accounts place ʿUmar’s visit after the city’s surrender."
+      },
+      {
+        "year": 638,
+        "type": "government",
+        "tags": [
+          "government",
+          "politics"
+        ],
+        "weight": 85,
+        "label": "Established the Hijri calendar for official administration",
+        "labelCn": "为官方行政确立希吉拉纪年",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Islamic_calendar",
+        "note": "The calendar was counted from the Hijra of 622."
+      },
+      {
+        "year": 639,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "conquest"
+        ],
+        "weight": 90,
+        "label": "Authorized the conquest of Egypt",
+        "labelCn": "批准征服埃及",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Muslim_conquest_of_Egypt",
+        "note": "ʿAmr ibn al-ʿĀṣ’s campaign brought Egypt under Rashidun authority by 642."
+      },
+      {
+        "year": 644,
+        "month": 11,
+        "type": "assassination",
+        "tags": [
+          "assassination",
+          "politics"
+        ],
+        "weight": 100,
+        "label": "Was stabbed while leading prayer in Medina",
+        "labelCn": "在麦地那领礼时遭刺杀",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Umar",
+        "note": "He died several days later from the wounds."
+      },
+      {
+        "year": 644,
+        "month": 11,
+        "type": "death",
+        "tags": [
+          "death",
+          "monarch"
+        ],
+        "weight": 100,
+        "label": "Died from his wounds",
+        "labelCn": "因伤势去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Umar",
+        "note": "His council selected ʿUthmān as the next caliph."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Umar",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Umar",
+    "sourceNote": "Hugh N. Kennedy, The Prophet and the Age of the Caliphates; Fred M. Donner, The Early Islamic Conquests; Wikipedia used as a chronology index.",
+    "notes": "Second caliph of the Rashidun period. His reign oversaw a rapid expansion of the polity into Byzantine and Sasanian territories.\n\nConfidence / caveats: conventional birth year and several exact campaign dates are approximate; the broad succession and conquests are secure.",
+    "createdDate": "20260824",
+    "createdOrder": 688
+  },
+  {
+    "id": "8b85eeac-4695-4bc1-ae46-2d65e7d22dd5",
+    "firstName": "ʿUthmān",
+    "lastName": "ibn ʿAffān",
+    "displayName": "ʿUthmān ibn ʿAffān",
+    "fullName": "ʿUthmān ibn ʿAffān",
+    "nickname": "Dhū al-Nūrayn",
+    "nicknameCn": "双光者",
+    "alsoKnownAs": [
+      "Uthman",
+      "عثمان بن عفان",
+      "ʿUthmān Dhū al-Nūrayn"
+    ],
+    "nicknameTags": [
+      "Dhū al-Nūrayn"
+    ],
+    "displayNameCn": "奥斯曼·本·阿凡",
+    "fullNameCn": "奥斯曼·本·阿凡",
+    "birthYear": 576,
+    "deathYear": 656,
+    "birthPlace": "Mecca",
+    "birthPlaceCn": "麦加",
+    "deathPlace": "Medina",
+    "deathPlaceCn": "麦地那",
+    "deathCause": {
+      "kind": "violent_uncertain",
+      "summary": "Killed by rebels during the siege of his house in Medina",
+      "summaryCn": "麦地那居所遭围攻时被叛乱者杀害",
+      "detail": "Rebels entered his house after a prolonged siege and killed him; accounts differ over the individual assailants and exact sequence.",
+      "detailCn": "长期围困后，叛乱者进入其宅邸并将其杀害；关于具体行刺者与过程的记载并不一致。",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Uthman"
+    },
+    "gender": "male",
+    "dynasty": "Quraysh",
+    "house": "Banū Umayya",
+    "culture": "Qurayshi Arab",
+    "faith": "Islam",
+    "primaryTitle": "Third Rashidun Caliph",
+    "primaryTitleCn": "第三任正统哈里发",
+    "titles": [
+      {
+        "title": "Caliph",
+        "titleCn": "哈里发",
+        "startYear": 644,
+        "endYear": 656
+      }
+    ],
+    "tags": [
+      "monarch",
+      "caliph"
+    ],
+    "rank": "caliph",
+    "importanceScore": 95,
+    "historicalRating": 8,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 611,
+        "type": "religion",
+        "tags": [
+          "religion",
+          "politics"
+        ],
+        "weight": 90,
+        "label": "Became an early Muslim convert",
+        "labelCn": "成为早期穆斯林皈依者",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Uthman",
+        "note": "Tradition identifies ʿUthmān among the early converts in Mecca."
+      },
+      {
+        "year": 615,
+        "type": "politics",
+        "tags": [
+          "politics",
+          "religion"
+        ],
+        "weight": 85,
+        "label": "Joined the migration to Abyssinia",
+        "labelCn": "参与迁往阿比西尼亚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Uthman",
+        "note": "He and Ruqayya, Muhammad’s daughter, were among the early emigrants in Islamic tradition."
+      },
+      {
+        "year": 622,
+        "month": 9,
+        "type": "politics",
+        "tags": [
+          "politics",
+          "religion"
+        ],
+        "weight": 85,
+        "label": "Migrated to Medina",
+        "labelCn": "迁徙至麦地那",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Uthman",
+        "note": "He became a member of the Medinan Muslim community."
+      },
+      {
+        "year": 644,
+        "month": 11,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "monarch"
+        ],
+        "weight": 100,
+        "label": "Was chosen as the third caliph",
+        "labelCn": "获推举为第三任哈里发",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Uthman",
+        "note": "A council appointed by ʿUmar chose ʿUthmān after ʿUmar’s death."
+      },
+      {
+        "year": 647,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "conquest"
+        ],
+        "weight": 85,
+        "label": "Authorized campaigns in North Africa",
+        "labelCn": "批准在北非的军事行动",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Uthman",
+        "note": "Rashidun forces expanded westward into former Byzantine Africa during his reign."
+      },
+      {
+        "year": 649,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "commander"
+        ],
+        "weight": 90,
+        "label": "Authorized the first Muslim naval expedition to Cyprus",
+        "labelCn": "批准首次穆斯林海军远征塞浦路斯",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Uthman",
+        "note": "The campaign marked a major extension of Rashidun military capacity at sea."
+      },
+      {
+        "year": 650,
+        "type": "religion",
+        "tags": [
+          "religion",
+          "government"
+        ],
+        "weight": 100,
+        "label": "Commissioned a standard written recension of the Qurʾan",
+        "labelCn": "主持形成《古兰经》的标准书面定本",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Uthman",
+        "note": "The Uthmanic recension became the canonical consonantal text in Sunni tradition."
+      },
+      {
+        "year": 655,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "commander"
+        ],
+        "weight": 90,
+        "label": "Rashidun fleet defeated Byzantium at the Battle of the Masts",
+        "labelCn": "正统哈里发舰队在桅杆之战中击败拜占庭",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_the_Masts",
+        "note": "The naval victory challenged Byzantine dominance in the eastern Mediterranean."
+      },
+      {
+        "year": 656,
+        "month": 6,
+        "type": "assassination",
+        "tags": [
+          "assassination",
+          "politics"
+        ],
+        "weight": 100,
+        "label": "Was killed during the siege of his house in Medina",
+        "labelCn": "麦地那居所遭围攻时遇害",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Uthman",
+        "note": "His death triggered the First Fitna, the first major civil war of the caliphate."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Uthman",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Uthman",
+    "sourceNote": "Hugh N. Kennedy, The Prophet and the Age of the Caliphates; Fred M. Donner, Muhammad and the Believers; Wikipedia used as a chronology index.",
+    "notes": "Third caliph of the Rashidun period. His recension of the Qurʾan and his violent death were decisive for the later political and religious history of Islam.\n\nConfidence / caveats: conventional birth year is approximate; accounts of the siege and individual attackers differ substantially between later sources.",
+    "createdDate": "20260824",
+    "createdOrder": 689
   }
 ]

@@ -113,6 +113,7 @@
 .realm-castile.active .realm-entry-kicker,
 .realm-castile:hover .realm-entry-kicker { color: #2d1b05; }
 .realm-byzantium { --realm-color: #72264f; --realm-hover: #561a3a; }
+.realm-arabia { --realm-color: #0b6b3a; --realm-hover: #084f2b; }
 
 .realm-entry strong {
   font-family: Georgia, Cambria, "Times New Roman", serif;
@@ -269,6 +270,35 @@
 .protagonist-card.tier-queen {
   border-color: #b68b43;
 }
+
+/* Caliphs follow the sovereign-card convention in deep emerald. Prophets are
+   deliberately not a general green rank: the ivory field with emerald inner
+   and gold outer rims is a unique tier, leaving room for future exceptions. */
+.protagonist-card.tier-caliph {
+  border-color: #064d2b;
+  background: #0B6B3A;
+  color: #fff;
+}
+.protagonist-card.tier-caliph .protagonist-title,
+.protagonist-card.tier-caliph .protagonist-hook,
+.protagonist-card.tier-caliph .protagonist-tone,
+.protagonist-card.tier-caliph .protagonist-gender { color: #fff; }
+.protagonist-card.tier-caliph .protagonist-avatar,
+.protagonist-card.tier-caliph .phase-badge,
+.protagonist-card.tier-caliph .enter-pill { background: #064d2b; border-color: rgba(255,255,255,.55); }
+.protagonist-card.tier-prophet {
+  border: 5px solid #B78B43;
+  background: #FFF8E8;
+  box-shadow: inset 0 0 0 3px #0B6B3A, 0 22px 54px rgba(55, 35, 20, 0.19);
+  color: #0B6B3A;
+}
+.protagonist-card.tier-prophet .protagonist-title,
+.protagonist-card.tier-prophet .protagonist-hook,
+.protagonist-card.tier-prophet .protagonist-tone,
+.protagonist-card.tier-prophet .protagonist-gender { color: #0B6B3A; }
+.protagonist-card.tier-prophet .protagonist-avatar,
+.protagonist-card.tier-prophet .phase-badge,
+.protagonist-card.tier-prophet .enter-pill { background: #0B6B3A; border-color: #B78B43; }
 
 .phase-badge,
 .enter-pill {

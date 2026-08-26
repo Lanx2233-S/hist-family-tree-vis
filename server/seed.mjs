@@ -4,7 +4,7 @@ import { dirname, resolve } from "node:path";
 import { Pool } from "pg";
 
 const here = dirname(fileURLToPath(import.meta.url));
-const people = JSON.parse(await readFile(resolve(here, "../people.normandy.json"), "utf8"));
+const people = JSON.parse(await readFile(resolve(here, "../people.generated.json"), "utf8"));
 const pool = new Pool({ connectionString: process.env.DATABASE_URL });
 
 function nullable(value) {

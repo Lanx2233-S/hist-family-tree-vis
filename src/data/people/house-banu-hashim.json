@@ -1,0 +1,770 @@
+[
+  {
+    "id": "8c7858ec-2728-483f-8d76-28470fc85b1e",
+    "firstName": "Hāshim",
+    "lastName": "ibn ʿAbd Manāf",
+    "displayName": "Hāshim ibn ʿAbd Manāf",
+    "fullName": "Hāshim ibn ʿAbd Manāf",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [
+      "Hashim ibn Abd Manaf",
+      "ʿAmr ibn ʿAbd Manāf"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "哈希姆·本·阿卜杜·马纳夫",
+    "fullNameCn": "哈希姆·本·阿卜杜·马纳夫",
+    "birthYear": "",
+    "deathYear": "",
+    "birthPlace": "Mecca",
+    "birthPlaceCn": "麦加",
+    "deathPlace": "Gaza",
+    "deathPlaceCn": "加沙",
+    "gender": "male",
+    "dynasty": "Quraysh",
+    "house": "Banū Hāshim",
+    "culture": "Pre-Islamic Qurayshi Arab",
+    "faith": "Pre-Islamic Arabian religion",
+    "primaryTitle": "Eponymous ancestor of Banū Hāshim",
+    "primaryTitleCn": "哈希姆家族名祖",
+    "titles": [],
+    "tags": [
+      "noble"
+    ],
+    "rank": "noble",
+    "importanceScore": 72,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "f951b892-dd38-4925-af2a-497d712ab01f",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "876d8768-5261-4ecf-a808-ce6515c1b538"
+      ]
+    },
+    "events": [
+      {
+        "year": "",
+        "type": "government",
+        "tags": [
+          "government",
+          "noble"
+        ],
+        "weight": 75,
+        "label": "Was associated with provisioning pilgrims in Mecca",
+        "labelCn": "与麦加朝觐者的供给事务相联系",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Hashim_ibn_Abd_Manaf",
+        "note": "Islamic-era Meccan tradition credits Hāshim with a leading role in rifāda; details cannot be securely dated."
+      },
+      {
+        "year": "",
+        "type": "diplomacy",
+        "tags": [
+          "diplomacy",
+          "territory"
+        ],
+        "weight": 75,
+        "label": "Was credited with developing Quraysh's long-distance trade connections",
+        "labelCn": "被传统归功于发展古莱什的远距离贸易联系",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Hashim_ibn_Abd_Manaf",
+        "note": "Later tradition links Hāshim with commercial agreements and seasonal caravan routes toward Syria and Yemen; the scale and form are debated."
+      },
+      {
+        "year": "",
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 75,
+        "label": "Married Salmā bint ʿAmr of Yathrib",
+        "labelCn": "与叶斯里卜的萨尔玛·宾特·阿姆尔结婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Hashim_ibn_Abd_Manaf",
+        "note": "The marriage linked Hāshim with Yathrib; their son Shayba later became known as ʿAbd al-Muṭṭalib."
+      },
+      {
+        "year": "",
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "dynasty"
+        ],
+        "weight": 90,
+        "label": "Fathered ʿAbd al-Muṭṭalib",
+        "labelCn": "成为阿卜杜勒·穆塔利卜之父",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Hashim_ibn_Abd_Manaf",
+        "note": "ʿAbd al-Muṭṭalib became the next crucial ancestor of Muhammad, ʿAlī and al-ʿAbbās."
+      },
+      {
+        "year": "",
+        "type": "death",
+        "tags": [
+          "death",
+          "noble"
+        ],
+        "weight": 65,
+        "label": "Died at Gaza while travelling in Syria",
+        "labelCn": "在叙利亚贸易旅途中死于加沙",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Hashim_ibn_Abd_Manaf",
+        "note": "Traditional accounts place Hāshim's death at Gaza; proposed absolute dates vary widely."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Hashim_ibn_Abd_Manaf",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Hashim_ibn_Abd_Manaf",
+    "sourceNote": "Ibn Isḥāq/Ibn Hishām; al-Ṭabarī; M. J. Kister; Patricia Crone's critique of traditional Meccan trade reconstruction; Wikipedia as supplementary index.",
+    "notes": "Eponymous ancestor of Banū Hāshim and the bridge from ʿAbd Manāf to ʿAbd al-Muṭṭalib.\n\nConfidence / caveats: His biography is preserved mainly in later Islamic tradition. Famous īlāf/trade accounts are debated; online dates such as c.464–497 are reconstructions, so birthYear and deathYear remain null.\n\nUnlinked family: mother: ʿĀtika bint Murra; spouse: Salmā bint ʿAmr; child: Asad ibn Hāshim; child: Abū Ṣayfī ibn Hāshim; child: Naḍla ibn Hāshim",
+    "createdDate": "20260824",
+    "createdOrder": 672
+  },
+  {
+    "id": "876d8768-5261-4ecf-a808-ce6515c1b538",
+    "firstName": "ʿAbd",
+    "lastName": "al-Muṭṭalib",
+    "displayName": "ʿAbd al-Muṭṭalib",
+    "fullName": "ʿAbd al-Muṭṭalib ibn Hāshim",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [
+      "Abd al-Muttalib",
+      "Shayba ibn Hāshim",
+      "Shaybat al-Ḥamd"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "阿卜杜勒·穆塔利卜",
+    "fullNameCn": "阿卜杜勒·穆塔利卜·本·哈希姆",
+    "birthYear": "",
+    "deathYear": "",
+    "birthPlace": "Yathrib",
+    "birthPlaceCn": "叶斯里卜",
+    "deathPlace": "Mecca",
+    "deathPlaceCn": "麦加",
+    "gender": "male",
+    "dynasty": "Quraysh",
+    "house": "Banū Hāshim",
+    "culture": "Pre-Islamic Qurayshi Arab",
+    "faith": "Pre-Islamic Arabian religion",
+    "primaryTitle": "Chief notable of Banū Hāshim",
+    "primaryTitleCn": "哈希姆家族重要领袖",
+    "titles": [],
+    "tags": [
+      "noble"
+    ],
+    "rank": "noble",
+    "importanceScore": 82,
+    "historicalRating": 7,
+    "relationships": {
+      "fatherId": "8c7858ec-2728-483f-8d76-28470fc85b1e",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "e4daa227-f173-4c2c-814c-2fae9f30d9f9",
+        "106944a7-e33c-4a52-be7a-d619b61db972",
+        "0234d202-7145-44c7-94f9-b0487978d357"
+      ]
+    },
+    "events": [
+      {
+        "year": "",
+        "type": "succession",
+        "tags": [
+          "succession",
+          "noble"
+        ],
+        "weight": 80,
+        "label": "Was brought from Yathrib to Mecca and became a leading Hāshimite notable",
+        "labelCn": "从叶斯里卜被带回麦加，并成为哈希姆家族的重要领袖",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Abd_al-Muttalib",
+        "note": "Born Shayba in Yathrib, he was later brought to Mecca by his uncle al-Muṭṭalib."
+      },
+      {
+        "year": "",
+        "type": "religion",
+        "tags": [
+          "religion",
+          "uncertain"
+        ],
+        "weight": 80,
+        "label": "Was traditionally credited with rediscovering the Zamzam well",
+        "labelCn": "传统上被归功于重新发现渗渗泉",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Abd_al-Muttalib",
+        "note": "Meccan tradition attributes Zamzam's rediscovery or restoration to him after revelatory dreams."
+      },
+      {
+        "year": 570,
+        "type": "politics",
+        "tags": [
+          "politics",
+          "religion"
+        ],
+        "weight": 90,
+        "label": "Was associated with Mecca's leadership in the traditional Year of the Elephant",
+        "labelCn": "传统“象年”叙事中代表麦加与阿布拉哈交涉",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Abd_al-Muttalib",
+        "note": "Later accounts place him as Mecca's spokesman during Abraha's expedition; exact date and details are debated."
+      },
+      {
+        "year": 570,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "dynasty"
+        ],
+        "weight": 100,
+        "label": "Became grandfather of Muhammad",
+        "labelCn": "成为穆罕默德的祖父",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Abd_al-Muttalib",
+        "note": "His son ʿAbd Allāh died around the time of Muhammad's birth."
+      },
+      {
+        "year": 576,
+        "type": "regency",
+        "tags": [
+          "regency",
+          "dynasty"
+        ],
+        "weight": 85,
+        "label": "Took responsibility for the orphaned Muhammad after Āmina's death",
+        "labelCn": "阿米娜去世后承担幼年穆罕默德的监护",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Abd_al-Muttalib",
+        "note": "Standard sīra tradition makes ʿAbd al-Muṭṭalib Muhammad's guardian after Āmina's death."
+      },
+      {
+        "year": 578,
+        "type": "death",
+        "tags": [
+          "death",
+          "noble"
+        ],
+        "weight": 80,
+        "label": "Died in Mecca and entrusted Muhammad to Abū Ṭālib",
+        "labelCn": "在麦加去世，并将穆罕默德托付给阿布·塔利卜",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Abd_al-Muttalib",
+        "note": "The traditional chronology places his death when Muhammad was about eight."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Abd_al-Muttalib",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Abd_al-Muttalib",
+    "sourceNote": "Ibn Isḥāq/Ibn Hishām; al-Ṭabarī; F. E. Peters; W. Montgomery Watt; studies of Abraha and the Year of the Elephant; Wikipedia as supplementary index.",
+    "notes": "The second major fork: through ʿAbd Allāh comes Muhammad, through Abū Ṭālib comes ʿAlī, and through al-ʿAbbās comes the Abbasid ancestral line.\n\nConfidence / caveats: Detailed Zamzam, vow and Elephant narratives are later tradition. Conventional c.497–578 dates are not secure, so birthYear and deathYear remain null. Later Islamic traditions differ over how monotheistic his beliefs were; he should not simply be back-projected as Muslim.\n\nUnlinked family: mother: Salmā bint ʿAmr; spouse: Fāṭima bint ʿAmr; spouse: Hāla bint Wuhayb; child: Ḥamza ibn ʿAbd al-Muṭṭalib; child: Abū Lahab; child: Ṣafiyya bint ʿAbd al-Muṭṭalib",
+    "createdDate": "20260824",
+    "createdOrder": 678
+  },
+  {
+    "id": "e4daa227-f173-4c2c-814c-2fae9f30d9f9",
+    "firstName": "ʿAbd",
+    "lastName": "Allāh ibn ʿAbd al-Muṭṭalib",
+    "displayName": "ʿAbd Allāh ibn ʿAbd al-Muṭṭalib",
+    "fullName": "ʿAbd Allāh ibn ʿAbd al-Muṭṭalib",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [
+      "Abdullah ibn Abd al-Muttalib"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "阿卜杜拉·本·阿卜杜勒·穆塔利卜",
+    "fullNameCn": "阿卜杜拉·本·阿卜杜勒·穆塔利卜",
+    "birthYear": "",
+    "deathYear": "",
+    "birthPlace": "Mecca",
+    "birthPlaceCn": "麦加",
+    "deathPlace": "Yathrib",
+    "deathPlaceCn": "叶斯里卜",
+    "gender": "male",
+    "dynasty": "Quraysh",
+    "house": "Banū Hāshim",
+    "culture": "Pre-Islamic Qurayshi Arab",
+    "faith": "Pre-Islamic Arabian religion",
+    "primaryTitle": "Father of Muhammad",
+    "primaryTitleCn": "穆罕默德之父",
+    "titles": [],
+    "tags": [
+      "noble"
+    ],
+    "rank": "noble",
+    "importanceScore": 48,
+    "historicalRating": 4,
+    "relationships": {
+      "fatherId": "876d8768-5261-4ecf-a808-ce6515c1b538",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "b54d8195-66ad-4668-b9dc-a117a2d9e51b"
+      ]
+    },
+    "events": [
+      {
+        "year": "",
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 75,
+        "label": "Married Āmina bint Wahb of Banū Zuhra",
+        "labelCn": "与祖赫拉支的阿米娜·宾特·瓦赫卜结婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Abdullah_ibn_Abd_al-Muttalib",
+        "note": "The marriage produced Muhammad."
+      },
+      {
+        "year": 570,
+        "type": "death",
+        "tags": [
+          "death",
+          "noble"
+        ],
+        "weight": 90,
+        "label": "Died around the time of Muhammad's birth",
+        "labelCn": "在穆罕默德出生前后去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Abdullah_ibn_Abd_al-Muttalib",
+        "note": "Dominant sīra tradition holds that he died while Āmina was pregnant, though some reports place his death shortly after the birth; 570 is approximate."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Abdullah_ibn_Abd_al-Muttalib",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Abdullah_ibn_Abd_al-Muttalib",
+    "sourceNote": "Ibn Isḥāq/Ibn Hishām; al-Ṭabarī; W. Montgomery Watt; F. E. Peters; Wikipedia as stable index.",
+    "notes": "Primarily the genealogical bridge between ʿAbd al-Muṭṭalib and Muhammad.\n\nConfidence / caveats: Dates are uncertain. The dominant sīra makes Muhammad posthumous, while some reports allow ʿAbd Allāh to have lived briefly after the birth.\n\nUnlinked family: mother: Fāṭima bint ʿAmr; spouse: Āmina bint Wahb",
+    "createdDate": "20260824",
+    "createdOrder": 679
+  },
+  {
+    "id": "106944a7-e33c-4a52-be7a-d619b61db972",
+    "firstName": "Abū",
+    "lastName": "Ṭālib ibn ʿAbd al-Muṭṭalib",
+    "displayName": "Abū Ṭālib ibn ʿAbd al-Muṭṭalib",
+    "fullName": "Abū Ṭālib ʿAbd Manāf ibn ʿAbd al-Muṭṭalib",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [
+      "Abu Talib",
+      "ʿAbd Manāf ibn ʿAbd al-Muṭṭalib"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "阿布·塔利卜",
+    "fullNameCn": "阿布·塔利卜·阿卜杜·马纳夫·本·阿卜杜勒·穆塔利卜",
+    "birthYear": "",
+    "deathYear": 619,
+    "birthPlace": "Mecca",
+    "birthPlaceCn": "麦加",
+    "deathPlace": "Mecca",
+    "deathPlaceCn": "麦加",
+    "gender": "male",
+    "dynasty": "Quraysh",
+    "house": "Banū Hāshim",
+    "culture": "Qurayshi Arab",
+    "faith": "Disputed in Islamic tradition",
+    "primaryTitle": "Chief of Banū Hāshim and protector of Muhammad",
+    "primaryTitleCn": "哈希姆家族领袖及穆罕默德的重要保护者",
+    "titles": [],
+    "tags": [
+      "noble"
+    ],
+    "rank": "noble",
+    "importanceScore": 84,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "876d8768-5261-4ecf-a808-ce6515c1b538",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "ac92c10a-f2b5-4ba8-8d79-af772ea959c0"
+      ]
+    },
+    "events": [
+      {
+        "year": 578,
+        "type": "regency",
+        "tags": [
+          "regency",
+          "dynasty"
+        ],
+        "weight": 100,
+        "label": "Became guardian of the young Muhammad",
+        "labelCn": "成为幼年穆罕默德的监护人",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Abu_Talib_ibn_Abd_al-Muttalib",
+        "note": "After ʿAbd al-Muṭṭalib's death, Abū Ṭālib took Muhammad into his household."
+      },
+      {
+        "year": 582,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "uncertain"
+        ],
+        "weight": 55,
+        "label": "Was traditionally said to have taken Muhammad on a caravan journey to Syria",
+        "labelCn": "传统称其曾带年幼的穆罕默德随商队前往叙利亚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Abu_Talib_ibn_Abd_al-Muttalib",
+        "note": "The Baḥīrā episode is a later sīra tradition and not independently secure."
+      },
+      {
+        "year": 613,
+        "type": "politics",
+        "tags": [
+          "politics",
+          "defense"
+        ],
+        "weight": 95,
+        "label": "Maintained clan protection for Muhammad as public preaching intensified",
+        "labelCn": "穆罕默德公开传教后继续提供宗族保护",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Abu_Talib_ibn_Abd_al-Muttalib",
+        "note": "He refused demands to surrender his nephew, using Hāshimite solidarity to shield the emerging movement."
+      },
+      {
+        "year": 616,
+        "type": "politics",
+        "tags": [
+          "political_crisis",
+          "defense"
+        ],
+        "weight": 90,
+        "label": "Shared the Banū Hāshim boycott and confinement",
+        "labelCn": "与哈希姆家族共同承受抵制与封锁",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Abu_Talib_ibn_Abd_al-Muttalib",
+        "note": "The boycott placed Muhammad's clan faction under severe social and economic pressure; exact chronology varies."
+      },
+      {
+        "year": 619,
+        "type": "death",
+        "tags": [
+          "death",
+          "noble"
+        ],
+        "weight": 100,
+        "label": "Died in Mecca, removing Muhammad's principal clan protector",
+        "labelCn": "在麦加去世，使穆罕默德失去最重要的宗族保护者",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Abu_Talib_ibn_Abd_al-Muttalib",
+        "note": "His death in the Year of Sorrow sharply worsened Muhammad's security in Mecca."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Abu_Talib_ibn_Abd_al-Muttalib",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Abu_Talib_ibn_Abd_al-Muttalib",
+    "sourceNote": "Ibn Isḥāq/Ibn Hishām; al-Ṭabarī; W. Montgomery Watt; Wilferd Madelung; Sunni and Shi'i traditions compared critically; Wikipedia as supplementary index.",
+    "notes": "Muhammad's uncle, guardian and protector, and the father of ʿAlī.\n\nConfidence / caveats: Sunni tradition generally says he died without formal conversion, while Shi'i tradition regards him as a concealed believer; faith is therefore marked disputed. Birth year and the Syrian caravan story are uncertain.\n\n资料限制，未以重复事件凑数。\n\nUnlinked family: mother: Fāṭima bint ʿAmr; spouse: Fāṭima bint Asad; child: Jaʿfar ibn Abī Ṭālib; child: ʿAqīl ibn Abī Ṭālib; child: Ṭālib ibn Abī Ṭālib; child: Umm Hāniʾ bint Abī Ṭālib",
+    "createdDate": "20260824",
+    "createdOrder": 680
+  },
+  {
+    "id": "b54d8195-66ad-4668-b9dc-a117a2d9e51b",
+    "firstName": "Muhammad",
+    "lastName": "",
+    "displayName": "Muhammad",
+    "fullName": "Muḥammad ibn ʿAbd Allāh",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [
+      "Muḥammad",
+      "Muhammad ibn Abdullah",
+      "Prophet Muhammad"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "穆罕默德",
+    "fullNameCn": "穆罕默德·本·阿卜杜拉",
+    "birthYear": 570,
+    "deathYear": 632,
+    "birthPlace": "Mecca",
+    "birthPlaceCn": "麦加",
+    "deathPlace": "Medina",
+    "deathPlaceCn": "麦地那",
+    "deathCause": {
+      "kind": "normal",
+      "summary": "died after a final illness",
+      "summaryCn": "因病去世",
+      "detail": "died in Medina after a final illness",
+      "detailCn": "在麦地那病逝",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Muhammad"
+    },
+    "gender": "male",
+    "dynasty": "Quraysh",
+    "house": "Banū Hāshim",
+    "culture": "Qurayshi Arab",
+    "faith": "Islam",
+    "primaryTitle": "Prophet of Islam and leader of the Muslim community",
+    "primaryTitleCn": "伊斯兰教先知及穆斯林共同体领袖",
+    "titles": [
+      {
+        "title": "Leader of the Muslim Community",
+        "titleCn": "穆斯林共同体领袖",
+        "startYear": 622,
+        "endYear": 632
+      }
+    ],
+    "tags": [
+      "prophet",
+      "religious_leader"
+    ],
+    "rank": "noble",
+    "importanceScore": 100,
+    "historicalRating": 10,
+    "relationships": {
+      "fatherId": "e4daa227-f173-4c2c-814c-2fae9f30d9f9",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "e6973117-63ca-4995-8242-86757ffbc49c"
+      ]
+    },
+    "events": [
+      {
+        "year": 595,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 80,
+        "label": "Married Khadīja bint Khuwaylid",
+        "labelCn": "与赫蒂彻·宾特·胡韦利德结婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Muhammad",
+        "note": "Khadīja became his first wife and principal early supporter; 595 is approximate."
+      },
+      {
+        "year": 610,
+        "type": "religion",
+        "tags": [
+          "religion",
+          "uncertain"
+        ],
+        "weight": 100,
+        "label": "Received the first revelations according to Islamic tradition",
+        "labelCn": "按照伊斯兰传统接受最初启示",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Muhammad",
+        "note": "Islamic tradition places the beginning of Qur'anic revelation near Mecca, conventionally in 610."
+      },
+      {
+        "year": 613,
+        "type": "religion",
+        "tags": [
+          "religion",
+          "politics"
+        ],
+        "weight": 95,
+        "label": "Began more public preaching in Mecca",
+        "labelCn": "在麦加更公开地传教",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Muhammad",
+        "note": "His preaching increasingly challenged established Meccan religious and political interests."
+      },
+      {
+        "year": 615,
+        "type": "politics",
+        "tags": [
+          "politics",
+          "defense"
+        ],
+        "weight": 75,
+        "label": "Some followers emigrated to Aksum to escape persecution",
+        "labelCn": "部分追随者迁往阿克苏姆躲避迫害",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Muhammad",
+        "note": "Early Muslims sought protection across the Red Sea; numbers and whether there were one or two migrations vary."
+      },
+      {
+        "year": 619,
+        "type": "political_crisis",
+        "tags": [
+          "political_crisis",
+          "dynasty"
+        ],
+        "weight": 90,
+        "label": "Lost Khadīja and Abū Ṭālib in the Year of Sorrow",
+        "labelCn": "“悲伤之年”失去赫蒂彻与阿布·塔利卜",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Muhammad",
+        "note": "The deaths weakened his personal and political position in Mecca."
+      },
+      {
+        "year": 621,
+        "type": "diplomacy",
+        "tags": [
+          "diplomacy",
+          "alliance"
+        ],
+        "weight": 90,
+        "label": "Won pledges of support from followers in Yathrib",
+        "labelCn": "获得叶斯里卜追随者的效忠与保护承诺",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Muhammad",
+        "note": "The Aqaba pledges made migration and a new political community possible."
+      },
+      {
+        "year": 622,
+        "month": 9,
+        "type": "government",
+        "tags": [
+          "government",
+          "succession"
+        ],
+        "weight": 100,
+        "label": "Migrated from Mecca to Medina in the Hijra",
+        "labelCn": "从麦加迁徙到麦地那，完成希吉拉",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Muhammad",
+        "note": "The Hijra marks the transition to an organized Medinan community and later became the epoch of the Islamic calendar."
+      },
+      {
+        "year": 622,
+        "type": "government",
+        "tags": [
+          "government",
+          "legal"
+        ],
+        "weight": 95,
+        "label": "Established a political community at Medina",
+        "labelCn": "在麦地那建立新的政治共同体",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Muhammad",
+        "note": "The agreement conventionally called the Constitution of Medina organized relations among followers and allied groups; textual formation is debated."
+      },
+      {
+        "year": 624,
+        "month": 3,
+        "day": 13,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "commander"
+        ],
+        "weight": 100,
+        "label": "Defeated a larger Meccan force at Badr",
+        "labelCn": "在白德尔战役中击败较大的麦加军队",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Muhammad",
+        "note": "Badr greatly strengthened the Medinan community."
+      },
+      {
+        "year": 625,
+        "month": 3,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "defeat"
+        ],
+        "weight": 90,
+        "label": "Survived the Muslim setback at Uḥud",
+        "labelCn": "在伍侯德战役的穆斯林挫败中幸存",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Muhammad",
+        "note": "Abū Sufyān's Meccan army inflicted heavy losses but failed to destroy the polity."
+      },
+      {
+        "year": 627,
+        "month": 4,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "defense"
+        ],
+        "weight": 100,
+        "label": "Defeated the confederate siege in the Battle of the Trench",
+        "labelCn": "在壕沟之战中击退围攻麦地那的联军",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Muhammad",
+        "note": "The failed siege shifted the strategic balance against Mecca."
+      },
+      {
+        "year": 628,
+        "month": 3,
+        "type": "treaty",
+        "tags": [
+          "treaty",
+          "diplomacy"
+        ],
+        "weight": 100,
+        "label": "Concluded the Treaty of Ḥudaybiyya with Quraysh",
+        "labelCn": "与古莱什签订侯代比亚条约",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Muhammad",
+        "note": "The truce recognized Muhammad as a negotiating power and enabled rapid alliance expansion."
+      },
+      {
+        "year": 628,
+        "month": 5,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "conquest"
+        ],
+        "weight": 85,
+        "label": "Secured Khaybar",
+        "labelCn": "攻取海拜尔",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Muhammad",
+        "note": "The campaign expanded the polity's resources and influence."
+      },
+      {
+        "year": 630,
+        "month": 1,
+        "type": "conquest",
+        "tags": [
+          "conquest",
+          "politics"
+        ],
+        "weight": 100,
+        "label": "Conquered Mecca with limited resistance",
+        "labelCn": "以有限抵抗征服麦加",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Muhammad",
+        "note": "Muhammad incorporated much of Quraysh into the new order."
+      },
+      {
+        "year": 630,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "commander"
+        ],
+        "weight": 90,
+        "label": "Defeated the Hawāzin-led coalition at Ḥunayn",
+        "labelCn": "在侯奈因击败哈瓦津主导的联军",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Muhammad",
+        "note": "The Muslim army recovered after an initial shock and won the battle."
+      },
+      {
+        "year": 631,
+        "type": "diplomacy",
+        "tags": [
+          "diplomacy",
+          "government"
+        ],
+        "weight": 85,
+        "label": "Received delegations from tribes across Arabia",
+        "labelCn": "接待来自阿拉伯各部落的大量使团",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Muhammad",
+        "note": "The Year of Delegations symbolized rapid incorporation into alliances with the expanding polity."
+      },
+      {
+        "year": 632,
+        "month": 3,
+        "type": "religion",
+        "tags": [
+          "religion",
+          "government"
+        ],
+        "weight": 95,
+        "label": "Performed the Farewell Pilgrimage",
+        "labelCn": "完成辞朝觐",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Muhammad",
+        "note": "His final pilgrimage supplied important ritual precedents and remembered final teachings."
+      },
+      {
+        "year": 632,
+        "month": 6,
+        "day": 8,
+        "type": "death",
+        "tags": [
+          "death",
+          "monarch"
+        ],
+        "weight": 100,
+        "label": "Died in Medina after a final illness",
+        "labelCn": "在麦地那病逝",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Muhammad",
+        "note": "He died in Medina in June 632 after a final illness, leaving no universally accepted political succession procedure."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Muhammad",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Muhammad",
+    "sourceNote": "Fred M. Donner; W. Montgomery Watt; F. E. Peters; Ibn Isḥāq/Ibn Hishām and al-Ṭabarī used critically; early non-Muslim notices; Wikipedia only as online chronology index.",
+    "notes": "Founder and prophet of the early Muslim community. In this graph his bloodline continues through Fāṭima; ʿAlī is his paternal cousin and son-in-law.\n\nConfidence / caveats: 570 is the conventional approximate birth year, adopted here as the standard display value. The broad life arc is well grounded, but detailed sīra chronology was compiled generations later. 'Prophet' is recorded as an Islamic religious role, not as an adjudication of revelation claims. Specific modern diagnosis for his final illness is not secure.\n\nUnlinked family: mother: Āmina bint Wahb; spouse: Khadīja bint Khuwaylid; spouse: Sawda bint Zamʿa; spouse: ʿĀʾisha bint Abī Bakr; spouse: Ḥafṣa bint ʿUmar; spouse: Umm Salama; spouse: Zaynab bint Jaḥsh; spouse: Umm Ḥabība Ramla bint Abī Sufyān; spouse: Maymūna bint al-Ḥārith; child: Zaynab bint Muhammad; child: Ruqayya bint Muhammad; child: Umm Kulthūm bint Muhammad; child: al-Qāsim ibn Muhammad; child: ʿAbd Allāh ibn Muhammad; child: Ibrāhīm ibn Muhammad",
+    "createdDate": "20260824",
+    "createdOrder": 682
+  }
+]

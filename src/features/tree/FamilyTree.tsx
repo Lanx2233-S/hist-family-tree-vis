@@ -56,7 +56,8 @@ export function FamilyTree({
   const ancestorNodes: Array<{ person: Person; x: number; y: number; depth: number }> = [];
   let ancestorCursor = center;
   const card = { width: 178, height: 108 };
-  const generationGap = 210;
+  const generationGap = 315;
+  const spouseGap = 375;
   const horizontalPadding = 180;
   const siblingGap = card.width + 68;
   const spouses = [...center.relationships.partnerIds, ...center.relationships.spouseIds]
@@ -131,7 +132,7 @@ export function FamilyTree({
   // focused chain. Keep those cards inside the SVG so the shell can scroll to
   // them instead of clipping them at the viewBox edge.
   const relationshipWidth = hasExpandedRelationshipBranch
-    ? (ancestorRadius + maxSpouseAncestorDepth + 4) * 250 + card.width + horizontalPadding * 2
+    ? (ancestorRadius + maxSpouseAncestorDepth + 4) * spouseGap + card.width + horizontalPadding * 2
     : 0;
   const width = Math.max(1280, neededChildWidth, relationshipWidth);
   // A spouse branch starts from an existing ancestor row, so its vertical
@@ -177,7 +178,7 @@ export function FamilyTree({
   const children = visibleCenterChildIds.map((id) => byId.get(id)).filter((person): person is Person => Boolean(person));
   const renderedRows = Math.max(radius, descendantRows.length);
   const height = centerPoint.y + renderedRows * generationGap + 280;
-  const spousePoints = activeSpouse ? [{ person: activeSpouse, x: centerPoint.x + 250, y: centerPoint.y }] : [];
+  const spousePoints = activeSpouse ? [{ person: activeSpouse, x: centerPoint.x + spouseGap, y: centerPoint.y }] : [];
   const childSpineY = centerPoint.y + 122;
   const ancestorSpouseNodes = showParents
       ? ancestorNodes.flatMap((node, index) => {
@@ -186,7 +187,7 @@ export function FamilyTree({
           ? relationshipPartnerIds(node.person, childBelow)
               .map((id) => byId.get(id))
               .filter((person): person is Person => Boolean(person))
-              .map((spouse, spouseIndex) => ({ spouse, owner: node, x: node.x + 250, y: node.y + spouseIndex * 118 }))
+              .map((spouse, spouseIndex) => ({ spouse, owner: node, x: node.x + spouseGap, y: node.y + spouseIndex * 118 }))
           : [];
       })
     : [];
@@ -213,7 +214,7 @@ export function FamilyTree({
       .map((spouse, spouseIndex) => ({
         spouse,
         owner: node,
-        x: node.x + 250,
+        x: node.x + spouseGap,
         y: node.y + spouseIndex * 118,
       }));
   });
@@ -242,7 +243,7 @@ export function FamilyTree({
       .map((spouse, spouseIndex) => ({
         spouse,
         owner: node,
-        x: node.x + 250,
+        x: node.x + spouseGap,
         y: node.y + spouseIndex * 118,
       }));
   });
@@ -394,7 +395,8 @@ export function FamilyTree({
             <rect className="selection-glow" x="-10" y="-10" width={card.width + 20} height={card.height + 20} rx="18" />
           </>
         )}
-        <rect width={card.width} height={card.height} rx="8" />
+        <rect className="person-card" width={card.width} height={card.height} rx="8" />
+        {tier === "prophet" && <rect className="prophet-inner-ring" x="6" y="6" width={card.width - 12} height={card.height - 12} rx="5" />}
         <text className={`gender-mark ${person.gender}`} x={card.width - 15} y="20">{genderMark(person)}</text>
         <circle cx={centerX} cy="24" r="21" />
         <text className="avatar-text" x={centerX} y="30">{initials(person, language)}</text>
@@ -434,9 +436,10 @@ export function FamilyTree({
   }
 
   function childAnchorFor(parentId: string) {
-    const bottomOffset = card.height / 2 + 14;
     if (parentId === center.id && showSpouses && spousePoints.length > 0) {
-      return { x: (centerPoint.x + spousePoints[0].x) / 2, y: centerPoint.y - bottomOffset };
+      // Descendants of the focused couple emerge from the marriage midpoint,
+      // rather than from beneath the focused person's card.
+      return { x: (centerPoint.x + spousePoints[0].x) / 2, y: centerPoint.y };
     }
     return nodePosition.get(parentId) ?? centerPoint;
   }
@@ -676,10 +679,18 @@ export function FamilyTree({
           ))}
           {showChildren && descendantRows.flat().map(({ person, x, y, parentId }) => {
             const parent = childAnchorFor(parentId);
-            const midY = parent.y + 132;
+            const isFocusedUnion = parentId === center.id && showSpouses && spousePoints.length > 0;
+            const connectionY = isFocusedUnion
+              ? parent.y
+              : parent.y + card.height / 2 + 14;
+            // Leave a deliberate stem below the marital line before the
+            // sibling branch begins, so it reads as a couple's descendant line.
+            const midY = isFocusedUnion
+              ? parent.y + card.height / 2 + 72
+              : connectionY + 64;
             return (
             <g key={person.id}>
-              <path className="tree-link" d={`M${parent.x},${parent.y + card.height / 2 + 14} V${midY} H${x} V${y - card.height / 2}`} />
+              <path className="tree-link" d={`M${parent.x},${connectionY} V${midY} H${x} V${y - card.height / 2}`} />
               <PersonNode person={person} x={x} y={y} />
               {parentId === center.id && (
                 <BranchToggle

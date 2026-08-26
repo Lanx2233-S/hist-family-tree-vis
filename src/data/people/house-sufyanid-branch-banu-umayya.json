@@ -1,0 +1,409 @@
+[
+  {
+    "id": "6f7094b7-7970-45b1-a73c-aff5a4d92947",
+    "firstName": "Abū",
+    "lastName": "Sufyān Ṣakhr ibn Ḥarb",
+    "displayName": "Abū Sufyān Ṣakhr ibn Ḥarb",
+    "fullName": "Abū Sufyān Ṣakhr ibn Ḥarb",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [
+      "Abu Sufyan ibn Harb",
+      "Ṣakhr ibn Ḥarb"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "阿布·苏富扬",
+    "fullNameCn": "阿布·苏富扬·萨赫尔·本·哈尔卜",
+    "birthYear": "",
+    "deathYear": "",
+    "birthPlace": "Mecca",
+    "birthPlaceCn": "麦加",
+    "deathPlace": "Medina",
+    "deathPlaceCn": "麦地那",
+    "gender": "male",
+    "dynasty": "Quraysh",
+    "house": "Sufyanid branch of Banū Umayya",
+    "culture": "Qurayshi Arab",
+    "faith": "Islam",
+    "primaryTitle": "Leader of Quraysh and Companion of Muhammad",
+    "primaryTitleCn": "古莱什领袖及穆罕默德圣门弟子",
+    "titles": [],
+    "tags": [
+      "noble"
+    ],
+    "rank": "noble",
+    "importanceScore": 88,
+    "historicalRating": 8,
+    "relationships": {
+      "fatherId": "e9892a3c-3490-4e10-99e4-54fb74732df5",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "89c64652-2196-40a1-a17e-6e15821376ac"
+      ]
+    },
+    "events": [
+      {
+        "year": 624,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "politics"
+        ],
+        "weight": 90,
+        "label": "Led the Quraysh caravan whose escape preceded the Battle of Badr",
+        "labelCn": "率领古莱什商队脱险，随后爆发白德尔战役",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Abu_Sufyan_ibn_Harb",
+        "note": "His diversion saved the caravan, but the Meccan relief army continued and was defeated at Badr."
+      },
+      {
+        "year": 625,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "commander"
+        ],
+        "weight": 95,
+        "label": "Led the Meccan coalition at the Battle of Uḥud",
+        "labelCn": "在伍侯德战役中领导麦加军队",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Abu_Sufyan_ibn_Harb",
+        "note": "Abū Sufyān emerged as the leading Meccan commander at Uḥud."
+      },
+      {
+        "year": 627,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "commander"
+        ],
+        "weight": 95,
+        "label": "Helped lead the confederate campaign against Medina",
+        "labelCn": "参与领导针对麦地那的联军围攻",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Abu_Sufyan_ibn_Harb",
+        "note": "He was among the principal Quraysh leaders of the Battle of the Trench campaign."
+      },
+      {
+        "year": 628,
+        "type": "diplomacy",
+        "tags": [
+          "diplomacy",
+          "treaty"
+        ],
+        "weight": 75,
+        "label": "Operated within the new order created by the Treaty of Ḥudaybiyya",
+        "labelCn": "在侯代比亚条约形成的新政治格局中活动",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Abu_Sufyan_ibn_Harb",
+        "note": "Later reports describe attempts to preserve or renew the truce when allied violence threatened it."
+      },
+      {
+        "year": 630,
+        "type": "religion",
+        "tags": [
+          "religion",
+          "politics"
+        ],
+        "weight": 100,
+        "label": "Accepted Islam shortly before the conquest of Mecca",
+        "labelCn": "在麦加征服前夕归信伊斯兰",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Abu_Sufyan_ibn_Harb",
+        "note": "His conversion is central to the peaceful submission of much of Quraysh; motives and narrative details differ."
+      },
+      {
+        "year": 630,
+        "type": "conquest",
+        "tags": [
+          "conquest",
+          "politics"
+        ],
+        "weight": 90,
+        "label": "Participated in the surrender of Mecca to Muhammad",
+        "labelCn": "参与麦加向穆罕默德政权的归顺",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Abu_Sufyan_ibn_Harb",
+        "note": "His status among Quraysh was used in the conquest's amnesty arrangements."
+      },
+      {
+        "year": 630,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "alliance"
+        ],
+        "weight": 70,
+        "label": "Fought with the Muslims at Ḥunayn",
+        "labelCn": "在侯奈因战役中站在穆斯林一方作战",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Abu_Sufyan_ibn_Harb",
+        "note": "He appears among former Meccan opponents incorporated into the Muslim coalition."
+      },
+      {
+        "year": 636,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "uncertain"
+        ],
+        "weight": 55,
+        "label": "Was traditionally said to have been present at Yarmūk",
+        "labelCn": "传统记载称其曾参加雅尔穆克战役",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Abu_Sufyan_ibn_Harb",
+        "note": "Later reports place the elderly Abū Sufyān at Yarmūk, but the details and even his presence are less secure."
+      },
+      {
+        "year": 653,
+        "type": "death",
+        "tags": [
+          "death",
+          "noble"
+        ],
+        "weight": 65,
+        "label": "Died in Medina in old age",
+        "labelCn": "晚年在麦地那去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Abu_Sufyan_ibn_Harb",
+        "note": "Most traditions place his death around 652–653, though dates into the mid-650s occur."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Abu_Sufyan_ibn_Harb",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Abu_Sufyan_ibn_Harb",
+    "sourceNote": "W. Montgomery Watt; Ibn Isḥāq/Ibn Hishām; al-Wāqidī and al-Ṭabarī used critically; G. R. Hawting; Wikipedia as supplementary chronology index.",
+    "notes": "Major Meccan opponent of Muhammad before 630, later Muslim notable and father of Muʿāwiya I.\n\nConfidence / caveats: Birth is often approximated to the 560s, but no secure year exists. Conversion is clear by 630; motives and Yarmūk stories are source-dependent. Death varies c.652–655, so deathYear remains null.\n\nUnlinked family: mother: Ṣafiyya bint Ḥazn; spouse: Hind bint ʿUtba; child: Yazīd ibn Abī Sufyān; child: Umm Ḥabība Ramla bint Abī Sufyān",
+    "createdDate": "20260824",
+    "createdOrder": 676
+  },
+  {
+    "id": "89c64652-2196-40a1-a17e-6e15821376ac",
+    "firstName": "Muʿāwiya",
+    "lastName": "I ibn Abī Sufyān",
+    "displayName": "Muʿāwiya I ibn Abī Sufyān",
+    "fullName": "Muʿāwiya I ibn Abī Sufyān",
+    "nickname": "",
+    "nicknameCn": "",
+    "alsoKnownAs": [
+      "Muawiya I",
+      "Muʿāwiya ibn Abī Sufyān"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "穆阿维叶一世",
+    "fullNameCn": "穆阿维叶一世·本·阿布·苏富扬",
+    "birthYear": "",
+    "deathYear": 680,
+    "birthPlace": "Mecca",
+    "birthPlaceCn": "麦加",
+    "deathPlace": "Damascus",
+    "deathPlaceCn": "大马士革",
+    "gender": "male",
+    "dynasty": "Umayyad",
+    "house": "Sufyanid branch of Banū Umayya",
+    "culture": "Qurayshi Arab",
+    "faith": "Islam",
+    "primaryTitle": "Caliph",
+    "primaryTitleCn": "哈里发",
+    "titles": [
+      {
+        "title": "Governor of Syria",
+        "titleCn": "叙利亚总督",
+        "startYear": 639,
+        "endYear": 661
+      },
+      {
+        "title": "Caliph",
+        "titleCn": "哈里发",
+        "startYear": 661,
+        "endYear": 680
+      }
+    ],
+    "tags": [
+      "monarch",
+      "caliph",
+      "commander"
+    ],
+    "rank": "emperor",
+    "importanceScore": 96,
+    "historicalRating": 9,
+    "relationships": {
+      "fatherId": "6f7094b7-7970-45b1-a73c-aff5a4d92947",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 630,
+        "type": "religion",
+        "tags": [
+          "religion",
+          "politics"
+        ],
+        "weight": 75,
+        "label": "Entered the Muslim community around the conquest of Mecca",
+        "labelCn": "在麦加征服前后加入穆斯林共同体",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Mu%27awiya_I",
+        "note": "Conversion is normally placed at or shortly before the conquest of Mecca."
+      },
+      {
+        "year": 639,
+        "type": "government",
+        "tags": [
+          "government",
+          "title_acquired"
+        ],
+        "weight": 90,
+        "label": "Became governor of Syria",
+        "labelCn": "成为叙利亚总督",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Mu%27awiya_I",
+        "note": "Under ʿUmar, Muʿāwiya succeeded his brother Yazīd in Syrian administration and consolidated a durable power base."
+      },
+      {
+        "year": 649,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "conquest"
+        ],
+        "weight": 85,
+        "label": "Oversaw the first major Muslim naval expedition against Cyprus",
+        "labelCn": "推动第一次大规模穆斯林海军远征塞浦路斯",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Mu%27awiya_I",
+        "note": "Syrian forces developed naval capacity and attacked Cyprus under ʿUthmān."
+      },
+      {
+        "year": 655,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "commander"
+        ],
+        "weight": 90,
+        "label": "Syrian naval forces defeated the Byzantines in the Battle of the Masts",
+        "labelCn": "叙利亚海军在船桅之战中击败拜占庭舰队",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Mu%27awiya_I",
+        "note": "The victory confirmed Muslim ability to contest the eastern Mediterranean."
+      },
+      {
+        "year": 656,
+        "type": "politics",
+        "tags": [
+          "politics",
+          "political_crisis"
+        ],
+        "weight": 100,
+        "label": "Refused immediate allegiance to ʿAlī and demanded justice for ʿUthmān",
+        "labelCn": "拒绝立即向阿里效忠，并要求追究奥斯曼遇害责任",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Mu%27awiya_I",
+        "note": "His opposition helped trigger the First Fitna."
+      },
+      {
+        "year": 657,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "commander"
+        ],
+        "weight": 100,
+        "label": "Fought ʿAlī at the Battle of Ṣiffīn",
+        "labelCn": "在隋芬战役中与阿里交战",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Mu%27awiya_I",
+        "note": "The battle ended without decisive settlement and moved into arbitration."
+      },
+      {
+        "year": 658,
+        "type": "diplomacy",
+        "tags": [
+          "diplomacy",
+          "political_crisis"
+        ],
+        "weight": 90,
+        "label": "Used the arbitration crisis to strengthen his claim against ʿAlī",
+        "labelCn": "利用仲裁危机加强对阿里政权的挑战",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Mu%27awiya_I",
+        "note": "The arbitration weakened ʿAlī politically; accounts of the sessions differ substantially."
+      },
+      {
+        "year": 658,
+        "type": "conquest",
+        "tags": [
+          "conquest",
+          "territory"
+        ],
+        "weight": 85,
+        "label": "Secured control of Egypt through ʿAmr ibn al-ʿĀṣ",
+        "labelCn": "通过阿姆鲁·本·阿斯控制埃及",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Mu%27awiya_I",
+        "note": "Egypt returned to the Syrian coalition, giving Muʿāwiya a major fiscal and strategic province."
+      },
+      {
+        "year": 661,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 100,
+        "label": "Became caliph after Ḥasan relinquished political power",
+        "labelCn": "哈桑放弃政治权力后成为普遍承认的哈里发",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Mu%27awiya_I",
+        "note": "The settlement ended large-scale civil war and brought most of the polity under Muʿāwiya."
+      },
+      {
+        "year": 661,
+        "type": "government",
+        "tags": [
+          "government",
+          "administration"
+        ],
+        "weight": 95,
+        "label": "Established Damascus as the center of Umayyad caliphal government",
+        "labelCn": "确立大马士革为伍麦叶哈里发政权中心",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Mu%27awiya_I",
+        "note": "His reign consolidated Syrian military networks and a court-centered administration."
+      },
+      {
+        "year": 669,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "conquest"
+        ],
+        "weight": 75,
+        "label": "Renewed sustained pressure on Byzantine Anatolia and Constantinople",
+        "labelCn": "恢复对拜占庭安纳托利亚与君士坦丁堡的持续进攻",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Mu%27awiya_I",
+        "note": "Syrian armies repeatedly raided Anatolia and mounted major operations toward Constantinople; chronology differs among sources."
+      },
+      {
+        "year": 676,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "dynasty"
+        ],
+        "weight": 100,
+        "label": "Secured recognition of Yazīd as heir",
+        "labelCn": "推动其子叶齐德获得继承人地位",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Mu%27awiya_I",
+        "note": "The nomination transformed the caliphate toward hereditary dynastic succession and provoked elite opposition."
+      },
+      {
+        "year": 680,
+        "type": "death",
+        "tags": [
+          "death",
+          "king"
+        ],
+        "weight": 80,
+        "label": "Died in Damascus, leaving the caliphate to Yazīd I",
+        "labelCn": "在大马士革去世，哈里发之位由叶齐德一世继承",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Mu%27awiya_I",
+        "note": "Yazīd's succession immediately reopened legitimacy disputes."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Mu%27awiya_I",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Mu%27awiya_I",
+    "sourceNote": "G. R. Hawting; Hugh Kennedy; Wilferd Madelung; al-Ṭabarī used critically; Wikipedia as supplementary chronology index.",
+    "notes": "Founder of the Umayyad caliphal dynasty's Sufyanid ruling branch; this batch intentionally stops Umayyad expansion with him.\n\nConfidence / caveats: Birth is variously reconstructed c.597–603. His Syrian appointment developed in stages. Sunni, Shi'i and later political traditions differ sharply over his conflict with ʿAlī. 'Founder of the Umayyad dynasty' refers to caliphal rule from 661, not the much older clan.\n\nUnlinked family: mother: Hind bint ʿUtba; spouse: Maysūn bint Baḥdal; child: Yazīd I; child: ʿAbd Allāh ibn Muʿāwiya",
+    "createdDate": "20260824",
+    "createdOrder": 677
+  }
+]

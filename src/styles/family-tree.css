@@ -417,6 +417,43 @@
   stroke: #7a1f1f;
 }
 
+/* The prophet is the sole exceptional node: ivory card, a gold outer rim,
+   and a separate emerald inner rim. Caliphs retain the sovereign-node role
+   while using their own deep-emerald fill. */
+.person-node.tier-caliph:not(.illegitimate) .person-card {
+  fill: #0B6B3A;
+  stroke: #064d2b;
+}
+
+.person-node.tier-caliph:not(.illegitimate) .node-name,
+.person-node.tier-caliph:not(.illegitimate) .node-title,
+.person-node.tier-caliph:not(.illegitimate) .node-years,
+.person-node.tier-caliph:not(.illegitimate) .avatar-text,
+.person-node.tier-caliph:not(.illegitimate) .gender-mark {
+  fill: #fff;
+}
+
+.person-node.tier-prophet:not(.illegitimate) .person-card {
+  fill: #FFF8E8;
+  stroke: #B78B43;
+  stroke-width: 5;
+}
+
+.person-node.tier-prophet .prophet-inner-ring {
+  fill: none;
+  stroke: #0B6B3A;
+  stroke-width: 3;
+  pointer-events: none;
+}
+
+.person-node.tier-prophet:not(.illegitimate) .node-name,
+.person-node.tier-prophet:not(.illegitimate) .node-title,
+.person-node.tier-prophet:not(.illegitimate) .node-years,
+.person-node.tier-prophet:not(.illegitimate) .avatar-text,
+.person-node.tier-prophet:not(.illegitimate) .gender-mark {
+  fill: #0B6B3A;
+}
+
 .person-node.tier-king:not(.illegitimate) rect:not(.selection-glow),
 .person-node.tier-grand-duke:not(.illegitimate) rect:not(.selection-glow) {
   fill: #6f2026;
