@@ -77,17 +77,26 @@ type LineageEntry = {
   isDefault: boolean;
   showInDirectory?: boolean;
   directoryGroup: "kingdom" | "france" | "hre";
+  tradition?: "christian" | "islamic";
   theme?: "england" | "france" | "germany" | "castile" | "byzantium" | "rashidun" | "aragon" | "sicily" | "bohemia" | "denmark" | "navarre";
   emblem?: { src: string; alt: string };
 };
 
+type CatalogPlaceholder = {
+  id: string;
+  name: string;
+  nameCn: string;
+  tradition: "christian" | "islamic";
+  theme: "umayyad" | "abbasid" | "sweden" | "norway" | "poland" | "russia";
+};
+
 const LINEAGES: LineageEntry[] = [
-  { lineage: kingOfEngland, name: "Kingdom of England", nameCn: "英格兰王国", anchorId: "21b5ec21-1812-4731-8b03-721988be302f", isDefault: true, directoryGroup: "kingdom", theme: "england" },
-  { lineage: kingOfFrance, name: "Kingdom of France", nameCn: "法兰西王国", anchorId: "7cc009b6-08d8-459b-b40e-2921bf3e4580", isDefault: true, directoryGroup: "kingdom", theme: "france" },
-  { lineage: holyRomanEmperor, name: "Holy Roman Empire", nameCn: "神圣罗马帝国", anchorId: "3dd7dc1c-7473-495d-aac7-0c145d147ed9", isDefault: true, directoryGroup: "kingdom", theme: "germany" },
-  { lineage: byzantineEmpire, name: "Byzantine Empire", nameCn: "拜占庭帝国", anchorId: "1ce160f2-c91e-4a3c-9c39-01f49c7c221e", isDefault: true, directoryGroup: "kingdom", theme: "byzantium", emblem: { src: "/images/heraldry/title/late-roman-chi-rho.png", alt: "Chi-Rho emblem" } },
-  { lineage: kingdomOfCastile, name: "Kingdom of Castile", nameCn: "卡斯蒂利亚王国", anchorId: "c1026000-0000-4000-8000-000000000001", isDefault: true, directoryGroup: "kingdom", theme: "castile" },
-  { lineage: rashidunCaliphate, name: "Rashidun Caliphate", nameCn: "正统哈里发国", anchorId: "b54d8195-66ad-4668-b9dc-a117a2d9e51b", isDefault: true, directoryGroup: "kingdom", theme: "rashidun" },
+  { lineage: kingOfEngland, name: "Kingdom of England", nameCn: "英格兰王国", anchorId: "21b5ec21-1812-4731-8b03-721988be302f", isDefault: true, directoryGroup: "kingdom", tradition: "christian", theme: "england" },
+  { lineage: kingOfFrance, name: "Kingdom of France", nameCn: "法兰西王国", anchorId: "7cc009b6-08d8-459b-b40e-2921bf3e4580", isDefault: true, directoryGroup: "kingdom", tradition: "christian", theme: "france" },
+  { lineage: holyRomanEmperor, name: "Holy Roman Empire", nameCn: "神圣罗马帝国", anchorId: "3dd7dc1c-7473-495d-aac7-0c145d147ed9", isDefault: true, directoryGroup: "kingdom", tradition: "christian", theme: "germany" },
+  { lineage: byzantineEmpire, name: "Byzantine Empire", nameCn: "拜占庭帝国", anchorId: "1ce160f2-c91e-4a3c-9c39-01f49c7c221e", isDefault: true, directoryGroup: "kingdom", tradition: "christian", theme: "byzantium", emblem: { src: "/images/heraldry/title/late-roman-chi-rho.png", alt: "Chi-Rho emblem" } },
+  { lineage: kingdomOfCastile, name: "Kingdom of Castile", nameCn: "卡斯蒂利亚王国", anchorId: "c1026000-0000-4000-8000-000000000001", isDefault: true, directoryGroup: "kingdom", tradition: "christian", theme: "castile" },
+  { lineage: rashidunCaliphate, name: "Rashidun Caliphate", nameCn: "正统哈里发国", anchorId: "b54d8195-66ad-4668-b9dc-a117a2d9e51b", isDefault: true, directoryGroup: "kingdom", tradition: "islamic", theme: "rashidun" },
   { lineage: kingOfScotland, name: "Kingdom of Scotland", nameCn: "苏格兰王国", anchorId: "086c99e5-0a45-493c-aee1-4dc08057197f", isDefault: false, directoryGroup: "kingdom" },
   { lineage: kingOfEastFrancia, name: "East Francia", nameCn: "东法兰克", anchorId: "140ea34c-2546-4e55-bed6-fa8b7fbd9848", isDefault: false, directoryGroup: "kingdom" },
   { lineage: kingdomOfSicily, name: "Kingdom of Sicily", nameCn: "西西里王国", anchorId: "5b57dd7c-5717-4f3a-8a6c-e8c26a2bbaef", isDefault: true, directoryGroup: "kingdom", theme: "sicily" },
@@ -108,6 +117,17 @@ const LINEAGES: LineageEntry[] = [
   { lineage: duchyOfBavaria, name: "Duchy of Bavaria", nameCn: "巴伐利亚公国", anchorId: "58be4d4c-d7ff-470a-953f-48e5a9401cec", isDefault: false, directoryGroup: "hre" },
   { lineage: duchyOfAustria, name: "Duchy of Austria", nameCn: "奥地利公国", anchorId: "268c6586-a041-4aa7-9d66-92a7af3c4ac6", isDefault: false, directoryGroup: "hre" },
   { lineage: countyOfHainaut, name: "County of Hainaut", nameCn: "埃诺伯国", anchorId: "f1010000-0000-4000-8000-000000000001", isDefault: false, directoryGroup: "hre" },
+];
+
+// These are deliberately visual entrances only.  Their succession chains will
+// become selectable once the corresponding title data is added.
+const CATALOG_PLACEHOLDERS: CatalogPlaceholder[] = [
+  { id: "kingdom-of-sweden", name: "Kingdom of Sweden", nameCn: "瑞典王国", tradition: "christian", theme: "sweden" },
+  { id: "kingdom-of-norway", name: "Kingdom of Norway", nameCn: "挪威王国", tradition: "christian", theme: "norway" },
+  { id: "kingdom-of-poland", name: "Kingdom of Poland", nameCn: "波兰王国", tradition: "christian", theme: "poland" },
+  { id: "kingdom-of-russia", name: "俄罗斯", nameCn: "俄罗斯", tradition: "christian", theme: "russia" },
+  { id: "umayyad-caliphate", name: "Umayyad Caliphate", nameCn: "伍麦叶哈里发国", tradition: "islamic", theme: "umayyad" },
+  { id: "abbasid-caliphate", name: "Abbasid Caliphate", nameCn: "阿拔斯哈里发国", tradition: "islamic", theme: "abbasid" },
 ];
 
 export function TitlePage({
@@ -140,6 +160,7 @@ export function TitlePage({
   const [isDirectoryOpen, setDirectoryOpen] = useState(false);
   const [titleSearch, setTitleSearch] = useState("");
   const [catalogPage, setCatalogPage] = useState(0);
+  const [catalogTradition, setCatalogTradition] = useState<"christian" | "islamic">("christian");
   const titleShellRef = useRef<HTMLDivElement | null>(null);
 
   const isCn = language === "cn";
@@ -152,11 +173,19 @@ export function TitlePage({
 
   const catalogPageSize = 10;
   const featuredLineageOrder = ["king-of-england", "king-of-france", "holy-roman-emperor", "byzantine-empire", "kingdom-of-castile", "rashidun-caliphate", "kingdom-of-aragon", "kingdom-of-sicily", "kingdom-of-bohemia", "kingdom-of-denmark", "king-of-navarre"];
+  // The catalogue's upper tabs divide traditions.  Its lower pager only moves
+  // through titles within the selected tradition; search intentionally stays global.
   const catalogLineages = LINEAGES
-    .filter((entry) => (titleQuery ? isLineageVisible(entry) : entry.isDefault))
+    .filter((entry) => titleQuery
+      ? isLineageVisible(entry)
+      : entry.isDefault && (entry.tradition ?? "christian") === catalogTradition)
     .sort((a, b) => titleQuery ? 0 : featuredLineageOrder.indexOf(a.lineage.id) - featuredLineageOrder.indexOf(b.lineage.id));
-  const catalogPageCount = titleQuery ? 1 : Math.max(1, Math.ceil(catalogLineages.length / catalogPageSize));
+  const catalogPlaceholders = titleQuery ? [] : CATALOG_PLACEHOLDERS.filter((entry) => entry.tradition === catalogTradition);
+  const catalogPageCount = titleQuery ? 1 : Math.max(1, Math.ceil((catalogLineages.length + catalogPlaceholders.length) / catalogPageSize));
   const visibleLineages = titleQuery ? catalogLineages : catalogLineages.slice(catalogPage * catalogPageSize, (catalogPage + 1) * catalogPageSize);
+  const placeholderStart = Math.max(0, catalogPage * catalogPageSize - catalogLineages.length);
+  const placeholderEnd = Math.max(0, (catalogPage + 1) * catalogPageSize - catalogLineages.length);
+  const visiblePlaceholders = titleQuery ? [] : catalogPlaceholders.slice(placeholderStart, placeholderEnd);
   const lineageStartYear = (lineage: TitleLineage) => Number(lineage.nameForms[0]?.fromYear || lineage.holders[0]?.startYear || Infinity);
   const directoryLineages = (group: LineageEntry["directoryGroup"]) => LINEAGES
     .filter((entry) => (!entry.isDefault || entry.showInDirectory) && entry.directoryGroup === group)
@@ -205,7 +234,7 @@ export function TitlePage({
     <main className="title-page">
       <div className="title-page-topbar">
         <div className="topbar-actions">
-          <PageTabs page="titles" onHome={onHome} onTree={onTree} onTitles={() => { setLineageOpen(false); setTitleSearch(""); setCatalogPage(0); }} />
+          <PageTabs page="titles" onHome={onHome} onTree={onTree} onTitles={() => { setLineageOpen(false); setTitleSearch(""); setCatalogTradition("christian"); setCatalogPage(0); }} />
           <div className="language-toggle" aria-label={t.language}>
             <button type="button" className={language === "en" ? "active" : ""} onClick={() => setLanguage("en")}>EN</button>
             <button type="button" className={language === "cn" ? "active" : ""} onClick={() => setLanguage("cn")}>CN</button>
@@ -328,16 +357,40 @@ export function TitlePage({
               <span aria-hidden="true">☷</span>{t.titleDirectory}
             </button>
           </div>
+          {!titleQuery && (
+            <nav className="title-catalog-traditions" aria-label={isCn ? "头衔文明分区" : "Title traditions"}>
+              <button
+                type="button"
+                className={catalogTradition === "christian" ? "active" : ""}
+                onClick={() => { setCatalogTradition("christian"); setCatalogPage(0); }}
+                aria-pressed={catalogTradition === "christian"}
+              >{isCn ? "基督教" : "Christian"}</button>
+              <button
+                type="button"
+                className={catalogTradition === "islamic" ? "active" : ""}
+                onClick={() => { setCatalogTradition("islamic"); setCatalogPage(0); }}
+                aria-pressed={catalogTradition === "islamic"}
+              >{isCn ? "伊斯兰教" : "Islamic"}</button>
+            </nav>
+          )}
           <div className="title-catalog-results">
-            {visibleLineages.length > 0 ? (
-              visibleLineages.map((entry) => (
+            {visibleLineages.length > 0 || visiblePlaceholders.length > 0 ? (
+              <>
+              {visibleLineages.map((entry) => (
                 <div key={entry.lineage.id} className="title-catalog-entry">
                   <button type="button" className={`title-entry-card title-entry-card--reserved${entry.theme ? ` title-entry-card--${entry.theme}` : ""}`} onClick={() => openLineage(entry)} aria-label={`${t.select} ${isCn ? entry.nameCn : entry.name}`}>
                     {entry.emblem && <span className="title-entry-emblem-frame"><img className="title-entry-emblem" src={entry.emblem.src} alt={entry.emblem.alt} /></span>}
                   </button>
                   <p className="title-entry-note">{isCn ? entry.nameCn : entry.name}</p>
                 </div>
-              ))
+              ))}
+              {visiblePlaceholders.map((entry) => (
+                  <div key={entry.id} className="title-catalog-entry title-catalog-entry--placeholder">
+                    <div className={`title-entry-placeholder title-entry-placeholder--${entry.theme}`} aria-label={isCn ? entry.nameCn : entry.name} />
+                    <p className="title-entry-note">{isCn ? entry.nameCn : entry.name}</p>
+                  </div>
+                ))}
+              </>
             ) : <p className="title-search-empty">{t.noMatchingTitles}</p>}
           </div>
           {!titleQuery && catalogPageCount > 1 && (

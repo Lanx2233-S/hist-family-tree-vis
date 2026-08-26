@@ -93,6 +93,31 @@
   width: min(100%, 660px);
 }
 
+/* The catalogue is divided above the grid; paging below it never mixes the
+   Christian and Islamic title sets. */
+.title-catalog-traditions {
+  display: inline-flex;
+  width: fit-content;
+  overflow: hidden;
+  border: 1px solid #8b6b43;
+  border-radius: 8px;
+  background: rgba(255, 248, 232, 0.62);
+}
+
+.title-catalog-traditions button {
+  border: 0;
+  border-right: 1px solid rgba(139, 107, 67, 0.58);
+  padding: 9px 18px;
+  background: transparent;
+  color: #6f5a3c;
+  cursor: pointer;
+  font: inherit;
+  font-weight: 800;
+}
+
+.title-catalog-traditions button:last-child { border-right: 0; }
+.title-catalog-traditions button.active { background: #6f2026; color: #fff8e8; }
+
 .title-catalog-search-row .title-search-field {
   flex: 1 1 360px;
 }
@@ -180,16 +205,16 @@
 
 .title-catalog-entry {
   display: grid;
-  grid-template-columns: 90px minmax(0, 1fr);
+  grid-template-columns: 120px minmax(0, 1fr);
   align-items: center;
   gap: 24px;
   min-height: 90px;
 }
 
 .title-catalog-results .title-entry-card {
-  width: 90px;
-  min-height: 90px;
-  aspect-ratio: 1;
+  width: 120px;
+  min-height: 80px;
+  aspect-ratio: 3 / 2;
   align-content: center;
   padding: 20px;
 }
@@ -200,6 +225,22 @@
   justify-content: center;
   align-content: center;
 }
+
+.title-entry-placeholder {
+  width: 120px;
+  min-height: 80px;
+  aspect-ratio: 3 / 2;
+  border: 2px solid #8b6b43;
+  border-radius: 8px;
+  box-shadow: 0 14px 34px rgba(55, 35, 20, 0.16);
+}
+
+.title-entry-placeholder--umayyad { background: #fff url("/images/heraldry/title/umayyad-caliphate-solid.png") center / 100% auto no-repeat; }
+.title-entry-placeholder--abbasid { border-color: #17130f; background: #17130f url("/images/heraldry/title/abbasid-caliphate-solid.png") center / 100% auto no-repeat; }
+.title-entry-placeholder--sweden { border-color: #005293; background: #005293 url("/images/heraldry/title/kingdom-of-sweden.png") center / 100% auto no-repeat; }
+.title-entry-placeholder--norway { border-color: #8d0927; background: #c50b1e url("/images/heraldry/title/kingdom-of-norway.png") center / 100% auto no-repeat; }
+.title-entry-placeholder--poland { border-color: #8b6b43; background: #fff; }
+.title-entry-placeholder--russia { border-color: #00316b; background: #0039A6; }
 
 .title-entry-emblem-frame {
   position: relative;
@@ -365,30 +406,30 @@
 }
 
 /* Keep the visible title entrances aligned with the five homepage spheres. */
-.title-entry-card--england { background: #7b1f2a url("/images/heraldry/title/kingdom-of-england-three-lions.png") center / 100% no-repeat; }
-.title-entry-card--france { background: #183b70 url("/images/heraldry/title/kingdom-of-france-fleur-de-lis.png") center / 100% no-repeat; }
-.title-entry-card--germany { background: #53655a; }
-.title-entry-card--castile { background: #d59a12; color: #2d1b05; }
-.title-entry-card--byzantium { background: #72264f url("/images/heraldry/title/late-roman-chi-rho.png") center / 120% no-repeat; }
-.title-entry-card--rashidun { background: #0B6B3A url("/images/heraldry/title/rashidun-caliphate-calligraphy.png") center / 100% no-repeat; }
-.title-entry-card--aragon { background: #C73A2B; }
-.title-entry-card--sicily { background: #E8C978; }
-.title-entry-card--bohemia { background: #8A1C2A; }
-.title-entry-card--denmark { background: #C60C30; }
-.title-entry-card--navarre { background: #9D1B2A; }
+.title-entry-card--england { background: #c80f25 url("/images/heraldry/title/kingdom-of-england-three-lions.png") center / 100% auto no-repeat; }
+.title-entry-card--france { background: #04377d url("/images/heraldry/title/kingdom-of-france-fleur-de-lis.png") center / 100% auto no-repeat; }
+.title-entry-card--germany { background: #ffcc21 url("/images/heraldry/title/holy-roman-empire.png") center / 100% auto no-repeat; }
+.title-entry-card--castile { background: #d59a12 url("/images/heraldry/title/kingdom-of-castile.png") center / 100% auto no-repeat; color: #2d1b05; }
+.title-entry-card--byzantium { background: #710878 url("/images/heraldry/title/late-roman-chi-rho.png") center / 100% auto no-repeat; }
+.title-entry-card--rashidun { background: #08643b url("/images/heraldry/title/rashidun-caliphate-solid.png") center / 100% auto no-repeat; }
+.title-entry-card--aragon { background: #ffe000 url("/images/heraldry/title/kingdom-of-aragon.png") center / 100% auto no-repeat; }
+.title-entry-card--sicily { background: #e8c978 url("/images/heraldry/title/kingdom-of-sicily.png") center / 100% auto no-repeat; }
+.title-entry-card--bohemia { background: #ba2b1a url("/images/heraldry/title/kingdom-of-bohemia.png") center / 100% auto no-repeat; }
+.title-entry-card--denmark { background: #c8102e url("/images/heraldry/title/kingdom-of-denmark.png") center / 100% auto no-repeat; }
+.title-entry-card--navarre { background: #9d1b2a url("/images/heraldry/title/kingdom-of-navarre.png") center / 100% auto no-repeat; }
 .title-entry-card--castile .title-entry-name-cn { color: rgba(45, 27, 5, 0.72); }
 
 .title-entry-card--england:hover { background-color: #5f1420; }
 .title-entry-card--france:hover { background-color: #102c56; }
-.title-entry-card--germany:hover { background: #3d4d43; }
-.title-entry-card--castile:hover { background: #aa7808; }
+.title-entry-card--germany:hover { background-color: #e0ad13; }
+.title-entry-card--castile:hover { background-color: #aa7808; }
 .title-entry-card--byzantium:hover { background-color: #561a3a; }
 .title-entry-card--rashidun:hover { background-color: #08522d; }
-.title-entry-card--aragon:hover { background: #9f2c21; }
-.title-entry-card--sicily:hover { background: #d4ae57; }
-.title-entry-card--bohemia:hover { background: #681420; }
-.title-entry-card--denmark:hover { background: #980921; }
-.title-entry-card--navarre:hover { background: #741421; }
+.title-entry-card--aragon:hover { background-color: #d8b700; }
+.title-entry-card--sicily:hover { background-color: #d4ae57; }
+.title-entry-card--bohemia:hover { background-color: #8f2114; }
+.title-entry-card--denmark:hover { background-color: #9d0c24; }
+.title-entry-card--navarre:hover { background-color: #741421; }
 
 .title-entry-name {
   font-size: 1.25rem;
