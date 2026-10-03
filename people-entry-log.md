@@ -1,7 +1,7 @@
 # 人物录入索引（People Entry Log）
 
-> 当前总人数：689
-> 分配日期：20260815 = 53 人；20260816 = 53 人；20260817 = 53 人；20260818 = 53 人；20260819 = 51 人；20260820 = 71 人；20260821 = 14 人；20260822 = 80 人；20260823 = 196 人；20260824 = 65 人
+> 当前总人数：710
+> 分配日期：20260815 = 53 人；20260816 = 53 人；20260817 = 53 人；20260818 = 53 人；20260819 = 51 人；20260820 = 71 人；20260821 = 14 人；20260822 = 80 人；20260823 = 196 人；20260824 = 65 人；20260827 = 21 人
 > 数据来源：`src/data/people/manifest.json` 及其引用的全部人员 JSON 文件
 > 字段说明：姓名 = `displayName`；UUID = `id`；自定义序号 = `YYYYMMDDNNN`（录入日期 + 当日按总序号排列的三位流水号）；总序号 = `manifest.order` 顺序；重要度评分 = `historicalRating`
 
@@ -631,31 +631,31 @@
 | Manuel I Komnenos | `b894fb91-7dd5-4462-a0b8-df3846062080` | 20260823057 | 622 | 9星 |
 | Isaac Komnenos | `5b070791-d6ff-47eb-954d-74619dea5c6e` | 20260823058 | 623 | 5星 |
 | John Komnenos, governor of Cyprus | `c91c5e64-6f01-4677-b119-19a2fdecb854` | 20260823059 | 624 | 5星 |
-| Basil I the Macedonian | `0f8ba64a-0d93-48bf-b04d-2f81f5c267da` | 20260824141 | 625 | 9星 |
-| Leo VI the Wise | `b7f90af9-83ba-4fd2-b669-210944dc19ae` | 20260824142 | 626 | 8星 |
-| Alexander | `571b3f06-c957-4868-8962-4d7cb1947e80` | 20260824143 | 627 | 5星 |
-| Constantine VII Porphyrogenitus | `8e6a73d3-f2e0-44f5-8ec1-d3b221576923` | 20260824144 | 628 | 8星 |
-| Romanos I Lekapenos | `e598440b-92fd-43a6-9c17-3308a9373c78` | 20260824145 | 629 | 7星 |
-| Romanos II | `145cac5a-0fef-44db-8950-17bb38a81778` | 20260824146 | 630 | 6星 |
-| Nikephoros II Phokas | `d8e73392-b466-44ec-942d-3a8c110575f0` | 20260824147 | 631 | 8星 |
-| John I Tzimiskes | `980ef7d7-0105-4cc4-9ac6-7a414814deb0` | 20260824148 | 632 | 8星 |
-| Basil II Bulgar-Slayer | `52c7baf1-d8ad-4326-a034-8de7e8c02a95` | 20260824149 | 633 | 10星 |
-| Constantine VIII | `ddea7fce-59ff-4313-8e29-d7e771a05d45` | 20260824150 | 634 | 6星 |
-| Romanos III Argyros | `b63effda-1294-4e0c-9800-3c444c1ac570` | 20260824151 | 635 | 6星 |
-| Michael IV the Paphlagonian | `f2b4363d-7dec-422c-8623-a71ce3aaef05` | 20260824152 | 636 | 6星 |
-| Michael V Kalaphates | `572da624-3a53-4ad4-b50f-6fb7d3158e06` | 20260824153 | 637 | 5星 |
-| Zoe Porphyrogenita | `4554ad22-b277-438b-a5ce-9d54c2547cb1` | 20260824154 | 638 | 8星 |
-| Theodora Porphyrogenita | `cee65c91-7a93-4f45-8557-a0412ff3f2af` | 20260824155 | 639 | 7星 |
-| Constantine IX Monomachos | `de635b11-ba41-4e9c-8b14-948282733529` | 20260824156 | 640 | 7星 |
-| Michael VI Bringas | `c7a1c16c-094a-4f47-a055-b536cb722d98` | 20260824157 | 641 | 5星 |
-| Isaac I Komnenos | `4325a708-c93c-48d8-8f5a-42421b6ca624` | 20260824158 | 642 | 7星 |
-| Constantine X Doukas | `c62527e9-cd48-45f9-bde9-62df12ed3603` | 20260824159 | 643 | 6星 |
-| Eudokia Makrembolitissa | `b83d7598-8304-4d4b-8735-e746ff8d6e56` | 20260824160 | 644 | 6星 |
-| Romanos IV Diogenes | `f5e4134e-24da-40f1-adc2-6bca28520b78` | 20260824161 | 645 | 7星 |
-| Michael VII Doukas | `0f478f9b-8bf3-4a0b-8cc9-caae43abee73` | 20260824162 | 646 | 6星 |
-| Nikephoros III Botaneiates | `70b47f79-d621-4605-abad-57f2abcac0fb` | 20260824163 | 647 | 6星 |
-| Theophano | `cf21bd17-752e-4b1f-a90c-4713769b7fcf` | 20260824164 | 648 | 8星 |
-| Theodora, daughter of Constantine VII | `04e07f57-1226-456e-a5ea-3372eac28e14` | 20260824165 | 649 | 5星 |
+| Basil I the Macedonian | `0f8ba64a-0d93-48bf-b04d-2f81f5c267da` | 20260824060 | 625 | 9星 |
+| Leo VI the Wise | `b7f90af9-83ba-4fd2-b669-210944dc19ae` | 20260824061 | 626 | 8星 |
+| Alexander | `571b3f06-c957-4868-8962-4d7cb1947e80` | 20260824062 | 627 | 5星 |
+| Constantine VII Porphyrogenitus | `8e6a73d3-f2e0-44f5-8ec1-d3b221576923` | 20260824063 | 628 | 8星 |
+| Romanos I Lekapenos | `e598440b-92fd-43a6-9c17-3308a9373c78` | 20260824064 | 629 | 7星 |
+| Romanos II | `145cac5a-0fef-44db-8950-17bb38a81778` | 20260824065 | 630 | 6星 |
+| Nikephoros II Phokas | `d8e73392-b466-44ec-942d-3a8c110575f0` | 20260824066 | 631 | 8星 |
+| John I Tzimiskes | `980ef7d7-0105-4cc4-9ac6-7a414814deb0` | 20260824067 | 632 | 8星 |
+| Basil II Bulgar-Slayer | `52c7baf1-d8ad-4326-a034-8de7e8c02a95` | 20260824068 | 633 | 10星 |
+| Constantine VIII | `ddea7fce-59ff-4313-8e29-d7e771a05d45` | 20260824069 | 634 | 6星 |
+| Romanos III Argyros | `b63effda-1294-4e0c-9800-3c444c1ac570` | 20260824070 | 635 | 6星 |
+| Michael IV the Paphlagonian | `f2b4363d-7dec-422c-8623-a71ce3aaef05` | 20260824071 | 636 | 6星 |
+| Michael V Kalaphates | `572da624-3a53-4ad4-b50f-6fb7d3158e06` | 20260824072 | 637 | 5星 |
+| Zoe Porphyrogenita | `4554ad22-b277-438b-a5ce-9d54c2547cb1` | 20260824073 | 638 | 8星 |
+| Theodora Porphyrogenita | `cee65c91-7a93-4f45-8557-a0412ff3f2af` | 20260824074 | 639 | 7星 |
+| Constantine IX Monomachos | `de635b11-ba41-4e9c-8b14-948282733529` | 20260824075 | 640 | 7星 |
+| Michael VI Bringas | `c7a1c16c-094a-4f47-a055-b536cb722d98` | 20260824076 | 641 | 5星 |
+| Isaac I Komnenos | `4325a708-c93c-48d8-8f5a-42421b6ca624` | 20260824077 | 642 | 7星 |
+| Constantine X Doukas | `c62527e9-cd48-45f9-bde9-62df12ed3603` | 20260824078 | 643 | 6星 |
+| Eudokia Makrembolitissa | `b83d7598-8304-4d4b-8735-e746ff8d6e56` | 20260824079 | 644 | 6星 |
+| Romanos IV Diogenes | `f5e4134e-24da-40f1-adc2-6bca28520b78` | 20260824080 | 645 | 7星 |
+| Michael VII Doukas | `0f478f9b-8bf3-4a0b-8cc9-caae43abee73` | 20260824081 | 646 | 6星 |
+| Nikephoros III Botaneiates | `70b47f79-d621-4605-abad-57f2abcac0fb` | 20260824082 | 647 | 6星 |
+| Theophano | `cf21bd17-752e-4b1f-a90c-4713769b7fcf` | 20260824648 | 648 | 8星 |
+| Theodora, daughter of Constantine VII | `04e07f57-1226-456e-a5ea-3372eac28e14` | 20260824649 | 649 | 5星 |
 | Henry I of Castile | `adf5bf6b-be23-47c6-8e20-61bf25ab6e87` | 20260824650 | 650 | 5星 |
 | Berengaria of Castile | `1dc9b477-532f-4b5a-a7ce-6a77980575b2` | 20260824651 | 651 | 7星 |
 | Ferdinand III of Castile | `0e6f4806-97e9-4338-973c-dae9a9a07015` | 20260824652 | 652 | 9星 |
@@ -696,7 +696,33 @@
 | Abū Bakr al-Ṣiddīq | `1173bc8b-b203-44b7-9f15-8f5c832d3c66` | 20260824687 | 687 | 8星 |
 | ʿUmar ibn al-Khaṭṭāb | `307c1615-5644-4df8-82eb-dea0207ed558` | 20260824688 | 688 | 9星 |
 | ʿUthmān ibn ʿAffān | `8b85eeac-4695-4bc1-ae46-2d65e7d22dd5` | 20260824689 | 689 | 8星 |
+| Mieszko I | `617806ef-4ee0-42ce-a97d-39e5b2002f8e` | 20260827001 | 690 | 7星 |
+| Bolesław I the Brave | `173399fc-9638-47c2-935a-dcef2c77c404` | 20260827002 | 691 | 8星 |
+| Mieszko II Lambert | `53a679c8-45c8-4bc6-b540-83dec42845b5` | 20260827003 | 692 | 7星 |
+| Bezprym | `d6b1c226-b5e6-424b-b872-e3adda4a4b7b` | 20260827004 | 693 | 5星 |
+| Casimir I the Restorer | `800e0d57-80df-4b89-9f8a-6b21e77b5307` | 20260827005 | 694 | 8星 |
+| Bolesław II the Bold | `584ce436-4baa-44b5-9c86-555de4b0d56d` | 20260827006 | 695 | 7星 |
+| Władysław I Herman | `9a906377-7845-4631-bf6b-3d1ef01cfef6` | 20260827007 | 696 | 6星 |
+| Bolesław III Wrymouth | `99d80bf9-a3aa-401c-ba6e-735b44235ba4` | 20260827008 | 697 | 8星 |
+| Władysław II the Exile | `d0fdd877-dc00-48b9-9763-5447124418b3` | 20260827009 | 698 | 6星 |
+| Bolesław IV the Curly | `6332e15d-9d93-45f6-a680-2a9f13bea6ca` | 20260827010 | 699 | 6星 |
+| Mieszko III the Old | `3c2adb50-371a-4669-b860-638e358e9912` | 20260827011 | 700 | 7星 |
+| Casimir II the Just | `9398b1e2-68f9-45b7-a414-ef63f11687cb` | 20260827012 | 701 | 7星 |
+| Leszek I the White | `58000516-146f-4b4a-bcbc-ff22faffadbf` | 20260827013 | 702 | 7星 |
+| Władysław III Spindleshanks | `8ad299b1-90a4-42f6-a360-823463866021` | 20260827014 | 703 | 6星 |
+| Henry I the Bearded | `ee33916a-5e60-4295-92a1-86bb78362c75` | 20260827015 | 704 | 7星 |
+| Henry II the Pious | `e7450099-b6f6-4b47-ac96-00efe6a956a4` | 20260827016 | 705 | 8星 |
+| Konrad I of Masovia | `65d04dba-a66f-4061-9340-7176ecf56d1f` | 20260827017 | 706 | 6星 |
+| Bolesław V the Chaste | `fc86e0a6-4656-4127-8167-9e0fb2f8ad98` | 20260827018 | 707 | 6星 |
+| Leszek II the Black | `b57386b9-8f31-4990-9125-7d0e7f7a55b7` | 20260827019 | 708 | 6星 |
+| Henry IV Probus | `dc26e7c3-51b9-4365-b779-04a7c873bb35` | 20260827020 | 709 | 7星 |
+| Przemysł II | `a39e3b4d-8aaf-4f82-a721-6de4c3a50da8` | 20260827021 | 710 | 8星 |
+| Władysław I the Elbow-high | `418c7ec4-c833-4159-9233-89a616c29d20` | 20260827022 | 711 | 8星 |
+| Casimir III the Great | `867cadf3-9cc8-44a7-a183-faa994628a6d` | 20260827023 | 712 | 9星 |
+| Louis I of Hungary | `2c08f527-bd3a-45f3-bb6c-d2b57fcf78d2` | 20260827024 | 713 | 7星 |
+| Jadwiga of Poland | `1e16a1f9-4f38-475c-98af-240ebaf2824c` | 20260827025 | 714 | 8星 |
+| Władysław II Jagiełło | `877637eb-5718-4a4c-8528-fd40762899a5` | 20260827026 | 715 | 9星 |
 
 ## 校验结果
 
-- 人数：689；UUID 与 manifest.order 一一对应；总序号连续 1→689。
+- 人数：715；UUID 与 manifest.order 一一对应；总序号连续 1→715。

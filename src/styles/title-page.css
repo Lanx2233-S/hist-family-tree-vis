@@ -42,6 +42,66 @@
   gap: 22px;
 }
 
+/* A restrained 2.5D parchment surface: the paper remains a CSS layer, while
+   the pointer only moves the reflected light—no raster texture is required. */
+.title-catalog--parchment {
+  --parchment-x: 50%;
+  --parchment-y: 38%;
+  position: relative;
+  isolation: isolate;
+  overflow: hidden;
+  border: 1px solid rgba(101, 67, 30, 0.48);
+  border-radius: 18px 18px 14px 14px;
+  padding: clamp(24px, 4vw, 48px);
+  background:
+    radial-gradient(ellipse 115% 82% at var(--parchment-x) var(--parchment-y), rgba(255, 250, 218, 0.9), transparent 49%),
+    radial-gradient(ellipse at 8% 98%, rgba(86, 48, 18, 0.18), transparent 42%),
+    radial-gradient(ellipse at 92% 8%, rgba(117, 70, 22, 0.12), transparent 34%),
+    repeating-linear-gradient(7deg, rgba(101, 67, 30, 0.035) 0 1px, transparent 1px 5px),
+    repeating-linear-gradient(93deg, rgba(255, 255, 255, 0.16) 0 1px, transparent 1px 8px),
+    linear-gradient(105deg, #d8bc80 0%, #f8e8bc 9%, #f1d99e 50%, #f8e8bd 89%, #c69d5f 100%);
+  box-shadow:
+    inset 0 0 0 2px rgba(255, 246, 207, 0.42),
+    inset 0 0 38px rgba(80, 48, 18, 0.22),
+    0 24px 48px rgba(54, 27, 13, 0.18);
+  transition: box-shadow 360ms ease;
+}
+
+.title-catalog--parchment::before,
+.title-catalog--parchment::after {
+  position: absolute;
+  z-index: -1;
+  content: "";
+  pointer-events: none;
+}
+
+.title-catalog--parchment::before {
+  inset: 9px;
+  border: 1px solid rgba(103, 65, 27, 0.45);
+  border-radius: 12px;
+  box-shadow: inset 0 0 13px rgba(80, 43, 14, 0.13);
+}
+
+.title-catalog--parchment::after {
+  inset: -20px -14px;
+  opacity: 0.54;
+  background:
+    radial-gradient(circle at 12% 24%, rgba(88, 46, 16, 0.22) 0 1px, transparent 2px),
+    radial-gradient(circle at 82% 71%, rgba(88, 46, 16, 0.17) 0 1px, transparent 2px),
+    radial-gradient(circle at 45% 89%, rgba(88, 46, 16, 0.14) 0 1px, transparent 2px);
+  background-size: 127px 113px, 173px 149px, 191px 179px;
+  mix-blend-mode: multiply;
+}
+
+.title-catalog--parchment:hover {
+  box-shadow:
+    inset 0 0 0 2px rgba(255, 246, 207, 0.52),
+    inset 0 0 42px rgba(80, 48, 18, 0.24),
+    0 30px 58px rgba(54, 27, 13, 0.24);
+}
+
+.title-catalog--parchment > * { position: relative; z-index: 1; }
+
 .title-catalog-header {
   display: grid;
   gap: 6px;
@@ -209,6 +269,12 @@
   align-items: center;
   gap: 24px;
   min-height: 90px;
+  transform: translateZ(0);
+  transition: transform 220ms ease;
+}
+
+.title-catalog--parchment .title-catalog-entry:hover {
+  transform: translate3d(0, -3px, 0);
 }
 
 .title-catalog-results .title-entry-card {
@@ -217,6 +283,16 @@
   aspect-ratio: 3 / 2;
   align-content: center;
   padding: 20px;
+  transform: perspective(620px) rotateX(1.5deg) rotateY(-2deg);
+  transform-origin: 50% 58%;
+  box-shadow: 0 12px 0 rgba(79, 45, 17, 0.1), 0 18px 24px rgba(70, 35, 15, 0.2);
+  transition: transform 220ms ease, box-shadow 220ms ease;
+}
+
+.title-catalog--parchment .title-entry-card:hover,
+.title-catalog--parchment .title-entry-card:focus-visible {
+  transform: perspective(620px) translate3d(0, -5px, 18px) rotateX(0) rotateY(0);
+  box-shadow: 0 16px 0 rgba(79, 45, 17, 0.1), 0 25px 34px rgba(70, 35, 15, 0.28);
 }
 
 .title-catalog-results .title-entry-card--reserved {
@@ -239,8 +315,8 @@
 .title-entry-placeholder--abbasid { border-color: #17130f; background: #17130f url("/images/heraldry/title/abbasid-caliphate-solid.png") center / 100% auto no-repeat; }
 .title-entry-placeholder--sweden { border-color: #005293; background: #005293 url("/images/heraldry/title/kingdom-of-sweden.png") center / 100% auto no-repeat; }
 .title-entry-placeholder--norway { border-color: #8d0927; background: #c50b1e url("/images/heraldry/title/kingdom-of-norway.png") center / 100% auto no-repeat; }
-.title-entry-placeholder--poland { border-color: #8b6b43; background: #fff; }
-.title-entry-placeholder--russia { border-color: #00316b; background: #0039A6; }
+.title-entry-placeholder--poland { border-color: #b91d37; background: #e01d3d url("/images/heraldry/title/kingdom-of-poland.png") center / 100% auto no-repeat; }
+.title-entry-placeholder--lithuania { border-color: #a31414; background: #e81b18 url("/images/heraldry/title/grand-duchy-of-lithuania.png") center / 100% auto no-repeat; }
 
 .title-entry-emblem-frame {
   position: relative;
@@ -417,6 +493,7 @@
 .title-entry-card--bohemia { background: #ba2b1a url("/images/heraldry/title/kingdom-of-bohemia.png") center / 100% auto no-repeat; }
 .title-entry-card--denmark { background: #c8102e url("/images/heraldry/title/kingdom-of-denmark.png") center / 100% auto no-repeat; }
 .title-entry-card--navarre { background: #9d1b2a url("/images/heraldry/title/kingdom-of-navarre.png") center / 100% auto no-repeat; }
+.title-entry-card--poland { background: #e01d3d url("/images/heraldry/title/kingdom-of-poland.png") center / 100% auto no-repeat; }
 .title-entry-card--castile .title-entry-name-cn { color: rgba(45, 27, 5, 0.72); }
 
 .title-entry-card--england:hover { background-color: #5f1420; }
@@ -428,6 +505,7 @@
 .title-entry-card--aragon:hover { background-color: #d8b700; }
 .title-entry-card--sicily:hover { background-color: #d4ae57; }
 .title-entry-card--bohemia:hover { background-color: #8f2114; }
+.title-entry-card--poland:hover { background-color: #b91d37; }
 .title-entry-card--denmark:hover { background-color: #9d0c24; }
 .title-entry-card--navarre:hover { background-color: #741421; }
 

@@ -27,6 +27,7 @@ import kingdomOfDenmarkData from "../data/titles/kingdom-of-denmark.json";
 import kingdomOfCastileData from "../data/titles/kingdom-of-castile.json";
 import kingdomOfAragonData from "../data/titles/kingdom-of-aragon.json";
 import kingdomOfBohemiaData from "../data/titles/kingdom-of-bohemia.json";
+import kingdomOfPolandData from "../data/titles/kingdom-of-poland.json";
 import byzantineEmpireData from "../data/titles/byzantine-empire.json";
 import rashidunCaliphateData from "../data/titles/rashidun-caliphate.json";
 
@@ -66,6 +67,7 @@ const kingdomOfDenmark = kingdomOfDenmarkData as unknown as TitleLineage;
 const kingdomOfCastile = kingdomOfCastileData as unknown as TitleLineage;
 const kingdomOfAragon = kingdomOfAragonData as unknown as TitleLineage;
 const kingdomOfBohemia = kingdomOfBohemiaData as unknown as TitleLineage;
+const kingdomOfPoland = kingdomOfPolandData as unknown as TitleLineage;
 const byzantineEmpire = byzantineEmpireData as unknown as TitleLineage;
 const rashidunCaliphate = rashidunCaliphateData as unknown as TitleLineage;
 
@@ -78,7 +80,7 @@ type LineageEntry = {
   showInDirectory?: boolean;
   directoryGroup: "kingdom" | "france" | "hre";
   tradition?: "christian" | "islamic";
-  theme?: "england" | "france" | "germany" | "castile" | "byzantium" | "rashidun" | "aragon" | "sicily" | "bohemia" | "denmark" | "navarre";
+  theme?: "england" | "france" | "germany" | "castile" | "byzantium" | "rashidun" | "aragon" | "sicily" | "bohemia" | "denmark" | "navarre" | "poland";
   emblem?: { src: string; alt: string };
 };
 
@@ -87,7 +89,7 @@ type CatalogPlaceholder = {
   name: string;
   nameCn: string;
   tradition: "christian" | "islamic";
-  theme: "umayyad" | "abbasid" | "sweden" | "norway" | "poland" | "russia";
+  theme: "umayyad" | "abbasid" | "sweden" | "norway" | "poland" | "lithuania";
 };
 
 const LINEAGES: LineageEntry[] = [
@@ -103,6 +105,7 @@ const LINEAGES: LineageEntry[] = [
   { lineage: kingdomOfDenmark, name: "Kingdom of Denmark", nameCn: "丹麦王国", anchorId: "c1019000-0000-4000-8000-000000000000", isDefault: true, directoryGroup: "kingdom", theme: "denmark" },
   { lineage: kingdomOfAragon, name: "Kingdom of Aragon", nameCn: "阿拉贡王国", anchorId: "e1010000-0000-4000-8000-000000000001", isDefault: true, directoryGroup: "kingdom", theme: "aragon" },
   { lineage: kingdomOfBohemia, name: "Kingdom of Bohemia", nameCn: "波希米亚王国", anchorId: "80b3801a-ffca-4136-ba92-293b6b976e85", isDefault: true, directoryGroup: "kingdom", theme: "bohemia" },
+  { lineage: kingdomOfPoland, name: "Kingdom of Poland", nameCn: "波兰王国", anchorId: "617806ef-4ee0-42ce-a97d-39e5b2002f8e", isDefault: true, directoryGroup: "kingdom", tradition: "christian", theme: "poland" },
   { lineage: duchyOfBurgundy, name: "Duchy of Burgundy", nameCn: "勃艮第公国", anchorId: duchyOfBurgundy.holders[0].personId ?? "", isDefault: false, directoryGroup: "france" },
   { lineage: duchyOfNormandy, name: "Duchy of Normandy", nameCn: "诺曼底公国", anchorId: duchyOfNormandy.holders[0].personId ?? "", isDefault: false, directoryGroup: "france" },
   { lineage: countyOfChampagne, name: "County of Champagne", nameCn: "香槟伯国", anchorId: "c7080000-0000-4000-8000-000000000008", isDefault: false, directoryGroup: "france" },
@@ -124,8 +127,7 @@ const LINEAGES: LineageEntry[] = [
 const CATALOG_PLACEHOLDERS: CatalogPlaceholder[] = [
   { id: "kingdom-of-sweden", name: "Kingdom of Sweden", nameCn: "瑞典王国", tradition: "christian", theme: "sweden" },
   { id: "kingdom-of-norway", name: "Kingdom of Norway", nameCn: "挪威王国", tradition: "christian", theme: "norway" },
-  { id: "kingdom-of-poland", name: "Kingdom of Poland", nameCn: "波兰王国", tradition: "christian", theme: "poland" },
-  { id: "kingdom-of-russia", name: "俄罗斯", nameCn: "俄罗斯", tradition: "christian", theme: "russia" },
+  { id: "grand-duchy-of-lithuania", name: "Grand Duchy of Lithuania", nameCn: "立陶宛大公国", tradition: "christian", theme: "lithuania" },
   { id: "umayyad-caliphate", name: "Umayyad Caliphate", nameCn: "伍麦叶哈里发国", tradition: "islamic", theme: "umayyad" },
   { id: "abbasid-caliphate", name: "Abbasid Caliphate", nameCn: "阿拔斯哈里发国", tradition: "islamic", theme: "abbasid" },
 ];
@@ -172,7 +174,7 @@ export function TitlePage({
       .some((label) => label.toLocaleLowerCase().includes(titleQuery));
 
   const catalogPageSize = 10;
-  const featuredLineageOrder = ["king-of-england", "king-of-france", "holy-roman-emperor", "byzantine-empire", "kingdom-of-castile", "rashidun-caliphate", "kingdom-of-aragon", "kingdom-of-sicily", "kingdom-of-bohemia", "kingdom-of-denmark", "king-of-navarre"];
+  const featuredLineageOrder = ["king-of-england", "king-of-france", "holy-roman-emperor", "byzantine-empire", "kingdom-of-castile", "rashidun-caliphate", "kingdom-of-aragon", "kingdom-of-sicily", "kingdom-of-bohemia", "kingdom-of-poland", "kingdom-of-denmark", "king-of-navarre"];
   // The catalogue's upper tabs divide traditions.  Its lower pager only moves
   // through titles within the selected tradition; search intentionally stays global.
   const catalogLineages = LINEAGES
@@ -207,6 +209,19 @@ export function TitlePage({
     setZoom(1);
     setDirectoryOpen(false);
     setLineageOpen(true);
+  }
+
+  function moveCatalogLight(event: React.PointerEvent<HTMLElement>) {
+    const bounds = event.currentTarget.getBoundingClientRect();
+    const x = ((event.clientX - bounds.left) / bounds.width) * 100;
+    const y = ((event.clientY - bounds.top) / bounds.height) * 100;
+    event.currentTarget.style.setProperty("--parchment-x", `${x}%`);
+    event.currentTarget.style.setProperty("--parchment-y", `${y}%`);
+  }
+
+  function resetCatalogLight(event: React.PointerEvent<HTMLElement>) {
+    event.currentTarget.style.removeProperty("--parchment-x");
+    event.currentTarget.style.removeProperty("--parchment-y");
   }
 
   function selectHolder(id: string) {
@@ -337,7 +352,7 @@ export function TitlePage({
         </section>
       </section>
       ) : (
-        <section className="title-catalog" aria-label={t.titleLineage}>
+        <section className="title-catalog title-catalog--parchment" aria-label={t.titleLineage} onPointerMove={moveCatalogLight} onPointerLeave={resetCatalogLight}>
           <header className="title-catalog-header">
             <p className="eyebrow">{t.titleLineage}</p>
             <h1>{t.titleLineage}</h1>

@@ -1,0 +1,22 @@
+[
+  {
+    "id":"877637eb-5718-4a4c-8528-fd40762899a5", "firstName":"Władysław", "lastName":"Jagiełło", "displayName":"Władysław II Jagiełło", "fullName":"Władysław II Jagiełło", "nickname":"", "alsoKnownAs":["Jogaila", "Władysław Jagiełło", "Wladyslaw II Jagiello"], "nicknameTags":[],
+    "displayNameCn":"瓦迪斯瓦夫二世·雅盖沃", "fullNameCn":"瓦迪斯瓦夫二世·雅盖沃", "nicknameCn":"", "birthYear":1351, "deathYear":1434, "birthPlace":"", "birthPlaceCn":"", "deathPlace":"Grodno", "deathPlaceCn":"格罗德诺", "gender":"male",
+    "dynasty":"Jagiellon dynasty", "house":"House of Jagiellon", "culture":"Lithuanian", "faith":"Catholic", "primaryTitle":"King of Poland", "primaryTitleCn":"波兰国王", "titles":[{"title":"Grand Duke of Lithuania","titleCn":"立陶宛大公","startYear":1377,"endYear":1401},{"title":"King of Poland","titleCn":"波兰国王","startYear":1386,"endYear":1434}],
+    "tags":["king","monarch","grand_duke","commander","founder"], "rank":"king", "importanceScore":96, "historicalRating":9,
+    "relationships":{"fatherId":"","motherId":"","spouseIds":["1e16a1f9-4f38-475c-98af-240ebaf2824c"],"partnerIds":[],"childIds":[]},
+    "events":[
+      {"year":1377,"type":"succession","tags":["succession","government"],"weight":85,"label":"Succeeded as Grand Duke of Lithuania","labelCn":"继承为立陶宛大公","wikiUrl":"https://en.wikipedia.org/wiki/Jogaila"},
+      {"year":1385,"month":8,"day":14,"type":"diplomacy","tags":["diplomacy","union"],"weight":100,"label":"Agreed to the Union of Krewo with Poland","labelCn":"同意与波兰缔结《克雷沃联合》","wikiUrl":"https://en.wikipedia.org/wiki/Union_of_Krewo"},
+      {"year":1386,"month":2,"day":15,"type":"religion","tags":["religion","conversion"],"weight":90,"label":"Was baptized into Catholicism as Władysław","labelCn":"受洗加入天主教并取名瓦迪斯瓦夫","wikiUrl":"https://en.wikipedia.org/wiki/W%C5%82adys%C5%82aw_II_Jagie%C5%82%C5%82o"},
+      {"year":1386,"month":2,"day":18,"type":"marriage","tags":["marriage","dynastic_alliance"],"weight":100,"label":"Married Jadwiga, King of Poland","labelCn":"与波兰国王（女王）雅德维嘉成婚","wikiUrl":"https://en.wikipedia.org/wiki/W%C5%82adys%C5%82aw_II_Jagie%C5%82%C5%82o"},
+      {"year":1386,"month":3,"day":4,"type":"coronation","tags":["coronation","monarch"],"weight":100,"label":"Was crowned King of Poland at Kraków","labelCn":"在克拉科夫加冕为波兰国王","wikiUrl":"https://en.wikipedia.org/wiki/W%C5%82adys%C5%82aw_II_Jagie%C5%82%C5%82o"},
+      {"year":1387,"type":"religion","tags":["religion","government"],"weight":85,"label":"Advanced Lithuania's official Christianization","labelCn":"推进立陶宛的官方基督教化","wikiUrl":"https://en.wikipedia.org/wiki/Christianization_of_Lithuania"},
+      {"year":1401,"type":"diplomacy","tags":["diplomacy","union"],"weight":80,"label":"Renewed the Polish–Lithuanian union at Vilnius and Radom","labelCn":"通过维尔纽斯—拉多姆联合重申波兰—立陶宛联盟","wikiUrl":"https://en.wikipedia.org/wiki/Union_of_Vilnius_and_Radom"},
+      {"year":1410,"month":7,"day":15,"type":"battle","tags":["battle","commander"],"weight":100,"label":"Defeated the Teutonic Order at Grunwald","labelCn":"在格伦瓦尔德击败条顿骑士团","wikiUrl":"https://en.wikipedia.org/wiki/Battle_of_Grunwald"},
+      {"year":1413,"month":10,"day":2,"type":"diplomacy","tags":["diplomacy","union"],"weight":85,"label":"Strengthened the union through the Union of Horodło","labelCn":"通过《霍罗德沃联合》加强联盟","wikiUrl":"https://en.wikipedia.org/wiki/Union_of_Horod%C5%82o"},
+      {"year":1434,"month":6,"day":1,"type":"death","tags":["death"],"weight":100,"label":"Died at Grodno","labelCn":"在格罗德诺逝世","wikiUrl":"https://en.wikipedia.org/wiki/W%C5%82adys%C5%82aw_II_Jagie%C5%82%C5%82o"}
+    ],
+    "wikiUrl":"https://en.wikipedia.org/wiki/W%C5%82adys%C5%82aw_II_Jagie%C5%82%C5%82o", "portraitUrl":"", "sourceUrl":"https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/wladyslaw-ii-jagiello-poland-lithuanian-jogaila-c-1351", "sourceNote":"Basic monarch card; dates of the Krewo agreement, conversion, coronation, Grunwald and Horodło are cross-checked against the cited overview.", "notes":"Born Jogaila, Grand Duke of Lithuania, he became Władysław II on baptism and marriage to Jadwiga. The marriage made him Poland's king in a joint reign and founded the Jagiellon dynasty in Poland.", "createdDate":"20260827", "createdOrder":26
+  }
+]

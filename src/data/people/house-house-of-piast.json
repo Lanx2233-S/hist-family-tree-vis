@@ -1,0 +1,3686 @@
+[
+  {
+    "id": "617806ef-4ee0-42ce-a97d-39e5b2002f8e",
+    "firstName": "Mieszko",
+    "lastName": "",
+    "displayName": "Mieszko I",
+    "fullName": "Mieszko I",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Mieszko I of Poland"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "梅什科一世",
+    "fullNameCn": "梅什科一世",
+    "nicknameCn": "",
+    "birthYear": "",
+    "deathYear": 992,
+    "birthPlace": "",
+    "birthPlaceCn": "",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "Piast dynasty",
+    "house": "House of Piast",
+    "culture": "West Slavic/Polan",
+    "faith": "Christian",
+    "primaryTitle": "Duke of the Polans / ruler of Poland",
+    "primaryTitleCn": "波兰公爵／波兰早期统治者",
+    "titles": [
+      {
+        "title": "Duke of the Polans / ruler of Poland",
+        "titleCn": "波兰公爵／波兰早期统治者",
+        "startYear": 960,
+        "endYear": 992
+      }
+    ],
+    "tags": [
+      "duke",
+      "noble"
+    ],
+    "rank": "duke",
+    "importanceScore": 86,
+    "historicalRating": 7,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "173399fc-9638-47c2-935a-dcef2c77c404"
+      ]
+    },
+    "events": [
+      {
+        "year": 960,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 90,
+        "label": "Emerged as ruler of the Polan polity",
+        "labelCn": "成为波兰人政权的统治者",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Mieszko_I",
+        "note": "The start of his rule is conventionally placed around 960."
+      },
+      {
+        "year": 965,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 90,
+        "label": "Married Dobrawa of Bohemia",
+        "labelCn": "与波希米亚的杜布拉娃结婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Mieszko_I",
+        "note": "The marriage allied the Piasts with the Přemyslids."
+      },
+      {
+        "year": 966,
+        "type": "religion",
+        "tags": [
+          "religion",
+          "government"
+        ],
+        "weight": 100,
+        "label": "Accepted Christianity in the Baptism of Poland",
+        "labelCn": "接受基督教，传统上视为“波兰受洗”",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Mieszko_I"
+      },
+      {
+        "year": 967,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "territory"
+        ],
+        "weight": 80,
+        "label": "Defeated Wichmann and expanded toward Pomerania",
+        "labelCn": "击败维希曼并向波美拉尼亚扩张",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Mieszko_I"
+      },
+      {
+        "year": 968,
+        "type": "church",
+        "tags": [
+          "church",
+          "government"
+        ],
+        "weight": 85,
+        "label": "A missionary bishopric was established at Poznań",
+        "labelCn": "在波兹南建立传教主教区",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Mieszko_I"
+      },
+      {
+        "year": 972,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "defense"
+        ],
+        "weight": 90,
+        "label": "Defeated Margrave Odo at Cedynia",
+        "labelCn": "在采迪尼亚战役中击败边区伯爵奥多",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Mieszko_I"
+      },
+      {
+        "year": 990,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "territory"
+        ],
+        "weight": 85,
+        "label": "Fought Bohemia and extended Piast control into Silesia",
+        "labelCn": "与波希米亚交战并将控制扩展至西里西亚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Mieszko_I"
+      },
+      {
+        "year": 991,
+        "type": "diplomacy",
+        "tags": [
+          "diplomacy",
+          "religion"
+        ],
+        "weight": 80,
+        "label": "The Dagome iudex placed his realm under papal protection",
+        "labelCn": "《Dagome iudex》将其领地置于教廷保护之下",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Mieszko_I"
+      },
+      {
+        "year": 992,
+        "type": "death",
+        "tags": [
+          "death",
+          "duke"
+        ],
+        "weight": 75,
+        "label": "Died after consolidating the early Piast state",
+        "labelCn": "在巩固早期皮雅斯特国家后去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Mieszko_I"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Mieszko_I",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Mieszko_I",
+    "sourceNote": "Polish Ministry of Education ZPE materials on Mieszko I; Widukind of Corvey and Thietmar of Merseburg used critically; modern Piast scholarship; Wikipedia as supplementary person index.",
+    "notes": "The first well-attested Piast ruler and the political founder of the Christian Polish state. His son Bolesław I later obtained the royal crown.\n\nConfidence / caveats: Birth and accession dates are approximate. Earlier Piast ancestry comes mainly from later chronicles. The exact extent of control over Kraków/Lesser Poland by 992 and the purpose of Dagome iudex remain debated.\n\nUnlinked family: Siemomysł (traditional attribution) (not uniquely matched in the roster); Dobrawa of Bohemia (not uniquely matched in the roster); Oda of Haldensleben (not uniquely matched in the roster); Mieszko (not uniquely matched in the roster); Lambert (not uniquely matched in the roster); Świętopełk (not uniquely matched in the roster).",
+    "createdDate": "20260827",
+    "createdOrder": 1
+  },
+  {
+    "id": "173399fc-9638-47c2-935a-dcef2c77c404",
+    "firstName": "Bolesław",
+    "lastName": "",
+    "displayName": "Bolesław I the Brave",
+    "fullName": "Bolesław I the Brave",
+    "nickname": "",
+    "alsoKnownAs": [
+      "Bolesław I Chrobry",
+      "Bolesław Chrobry"
+    ],
+    "nicknameTags": [],
+    "displayNameCn": "勇者波列斯瓦夫一世",
+    "fullNameCn": "勇者波列斯瓦夫一世",
+    "nicknameCn": "",
+    "birthYear": 967,
+    "deathYear": 1025,
+    "birthPlace": "",
+    "birthPlaceCn": "",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "Piast dynasty",
+    "house": "House of Piast",
+    "culture": "Polish",
+    "faith": "Christian",
+    "primaryTitle": "King of Poland",
+    "primaryTitleCn": "波兰国王",
+    "titles": [
+      {
+        "title": "Duke of Poland",
+        "titleCn": "波兰公爵",
+        "startYear": 992,
+        "endYear": 1025
+      },
+      {
+        "title": "King of Poland",
+        "titleCn": "波兰国王",
+        "startYear": 1025,
+        "endYear": 1025
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king",
+      "noble"
+    ],
+    "rank": "king",
+    "importanceScore": 93,
+    "historicalRating": 8,
+    "relationships": {
+      "fatherId": "617806ef-4ee0-42ce-a97d-39e5b2002f8e",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "53a679c8-45c8-4bc6-b540-83dec42845b5",
+        "d6b1c226-b5e6-424b-b872-e3adda4a4b7b"
+      ]
+    },
+    "events": [
+      {
+        "year": 992,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 100,
+        "label": "Succeeded Mieszko I and consolidated sole rule",
+        "labelCn": "继承梅什科一世并巩固单独统治",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Boles%C5%82aw_I_the_Brave"
+      },
+      {
+        "year": 997,
+        "type": "religion",
+        "tags": [
+          "religion",
+          "church"
+        ],
+        "weight": 85,
+        "label": "Sponsored Adalbert of Prague's Prussian mission",
+        "labelCn": "支持布拉格的阿达尔伯特前往普鲁士传教",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Boles%C5%82aw_I_the_Brave"
+      },
+      {
+        "year": 1000,
+        "type": "diplomacy",
+        "tags": [
+          "diplomacy",
+          "church"
+        ],
+        "weight": 100,
+        "label": "Hosted Otto III at the Congress of Gniezno",
+        "labelCn": "在格涅兹诺会议接待奥托三世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Boles%C5%82aw_I_the_Brave"
+      },
+      {
+        "year": 1002,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "territory"
+        ],
+        "weight": 90,
+        "label": "Opened war with Henry II over Lusatian lands",
+        "labelCn": "因卢萨蒂亚问题同亨利二世开战",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Boles%C5%82aw_I_the_Brave"
+      },
+      {
+        "year": 1003,
+        "type": "conquest",
+        "tags": [
+          "conquest",
+          "territory"
+        ],
+        "weight": 85,
+        "label": "Seized Bohemia and briefly ruled at Prague",
+        "labelCn": "夺取波希米亚并短暂控制布拉格",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Boles%C5%82aw_I_the_Brave"
+      },
+      {
+        "year": 1013,
+        "type": "treaty",
+        "tags": [
+          "treaty",
+          "territory"
+        ],
+        "weight": 80,
+        "label": "Concluded the Peace of Merseburg",
+        "labelCn": "签订梅泽堡和约",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Boles%C5%82aw_I_the_Brave"
+      },
+      {
+        "year": 1017,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "defense"
+        ],
+        "weight": 85,
+        "label": "Defended Silesia against Henry II's invasion",
+        "labelCn": "抵御亨利二世对西里西亚的入侵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Boles%C5%82aw_I_the_Brave"
+      },
+      {
+        "year": 1018,
+        "type": "treaty",
+        "tags": [
+          "treaty",
+          "territory"
+        ],
+        "weight": 100,
+        "label": "Won the Peace of Bautzen",
+        "labelCn": "签订包岑和约并保住西部成果",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Boles%C5%82aw_I_the_Brave"
+      },
+      {
+        "year": 1018,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "conquest"
+        ],
+        "weight": 95,
+        "label": "Captured Kyiv during an expedition into Rus'",
+        "labelCn": "远征罗斯并攻占基辅",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Boles%C5%82aw_I_the_Brave"
+      },
+      {
+        "year": 1025,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "king"
+        ],
+        "weight": 100,
+        "label": "Was crowned the first King of Poland",
+        "labelCn": "加冕为首位波兰国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Boles%C5%82aw_I_the_Brave"
+      },
+      {
+        "year": 1025,
+        "type": "death",
+        "tags": [
+          "death",
+          "king"
+        ],
+        "weight": 80,
+        "label": "Died shortly after his coronation",
+        "labelCn": "加冕后不久去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Boles%C5%82aw_I_the_Brave"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Boles%C5%82aw_I_the_Brave",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Boles%C5%82aw_I_the_Brave",
+    "sourceNote": "Polish ZPE materials on Bolesław Chrobry; Thietmar of Merseburg and Gallus Anonymus used critically; modern Polish medieval scholarship; Wikipedia as supplementary chronology index.",
+    "notes": "Bolesław I transformed Mieszko's principality into a major Central European monarchy and became the first crowned king of Poland.\n\nConfidence / caveats: Birth is generally 966/967. The exact boundaries of his Moravian and Slovak holdings are debated. The coronation of 1025 is secure, but its exact day is not.\n\nUnlinked family: Dobrawa of Bohemia (not uniquely matched in the roster); Emnilda of Lusatia (not uniquely matched in the roster); Oda of Meissen (not uniquely matched in the roster); Otto Bolesławowic (not uniquely matched in the roster); Regelinda of Poland (not uniquely matched in the roster).",
+    "createdDate": "20260827",
+    "createdOrder": 2
+  },
+  {
+    "id": "53a679c8-45c8-4bc6-b540-83dec42845b5",
+    "firstName": "Mieszko",
+    "lastName": "",
+    "displayName": "Mieszko II Lambert",
+    "fullName": "Mieszko II Lambert",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "梅什科二世·兰伯特",
+    "fullNameCn": "梅什科二世·兰伯特",
+    "nicknameCn": "",
+    "birthYear": 990,
+    "deathYear": 1034,
+    "birthPlace": "",
+    "birthPlaceCn": "",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "Piast dynasty",
+    "house": "House of Piast",
+    "culture": "Polish",
+    "faith": "Christian",
+    "primaryTitle": "King of Poland",
+    "primaryTitleCn": "波兰国王",
+    "titles": [
+      {
+        "title": "King of Poland",
+        "titleCn": "波兰国王",
+        "startYear": 1025,
+        "endYear": 1031
+      },
+      {
+        "title": "Duke of Poland",
+        "titleCn": "波兰公爵",
+        "startYear": 1032,
+        "endYear": 1034
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king",
+      "noble"
+    ],
+    "rank": "king",
+    "importanceScore": 81,
+    "historicalRating": 7,
+    "relationships": {
+      "fatherId": "173399fc-9638-47c2-935a-dcef2c77c404",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "800e0d57-80df-4b89-9f8a-6b21e77b5307"
+      ]
+    },
+    "events": [
+      {
+        "year": 1025,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 95,
+        "label": "Succeeded Bolesław I",
+        "labelCn": "继承波列斯瓦夫一世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Mieszko_II_Lambert"
+      },
+      {
+        "year": 1025,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "king"
+        ],
+        "weight": 100,
+        "label": "Was crowned King of Poland",
+        "labelCn": "加冕为波兰国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Mieszko_II_Lambert"
+      },
+      {
+        "year": 1028,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "territory"
+        ],
+        "weight": 85,
+        "label": "Invaded Saxony during conflict with Conrad II",
+        "labelCn": "与康拉德二世冲突期间入侵萨克森",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Mieszko_II_Lambert"
+      },
+      {
+        "year": 1030,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "territory"
+        ],
+        "weight": 80,
+        "label": "Launched another attack into Saxon lands",
+        "labelCn": "再次进攻萨克森地区",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Mieszko_II_Lambert"
+      },
+      {
+        "year": 1031,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "defeat"
+        ],
+        "weight": 100,
+        "label": "Lost to coordinated German and Kievan attacks",
+        "labelCn": "在德意志与基辅罗斯夹击下战败",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Mieszko_II_Lambert"
+      },
+      {
+        "year": 1031,
+        "type": "politics",
+        "tags": [
+          "politics",
+          "political_crisis"
+        ],
+        "weight": 100,
+        "label": "Fled Poland as Bezprym seized power",
+        "labelCn": "贝兹普里姆夺权后逃离波兰",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Mieszko_II_Lambert"
+      },
+      {
+        "year": 1031,
+        "type": "imprisonment",
+        "tags": [
+          "imprisonment",
+          "politics"
+        ],
+        "weight": 85,
+        "label": "Was imprisoned and mutilated in Bohemia",
+        "labelCn": "在波希米亚遭囚禁并被残酷伤害",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Mieszko_II_Lambert"
+      },
+      {
+        "year": 1032,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 90,
+        "label": "Returned but accepted partition and ducal status",
+        "labelCn": "回国但接受分割与公爵身份",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Mieszko_II_Lambert"
+      },
+      {
+        "year": 1033,
+        "type": "government",
+        "tags": [
+          "government",
+          "territory"
+        ],
+        "weight": 75,
+        "label": "Reunified most of the Piast realm",
+        "labelCn": "重新统一皮雅斯特政权的大部分领地",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Mieszko_II_Lambert"
+      },
+      {
+        "year": 1034,
+        "type": "death",
+        "tags": [
+          "death",
+          "duke"
+        ],
+        "weight": 80,
+        "label": "Died as the monarchy entered a deep crisis",
+        "labelCn": "在国家陷入严重危机时去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Mieszko_II_Lambert"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Mieszko_II_Lambert",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Mieszko_II_Lambert",
+    "sourceNote": "Polish ZPE materials on Mieszko II; Wipo of Burgundy and Cosmas of Prague used critically; modern Piast scholarship; Wikipedia as supplementary index.",
+    "notes": "Mieszko II inherited the crown but lost Bolesław I's gains under foreign and dynastic pressure. His son Casimir I later restored the state without restoring the crown.\n\nConfidence / caveats: The 1031–1033 sequence is source-poor and complex. Mieszko's mutilation is reported by Cosmas of Prague. Exact death cause is unknown.\n\nUnlinked family: Emnilda of Lusatia (not uniquely matched in the roster); Richeza of Lotharingia (not uniquely matched in the roster); Richeza of Poland (not uniquely matched in the roster); Gertruda of Poland (not uniquely matched in the roster).",
+    "createdDate": "20260827",
+    "createdOrder": 3
+  },
+  {
+    "id": "d6b1c226-b5e6-424b-b872-e3adda4a4b7b",
+    "firstName": "Bezprym",
+    "lastName": "",
+    "displayName": "Bezprym",
+    "fullName": "Bezprym",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "贝兹普里姆",
+    "fullNameCn": "贝兹普里姆",
+    "nicknameCn": "",
+    "birthYear": "",
+    "deathYear": 1032,
+    "birthPlace": "",
+    "birthPlaceCn": "",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "Piast dynasty",
+    "house": "House of Piast",
+    "culture": "Polish",
+    "faith": "Christian",
+    "primaryTitle": "Duke of Poland",
+    "primaryTitleCn": "波兰公爵",
+    "titles": [
+      {
+        "title": "Duke of Poland",
+        "titleCn": "波兰公爵",
+        "startYear": 1031,
+        "endYear": 1032
+      }
+    ],
+    "tags": [
+      "duke",
+      "noble"
+    ],
+    "rank": "duke",
+    "importanceScore": 58,
+    "historicalRating": 5,
+    "relationships": {
+      "fatherId": "173399fc-9638-47c2-935a-dcef2c77c404",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1001,
+        "type": "religion",
+        "tags": [
+          "religion",
+          "uncertain"
+        ],
+        "weight": 55,
+        "label": "Was sent to an Italian monastic community",
+        "labelCn": "被送往意大利修道团体",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Bezprym",
+        "note": "Identification with the Piast prince sent to Saint Romuald's circle is reconstructed."
+      },
+      {
+        "year": 1031,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "political_crisis"
+        ],
+        "weight": 85,
+        "label": "Returned with Rus' support during the attack on Mieszko II",
+        "labelCn": "在罗斯支持下回归并参与推翻梅什科二世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Bezprym"
+      },
+      {
+        "year": 1031,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 100,
+        "label": "Seized rule in Poland",
+        "labelCn": "夺取波兰统治权",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Bezprym"
+      },
+      {
+        "year": 1031,
+        "type": "politics",
+        "tags": [
+          "politics",
+          "political_crisis"
+        ],
+        "weight": 80,
+        "label": "Conducted a harsh purge of opponents",
+        "labelCn": "对政治对手展开严厉清洗",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Bezprym"
+      },
+      {
+        "year": 1032,
+        "type": "death",
+        "tags": [
+          "death",
+          "violent"
+        ],
+        "weight": 100,
+        "label": "Was murdered by his own men",
+        "labelCn": "被自己的部下谋杀",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Bezprym"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Bezprym",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Bezprym",
+    "sourceNote": "Hildesheim Annals and Wipo of Burgundy; Polish scholarship on the 1031–1032 crisis; Wikipedia as supplementary chronology index.",
+    "notes": "A short-lived Piast usurper whose seizure of power interrupted Mieszko II's kingship.\n\nConfidence / caveats: Birth and maternal identification are uncertain. Connections between his rule and the wider 'pagan reaction' are debated.\n\nUnlinked family: Judith of Hungary (traditional attribution) (not uniquely matched in the roster).",
+    "createdDate": "20260827",
+    "createdOrder": 4,
+    "deathCause": {
+      "kind": "violent",
+      "summary": "murdered by his own men",
+      "summaryCn": "被部下谋杀",
+      "detail": "murdered by his own men",
+      "detailCn": "被部下谋杀",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Bezprym"
+    }
+  },
+  {
+    "id": "800e0d57-80df-4b89-9f8a-6b21e77b5307",
+    "firstName": "Casimir",
+    "lastName": "",
+    "displayName": "Casimir I the Restorer",
+    "fullName": "Casimir I the Restorer",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "复兴者卡齐米日一世",
+    "fullNameCn": "复兴者卡齐米日一世",
+    "nicknameCn": "",
+    "birthYear": 1016,
+    "deathYear": 1058,
+    "birthPlace": "",
+    "birthPlaceCn": "",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "Piast dynasty",
+    "house": "House of Piast",
+    "culture": "Polish",
+    "faith": "Christian",
+    "primaryTitle": "Duke of Poland",
+    "primaryTitleCn": "波兰公爵",
+    "titles": [
+      {
+        "title": "Duke of Poland",
+        "titleCn": "波兰公爵",
+        "startYear": 1040,
+        "endYear": 1058
+      }
+    ],
+    "tags": [
+      "duke",
+      "noble"
+    ],
+    "rank": "duke",
+    "importanceScore": 92,
+    "historicalRating": 8,
+    "relationships": {
+      "fatherId": "53a679c8-45c8-4bc6-b540-83dec42845b5",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "584ce436-4baa-44b5-9c86-555de4b0d56d",
+        "9a906377-7845-4631-bf6b-3d1ef01cfef6"
+      ]
+    },
+    "events": [
+      {
+        "year": 1034,
+        "type": "politics",
+        "tags": [
+          "political_crisis",
+          "dynasty"
+        ],
+        "weight": 80,
+        "label": "Inherited a collapsing Piast order after Mieszko II's death",
+        "labelCn": "梅什科二世死后面对崩溃中的皮雅斯特秩序",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Casimir_I_the_Restorer"
+      },
+      {
+        "year": 1037,
+        "type": "politics",
+        "tags": [
+          "politics",
+          "political_crisis"
+        ],
+        "weight": 85,
+        "label": "Was driven into exile",
+        "labelCn": "被迫流亡",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Casimir_I_the_Restorer"
+      },
+      {
+        "year": 1038,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "defeat"
+        ],
+        "weight": 90,
+        "label": "Bohemian invasion devastated the Piast heartland",
+        "labelCn": "波希米亚入侵重创皮雅斯特核心区",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Casimir_I_the_Restorer"
+      },
+      {
+        "year": 1039,
+        "type": "diplomacy",
+        "tags": [
+          "diplomacy",
+          "alliance"
+        ],
+        "weight": 90,
+        "label": "Secured imperial support for restoration",
+        "labelCn": "获得帝国支持以恢复统治",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Casimir_I_the_Restorer"
+      },
+      {
+        "year": 1040,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 100,
+        "label": "Returned and restored Piast rule",
+        "labelCn": "回国并恢复皮雅斯特统治",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Casimir_I_the_Restorer"
+      },
+      {
+        "year": 1041,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 90,
+        "label": "Married Maria Dobroniega of Kyiv",
+        "labelCn": "与基辅的玛丽亚·多布罗涅加结婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Casimir_I_the_Restorer"
+      },
+      {
+        "year": 1047,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "conquest"
+        ],
+        "weight": 95,
+        "label": "Defeated Miecław and recovered Masovia",
+        "labelCn": "击败梅茨瓦夫并收复马佐夫舍",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Casimir_I_the_Restorer"
+      },
+      {
+        "year": 1050,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "territory"
+        ],
+        "weight": 85,
+        "label": "Recovered Silesia from Bohemia",
+        "labelCn": "从波希米亚手中收复西里西亚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Casimir_I_the_Restorer"
+      },
+      {
+        "year": 1054,
+        "type": "treaty",
+        "tags": [
+          "treaty",
+          "territory"
+        ],
+        "weight": 80,
+        "label": "Retained Silesia under an imperial settlement",
+        "labelCn": "通过帝国仲裁保住西里西亚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Casimir_I_the_Restorer"
+      },
+      {
+        "year": 1058,
+        "type": "death",
+        "tags": [
+          "death",
+          "duke"
+        ],
+        "weight": 75,
+        "label": "Died after restoring the Piast state",
+        "labelCn": "在恢复皮雅斯特国家后去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Casimir_I_the_Restorer"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Casimir_I_the_Restorer",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Casimir_I_the_Restorer",
+    "sourceNote": "Polish ZPE materials on Casimir the Restorer; Gallus Anonymus and Cosmas used critically; modern Piast scholarship; Wikipedia as supplementary index.",
+    "notes": "Casimir rebuilt the Piast state after the 1030s collapse but did not revive the royal crown.\n\nConfidence / caveats: The exact dates of exile and return vary; 1040 is used as the clearest restoration point. Kraków's 'capital' status was not a modern formal capital.\n\nUnlinked family: Richeza of Lotharingia (not uniquely matched in the roster); Maria Dobroniega of Kyiv (not uniquely matched in the roster); Mieszko (not uniquely matched in the roster); Otto (not uniquely matched in the roster); Świętosława of Poland (not uniquely matched in the roster).",
+    "createdDate": "20260827",
+    "createdOrder": 5
+  },
+  {
+    "id": "584ce436-4baa-44b5-9c86-555de4b0d56d",
+    "firstName": "Bolesław",
+    "lastName": "",
+    "displayName": "Bolesław II the Bold",
+    "fullName": "Bolesław II the Bold",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "大胆者波列斯瓦夫二世",
+    "fullNameCn": "大胆者波列斯瓦夫二世",
+    "nicknameCn": "",
+    "birthYear": 1042,
+    "deathYear": 1081,
+    "birthPlace": "",
+    "birthPlaceCn": "",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "Piast dynasty",
+    "house": "House of Piast",
+    "culture": "Polish",
+    "faith": "Catholic",
+    "primaryTitle": "King of Poland",
+    "primaryTitleCn": "波兰国王",
+    "titles": [
+      {
+        "title": "Duke of Poland",
+        "titleCn": "波兰公爵",
+        "startYear": 1058,
+        "endYear": 1076
+      },
+      {
+        "title": "King of Poland",
+        "titleCn": "波兰国王",
+        "startYear": 1076,
+        "endYear": 1079
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king",
+      "noble"
+    ],
+    "rank": "king",
+    "importanceScore": 84,
+    "historicalRating": 7,
+    "relationships": {
+      "fatherId": "800e0d57-80df-4b89-9f8a-6b21e77b5307",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1058,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 95,
+        "label": "Succeeded Casimir I as ruler of Poland",
+        "labelCn": "继承卡齐米日一世统治波兰",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Boles%C5%82aw_II_the_Bold"
+      },
+      {
+        "year": 1069,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "alliance"
+        ],
+        "weight": 85,
+        "label": "Intervened in Kyiv to restore Iziaslav I",
+        "labelCn": "远征基辅以恢复伊贾斯拉夫一世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Boles%C5%82aw_II_the_Bold"
+      },
+      {
+        "year": 1072,
+        "type": "politics",
+        "tags": [
+          "politics",
+          "church"
+        ],
+        "weight": 75,
+        "label": "Supported the papal side in the Investiture struggle",
+        "labelCn": "在授职权斗争中支持教宗一方",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Boles%C5%82aw_II_the_Bold"
+      },
+      {
+        "year": 1076,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "king"
+        ],
+        "weight": 100,
+        "label": "Was crowned King of Poland",
+        "labelCn": "加冕为波兰国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Boles%C5%82aw_II_the_Bold"
+      },
+      {
+        "year": 1077,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "alliance"
+        ],
+        "weight": 85,
+        "label": "Again restored Iziaslav to Kyiv",
+        "labelCn": "再次远征并帮助伊贾斯拉夫恢复基辅王位",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Boles%C5%82aw_II_the_Bold"
+      },
+      {
+        "year": 1079,
+        "type": "political_crisis",
+        "tags": [
+          "political_crisis",
+          "church"
+        ],
+        "weight": 100,
+        "label": "Clashed with Bishop Stanislaus of Kraków",
+        "labelCn": "与克拉科夫主教斯坦尼斯瓦夫发生致命冲突",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Boles%C5%82aw_II_the_Bold",
+        "note": "The exact political background and responsibility are disputed."
+      },
+      {
+        "year": 1079,
+        "type": "politics",
+        "tags": [
+          "politics",
+          "title"
+        ],
+        "weight": 100,
+        "label": "Was deposed and driven into exile",
+        "labelCn": "被废黜并遭流放",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Boles%C5%82aw_II_the_Bold"
+      },
+      {
+        "year": 1081,
+        "type": "death",
+        "tags": [
+          "death",
+          "king"
+        ],
+        "weight": 70,
+        "label": "Died in exile",
+        "labelCn": "在流亡中去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Boles%C5%82aw_II_the_Bold"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Boles%C5%82aw_II_the_Bold",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Boles%C5%82aw_II_the_Bold",
+    "sourceNote": "Gallus Anonymus; later traditions on Bishop Stanislaus used critically; Polish ZPE materials; modern Piast scholarship; Wikipedia as supplementary index.",
+    "notes": "Bolesław II restored the Polish royal title in 1076 but lost his throne after the crisis surrounding Bishop Stanislaus. His younger brother Władysław Herman then ruled as duke.\n\nConfidence / caveats: The circumstances of Bishop Stanislaus's death are among the most contested episodes in early Polish history. Bolesław's exact death place and even death year have competing traditions.\n\nUnlinked family: Maria Dobroniega of Kyiv (not uniquely matched in the roster); Wyszesława (traditional attribution) (not uniquely matched in the roster); Mieszko Bolesławowic (not uniquely matched in the roster).",
+    "createdDate": "20260827",
+    "createdOrder": 6
+  },
+  {
+    "id": "9a906377-7845-4631-bf6b-3d1ef01cfef6",
+    "firstName": "Władysław",
+    "lastName": "",
+    "displayName": "Władysław I Herman",
+    "fullName": "Władysław I Herman",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "瓦迪斯瓦夫一世·赫尔曼",
+    "fullNameCn": "瓦迪斯瓦夫一世·赫尔曼",
+    "nicknameCn": "",
+    "birthYear": 1044,
+    "deathYear": 1102,
+    "birthPlace": "",
+    "birthPlaceCn": "",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "Piast dynasty",
+    "house": "House of Piast",
+    "culture": "Polish",
+    "faith": "Catholic",
+    "primaryTitle": "Duke of Poland",
+    "primaryTitleCn": "波兰公爵",
+    "titles": [
+      {
+        "title": "Duke of Poland",
+        "titleCn": "波兰公爵",
+        "startYear": 1079,
+        "endYear": 1102
+      }
+    ],
+    "tags": [
+      "duke",
+      "noble"
+    ],
+    "rank": "duke",
+    "importanceScore": 72,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "800e0d57-80df-4b89-9f8a-6b21e77b5307",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "99d80bf9-a3aa-401c-ba6e-735b44235ba4"
+      ]
+    },
+    "events": [
+      {
+        "year": 1079,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 100,
+        "label": "Succeeded after Bolesław II's deposition",
+        "labelCn": "波列斯瓦夫二世被废后继承统治权",
+        "wikiUrl": "https://en.wikipedia.org/wiki/W%C5%82adys%C5%82aw_I_Herman"
+      },
+      {
+        "year": 1080,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 75,
+        "label": "Married Judith of Bohemia",
+        "labelCn": "与波希米亚的尤迪特结婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/W%C5%82adys%C5%82aw_I_Herman"
+      },
+      {
+        "year": 1086,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "dynasty"
+        ],
+        "weight": 90,
+        "label": "Became father of Bolesław III Wrymouth",
+        "labelCn": "成为波列斯瓦夫三世之父",
+        "wikiUrl": "https://en.wikipedia.org/wiki/W%C5%82adys%C5%82aw_I_Herman"
+      },
+      {
+        "year": 1089,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 70,
+        "label": "Married Judith of Swabia",
+        "labelCn": "与士瓦本的尤迪特结婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/W%C5%82adys%C5%82aw_I_Herman"
+      },
+      {
+        "year": 1093,
+        "type": "politics",
+        "tags": [
+          "politics",
+          "political_crisis"
+        ],
+        "weight": 85,
+        "label": "Faced rebellion involving Zbigniew and Silesian elites",
+        "labelCn": "面对兹比格涅夫与西里西亚贵族相关的叛乱",
+        "wikiUrl": "https://en.wikipedia.org/wiki/W%C5%82adys%C5%82aw_I_Herman"
+      },
+      {
+        "year": 1097,
+        "type": "government",
+        "tags": [
+          "government",
+          "territory"
+        ],
+        "weight": 90,
+        "label": "Partitioned practical authority between Zbigniew and Bolesław",
+        "labelCn": "将实际统治区域分配给兹比格涅夫与波列斯瓦夫",
+        "wikiUrl": "https://en.wikipedia.org/wiki/W%C5%82adys%C5%82aw_I_Herman"
+      },
+      {
+        "year": 1102,
+        "type": "death",
+        "tags": [
+          "death",
+          "duke"
+        ],
+        "weight": 70,
+        "label": "Died leaving a disputed succession between his sons",
+        "labelCn": "去世，留下两子争位局面",
+        "wikiUrl": "https://en.wikipedia.org/wiki/W%C5%82adys%C5%82aw_I_Herman"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/W%C5%82adys%C5%82aw_I_Herman",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/W%C5%82adys%C5%82aw_I_Herman",
+    "sourceNote": "Gallus Anonymus; Polish medieval scholarship; ZPE materials on the early Piasts; Wikipedia as supplementary index.",
+    "notes": "Władysław Herman ruled without restoring the crown and increasingly shared practical control with his sons. His death opened the conflict between Zbigniew and Bolesław III.\n\nConfidence / caveats: His reign was heavily influenced by the palatine Sieciech. The exact constitutional status of the territorial assignments to his sons should not be read as a modern partition treaty.\n\nUnlinked family: Maria Dobroniega of Kyiv (not uniquely matched in the roster); Judith of Bohemia (not uniquely matched in the roster); Judith of Swabia (not uniquely matched in the roster); Zbigniew (not uniquely matched in the roster); Agnes of Poland (not uniquely matched in the roster).",
+    "createdDate": "20260827",
+    "createdOrder": 7
+  },
+  {
+    "id": "99d80bf9-a3aa-401c-ba6e-735b44235ba4",
+    "firstName": "Bolesław",
+    "lastName": "",
+    "displayName": "Bolesław III Wrymouth",
+    "fullName": "Bolesław III Wrymouth",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "歪嘴波列斯瓦夫三世",
+    "fullNameCn": "歪嘴波列斯瓦夫三世",
+    "nicknameCn": "",
+    "birthYear": 1086,
+    "deathYear": 1138,
+    "birthPlace": "",
+    "birthPlaceCn": "",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "Piast dynasty",
+    "house": "House of Piast",
+    "culture": "Polish",
+    "faith": "Catholic",
+    "primaryTitle": "Duke of Poland",
+    "primaryTitleCn": "波兰公爵",
+    "titles": [
+      {
+        "title": "Duke of Poland",
+        "titleCn": "波兰公爵",
+        "startYear": 1107,
+        "endYear": 1138
+      }
+    ],
+    "tags": [
+      "duke",
+      "noble"
+    ],
+    "rank": "duke",
+    "importanceScore": 91,
+    "historicalRating": 8,
+    "relationships": {
+      "fatherId": "9a906377-7845-4631-bf6b-3d1ef01cfef6",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "d0fdd877-dc00-48b9-9763-5447124418b3",
+        "6332e15d-9d93-45f6-a680-2a9f13bea6ca",
+        "3c2adb50-371a-4669-b860-638e358e9912",
+        "9398b1e2-68f9-45b7-a414-ef63f11687cb"
+      ]
+    },
+    "events": [
+      {
+        "year": 1097,
+        "type": "government",
+        "tags": [
+          "government",
+          "territory"
+        ],
+        "weight": 75,
+        "label": "Received a territorial share during Władysław Herman's lifetime",
+        "labelCn": "在父亲在世时获得独立统治区域",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Boles%C5%82aw_III_Wrymouth"
+      },
+      {
+        "year": 1102,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "dynasty"
+        ],
+        "weight": 85,
+        "label": "Inherited part of the realm alongside Zbigniew",
+        "labelCn": "与兹比格涅夫共同继承父亲的领地",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Boles%C5%82aw_III_Wrymouth"
+      },
+      {
+        "year": 1106,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "political_crisis"
+        ],
+        "weight": 95,
+        "label": "Defeated Zbigniew and became dominant ruler",
+        "labelCn": "击败兹比格涅夫并成为主要统治者",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Boles%C5%82aw_III_Wrymouth"
+      },
+      {
+        "year": 1109,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "defense"
+        ],
+        "weight": 100,
+        "label": "Repelled Henry V's invasion",
+        "labelCn": "击退亨利五世的入侵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Boles%C5%82aw_III_Wrymouth"
+      },
+      {
+        "year": 1113,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "conquest"
+        ],
+        "weight": 85,
+        "label": "Expanded control into Pomerania",
+        "labelCn": "向波美拉尼亚扩张控制",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Boles%C5%82aw_III_Wrymouth"
+      },
+      {
+        "year": 1121,
+        "type": "conquest",
+        "tags": [
+          "conquest",
+          "territory"
+        ],
+        "weight": 90,
+        "label": "Subdued Western Pomerania under Wartislaw I",
+        "labelCn": "迫使瓦尔季斯瓦夫一世的西波美拉尼亚臣服",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Boles%C5%82aw_III_Wrymouth"
+      },
+      {
+        "year": 1124,
+        "type": "religion",
+        "tags": [
+          "religion",
+          "church"
+        ],
+        "weight": 80,
+        "label": "Supported Otto of Bamberg's Pomeranian mission",
+        "labelCn": "支持班贝格的奥托在波美拉尼亚传教",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Boles%C5%82aw_III_Wrymouth"
+      },
+      {
+        "year": 1135,
+        "type": "diplomacy",
+        "tags": [
+          "diplomacy",
+          "politics"
+        ],
+        "weight": 80,
+        "label": "Reached a settlement with Emperor Lothair III at Merseburg",
+        "labelCn": "在梅泽堡与洛泰尔三世达成政治和解",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Boles%C5%82aw_III_Wrymouth"
+      },
+      {
+        "year": 1138,
+        "type": "law",
+        "tags": [
+          "law",
+          "succession"
+        ],
+        "weight": 100,
+        "label": "His testament divided the realm among his sons under a seniorate principle",
+        "labelCn": "遗嘱以长幼制原则将领地分给诸子",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Boles%C5%82aw_III_Wrymouth"
+      },
+      {
+        "year": 1138,
+        "type": "death",
+        "tags": [
+          "death",
+          "duke"
+        ],
+        "weight": 80,
+        "label": "Died, beginning the age of Piast fragmentation",
+        "labelCn": "去世，皮雅斯特分裂时代由此开始",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Boles%C5%82aw_III_Wrymouth"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Boles%C5%82aw_III_Wrymouth",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Boles%C5%82aw_III_Wrymouth",
+    "sourceNote": "Gallus Anonymus; Central Europe in the High Middle Ages by Berend et al.; Polish ZPE materials on fragmentation; modern Polish scholarship; Wikipedia as supplementary index.",
+    "notes": "Bolesław III was the last ruler before the formal Piast fragmentation. His 1138 testament created hereditary districts plus a seniorate centered on Kraków.\n\nConfidence / caveats: The testament's exact legal text does not survive and its reconstruction depends on later evidence. Casimir II may have been born after or shortly before his father's death, explaining his omission from the original allocation.\n\nUnlinked family: Judith of Bohemia (not uniquely matched in the roster); Zbyslava of Kyiv (not uniquely matched in the roster); Salomea of Berg (not uniquely matched in the roster); Henry of Sandomierz (not uniquely matched in the roster).",
+    "createdDate": "20260827",
+    "createdOrder": 8
+  },
+  {
+    "id": "d0fdd877-dc00-48b9-9763-5447124418b3",
+    "firstName": "Władysław",
+    "lastName": "",
+    "displayName": "Władysław II the Exile",
+    "fullName": "Władysław II the Exile",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "流亡者瓦迪斯瓦夫二世",
+    "fullNameCn": "流亡者瓦迪斯瓦夫二世",
+    "nicknameCn": "",
+    "birthYear": 1105,
+    "deathYear": 1159,
+    "birthPlace": "",
+    "birthPlaceCn": "",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "Piast dynasty",
+    "house": "House of Piast",
+    "culture": "Polish",
+    "faith": "Catholic",
+    "primaryTitle": "High Duke of Poland",
+    "primaryTitleCn": "波兰最高公爵",
+    "titles": [
+      {
+        "title": "Duke of Silesia",
+        "titleCn": "西里西亚公爵",
+        "startYear": 1138,
+        "endYear": 1146
+      },
+      {
+        "title": "High Duke of Poland",
+        "titleCn": "波兰最高公爵",
+        "startYear": 1138,
+        "endYear": 1146
+      }
+    ],
+    "tags": [
+      "duke",
+      "noble"
+    ],
+    "rank": "duke",
+    "importanceScore": 73,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "99d80bf9-a3aa-401c-ba6e-735b44235ba4",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1138,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 100,
+        "label": "Became the first High Duke under the seniorate settlement",
+        "labelCn": "成为长幼制下首任最高公爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/W%C5%82adys%C5%82aw_II_the_Exile"
+      },
+      {
+        "year": 1142,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "political_crisis"
+        ],
+        "weight": 80,
+        "label": "Defeated his junior half-brothers with Rus' support",
+        "labelCn": "借罗斯援军击败诸位异母弟",
+        "wikiUrl": "https://en.wikipedia.org/wiki/W%C5%82adys%C5%82aw_II_the_Exile"
+      },
+      {
+        "year": 1144,
+        "type": "politics",
+        "tags": [
+          "politics",
+          "territory"
+        ],
+        "weight": 85,
+        "label": "Renewed conflict over the Łęczyca dower lands",
+        "labelCn": "围绕温奇察寡妇领重新爆发冲突",
+        "wikiUrl": "https://en.wikipedia.org/wiki/W%C5%82adys%C5%82aw_II_the_Exile"
+      },
+      {
+        "year": 1146,
+        "type": "rebellion",
+        "tags": [
+          "rebellion",
+          "political_crisis"
+        ],
+        "weight": 100,
+        "label": "Was defeated by his brothers and an internal revolt",
+        "labelCn": "遭诸弟与国内叛乱击败",
+        "wikiUrl": "https://en.wikipedia.org/wiki/W%C5%82adys%C5%82aw_II_the_Exile"
+      },
+      {
+        "year": 1146,
+        "type": "politics",
+        "tags": [
+          "politics",
+          "title"
+        ],
+        "weight": 100,
+        "label": "Fled into permanent exile in the Empire",
+        "labelCn": "逃往帝国并长期流亡",
+        "wikiUrl": "https://en.wikipedia.org/wiki/W%C5%82adys%C5%82aw_II_the_Exile"
+      },
+      {
+        "year": 1157,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "diplomacy"
+        ],
+        "weight": 70,
+        "label": "Imperial intervention failed to restore him personally",
+        "labelCn": "帝国干预未能使其本人复位",
+        "wikiUrl": "https://en.wikipedia.org/wiki/W%C5%82adys%C5%82aw_II_the_Exile"
+      },
+      {
+        "year": 1159,
+        "type": "death",
+        "tags": [
+          "death",
+          "duke"
+        ],
+        "weight": 65,
+        "label": "Died at Altenburg in exile",
+        "labelCn": "在阿尔滕堡流亡中去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/W%C5%82adys%C5%82aw_II_the_Exile"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/W%C5%82adys%C5%82aw_II_the_Exile",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/W%C5%82adys%C5%82aw_II_the_Exile",
+    "sourceNote": "Berend et al., Central Europe in the High Middle Ages; Polish ZPE materials; medieval Polish chronicles used critically; Wikipedia as supplementary index.",
+    "notes": "Władysław II was the first senior prince after 1138. His failure to dominate his younger brothers made the fragmentation system irreversible in practice.\n\nConfidence / caveats: The title 'High Duke of Poland' is a modern English rendering of the princeps/senior position and should not be confused with a crowned kingship.\n\nUnlinked family: Zbyslava of Kyiv (not uniquely matched in the roster); Agnes of Babenberg (not uniquely matched in the roster); Bolesław I the Tall (not uniquely matched in the roster); Mieszko IV Tanglefoot (not uniquely matched in the roster); Conrad Spindleshanks (not uniquely matched in the roster).",
+    "createdDate": "20260827",
+    "createdOrder": 9
+  },
+  {
+    "id": "6332e15d-9d93-45f6-a680-2a9f13bea6ca",
+    "firstName": "Bolesław",
+    "lastName": "",
+    "displayName": "Bolesław IV the Curly",
+    "fullName": "Bolesław IV the Curly",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "卷发波列斯瓦夫四世",
+    "fullNameCn": "卷发波列斯瓦夫四世",
+    "nicknameCn": "",
+    "birthYear": 1122,
+    "deathYear": 1173,
+    "birthPlace": "",
+    "birthPlaceCn": "",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "Piast dynasty",
+    "house": "House of Piast",
+    "culture": "Polish",
+    "faith": "Catholic",
+    "primaryTitle": "High Duke of Poland",
+    "primaryTitleCn": "波兰最高公爵",
+    "titles": [
+      {
+        "title": "Duke of Masovia",
+        "titleCn": "马佐夫舍公爵",
+        "startYear": 1138,
+        "endYear": 1173
+      },
+      {
+        "title": "High Duke of Poland",
+        "titleCn": "波兰最高公爵",
+        "startYear": 1146,
+        "endYear": 1173
+      }
+    ],
+    "tags": [
+      "duke",
+      "noble"
+    ],
+    "rank": "duke",
+    "importanceScore": 71,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "99d80bf9-a3aa-401c-ba6e-735b44235ba4",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1138,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 85,
+        "label": "Received Masovia under Bolesław III's testament",
+        "labelCn": "依父亲遗嘱获得马佐夫舍",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Boles%C5%82aw_IV_the_Curly"
+      },
+      {
+        "year": 1146,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 100,
+        "label": "Replaced Władysław II as High Duke",
+        "labelCn": "取代瓦迪斯瓦夫二世成为最高公爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Boles%C5%82aw_IV_the_Curly"
+      },
+      {
+        "year": 1146,
+        "type": "politics",
+        "tags": [
+          "politics",
+          "territory"
+        ],
+        "weight": 80,
+        "label": "Redistributed seniorate lands after Władysław's exile",
+        "labelCn": "瓦迪斯瓦夫流亡后重新分配最高公爵领地",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Boles%C5%82aw_IV_the_Curly"
+      },
+      {
+        "year": 1157,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "defeat"
+        ],
+        "weight": 95,
+        "label": "Submitted to Frederick Barbarossa's invasion",
+        "labelCn": "在腓特烈·巴巴罗萨入侵下屈服",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Boles%C5%82aw_IV_the_Curly"
+      },
+      {
+        "year": 1163,
+        "type": "treaty",
+        "tags": [
+          "treaty",
+          "territory"
+        ],
+        "weight": 80,
+        "label": "Allowed Władysław II's sons to return to Silesia",
+        "labelCn": "允许瓦迪斯瓦夫二世诸子返回西里西亚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Boles%C5%82aw_IV_the_Curly"
+      },
+      {
+        "year": 1166,
+        "type": "campaign",
+        "tags": [
+          "crusade",
+          "defeat"
+        ],
+        "weight": 80,
+        "label": "Suffered failure in a Prussian crusading campaign",
+        "labelCn": "对普鲁士的十字军远征遭受失败",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Boles%C5%82aw_IV_the_Curly"
+      },
+      {
+        "year": 1173,
+        "type": "death",
+        "tags": [
+          "death",
+          "duke"
+        ],
+        "weight": 70,
+        "label": "Died and was succeeded in the seniorate by Mieszko III",
+        "labelCn": "去世，最高公爵位由梅什科三世继承",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Boles%C5%82aw_IV_the_Curly"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Boles%C5%82aw_IV_the_Curly",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Boles%C5%82aw_IV_the_Curly",
+    "sourceNote": "Berend et al.; Polish ZPE materials on fragmentation; medieval chronicles; Wikipedia as supplementary index.",
+    "notes": "Bolesław IV preserved the seniorate institution after expelling Władysław II but could not restore unified monarchy.\n\nConfidence / caveats: His birth is often given c.1122–1125. The 1157 settlement imposed imperial submission but did not make Poland a routinely administered imperial province.\n\nUnlinked family: Salomea of Berg (not uniquely matched in the roster); Viacheslava of Novgorod (not uniquely matched in the roster); Leszek of Masovia (not uniquely matched in the roster).",
+    "createdDate": "20260827",
+    "createdOrder": 10
+  },
+  {
+    "id": "3c2adb50-371a-4669-b860-638e358e9912",
+    "firstName": "Mieszko",
+    "lastName": "",
+    "displayName": "Mieszko III the Old",
+    "fullName": "Mieszko III the Old",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "老者梅什科三世",
+    "fullNameCn": "老者梅什科三世",
+    "nicknameCn": "",
+    "birthYear": "",
+    "deathYear": 1202,
+    "birthPlace": "",
+    "birthPlaceCn": "",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "Piast dynasty",
+    "house": "House of Piast",
+    "culture": "Polish",
+    "faith": "Catholic",
+    "primaryTitle": "High Duke of Poland",
+    "primaryTitleCn": "波兰最高公爵",
+    "titles": [
+      {
+        "title": "Duke of Greater Poland",
+        "titleCn": "大波兰公爵",
+        "startYear": 1138,
+        "endYear": 1202
+      },
+      {
+        "title": "High Duke of Poland",
+        "titleCn": "波兰最高公爵",
+        "startYear": 1173,
+        "endYear": 1177
+      },
+      {
+        "title": "High Duke of Poland",
+        "titleCn": "波兰最高公爵",
+        "startYear": 1191,
+        "endYear": 1191
+      },
+      {
+        "title": "High Duke of Poland",
+        "titleCn": "波兰最高公爵",
+        "startYear": 1198,
+        "endYear": 1199
+      },
+      {
+        "title": "High Duke of Poland",
+        "titleCn": "波兰最高公爵",
+        "startYear": 1202,
+        "endYear": 1202
+      }
+    ],
+    "tags": [
+      "duke",
+      "noble"
+    ],
+    "rank": "duke",
+    "importanceScore": 79,
+    "historicalRating": 7,
+    "relationships": {
+      "fatherId": "99d80bf9-a3aa-401c-ba6e-735b44235ba4",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "8ad299b1-90a4-42f6-a360-823463866021"
+      ]
+    },
+    "events": [
+      {
+        "year": 1138,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 85,
+        "label": "Received Greater Poland under his father's testament",
+        "labelCn": "依父亲遗嘱获得大波兰",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Mieszko_III_the_Old"
+      },
+      {
+        "year": 1146,
+        "type": "politics",
+        "tags": [
+          "politics",
+          "alliance"
+        ],
+        "weight": 80,
+        "label": "Helped overthrow Władysław II",
+        "labelCn": "参与推翻瓦迪斯瓦夫二世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Mieszko_III_the_Old"
+      },
+      {
+        "year": 1173,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 100,
+        "label": "Succeeded Bolesław IV as High Duke",
+        "labelCn": "继承波列斯瓦夫四世成为最高公爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Mieszko_III_the_Old"
+      },
+      {
+        "year": 1177,
+        "type": "rebellion",
+        "tags": [
+          "rebellion",
+          "political_crisis"
+        ],
+        "weight": 100,
+        "label": "Was expelled from Kraków by a magnate revolt supporting Casimir II",
+        "labelCn": "被支持卡齐米日二世的贵族叛乱逐出克拉科夫",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Mieszko_III_the_Old"
+      },
+      {
+        "year": 1181,
+        "type": "government",
+        "tags": [
+          "government",
+          "territory"
+        ],
+        "weight": 75,
+        "label": "Recovered control over much of Greater Poland",
+        "labelCn": "重新控制大波兰大部",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Mieszko_III_the_Old"
+      },
+      {
+        "year": 1191,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 85,
+        "label": "Briefly recovered Kraków",
+        "labelCn": "短暂夺回克拉科夫",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Mieszko_III_the_Old"
+      },
+      {
+        "year": 1191,
+        "type": "politics",
+        "tags": [
+          "politics",
+          "title"
+        ],
+        "weight": 80,
+        "label": "Was again removed as Casimir II returned",
+        "labelCn": "卡齐米日二世回归后再次失去克拉科夫",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Mieszko_III_the_Old"
+      },
+      {
+        "year": 1198,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 85,
+        "label": "Recovered the senior position through agreement",
+        "labelCn": "通过政治协议再次获得最高权位",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Mieszko_III_the_Old"
+      },
+      {
+        "year": 1202,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 80,
+        "label": "Occupied Kraków for a final brief reign",
+        "labelCn": "最后一次短暂占据克拉科夫",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Mieszko_III_the_Old"
+      },
+      {
+        "year": 1202,
+        "type": "death",
+        "tags": [
+          "death",
+          "duke"
+        ],
+        "weight": 70,
+        "label": "Died after decades of contest over the seniorate",
+        "labelCn": "在数十年争夺最高权位后去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Mieszko_III_the_Old"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Mieszko_III_the_Old",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Mieszko_III_the_Old",
+    "sourceNote": "Polish fragmentation studies; Berend et al.; medieval chronicles; Wikipedia as supplementary chronology index.",
+    "notes": "Mieszko III illustrates the collapse of the original seniority rule: he repeatedly lost and recovered Kraków while retaining a Greater Polish dynastic base.\n\nConfidence / caveats: Birth is variously c.1126/1127, so birthYear is null. Exact short Kraków tenures differ slightly among ruler lists; events preserve the broad accepted sequence.\n\nUnlinked family: Salomea of Berg (not uniquely matched in the roster); Elisabeth of Hungary (not uniquely matched in the roster); Eudoxia of Kyiv (not uniquely matched in the roster); Odon of Poznań (not uniquely matched in the roster); Mieszko the Younger (not uniquely matched in the roster).",
+    "createdDate": "20260827",
+    "createdOrder": 11
+  },
+  {
+    "id": "9398b1e2-68f9-45b7-a414-ef63f11687cb",
+    "firstName": "Casimir",
+    "lastName": "",
+    "displayName": "Casimir II the Just",
+    "fullName": "Casimir II the Just",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "正义者卡齐米日二世",
+    "fullNameCn": "正义者卡齐米日二世",
+    "nicknameCn": "",
+    "birthYear": 1138,
+    "deathYear": 1194,
+    "birthPlace": "",
+    "birthPlaceCn": "",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "Piast dynasty",
+    "house": "House of Piast",
+    "culture": "Polish",
+    "faith": "Catholic",
+    "primaryTitle": "High Duke of Poland",
+    "primaryTitleCn": "波兰最高公爵",
+    "titles": [
+      {
+        "title": "Duke of Sandomierz",
+        "titleCn": "桑多梅日公爵",
+        "startYear": 1173,
+        "endYear": 1194
+      },
+      {
+        "title": "High Duke of Poland",
+        "titleCn": "波兰最高公爵",
+        "startYear": 1177,
+        "endYear": 1191
+      },
+      {
+        "title": "High Duke of Poland",
+        "titleCn": "波兰最高公爵",
+        "startYear": 1191,
+        "endYear": 1194
+      }
+    ],
+    "tags": [
+      "duke",
+      "noble"
+    ],
+    "rank": "duke",
+    "importanceScore": 82,
+    "historicalRating": 7,
+    "relationships": {
+      "fatherId": "99d80bf9-a3aa-401c-ba6e-735b44235ba4",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "58000516-146f-4b4a-bcbc-ff22faffadbf",
+        "65d04dba-a66f-4061-9340-7176ecf56d1f"
+      ]
+    },
+    "events": [
+      {
+        "year": 1166,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "territory"
+        ],
+        "weight": 70,
+        "label": "Received only Wiślica after Henry of Sandomierz's death",
+        "labelCn": "桑多梅日的亨利死后仅获得维希察",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Casimir_II_the_Just"
+      },
+      {
+        "year": 1173,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 85,
+        "label": "Received the Duchy of Sandomierz",
+        "labelCn": "获得桑多梅日公国",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Casimir_II_the_Just"
+      },
+      {
+        "year": 1177,
+        "type": "rebellion",
+        "tags": [
+          "rebellion",
+          "political_crisis"
+        ],
+        "weight": 100,
+        "label": "Took Kraków in the revolt against Mieszko III",
+        "labelCn": "在反对梅什科三世的叛乱中取得克拉科夫",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Casimir_II_the_Just"
+      },
+      {
+        "year": 1177,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 100,
+        "label": "Became High Duke of Poland",
+        "labelCn": "成为波兰最高公爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Casimir_II_the_Just"
+      },
+      {
+        "year": 1180,
+        "type": "government",
+        "tags": [
+          "government",
+          "church"
+        ],
+        "weight": 90,
+        "label": "Secured elite and ecclesiastical support at the Congress of Łęczyca",
+        "labelCn": "在温奇察会议获得贵族与教会支持",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Casimir_II_the_Just"
+      },
+      {
+        "year": 1186,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "territory"
+        ],
+        "weight": 75,
+        "label": "Extended control into Masovia after Duke Leszek's death",
+        "labelCn": "马佐夫舍公爵莱谢克死后扩大控制",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Casimir_II_the_Just"
+      },
+      {
+        "year": 1191,
+        "type": "politics",
+        "tags": [
+          "politics",
+          "title"
+        ],
+        "weight": 90,
+        "label": "Temporarily lost Kraków to Mieszko III",
+        "labelCn": "短暂将克拉科夫丢给梅什科三世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Casimir_II_the_Just"
+      },
+      {
+        "year": 1191,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 90,
+        "label": "Recovered Kraków and the senior position",
+        "labelCn": "夺回克拉科夫与最高权位",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Casimir_II_the_Just"
+      },
+      {
+        "year": 1194,
+        "type": "death",
+        "tags": [
+          "death",
+          "duke"
+        ],
+        "weight": 75,
+        "label": "Died suddenly at Kraków",
+        "labelCn": "在克拉科夫突然去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Casimir_II_the_Just"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Casimir_II_the_Just",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Casimir_II_the_Just",
+    "sourceNote": "Polish ZPE and fragmentation scholarship; medieval chronicles; Berend et al.; Wikipedia as supplementary index.",
+    "notes": "Casimir II replaced strict seniority with a more hereditary Kraków-centered political order, strengthening the line later continued by Leszek I and Konrad of Masovia.\n\nConfidence / caveats: He may have been born after Bolesław III's testament was formulated, explaining his lack of an original district. His sudden death inspired later poisoning stories, but a specific cause is not established.\n\nUnlinked family: Salomea of Berg (not uniquely matched in the roster); Helen of Znojmo (not uniquely matched in the roster).",
+    "createdDate": "20260827",
+    "createdOrder": 12
+  },
+  {
+    "id": "58000516-146f-4b4a-bcbc-ff22faffadbf",
+    "firstName": "Leszek",
+    "lastName": "",
+    "displayName": "Leszek I the White",
+    "fullName": "Leszek I the White",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "白公爵莱谢克一世",
+    "fullNameCn": "白公爵莱谢克一世",
+    "nicknameCn": "",
+    "birthYear": "",
+    "deathYear": 1227,
+    "birthPlace": "",
+    "birthPlaceCn": "",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "Piast dynasty",
+    "house": "House of Piast",
+    "culture": "Polish",
+    "faith": "Catholic",
+    "primaryTitle": "High Duke of Poland",
+    "primaryTitleCn": "波兰最高公爵",
+    "titles": [
+      {
+        "title": "Duke of Sandomierz",
+        "titleCn": "桑多梅日公爵",
+        "startYear": 1194,
+        "endYear": 1227
+      },
+      {
+        "title": "High Duke of Poland",
+        "titleCn": "波兰最高公爵",
+        "startYear": 1194,
+        "endYear": 1198
+      },
+      {
+        "title": "High Duke of Poland",
+        "titleCn": "波兰最高公爵",
+        "startYear": 1199,
+        "endYear": 1202
+      },
+      {
+        "title": "High Duke of Poland",
+        "titleCn": "波兰最高公爵",
+        "startYear": 1206,
+        "endYear": 1210
+      },
+      {
+        "title": "High Duke of Poland",
+        "titleCn": "波兰最高公爵",
+        "startYear": 1211,
+        "endYear": 1227
+      }
+    ],
+    "tags": [
+      "duke",
+      "noble"
+    ],
+    "rank": "duke",
+    "importanceScore": 80,
+    "historicalRating": 7,
+    "relationships": {
+      "fatherId": "9398b1e2-68f9-45b7-a414-ef63f11687cb",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "fc86e0a6-4656-4127-8167-9e0fb2f8ad98"
+      ]
+    },
+    "events": [
+      {
+        "year": 1194,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 95,
+        "label": "Inherited Sandomierz and a claim to Kraków",
+        "labelCn": "继承桑多梅日及克拉科夫最高权位宣称",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Leszek_I_the_White"
+      },
+      {
+        "year": 1194,
+        "type": "regency",
+        "tags": [
+          "regency",
+          "government"
+        ],
+        "weight": 75,
+        "label": "Ruled initially under his mother's regency",
+        "labelCn": "早期在母亲摄政下统治",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Leszek_I_the_White"
+      },
+      {
+        "year": 1198,
+        "type": "politics",
+        "tags": [
+          "politics",
+          "title"
+        ],
+        "weight": 85,
+        "label": "Lost Kraków to Mieszko III",
+        "labelCn": "将克拉科夫丢给梅什科三世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Leszek_I_the_White"
+      },
+      {
+        "year": 1199,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 85,
+        "label": "Recovered Kraków",
+        "labelCn": "重新夺回克拉科夫",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Leszek_I_the_White"
+      },
+      {
+        "year": 1202,
+        "type": "politics",
+        "tags": [
+          "politics",
+          "title"
+        ],
+        "weight": 85,
+        "label": "Lost Kraków to Władysław III Spindleshanks",
+        "labelCn": "将克拉科夫丢给瓦迪斯瓦夫三世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Leszek_I_the_White"
+      },
+      {
+        "year": 1206,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 90,
+        "label": "Returned to power in Kraków",
+        "labelCn": "重新控制克拉科夫",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Leszek_I_the_White"
+      },
+      {
+        "year": 1210,
+        "type": "politics",
+        "tags": [
+          "politics",
+          "title"
+        ],
+        "weight": 75,
+        "label": "Was briefly displaced from Kraków",
+        "labelCn": "短暂失去克拉科夫",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Leszek_I_the_White"
+      },
+      {
+        "year": 1211,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 85,
+        "label": "Regained the Kraków seniorate",
+        "labelCn": "重新取得克拉科夫最高权位",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Leszek_I_the_White"
+      },
+      {
+        "year": 1227,
+        "type": "political_crisis",
+        "tags": [
+          "political_crisis",
+          "diplomacy"
+        ],
+        "weight": 90,
+        "label": "Attended the ducal assembly at Gąsawa",
+        "labelCn": "参加贡萨瓦诸侯会议",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Leszek_I_the_White"
+      },
+      {
+        "year": 1227,
+        "month": 11,
+        "day": 24,
+        "type": "death",
+        "tags": [
+          "death",
+          "violent"
+        ],
+        "weight": 100,
+        "label": "Was assassinated after the attack at Gąsawa",
+        "labelCn": "贡萨瓦袭击后遭刺杀身亡",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Leszek_I_the_White",
+        "note": "He was killed on 24 November 1227 while fleeing the attack."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Leszek_I_the_White",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Leszek_I_the_White",
+    "sourceNote": "Medieval Polish chronicles; modern scholarship on the Gąsawa assassination; Wikipedia as supplementary chronology index.",
+    "notes": "Leszek I repeatedly held the Kraków seniorate and was the father of Bolesław V. His assassination at Gąsawa accelerated the decline of any effective all-Polish seniorate.\n\nConfidence / caveats: Birth is usually c.1184/1185. Responsibility for the Gąsawa attack remains disputed, with Świętopełk II and/or Władysław Odonic implicated in different reconstructions.\n\nUnlinked family: Helen of Znojmo (not uniquely matched in the roster); Grzymisława of Luck (not uniquely matched in the roster); Salomea of Poland (not uniquely matched in the roster).",
+    "createdDate": "20260827",
+    "createdOrder": 13,
+    "deathCause": {
+      "kind": "violent",
+      "summary": "assassinated",
+      "summaryCn": "遇刺身亡",
+      "detail": "assassinated",
+      "detailCn": "遇刺身亡",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Leszek_I_the_White"
+    }
+  },
+  {
+    "id": "8ad299b1-90a4-42f6-a360-823463866021",
+    "firstName": "Władysław",
+    "lastName": "",
+    "displayName": "Władysław III Spindleshanks",
+    "fullName": "Władysław III Spindleshanks",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "细腿瓦迪斯瓦夫三世",
+    "fullNameCn": "细腿瓦迪斯瓦夫三世",
+    "nicknameCn": "",
+    "birthYear": "",
+    "deathYear": 1231,
+    "birthPlace": "",
+    "birthPlaceCn": "",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "Piast dynasty",
+    "house": "House of Piast",
+    "culture": "Polish",
+    "faith": "Catholic",
+    "primaryTitle": "Duke of Greater Poland and High Duke of Poland",
+    "primaryTitleCn": "大波兰公爵兼波兰最高公爵",
+    "titles": [
+      {
+        "title": "Duke of Greater Poland",
+        "titleCn": "大波兰公爵",
+        "startYear": 1202,
+        "endYear": 1229
+      },
+      {
+        "title": "High Duke of Poland",
+        "titleCn": "波兰最高公爵",
+        "startYear": 1202,
+        "endYear": 1206
+      },
+      {
+        "title": "High Duke of Poland",
+        "titleCn": "波兰最高公爵",
+        "startYear": 1227,
+        "endYear": 1229
+      }
+    ],
+    "tags": [
+      "duke",
+      "noble"
+    ],
+    "rank": "duke",
+    "importanceScore": 69,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "3c2adb50-371a-4669-b860-638e358e9912",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1202,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 95,
+        "label": "Succeeded Mieszko III in Greater Poland and Kraków",
+        "labelCn": "继承梅什科三世的大波兰与克拉科夫权位",
+        "wikiUrl": "https://en.wikipedia.org/wiki/W%C5%82adys%C5%82aw_III_Spindleshanks"
+      },
+      {
+        "year": 1206,
+        "type": "politics",
+        "tags": [
+          "politics",
+          "title"
+        ],
+        "weight": 90,
+        "label": "Lost Kraków to Leszek I",
+        "labelCn": "将克拉科夫丢给莱谢克一世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/W%C5%82adys%C5%82aw_III_Spindleshanks"
+      },
+      {
+        "year": 1206,
+        "type": "rebellion",
+        "tags": [
+          "rebellion",
+          "political_crisis"
+        ],
+        "weight": 80,
+        "label": "Faced rebellion by Władysław Odonic in Greater Poland",
+        "labelCn": "在大波兰面对瓦迪斯瓦夫·奥多尼茨叛乱",
+        "wikiUrl": "https://en.wikipedia.org/wiki/W%C5%82adys%C5%82aw_III_Spindleshanks"
+      },
+      {
+        "year": 1216,
+        "type": "treaty",
+        "tags": [
+          "treaty",
+          "territory"
+        ],
+        "weight": 70,
+        "label": "Reached a temporary settlement with Władysław Odonic",
+        "labelCn": "与瓦迪斯瓦夫·奥多尼茨暂时和解",
+        "wikiUrl": "https://en.wikipedia.org/wiki/W%C5%82adys%C5%82aw_III_Spindleshanks"
+      },
+      {
+        "year": 1227,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 95,
+        "label": "Recovered the Kraków seniorate after Leszek I's death",
+        "labelCn": "莱谢克一世死后重新取得克拉科夫最高权位",
+        "wikiUrl": "https://en.wikipedia.org/wiki/W%C5%82adys%C5%82aw_III_Spindleshanks"
+      },
+      {
+        "year": 1228,
+        "type": "diplomacy",
+        "tags": [
+          "diplomacy",
+          "dynastic_alliance"
+        ],
+        "weight": 80,
+        "label": "Reached an inheritance arrangement with Henry I the Bearded",
+        "labelCn": "与长须亨利一世达成继承与合作安排",
+        "wikiUrl": "https://en.wikipedia.org/wiki/W%C5%82adys%C5%82aw_III_Spindleshanks"
+      },
+      {
+        "year": 1229,
+        "type": "politics",
+        "tags": [
+          "politics",
+          "title"
+        ],
+        "weight": 85,
+        "label": "Lost effective control of Kraków amid conflict with Konrad of Masovia",
+        "labelCn": "与马佐夫舍的康拉德冲突中失去克拉科夫实际控制",
+        "wikiUrl": "https://en.wikipedia.org/wiki/W%C5%82adys%C5%82aw_III_Spindleshanks"
+      },
+      {
+        "year": 1231,
+        "type": "death",
+        "tags": [
+          "death",
+          "duke"
+        ],
+        "weight": 65,
+        "label": "Died without legitimate children",
+        "labelCn": "无合法子嗣去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/W%C5%82adys%C5%82aw_III_Spindleshanks"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/W%C5%82adys%C5%82aw_III_Spindleshanks",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/W%C5%82adys%C5%82aw_III_Spindleshanks",
+    "sourceNote": "Polish fragmentation scholarship and ruler chronologies; medieval chronicles; Wikipedia as supplementary index.",
+    "notes": "Władysław III was the Greater Polish son of Mieszko III who twice held Kraków. His lack of legitimate heirs strengthened the Silesian Piasts and other branches in the succession struggle.\n\nConfidence / caveats: Birth is variously placed c.1161–1167. The exact end of his practical control in Greater Poland and Kraków is complicated by Władysław Odonic's rebellion and Henry I's intervention.\n\nUnlinked family: Eudoxia of Kyiv (not uniquely matched in the roster); Lucia of Rügen (not uniquely matched in the roster).",
+    "createdDate": "20260827",
+    "createdOrder": 14
+  },
+  {
+    "id": "ee33916a-5e60-4295-92a1-86bb78362c75",
+    "firstName": "Henry",
+    "lastName": "",
+    "displayName": "Henry I the Bearded",
+    "fullName": "Henry I the Bearded",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "长须亨利一世",
+    "fullNameCn": "长须亨利一世",
+    "nicknameCn": "",
+    "birthYear": "",
+    "deathYear": 1238,
+    "birthPlace": "",
+    "birthPlaceCn": "",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "Piast dynasty",
+    "house": "House of Piast",
+    "culture": "Polish",
+    "faith": "Catholic",
+    "primaryTitle": "Duke of Silesia and High Duke of Poland",
+    "primaryTitleCn": "西里西亚公爵兼波兰最高公爵",
+    "titles": [
+      {
+        "title": "Duke of Silesia-Wrocław",
+        "titleCn": "西里西亚-弗罗茨瓦夫公爵",
+        "startYear": 1201,
+        "endYear": 1238
+      },
+      {
+        "title": "High Duke of Poland",
+        "titleCn": "波兰最高公爵",
+        "startYear": 1232,
+        "endYear": 1238
+      }
+    ],
+    "tags": [
+      "duke",
+      "noble"
+    ],
+    "rank": "duke",
+    "importanceScore": 83,
+    "historicalRating": 7,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": [
+        "e7450099-b6f6-4b47-ac96-00efe6a956a4"
+      ]
+    },
+    "events": [
+      {
+        "year": 1201,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 90,
+        "label": "Succeeded to the Silesian-Wrocław duchy",
+        "labelCn": "继承西里西亚-弗罗茨瓦夫公国",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_the_Bearded"
+      },
+      {
+        "year": 1202,
+        "type": "treaty",
+        "tags": [
+          "treaty",
+          "territory"
+        ],
+        "weight": 70,
+        "label": "Settled Silesian territorial disputes with Mieszko Tanglefoot",
+        "labelCn": "与跛足梅什科解决西里西亚领地争端",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_the_Bearded"
+      },
+      {
+        "year": 1225,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "territory"
+        ],
+        "weight": 75,
+        "label": "Intervened in the struggle for Kraków",
+        "labelCn": "介入克拉科夫最高权位之争",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_the_Bearded"
+      },
+      {
+        "year": 1227,
+        "type": "political_crisis",
+        "tags": [
+          "political_crisis",
+          "violent"
+        ],
+        "weight": 85,
+        "label": "Was wounded in the Gąsawa attack",
+        "labelCn": "在贡萨瓦袭击中受伤",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_the_Bearded"
+      },
+      {
+        "year": 1228,
+        "type": "government",
+        "tags": [
+          "government",
+          "territory"
+        ],
+        "weight": 85,
+        "label": "Expanded influence over Lesser Poland",
+        "labelCn": "扩大对小波兰的影响",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_the_Bearded"
+      },
+      {
+        "year": 1232,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 100,
+        "label": "Secured Kraków and became High Duke",
+        "labelCn": "控制克拉科夫并成为最高公爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_the_Bearded"
+      },
+      {
+        "year": 1234,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "territory"
+        ],
+        "weight": 90,
+        "label": "Expanded into Greater Poland",
+        "labelCn": "向大波兰扩张",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_the_Bearded"
+      },
+      {
+        "year": 1238,
+        "type": "death",
+        "tags": [
+          "death",
+          "duke"
+        ],
+        "weight": 75,
+        "label": "Died leaving a large Silesian-centered political bloc to Henry II",
+        "labelCn": "去世，将以西里西亚为核心的大型政治集团留给亨利二世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_the_Bearded"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Henry_the_Bearded",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Henry_the_Bearded",
+    "sourceNote": "Polish ZPE materials on reunification attempts; Silesian Piast scholarship; medieval chronicles; Wikipedia as supplementary index.",
+    "notes": "Henry I was the most successful Silesian Piast consolidator before the Mongol invasion, controlling Silesia, Kraków and parts of Greater Poland.\n\nConfidence / caveats: Birth is usually c.1165–1170. His authority outside hereditary Silesia varied in legal form and practical strength; it should not be described as a reunified Kingdom of Poland.\n\nUnlinked family: Bolesław I the Tall (not uniquely matched in the roster); Christina (not uniquely matched in the roster); Hedwig of Andechs (not uniquely matched in the roster); Gertrude of Silesia (not uniquely matched in the roster).",
+    "createdDate": "20260827",
+    "createdOrder": 15
+  },
+  {
+    "id": "e7450099-b6f6-4b47-ac96-00efe6a956a4",
+    "firstName": "Henry",
+    "lastName": "",
+    "displayName": "Henry II the Pious",
+    "fullName": "Henry II the Pious",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "虔诚者亨利二世",
+    "fullNameCn": "虔诚者亨利二世",
+    "nicknameCn": "",
+    "birthYear": "",
+    "deathYear": 1241,
+    "birthPlace": "",
+    "birthPlaceCn": "",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "Piast dynasty",
+    "house": "House of Piast",
+    "culture": "Polish",
+    "faith": "Catholic",
+    "primaryTitle": "Duke of Silesia and High Duke of Poland",
+    "primaryTitleCn": "西里西亚公爵兼波兰最高公爵",
+    "titles": [
+      {
+        "title": "Duke of Silesia-Wrocław",
+        "titleCn": "西里西亚-弗罗茨瓦夫公爵",
+        "startYear": 1238,
+        "endYear": 1241
+      },
+      {
+        "title": "High Duke of Poland",
+        "titleCn": "波兰最高公爵",
+        "startYear": 1238,
+        "endYear": 1241
+      }
+    ],
+    "tags": [
+      "duke",
+      "noble"
+    ],
+    "rank": "duke",
+    "importanceScore": 89,
+    "historicalRating": 8,
+    "relationships": {
+      "fatherId": "ee33916a-5e60-4295-92a1-86bb78362c75",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1224,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 75,
+        "label": "Married Anna of Bohemia",
+        "labelCn": "与波希米亚的安娜结婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_II_the_Pious"
+      },
+      {
+        "year": 1234,
+        "type": "government",
+        "tags": [
+          "government",
+          "dynasty"
+        ],
+        "weight": 75,
+        "label": "Acted increasingly as co-ruler with Henry I",
+        "labelCn": "逐渐与父亲长须亨利共同执政",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_II_the_Pious"
+      },
+      {
+        "year": 1238,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 100,
+        "label": "Succeeded Henry I's Silesian and Kraków dominions",
+        "labelCn": "继承亨利一世的西里西亚与克拉科夫权力",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_II_the_Pious"
+      },
+      {
+        "year": 1239,
+        "type": "government",
+        "tags": [
+          "government",
+          "territory"
+        ],
+        "weight": 80,
+        "label": "Maintained influence in Greater Poland and Lesser Poland",
+        "labelCn": "维持对大波兰与小波兰部分地区的影响",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_II_the_Pious"
+      },
+      {
+        "year": 1241,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "defense"
+        ],
+        "weight": 100,
+        "label": "Mobilized against the Mongol invasion of Poland",
+        "labelCn": "动员抵抗蒙古入侵波兰",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_II_the_Pious"
+      },
+      {
+        "year": 1241,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "defense"
+        ],
+        "weight": 100,
+        "label": "Led the Christian coalition at Legnica",
+        "labelCn": "在莱格尼察率领基督教联军抗击蒙古军",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_II_the_Pious"
+      },
+      {
+        "year": 1241,
+        "month": 4,
+        "day": 9,
+        "type": "death",
+        "tags": [
+          "death",
+          "violent"
+        ],
+        "weight": 100,
+        "label": "Was killed at the Battle of Legnica",
+        "labelCn": "在莱格尼察战役中阵亡",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_II_the_Pious",
+        "note": "Killed on 9 April 1241."
+      },
+      {
+        "year": 1241,
+        "type": "political_crisis",
+        "tags": [
+          "political_crisis",
+          "territory"
+        ],
+        "weight": 90,
+        "label": "His death shattered the Silesian Piast reunification project",
+        "labelCn": "其阵亡使西里西亚皮雅斯特统一计划瓦解",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_II_the_Pious"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Henry_II_the_Pious",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Henry_II_the_Pious",
+    "sourceNote": "Polish ZPE materials on fragmentation and Mongol invasion; Historia Tartarorum traditions used critically; modern Legnica scholarship; Wikipedia as supplementary index.",
+    "notes": "Henry II inherited his father's unusually broad Piast coalition but died fighting the Mongols at Legnica, after which the territories rapidly fragmented.\n\nConfidence / caveats: Birth is usually c.1196–1207. Later patriotic accounts often exaggerate the size or pan-European composition of his army; the battle and his death are secure, but tactical details vary.\n\nUnlinked family: Hedwig of Andechs (not uniquely matched in the roster); Anna of Bohemia (not uniquely matched in the roster); Bolesław II the Horned (not uniquely matched in the roster); Henry III the White (not uniquely matched in the roster); Konrad I of Głogów (not uniquely matched in the roster); Elisabeth of Wrocław (not uniquely matched in the roster).",
+    "createdDate": "20260827",
+    "createdOrder": 16,
+    "deathCause": {
+      "kind": "violent",
+      "summary": "killed in battle",
+      "summaryCn": "战死",
+      "detail": "killed in battle",
+      "detailCn": "战死",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Henry_II_the_Pious"
+    }
+  },
+  {
+    "id": "65d04dba-a66f-4061-9340-7176ecf56d1f",
+    "firstName": "Konrad",
+    "lastName": "",
+    "displayName": "Konrad I of Masovia",
+    "fullName": "Konrad I of Masovia",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "马佐夫舍的康拉德一世",
+    "fullNameCn": "马佐夫舍的康拉德一世",
+    "nicknameCn": "",
+    "birthYear": "",
+    "deathYear": 1247,
+    "birthPlace": "",
+    "birthPlaceCn": "",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "Piast dynasty",
+    "house": "House of Piast",
+    "culture": "Polish",
+    "faith": "Catholic",
+    "primaryTitle": "Duke of Masovia and High Duke of Poland",
+    "primaryTitleCn": "马佐夫舍公爵兼波兰最高公爵",
+    "titles": [
+      {
+        "title": "Duke of Masovia",
+        "titleCn": "马佐夫舍公爵",
+        "startYear": 1200,
+        "endYear": 1247
+      },
+      {
+        "title": "High Duke of Poland",
+        "titleCn": "波兰最高公爵",
+        "startYear": 1229,
+        "endYear": 1232
+      },
+      {
+        "title": "High Duke of Poland",
+        "titleCn": "波兰最高公爵",
+        "startYear": 1241,
+        "endYear": 1243
+      }
+    ],
+    "tags": [
+      "duke",
+      "noble"
+    ],
+    "rank": "duke",
+    "importanceScore": 75,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "9398b1e2-68f9-45b7-a414-ef63f11687cb",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1200,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 85,
+        "label": "Became ruler of Masovia and Kuyavia",
+        "labelCn": "成为马佐夫舍与库亚维亚统治者",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Konrad_I_of_Masovia"
+      },
+      {
+        "year": 1217,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "defense"
+        ],
+        "weight": 75,
+        "label": "Intensified warfare against pagan Prussians",
+        "labelCn": "加剧针对异教普鲁士人的战争",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Konrad_I_of_Masovia"
+      },
+      {
+        "year": 1226,
+        "type": "diplomacy",
+        "tags": [
+          "diplomacy",
+          "alliance"
+        ],
+        "weight": 100,
+        "label": "Invited the Teutonic Order to fight the Prussians",
+        "labelCn": "邀请条顿骑士团对抗普鲁士人",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Konrad_I_of_Masovia"
+      },
+      {
+        "year": 1228,
+        "type": "legal",
+        "tags": [
+          "legal",
+          "territory"
+        ],
+        "weight": 90,
+        "label": "Granted Chełmno territory to the Teutonic Order under disputed arrangements",
+        "labelCn": "以复杂协议将海乌姆诺地区授予条顿骑士团",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Konrad_I_of_Masovia"
+      },
+      {
+        "year": 1229,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 90,
+        "label": "Seized Kraków and became High Duke",
+        "labelCn": "夺取克拉科夫并成为最高公爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Konrad_I_of_Masovia"
+      },
+      {
+        "year": 1232,
+        "type": "politics",
+        "tags": [
+          "politics",
+          "title"
+        ],
+        "weight": 85,
+        "label": "Lost Kraków to Henry I the Bearded",
+        "labelCn": "将克拉科夫丢给长须亨利一世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Konrad_I_of_Masovia"
+      },
+      {
+        "year": 1241,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 90,
+        "label": "Returned to Kraków after Henry II's death",
+        "labelCn": "亨利二世阵亡后重返克拉科夫",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Konrad_I_of_Masovia"
+      },
+      {
+        "year": 1243,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "defeat"
+        ],
+        "weight": 90,
+        "label": "Lost Kraków to Bolesław V after the Battle of Suchodoły",
+        "labelCn": "苏霍多维战役后将克拉科夫丢给波列斯瓦夫五世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Konrad_I_of_Masovia"
+      },
+      {
+        "year": 1247,
+        "type": "death",
+        "tags": [
+          "death",
+          "duke"
+        ],
+        "weight": 65,
+        "label": "Died as Duke of Masovia",
+        "labelCn": "以马佐夫舍公爵身份去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Konrad_I_of_Masovia"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Konrad_I_of_Masovia",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Konrad_I_of_Masovia",
+    "sourceNote": "Modern Polish studies of Masovia and the Teutonic Order; papal and imperial privilege traditions; Wikipedia as supplementary chronology index.",
+    "notes": "Konrad was a major Masovian Piast and a repeated Kraków claimant. His invitation to the Teutonic Order had consequences far beyond his own reign.\n\nConfidence / caveats: Birth is generally c.1187/1188. The precise legal status of the Teutonic Order's initial grants is complex and later documents were contested; it should not be reduced to a simple permanent gift made in one act.\n\nUnlinked family: Helen of Znojmo (not uniquely matched in the roster); Agafia of Rus' (not uniquely matched in the roster); Bolesław I of Masovia (not uniquely matched in the roster); Casimir I of Kuyavia (not uniquely matched in the roster); Siemowit I of Masovia (not uniquely matched in the roster).",
+    "createdDate": "20260827",
+    "createdOrder": 17
+  },
+  {
+    "id": "fc86e0a6-4656-4127-8167-9e0fb2f8ad98",
+    "firstName": "Bolesław",
+    "lastName": "",
+    "displayName": "Bolesław V the Chaste",
+    "fullName": "Bolesław V the Chaste",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "贞洁者波列斯瓦夫五世",
+    "fullNameCn": "贞洁者波列斯瓦夫五世",
+    "nicknameCn": "",
+    "birthYear": 1226,
+    "deathYear": 1279,
+    "birthPlace": "",
+    "birthPlaceCn": "",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "Piast dynasty",
+    "house": "House of Piast",
+    "culture": "Polish",
+    "faith": "Catholic",
+    "primaryTitle": "High Duke of Poland / Duke of Kraków and Sandomierz",
+    "primaryTitleCn": "波兰最高公爵／克拉科夫与桑多梅日公爵",
+    "titles": [
+      {
+        "title": "Duke of Sandomierz",
+        "titleCn": "桑多梅日公爵",
+        "startYear": 1227,
+        "endYear": 1279
+      },
+      {
+        "title": "Duke of Kraków / High Duke",
+        "titleCn": "克拉科夫公爵／最高公爵",
+        "startYear": 1243,
+        "endYear": 1279
+      }
+    ],
+    "tags": [
+      "duke",
+      "noble"
+    ],
+    "rank": "duke",
+    "importanceScore": 72,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "58000516-146f-4b4a-bcbc-ff22faffadbf",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1227,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 80,
+        "label": "Inherited Sandomierz as a child after Leszek I's assassination",
+        "labelCn": "莱谢克一世遇刺后幼年继承桑多梅日",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Boles%C5%82aw_V_the_Chaste"
+      },
+      {
+        "year": 1227,
+        "type": "regency",
+        "tags": [
+          "regency",
+          "government"
+        ],
+        "weight": 70,
+        "label": "Ruled initially under regency and competing guardianships",
+        "labelCn": "早期处于摄政与诸侯监护竞争之下",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Boles%C5%82aw_V_the_Chaste"
+      },
+      {
+        "year": 1239,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 80,
+        "label": "Married Kinga of Hungary",
+        "labelCn": "与匈牙利的金加结婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Boles%C5%82aw_V_the_Chaste"
+      },
+      {
+        "year": 1241,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "defeat"
+        ],
+        "weight": 85,
+        "label": "His lands were devastated by the Mongol invasion",
+        "labelCn": "其领地遭蒙古入侵严重破坏",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Boles%C5%82aw_V_the_Chaste"
+      },
+      {
+        "year": 1243,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "conquest"
+        ],
+        "weight": 95,
+        "label": "Defeated Konrad of Masovia at Suchodoły",
+        "labelCn": "在苏霍多维击败马佐夫舍的康拉德",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Boles%C5%82aw_V_the_Chaste"
+      },
+      {
+        "year": 1243,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 100,
+        "label": "Secured Kraków and the senior position",
+        "labelCn": "取得克拉科夫及最高权位",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Boles%C5%82aw_V_the_Chaste"
+      },
+      {
+        "year": 1257,
+        "type": "law",
+        "tags": [
+          "law",
+          "administration"
+        ],
+        "weight": 85,
+        "label": "Granted Kraków a major municipal charter",
+        "labelCn": "向克拉科夫授予重要城市特许状",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Boles%C5%82aw_V_the_Chaste"
+      },
+      {
+        "year": 1259,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "defeat"
+        ],
+        "weight": 80,
+        "label": "A second Mongol invasion devastated Lesser Poland",
+        "labelCn": "第二次蒙古入侵重创小波兰",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Boles%C5%82aw_V_the_Chaste"
+      },
+      {
+        "year": 1279,
+        "type": "death",
+        "tags": [
+          "death",
+          "duke"
+        ],
+        "weight": 65,
+        "label": "Died childless",
+        "labelCn": "无嗣去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Boles%C5%82aw_V_the_Chaste"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Boles%C5%82aw_V_the_Chaste",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Boles%C5%82aw_V_the_Chaste",
+    "sourceNote": "Polish medieval urban and Piast scholarship; chronicles of Mongol invasions; Wikipedia as supplementary index.",
+    "notes": "Bolesław V provided unusually long stability in Kraków after 1243 but left no children, opening succession to collateral Piast branches.\n\nConfidence / caveats: The title 'High Duke' was by this period increasingly conventional; possession of Kraków no longer implied effective supremacy over all Piast duchies.\n\nUnlinked family: Grzymisława of Luck (not uniquely matched in the roster); Kinga of Poland (not uniquely matched in the roster).",
+    "createdDate": "20260827",
+    "createdOrder": 18
+  },
+  {
+    "id": "b57386b9-8f31-4990-9125-7d0e7f7a55b7",
+    "firstName": "Leszek",
+    "lastName": "",
+    "displayName": "Leszek II the Black",
+    "fullName": "Leszek II the Black",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "黑公爵莱谢克二世",
+    "fullNameCn": "黑公爵莱谢克二世",
+    "nicknameCn": "",
+    "birthYear": 1241,
+    "deathYear": 1288,
+    "birthPlace": "",
+    "birthPlaceCn": "",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "Piast dynasty",
+    "house": "House of Piast",
+    "culture": "Polish",
+    "faith": "Catholic",
+    "primaryTitle": "Duke of Kraków and Sandomierz",
+    "primaryTitleCn": "克拉科夫与桑多梅日公爵",
+    "titles": [
+      {
+        "title": "Duke of Sieradz",
+        "titleCn": "谢拉兹公爵",
+        "startYear": 1261,
+        "endYear": 1288
+      },
+      {
+        "title": "Duke of Kraków and Sandomierz",
+        "titleCn": "克拉科夫与桑多梅日公爵",
+        "startYear": 1279,
+        "endYear": 1288
+      }
+    ],
+    "tags": [
+      "duke",
+      "noble"
+    ],
+    "rank": "duke",
+    "importanceScore": 71,
+    "historicalRating": 6,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1261,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 80,
+        "label": "Became Duke of Sieradz",
+        "labelCn": "成为谢拉兹公爵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Leszek_II_the_Black"
+      },
+      {
+        "year": 1265,
+        "type": "marriage",
+        "tags": [
+          "marriage",
+          "dynastic_alliance"
+        ],
+        "weight": 70,
+        "label": "Married Gryfina of Halych",
+        "labelCn": "与加利西亚的格里菲娜结婚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Leszek_II_the_Black"
+      },
+      {
+        "year": 1279,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 100,
+        "label": "Succeeded Bolesław V in Kraków and Sandomierz",
+        "labelCn": "继承波列斯瓦夫五世统治克拉科夫与桑多梅日",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Leszek_II_the_Black"
+      },
+      {
+        "year": 1280,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "defense"
+        ],
+        "weight": 90,
+        "label": "Defeated the Rus'-Tatar invasion near Goźlice",
+        "labelCn": "在戈日利采附近击败罗斯-鞑靼入侵",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Leszek_II_the_Black"
+      },
+      {
+        "year": 1282,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "defense"
+        ],
+        "weight": 80,
+        "label": "Defeated Yotvingian raiders",
+        "labelCn": "击败约特文人袭扰",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Leszek_II_the_Black"
+      },
+      {
+        "year": 1285,
+        "type": "rebellion",
+        "tags": [
+          "rebellion",
+          "political_crisis"
+        ],
+        "weight": 90,
+        "label": "Defeated a major Lesser Polish noble revolt",
+        "labelCn": "击败小波兰大贵族叛乱",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Leszek_II_the_Black"
+      },
+      {
+        "year": 1287,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "defense"
+        ],
+        "weight": 90,
+        "label": "Survived the third Mongol invasion of Poland",
+        "labelCn": "抵御第三次蒙古入侵波兰",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Leszek_II_the_Black"
+      },
+      {
+        "year": 1288,
+        "type": "death",
+        "tags": [
+          "death",
+          "duke"
+        ],
+        "weight": 70,
+        "label": "Died childless, opening a new Kraków succession war",
+        "labelCn": "无嗣去世，引发新一轮克拉科夫继承战争",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Leszek_II_the_Black"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Leszek_II_the_Black",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Leszek_II_the_Black",
+    "sourceNote": "Polish Piast and Lesser Polish scholarship; chronicles of the 1287–1288 Mongol invasion; Wikipedia as supplementary index.",
+    "notes": "Leszek II inherited Kraków through collateral Piast kinship rather than direct descent from Bolesław V and died childless, triggering the struggle won temporarily by Henry IV Probus.\n\nConfidence / caveats: He was a son of Casimir I of Kuyavia and thus not Bolesław V's literal nephew in the narrowest sibling-child sense; they were related through the wider Piast family. The project should avoid oversimplifying this collateral kinship.\n\nUnlinked family: Casimir I of Kuyavia (not uniquely matched in the roster); Constance of Wrocław (not uniquely matched in the roster); Gryfina of Halych (not uniquely matched in the roster).",
+    "createdDate": "20260827",
+    "createdOrder": 19
+  },
+  {
+    "id": "dc26e7c3-51b9-4365-b779-04a7c873bb35",
+    "firstName": "Henry",
+    "lastName": "",
+    "displayName": "Henry IV Probus",
+    "fullName": "Henry IV Probus",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "正直者亨利四世",
+    "fullNameCn": "正直者亨利四世",
+    "nicknameCn": "",
+    "birthYear": "",
+    "deathYear": 1290,
+    "birthPlace": "",
+    "birthPlaceCn": "",
+    "deathPlace": "",
+    "deathPlaceCn": "",
+    "gender": "male",
+    "dynasty": "Piast dynasty",
+    "house": "House of Piast",
+    "culture": "Polish",
+    "faith": "Catholic",
+    "primaryTitle": "Duke of Wrocław and Kraków",
+    "primaryTitleCn": "弗罗茨瓦夫与克拉科夫公爵",
+    "titles": [
+      {
+        "title": "Duke of Wrocław",
+        "titleCn": "弗罗茨瓦夫公爵",
+        "startYear": 1266,
+        "endYear": 1290
+      },
+      {
+        "title": "Duke of Kraków / High Duke",
+        "titleCn": "克拉科夫公爵／最高公爵",
+        "startYear": 1288,
+        "endYear": 1290
+      }
+    ],
+    "tags": [
+      "duke",
+      "noble"
+    ],
+    "rank": "duke",
+    "importanceScore": 82,
+    "historicalRating": 7,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1266,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 90,
+        "label": "Inherited the Duchy of Wrocław as a minor",
+        "labelCn": "幼年继承弗罗茨瓦夫公国",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_IV_Probus"
+      },
+      {
+        "year": 1277,
+        "type": "battle",
+        "tags": [
+          "battle",
+          "defeat"
+        ],
+        "weight": 85,
+        "label": "Was captured during conflict with Bolesław II the Horned",
+        "labelCn": "与角公爵波列斯瓦夫二世冲突中被俘",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_IV_Probus"
+      },
+      {
+        "year": 1278,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "government"
+        ],
+        "weight": 75,
+        "label": "Assumed independent rule after guardianship",
+        "labelCn": "结束监护后开始独立统治",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_IV_Probus"
+      },
+      {
+        "year": 1282,
+        "type": "church",
+        "tags": [
+          "church",
+          "political_crisis"
+        ],
+        "weight": 80,
+        "label": "Entered a prolonged jurisdictional dispute with Bishop Thomas II",
+        "labelCn": "与主教托马斯二世陷入长期管辖权冲突",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_IV_Probus"
+      },
+      {
+        "year": 1287,
+        "type": "treaty",
+        "tags": [
+          "treaty",
+          "church"
+        ],
+        "weight": 75,
+        "label": "Settled the conflict with Bishop Thomas II",
+        "labelCn": "与托马斯二世主教达成和解",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_IV_Probus"
+      },
+      {
+        "year": 1288,
+        "type": "campaign",
+        "tags": [
+          "campaign",
+          "conquest"
+        ],
+        "weight": 95,
+        "label": "Entered the succession war for Kraków",
+        "labelCn": "加入克拉科夫继承战争",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_IV_Probus"
+      },
+      {
+        "year": 1289,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 100,
+        "label": "Secured Kraków after defeating rival claimants",
+        "labelCn": "击败竞争者后控制克拉科夫",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_IV_Probus"
+      },
+      {
+        "year": 1290,
+        "type": "politics",
+        "tags": [
+          "politics",
+          "king"
+        ],
+        "weight": 90,
+        "label": "Pursued plans for a royal coronation",
+        "labelCn": "推动获得波兰王冠的计划",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_IV_Probus"
+      },
+      {
+        "year": 1290,
+        "type": "death",
+        "tags": [
+          "death",
+          "uncertain"
+        ],
+        "weight": 100,
+        "label": "Died suddenly before a possible coronation",
+        "labelCn": "可能加冕前突然去世",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_IV_Probus"
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Henry_IV_Probus",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Henry_IV_Probus",
+    "sourceNote": "Polish ZPE materials on reunification attempts; Silesian Piast scholarship; medieval chronicles; Wikipedia as supplementary index.",
+    "notes": "Henry IV was the last major Silesian Piast contender to use Kraków as the base for reunification. His death in 1290 opened the way for Przemysł II's alternative Greater Polish path to kingship.\n\nConfidence / caveats: Birth is c.1257/1258. Medieval sources and later tradition frequently allege poisoning, but responsibility and even poisoning itself are not certain enough for deathCause. His royal-coronation negotiations did not result in a coronation.\n\nUnlinked family: Henry III the White (not uniquely matched in the roster); Judith of Masovia (not uniquely matched in the roster); Constance of Opole (?) (not uniquely matched in the roster); Matilda of Brandenburg-Salzwedel (not uniquely matched in the roster).",
+    "createdDate": "20260827",
+    "createdOrder": 20
+  },
+  {
+    "id": "a39e3b4d-8aaf-4f82-a721-6de4c3a50da8",
+    "firstName": "Przemysł",
+    "lastName": "",
+    "displayName": "Przemysł II",
+    "fullName": "Przemysł II",
+    "nickname": "",
+    "alsoKnownAs": [],
+    "nicknameTags": [],
+    "displayNameCn": "普热梅斯乌二世",
+    "fullNameCn": "普热梅斯乌二世",
+    "nicknameCn": "",
+    "birthYear": 1257,
+    "deathYear": 1296,
+    "birthPlace": "",
+    "birthPlaceCn": "",
+    "deathPlace": "near Rogoźno",
+    "deathPlaceCn": "罗戈日诺附近",
+    "gender": "male",
+    "dynasty": "Piast dynasty",
+    "house": "House of Piast",
+    "culture": "Polish",
+    "faith": "Catholic",
+    "primaryTitle": "King of Poland",
+    "primaryTitleCn": "波兰国王",
+    "titles": [
+      {
+        "title": "Duke of Poznań / Greater Poland",
+        "titleCn": "波兹南／大波兰公爵",
+        "startYear": 1273,
+        "endYear": 1296
+      },
+      {
+        "title": "Duke of Pomerelia",
+        "titleCn": "东波美拉尼亚公爵",
+        "startYear": 1294,
+        "endYear": 1296
+      },
+      {
+        "title": "King of Poland",
+        "titleCn": "波兰国王",
+        "startYear": 1295,
+        "endYear": 1296
+      }
+    ],
+    "tags": [
+      "monarch",
+      "king",
+      "noble"
+    ],
+    "rank": "king",
+    "importanceScore": 94,
+    "historicalRating": 8,
+    "relationships": {
+      "fatherId": "",
+      "motherId": "",
+      "spouseIds": [],
+      "partnerIds": [],
+      "childIds": []
+    },
+    "events": [
+      {
+        "year": 1257,
+        "type": "childbirth",
+        "tags": [
+          "childbirth",
+          "dynasty"
+        ],
+        "weight": 75,
+        "label": "Was born posthumously after the death of Przemysł I",
+        "labelCn": "在父亲普热梅斯乌一世去世后遗腹出生",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Przemys%C5%82_II"
+      },
+      {
+        "year": 1273,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 85,
+        "label": "Assumed independent rule in Poznań",
+        "labelCn": "开始独立统治波兹南",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Przemys%C5%82_II"
+      },
+      {
+        "year": 1279,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "territory"
+        ],
+        "weight": 90,
+        "label": "Inherited additional Greater Polish lands after Bolesław the Pious",
+        "labelCn": "虔诚者波列斯瓦夫死后继承更多大波兰领地",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Przemys%C5%82_II"
+      },
+      {
+        "year": 1282,
+        "type": "treaty",
+        "tags": [
+          "treaty",
+          "dynastic_alliance"
+        ],
+        "weight": 100,
+        "label": "Concluded the Treaty of Kępno with Mestwin II of Pomerelia",
+        "labelCn": "与东波美拉尼亚的梅斯特温二世签订肯普诺条约",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Przemys%C5%82_II"
+      },
+      {
+        "year": 1283,
+        "type": "death",
+        "tags": [
+          "death",
+          "uncertain"
+        ],
+        "weight": 70,
+        "label": "His first wife Ludgarda died under suspicious later traditions",
+        "labelCn": "首任妻子卢德加尔达去世，后世出现可疑传闻",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Przemys%C5%82_II",
+        "note": "No reliable evidence proves Przemysł ordered her death."
+      },
+      {
+        "year": 1290,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "territory"
+        ],
+        "weight": 90,
+        "label": "Inherited a claim to Kraków from Henry IV Probus",
+        "labelCn": "从亨利四世遗嘱获得克拉科夫继承权",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Przemys%C5%82_II"
+      },
+      {
+        "year": 1291,
+        "type": "politics",
+        "tags": [
+          "politics",
+          "territory"
+        ],
+        "weight": 80,
+        "label": "Withdrew from Kraków under pressure from Wenceslaus II",
+        "labelCn": "在瓦茨拉夫二世压力下退出克拉科夫",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Przemys%C5%82_II"
+      },
+      {
+        "year": 1294,
+        "type": "succession",
+        "tags": [
+          "succession",
+          "title"
+        ],
+        "weight": 100,
+        "label": "Inherited Pomerelia after Mestwin II's death",
+        "labelCn": "梅斯特温二世死后继承东波美拉尼亚",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Przemys%C5%82_II"
+      },
+      {
+        "year": 1295,
+        "month": 6,
+        "day": 26,
+        "type": "coronation",
+        "tags": [
+          "coronation",
+          "king"
+        ],
+        "weight": 100,
+        "label": "Was crowned King of Poland at Gniezno",
+        "labelCn": "在格涅兹诺加冕为波兰国王",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Przemys%C5%82_II",
+        "note": "Coronation on 26 June 1295 revived the Polish royal title after more than two centuries."
+      },
+      {
+        "year": 1295,
+        "type": "government",
+        "tags": [
+          "government",
+          "territory"
+        ],
+        "weight": 90,
+        "label": "Ruled a kingdom centered on Greater Poland and Pomerelia",
+        "labelCn": "统治以大波兰与东波美拉尼亚为核心的王国",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Przemys%C5%82_II"
+      },
+      {
+        "year": 1296,
+        "type": "political_crisis",
+        "tags": [
+          "political_crisis",
+          "defense"
+        ],
+        "weight": 90,
+        "label": "Was attacked near Rogoźno in an attempted abduction",
+        "labelCn": "在罗戈日诺附近遭遇绑架袭击",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Przemys%C5%82_II"
+      },
+      {
+        "year": 1296,
+        "month": 2,
+        "day": 8,
+        "type": "death",
+        "tags": [
+          "death",
+          "violent"
+        ],
+        "weight": 100,
+        "label": "Was murdered near Rogoźno",
+        "labelCn": "在罗戈日诺附近被杀",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Przemys%C5%82_II",
+        "note": "He was killed on 8 February 1296 after being wounded during an attempted abduction."
+      }
+    ],
+    "wikiUrl": "https://en.wikipedia.org/wiki/Przemys%C5%82_II",
+    "portraitUrl": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Przemys%C5%82_II",
+    "sourceNote": "Museum of Polish History on the 1295 coronation; Polish Ministry of Education ZPE materials; Middle Pomerania Museum and Rogoźno municipal historical materials on the 1296 murder; modern scholarship; Wikipedia as supplementary index.",
+    "notes": "Przemysł II restored the Polish royal title in 1295 without controlling all former Polish lands. His kingdom centered on Greater Poland and Pomerelia, providing an ideological precedent for later reunification under Władysław I the Elbow-high.\n\nConfidence / caveats: His 1295 coronation did not end political fragmentation. The exact organizers of his 1296 murder remain debated; Brandenburg involvement is strongly represented in near-contemporary traditions, while accusations against Greater Polish noble families are less certain. Allegations that he ordered Ludgarda's death are unproven.\n\nUnlinked family: Przemysł I of Greater Poland (not uniquely matched in the roster); Elisabeth of Wrocław (not uniquely matched in the roster); Ludgarda of Mecklenburg (not uniquely matched in the roster); Richeza of Sweden (not uniquely matched in the roster); Margaret of Brandenburg (not uniquely matched in the roster); Richeza of Poland (not uniquely matched in the roster).",
+    "createdDate": "20260827",
+    "createdOrder": 21,
+    "deathCause": {
+      "kind": "violent",
+      "summary": "assassinated during an attempted abduction",
+      "summaryCn": "在绑架未遂过程中遭刺杀",
+      "detail": "assassinated during an attempted abduction",
+      "detailCn": "在绑架未遂过程中遭刺杀",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Przemys%C5%82_II"
+    }
+  },
+  {
+    "id": "418c7ec4-c833-4159-9233-89a616c29d20",
+    "firstName": "Władysław", "lastName": "", "displayName": "Władysław I the Elbow-high", "fullName": "Władysław I the Elbow-high", "nickname": "the Elbow-high", "alsoKnownAs": ["Władysław I Łokietek", "Wladyslaw I the Short"], "nicknameTags": ["the Elbow-high"],
+    "displayNameCn": "瓦迪斯瓦夫一世·肘高", "fullNameCn": "瓦迪斯瓦夫一世·肘高", "nicknameCn": "肘高者",
+    "birthYear": 1260, "deathYear": 1333, "birthPlace": "", "birthPlaceCn": "", "deathPlace": "Kraków", "deathPlaceCn": "克拉科夫", "gender": "male",
+    "dynasty": "Piast dynasty", "house": "House of Piast", "culture": "Polish", "faith": "Catholic",
+    "primaryTitle": "King of Poland", "primaryTitleCn": "波兰国王", "titles": [{"title":"Duke of Poland","titleCn":"波兰公爵","startYear":1306,"endYear":1320},{"title":"King of Poland","titleCn":"波兰国王","startYear":1320,"endYear":1333}],
+    "tags": ["king","monarch","duke","noble","commander"], "rank": "king", "importanceScore": 90, "historicalRating": 8,
+    "relationships": {"fatherId":"", "motherId":"", "spouseIds":[], "partnerIds":[], "childIds":["867cadf3-9cc8-44a7-a183-faa994628a6d"]},
+    "events": [
+      {"year":1300,"type":"exile","tags":["exile","political_crisis"],"weight":75,"label":"Was driven from Poland by Wenceslaus II's advance","labelCn":"因瓦茨拉夫二世推进而被逐出波兰","wikiUrl":"https://en.wikipedia.org/wiki/W%C5%82adys%C5%82aw_I_the_Elbow-high"},
+      {"year":1304,"type":"campaign","tags":["campaign","restoration"],"weight":85,"label":"Returned from exile to recover his Polish lands","labelCn":"自流亡归来，收复其波兰领地","wikiUrl":"https://en.wikipedia.org/wiki/W%C5%82adys%C5%82aw_I_the_Elbow-high"},
+      {"year":1306,"type":"succession","tags":["succession","government"],"weight":90,"label":"Took Kraków after the Přemyslid line ended","labelCn":"普热米斯尔王系断绝后取得克拉科夫","wikiUrl":"https://en.wikipedia.org/wiki/W%C5%82adys%C5%82aw_I_the_Elbow-high"},
+      {"year":1311,"type":"rebellion","tags":["rebellion","political_crisis"],"weight":80,"label":"Suppressed the Kraków–Sandomierz revolt","labelCn":"镇压克拉科夫—桑多梅日起义","wikiUrl":"https://en.wikipedia.org/wiki/W%C5%82adys%C5%82aw_I_the_Elbow-high"},
+      {"year":1320,"month":1,"day":20,"type":"coronation","tags":["coronation","monarch"],"weight":100,"label":"Was crowned King of Poland at Kraków","labelCn":"在克拉科夫加冕为波兰国王","wikiUrl":"https://en.wikipedia.org/wiki/W%C5%82adys%C5%82aw_I_the_Elbow-high"},
+      {"year":1331,"type":"battle","tags":["battle","commander","defense"],"weight":85,"label":"Fought the Teutonic Order at Płowce","labelCn":"在普沃夫采与条顿骑士团作战","wikiUrl":"https://en.wikipedia.org/wiki/Battle_of_P%C5%82owce"},
+      {"year":1333,"month":3,"day":2,"type":"death","tags":["death"],"weight":90,"label":"Died at Kraków","labelCn":"在克拉科夫逝世","wikiUrl":"https://en.wikipedia.org/wiki/W%C5%82adys%C5%82aw_I_the_Elbow-high"}
+    ],
+    "wikiUrl":"https://en.wikipedia.org/wiki/W%C5%82adys%C5%82aw_I_the_Elbow-high", "portraitUrl":"", "sourceUrl":"https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/poland-1569", "sourceNote":"Basic monarch card; dates and Polish reunification cross-checked against the cited overview.", "notes":"Władysław I reunited enough of the Polish lands to restore a crowned monarchy in 1320. His rule did not include all historic Polish territories, and the conflict with the Teutonic Order remained unresolved.", "createdDate":"20260827", "createdOrder":22
+  },
+  {
+    "id": "867cadf3-9cc8-44a7-a183-faa994628a6d",
+    "firstName":"Casimir", "lastName":"", "displayName":"Casimir III the Great", "fullName":"Casimir III the Great", "nickname":"the Great", "alsoKnownAs":["Casimir the Great", "Kazimierz III Wielki"], "nicknameTags":["the Great"],
+    "displayNameCn":"卡齐米日三世·大帝", "fullNameCn":"卡齐米日三世·大帝", "nicknameCn":"大帝", "birthYear":1310, "deathYear":1370, "birthPlace":"Kowal", "birthPlaceCn":"科瓦尔", "deathPlace":"Kraków", "deathPlaceCn":"克拉科夫", "gender":"male",
+    "dynasty":"Piast dynasty", "house":"House of Piast", "culture":"Polish", "faith":"Catholic", "primaryTitle":"King of Poland", "primaryTitleCn":"波兰国王", "titles":[{"title":"King of Poland","titleCn":"波兰国王","startYear":1333,"endYear":1370}],
+    "tags":["king","monarch","commander","lawgiver","builder"], "rank":"king", "importanceScore":95, "historicalRating":9,
+    "relationships":{"fatherId":"418c7ec4-c833-4159-9233-89a616c29d20","motherId":"","spouseIds":[],"partnerIds":[],"childIds":[]},
+    "events":[
+      {"year":1333,"type":"succession","tags":["succession","monarch"],"weight":100,"label":"Succeeded Władysław I as King of Poland","labelCn":"继承瓦迪斯瓦夫一世为波兰国王","wikiUrl":"https://en.wikipedia.org/wiki/Casimir_III_the_Great"},
+      {"year":1335,"type":"diplomacy","tags":["diplomacy","territory"],"weight":80,"label":"Settled the Bohemian claim to the Polish crown at Trencsén","labelCn":"在特伦钦解决波希米亚对波兰王冠的主张","wikiUrl":"https://en.wikipedia.org/wiki/Treaty_of_Tren%C4%8D%C3%ADn"},
+      {"year":1343,"type":"diplomacy","tags":["diplomacy","peace"],"weight":90,"label":"Concluded the Peace of Kalisz with the Teutonic Order","labelCn":"与条顿骑士团缔结卡利什和约","wikiUrl":"https://en.wikipedia.org/wiki/Treaty_of_Kalisz"},
+      {"year":1340,"type":"campaign","tags":["campaign","territory","commander"],"weight":85,"label":"Began the long struggle for Red Ruthenia","labelCn":"开始争夺红鲁塞尼亚的长期斗争","wikiUrl":"https://en.wikipedia.org/wiki/Galicia%E2%80%93Volhynia_Wars"},
+      {"year":1347,"type":"government","tags":["government","law"],"weight":85,"label":"Issued the Statutes of Wiślica","labelCn":"颁布《维希利察法令》","wikiUrl":"https://en.wikipedia.org/wiki/Statutes_of_Casimir_the_Great"},
+      {"year":1364,"type":"education","tags":["education","foundation"],"weight":90,"label":"Founded the Studium Generale at Kraków","labelCn":"创建克拉科夫大学前身“总学院”","wikiUrl":"https://en.wikipedia.org/wiki/Jagiellonian_University"},
+      {"year":1364,"type":"diplomacy","tags":["diplomacy","summit"],"weight":75,"label":"Hosted the Congress of Kraków","labelCn":"主持克拉科夫会议","wikiUrl":"https://en.wikipedia.org/wiki/Congress_of_Krak%C3%B3w"},
+      {"year":1370,"month":11,"day":5,"type":"death","tags":["death"],"weight":100,"label":"Died without a legitimate surviving son","labelCn":"未留下合法存活儿子而逝世","wikiUrl":"https://en.wikipedia.org/wiki/Casimir_III_the_Great"}
+    ],
+    "wikiUrl":"https://en.wikipedia.org/wiki/Casimir_III_the_Great", "portraitUrl":"", "sourceUrl":"https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/poland-1569", "sourceNote":"Basic monarch card; the consolidation, Kalisz peace, Ruthenian expansion and reforms are cross-checked against the cited overview.", "notes":"The last Piast king of Poland. Casimir consolidated the reunited kingdom through diplomacy, law, urban development and expansion into Red Ruthenia; his lack of a legitimate son brought the Angevin succession.", "createdDate":"20260827", "createdOrder":23
+  }
+]

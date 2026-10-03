@@ -659,5 +659,36 @@
       "culpritCn": "杜拉佐的查理（那不勒斯国王查理三世）",
       "wikiUrl": "https://en.wikipedia.org/wiki/Joanna_I_of_Naples"
     }
+  },
+  {
+    "id":"2c08f527-bd3a-45f3-bb6c-d2b57fcf78d2", "firstName":"Louis", "lastName":"", "displayName":"Louis I of Hungary", "fullName":"Louis I of Hungary", "nickname":"the Great", "alsoKnownAs":["Louis the Great", "Louis I of Poland"], "nicknameTags":["the Great"],
+    "displayNameCn":"匈牙利的拉约什一世", "fullNameCn":"匈牙利的拉约什一世", "nicknameCn":"大帝", "birthYear":1326, "deathYear":1382, "birthPlace":"Visegrád", "birthPlaceCn":"维谢格拉德", "deathPlace":"Nagyszombat", "deathPlaceCn":"瑙吉松博特", "gender":"male",
+    "dynasty":"Capetian dynasty", "house":"Capetian House of Anjou", "culture":"Hungarian", "faith":"Catholic", "primaryTitle":"King of Hungary and Poland", "primaryTitleCn":"匈牙利与波兰国王", "titles":[{"title":"King of Hungary","titleCn":"匈牙利国王","startYear":1342,"endYear":1382},{"title":"King of Poland","titleCn":"波兰国王","startYear":1370,"endYear":1382}],
+    "tags":["king","monarch","commander","lawgiver"], "rank":"king", "importanceScore":87, "historicalRating":7,
+    "relationships":{"fatherId":"","motherId":"","spouseIds":[],"partnerIds":[],"childIds":["1e16a1f9-4f38-475c-98af-240ebaf2824c"]},
+    "events":[
+      {"year":1342,"type":"succession","tags":["succession","monarch"],"weight":95,"label":"Succeeded as King of Hungary","labelCn":"继承为匈牙利国王","wikiUrl":"https://en.wikipedia.org/wiki/Louis_I_of_Hungary"},
+      {"year":1358,"type":"diplomacy","tags":["diplomacy","territory"],"weight":80,"label":"Secured Dalmatia by the Treaty of Zadar","labelCn":"通过《扎达尔条约》取得达尔马提亚","wikiUrl":"https://en.wikipedia.org/wiki/Treaty_of_Zadar"},
+      {"year":1370,"type":"succession","tags":["succession","monarch"],"weight":100,"label":"Succeeded Casimir III as King of Poland","labelCn":"继承卡齐米日三世为波兰国王","wikiUrl":"https://en.wikipedia.org/wiki/Louis_I_of_Hungary"},
+      {"year":1374,"type":"government","tags":["government","privilege"],"weight":85,"label":"Issued the Privilege of Koszyce","labelCn":"颁布《科希策特权法》","wikiUrl":"https://en.wikipedia.org/wiki/Privilege_of_Koszyce"},
+      {"year":1382,"month":9,"day":11,"type":"death","tags":["death"],"weight":90,"label":"Died, leaving the Polish succession to his daughters","labelCn":"逝世，将波兰继承问题留给其女儿们","wikiUrl":"https://en.wikipedia.org/wiki/Louis_I_of_Hungary"}
+    ],
+    "wikiUrl":"https://en.wikipedia.org/wiki/Louis_I_of_Hungary", "portraitUrl":"", "sourceUrl":"https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/poland-1569", "sourceNote":"Basic monarch card; Hungarian and Polish reigns and the Koszyce privilege are cross-checked against the cited overview.", "notes":"Louis united the Hungarian and Polish crowns in personal union. His 1374 privilege gained acceptance for a female succession but strengthened the political position of the Polish nobility.", "createdDate":"20260827", "createdOrder":24
+  },
+  {
+    "id":"1e16a1f9-4f38-475c-98af-240ebaf2824c", "firstName":"Jadwiga", "lastName":"", "displayName":"Jadwiga of Poland", "fullName":"Jadwiga of Poland", "nickname":"", "alsoKnownAs":["Hedwig of Anjou", "Jadwiga, King of Poland"], "nicknameTags":[],
+    "displayNameCn":"波兰的雅德维嘉", "fullNameCn":"波兰的雅德维嘉", "nicknameCn":"", "birthYear":1373, "deathYear":1399, "birthPlace":"Buda", "birthPlaceCn":"布达", "deathPlace":"Kraków", "deathPlaceCn":"克拉科夫", "gender":"female",
+    "dynasty":"Capetian dynasty", "house":"Capetian House of Anjou", "culture":"Polish/Hungarian", "faith":"Catholic", "primaryTitle":"King of Poland", "primaryTitleCn":"波兰国王（女王）", "titles":[{"title":"King of Poland","titleCn":"波兰国王（女王）","startYear":1384,"endYear":1399}],
+    "tags":["king","queen","monarch","ruling_queen","saint"], "rank":"king", "importanceScore":91, "historicalRating":8,
+    "relationships":{"fatherId":"2c08f527-bd3a-45f3-bb6c-d2b57fcf78d2","motherId":"","spouseIds":["877637eb-5718-4a4c-8528-fd40762899a5"],"partnerIds":[],"childIds":[]},
+    "events":[
+      {"year":1384,"month":10,"day":15,"type":"coronation","tags":["coronation","monarch","queen"],"weight":100,"label":"Was crowned King of Poland at Kraków","labelCn":"在克拉科夫加冕为波兰国王（女王）","wikiUrl":"https://en.wikipedia.org/wiki/Jadwiga_of_Poland"},
+      {"year":1385,"month":8,"day":14,"type":"diplomacy","tags":["diplomacy","union"],"weight":95,"label":"Accepted the Union of Krewo agreement with Jogaila","labelCn":"接受与雅盖沃缔结《克雷沃联合》","wikiUrl":"https://en.wikipedia.org/wiki/Union_of_Krewo"},
+      {"year":1386,"month":2,"day":18,"type":"marriage","tags":["marriage","dynastic_alliance"],"weight":100,"label":"Married Jogaila, later Władysław II Jagiełło","labelCn":"与雅盖沃（后来的瓦迪斯瓦夫二世·雅盖沃）成婚","wikiUrl":"https://en.wikipedia.org/wiki/Jadwiga_of_Poland"},
+      {"year":1387,"type":"campaign","tags":["campaign","territory"],"weight":80,"label":"Led the recovery of Red Ruthenia for the Polish crown","labelCn":"领导为波兰王冠收复红鲁塞尼亚","wikiUrl":"https://en.wikipedia.org/wiki/Jadwiga_of_Poland"},
+      {"year":1397,"type":"education","tags":["education","foundation"],"weight":75,"label":"Supported the restoration of the Kraków Studium Generale","labelCn":"支持恢复克拉科夫总学院","wikiUrl":"https://en.wikipedia.org/wiki/Jagiellonian_University"},
+      {"year":1399,"month":7,"day":17,"type":"death","tags":["death","childbirth"],"weight":100,"label":"Died after childbirth at Kraków","labelCn":"在克拉科夫产后逝世","wikiUrl":"https://en.wikipedia.org/wiki/Jadwiga_of_Poland"}
+    ],
+    "wikiUrl":"https://en.wikipedia.org/wiki/Jadwiga_of_Poland", "portraitUrl":"", "sourceUrl":"https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/poland-1569", "sourceNote":"Basic ruling-monarch card; reign, Krewo union and marriage are cross-checked against the cited overview.", "notes":"Jadwiga ruled in her own right and was crowned with the royal title king (rex), not merely as a consort. Her marriage to Jogaila created the dynastic basis of the Polish–Lithuanian union; Jagiełło continued to reign after her death.", "createdDate":"20260827", "createdOrder":25
   }
 ]
